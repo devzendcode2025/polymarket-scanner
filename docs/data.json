@@ -1,21 +1,43 @@
 {
- "ts": 1786661598,
- "stamp": "20260813_225318",
+ "ts": 1786661658,
+ "stamp": "20260813_225418",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7b86130af0e76ad32f2123d62287ad03f55ef72c03723444b9dd56ea22602068",
-   "titulo": "Will Elon Musk post <40 tweets from August 13 to August 15, 2026?",
-   "outcome": "No",
+   "market_id": "0x7ba5d36a6c383dcf42fd7ab2a79bd7247ffe03941776c7f49de0c8a9b001ecec",
+   "titulo": "Map Handicap: IMP (-1.5) vs Isurus (+1.5)",
+   "outcome": "Imperial",
    "side": "BUY",
-   "size": 1103.05,
-   "price": 0.9899129686,
-   "usd": 1091.92,
-   "ts": 1786661328
+   "size": 10000.0,
+   "price": 0.55,
+   "usd": 5500.0,
+   "ts": 1786661629
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x9e6177bb37665f55a3e1cb9bc64f5acb1b5cee6acf5626dc704450e94c12fc58",
+   "titulo": "National Bank Open: Iga Swiatek vs Elena Rybakina",
+   "outcome": "Iga Swiatek",
+   "side": "BUY",
+   "size": 5760.0,
+   "price": 0.8,
+   "usd": 4608.0,
+   "ts": 1786661628
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x2f43f94eb132ff513fbd7055cc2c60034a3da2b6c16359106689715b95387fb7",
+   "titulo": "Cincinnati Open: Cristina Bucsa vs Panna Udvardy",
+   "outcome": "Cristina Bucsa",
+   "side": "SELL",
+   "size": 4508.39,
+   "price": 0.999,
+   "usd": 4503.88,
+   "ts": 1786661616
   }
  ],
- "db_size_mb": 1.26
+ "db_size_mb": 1.33
 }
