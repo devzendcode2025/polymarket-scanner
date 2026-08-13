@@ -1,21 +1,32 @@
 {
- "ts": 1786662498,
- "stamp": "20260813_230818",
+ "ts": 1786662558,
+ "stamp": "20260813_230918",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xacb33346b59a2a3770e2391b7d1b0e77d8dcdcf840a66f5fa01d28db43c4e369",
-   "titulo": "Will Ethereum dip to $1,000 by December 31, 2026?",
-   "outcome": "No",
+   "market_id": "0xa234107f4936dbc781149af2ea2bf6ae6d97451aedc6056b2f24825f7c4a89fc",
+   "titulo": "Will the price of Bitcoin be above $58,000 on August 14?",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 1249.1,
-   "price": 0.9,
-   "usd": 1124.19,
-   "ts": 1786662226
+   "size": 11266.216215,
+   "price": 0.9989999999,
+   "usd": 11254.95,
+   "ts": 1786662526
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x819ebb56b9da357ef0dcc70e5930c0793bc524f0cb09ca608a023875b8eeb510",
+   "titulo": "Brownsburg: Stefan Kozlov vs Harry Wendelken",
+   "outcome": "Harry Wendelken",
+   "side": "BUY",
+   "size": 3594.59,
+   "price": 0.9689546596,
+   "usd": 3482.99,
+   "ts": 1786662526
   }
  ],
- "db_size_mb": 1.45
+ "db_size_mb": 1.51
 }
