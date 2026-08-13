@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Polymarket Scanner — Señales en vivo</title>
+<style>
+  :root {
+    --bg: #0b0e14; --panel: #131722; --card: #1a2030; --line: #232b3d;
+    --text: #e6e9f0; --dim: #8b93a7; --green: #26a69a; --red: #ef5350;
+    --accent: #ffd166; --blue: #4e8cff;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:var(--bg); color:var(--text); font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.5; }
+  .wrap { max-width:1100px; margin:0 auto; padding:20px; }
+
+  /* Header */
+  header { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; padding:18px 0; border-bottom:1px solid var(--line); }
+  .logo { display:flex; align-items:center; gap:10px; font-weight:700; font-size:1.25rem; }
+  .logo .dot { width:12px; height:12px; border-radius:50%; background:var(--green); box-shadow:0 0 12px var(--green); animation:pulse 2s infinite; }
+  @keyframes pulse { 50% { opacity:.4; } }
+  .live { background:rgba(38,166,154,.12); color:var(--green); border:1px solid rgba(38,166,154,.4); padding:4px 12px; border-radius:999px; font-size:.8rem; font-weight:600; }
+  .scan-info { color:var(--dim); font-size:.8rem; text-align:right; }
+
+  /* Stats */
+  .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:14px; margin:22px 0; }
+  .stat { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; }
+  .stat .num { font-size:1.7rem; font-weight:700; }
+  .stat .lbl { color:var(--dim); font-size:.8rem; margin-top:2px; }
+  .stat.green .num { color:var(--green); } .stat.red .num { color:var(--red); } .stat.accent .num { color:var(--accent); } .stat.blue .num { color:var(--blue); }
+
+  /* Panels */
+  .panel { background:var(--card); border:1px solid var(--line); border-radius:12px; margin-bottom:18px; overflow:hidden; }
+  .panel h2 { font-size:1rem; padding:14px 18px; border-bottom:1px solid var(--line); display:flex; justify-content:space-between; align-items:center; }
+  .panel h2 .tag { font-size:.7rem; font-weight:600; padding:3px 10px; border-radius:999px; }
+  .tag.green { background:rgba(38,166,153,.15); color:var(--green); } .tag.red { background:rgba(239,83,80,.15); color:var(--red); } .tag.dim { background:rgba(139,147,167,.12); color:var(--dim); }
+  table { width:100%; border-collapse:collapse; font-size:.88rem; }
+  th { text-align:left; color:var(--dim); font-weight:600; font-size:.75rem; text-transform:uppercase; letter-spacing:.04em; padding:10px 18px; border-bottom:1px solid var(--line); }
+  td { padding:12px 18px; border-bottom:1px solid rgba(35,43,61,.5); }
+  tr:last-child td { border-bottom:none; }
+  tr:hover td { background:rgba(78,140,255,.05); }
+  .buy { color:var(--green); font-weight:700; } .sell { color:var(--red); font-weight:700; }
+  .money { font-weight:600; font-variant-numeric:tabular-nums; }
+  .q { color:var(--dim); font-size:.8rem; }
+  .prob { display:flex; align-items:center; gap:8px; }
+  .prob .bar { flex:1; max-width:140px; height:6px; border-radius:3px; background:#2a3348; overflow:hidden; }
+  .prob .bar span { display:block; height:100%; background:linear-gradient(90deg,var(--red),var(--accent),var(--green)); }
+  .prob .pct { font-weight:600; font-variant-numeric:tabular-nums; width:48px; text-align:right; }
+  .empty { padding:26px 18px; text-align:center; color:var(--dim); font-size:.9rem; }
+
+  /* CTA */
+  .cta { background:linear-gradient(135deg,#1a2030,#14201f); border:1px solid rgba(38,166,153,.35); border-radius:12px; padding:22px; text-align:center; margin:24px 0; }
+  .cta h3 { font-size:1.1rem; margin-bottom:6px; }
+  .cta p { color:var(--dim); font-size:.9rem; margin-bottom:14px; }
+  .cta .btn { display:inline-block; background:var(--green); color:#04110f; font-weight:700; padding:10px 26px; border-radius:8px; text-decoration:none; }
+  footer { text-align:center; color:var(--dim); font-size:.75rem; padding:20px 0 30px; }
+  @media (max-width:640px){ th,td { padding:8px 10px; } .prob .bar { display:none; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="logo"><span class="dot"></span> Polymarket Scanner</div>
+    <div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;">
+      <span class="live">● EN VIVO</span>
+      <div class="scan-info">Último scan: 13 ago 2026, 20:40<br>Datos: APIs públicas de Polymarket</div>
+    </div>
+  </header>
+
+  <div class="stats">
+    <div class="stat blue"><div class="num">200</div><div class="lbl">Mercados monitoreados</div></div>
+    <div class="stat green"><div class="num">5</div><div class="lbl">Ballenas hoy</div></div>
+    <div class="stat accent"><div class="num">$16,018</div><div class="lbl">Volumen de ballenas (24h)</div></div>
+    <div class="stat"><div class="num">0</div><div class="lbl">Mispricings activos</div></div>
+    <div class="stat"><div class="num">0</div><div class="lbl">Alertas de momentum</div></div>
+  </div>
+
+  <div class="panel">
+    <h2>🐋 Movimientos de ballenas <span class="tag green">5 nuevas</span></h2>
+    <table>
+      <thead><tr><th>Dirección</th><th>Monto</th><th>Resultado</th><th>Mercado</th></tr></thead>
+      <tbody>
+        <tr><td class="buy">COMPRA</td><td class="money">$5,890</td><td>Sí · Tatjana Maria</td><td class="q">Cincinnati Open: Tatjana Maria vs Dayana Yastremska</td></tr>
+        <tr><td class="buy">COMPRA</td><td class="money">$5,374</td><td>Sí · Tatjana Maria</td><td class="q">Cincinnati Open: Tatjana Maria vs Dayana Yastremska</td></tr>
+        <tr><td class="buy">COMPRA</td><td class="money">$2,415</td><td>Sí · Titans</td><td class="q">Titans vs. 49ers</td></tr>
+        <tr><td class="buy">COMPRA</td><td class="money">$1,313</td><td>Sí · The Otter Side</td><td class="q">LoL: The Otter Side vs NORTHERNGRADE ESPORTS (BO3)</td></tr>
+        <tr><td class="sell">VENTA</td><td class="money">$1,026</td><td>No · Struff</td><td class="q">Set 1 Winner: Burruchaga vs Struff</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="panel">
+    <h2>🎯 Mispricings detectados (Yes + No ≠ 1) <span class="tag dim">0 activos</span></h2>
+    <div class="empty">Sin ineficiencias en los mercados de alta liquidez en este scan.<br>El barrido de mercados de menor volumen está en desarrollo — ahí aparecen las oportunidades.</div>
+  </div>
+
+  <div class="panel">
+    <h2>📈 Momentum (cambio ≥ 5%) <span class="tag dim">0 alertas</span></h2>
+    <div class="empty">Acumulando historial de precios. Las alertas de momentum se activan desde el segundo scan en adelante.</div>
+  </div>
+
+  <div class="panel">
+    <h2>🔥 Top mercados por volumen <span class="tag dim">actualizado cada scan</span></h2>
+    <table>
+      <thead><tr><th>Mercado</th><th>Sí</th><th>No</th><th>Volumen</th></tr></thead>
+      <tbody>
+        <tr><td class="q">¿Eric Trump gana la nominación republicana 2028?</td><td><div class="prob"><div class="bar"><span style="width:0.4%"></span></div><span class="pct">0.4%</span></div></td><td class="money" style="color:var(--green)">99.7%</td><td class="money">$9,999,186</td></tr>
+        <tr><td class="q">¿El crudo alcanza máximo histórico antes del 30 sep?</td><td><div class="prob"><div class="bar"><span style="width:3.5%"></span></div><span class="pct">3.5%</span></div></td><td class="money" style="color:var(--green)">96.6%</td><td class="money">$999,720</td></tr>
+        <tr><td class="q">¿Israel cierra su espacio aéreo antes del 31 ago?</td><td><div class="prob"><div class="bar"><span style="width:6.5%"></span></div><span class="pct">6.5%</span></div></td><td class="money" style="color:var(--green)">93.5%</td><td class="money">$996,029</td></tr>
+        <tr><td class="q">¿Samuel Alito anuncia su retiro antes del 30 sep 2026?</td><td><div class="prob"><div class="bar"><span style="width:2.3%"></span></div><span class="pct">2.3%</span></div></td><td class="money" style="color:var(--green)">97.7%</td><td class="money">$985,889</td></tr>
+        <tr><td class="q">¿NYSE activa circuit breaker antes de 2027?</td><td><div class="prob"><div class="bar"><span style="width:14.5%"></span></div><span class="pct">14.5%</span></div></td><td class="money" style="color:var(--green)">85.5%</td><td class="money">$99,532</td></tr>
+        <tr><td class="q">¿MicroStrategy recibe margin call en 2026?</td><td><div class="prob"><div class="bar"><span style="width:3.5%"></span></div><span class="pct">3.5%</span></div></td><td class="money" style="color:var(--green)">96.5%</td><td class="money">$99,159</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="cta">
+    <h3>🚀 ¿Quieres estas alertas en tiempo real?</h3>
+    <p>Ballenas, mispricings y momentum directo a tu Telegram. Plan Starter $10/mes · Plan Pro $25/mes.</p>
+    <a class="btn" href="#">Suscribirme — pago en USDC</a>
+  </div>
+
+  <footer>Polymarket Scanner — datos de fuentes públicas. No es asesoría financiera. · Hecho en Nicaragua 🇳🇮</footer>
+</div>
+</body>
+</html>
