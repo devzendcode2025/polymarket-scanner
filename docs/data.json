@@ -1,9 +1,27 @@
 {
- "ts": 1786663578,
- "stamp": "20260813_232618",
+ "ts": 1786663758,
+ "stamp": "20260813_232918",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
- "db_size_mb": 1.71
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x7679a0c496ae65ee807b26b247b9ce16eac8c14d3ee87ec2d5d7ed6bf2ea0bdb",
+   "titulo": "Atlanta Dream vs. Connecticut Sun: O/U 174.5",
+   "slug": "wnba-atl-conn-2026-08-13-total-174pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 3334.386505,
+   "price": 0.5998104884,
+   "usd": 2000.0,
+   "ts": 1786663731,
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wnba-atl-conn-2026-08-13-total-174pt5"
+  }
+ ],
+ "db_size_mb": 1.78
 }
