@@ -107,6 +107,7 @@ def parse_market(m):
             "no": no,
             "sum_price": round(yes + no, 4),
             "spread": round(abs(yes + no - 1.0), 4),
+            "tags": [t.get("label") for t in (m.get("tags") or []) if t.get("label")],
         }
     except (ValueError, TypeError):
         return None

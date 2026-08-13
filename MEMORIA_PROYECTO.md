@@ -2,10 +2,10 @@
 
 ## Estado Actual (vivo)
 
-- **Estado:** Sistema automático COMPLETO — 2026-08-13 22:00: cron scan cada 1 min (job 7a818b7cc17a, script puro), poda de disco activa (snapshots ≥0.5% cambio, TTL 30d, reportes últimos 20), sitio público auto-actualizado (https://devzendcode2025.github.io/polymarket-scanner/), backup diario 03:00 UTC a repo privado polymarket-scanner-data (job e6232106fb87). BD ~0.27 MB.
-- **Decisiones firmes:** NO trading en Polymarket desde Nicaragua (bloqueado); solo APIs públicas read-only; cobros en USDC; español primero, inglés después; stdlib Python sin dependencias; Firebase/cPanel/dominio = fase futura.
-- **Riesgos:** (1) APIs públicas pueden cambiar/limitarse sin aviso; (2) el cuello de botella comercial es la audiencia, no el código; (3) liquidez de Azuro aún no verificada (Fase 4).
-- **Pendientes clave:** (1) confirmar corridas automáticas del cron (primeras 24h); (2) afinar mispricings (barrer menor volumen); (3) on-ramps USDC Nicaragua; (4) validar Azuro; (5) canal público X/Telegram; (6) Firebase/cPanel/dominio (fase futura).
+- **Estado:** Sistema automático COMPLETO + v0.5.0 — 2026-08-13 23:30: cron scan cada 1 min (job 7a818b7cc17a, script puro), poda de disco activa, sitio público auto-actualizado (https://devzendcode2025.github.io/polymarket-scanner/) con FILTRO POR PAÍS (27 LatAm: 23 ✅ ejecutables / 4 🔒 solo datos), LINKS directos a Polymarket en cada señal, y ANALISTA HEURÍSTICO (analyst.py, sin LLM) que asigna prob 0-100 + confianza + horizonte + justificación a cada detección. Backup diario 03:00 UTC a repo privado (job e6232106fb87). BD ~1.7 MB.
+- **Decisiones firmes:** NO trading en Polymarket desde Nicaragua (bloqueado); solo APIs públicas read-only; cobros en USDC; español primero, inglés después; stdlib Python sin dependencias; Firebase/cPanel/dominio = fase futura; analista heurístico primero (gratis) y DeepSeek (clave de Hermes, autorizada) solo en F4 para narrar justificaciones.
+- **Riesgos:** (1) APIs públicas pueden cambiar/limitarse sin aviso; (2) el cuello de botella comercial es la audiencia, no el código; (3) liquidez de Azuro aún no verificada (Fase 4); (4) probabilidades del analista = heurística, no garantía (transparencia en el pie del dashboard).
+- **Pendientes clave:** (1) F3 cross-check fuentes externas (Kalshi/Metaculus/Manifold) → EDGE; (2) F4 analista DeepSeek; (3) F5 piloto Perú; (4) afinar mispricings (menor volumen); (5) on-ramps USDC Nicaragua; (6) validar Azuro; (7) canal X/Telegram.
 - **Última actualización:** 2026-08-13
 
 ---

@@ -20,6 +20,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import polymarket_client as pc  # noqa: E402
 import db as dbmod  # noqa: E402
 import scanner  # noqa: E402
+import analyst  # noqa: E402
 
 PROYECTO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 WORKSPACE = os.path.join(PROYECTO, "workspace")
@@ -80,6 +81,7 @@ def main():
                 "tx_hash": t.get("transactionHash") or f"{t.get('slug')}-{t.get('timestamp')}-{t.get('outcome')}",
                 "market_id": t.get("conditionId"),
                 "title": t.get("title"),
+                "slug": t.get("slug"),
                 "outcome": t.get("outcome"),
                 "side": t.get("side"),
                 "size": size,
@@ -93,8 +95,23 @@ def main():
     whales = scanner.detect_whales(norm_trades)
     print(f"  Ballenas (trades >= $1k): {len(whales)}")
 
+    # Enriquecer ballenas con volumen/tags del mercado (para el analista y el filtro por pais)
+    markets_by_cond = {m["condition_id"]: m for m in markets if m.get("condition_id")}
+    for w in whales:
+        m = markets_by_cond.get(w.get("market_id"))
+        if m is None and w.get("slug"):
+            m = next((x for x in markets if x.get("slug") == w["slug"]), None)
+        if m:
+            w["volumen_mercado"] = m["volume"]
+            w.setdefault("slug", m.get("slug"))
+            w.setdefault("tags", m.get("tags") or [])
+
     momentum = scanner.detect_momentum(markets, lambda mid: dbmod.last_snapshot(conn, mid))
     print(f"  Momentum (>=5% vs scan anterior): {len(momentum)}")
+
+    # 3b. Analista heuristico: probabilidad + confianza + horizonte + justificacion
+    mispricings, whales, momentum = analyst.enrich(mispricings, whales, momentum)
+    print(f"  Analisis: {sum(1 for d in mispricings + whales + momentum if d.get('confianza') == 'alta')} senales de confianza alta")
 
     # 4. Reporte
     report = {
@@ -123,14 +140,17 @@ def main():
         f.write("=== MISPRICINGS ===\n")
         for d in mispricings[:10]:
             f.write(f"  {d['question']}\n    Yes {d['yes']} + No {d['no']} = {d['sum']} "
-                    f"(desvio {d['desvio']}) -> {d['direccion']} | vol ${d['volumen']:,.0f}\n")
+                    f"(desvio {d['desvio']}) -> {d['direccion']} | vol ${d['volumen']:,.0f}\n"
+                    f"    Prob {d['prob']}% ({d['confianza']}, {d['horizonte']}) | {d['url']}\n")
         f.write("\n=== BALLENAS ===\n")
         for d in whales[:10]:
-            f.write(f"  {d['side']} ${d['usd']:,.0f} en '{d['outcome']}' - {d['titulo']}\n")
+            f.write(f"  {d['side']} ${d['usd']:,.0f} en '{d['outcome']}' - {d['titulo']} "
+                    f"| prob {d['prob']}% ({d['confianza']}, {d['horizonte']}) | {d['url']}\n")
         f.write("\n=== MOMENTUM ===\n")
         for d in momentum[:10]:
             f.write(f"  {d['direccion']} {d['cambio_pct']}% -> '{d['question']}' "
-                    f"(yes {d['yes_antes']} -> {d['yes_ahora']})\n")
+                    f"(yes {d['yes_antes']} -> {d['yes_ahora']}) "
+                    f"| prob {d['prob']}% ({d['confianza']}, {d['horizonte']}) | {d['url']}\n")
 
     dbmod.log_scan(conn, len(markets), len(mispricings) + len(whales) + len(momentum),
                    scanner.build_summary(markets, mispricings, whales, momentum))

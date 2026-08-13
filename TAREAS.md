@@ -17,6 +17,9 @@
 - [x] Cron cada 1 minuto (job polymarket-scan-1min, script puro sin LLM, silencioso)
 - [x] Poda de disco: snapshots solo con cambio ≥0.5%, TTL 30 días, reportes últimos 20 (~1-3 MB/día)
 - [x] Backup diario comprimido a repo privado polymarket-scanner-data (job polymarket-backup-diario, 03:00 UTC)
+- [x] LINKS DIRECTOS a Polymarket en cada señal/mercado del dashboard (F1, v0.5.0)
+- [x] FILTRO POR PAÍS LatAm en el dashboard: 23 ✅ ejecutables / 4 🔒 solo datos (F1, v0.5.0)
+- [x] ANALISTA HEURÍSTICO: prob 0-100 + confianza + horizonte + justificación por señal, sin LLM (F2, v0.5.0)
 - [ ] Afinar mispricings: barrer mercados de menor volumen / bajar umbral (los top-200 líquidos son eficientes)
 
 ## Fase 2 — Backtest de estrategias
@@ -31,6 +34,9 @@
 - [x] DASHBOARD DINÁMICO (v0.4.0): app JS consulta las APIs de Polymarket EN VIVO desde el navegador (ballenas vía Data API, top mercados vía Gamma — CORS verificado) + data.json del pipeline (mispricings/momentum) + auto-refresh 60s + hora Nicaragua
 - [x] Generador: render_dashboard.py → docs/data.json (detecciones del último scan); docs/index.html = app fija con JS
 - [x] Sitio se auto-actualiza: cron 1/min → render → push condicional (detecciones o ≥6 min; límite Pages ~10 builds/h)
+- [ ] CROSS-CHECK DE PROBABILIDADES (F3): fuentes externas públicas (Kalshi/Metaculus/Manifold) → EDGE = "datos ganadores" (Polymarket vs consenso externo, umbral sugerido 8 pts)
+- [ ] ANALISTA DEEPSEEK (F4): justificaciones narradas en español con el edge real (clave de Hermes ya autorizada; top-5 señales, cron 30-60 min)
+- [ ] PILOTO POR PAÍS (F5): verificación en vivo con Perú + ajustes
 - [ ] Firebase Firestore + dominio propio + cPanel: FASE FUTURA (usuario decidió dejarlo para adelante; el HTML estático migra sin cambios)
 - [ ] Canal Telegram público (detecciones gratis)
 - [ ] Canal Telegram pago: alertas ballenas $10/mes, scanner $20/mes, combo $25/mes (pago en USDC)

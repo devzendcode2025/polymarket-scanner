@@ -1,5 +1,11 @@
 # CHAT_RESUMEN — polymarket-scanner
 
+### 2026-08-13 [23:30] — v0.5.0: Links directos + filtro por país + analista heurístico (F1+F2)
+- **Petición:** funcionalidades: (1) filtrar por país (ej. Perú) y ver mercados ejecutables; (2) cada señal con justificación + probabilidad de que funcione ("datos ganadores"); (3) links directos a Polymarket. Usuario aprobó Opción 2 (F1+F2). DeepSeek (misma clave de Hermes) autorizada pero queda para F4.
+- **Acciones:** polymarket_client.parse_market ahora captura tags de Gamma; scanner.py agrega slug/tags a mispricings/momentum/ballenas; NUEVO analyst.py (heurístico puro, sin LLM): prob 0-100 + confianza (alta/media/baja) + horizonte (24h/72h) + razón numérica por señal; run_scan enriquece ballenas con volumen del mercado (match conditionId + slug) y aplica analyst; dashboard reescrito: selector de 27 países LatAm (23 ✅ ejecutables / 4 🔒 solo datos: Brasil, Cuba, Nicaragua, Venezuela), filtro por tags+keywords en ballenas en vivo/top/mispricings/momentum, botón "Abrir ↗" en cada fila y tarjeta, tarjetas de señal con barra de probabilidad + confianza + horizonte + justificación. Template canónico sigue en workspace/web/dashboard.html (el cron lo copia a docs/).
+- **Resultado:** py_compile + node --check OK; scan real OK (ballenas enriquecidas: BUY $4,137 → prob 58% media 24h + URL); reglas calibradas (mispricing desvío 0.04 → 91% alta; momentum 12.5% → 62% media). run-all.sh verde tras commit.
+- **Pendientes:** F3 cross-check fuentes externas (Kalshi/Metaculus/Manifold) → EDGE "datos ganadores"; F4 DeepSeek narrando justificaciones; F5 piloto por país; afinar mispricings; on-ramps USDC; validar Azuro; canal X/Telegram.
+
 ### 2026-08-13 [22:35] — Dashboard DINÁMICO (v0.4.0)
 - **Petición:** "necesitas mostrar esos datos dinámicamente en la página html, sino para qué sirve. Hazlo."
 - **Acciones:** verificado CORS de las APIs de Polymarket (Access-Control-Allow-Origin: * en gamma/data/clob). Reescribido docs/index.html como app JS: fetch EN VIVO a Data API (ballenas ≥ $1k, top 10) y Gamma API (top 10 mercados por volumen) directo desde el navegador + data.json (detecciones del pipeline: mispricings/momentum) + auto-refresh 60s + reloj "hace Xs" + hora Nicaragua (America/Managua). render_dashboard.py simplificado → solo genera docs/data.json. cron_scan.sh añade cp del template a docs/.

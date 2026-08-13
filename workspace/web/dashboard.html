@@ -19,6 +19,10 @@
   @keyframes pulse { 50% { opacity:.4; } }
   .live { background:rgba(38,166,154,.12); color:var(--green); border:1px solid rgba(38,166,154,.4); padding:4px 12px; border-radius:999px; font-size:.8rem; font-weight:600; }
   .scan-info { color:var(--dim); font-size:.8rem; text-align:right; }
+  .paisbar { display:flex; align-items:center; gap:12px; flex-wrap:wrap; background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:12px 16px; margin:18px 0; }
+  .paisbar label { font-size:.85rem; color:var(--dim); font-weight:600; }
+  .paisbar select { background:#0f1420; color:var(--text); border:1px solid var(--line); border-radius:8px; padding:8px 12px; font-size:.9rem; }
+  .paisbar select:focus { outline:none; border-color:var(--blue); }
   .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:14px; margin:22px 0; }
   .stat { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; }
   .stat .num { font-size:1.7rem; font-weight:700; }
@@ -27,10 +31,10 @@
   .panel { background:var(--card); border:1px solid var(--line); border-radius:12px; margin-bottom:18px; overflow:hidden; }
   .panel h2 { font-size:1rem; padding:14px 18px; border-bottom:1px solid var(--line); display:flex; justify-content:space-between; align-items:center; }
   .panel h2 .tag { font-size:.7rem; font-weight:600; padding:3px 10px; border-radius:999px; }
-  .tag.green { background:rgba(38,166,153,.15); color:var(--green); } .tag.red { background:rgba(239,83,80,.15); color:var(--red); } .tag.dim { background:rgba(139,147,167,.12); color:var(--dim); }
+  .tag.green { background:rgba(38,166,153,.15); color:var(--green); } .tag.red { background:rgba(239,83,80,.15); color:var(--red); } .tag.dim { background:rgba(139,147,167,.12); color:var(--dim); } .tag.accent { background:rgba(255,209,102,.15); color:var(--accent); }
   table { width:100%; border-collapse:collapse; font-size:.88rem; }
   th { text-align:left; color:var(--dim); font-weight:600; font-size:.75rem; text-transform:uppercase; letter-spacing:.04em; padding:10px 18px; border-bottom:1px solid var(--line); }
-  td { padding:12px 18px; border-bottom:1px solid rgba(35,43,61,.5); }
+  td { padding:12px 18px; border-bottom:1px solid rgba(35,43,61,.5); vertical-align:middle; }
   tr:last-child td { border-bottom:none; }
   tr:hover td { background:rgba(78,140,255,.05); }
   .buy { color:var(--green); font-weight:700; } .sell { color:var(--red); font-weight:700; }
@@ -40,6 +44,21 @@
   .prob .bar { flex:1; max-width:140px; height:6px; border-radius:3px; background:#2a3348; overflow:hidden; }
   .prob .bar span { display:block; height:100%; background:linear-gradient(90deg,var(--red),var(--accent),var(--green)); }
   .prob .pct { font-weight:600; font-variant-numeric:tabular-nums; width:48px; text-align:right; }
+  .pmlink { display:inline-block; background:rgba(78,140,255,.12); color:var(--blue); border:1px solid rgba(78,140,255,.35); border-radius:6px; padding:4px 10px; font-size:.75rem; font-weight:600; text-decoration:none; white-space:nowrap; }
+  .pmlink:hover { background:rgba(78,140,255,.25); }
+  .badge { display:inline-block; font-size:.7rem; font-weight:600; padding:3px 10px; border-radius:999px; }
+  .badge.conf-alta { background:rgba(38,166,153,.15); color:var(--green); }
+  .badge.conf-media { background:rgba(255,209,102,.15); color:var(--accent); }
+  .badge.conf-baja { background:rgba(139,147,167,.12); color:var(--dim); }
+  .badge.hor { background:rgba(78,140,255,.12); color:var(--blue); }
+  .sig { border:1px solid var(--line); border-radius:10px; margin:10px 16px; padding:14px 16px; background:#161c2b; }
+  .sig-head { display:flex; align-items:flex-start; gap:10px; flex-wrap:wrap; }
+  .sig-type { font-size:.72rem; font-weight:700; padding:3px 10px; border-radius:999px; background:rgba(255,209,102,.12); color:var(--accent); white-space:nowrap; }
+  .sig-q { flex:1; font-weight:600; font-size:.92rem; }
+  .sig-meta { display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-top:10px; }
+  .sig-meta .prob.big .bar { max-width:220px; height:10px; }
+  .sig-meta .prob.big .pct { font-size:1.05rem; font-weight:700; }
+  .sig-razon { color:var(--dim); font-size:.82rem; margin-top:10px; border-left:3px solid var(--line); padding-left:10px; }
   .empty { padding:26px 18px; text-align:center; color:var(--dim); font-size:.9rem; }
   .error { padding:18px; text-align:center; color:var(--red); font-size:.85rem; }
   .cta { background:linear-gradient(135deg,#1a2030,#14201f); border:1px solid rgba(38,166,153,.35); border-radius:12px; padding:22px; text-align:center; margin:24px 0; }
@@ -47,7 +66,7 @@
   .cta p { color:var(--dim); font-size:.9rem; margin-bottom:14px; }
   .cta .btn { display:inline-block; background:var(--green); color:#04110f; font-weight:700; padding:10px 26px; border-radius:8px; text-decoration:none; }
   footer { text-align:center; color:var(--dim); font-size:.75rem; padding:20px 0 30px; }
-  @media (max-width:640px){ th,td { padding:8px 10px; } .prob .bar { display:none; } }
+  @media (max-width:640px){ th,td { padding:8px 10px; } .prob .bar { display:none; } .sig-head { flex-direction:column; } }
 </style>
 </head>
 <body>
@@ -60,6 +79,12 @@
       <div class="scan-info">Actualizado: <span id="lastUpd">cargando…</span><br>Fuente: APIs públicas de Polymarket</div>
     </div>
   </header>
+
+  <div class="paisbar">
+    <label>🌎 Filtrar por país:</label>
+    <select id="paisSelect"></select>
+    <span id="paisStatus" class="tag dim">Todos los mercados</span>
+  </div>
 
   <div class="stats" id="stats">
     <div class="stat blue"><div class="num">—</div><div class="lbl">Mercados monitoreados</div></div>
@@ -95,7 +120,7 @@
     <a class="btn" href="#">Suscribirme — pago en USDC</a>
   </div>
 
-  <footer>Polymarket Scanner — datos de fuentes públicas. No es asesoría financiera. · Hecho en Nicaragua 🇳🇮</footer>
+  <footer>Polymarket Scanner — datos de fuentes públicas. Las probabilidades son estimaciones del modelo heurístico, no asesoría financiera. · Hecho en Nicaragua 🇳🇮</footer>
 </div>
 
 <script>
@@ -106,6 +131,41 @@ const REFRESH_MS = 60000;          // auto-refresh cada 60s
 const WHALE_MIN = 1000;            // umbral de ballena en USD
 const TZ = { timeZone: "America/Managua" };
 
+// Países de Latinoamérica: tags de Polymarket + palabras clave del título.
+// ejecutable=true -> el país PUEDE operar en Polymarket (23 habilitados).
+// ejecutable=false -> bloqueado para trading (Brasil, Cuba, Nicaragua, Venezuela): solo datos.
+const PAISES = {
+  "peru":        { n:"Perú",               tags:["peru"],                      kw:["peru","perú","lima","boluarte"], e:true },
+  "mexico":      { n:"México",             tags:["mexico","mexican"],           kw:["méxico","mexico","sheinbaum","amlo","cdmx"], e:true },
+  "argentina":   { n:"Argentina",          tags:["argentina","argentine"],      kw:["argentina","milei","buenos aires"], e:true },
+  "colombia":    { n:"Colombia",           tags:["colombia","colombian"],       kw:["colombia","gustavo petro","bogotá","bogota"], e:true },
+  "chile":       { n:"Chile",              tags:["chile","chilean"],            kw:["chile","boric","santiago de chile"], e:true },
+  "ecuador":     { n:"Ecuador",            tags:["ecuador"],                    kw:["ecuador","noboa","quito","guayaquil"], e:true },
+  "bolivia":     { n:"Bolivia",            tags:["bolivia"],                    kw:["bolivia","luis arce"], e:true },
+  "paraguay":    { n:"Paraguay",           tags:["paraguay"],                   kw:["paraguay","asunción","asuncion"], e:true },
+  "uruguay":     { n:"Uruguay",            tags:["uruguay"],                    kw:["uruguay","montevideo"], e:true },
+  "panama":      { n:"Panamá",             tags:["panama"],                     kw:["panamá","panama","canal de panama","canal de panamá","cortizo","mulino"], e:true },
+  "costa-rica":  { n:"Costa Rica",         tags:["costa rica"],                 kw:["costa rica","chaves"], e:true },
+  "guatemala":   { n:"Guatemala",          tags:["guatemala"],                  kw:["guatemala","arevalo"], e:true },
+  "honduras":    { n:"Honduras",           tags:["honduras"],                   kw:["honduras","xiomara"], e:true },
+  "el-salvador": { n:"El Salvador",        tags:["el salvador"],                kw:["el salvador","bukele"], e:true },
+  "rd":          { n:"Rep. Dominicana",    tags:["dominican republic","dominican"], kw:["dominican republic","república dominicana","republica dominicana","abinader","santo domingo"], e:true },
+  "belice":      { n:"Belice",             tags:["belize"],                     kw:["belice","belize"], e:true },
+  "bahamas":     { n:"Bahamas",            tags:["bahamas"],                    kw:["bahamas"], e:true },
+  "barbados":    { n:"Barbados",           tags:["barbados"],                   kw:["barbados"], e:true },
+  "jamaica":     { n:"Jamaica",            tags:["jamaica"],                    kw:["jamaica"], e:true },
+  "trinidad":    { n:"Trinidad y Tobago",  tags:["trinidad and tobago","trinidad"], kw:["trinidad","tobago"], e:true },
+  "haiti":       { n:"Haití",              tags:["haiti"],                      kw:["haití","haiti"], e:true },
+  "guyana":      { n:"Guyana",             tags:["guyana"],                     kw:["guyana"], e:true },
+  "surinam":     { n:"Surinam",            tags:["suriname","surinam"],         kw:["surinam","suriname"], e:true },
+  "brasil":      { n:"Brasil",             tags:["brazil","brasil"],            kw:["brasil","brazil","lula","bolsonaro"], e:false },
+  "cuba":        { n:"Cuba",               tags:["cuba"],                       kw:["cuba","havana","la habana"], e:false },
+  "nicaragua":   { n:"Nicaragua",          tags:["nicaragua"],                  kw:["nicaragua","ortega","managua"], e:false },
+  "venezuela":   { n:"Venezuela",          tags:["venezuela"],                  kw:["venezuela","maduro","caracas"], e:false },
+};
+
+let paisActual = "todos";
+
 function esc(s){ return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
 function money(n){ return "$" + Math.round(Number(n) || 0).toLocaleString("en-US"); }
 function fmtTS(ts){ try { return new Date(ts*1000).toLocaleString("es-NI", {...TZ, day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"}); } catch(e){ return new Date(ts*1000).toLocaleString(); } }
@@ -113,12 +173,52 @@ function nowStr(){ return new Date().toLocaleString("es-NI", {...TZ, hour:"2-dig
 function tag(id, n, green){ const el = document.getElementById(id); el.className = "tag " + (n>0 ? "green" : "dim"); el.textContent = n>0 ? n + " activa(s)" : "0"; }
 function emptyBox(msg){ return '<div class="empty">' + esc(msg) + '</div>'; }
 function errBox(e){ return '<div class="error">⚠️ ' + esc(e.message || e) + '</div>'; }
+function linkBtn(url){ return url ? "<a class='pmlink' target='_blank' rel='noopener' href='" + esc(url) + "'>Abrir ↗</a>" : ""; }
+function badgeConf(c){ return "<span class='badge conf-" + esc(c) + "'>Confianza " + esc(c) + "</span>"; }
+function probBar(prob){
+  const p = Math.max(2, Math.min(100, Number(prob) || 0));
+  const col = p >= 70 ? "var(--green)" : (p >= 55 ? "var(--accent)" : "var(--red)");
+  return "<div class='prob'><div class='bar'><span style='width:" + p + "%;background:" + col + "'></span></div><span class='pct' style='color:" + col + "'>" + p + "%</span></div>";
+}
 
 async function getJSON(url){
   const r = await fetch(url, { headers: { "Accept": "application/json" } });
   if (!r.ok) throw new Error("HTTP " + r.status + " en " + url);
   return r.json();
 }
+
+// --- Filtro por país (tags + palabras clave del título) ---
+function matchPais(question, tags){
+  if (paisActual === "todos") return true;
+  const p = PAISES[paisActual];
+  const txt = String(question || "").toLowerCase();
+  const tgs = (tags || []).map(t => String(typeof t === "string" ? t : (t.label || t.slug || "")).toLowerCase());
+  if (p.tags.some(t => tgs.includes(t))) return true;
+  return p.kw.some(k => txt.includes(k));
+}
+function tagNormalize(t){ return typeof t === "string" ? t : (t && (t.label || t.slug) || ""); }
+
+// Selector de países
+(function buildPaisSelect(){
+  const sel = document.getElementById("paisSelect");
+  let opts = "<option value='todos'>🌎 Todos los mercados</option>";
+  for (const [id, p] of Object.entries(PAISES)){
+    opts += "<option value='" + id + "'>" + (p.e ? "✅ " : "🔒 ") + p.n + (p.e ? "" : " (solo datos)") + "</option>";
+  }
+  sel.innerHTML = opts;
+  sel.addEventListener("change", () => {
+    paisActual = sel.value;
+    const st = document.getElementById("paisStatus");
+    if (paisActual === "todos"){
+      st.className = "tag dim"; st.textContent = "Todos los mercados";
+    } else {
+      const p = PAISES[paisActual];
+      st.className = "tag " + (p.e ? "green" : "red");
+      st.textContent = p.n + " — " + (p.e ? "EJECUTABLE (puede operar)" : "SOLO DATOS (bloqueado para trading)");
+    }
+    load();
+  });
+})();
 
 // --- Ballenas en vivo desde la Data API ---
 async function loadWhales(){
@@ -128,77 +228,105 @@ async function loadWhales(){
   for (const t of trades){
     const size = Number(t.size) || 0, price = Number(t.price) || 0;
     const usd = size * price;
-    if (usd >= WHALE_MIN){
-      whales.push({ side: t.side, usd, outcome: t.outcome, title: t.title, ts: t.timestamp });
+    if (usd >= WHALE_MIN && matchPais(t.title, [t.slug])){
+      whales.push({ side: t.side, usd, outcome: t.outcome, title: t.title, ts: t.timestamp, slug: t.slug });
     }
   }
   whales.sort((a,b) => b.usd - a.usd);
   const top = whales.slice(0, 10);
-  const total = whales.reduce((s,w) => s + w.usd, 0);
   document.getElementById("whaleTag").className = "tag " + (top.length ? "green" : "dim");
   document.getElementById("whaleTag").textContent = top.length ? top.length + " ahora" : "0";
-  if (!top.length){ box.innerHTML = emptyBox("Sin trades ≥ $" + WHALE_MIN.toLocaleString("en-US") + " en la ventana actual."); return; }
+  if (!top.length){
+    box.innerHTML = emptyBox(paisActual === "todos"
+      ? "Sin trades ≥ $" + WHALE_MIN.toLocaleString("en-US") + " en la ventana actual."
+      : "Sin ballenas ≥ $" + WHALE_MIN.toLocaleString("en-US") + " para " + PAISES[paisActual].n + " en la ventana actual.");
+    return;
+  }
   let rows = "";
   for (const w of top){
     const cls = String(w.side).toUpperCase() === "BUY" ? "buy" : "sell";
     const lbl = cls === "buy" ? "COMPRA" : "VENTA";
+    // Heurística simple en vivo (equivalente a la del pipeline)
+    const prob = Math.max(52, Math.min(70, 52 + w.usd / 1000 * 1.5));
+    const conf = w.usd >= 5000 ? "alta" : (w.usd >= 2000 ? "media" : "baja");
+    const url = w.slug ? "https://polymarket.com/market/" + esc(w.slug) : "";
     rows += "<tr><td class='" + cls + "'>" + lbl + "</td><td class='money'>" + money(w.usd) +
-            "</td><td>" + esc(w.outcome) + "</td><td class='q'>" + esc(w.title) + "</td></tr>";
+            "</td><td>" + esc(w.outcome) + "</td><td class='q'>" + esc(w.title) + "</td>" +
+            "<td>" + probBar(Math.round(prob)) + " " + badgeConf(conf) + "</td>" +
+            "<td>" + linkBtn(url) + "</td></tr>";
   }
-  box.innerHTML = "<table><thead><tr><th>Dirección</th><th>Monto</th><th>Resultado</th><th>Mercado</th></tr></thead><tbody>" + rows + "</tbody></table>";
-  return total;
+  box.innerHTML = "<table><thead><tr><th>Dirección</th><th>Monto</th><th>Resultado</th><th>Mercado</th><th>Prob. estimada</th><th>Polymarket</th></tr></thead><tbody>" + rows + "</tbody></table>";
+  return whales.reduce((s,w) => s + w.usd, 0);
 }
 
 // --- Top mercados en vivo desde la Gamma API ---
 async function loadTop(){
   const box = document.getElementById("top");
-  const mkts = await getJSON(GAMMA + "/markets?limit=10&active=true&closed=false&order=volume&ascending=false");
-  if (!mkts.length){ box.innerHTML = emptyBox("Sin mercados."); return; }
+  const mkts = await getJSON(GAMMA + "/markets?limit=50&active=true&closed=false&order=volume&ascending=false");
+  const filt = mkts.filter(m => matchPais(m.question, m.tags));
+  filt.sort((a,b) => (Number(b.volume)||0) - (Number(a.volume)||0));
+  const top = filt.slice(0, 10);
+  if (!top.length){
+    box.innerHTML = emptyBox(paisActual === "todos" ? "Sin mercados." : "Sin mercados de " + PAISES[paisActual].n + " en el top por volumen. Probá otro país.");
+    return;
+  }
   let rows = "";
-  for (const m of mkts){
+  for (const m of top){
     let prices = [];
     try { prices = JSON.parse(m.outcomePrices || "[]"); } catch(e){}
     const yes = Number(prices[0]) || 0;
     const pct = Math.max(0.3, Math.min(100, yes*100));
+    const url = m.slug ? "https://polymarket.com/market/" + esc(m.slug) : "";
     rows += "<tr><td class='q'>" + esc(m.question) + "</td>" +
             "<td><div class='prob'><div class='bar'><span style='width:" + pct.toFixed(1) + "%'></span></div>" +
             "<span class='pct'>" + (yes*100).toFixed(1) + "%</span></div></td>" +
             "<td class='money' style='color:var(--green)'>" + ((1-yes)*100).toFixed(1) + "%</td>" +
-            "<td class='money'>" + money(m.volume) + "</td></tr>";
+            "<td class='money'>" + money(m.volume) + "</td>" +
+            "<td>" + linkBtn(url) + "</td></tr>";
   }
-  box.innerHTML = "<table><thead><tr><th>Mercado</th><th>Sí</th><th>No</th><th>Volumen</th></tr></thead><tbody>" + rows + "</tbody></table>";
+  box.innerHTML = "<table><thead><tr><th>Mercado</th><th>Sí</th><th>No</th><th>Volumen</th><th>Polymarket</th></tr></thead><tbody>" + rows + "</tbody></table>";
+}
+
+// --- Tarjetas de señal del pipeline (data.json): justificación + probabilidad ---
+function signalCards(list, tipo){
+  if (!list.length) return "";
+  let out = "";
+  for (const d of list.slice(0, 10)){
+    const extra = (d.tipo === "mispricing")
+      ? "Yes " + d.yes + " + No " + d.no + " = " + d.sum + " · " + esc(d.direccion)
+      : "Yes " + d.yes_antes + " → " + d.yes_ahora;
+    out += "<div class='sig'><div class='sig-head'>" +
+           "<span class='sig-type'>" + esc(tipo) + "</span>" +
+           "<span class='sig-q'>" + esc(d.question || d.titulo) + "</span>" +
+           linkBtn(d.url) + "</div>" +
+           "<div class='sig-meta'>" + probBar(d.prob) + badgeConf(d.confianza) +
+           "<span class='badge hor'>Horizonte " + esc(d.horizonte) + "</span>" +
+           "<span class='badge dim'>" + extra + "</span></div>" +
+           "<div class='sig-razon'>💡 " + esc(d.razon) + "</div></div>";
+  }
+  return out;
 }
 
 // --- Detecciones del pipeline (data.json, generado por nuestro cron) ---
 async function loadPipeline(){
   const r = await getJSON("data.json");
-  const misp = r.mispricings || [], mom = r.momentum || [];
+  const misp = (r.mispricings || []).filter(d => matchPais(d.question, d.tags));
+  const mom  = (r.momentum || []).filter(d => matchPais(d.question, d.tags));
+  const ball = (r.ballenas_scan || []).filter(d => matchPais(d.titulo, d.tags));
   tag("mispTag", misp.length); tag("momTag", mom.length);
 
   const mb = document.getElementById("misp");
   if (!misp.length){
     mb.innerHTML = emptyBox("Sin ineficiencias en los mercados de alta liquidez. El barrido de menor volumen está en desarrollo.");
   } else {
-    let rows = "";
-    for (const d of misp.slice(0,10)){
-      rows += "<tr><td class='q'>" + esc(d.question) + "</td><td class='money'>" + d.yes +
-              "</td><td class='money'>" + d.no + "</td><td class='money'>" + d.sum +
-              "</td><td style='color:var(--accent)'>" + esc(d.direccion) + "</td></tr>";
-    }
-    mb.innerHTML = "<table><thead><tr><th>Mercado</th><th>Sí</th><th>No</th><th>Suma</th><th>Oportunidad</th></tr></thead><tbody>" + rows + "</tbody></table>";
+    mb.innerHTML = signalCards(misp, "🎯 Mispricing");
   }
 
   const mo = document.getElementById("mom");
   if (!mom.length){
     mo.innerHTML = emptyBox("Acumulando historial de precios. Las alertas aparecen cuando un precio se mueve ≥ 5% entre scans.");
   } else {
-    let rows = "";
-    for (const d of mom.slice(0,10)){
-      const cls = d.direccion === "SUBIDA" ? "buy" : "sell";
-      rows += "<tr><td class='" + cls + "'>" + esc(d.direccion) + "</td><td class='money'>" + d.cambio_pct +
-              "%</td><td class='q'>" + esc(d.question) + "</td><td class='money'>" + d.yes_antes + " → " + d.yes_ahora + "</td></tr>";
-    }
-    mo.innerHTML = "<table><thead><tr><th>Dirección</th><th>Cambio</th><th>Mercado</th><th>Prob. Sí</th></tr></thead><tbody>" + rows + "</tbody></table>";
+    mo.innerHTML = signalCards(mom, "📈 Momentum");
   }
   return r;
 }
@@ -213,13 +341,14 @@ function tickClock(){
 
 async function load(){
   try {
-    const [, , pipe] = await Promise.allSettled([loadWhales(), loadTop(), loadPipeline()]);
+    const [w, , pipe] = await Promise.allSettled([loadWhales(), loadTop(), loadPipeline()]);
     // stats
     let mercados = "—", whaleN = "—", whaleUSD = "—", mispN = "—", momN = "—";
+    if (w.status === "fulfilled") whaleUSD = money(w.value || 0);
     if (pipe.status === "fulfilled" && pipe.value){
       mercados = pipe.value.mercados ?? "—";
-      mispN = (pipe.value.mispricings || []).length;
-      momN = (pipe.value.momentum || []).length;
+      mispN = (pipe.value.mispricings || []).filter(d => matchPais(d.question, d.tags)).length;
+      momN = (pipe.value.momentum || []).filter(d => matchPais(d.question, d.tags)).length;
     }
     const stats = [
       ['class="stat blue"', mercados, "Mercados monitoreados"],
