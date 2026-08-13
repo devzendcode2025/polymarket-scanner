@@ -1,5 +1,11 @@
 # CHAT_RESUMEN — polymarket-scanner
 
+### 2026-08-13 [21:20] — Runner canónico de verificación
+- **Petición:** tracker de verificación marcó unverified tras editar .gitignore (script temporal eliminado = sin evidencia persistente).
+- **Acciones:** persistidos los checks como regresión en verificacion/ (run-all.sh = py_compile + verify_gitignore.sh); primera corrida falló (verificacion/ sin versionar → tree sucio), se versionó (v0.1.1) y la corrida quedó en verde; VERIFICACION.md con evidencia.
+- **Resultado:** verificacion/run-all.sh → TODO OK (exit 0). Commits v0.1.1 (+v0.1.2 pendiente con este registro).
+- **Pendientes:** sin cambios respecto a los anteriores (token GitHub, publicación Pages, generador, cron).
+
 ### 2026-08-13 [21:05] — Mockup del dashboard web
 - **Petición:** "Necesitamos un sitio web, como van a ver los datos los clientes."
 - **Acciones:** extraídos datos reales del último scan (top volumen, ballenas); creado mockup visual autocontenido dark-theme en workspace/web/dashboard.html (stats, ballenas, mispricings, momentum, top volumen, CTA de suscripción).

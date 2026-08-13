@@ -8,6 +8,7 @@
 - [ ] Validar Azuro a fondo: mercados, liquidez real, fondeo, fees, gas
 
 ## Fase 1 — Pipeline de datos (en curso)
+- [x] Runner canónico de verificación (verificacion/run-all.sh + VERIFICACION.md) — verde desde v0.1.1
 - [x] Scaffolding del proyecto + archivos de control
 - [x] Cliente de APIs (Gamma / CLOB / Data) con retries
 - [x] Base SQLite (markets, price_snapshots, trades, scans)
