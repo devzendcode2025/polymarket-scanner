@@ -1,0 +1,8 @@
+# Datos y reportes generados (se regeneran en cada scan)
+workspace/data/
+workspace/reports/
+__pycache__/
+*.pyc
+
+# Secretos
+.env
