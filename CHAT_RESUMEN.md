@@ -1,5 +1,11 @@
 # CHAT_RESUMEN — polymarket-scanner
 
+### 2026-08-13 [22:35] — Dashboard DINÁMICO (v0.4.0)
+- **Petición:** "necesitas mostrar esos datos dinámicamente en la página html, sino para qué sirve. Hazlo."
+- **Acciones:** verificado CORS de las APIs de Polymarket (Access-Control-Allow-Origin: * en gamma/data/clob). Reescribido docs/index.html como app JS: fetch EN VIVO a Data API (ballenas ≥ $1k, top 10) y Gamma API (top 10 mercados por volumen) directo desde el navegador + data.json (detecciones del pipeline: mispricings/momentum) + auto-refresh 60s + reloj "hace Xs" + hora Nicaragua (America/Managua). render_dashboard.py simplificado → solo genera docs/data.json. cron_scan.sh añade cp del template a docs/.
+- **Resultado:** sitio verificado en línea con la app nueva (intento 4 del rebuild); data.json servido con CORS *; JS validado con node --check; cron automático ya regenera data.json (stamp 22:31). Commits v0.4.0.
+- **Pendientes:** confirmar visual del usuario en navegador; afinar mispricings; canal X/Telegram; Firebase/cPanel/dominio (fase futura).
+
 ### 2026-08-13 [22:00] — Automatización completa: cron 1/min + poda + backup
 - **Petición:** scan cada 1 minuto sin llenar el disco; evaluar GitHub/Firebase para datos. Decisión: Firebase/cPanel/dominio = fase futura; ahora diseño A.
 - **Acciones:** run_scan.py con --quiet + snapshots filtrados (≥0.5% de cambio) + poda TTL 30d + reportes últimos 20 + tamaño BD en reporte. render_dashboard.py genera docs/index.html (hora Nicaragua). cron_scan.sh (scan→render→push condicional: detecciones o ≥6 min). backup_daily.sh → repo privado polymarket-scanner-data (backup sqlite + gzip + poda 30).

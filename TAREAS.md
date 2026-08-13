@@ -28,7 +28,8 @@
 
 ## Fase 3 — Audiencia y venta de datos (Opción 1)
 - [x] SITIO PÚBLICO EN LÍNEA: https://devzendcode2025.github.io/polymarket-scanner/ (GitHub Pages, repo público polymarket-scanner)
-- [x] Generador automático: render_dashboard.py actualiza docs/index.html desde el último scan (timestamp hora Nicaragua UTC-6)
+- [x] DASHBOARD DINÁMICO (v0.4.0): app JS consulta las APIs de Polymarket EN VIVO desde el navegador (ballenas vía Data API, top mercados vía Gamma — CORS verificado) + data.json del pipeline (mispricings/momentum) + auto-refresh 60s + hora Nicaragua
+- [x] Generador: render_dashboard.py → docs/data.json (detecciones del último scan); docs/index.html = app fija con JS
 - [x] Sitio se auto-actualiza: cron 1/min → render → push condicional (detecciones o ≥6 min; límite Pages ~10 builds/h)
 - [ ] Firebase Firestore + dominio propio + cPanel: FASE FUTURA (usuario decidió dejarlo para adelante; el HTML estático migra sin cambios)
 - [ ] Canal Telegram público (detecciones gratis)
