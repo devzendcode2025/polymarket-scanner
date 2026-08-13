@@ -5,17 +5,23 @@ set -u
 cd "$(dirname "$0")/.." || exit 1
 fail=0
 
-echo "===== [1/3] Sintaxis Python (py_compile) ====="
+echo "===== [1/4] Sintaxis Python (py_compile) ====="
 for f in workspace/scripts/*.py; do
   if python3 -m py_compile "$f"; then echo "OK   $f"; else echo "FAIL $f"; fail=1; fi
 done
 
 echo ""
-echo "===== [2/3] .gitignore (git check-ignore + tree limpio) ====="
+echo "===== [2/4] Sintaxis bash (bash -n) ====="
+for f in workspace/scripts/*.sh; do
+  if bash -n "$f"; then echo "OK   $f"; else echo "FAIL $f"; fail=1; fi
+done
+
+echo ""
+echo "===== [3/4] .gitignore (git check-ignore + tree limpio) ====="
 if bash verificacion/verify_gitignore.sh; then :; else fail=1; fi
 
 echo ""
-echo "===== [3/3] Estado del repo (.env protegido, control files, sitio en linea) ====="
+echo "===== [4/4] Estado del repo (.env protegido, control files, sitio en linea) ====="
 if bash verificacion/verify_repo_state.sh; then :; else fail=1; fi
 
 echo ""

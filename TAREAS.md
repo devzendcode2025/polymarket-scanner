@@ -14,9 +14,10 @@
 - [x] Base SQLite (markets, price_snapshots, trades, scans)
 - [x] Motor de detección: mispricings, ballenas, momentum, spreads
 - [x] Primer scan real ejecutado y validado (2026-08-13 20:40: 200 mercados, 5 ballenas; mispricings 0 en top-200)
+- [x] Cron cada 1 minuto (job polymarket-scan-1min, script puro sin LLM, silencioso)
+- [x] Poda de disco: snapshots solo con cambio ≥0.5%, TTL 30 días, reportes últimos 20 (~1-3 MB/día)
+- [x] Backup diario comprimido a repo privado polymarket-scanner-data (job polymarket-backup-diario, 03:00 UTC)
 - [ ] Afinar mispricings: barrer mercados de menor volumen / bajar umbral (los top-200 líquidos son eficientes)
-- [ ] Programar scans periódicos (cron) + historial acumulado
-- [ ] Resumen diario del scan (para WhatsApp vía gateway, si el usuario lo pide)
 
 ## Fase 2 — Backtest de estrategias
 - [ ] Recolectar historial (prices-history) de mercados de cripto 24h y deportes
@@ -27,9 +28,9 @@
 
 ## Fase 3 — Audiencia y venta de datos (Opción 1)
 - [x] SITIO PÚBLICO EN LÍNEA: https://devzendcode2025.github.io/polymarket-scanner/ (GitHub Pages, repo público polymarket-scanner)
-- [x] Mockup visual del dashboard (workspace/web/dashboard.html + docs/index.html) — con datos reales del scan
-- [ ] Generador automático: render_dashboard.py actualiza docs/index.html desde el último scan + publicación automática en el cron
-- [ ] Canal X/Twitter en español con detecciones gratis (4 semanas de contenido)
+- [x] Generador automático: render_dashboard.py actualiza docs/index.html desde el último scan (timestamp hora Nicaragua UTC-6)
+- [x] Sitio se auto-actualiza: cron 1/min → render → push condicional (detecciones o ≥6 min; límite Pages ~10 builds/h)
+- [ ] Firebase Firestore + dominio propio + cPanel: FASE FUTURA (usuario decidió dejarlo para adelante; el HTML estático migra sin cambios)
 - [ ] Canal Telegram público (detecciones gratis)
 - [ ] Canal Telegram pago: alertas ballenas $10/mes, scanner $20/mes, combo $25/mes (pago en USDC)
 - [ ] Boletín semanal (Substack) — mes 2-3

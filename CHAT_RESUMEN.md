@@ -1,5 +1,12 @@
 # CHAT_RESUMEN — polymarket-scanner
 
+### 2026-08-13 [22:00] — Automatización completa: cron 1/min + poda + backup
+- **Petición:** scan cada 1 minuto sin llenar el disco; evaluar GitHub/Firebase para datos. Decisión: Firebase/cPanel/dominio = fase futura; ahora diseño A.
+- **Acciones:** run_scan.py con --quiet + snapshots filtrados (≥0.5% de cambio) + poda TTL 30d + reportes últimos 20 + tamaño BD en reporte. render_dashboard.py genera docs/index.html (hora Nicaragua). cron_scan.sh (scan→render→push condicional: detecciones o ≥6 min). backup_daily.sh → repo privado polymarket-scanner-data (backup sqlite + gzip + poda 30).
+- **Bugs encontrados y corregidos:** (1) backup no pusheaba con "nothing to commit" → push siempre; (2) remote del backup sin token → token del .env; (3) render escribía en workspace/docs/ (resolución de rutas BASE=workspace) → PROYECTO=3 niveles, docs/ real actualizado; (4) cronjob '1m' creaba one-shot → recreado con '* * * * *' repeat forever.
+- **Resultado:** crons activos: polymarket-scan-1min (job 7a818b7cc17a, cada minuto, script puro, silencioso) + polymarket-backup-diario (job e6232106fb87, 03:00 UTC). Sitio verificado actualizado (scan 15:38 hora Nicaragua). Repo privado con primer backup. BD 0.27 MB.
+- **Pendientes:** confirmar primeras corridas automáticas del cron; afinar mispricings; on-ramps; validar Azuro; Firebase/cPanel/dominio (fase futura); canal X/Telegram.
+
 ### 2026-08-13 [21:40] — Sitio público publicado (GitHub Pages)
 - **Petición:** publicar el dashboard gratis (opción A elegida). Usuario: devzendcode2025. Token generado con scope "repo".
 - **Acciones:** token guardado en .env (chmod 600, excluido de git). gh CLI pidió scope read:org → no necesario: repo creado vía API REST (HTTP 201), push con token en remote URL, Pages activado vía API (branch main, path /docs).

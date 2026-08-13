@@ -2,10 +2,10 @@
 
 ## Estado Actual (vivo)
 
-- **Estado:** Fase 1 + Fase 3 parcial — 2026-08-13 21:40 SITIO PÚBLICO EN LÍNEA: https://devzendcode2025.github.io/polymarket-scanner/ (GitHub Pages, HTTP 200 verificado). Pipeline operativo (200 mercados/scan).
-- **Decisiones firmes:** NO trading en Polymarket desde Nicaragua (bloqueado); solo APIs públicas read-only; cobros en USDC; español primero, inglés después; stdlib Python sin dependencias.
+- **Estado:** Sistema automático COMPLETO — 2026-08-13 22:00: cron scan cada 1 min (job 7a818b7cc17a, script puro), poda de disco activa (snapshots ≥0.5% cambio, TTL 30d, reportes últimos 20), sitio público auto-actualizado (https://devzendcode2025.github.io/polymarket-scanner/), backup diario 03:00 UTC a repo privado polymarket-scanner-data (job e6232106fb87). BD ~0.27 MB.
+- **Decisiones firmes:** NO trading en Polymarket desde Nicaragua (bloqueado); solo APIs públicas read-only; cobros en USDC; español primero, inglés después; stdlib Python sin dependencias; Firebase/cPanel/dominio = fase futura.
 - **Riesgos:** (1) APIs públicas pueden cambiar/limitarse sin aviso; (2) el cuello de botella comercial es la audiencia, no el código; (3) liquidez de Azuro aún no verificada (Fase 4).
-- **Pendientes clave:** (1) generador automático del dashboard (render_dashboard.py) + cron con publicación; (2) afinar mispricings (barrer menor volumen); (3) on-ramps USDC Nicaragua; (4) validar Azuro; (5) canal público X/Telegram.
+- **Pendientes clave:** (1) confirmar corridas automáticas del cron (primeras 24h); (2) afinar mispricings (barrer menor volumen); (3) on-ramps USDC Nicaragua; (4) validar Azuro; (5) canal público X/Telegram; (6) Firebase/cPanel/dominio (fase futura).
 - **Última actualización:** 2026-08-13
 
 ---
