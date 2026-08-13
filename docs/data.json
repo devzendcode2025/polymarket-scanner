@@ -1,27 +1,27 @@
 {
- "ts": 1786663998,
- "stamp": "20260813_233318",
+ "ts": 1786664058,
+ "stamp": "20260813_233418",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7679a0c496ae65ee807b26b247b9ce16eac8c14d3ee87ec2d5d7ed6bf2ea0bdb",
-   "titulo": "Atlanta Dream vs. Connecticut Sun: O/U 174.5",
-   "slug": "wnba-atl-conn-2026-08-13-total-174pt5",
+   "market_id": "0x06a4bb04ff6f388b43519166794aa013f8c69ca99aeb5ba288a58fe3d07cd813",
+   "titulo": "Philadelphia Phillies vs. Minnesota Twins: O/U 8.5",
+   "slug": "mlb-phi-min-2026-08-13-total-8pt5",
    "outcome": "Under",
    "side": "BUY",
-   "size": 3334.386505,
-   "price": 0.5998104884,
-   "usd": 2000.0,
-   "ts": 1786663731,
-   "prob": 55,
-   "confianza": "media",
+   "size": 40236.3,
+   "price": 0.47,
+   "usd": 18911.06,
+   "ts": 1786664020,
+   "prob": 70,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-atl-conn-2026-08-13-total-174pt5"
+   "razon": "Trade de compra por $18,911 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-phi-min-2026-08-13-total-8pt5"
   }
  ],
- "db_size_mb": 1.78
+ "db_size_mb": 1.88
 }
