@@ -1,32 +1,65 @@
 {
- "ts": 1786662798,
- "stamp": "20260813_231318",
+ "ts": 1786662858,
+ "stamp": "20260813_231418",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa234107f4936dbc781149af2ea2bf6ae6d97451aedc6056b2f24825f7c4a89fc",
-   "titulo": "Will the price of Bitcoin be above $58,000 on August 14?",
-   "outcome": "Yes",
+   "market_id": "0xf587d0d6c696173b823a52df931fe6f07a5ea8b57ae301b8bd7d475d713321bc",
+   "titulo": "Will Santos FC win on 2026-08-13?",
+   "outcome": "No",
    "side": "BUY",
-   "size": 11266.216215,
-   "price": 0.9989999999,
-   "usd": 11254.95,
-   "ts": 1786662526
+   "size": 7291.0,
+   "price": 0.37,
+   "usd": 2697.67,
+   "ts": 1786662828
   },
   {
    "tipo": "ballena",
-   "market_id": "0x819ebb56b9da357ef0dcc70e5930c0793bc524f0cb09ca608a023875b8eeb510",
-   "titulo": "Brownsburg: Stefan Kozlov vs Harry Wendelken",
-   "outcome": "Harry Wendelken",
+   "market_id": "0xf587d0d6c696173b823a52df931fe6f07a5ea8b57ae301b8bd7d475d713321bc",
+   "titulo": "Will Santos FC win on 2026-08-13?",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 3594.59,
-   "price": 0.9689546596,
-   "usd": 3482.99,
-   "ts": 1786662526
+   "size": 4087.0,
+   "price": 0.66,
+   "usd": 2697.42,
+   "ts": 1786662822
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xf587d0d6c696173b823a52df931fe6f07a5ea8b57ae301b8bd7d475d713321bc",
+   "titulo": "Will Santos FC win on 2026-08-13?",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 2165.34,
+   "price": 0.6213599712,
+   "usd": 1345.46,
+   "ts": 1786662825
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x0fa4fa401f61093c46e8f4ca45129793161bc66c77707958ba71b15749b18ec4",
+   "titulo": "Will CSyD Macará win on 2026-08-13?",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1378.78125,
+   "price": 0.9585857075,
+   "usd": 1321.68,
+   "ts": 1786662823
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x63d46a503eb1d9495edaefab60422c8ff1db930954d65879b41d866bdd1fe891",
+   "titulo": "Santos FC vs. CSyD Macará: O/U 2.5",
+   "outcome": "Over",
+   "side": "SELL",
+   "size": 1512.92,
+   "price": 0.7600567115,
+   "usd": 1149.9,
+   "ts": 1786662831
   }
  ],
- "db_size_mb": 1.52
+ "db_size_mb": 1.59
 }
