@@ -1,21 +1,21 @@
 {
- "ts": 1786660397,
- "stamp": "20260813_223317",
+ "ts": 1786660457,
+ "stamp": "20260813_223417",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8ec615e0cbd614a813d2b3fce443028e01cd7ab85493ff93349771de93626f5b",
-   "titulo": "Chicago Cubs vs. Washington Nationals: O/U 8.5",
-   "outcome": "Under",
-   "side": "SELL",
-   "size": 4990.29,
-   "price": 0.999,
-   "usd": 4985.3,
-   "ts": 1786660126
+   "market_id": "0xc562f79357cf2a7e1fa21bca991ee45d664f00a7f89bdbeaf6d2beeefa0f7427",
+   "titulo": "Counter-Strike: Yawara Esports vs Keyd (BO3) - BetBoom Storm Playoffs",
+   "outcome": "Keyd",
+   "side": "BUY",
+   "size": 1823.379796,
+   "price": 0.9877042632,
+   "usd": 1800.96,
+   "ts": 1786660429
   }
  ],
- "db_size_mb": 1.0
+ "db_size_mb": 1.06
 }
