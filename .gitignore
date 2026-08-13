@@ -1,6 +1,7 @@
 # Datos y reportes generados (se regeneran en cada scan)
 workspace/data/
 workspace/reports/
+workspace/backups/
 __pycache__/
 *.pyc
 

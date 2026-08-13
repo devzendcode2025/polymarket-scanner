@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
-"""Orquestador: recoge datos -> guarda -> detecta -> reporta.
+"""Orquestador: recoge datos -> guarda (con poda) -> detecta -> reporta.
 
-Uso:  python3 run_scan.py [--limit N]
+Uso:  python3 run_scan.py [--limit N] [--quiet]
 Salidas: workspace/reports/technical/scan_<timestamp>.json y .txt
+Politica de disco (scan cada 1 min):
+  - Snapshots de precio SOLO si el precio cambio >= 0.5% vs el anterior
+  - Snapshots viejos (>30 dias) se podan en cada corrida
+  - Reportes: se conservan solo los ultimos 20
 """
 import argparse
+import glob
 import json
 import os
 import sys
@@ -16,15 +21,24 @@ import polymarket_client as pc  # noqa: E402
 import db as dbmod  # noqa: E402
 import scanner  # noqa: E402
 
-BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DB_PATH = os.path.join(BASE, "data", "polymarket.db")
-REPORTS = os.path.join(BASE, "reports", "technical")
+PROYECTO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+WORKSPACE = os.path.join(PROYECTO, "workspace")
+DB_PATH = os.path.join(WORKSPACE, "data", "polymarket.db")
+REPORTS = os.path.join(WORKSPACE, "reports", "technical")
+
+CAMBIOS_MIN = 0.005    # 0.5% de cambio de precio para guardar snapshot
+SNAPSHOT_TTL_DIAS = 30  # retencion de snapshots
+MAX_REPORTES = 20       # reportes conservados
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=200, help="mercados a barrer")
+    ap.add_argument("--quiet", action="store_true", help="sin salida en consola (cron)")
     args = ap.parse_args()
+
+    if args.quiet:
+        sys.stdout = open(os.devnull, "w")
 
     ts = int(time.time())
     stamp = time.strftime("%Y%m%d_%H%M%S")
@@ -37,9 +51,20 @@ def main():
     print(f"  Mercados binarios activos: {len(markets)}")
     dbmod.upsert_markets(conn, markets)
 
-    # 2. Snapshots de precios (para momentum futuro)
+    # 2. Snapshots SOLO con cambio significativo (control de disco a 1/min)
+    snap_guardados = 0
     for m in markets:
+        prev = dbmod.last_snapshot(conn, m["id"])
+        if prev and prev["yes"] != 0:
+            delta = abs(m["yes"] - prev["yes"]) / prev["yes"]
+            if delta < CAMBIOS_MIN:
+                continue  # precio estable, no guardar
         dbmod.insert_snapshot(conn, m)
+        snap_guardados += 1
+
+    # 2b. Poda de snapshots viejos
+    podados = dbmod.prune_snapshots(conn, SNAPSHOT_TTL_DIAS)
+    print(f"  Snapshots guardados: {snap_guardados} | podados (>30d): {podados}")
 
     # 3. Detecciones
     mispricings = scanner.detect_mispricing(markets)
@@ -76,6 +101,8 @@ def main():
         "ts": ts,
         "stamp": stamp,
         "mercados": len(markets),
+        "snapshots_guardados": snap_guardados,
+        "db_size_mb": dbmod.db_size_mb(DB_PATH),
         "mispricings": mispricings,
         "ballenas": whales,
         "momentum": momentum,
@@ -108,9 +135,16 @@ def main():
     dbmod.log_scan(conn, len(markets), len(mispricings) + len(whales) + len(momentum),
                    scanner.build_summary(markets, mispricings, whales, momentum))
 
-    print(f"\nReporte guardado:")
-    print(f"  {json_path}")
-    print(f"  {txt_path}")
+    # 5. Poda de reportes viejos (mantener los ultimos MAX_REPORTES)
+    rep_files = sorted(glob.glob(os.path.join(REPORTS, "scan_*")))
+    for f in rep_files[:-MAX_REPORTES]:
+        try:
+            os.remove(f)
+        except OSError:
+            pass
+
+    print(f"\nReporte guardado: {json_path}")
+    print(f"BD: {dbmod.db_size_mb(DB_PATH)} MB")
     print(scanner.build_summary(markets, mispricings, whales, momentum))
 
 

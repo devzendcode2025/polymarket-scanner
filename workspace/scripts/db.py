@@ -127,3 +127,20 @@ def log_scan(conn, markets_seen, detections, summary):
         (int(time.time()), markets_seen, detections, summary),
     )
     conn.commit()
+
+
+def prune_snapshots(conn, max_age_days=30):
+    """Elimina snapshots mas viejos que max_age_days. Devuelve filas borradas."""
+    cur = conn.cursor()
+    cutoff = int(time.time()) - max_age_days * 86400
+    cur.execute("DELETE FROM price_snapshots WHERE ts < ?", (cutoff,))
+    conn.commit()
+    return cur.rowcount
+
+
+def db_size_mb(path):
+    """Tamano del archivo de base en MB."""
+    try:
+        return round(os.path.getsize(path) / 1_048_576, 2)
+    except OSError:
+        return 0.0
