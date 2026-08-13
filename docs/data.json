@@ -1,21 +1,21 @@
 {
- "ts": 1786660998,
- "stamp": "20260813_224318",
+ "ts": 1786661358,
+ "stamp": "20260813_224918",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x25f6991690dbd399fb51d67f88782ed186198d55c1de6f95377d47da29fcdccc",
-   "titulo": "Mirassol FC vs. LDU de Quito: O/U 3.5",
-   "outcome": "Under",
+   "market_id": "0x7b86130af0e76ad32f2123d62287ad03f55ef72c03723444b9dd56ea22602068",
+   "titulo": "Will Elon Musk post <40 tweets from August 13 to August 15, 2026?",
+   "outcome": "No",
    "side": "BUY",
-   "size": 3735.53,
-   "price": 0.78,
-   "usd": 2913.71,
-   "ts": 1786660729
+   "size": 1103.05,
+   "price": 0.9899129686,
+   "usd": 1091.92,
+   "ts": 1786661328
   }
  ],
- "db_size_mb": 1.13
+ "db_size_mb": 1.25
 }
