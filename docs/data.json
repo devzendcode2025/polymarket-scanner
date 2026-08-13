@@ -1,43 +1,21 @@
 {
- "ts": 1786661898,
- "stamp": "20260813_225818",
+ "ts": 1786662258,
+ "stamp": "20260813_230418",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7ba5d36a6c383dcf42fd7ab2a79bd7247ffe03941776c7f49de0c8a9b001ecec",
-   "titulo": "Map Handicap: IMP (-1.5) vs Isurus (+1.5)",
-   "outcome": "Imperial",
+   "market_id": "0xacb33346b59a2a3770e2391b7d1b0e77d8dcdcf840a66f5fa01d28db43c4e369",
+   "titulo": "Will Ethereum dip to $1,000 by December 31, 2026?",
+   "outcome": "No",
    "side": "BUY",
-   "size": 10000.0,
-   "price": 0.55,
-   "usd": 5500.0,
-   "ts": 1786661629
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x9e6177bb37665f55a3e1cb9bc64f5acb1b5cee6acf5626dc704450e94c12fc58",
-   "titulo": "National Bank Open: Iga Swiatek vs Elena Rybakina",
-   "outcome": "Iga Swiatek",
-   "side": "BUY",
-   "size": 5760.0,
-   "price": 0.8,
-   "usd": 4608.0,
-   "ts": 1786661628
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2f43f94eb132ff513fbd7055cc2c60034a3da2b6c16359106689715b95387fb7",
-   "titulo": "Cincinnati Open: Cristina Bucsa vs Panna Udvardy",
-   "outcome": "Cristina Bucsa",
-   "side": "SELL",
-   "size": 4508.39,
-   "price": 0.999,
-   "usd": 4503.88,
-   "ts": 1786661616
+   "size": 1249.1,
+   "price": 0.9,
+   "usd": 1124.19,
+   "ts": 1786662226
   }
  ],
- "db_size_mb": 1.33
+ "db_size_mb": 1.45
 }
