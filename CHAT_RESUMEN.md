@@ -1,5 +1,11 @@
 # CHAT_RESUMEN — polymarket-scanner
 
+### 2026-08-13 [21:40] — Sitio público publicado (GitHub Pages)
+- **Petición:** publicar el dashboard gratis (opción A elegida). Usuario: devzendcode2025. Token generado con scope "repo".
+- **Acciones:** token guardado en .env (chmod 600, excluido de git). gh CLI pidió scope read:org → no necesario: repo creado vía API REST (HTTP 201), push con token en remote URL, Pages activado vía API (branch main, path /docs).
+- **Resultado:** https://devzendcode2025.github.io/polymarket-scanner/ → HTTP 200, contenido verificado (dashboard completo con ballenas reales). Commits v0.2.0. Nota: el token vive en el remote URL de .git/config — necesario para el push automático futuro; revocable desde GitHub.
+- **Pendientes:** generador automático (render_dashboard.py) + cron de scans con publicación automática; canal X/Telegram.
+
 ### 2026-08-13 [21:20] — Runner canónico de verificación
 - **Petición:** tracker de verificación marcó unverified tras editar .gitignore (script temporal eliminado = sin evidencia persistente).
 - **Acciones:** persistidos los checks como regresión en verificacion/ (run-all.sh = py_compile + verify_gitignore.sh); primera corrida falló (verificacion/ sin versionar → tree sucio), se versionó (v0.1.1) y la corrida quedó en verde; VERIFICACION.md con evidencia.

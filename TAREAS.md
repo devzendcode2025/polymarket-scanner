@@ -26,9 +26,9 @@
 - [ ] Criterio: 200+ trades simulados, win rate + riesgo/recompensa
 
 ## Fase 3 — Audiencia y venta de datos (Opción 1)
-- [x] Mockup visual del dashboard (workspace/web/dashboard.html) — con datos reales del scan; pendiente aprobación del diseño
-- [ ] Decidir arquitectura/hosting del sitio (estático generado vs backend)
-- [ ] Generador del dashboard desde los reportes JSON + publicación automática
+- [x] SITIO PÚBLICO EN LÍNEA: https://devzendcode2025.github.io/polymarket-scanner/ (GitHub Pages, repo público polymarket-scanner)
+- [x] Mockup visual del dashboard (workspace/web/dashboard.html + docs/index.html) — con datos reales del scan
+- [ ] Generador automático: render_dashboard.py actualiza docs/index.html desde el último scan + publicación automática en el cron
 - [ ] Canal X/Twitter en español con detecciones gratis (4 semanas de contenido)
 - [ ] Canal Telegram público (detecciones gratis)
 - [ ] Canal Telegram pago: alertas ballenas $10/mes, scanner $20/mes, combo $25/mes (pago en USDC)
