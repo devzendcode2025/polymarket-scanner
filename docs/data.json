@@ -1,21 +1,21 @@
 {
- "ts": 1786660698,
- "stamp": "20260813_223818",
+ "ts": 1786660758,
+ "stamp": "20260813_223918",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xc562f79357cf2a7e1fa21bca991ee45d664f00a7f89bdbeaf6d2beeefa0f7427",
-   "titulo": "Counter-Strike: Yawara Esports vs Keyd (BO3) - BetBoom Storm Playoffs",
-   "outcome": "Keyd",
+   "market_id": "0x25f6991690dbd399fb51d67f88782ed186198d55c1de6f95377d47da29fcdccc",
+   "titulo": "Mirassol FC vs. LDU de Quito: O/U 3.5",
+   "outcome": "Under",
    "side": "BUY",
-   "size": 1823.379796,
-   "price": 0.9877042632,
-   "usd": 1800.96,
-   "ts": 1786660429
+   "size": 3735.53,
+   "price": 0.78,
+   "usd": 2913.71,
+   "ts": 1786660729
   }
  ],
- "db_size_mb": 1.07
+ "db_size_mb": 1.12
 }
