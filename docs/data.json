@@ -1,65 +1,32 @@
 {
- "ts": 1786663098,
- "stamp": "20260813_231818",
+ "ts": 1786663158,
+ "stamp": "20260813_231918",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf587d0d6c696173b823a52df931fe6f07a5ea8b57ae301b8bd7d475d713321bc",
-   "titulo": "Will Santos FC win on 2026-08-13?",
-   "outcome": "No",
+   "market_id": "0x9e6177bb37665f55a3e1cb9bc64f5acb1b5cee6acf5626dc704450e94c12fc58",
+   "titulo": "National Bank Open: Iga Swiatek vs Elena Rybakina",
+   "outcome": "Iga Swiatek",
    "side": "BUY",
-   "size": 7291.0,
-   "price": 0.37,
-   "usd": 2697.67,
-   "ts": 1786662828
+   "size": 4355.16,
+   "price": 0.95,
+   "usd": 4137.4,
+   "ts": 1786663123
   },
   {
    "tipo": "ballena",
-   "market_id": "0xf587d0d6c696173b823a52df931fe6f07a5ea8b57ae301b8bd7d475d713321bc",
-   "titulo": "Will Santos FC win on 2026-08-13?",
-   "outcome": "Yes",
+   "market_id": "0x79d2cb69281d524d0671576d7c52e984311ac9bd16d9420c06bd77d7a0fe7261",
+   "titulo": "Valorant: KRÜ Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
+   "outcome": "KRÜ Esports",
    "side": "BUY",
-   "size": 4087.0,
-   "price": 0.66,
-   "usd": 2697.42,
-   "ts": 1786662822
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xf587d0d6c696173b823a52df931fe6f07a5ea8b57ae301b8bd7d475d713321bc",
-   "titulo": "Will Santos FC win on 2026-08-13?",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 2165.34,
-   "price": 0.6213599712,
-   "usd": 1345.46,
-   "ts": 1786662825
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x0fa4fa401f61093c46e8f4ca45129793161bc66c77707958ba71b15749b18ec4",
-   "titulo": "Will CSyD Macará win on 2026-08-13?",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1378.78125,
-   "price": 0.9585857075,
-   "usd": 1321.68,
-   "ts": 1786662823
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x63d46a503eb1d9495edaefab60422c8ff1db930954d65879b41d866bdd1fe891",
-   "titulo": "Santos FC vs. CSyD Macará: O/U 2.5",
-   "outcome": "Over",
-   "side": "SELL",
-   "size": 1512.92,
-   "price": 0.7600567115,
-   "usd": 1149.9,
-   "ts": 1786662831
+   "size": 1205.6226,
+   "price": 0.9149463456,
+   "usd": 1103.08,
+   "ts": 1786663128
   }
  ],
- "db_size_mb": 1.59
+ "db_size_mb": 1.67
 }
