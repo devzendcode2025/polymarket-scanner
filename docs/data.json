@@ -1,6 +1,6 @@
 {
- "ts": 1786663278,
- "stamp": "20260813_232118",
+ "ts": 1786663338,
+ "stamp": "20260813_232218",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -9,25 +9,35 @@
    "tipo": "ballena",
    "market_id": "0x9e6177bb37665f55a3e1cb9bc64f5acb1b5cee6acf5626dc704450e94c12fc58",
    "titulo": "National Bank Open: Iga Swiatek vs Elena Rybakina",
-   "slug": null,
+   "slug": "wta-swiatek-rybakin-2026-08-13",
    "outcome": "Iga Swiatek",
    "side": "BUY",
    "size": 4355.16,
    "price": 0.95,
    "usd": 4137.4,
-   "ts": 1786663123
+   "ts": 1786663123,
+   "prob": 58,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $4,137 en 'Iga Swiatek'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-swiatek-rybakin-2026-08-13"
   },
   {
    "tipo": "ballena",
    "market_id": "0x79d2cb69281d524d0671576d7c52e984311ac9bd16d9420c06bd77d7a0fe7261",
    "titulo": "Valorant: KRÜ Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
-   "slug": null,
+   "slug": "val-kru1-bst1-2026-08-13",
    "outcome": "KRÜ Esports",
    "side": "BUY",
    "size": 1205.6226,
    "price": 0.9149463456,
    "usd": 1103.08,
-   "ts": 1786663128
+   "ts": 1786663128,
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,103 en 'KRÜ Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-kru1-bst1-2026-08-13"
   }
  ],
  "db_size_mb": 1.67
