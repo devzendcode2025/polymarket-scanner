@@ -1,27 +1,9 @@
 {
- "ts": 1786664299,
- "stamp": "20260813_233819",
+ "ts": 1786664659,
+ "stamp": "20260813_234419",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x06a4bb04ff6f388b43519166794aa013f8c69ca99aeb5ba288a58fe3d07cd813",
-   "titulo": "Philadelphia Phillies vs. Minnesota Twins: O/U 8.5",
-   "slug": "mlb-phi-min-2026-08-13-total-8pt5",
-   "outcome": "Under",
-   "side": "BUY",
-   "size": 40236.3,
-   "price": 0.47,
-   "usd": 18911.06,
-   "ts": 1786664020,
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $18,911 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-phi-min-2026-08-13-total-8pt5"
-  }
- ],
- "db_size_mb": 1.89
+ "ballenas_scan": [],
+ "db_size_mb": 1.99
 }
