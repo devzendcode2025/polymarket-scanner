@@ -17,11 +17,14 @@ if ! python3 workspace/scripts/run_scan.py --quiet; then
   exit 1
 fi
 
-# 2) Regenerar el dashboard
+# 2) Regenerar el dashboard (data.json con detecciones del pipeline)
 if ! python3 workspace/scripts/render_dashboard.py > /dev/null 2>&1; then
   echo "ERROR: render fallo"
   exit 1
 fi
+
+# 2b) App del dashboard (template fijo con JS en vivo) -> docs/
+cp -f workspace/web/dashboard.html docs/index.html 2>/dev/null || true
 
 # 3) Decidir push
 LAST_PUSH=workspace/data/.last_push

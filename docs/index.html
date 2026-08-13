@@ -41,6 +41,7 @@
   .prob .bar span { display:block; height:100%; background:linear-gradient(90deg,var(--red),var(--accent),var(--green)); }
   .prob .pct { font-weight:600; font-variant-numeric:tabular-nums; width:48px; text-align:right; }
   .empty { padding:26px 18px; text-align:center; color:var(--dim); font-size:.9rem; }
+  .error { padding:18px; text-align:center; color:var(--red); font-size:.85rem; }
   .cta { background:linear-gradient(135deg,#1a2030,#14201f); border:1px solid rgba(38,166,153,.35); border-radius:12px; padding:22px; text-align:center; margin:24px 0; }
   .cta h3 { font-size:1.1rem; margin-bottom:6px; }
   .cta p { color:var(--dim); font-size:.9rem; margin-bottom:14px; }
@@ -56,36 +57,36 @@
     <div class="logo"><span class="dot"></span> Polymarket Scanner</div>
     <div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;">
       <span class="live">● EN VIVO</span>
-      <div class="scan-info">Último scan: 13 ago 2026, 16:30 (hora Nicaragua)<br>Datos: APIs públicas de Polymarket</div>
+      <div class="scan-info">Actualizado: <span id="lastUpd">cargando…</span><br>Fuente: APIs públicas de Polymarket</div>
     </div>
   </header>
 
-  <div class="stats">
-    <div class="stat blue"><div class="num">200</div><div class="lbl">Mercados monitoreados</div></div>
-    <div class="stat green"><div class="num">1</div><div class="lbl">Ballenas último scan</div></div>
-    <div class="stat accent"><div class="num">$4,985</div><div class="lbl">Volumen de ballenas</div></div>
-    <div class="stat"><div class="num">0</div><div class="lbl">Mispricings activos</div></div>
-    <div class="stat"><div class="num">0</div><div class="lbl">Alertas de momentum</div></div>
+  <div class="stats" id="stats">
+    <div class="stat blue"><div class="num">—</div><div class="lbl">Mercados monitoreados</div></div>
+    <div class="stat green"><div class="num">—</div><div class="lbl">Ballenas (≥ $1k)</div></div>
+    <div class="stat accent"><div class="num">—</div><div class="lbl">Volumen de ballenas</div></div>
+    <div class="stat"><div class="num">—</div><div class="lbl">Mispricings activos</div></div>
+    <div class="stat"><div class="num">—</div><div class="lbl">Alertas de momentum</div></div>
   </div>
 
   <div class="panel">
-    <h2>🐋 Movimientos de ballenas <span class="tag green">1 nueva(s)</span></h2>
-    <table><thead><tr><th>Dirección</th><th>Monto</th><th>Resultado</th><th>Mercado</th></tr></thead><tbody><tr><td class='sell'>VENTA</td><td class='money'>$4,985</td><td>Under</td><td class='q'>Chicago Cubs vs. Washington Nationals: O/U 8.5</td></tr></tbody></table>
+    <h2>🐋 Ballenas en tiempo real <span id="whaleTag" class="tag dim">…</span></h2>
+    <div id="whales"><div class="empty">Cargando trades en vivo…</div></div>
   </div>
 
   <div class="panel">
-    <h2>🎯 Mispricings detectados (Yes + No ≠ 1) <span class="tag dim">0 activos</span></h2>
-    <div class="empty">Sin ineficiencias en los mercados de alta liquidez en este scan.<br>El barrido de mercados de menor volumen está en desarrollo — ahí aparecen las oportunidades.</div>
+    <h2>🎯 Mispricings (Yes + No ≠ 1) <span id="mispTag" class="tag dim">…</span></h2>
+    <div id="misp"><div class="empty">Cargando…</div></div>
   </div>
 
   <div class="panel">
-    <h2>📈 Momentum (cambio ≥ 5%) <span class="tag dim">0 alertas</span></h2>
-    <div class="empty">Acumulando historial de precios. Las alertas de momentum aparecen cuando un precio se mueve ≥ 5% entre scans.</div>
+    <h2>📈 Momentum (cambio ≥ 5%) <span id="momTag" class="tag dim">…</span></h2>
+    <div id="mom"><div class="empty">Cargando…</div></div>
   </div>
 
   <div class="panel">
-    <h2>🔥 Top mercados por volumen <span class="tag dim">actualizado cada scan</span></h2>
-    <table><thead><tr><th>Mercado</th><th>Sí</th><th>No</th><th>Volumen</th></tr></thead><tbody><tr><td class='q'>Will Eric Trump win the 2028 Republican presidential nomination?</td><td><div class='prob'><div class='bar'><span style='width:0.4%'></span></div><span class='pct'>0.4%</span></div></td><td class='money' style='color:var(--green)'>99.7%</td><td class='money'>$9,999,485</td></tr><tr><td class='q'>Will Crude Oil reach a new all-time high by September 30?</td><td><div class='prob'><div class='bar'><span style='width:3.5%'></span></div><span class='pct'>3.5%</span></div></td><td class='money' style='color:var(--green)'>96.5%</td><td class='money'>$999,720</td></tr><tr><td class='q'>Israel closes its airspace by August 31?</td><td><div class='prob'><div class='bar'><span style='width:6.5%'></span></div><span class='pct'>6.5%</span></div></td><td class='money' style='color:var(--green)'>93.5%</td><td class='money'>$996,034</td></tr><tr><td class='q'>Will Samuel Alito announce his retirement by September 30, 2026?</td><td><div class='prob'><div class='bar'><span style='width:2.3%'></span></div><span class='pct'>2.3%</span></div></td><td class='money' style='color:var(--green)'>97.7%</td><td class='money'>$985,889</td></tr><tr><td class='q'>Will Arizona Cardinals win the 2027 NFL NFC Championship?</td><td><div class='prob'><div class='bar'><span style='width:0.7%'></span></div><span class='pct'>0.7%</span></div></td><td class='money' style='color:var(--green)'>99.4%</td><td class='money'>$983,741</td></tr><tr><td class='q'>Will the price of Bitcoin be above $62,000 on August 14?</td><td><div class='prob'><div class='bar'><span style='width:97.2%'></span></div><span class='pct'>97.2%</span></div></td><td class='money' style='color:var(--green)'>2.8%</td><td class='money'>$99,875</td></tr><tr><td class='q'>Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?</td><td><div class='prob'><div class='bar'><span style='width:2.4%'></span></div><span class='pct'>2.4%</span></div></td><td class='money' style='color:var(--green)'>97.6%</td><td class='money'>$99,681</td></tr><tr><td class='q'>NYSE marketwide circuit breaker before 2027?</td><td><div class='prob'><div class='bar'><span style='width:14.5%'></span></div><span class='pct'>14.5%</span></div></td><td class='money' style='color:var(--green)'>85.5%</td><td class='money'>$99,532</td></tr><tr><td class='q'>Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?</td><td><div class='prob'><div class='bar'><span style='width:11.5%'></span></div><span class='pct'>11.5%</span></div></td><td class='money' style='color:var(--green)'>88.5%</td><td class='money'>$99,162</td></tr><tr><td class='q'>Will MicroStrategy be margin called in 2026?</td><td><div class='prob'><div class='bar'><span style='width:3.5%'></span></div><span class='pct'>3.5%</span></div></td><td class='money' style='color:var(--green)'>96.5%</td><td class='money'>$99,159</td></tr></tbody></table>
+    <h2>🔥 Top mercados por volumen <span class="tag dim">en vivo</span></h2>
+    <div id="top"><div class="empty">Cargando…</div></div>
   </div>
 
   <div class="cta">
@@ -96,5 +97,149 @@
 
   <footer>Polymarket Scanner — datos de fuentes públicas. No es asesoría financiera. · Hecho en Nicaragua 🇳🇮</footer>
 </div>
+
+<script>
+"use strict";
+const GAMMA = "https://gamma-api.polymarket.com";
+const DATA  = "https://data-api.polymarket.com";
+const REFRESH_MS = 60000;          // auto-refresh cada 60s
+const WHALE_MIN = 1000;            // umbral de ballena en USD
+const TZ = { timeZone: "America/Managua" };
+
+function esc(s){ return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function money(n){ return "$" + Math.round(Number(n) || 0).toLocaleString("en-US"); }
+function fmtTS(ts){ try { return new Date(ts*1000).toLocaleString("es-NI", {...TZ, day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"}); } catch(e){ return new Date(ts*1000).toLocaleString(); } }
+function nowStr(){ return new Date().toLocaleString("es-NI", {...TZ, hour:"2-digit", minute:"2-digit", second:"2-digit"}); }
+function tag(id, n, green){ const el = document.getElementById(id); el.className = "tag " + (n>0 ? "green" : "dim"); el.textContent = n>0 ? n + " activa(s)" : "0"; }
+function emptyBox(msg){ return '<div class="empty">' + esc(msg) + '</div>'; }
+function errBox(e){ return '<div class="error">⚠️ ' + esc(e.message || e) + '</div>'; }
+
+async function getJSON(url){
+  const r = await fetch(url, { headers: { "Accept": "application/json" } });
+  if (!r.ok) throw new Error("HTTP " + r.status + " en " + url);
+  return r.json();
+}
+
+// --- Ballenas en vivo desde la Data API ---
+async function loadWhales(){
+  const box = document.getElementById("whales");
+  const trades = await getJSON(DATA + "/trades?limit=200");
+  const whales = [];
+  for (const t of trades){
+    const size = Number(t.size) || 0, price = Number(t.price) || 0;
+    const usd = size * price;
+    if (usd >= WHALE_MIN){
+      whales.push({ side: t.side, usd, outcome: t.outcome, title: t.title, ts: t.timestamp });
+    }
+  }
+  whales.sort((a,b) => b.usd - a.usd);
+  const top = whales.slice(0, 10);
+  const total = whales.reduce((s,w) => s + w.usd, 0);
+  document.getElementById("whaleTag").className = "tag " + (top.length ? "green" : "dim");
+  document.getElementById("whaleTag").textContent = top.length ? top.length + " ahora" : "0";
+  if (!top.length){ box.innerHTML = emptyBox("Sin trades ≥ $" + WHALE_MIN.toLocaleString("en-US") + " en la ventana actual."); return; }
+  let rows = "";
+  for (const w of top){
+    const cls = String(w.side).toUpperCase() === "BUY" ? "buy" : "sell";
+    const lbl = cls === "buy" ? "COMPRA" : "VENTA";
+    rows += "<tr><td class='" + cls + "'>" + lbl + "</td><td class='money'>" + money(w.usd) +
+            "</td><td>" + esc(w.outcome) + "</td><td class='q'>" + esc(w.title) + "</td></tr>";
+  }
+  box.innerHTML = "<table><thead><tr><th>Dirección</th><th>Monto</th><th>Resultado</th><th>Mercado</th></tr></thead><tbody>" + rows + "</tbody></table>";
+  return total;
+}
+
+// --- Top mercados en vivo desde la Gamma API ---
+async function loadTop(){
+  const box = document.getElementById("top");
+  const mkts = await getJSON(GAMMA + "/markets?limit=10&active=true&closed=false&order=volume&ascending=false");
+  if (!mkts.length){ box.innerHTML = emptyBox("Sin mercados."); return; }
+  let rows = "";
+  for (const m of mkts){
+    let prices = [];
+    try { prices = JSON.parse(m.outcomePrices || "[]"); } catch(e){}
+    const yes = Number(prices[0]) || 0;
+    const pct = Math.max(0.3, Math.min(100, yes*100));
+    rows += "<tr><td class='q'>" + esc(m.question) + "</td>" +
+            "<td><div class='prob'><div class='bar'><span style='width:" + pct.toFixed(1) + "%'></span></div>" +
+            "<span class='pct'>" + (yes*100).toFixed(1) + "%</span></div></td>" +
+            "<td class='money' style='color:var(--green)'>" + ((1-yes)*100).toFixed(1) + "%</td>" +
+            "<td class='money'>" + money(m.volume) + "</td></tr>";
+  }
+  box.innerHTML = "<table><thead><tr><th>Mercado</th><th>Sí</th><th>No</th><th>Volumen</th></tr></thead><tbody>" + rows + "</tbody></table>";
+}
+
+// --- Detecciones del pipeline (data.json, generado por nuestro cron) ---
+async function loadPipeline(){
+  const r = await getJSON("data.json");
+  const misp = r.mispricings || [], mom = r.momentum || [];
+  tag("mispTag", misp.length); tag("momTag", mom.length);
+
+  const mb = document.getElementById("misp");
+  if (!misp.length){
+    mb.innerHTML = emptyBox("Sin ineficiencias en los mercados de alta liquidez. El barrido de menor volumen está en desarrollo.");
+  } else {
+    let rows = "";
+    for (const d of misp.slice(0,10)){
+      rows += "<tr><td class='q'>" + esc(d.question) + "</td><td class='money'>" + d.yes +
+              "</td><td class='money'>" + d.no + "</td><td class='money'>" + d.sum +
+              "</td><td style='color:var(--accent)'>" + esc(d.direccion) + "</td></tr>";
+    }
+    mb.innerHTML = "<table><thead><tr><th>Mercado</th><th>Sí</th><th>No</th><th>Suma</th><th>Oportunidad</th></tr></thead><tbody>" + rows + "</tbody></table>";
+  }
+
+  const mo = document.getElementById("mom");
+  if (!mom.length){
+    mo.innerHTML = emptyBox("Acumulando historial de precios. Las alertas aparecen cuando un precio se mueve ≥ 5% entre scans.");
+  } else {
+    let rows = "";
+    for (const d of mom.slice(0,10)){
+      const cls = d.direccion === "SUBIDA" ? "buy" : "sell";
+      rows += "<tr><td class='" + cls + "'>" + esc(d.direccion) + "</td><td class='money'>" + d.cambio_pct +
+              "%</td><td class='q'>" + esc(d.question) + "</td><td class='money'>" + d.yes_antes + " → " + d.yes_ahora + "</td></tr>";
+    }
+    mo.innerHTML = "<table><thead><tr><th>Dirección</th><th>Cambio</th><th>Mercado</th><th>Prob. Sí</th></tr></thead><tbody>" + rows + "</tbody></table>";
+  }
+  return r;
+}
+
+let lastLoad = 0;
+function tickClock(){
+  const el = document.getElementById("lastUpd");
+  if (!lastLoad){ el.textContent = "cargando…"; return; }
+  const s = Math.max(0, Math.round((Date.now() - lastLoad)/1000));
+  el.textContent = "hace " + s + "s · " + nowStr() + " (auto-refresh 60s)";
+}
+
+async function load(){
+  try {
+    const [, , pipe] = await Promise.allSettled([loadWhales(), loadTop(), loadPipeline()]);
+    // stats
+    let mercados = "—", whaleN = "—", whaleUSD = "—", mispN = "—", momN = "—";
+    if (pipe.status === "fulfilled" && pipe.value){
+      mercados = pipe.value.mercados ?? "—";
+      mispN = (pipe.value.mispricings || []).length;
+      momN = (pipe.value.momentum || []).length;
+    }
+    const stats = [
+      ['class="stat blue"', mercados, "Mercados monitoreados"],
+      ['class="stat green"', whaleN, "Ballenas (≥ $1k)"],
+      ['class="stat accent"', whaleUSD, "Volumen de ballenas"],
+      ["", mispN, "Mispricings activos"],
+      ["", momN, "Alertas de momentum"],
+    ].map(s => "<div " + s[0] + "><div class='num'>" + s[1] + "</div><div class='lbl'>" + s[2] + "</div></div>").join("");
+    document.getElementById("stats").innerHTML = stats;
+    lastLoad = Date.now();
+    tickClock();
+  } catch(e){
+    document.getElementById("stats").innerHTML = '<div class="error">⚠️ ' + esc(e.message) + '</div>';
+  }
+}
+
+// carga inicial + refresco automático
+load();
+setInterval(load, REFRESH_MS);
+setInterval(tickClock, 1000);
+</script>
 </body>
 </html>
