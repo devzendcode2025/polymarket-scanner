@@ -1,9 +1,27 @@
 {
- "ts": 1786665019,
- "stamp": "20260813_235019",
+ "ts": 1786665259,
+ "stamp": "20260813_235419",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
- "db_size_mb": 2.06
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x11f7a7f4b47f3f1af8518b3632451503b2f6fa2fb2540dc6b576589ae6726b72",
+   "titulo": "Packers vs. Steelers",
+   "slug": "nfl-gb-pit-2026-08-13",
+   "outcome": "Packers",
+   "side": "BUY",
+   "size": 10000.0,
+   "price": 0.62,
+   "usd": 6200.0,
+   "ts": 1786665223,
+   "prob": 61,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $6,200 en 'Packers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/nfl-gb-pit-2026-08-13"
+  }
+ ],
+ "db_size_mb": 2.12
 }
