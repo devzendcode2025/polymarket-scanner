@@ -1,49 +1,10 @@
 {
- "ts": 1786685905,
- "stamp": "20260814_053825",
+ "ts": 1786686265,
+ "stamp": "20260814_054425",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x9fbb7f7ef371169c8c938fb6401e1c92659d1959dc1a79d91b6c34e903bdfe32",
-   "titulo": "Dota 2: BoomBoys vs TEAM VISION (BO3) - The International Group Stage",
-   "slug": "dota2-boombo-vsn2-2026-08-14",
-   "outcome": "TEAM VISION",
-   "side": "BUY",
-   "size": 5290.21,
-   "price": 0.85,
-   "usd": 4496.68,
-   "ts": 1786685640,
-   "categoria": "Otros",
-   "prob": 58,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,497 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-boombo-vsn2-2026-08-14",
-   "titulo_es": "Dota 2: BoomBoys vs TEAM VISION (BO3) - Fase de grupos de The International"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3b7971cd72e15ff80e623a7521fa3e0545b296545792e77dc9addd4cb7e390a4",
-   "titulo": "Dota 2: Team Yandex vs Team Liquid (BO3) - The International Group Stage",
-   "slug": "dota2-ty-liquid-2026-08-13",
-   "outcome": "Team Liquid",
-   "side": "SELL",
-   "size": 2008.76,
-   "price": 0.999,
-   "usd": 2006.75,
-   "ts": 1786685638,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,007 en 'Team Liquid'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ty-liquid-2026-08-13",
-   "titulo_es": "Dota 2: Team Yandex vs Team Liquid (BO3) - Fase de Grupos de The International"
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -60,7 +21,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will Yandy Diaz win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
+     "_poly_question": "Will Moonshot have the #1 AI model at the end of August 2026?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -88,7 +49,7 @@
      "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
      "prob": 34.53783434138884,
      "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
-     "_poly_question": "Will Yandy Diaz win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
+     "_poly_question": "Will Moonshot have the #1 AI model at the end of August 2026?",
      "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
     }
    ],
@@ -206,8 +167,8 @@
   {
    "question": "Bitcoin Up or Down on August 14?",
    "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.435,
-   "no": 0.565,
+   "yes": 0.46,
+   "no": 0.54,
    "volumen": 98955.46882699999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -246,8 +207,8 @@
   {
    "question": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
    "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
-   "yes": 0.0145,
-   "no": 0.9855,
+   "yes": 0.013,
+   "no": 0.987,
    "volumen": 98591.825315,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -296,8 +257,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1225,
-   "no": 0.8775,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -306,8 +267,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0355,
-   "no": 0.9645,
+   "yes": 0.029,
+   "no": 0.971,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -326,8 +287,8 @@
   {
    "question": "Will the highest temperature in London be 33°C on August 14?",
    "slug": "highest-temperature-in-london-on-august-14-2026-33c",
-   "yes": 0.525,
-   "no": 0.475,
+   "yes": 0.53,
+   "no": 0.47,
    "volumen": 9965.362195,
    "spread": 0.0,
    "categoria": "Otros",
@@ -336,8 +297,8 @@
   {
    "question": "Will the highest temperature in Wellington be 14°C on August 14?",
    "slug": "highest-temperature-in-wellington-on-august-14-2026-14c",
-   "yes": 0.0015,
-   "no": 0.9985,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 9965.062006,
    "spread": 0.0,
    "categoria": "Otros",
@@ -354,5 +315,5 @@
    "question_es": "¿Ganará Sol1xd el Soloq Challenge 2026 (High Elo)?"
   }
  ],
- "db_size_mb": 6.68
+ "db_size_mb": 6.82
 }
