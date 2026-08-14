@@ -1,66 +1,47 @@
 {
- "ts": 1786709911,
- "stamp": "20260814_121831",
+ "ts": 1786709971,
+ "stamp": "20260814_121931",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xe83c8abccfb1dc62fdf64d1a27bc339677a4ccc285bc786cf1e5efcf9bcbfca6",
-   "titulo": "Chunichi Dragons vs. Yomiuri Giants",
-   "slug": "npb-chu-yom-2026-08-14",
-   "outcome": "Yomiuri Giants",
-   "side": "SELL",
-   "size": 2646.73,
-   "price": 0.9980863632,
-   "usd": 2641.67,
-   "ts": 1786709653,
+   "market_id": "0x024894cf2eea678a8fcf231ce51d26777160230112d5fe93420573b741b2b603",
+   "titulo": "San Diego Padres vs. Cleveland Guardians",
+   "slug": "mlb-sd-cle-2026-08-14",
+   "outcome": "Cleveland Guardians",
+   "side": "BUY",
+   "size": 25325.454544,
+   "price": 0.55,
+   "usd": 13929.0,
+   "ts": 1786709955,
    "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
+   "prob": 70,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,642 en 'Yomiuri Giants'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/npb-chu-yom-2026-08-14",
-   "titulo_es": "Chunichi Dragons vs. Yomiuri Giants"
+   "razon": "Trade de compra por $13,929 en 'Cleveland Guardians'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-sd-cle-2026-08-14",
+   "titulo_es": "San Diego Padres vs. Cleveland Guardians"
   },
   {
    "tipo": "ballena",
-   "market_id": "0x248a6e1e73182c0fdc01828db56261a238b5fc92680ad772e4e3982966776df2",
-   "titulo": "LoL: Anyone's Legend vs JD Gaming - Game 1 Winner",
-   "slug": "lol-al-jdg-2026-08-14-game1",
-   "outcome": "JD Gaming",
-   "side": "SELL",
-   "size": 1697.5,
-   "price": 0.999,
-   "usd": 1695.8,
-   "ts": 1786709650,
-   "categoria": "Deportes",
+   "market_id": "0x024894cf2eea678a8fcf231ce51d26777160230112d5fe93420573b741b2b603",
+   "titulo": "San Diego Padres vs. Cleveland Guardians",
+   "slug": "mlb-sd-cle-2026-08-14",
+   "outcome": "Cleveland Guardians",
+   "side": "BUY",
+   "size": 2589.527271,
+   "price": 0.55,
+   "usd": 1424.24,
+   "ts": 1786709959,
+   "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,696 en 'JD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14-game1",
-   "titulo_es": "LoL: Anyone's Legend vs JD Gaming - Ganador del Juego 1"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x248a6e1e73182c0fdc01828db56261a238b5fc92680ad772e4e3982966776df2",
-   "titulo": "LoL: Anyone's Legend vs JD Gaming - Game 1 Winner",
-   "slug": "lol-al-jdg-2026-08-14-game1",
-   "outcome": "JD Gaming",
-   "side": "SELL",
-   "size": 1452.68,
-   "price": 0.999,
-   "usd": 1451.23,
-   "ts": 1786709659,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,451 en 'JD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14-game1",
-   "titulo_es": "LoL: Anyone's Legend vs JD Gaming - Ganador del Juego 1"
+   "razon": "Trade de compra por $1,424 en 'Cleveland Guardians'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-sd-cle-2026-08-14",
+   "titulo_es": "San Diego Padres vs. Cleveland Guardians"
   }
  ],
  "edges": [
@@ -99,7 +80,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0205,
    "no": 0.9795,
-   "volumen": 985888.5008280001,
+   "volumen": 985893.592663,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -119,7 +100,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 983227.2235220001,
+   "volumen": 983548.6235219999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -129,7 +110,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042,
+   "volumen": 99532.33042000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -209,10 +190,20 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98404.80752599999,
+   "volumen": 98404.807526,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
+  },
+  {
+   "question": "Games Total: O/U 2.5",
+   "slug": "lol-t1-dk-2026-08-14-total-games-2pt5",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9999.210369,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Total de Juegos: O/U 2.5"
   },
   {
    "question": "Will Dogecoin reach $0.15 in August?",
@@ -223,16 +214,6 @@
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
-  },
-  {
-   "question": "Games Total: O/U 2.5",
-   "slug": "lol-t1-dk-2026-08-14-total-games-2pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9987.070369,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Total de Juegos: O/U 2.5"
   },
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
@@ -247,8 +228,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.0295,
+   "no": 0.9705,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -259,7 +240,7 @@
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
    "yes": 0.24,
    "no": 0.76,
-   "volumen": 9969.309623000003,
+   "volumen": 9969.309623000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -297,12 +278,22 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
+  },
+  {
+   "question": "Will the price of Bitcoin be between $64,000 and $66,000 on August 14?",
+   "slug": "will-the-price-of-bitcoin-be-between-64000-66000-on-august-14-2026",
+   "yes": 0.0185,
+   "no": 0.9815,
+   "volumen": 9937.318634000001,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin entre $64,000 y $66,000 el 14 de agosto?"
   },
   {
    "question": "Will Thinky have the best AI model at the end of September 2026?",
@@ -329,21 +320,11 @@
    "slug": "cs2-jjh-aur1-2026-08-15",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 9908.848541,
+   "volumen": 9908.848541000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Copa Mundial de Esports Grupo A"
-  },
-  {
-   "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
-   "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
-   "yes": 0.33,
-   "no": 0.67,
-   "volumen": 9903.455292999997,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
   }
  ],
- "db_size_mb": 12.03
+ "db_size_mb": 12.1
 }
