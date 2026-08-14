@@ -1,7 +1,7 @@
 {
- "ts": 1786665712,
- "stamp": "20260814_000152",
- "mercados": 100,
+ "ts": 1786665739,
+ "stamp": "20260814_000219",
+ "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
@@ -89,6 +89,24 @@
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
   },
   {
+   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
+   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
+   "yes": 0.023,
+   "no": 0.977,
+   "volumen": 985888.500828,
+   "spread": 0.0,
+   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
+  },
+  {
+   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
+   "yes": 0.0065,
+   "no": 0.9935,
+   "volumen": 983741.491909,
+   "spread": 0.0,
+   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
+  },
+  {
    "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.024,
@@ -125,31 +143,13 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
-   "question": "Will Dogecoin reach $0.15 in August?",
-   "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.009,
-   "no": 0.991,
-   "volumen": 9996.76192,
+   "question": "NATO x Russia military clash by October 31, 2026?",
+   "slug": "nato-x-russia-military-clash-by-october-31-2026",
+   "yes": 0.075,
+   "no": 0.925,
+   "volumen": 99035.45360200001,
    "spread": 0.0,
-   "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
-  },
-  {
-   "question": "Will Truist fail by end of 2026?",
-   "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
-   "volumen": 9973.222389999999,
-   "spread": 0.0,
-   "question_es": "¿Quebrará Truist para finales de 2026?"
-  },
-  {
-   "question": "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?",
-   "slug": "will-umich-consumer-sentiment-be-between-52pt0-and-54pt9-in-august-1785878499356",
-   "yes": 0.35,
-   "no": 0.65,
-   "volumen": 9970.821799,
-   "spread": 0.0,
-   "question_es": "¿Estará el Sentimiento del Consumidor de UMich entre 52.0 y 54.9 en agosto?"
+   "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
   }
  ],
  "db_size_mb": 2.2
