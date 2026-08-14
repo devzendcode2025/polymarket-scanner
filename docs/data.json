@@ -1,39 +1,19 @@
 {
- "ts": 1786689506,
- "stamp": "20260814_063826",
+ "ts": 1786689866,
+ "stamp": "20260814_064426",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xf20350533181e94ccea56d45f34b52ae95fb5b48d675fc18b329117e025630a2",
-   "titulo": "LoL: BNK FearX Youth vs HANJIN BRION Challengers - Game 2 Winner",
-   "slug": "lol-foxy-bro1-2026-08-14-game2",
-   "outcome": "HANJIN BRION Challengers",
-   "side": "BUY",
-   "size": 3308.41,
-   "price": 0.9867353502,
-   "usd": 3264.53,
-   "ts": 1786689246,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,265 en 'HANJIN BRION Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-foxy-bro1-2026-08-14-game2",
-   "titulo_es": "LoL: BNK FearX Youth vs HANJIN BRION Challengers - Ganador del Juego 2"
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
    "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
-   "prob_poly": 23.0,
+   "prob_poly": 27.0,
    "consenso": 1.0,
-   "edge": -22.0,
+   "edge": -26.0,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -47,11 +27,11 @@
    ],
    "n_fuentes": 1,
    "categoria": "Política",
-   "prob": 81,
+   "prob": 85,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 23.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 22.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 27.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 26.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
   },
   {
@@ -59,9 +39,9 @@
    "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
    "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
    "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "prob_poly": 45.0,
+   "prob_poly": 44.5,
    "consenso": 34.5,
-   "edge": -10.5,
+   "edge": -10.0,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -75,11 +55,11 @@
    ],
    "n_fuentes": 1,
    "categoria": "Entretenimiento",
-   "prob": 67,
+   "prob": 66,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 45.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 10.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 44.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 10.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
@@ -187,8 +167,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 98982.04341899998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -257,8 +237,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1245,
-   "no": 0.8755,
+   "yes": 0.1225,
+   "no": 0.8775,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -267,8 +247,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.037,
-   "no": 0.963,
+   "yes": 0.0315,
+   "no": 0.9685,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -297,8 +277,8 @@
   {
    "question": "Will the highest temperature in Shenzhen be 32°C on August 14?",
    "slug": "highest-temperature-in-shenzhen-on-august-14-2026-32c",
-   "yes": 0.004,
-   "no": 0.996,
+   "yes": 0.0035,
+   "no": 0.9965,
    "volumen": 9951.346295000001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -335,5 +315,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 7.5
+ "db_size_mb": 7.63
 }
