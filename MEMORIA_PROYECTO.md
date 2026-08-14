@@ -2,11 +2,11 @@
 
 ## Estado Actual (vivo)
 
-- **Estado:** Sistema automático COMPLETO + v0.6.0 — 2026-08-14 00:10: cron scan cada 1 min (job 7a818b7cc17a, script puro), poda de disco activa, sitio público auto-actualizado (https://devzendcode2025.github.io/polymarket-scanner/) con VERSIÓN MOBILE (tablas→tarjetas en celular), TODO EN ESPAÑOL (traducción DeepSeek con caché SQLite: solo títulos nuevos, máx 30/corrida, fallback silencioso), FILTRO POR PAÍS (27 LatAm: 23 ✅ ejecutables / 4 🔒 solo datos), LINKS directos a Polymarket en cada señal, y ANALISTA HEURÍSTICO (analyst.py, sin LLM) con prob + confianza + horizonte + justificación. Backup diario 03:00 UTC a repo privado (job e6232106fb87). BD ~2.2 MB. Clave DeepSeek: leída del .env del perfil de Hermes (no versionada).
-- **Decisiones firmes:** NO trading en Polymarket desde Nicaragua (bloqueado); solo APIs públicas read-only; cobros en USDC; TODO en español (títulos traducidos, no solo la UI); stdlib Python sin dependencias; Firebase/cPanel/dominio = fase futura; analista heurístico primero (gratis) y DeepSeek para traducción (activo) y narración de justificaciones (F4, clave autorizada).
+- **Estado:** Sistema automático COMPLETO + v0.7.0 — 2026-08-14 00:50: cron scan cada 1 min, poda de disco activa, sitio público auto-actualizado (https://devzendcode2025.github.io/polymarket-scanner/) con VERSIÓN MOBILE, TODO EN ESPAÑOL (traducción DeepSeek con caché), FILTRO POR PAÍS (27 LatAm), CATEGORÍAS (8) + selector, 25 ÍTEMS por sección, LINKS a Polymarket, ANALISTA HEURÍSTICO (prob/confianza/horizonte/razón) y F3 EDGE "DATOS GANADORES" (cross-check Kalshi/Manifold/PredictIt con caché 10 min; Metaculus descartada por exigir cuenta; matching por tokens raros compartidos + misma categoría — precisión alta, recall bajo, depuración pendiente). Backup diario 03:00 UTC (job e6232106fb87). BD ~2.5 MB.
+- **Decisiones firmes:** NO trading en Polymarket desde Nicaragua (bloqueado); solo APIs públicas read-only; cobros en USDC; TODO en español; stdlib Python sin dependencias; Firebase/cPanel/dominio = fase futura; edges con precisión > cantidad (nada de falsos positivos en el panel público); DeepSeek para traducción (activo) y narración (F4).
 - **Riesgos:** (1) APIs públicas pueden cambiar/limitarse sin aviso; (2) el cuello de botella comercial es la audiencia, no el código; (3) liquidez de Azuro aún no verificada (Fase 4); (4) probabilidades del analista = heurística, no garantía (transparencia en el pie del dashboard).
-- **Pendientes clave:** (1) F3 cross-check fuentes externas (Kalshi/Metaculus/Manifold) → EDGE; (2) F4 analista DeepSeek; (3) F5 piloto Perú; (4) afinar mispricings (menor volumen); (5) on-ramps USDC Nicaragua; (6) validar Azuro; (7) canal X/Telegram.
-- **Última actualización:** 2026-08-13
+- **Pendientes clave:** (1) depurar matching de edges (LLM/embeddings para cruzar el MISMO evento); (2) F4 narración DeepSeek de justificaciones; (3) F5 piloto Perú; (4) afinar mispricings (menor volumen); (5) on-ramps USDC Nicaragua; (6) validar Azuro; (7) canal X/Telegram.
+- **Última actualización:** 2026-08-14
 
 ---
 

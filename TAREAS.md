@@ -22,6 +22,9 @@
 - [x] ANALISTA HEURÍSTICO: prob 0-100 + confianza + horizonte + justificación por señal, sin LLM (F2, v0.5.0)
 - [x] VERSIÓN MOBILE del dashboard: tablas→tarjetas apiladas, stats 2 col, selector full-width (v0.6.0)
 - [x] TODO EN ESPAÑOL: traducción automática de títulos con DeepSeek (translate.py + caché SQLite, máx 30 nuevos/corrida; fallback silencioso) (v0.6.0)
+- [x] CATEGORÍAS por señal/mercado (categorias.py: Política/Deportes/Cripto/Economía/Tecnología/Ciencia/Entretenimiento/Otros) + selector + badge (v0.7.0)
+- [x] MÁS DE 10 ÍTEMS: ballenas 25, momentum 30, top 25, slices del dashboard 25 (v0.7.0)
+- [x] CROSS-CHECK DE PROBABILIDADES (F3): Kalshi + Manifold + PredictIt (Metaculus exige cuenta) → EDGE "datos ganadores", caché 10 min, matching por tokens raros + categoría (v0.7.0)
 - [ ] Afinar mispricings: barrer mercados de menor volumen / bajar umbral (los top-200 líquidos son eficientes)
 
 ## Fase 2 — Backtest de estrategias
@@ -36,7 +39,7 @@
 - [x] DASHBOARD DINÁMICO (v0.4.0): app JS consulta las APIs de Polymarket EN VIVO desde el navegador (ballenas vía Data API, top mercados vía Gamma — CORS verificado) + data.json del pipeline (mispricings/momentum) + auto-refresh 60s + hora Nicaragua
 - [x] Generador: render_dashboard.py → docs/data.json (detecciones del último scan); docs/index.html = app fija con JS
 - [x] Sitio se auto-actualiza: cron 1/min → render → push condicional (detecciones o ≥6 min; límite Pages ~10 builds/h)
-- [ ] CROSS-CHECK DE PROBABILIDADES (F3): fuentes externas públicas (Kalshi/Metaculus/Manifold) → EDGE = "datos ganadores" (Polymarket vs consenso externo, umbral sugerido 8 pts)
+- [x] CROSS-CHECK DE PROBABILIDADES (F3): Kalshi/Manifold/PredictIt (Metaculus exige cuenta) → EDGE "datos ganadores"; matching por tokens raros + categoría; DEPURACIÓN del matching pendiente (LLM/embeddings para mismo evento) — ver Fase 1
 - [ ] ANALISTA DEEPSEEK (F4): justificaciones narradas en español con el edge real (clave de Hermes ya autorizada; top-5 señales, cron 30-60 min)
 - [ ] PILOTO POR PAÍS (F5): verificación en vivo con Perú + ajustes
 - [ ] Firebase Firestore + dominio propio + cPanel: FASE FUTURA (usuario decidió dejarlo para adelante; el HTML estático migra sin cambios)
