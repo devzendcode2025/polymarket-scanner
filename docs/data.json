@@ -1,28 +1,66 @@
 {
- "ts": 1786673301,
- "stamp": "20260814_020821",
+ "ts": 1786673361,
+ "stamp": "20260814_020921",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd6e3e6620c32a0e41eea9728b46cac6dba3482926b5f3f2e1439eec21d9e66e0",
-   "titulo": "Will FC Nantes win on 2026-08-14?",
-   "slug": "fr2-lav-nan-2026-08-14-nan",
-   "outcome": "Yes",
+   "market_id": "0xa7a6ac07563a4e9f54379001a717a5a86d3ce12f1cd6932b1ea29c1f4a79d24b",
+   "titulo": "Lions vs. Bengals",
+   "slug": "nfl-det-cin-2026-08-13",
+   "outcome": "Bengals",
    "side": "BUY",
-   "size": 13810.0,
-   "price": 0.4850721868,
-   "usd": 6698.85,
-   "ts": 1786673029,
+   "size": 9145.0,
+   "price": 0.9841562384,
+   "usd": 9000.11,
+   "ts": 1786673329,
    "categoria": "Otros",
-   "prob": 62,
+   "prob": 65,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $6,699 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/fr2-lav-nan-2026-08-14-nan",
-   "titulo_es": "¿Ganará el FC Nantes el 14 de agosto de 2026?"
+   "razon": "Trade de compra por $9,000 en 'Bengals'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/nfl-det-cin-2026-08-13",
+   "titulo_es": "Leones vs. Bengals"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xa7a6ac07563a4e9f54379001a717a5a86d3ce12f1cd6932b1ea29c1f4a79d24b",
+   "titulo": "Lions vs. Bengals",
+   "slug": "nfl-det-cin-2026-08-13",
+   "outcome": "Bengals",
+   "side": "BUY",
+   "size": 2316.32,
+   "price": 0.99,
+   "usd": 2293.16,
+   "ts": 1786673329,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,293 en 'Bengals'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/nfl-det-cin-2026-08-13",
+   "titulo_es": "Leones vs. Bengals"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x032f694711e4b3e311b27566b88e3797b80000000000000000000000000000",
+   "titulo": "Will Catania FC win on 2026-08-14? AND Will Al Fateh Saudi Club win on 2026-08-15? AND Will Vitória SC win on 2026-08-14? AND Will Benevento Calcio win on 2026-08-14? AND Will Calcio Padova win on 2026-08-15? AND Will Al Faisaly Saudi Club win on 2026-08-14?",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 1718.159109,
+   "price": 0.6876831795,
+   "usd": 1181.55,
+   "ts": 1786673326,
+   "categoria": "Tecnología",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,182 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "¿Ganará el Catania FC el 14-08-2026? Y ¿Ganará el Al Fateh Saudi Club el 15-08-2026? Y ¿Ganará el Vitória SC el 14-08-2026? Y ¿Ganará el Benevento Calcio el 14-08-2026? Y ¿Ganará el Calcio Padova el 15-08-2026? Y ¿Ganará el Al Faisaly Saudi Club el 14-08-2026?"
   }
  ],
  "edges": [
@@ -89,8 +127,8 @@
   {
    "question": "Will Bitcoin reach $66,000 August 10-16?",
    "slug": "will-bitcoin-reach-66k-august-10-16-2026",
-   "yes": 0.0415,
-   "no": 0.9585,
+   "yes": 0.04,
+   "no": 0.96,
    "volumen": 99697.52013099998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -119,8 +157,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -169,22 +207,12 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.32,
-   "no": 0.68,
+   "yes": 0.31,
+   "no": 0.69,
    "volumen": 98896.737572,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
-  },
-  {
-   "question": "Will CSyD Macará win on 2026-08-13?",
-   "slug": "sud-san-mac-2026-08-13-mac",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 98829.46297099999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará CSyD Macará el 13 de agosto de 2026?"
   },
   {
    "question": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
@@ -239,8 +267,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.122,
-   "no": 0.878,
+   "yes": 0.1215,
+   "no": 0.8785,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -259,8 +287,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0375,
-   "no": 0.9625,
+   "yes": 0.0365,
+   "no": 0.9635,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -289,8 +317,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -305,7 +333,17 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
+  },
+  {
+   "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
+   "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
+   "yes": 0.205,
+   "no": 0.795,
+   "volumen": 9920.824999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   }
  ],
- "db_size_mb": 3.89
+ "db_size_mb": 3.95
 }
