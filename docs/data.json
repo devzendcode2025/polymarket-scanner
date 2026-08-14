@@ -1,47 +1,28 @@
 {
- "ts": 1786705110,
- "stamp": "20260814_105830",
+ "ts": 1786705170,
+ "stamp": "20260814_105930",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7cbd831c0ed473cba90e45e10074c95a69b9a234c1bdfaceb758686b927b12f7",
-   "titulo": "LoL: Nongshim Red Force vs HANJIN BRION - Game 1 Winner",
-   "slug": "lol-ns-bro2-2026-08-14-game1",
-   "outcome": "Nongshim Red Force",
+   "market_id": "0x3e2f6709d01352552b1245dd4f20c5fcc1b25e5e423e6a98e1750f9bd8bde846",
+   "titulo": "Dota 2: Aurora vs Team Yandex - Game 1 Winner",
+   "slug": "dota2-aur1-ty-2026-08-14-game1",
+   "outcome": "Team Yandex",
    "side": "BUY",
-   "size": 4055.0,
-   "price": 0.51,
-   "usd": 2068.05,
-   "ts": 1786704856,
+   "size": 6632.59675,
+   "price": 0.7840066562,
+   "usd": 5200.0,
+   "ts": 1786705156,
    "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
+   "prob": 59,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,068 en 'Nongshim Red Force'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ns-bro2-2026-08-14-game1",
-   "titulo_es": "LoL: Nongshim Red Force vs HANJIN BRION - Ganador del Juego 1"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x65f89c0fe9c7c45b4d373771b51f40c056e0059b1dbf723f92f40a583f4cdb86",
-   "titulo": "Bitcoin Up or Down - August 14, 6:50AM-6:55AM ET",
-   "slug": "btc-updown-5m-1786704600",
-   "outcome": "Down",
-   "side": "BUY",
-   "size": 1122.2222,
-   "price": 0.99,
-   "usd": 1111.0,
-   "ts": 1786704856,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,111 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1786704600",
-   "titulo_es": "Bitcoin Sube o Baja - 14 de agosto, 6:50AM-6:55AM ET"
+   "razon": "Trade de compra por $5,200 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-aur1-ty-2026-08-14-game1",
+   "titulo_es": "Dota 2: Aurora vs Team Yandex - Ganador del Juego 1"
   }
  ],
  "edges": [
@@ -88,8 +69,8 @@
   {
    "question": "Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage",
    "slug": "dota2-liquid-ts8-2026-08-14",
-   "yes": 0.325,
-   "no": 0.675,
+   "yes": 0.065,
+   "no": 0.935,
    "volumen": 984649.8714100004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -326,5 +307,5 @@
    "question_es": "¿Anunciará Beto O’Rourke una candidatura presidencial antes de 2027?"
   }
  ],
- "db_size_mb": 10.99
+ "db_size_mb": 11.05
 }
