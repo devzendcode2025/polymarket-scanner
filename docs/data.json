@@ -1,6 +1,6 @@
 {
- "ts": 1786673841,
- "stamp": "20260814_021721",
+ "ts": 1786673901,
+ "stamp": "20260814_021821",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -69,9 +69,9 @@
    "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
-   "prob_poly": 17.0,
+   "prob_poly": 29.0,
    "consenso": 1.0,
-   "edge": -16.0,
+   "edge": -28.0,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -85,11 +85,11 @@
    ],
    "n_fuentes": 1,
    "categoria": "Política",
-   "prob": 74,
+   "prob": 85,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 17.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 16.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 29.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 28.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
   }
  ],
