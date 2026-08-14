@@ -1,66 +1,66 @@
 {
- "ts": 1786697308,
- "stamp": "20260814_084828",
+ "ts": 1786697368,
+ "stamp": "20260814_084928",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa8f56c904770654835da63bdfad05074913f71173b39185527f3b04be4e504b0",
-   "titulo": "Dota 2: Iron Wing vs Team Falcons - Game 2 Winner",
-   "slug": "dota2-ironwi-flc-2026-08-14-game2",
-   "outcome": "Team Falcons",
+   "market_id": "0x94ffb3e28d5611ec6a76c65471105334f4656b9429d1a0ca503032fb5df2ef71",
+   "titulo": "Hamburg: Carlos Taberner vs Jan Kumstat",
+   "slug": "atp-taberne-kumstat-2026-08-14",
+   "outcome": "Jan Kumstat",
    "side": "BUY",
-   "size": 2169.711339,
-   "price": 0.9697096384,
-   "usd": 2103.99,
-   "ts": 1786697041,
+   "size": 6600.0,
+   "price": 0.6,
+   "usd": 3960.0,
+   "ts": 1786697352,
+   "categoria": "Otros",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,960 en 'Jan Kumstat'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-taberne-kumstat-2026-08-14",
+   "titulo_es": "Hamburgo: Carlos Taberner vs Jan Kumstat"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x5a4ad77e2f453b6fc64fef36edee018100d21f95ecb8856c2a9984ca97f9afb1",
+   "titulo": "Dota 2: Xtreme Gaming vs HULIGANI - Game 1 Winner",
+   "slug": "dota2-xtreme-huliga-2026-08-14-game1",
+   "outcome": "Xtreme Gaming",
+   "side": "BUY",
+   "size": 2997.98,
+   "price": 0.6699833221,
+   "usd": 2008.6,
+   "ts": 1786697344,
    "categoria": "Deportes",
    "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,104 en 'Team Falcons'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ironwi-flc-2026-08-14-game2",
-   "titulo_es": "Dota 2: Iron Wing vs Team Falcons - Ganador del Juego 2"
+   "razon": "Trade de compra por $2,009 en 'Xtreme Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-xtreme-huliga-2026-08-14-game1",
+   "titulo_es": "Dota 2: Xtreme Gaming vs HULIGANI - Ganador del Juego 1"
   },
   {
    "tipo": "ballena",
-   "market_id": "0xaacf8d41f580e15bf88aa5f162b98d2bed59171305f2d1e7260a14c788e1ba02",
-   "titulo": "Counter-Strike: INFURITY Gaming vs Teletubisie - Map 1 Winner",
-   "slug": "cs2-inf1-ttbs-2026-08-14-game1",
-   "outcome": "Teletubisie",
+   "market_id": "0x6899d6356ad6718825b7537a887fc4d83c1373b3d31df8a4bded58438df08eef",
+   "titulo": "LoL: T1 vs Dplus KIA - Game 1 Winner",
+   "slug": "lol-t1-dk-2026-08-14-game1",
+   "outcome": "T1",
    "side": "SELL",
-   "size": 1727.78,
+   "size": 1315.0,
    "price": 0.999,
-   "usd": 1726.05,
-   "ts": 1786697047,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,726 en 'Teletubisie'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-inf1-ttbs-2026-08-14-game1",
-   "titulo_es": "Counter-Strike: INFURITY Gaming vs Teletubisie - Ganador del Mapa 1"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x05bd87f69789ec2cfaee901d73e741695ce3cdcbf3aa4cdd80f62ac4dc4eaf56",
-   "titulo": "Will the price of Bitcoin be above $64,000 on August 14?",
-   "slug": "bitcoin-above-64k-on-august-14-2026",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1085.0,
-   "price": 0.96,
-   "usd": 1041.6,
-   "ts": 1786697044,
-   "categoria": "Cripto",
+   "usd": 1313.68,
+   "ts": 1786697331,
+   "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,042 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-64k-on-august-14-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 14 de agosto?"
+   "razon": "Trade de venta por $1,314 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-t1-dk-2026-08-14-game1",
+   "titulo_es": "LoL: T1 vs Dplus KIA - Ganador del Juego 1"
   }
  ],
  "edges": [
@@ -119,7 +119,7 @@
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
    "yes": 0.12,
    "no": 0.88,
-   "volumen": 99621.41317099998,
+   "volumen": 99621.413171,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la segunda empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -129,7 +129,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000001,
+   "volumen": 99532.33041999995,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -169,7 +169,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99069.69360200001,
+   "volumen": 99069.693602,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -179,7 +179,7 @@
    "slug": "ethereum-above-2000-on-august-14-2026",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 99036.60753400004,
+   "volumen": 99068.318534,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Ethereum por encima de $2,000 el 14 de agosto?"
@@ -229,7 +229,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98344.80752600002,
+   "volumen": 98404.807526,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -245,21 +245,11 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
-   "question": "Astana: Jie Cui vs Aziz Dougaz",
-   "slug": "atp-cui-dougaz-2026-08-14",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 9986.324944999995,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Astana: Jie Cui vs Aziz Dougaz"
-  },
-  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.12,
-   "no": 0.88,
-   "volumen": 9974.940754,
+   "yes": 0.1205,
+   "no": 0.8795,
+   "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -277,9 +267,9 @@
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.285,
-   "no": 0.715,
-   "volumen": 9969.309623000005,
+   "yes": 0.28,
+   "no": 0.72,
+   "volumen": 9969.309623000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -297,8 +287,8 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.235,
-   "no": 0.765,
+   "yes": 0.265,
+   "no": 0.735,
    "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
@@ -315,6 +305,16 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   },
   {
+   "question": "Will the price of Bitcoin be above $64,000 on August 16?",
+   "slug": "bitcoin-above-64k-on-august-16-2026",
+   "yes": 0.145,
+   "no": 0.855,
+   "volumen": 9919.596276999999,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 16 de agosto?"
+  },
+  {
    "question": "Will Thinky have the best AI model at the end of September 2026?",
    "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
    "yes": 0.0015,
@@ -329,7 +329,7 @@
    "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
    "yes": 0.61,
    "no": 0.39,
-   "volumen": 9916.220947999998,
+   "volumen": 9916.220948,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
@@ -345,5 +345,5 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 9.21
+ "db_size_mb": 9.28
 }
