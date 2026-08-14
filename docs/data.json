@@ -1,28 +1,28 @@
 {
- "ts": 1786686805,
- "stamp": "20260814_055325",
+ "ts": 1786687165,
+ "stamp": "20260814_055925",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3d11e53379fc2596bf7c68492c75d2b3ddb7971422782b15b7ec9c2652320418",
-   "titulo": "Dota 2: LGD Gaming vs Nigma Galaxy - Game 1 Winner",
-   "slug": "dota2-lgd-ngx-2026-08-14-game1",
-   "outcome": "Nigma Galaxy",
-   "side": "SELL",
-   "size": 54351.28,
-   "price": 0.999,
-   "usd": 54296.93,
-   "ts": 1786686538,
-   "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $54,297 en 'Nigma Galaxy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-lgd-ngx-2026-08-14-game1",
-   "titulo_es": "Dota 2: LGD Gaming vs Nigma Galaxy - Ganador del Juego 1"
+   "market_id": "0xc6c2c940bcaa662a5448c2f3d4282f26383afded2501c3003ccc12491210a1f1",
+   "titulo": "Will the highest temperature in Guangzhou be 34°C on August 14?",
+   "slug": "highest-temperature-in-guangzhou-on-august-14-2026-34c",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1045.01,
+   "price": 0.99,
+   "usd": 1034.56,
+   "ts": 1786687137,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,035 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/highest-temperature-in-guangzhou-on-august-14-2026-34c",
+   "titulo_es": "¿Será la temperatura máxima en Guangzhou de 34°C el 14 de agosto?"
   }
  ],
  "edges": [
@@ -89,8 +89,8 @@
   {
    "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
-   "yes": 0.028,
-   "no": 0.972,
+   "yes": 0.0275,
+   "no": 0.9725,
    "volumen": 99751.35804699996,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -129,8 +129,8 @@
   {
    "question": "Bitcoin Up or Down on August 14?",
    "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.46,
-   "no": 0.54,
+   "yes": 0.47,
+   "no": 0.53,
    "volumen": 99256.49749299997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -139,8 +139,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -269,8 +269,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0305,
-   "no": 0.9695,
+   "yes": 0.0425,
+   "no": 0.9575,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -307,5 +307,5 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
- "db_size_mb": 6.88
+ "db_size_mb": 6.99
 }
