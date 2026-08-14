@@ -1,11 +1,39 @@
 {
- "ts": 1786689866,
- "stamp": "20260814_064426",
+ "ts": 1786690226,
+ "stamp": "20260814_065026",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [],
  "edges": [
+  {
+   "tipo": "edge",
+   "question": "Will the Chicago Cubs have the highest ABS success rate during the 2026 MLB regular season?",
+   "slug": "will-the-chicago-cubs-have-the-highest-abs-success-rate-during-the-2026-mlb-regular-season-20260702205844831",
+   "url": "https://polymarket.com/market/will-the-chicago-cubs-have-the-highest-abs-success-rate-during-the-2026-mlb-regular-season-20260702205844831",
+   "prob_poly": 1.1,
+   "consenso": 56.9,
+   "edge": 55.8,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "MLB: Will the Chicago Cubs sweep the St. Louis Cardinals OR will the 3-game series total 26 or more runs?",
+     "prob": 56.94294940796555,
+     "url": "https://manifold.markets/Web3ICP/mlb-will-the-chicago-cubs-sweep-the-LSupCS9IOC",
+     "_poly_question": "Will Shein's closing IPO market cap be at least 400B HKD?",
+     "titulo_es": "MLB: ¿Barrerán los Chicago Cubs a los St. Louis Cardinals O la serie de 3 juegos totalizará 26 o más carreras?"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Deportes",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "Manifold",
+   "razon": "Polymarket paga este mercado a 1.1% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 56.9%: diferencia de 55.8 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Tendrán los Chicago Cubs la tasa de éxito de ABS más alta durante la temporada regular de la MLB 2026?"
+  },
   {
    "tipo": "edge",
    "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
@@ -21,7 +49,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Valantis FDV above $300M one day after launch?",
+     "_poly_question": "Will Shein's closing IPO market cap be at least 400B HKD?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -39,9 +67,9 @@
    "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
    "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
    "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "prob_poly": 44.5,
+   "prob_poly": 43.5,
    "consenso": 34.5,
-   "edge": -10.0,
+   "edge": -9.0,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -49,17 +77,17 @@
      "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
      "prob": 34.53783434138884,
      "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
-     "_poly_question": "Valantis FDV above $300M one day after launch?",
+     "_poly_question": "Will Shein's closing IPO market cap be at least 400B HKD?",
      "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
     }
    ],
    "n_fuentes": 1,
    "categoria": "Entretenimiento",
-   "prob": 66,
+   "prob": 65,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 44.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 10.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 43.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
@@ -69,7 +97,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 998476.0048240003,
+   "volumen": 998478.5648240013,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -79,7 +107,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.023,
    "no": 0.977,
-   "volumen": 985888.500828,
+   "volumen": 985888.5008280001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -99,20 +127,10 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1325,
    "no": 0.8675,
-   "volumen": 980646.191277,
+   "volumen": 980646.1912770002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
-  },
-  {
-   "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
-   "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
-   "yes": 0.028,
-   "no": 0.972,
-   "volumen": 99751.35804699996,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -129,7 +147,7 @@
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 99453.77031499997,
+   "volumen": 99468.77031499997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la segunda empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -137,8 +155,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -149,7 +167,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.48181800003,
+   "volumen": 99159.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -167,8 +185,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 98982.04341899998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -189,7 +207,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.295,
    "no": 0.705,
-   "volumen": 98896.737572,
+   "volumen": 98896.73757199995,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -209,7 +227,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98150.55052600002,
+   "volumen": 98150.550526,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -229,7 +247,7 @@
    "slug": "highest-temperature-in-denver-on-august-13-2026-75forbelow",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9983.735801,
+   "volumen": 9983.735800999999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Denver de 75°F o inferior el 13 de agosto?"
@@ -247,8 +265,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.0305,
+   "no": 0.9695,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -275,16 +293,6 @@
    "question_es": "¿Ganará Sol1xd el Soloq Challenge 2026 (High Elo)?"
   },
   {
-   "question": "Will the highest temperature in Shenzhen be 32°C on August 14?",
-   "slug": "highest-temperature-in-shenzhen-on-august-14-2026-32c",
-   "yes": 0.0035,
-   "no": 0.9965,
-   "volumen": 9951.346295000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Shenzhen de 32°C el 14 de agosto?"
-  },
-  {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
    "yes": 0.095,
@@ -297,8 +305,8 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.21,
-   "no": 0.79,
+   "yes": 0.215,
+   "no": 0.785,
    "volumen": 9920.824999,
    "spread": 0.0,
    "categoria": "Política",
@@ -313,7 +321,27 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
+  },
+  {
+   "question": "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?",
+   "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
+   "yes": 0.605,
+   "no": 0.395,
+   "volumen": 9916.220948,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
+  },
+  {
+   "question": "Will the Democratic Party win the AR-01 House seat?",
+   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
+   "yes": 0.0155,
+   "no": 0.9845,
+   "volumen": 9914.337593,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 7.63
+ "db_size_mb": 7.69
 }
