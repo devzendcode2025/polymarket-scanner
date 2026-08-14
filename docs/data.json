@@ -1,6 +1,6 @@
 {
- "ts": 1786681643,
- "stamp": "20260814_042723",
+ "ts": 1786681703,
+ "stamp": "20260814_042823",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -69,9 +69,9 @@
    "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
-   "prob_poly": 27.0,
+   "prob_poly": 39.0,
    "consenso": 1.0,
-   "edge": -26.0,
+   "edge": -38.0,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -79,7 +79,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will Los Angeles FC vs. San Diego FC end in a draw?",
+     "_poly_question": "NYSE marketwide circuit breaker before 2027?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -89,7 +89,7 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 27.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 26.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 39.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 38.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
   },
   {
@@ -107,7 +107,7 @@
      "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
      "prob": 34.53783434138884,
      "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
-     "_poly_question": "Will Los Angeles FC vs. San Diego FC end in a draw?",
+     "_poly_question": "NYSE marketwide circuit breaker before 2027?",
      "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
     }
    ],
