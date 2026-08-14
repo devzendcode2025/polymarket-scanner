@@ -1,6 +1,6 @@
 {
- "ts": 1786704390,
- "stamp": "20260814_104630",
+ "ts": 1786704450,
+ "stamp": "20260814_104730",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -364,5 +364,5 @@
    "question_es": "¿Anunciará Beto O’Rourke una candidatura presidencial antes de 2027?"
   }
  ],
- "db_size_mb": 10.86
+ "db_size_mb": 10.87
 }
