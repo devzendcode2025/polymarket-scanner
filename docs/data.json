@@ -1,66 +1,28 @@
 {
- "ts": 1786713212,
- "stamp": "20260814_131332",
+ "ts": 1786713272,
+ "stamp": "20260814_131432",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8b65d3bf652ab25430a076d9fe686d4f92afe536b8a5336f576f6424d9797563",
-   "titulo": "Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage",
-   "slug": "dota2-aur1-ty-2026-08-14",
-   "outcome": "Team Yandex",
+   "market_id": "0xc8e72eb07dc579a57e6e382e002f9717522f87ca1ff1cda7ef4eff9a593609b1",
+   "titulo": "Spread: Navbahor (-1.5)",
+   "slug": "uzb1-nav-bun-2026-08-14-spread-home-1pt5",
+   "outcome": "FC Bunyodkor",
    "side": "BUY",
-   "size": 4007.99,
-   "price": 0.61,
-   "usd": 2444.87,
-   "ts": 1786712961,
+   "size": 2686.0,
+   "price": 0.49,
+   "usd": 1316.14,
+   "ts": 1786713247,
    "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,445 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-aur1-ty-2026-08-14",
-   "titulo_es": "Dota 2: Aurora vs Team Yandex (BO3) - Fase de Grupos de The International"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x8b65d3bf652ab25430a076d9fe686d4f92afe536b8a5336f576f6424d9797563",
-   "titulo": "Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage",
-   "slug": "dota2-aur1-ty-2026-08-14",
-   "outcome": "Aurora",
-   "side": "BUY",
-   "size": 5023.05,
-   "price": 0.390298703,
-   "usd": 1960.49,
-   "ts": 1786712961,
-   "categoria": "Otros",
-   "prob": 54,
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,960 en 'Aurora'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-aur1-ty-2026-08-14",
-   "titulo_es": "Dota 2: Aurora vs Team Yandex (BO3) - Fase de Grupos de The International"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x02616b9895b52d4d1b5b1ede0e237a411cf90f244069c09e380f51365c7e67fd",
-   "titulo": "LoL: Anyone's Legend vs JD Gaming - Game 2 Winner",
-   "slug": "lol-al-jdg-2026-08-14-game2",
-   "outcome": "Anyones Legend",
-   "side": "SELL",
-   "size": 1389.66,
-   "price": 0.999,
-   "usd": 1388.27,
-   "ts": 1786712959,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,388 en 'Anyones Legend'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14-game2",
-   "titulo_es": "LoL: Anyone's Legend vs JD Gaming - Ganador del Juego 2"
+   "razon": "Trade de compra por $1,316 en 'FC Bunyodkor'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/uzb1-nav-bun-2026-08-14-spread-home-1pt5",
+   "titulo_es": "Margen: Navbahor (-1.5)"
   }
  ],
  "edges": [
@@ -335,8 +297,8 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.235,
-   "no": 0.765,
+   "yes": 0.23,
+   "no": 0.77,
    "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
@@ -355,8 +317,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.08,
-   "no": 0.92,
+   "yes": 0.065,
+   "no": 0.935,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -373,5 +335,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 12.79
+ "db_size_mb": 12.84
 }
