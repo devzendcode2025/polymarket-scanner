@@ -1,28 +1,28 @@
 {
- "ts": 1786677802,
- "stamp": "20260814_032322",
+ "ts": 1786677862,
+ "stamp": "20260814_032422",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x2a662fee768b2d7ee1a2e9fff20f324eaae0a2f95d8b67c1f385e3bdb2f1b1d2",
-   "titulo": "US announces end of Iranian blockade by August 13, 2026?",
-   "slug": "us-announces-end-of-iranian-blockade-by-august-13-2026",
-   "outcome": "No",
+   "market_id": "0xd0185d4cda0d04151d8d8da1a109a24dcdc242afefd4c46c3c137babed7900a3",
+   "titulo": "LoL: T1 Academy vs Dplus KIA Challengers - Game 1 Winner",
+   "slug": "lol-t1a-dkc-2026-08-13-game1",
+   "outcome": "T1 Academy",
    "side": "BUY",
-   "size": 5336.39,
-   "price": 0.999,
-   "usd": 5331.05,
-   "ts": 1786677537,
-   "categoria": "Otros",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,331 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/us-announces-end-of-iranian-blockade-by-august-13-2026",
-   "titulo_es": "¿EE. UU. anuncia el fin del bloqueo iraní para el 13 de agosto de 2026?"
+   "size": 13007.0,
+   "price": 0.12,
+   "usd": 1560.84,
+   "ts": 1786677840,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,561 en 'T1 Academy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-t1a-dkc-2026-08-13-game1",
+   "titulo_es": "LoL: T1 Academy vs Dplus KIA Challengers - Ganador del Juego 1"
   }
  ],
  "edges": [
@@ -89,8 +89,8 @@
   {
    "question": "Will Bitcoin reach $66,000 August 10-16?",
    "slug": "will-bitcoin-reach-66k-august-10-16-2026",
-   "yes": 0.035,
-   "no": 0.965,
+   "yes": 0.0345,
+   "no": 0.9655,
    "volumen": 99768.44148099999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -119,8 +119,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -229,8 +229,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1195,
-   "no": 0.8805,
+   "yes": 0.119,
+   "no": 0.881,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -239,8 +239,8 @@
   {
    "question": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
    "slug": "ukraine-strikes-another-vessel-in-the-black-sea-by-august-15-2026-20260804183343485",
-   "yes": 0.87,
-   "no": 0.13,
+   "yes": 0.905,
+   "no": 0.095,
    "volumen": 9974.530565,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -289,8 +289,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -307,5 +307,5 @@
    "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
   }
  ],
- "db_size_mb": 4.88
+ "db_size_mb": 4.94
 }
