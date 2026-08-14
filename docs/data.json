@@ -1,6 +1,6 @@
 {
- "ts": 1786704570,
- "stamp": "20260814_104930",
+ "ts": 1786704630,
+ "stamp": "20260814_105030",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -100,7 +100,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will drop dead (Olivia Rodrigo) win Song of the Year at the 69th Annual GRAMMY Awards?",
+     "_poly_question": "Will the US federal government take a stake in OpenAI?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
