@@ -1,123 +1,28 @@
 {
- "ts": 1786714412,
- "stamp": "20260814_133332",
+ "ts": 1786714472,
+ "stamp": "20260814_133432",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8ce33e7b4a7f62a665eb1c61d1fce7ac2843c1b67838c75fa524fee612619387",
-   "titulo": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
-   "slug": "lol-al-jdg-2026-08-14",
-   "outcome": "JD Gaming",
-   "side": "BUY",
-   "size": 22682.96,
-   "price": 0.41,
-   "usd": 9300.01,
-   "ts": 1786714156,
-   "categoria": "Otros",
-   "prob": 65,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $9,300 en 'JD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14",
-   "titulo_es": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x8ce33e7b4a7f62a665eb1c61d1fce7ac2843c1b67838c75fa524fee612619387",
-   "titulo": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
-   "slug": "lol-al-jdg-2026-08-14",
-   "outcome": "Anyones Legend",
-   "side": "BUY",
-   "size": 10000.0,
-   "price": 0.6,
-   "usd": 6000.0,
-   "ts": 1786714147,
-   "categoria": "Otros",
-   "prob": 61,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $6,000 en 'Anyones Legend'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14",
-   "titulo_es": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3648489dc6760f9e4cf8331d55af925213705a9f1eae503a3f1de2d1119ecbea",
-   "titulo": "Map Handicap: VIT (-1.5) vs B8 (+1.5)",
-   "slug": "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5",
-   "outcome": "Vitality",
-   "side": "BUY",
-   "size": 5480.55,
-   "price": 0.6693056354,
-   "usd": 3668.16,
-   "ts": 1786714156,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,668 en 'Vitality'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-b8-vit-2026-08-14-map-handicap-home-1pt5",
-   "titulo_es": "Mapa de Hándicap: VIT (-1.5) vs B8 (+1.5)"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x38aae5f85f4ea1da3474ff779979018a5f1c4c9bb3315a1de336c11b6f548920",
-   "titulo": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
-   "slug": "cs2-fut-mouz-2026-08-14",
-   "outcome": "FUT Esports",
-   "side": "BUY",
-   "size": 9101.98,
-   "price": 0.35,
-   "usd": 3185.69,
-   "ts": 1786714159,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,186 en 'FUT Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-fut-mouz-2026-08-14",
-   "titulo_es": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Copa Mundial de Esports Grupo C"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x8ce33e7b4a7f62a665eb1c61d1fce7ac2843c1b67838c75fa524fee612619387",
-   "titulo": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
-   "slug": "lol-al-jdg-2026-08-14",
-   "outcome": "Anyones Legend",
-   "side": "BUY",
-   "size": 3000.0,
-   "price": 0.6,
-   "usd": 1800.0,
-   "ts": 1786714150,
-   "categoria": "Otros",
+   "market_id": "0xef6e9dec1709d535cb7bef116db701de00f1255a5033e3786a1e1996a12e0609",
+   "titulo": "Will Shandong Taishan FC win on 2026-08-14?",
+   "slug": "chi-sha-hai-2026-08-14-sha",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 1992.5,
+   "price": 0.999,
+   "usd": 1990.51,
+   "ts": 1786714458,
+   "categoria": "Tecnología",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,800 en 'Anyones Legend'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14",
-   "titulo_es": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x8ce33e7b4a7f62a665eb1c61d1fce7ac2843c1b67838c75fa524fee612619387",
-   "titulo": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
-   "slug": "lol-al-jdg-2026-08-14",
-   "outcome": "JD Gaming",
-   "side": "SELL",
-   "size": 2788.0,
-   "price": 0.4,
-   "usd": 1115.2,
-   "ts": 1786714152,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,115 en 'JD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14",
-   "titulo_es": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend"
+   "razon": "Trade de venta por $1,991 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/chi-sha-hai-2026-08-14-sha",
+   "titulo_es": "¿Ganará el Shandong Taishan FC el 2026-08-14?"
   }
  ],
  "edges": [
@@ -180,16 +85,6 @@
  ],
  "top_volumen": [
   {
-   "question": "Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage",
-   "slug": "dota2-aur1-ty-2026-08-14",
-   "yes": 0.565,
-   "no": 0.435,
-   "volumen": 993569.9210359989,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Dota 2: Aurora vs Team Yandex (BO3) - Fase de Grupos de The International"
-  },
-  {
    "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0205,
@@ -204,7 +99,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 983903.343522,
+   "volumen": 984114.5435220001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -224,7 +119,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000004,
+   "volumen": 99532.33042000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -244,7 +139,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.481818,
+   "volumen": 99159.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -254,7 +149,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99069.69360200003,
+   "volumen": 99069.693602,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -310,16 +205,6 @@
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
   },
   {
-   "question": "Games Total: O/U 2.5",
-   "slug": "lol-t1-dk-2026-08-14-total-games-2pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9999.210369000002,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Total de Juegos: O/U 2.5"
-  },
-  {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
    "yes": 0.009,
@@ -330,21 +215,11 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
-   "question": "Counter-Strike: Lazer Cats vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #3 Group A",
-   "slug": "cs2-lc-mouzn-2026-08-14",
-   "yes": 0.695,
-   "no": 0.305,
-   "volumen": 9992.786731000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Counter-Strike: Lazer Cats vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #3 Grupo A"
-  },
-  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1205,
    "no": 0.8795,
-   "volumen": 9974.940754,
+   "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -352,19 +227,29 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.03,
-   "no": 0.97,
+   "yes": 0.048,
+   "no": 0.952,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
+   "question": "Will Cagliari Calcio win on 2026-08-14?",
+   "slug": "itc-cag-are-2026-08-14-cag",
+   "yes": 0.61,
+   "no": 0.39,
+   "volumen": 9971.781872,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará el Cagliari Calcio el 2026-08-14?"
+  },
+  {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
    "yes": 0.24,
    "no": 0.76,
-   "volumen": 9969.309623000005,
+   "volumen": 9969.309623000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -374,7 +259,7 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137667,
+   "volumen": 9966.137666999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
@@ -382,9 +267,9 @@
   {
    "question": "Will the highest temperature in Lucknow be 34°C on August 14?",
    "slug": "highest-temperature-in-lucknow-on-august-14-2026-34c",
-   "yes": 0.999,
-   "no": 0.001,
-   "volumen": 9956.876332999998,
+   "yes": 0.9985,
+   "no": 0.0015,
+   "volumen": 9961.876333,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Lucknow de 34°C el 14 de agosto?"
@@ -394,7 +279,7 @@
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
    "yes": 0.235,
    "no": 0.765,
-   "volumen": 9948.784999000001,
+   "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
@@ -404,7 +289,7 @@
    "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
    "yes": 0.61,
    "no": 0.39,
-   "volumen": 9948.479010999998,
+   "volumen": 9948.479011,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
@@ -420,6 +305,16 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   },
   {
+   "question": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A",
+   "slug": "cs2-jjh-aur1-2026-08-15",
+   "yes": 0.155,
+   "no": 0.845,
+   "volumen": 9920.848541000001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Copa Mundial de Esports Grupo A"
+  },
+  {
    "question": "Will Thinky have the best AI model at the end of September 2026?",
    "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
    "yes": 0.0015,
@@ -428,7 +323,17 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
+  },
+  {
+   "question": "Will the Democratic Party win the AR-01 House seat?",
+   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
+   "yes": 0.0155,
+   "no": 0.9845,
+   "volumen": 9914.337593,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 13.05
+ "db_size_mb": 13.13
 }
