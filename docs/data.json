@@ -1,6 +1,6 @@
 {
- "ts": 1786665559,
- "stamp": "20260813_235919",
+ "ts": 1786665619,
+ "stamp": "20260814_000019",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -20,7 +20,8 @@
    "confianza": "media",
    "horizonte": "24h",
    "razon": "Trade de compra por $3,484 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/nfl-lac-hou-2026-08-14-total-37pt5"
+   "url": "https://polymarket.com/market/nfl-lac-hou-2026-08-14-total-37pt5",
+   "titulo_es": "LAC vs. HOU: Más/Menos 37.5"
   },
   {
    "tipo": "ballena",
@@ -37,7 +38,8 @@
    "confianza": "media",
    "horizonte": "24h",
    "razon": "Trade de compra por $2,043 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-58k-on-august-14-2026"
+   "url": "https://polymarket.com/market/bitcoin-above-58k-on-august-14-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $58,000 el 14 de agosto?"
   },
   {
    "tipo": "ballena",
@@ -54,8 +56,9 @@
    "confianza": "baja",
    "horizonte": "72h",
    "razon": "Trade de compra por $1,500 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-phi-min-2026-08-13-total-10pt5"
+   "url": "https://polymarket.com/market/mlb-phi-min-2026-08-13-total-10pt5",
+   "titulo_es": "Philadelphia Phillies vs. Minnesota Twins: Más/Menos 10.5"
   }
  ],
- "db_size_mb": 2.19
+ "db_size_mb": 2.2
 }
