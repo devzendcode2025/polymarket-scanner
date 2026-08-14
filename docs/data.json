@@ -1,47 +1,28 @@
 {
- "ts": 1786676602,
- "stamp": "20260814_030322",
+ "ts": 1786676662,
+ "stamp": "20260814_030422",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb2debad267ba645835255fa3156b0efb948b4c3bf0dc5f8e97a972a72d295739",
-   "titulo": "Dota 2: HULIGANI vs Vici Gaming - Game 1 Winner",
-   "slug": "dota2-huliga-vg-2026-08-13-game1",
-   "outcome": "HULIGANI",
+   "market_id": "0x95d1c4bf6f7e65b827a9ca60e2f0bf9d1af7bf1d7a854a45e44ac22d11730247",
+   "titulo": "Dota 2: Xtreme Gaming vs GamerLegion - Game 2 Winner",
+   "slug": "dota2-xtreme-gl-2026-08-13-game2",
+   "outcome": "Xtreme Gaming",
    "side": "BUY",
-   "size": 1516.91,
-   "price": 0.8799472612,
-   "usd": 1334.8,
-   "ts": 1786676329,
+   "size": 4838.709676,
+   "price": 0.62,
+   "usd": 3000.0,
+   "ts": 1786676635,
    "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,335 en 'HULIGANI'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-huliga-vg-2026-08-13-game1",
-   "titulo_es": "Dota 2: HULIGANI vs Vici Gaming - Ganador del Juego 1"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d",
-   "titulo": "Cincinnati Open: Rinky Hijikata vs Gael Monfils",
-   "slug": "atp-hijikat-monfils-2026-08-13",
-   "outcome": "Rinky Hijikata",
-   "side": "BUY",
-   "size": 1278.57,
-   "price": 0.94,
-   "usd": 1201.86,
-   "ts": 1786676334,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,202 en 'Rinky Hijikata'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-hijikat-monfils-2026-08-13",
-   "titulo_es": "Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,000 en 'Xtreme Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-xtreme-gl-2026-08-13-game2",
+   "titulo_es": "Dota 2: Xtreme Gaming vs GamerLegion - Ganador del Juego 2"
   }
  ],
  "edges": [
@@ -108,7 +89,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996551.7956910003,
+   "volumen": 996554.8856910013,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -138,7 +119,7 @@
    "slug": "will-bitcoin-reach-66k-august-10-16-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99743.44148099999,
+   "volumen": 99768.44148099999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Bitcoin los $66,000 del 10 al 16 de agosto?"
@@ -148,7 +129,7 @@
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.024,
    "no": 0.976,
-   "volumen": 99681.46954699996,
+   "volumen": 99681.46954699994,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
@@ -158,7 +139,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042,
+   "volumen": 99532.33042000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -178,7 +159,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 99159.48181799997,
+   "volumen": 99159.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -188,7 +169,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99035.45360200004,
+   "volumen": 99035.45360200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -228,7 +209,7 @@
    "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
    "yes": 0.0145,
    "no": 0.9855,
-   "volumen": 98586.75946,
+   "volumen": 98586.75945999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
@@ -248,20 +229,10 @@
    "slug": "will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123",
    "yes": 0.025,
    "no": 0.975,
-   "volumen": 98172.12016199999,
+   "volumen": 98300.68016199999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Nigel Farage entre el 50 y el 60% de los votos en la elección parcial parlamentaria de Clacton?"
-  },
-  {
-   "question": "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?",
-   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 98145.55052599999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
   },
   {
    "question": "Will Dogecoin reach $0.15 in August?",
@@ -286,9 +257,9 @@
   {
    "question": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
    "slug": "ukraine-strikes-another-vessel-in-the-black-sea-by-august-15-2026-20260804183343485",
-   "yes": 0.815,
-   "no": 0.185,
-   "volumen": 9974.530565,
+   "yes": 0.85,
+   "no": 0.15,
+   "volumen": 9974.530565000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Ucrania ataca otro buque en el Mar Negro antes del 15 de agosto de 2026?"
@@ -296,8 +267,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0385,
-   "no": 0.9615,
+   "yes": 0.039,
+   "no": 0.961,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -316,8 +287,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -334,11 +305,21 @@
    "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
   },
   {
+   "question": "Will the highest temperature in London be 34°C on August 14?",
+   "slug": "highest-temperature-in-london-on-august-14-2026-34c",
+   "yes": 0.3,
+   "no": 0.7,
+   "volumen": 9931.593680999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Londres de 34°C el 14 de agosto?"
+  },
+  {
    "question": "Will Meta have the best AI model at the end of September 2026?",
    "slug": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
    "yes": 0.0075,
    "no": 0.9925,
-   "volumen": 9924.981956,
+   "volumen": 9924.981956000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Meta el mejor modelo de IA a finales de septiembre de 2026?"
@@ -354,5 +335,5 @@
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   }
  ],
- "db_size_mb": 4.61
+ "db_size_mb": 4.67
 }
