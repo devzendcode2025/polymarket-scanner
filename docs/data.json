@@ -1,28 +1,28 @@
 {
- "ts": 1786688905,
- "stamp": "20260814_062825",
+ "ts": 1786689265,
+ "stamp": "20260814_063425",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x40f6a82279f067be42ea520e393930732da000cd5a520b373ffefe6ed6843ee2",
-   "titulo": "Dota 2: Team Resilience vs OG - Game 1 Winner",
-   "slug": "dota2-tr7-og-2026-08-14-game1",
-   "outcome": "OG",
+   "market_id": "0xf20350533181e94ccea56d45f34b52ae95fb5b48d675fc18b329117e025630a2",
+   "titulo": "LoL: BNK FearX Youth vs HANJIN BRION Challengers - Game 2 Winner",
+   "slug": "lol-foxy-bro1-2026-08-14-game2",
+   "outcome": "HANJIN BRION Challengers",
    "side": "BUY",
-   "size": 7297.0,
-   "price": 0.5999725915,
-   "usd": 4378.0,
-   "ts": 1786688644,
+   "size": 3308.41,
+   "price": 0.9867353502,
+   "usd": 3264.53,
+   "ts": 1786689246,
    "categoria": "Deportes",
-   "prob": 58,
+   "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $4,378 en 'OG'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-tr7-og-2026-08-14-game1",
-   "titulo_es": "Dota 2: Team Resilience vs OG - Ganador del Juego 1"
+   "razon": "Trade de compra por $3,265 en 'HANJIN BRION Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-foxy-bro1-2026-08-14-game2",
+   "titulo_es": "LoL: BNK FearX Youth vs HANJIN BRION Challengers - Ganador del Juego 2"
   }
  ],
  "edges": [
@@ -31,9 +31,9 @@
    "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
-   "prob_poly": 27.0,
+   "prob_poly": 23.0,
    "consenso": 1.0,
-   "edge": -26.0,
+   "edge": -22.0,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -41,17 +41,17 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
+     "_poly_question": "Valantis FDV above $300M one day after launch?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
    "n_fuentes": 1,
    "categoria": "Política",
-   "prob": 85,
+   "prob": 81,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 27.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 26.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 23.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 22.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
   },
   {
@@ -59,9 +59,9 @@
    "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
    "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
    "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "prob_poly": 43.5,
+   "prob_poly": 45.0,
    "consenso": 34.5,
-   "edge": -9.0,
+   "edge": -10.5,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -69,17 +69,17 @@
      "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
      "prob": 34.53783434138884,
      "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
-     "_poly_question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
+     "_poly_question": "Valantis FDV above $300M one day after launch?",
      "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
     }
    ],
    "n_fuentes": 1,
    "categoria": "Entretenimiento",
-   "prob": 65,
+   "prob": 67,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 43.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 45.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 10.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
@@ -89,7 +89,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 998476.0048240016,
+   "volumen": 998476.0048240003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -119,7 +119,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1325,
    "no": 0.8675,
-   "volumen": 980646.1912770005,
+   "volumen": 980646.191277,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -129,27 +129,17 @@
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.028,
    "no": 0.972,
-   "volumen": 99751.35804699994,
+   "volumen": 99751.35804699996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
-  },
-  {
-   "question": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-   "slug": "lol-t1a-dkc-2026-08-13",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99692.44181400003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000001,
+   "volumen": 99532.33042000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -159,7 +149,7 @@
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 99453.770315,
+   "volumen": 99453.77031499997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la segunda empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -167,8 +157,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -179,7 +169,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.48181799996,
+   "volumen": 99159.48181800003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -219,7 +209,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.295,
    "no": 0.705,
-   "volumen": 98896.73757199997,
+   "volumen": 98896.737572,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -239,7 +229,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98150.550526,
+   "volumen": 98150.55052600002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -259,7 +249,7 @@
    "slug": "highest-temperature-in-denver-on-august-13-2026-75forbelow",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9983.735800999999,
+   "volumen": 9983.735801,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Denver de 75°F o inferior el 13 de agosto?"
@@ -267,9 +257,9 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.124,
-   "no": 0.876,
-   "volumen": 9974.940754000001,
+   "yes": 0.1245,
+   "no": 0.8755,
+   "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -277,8 +267,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.03,
-   "no": 0.97,
+   "yes": 0.037,
+   "no": 0.963,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -289,7 +279,7 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137667,
+   "volumen": 9966.137666999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
@@ -305,10 +295,20 @@
    "question_es": "¿Ganará Sol1xd el Soloq Challenge 2026 (High Elo)?"
   },
   {
+   "question": "Will the highest temperature in Shenzhen be 32°C on August 14?",
+   "slug": "highest-temperature-in-shenzhen-on-august-14-2026-32c",
+   "yes": 0.004,
+   "no": 0.996,
+   "volumen": 9951.346295000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Shenzhen de 32°C el 14 de agosto?"
+  },
+  {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.095,
+   "no": 0.905,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -317,8 +317,8 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.2,
-   "no": 0.8,
+   "yes": 0.21,
+   "no": 0.79,
    "volumen": 9920.824999,
    "spread": 0.0,
    "categoria": "Política",
@@ -335,5 +335,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 7.34
+ "db_size_mb": 7.5
 }
