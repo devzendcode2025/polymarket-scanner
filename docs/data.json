@@ -1,28 +1,47 @@
 {
- "ts": 1786708711,
- "stamp": "20260814_115831",
+ "ts": 1786708771,
+ "stamp": "20260814_115931",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x1c307be8fb9c7301697372d3d16c1d194b6aa3e23fea5303729fc115bad74d81",
-   "titulo": "Counter-Strike: TYLOO vs Lynn Vision - Map 1 Winner",
-   "slug": "cs2-tyloo-lvg-2026-08-14-game1",
-   "outcome": "Lynn Vision",
+   "market_id": "0x7cbd831c0ed473cba90e45e10074c95a69b9a234c1bdfaceb758686b927b12f7",
+   "titulo": "LoL: Nongshim Red Force vs HANJIN BRION - Game 1 Winner",
+   "slug": "lol-ns-bro2-2026-08-14-game1",
+   "outcome": "Nongshim Red Force",
    "side": "SELL",
-   "size": 1330.92,
+   "size": 1544.61,
    "price": 0.999,
-   "usd": 1329.59,
-   "ts": 1786708453,
-   "categoria": "Otros",
-   "prob": 53,
+   "usd": 1543.07,
+   "ts": 1786708759,
+   "categoria": "Deportes",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,330 en 'Lynn Vision'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-tyloo-lvg-2026-08-14-game1",
-   "titulo_es": "Counter-Strike: TYLOO vs Lynn Vision - Ganador del Mapa 1"
+   "razon": "Trade de venta por $1,543 en 'Nongshim Red Force'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ns-bro2-2026-08-14-game1",
+   "titulo_es": "LoL: Nongshim Red Force vs HANJIN BRION - Ganador del Juego 1"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x441bd77451b0f760485a076bd0db977ae3da791c13919ef7fb091abdcba6672a",
+   "titulo": "Dota 2: Aurora vs Team Yandex - Game 2 Winner",
+   "slug": "dota2-aur1-ty-2026-08-14-game2",
+   "outcome": "Team Yandex",
+   "side": "BUY",
+   "size": 2500.0,
+   "price": 0.6,
+   "usd": 1500.0,
+   "ts": 1786708752,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,500 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-aur1-ty-2026-08-14-game2",
+   "titulo_es": "Dota 2: Aurora vs Team Yandex - Ganador del Juego 2"
   }
  ],
  "edges": [
@@ -227,8 +246,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0395,
-   "no": 0.9605,
+   "yes": 0.033,
+   "no": 0.967,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -287,8 +306,8 @@
   {
    "question": "Will the highest temperature in Madrid be 38°C on August 14?",
    "slug": "highest-temperature-in-madrid-on-august-14-2026-38c",
-   "yes": 0.625,
-   "no": 0.375,
+   "yes": 0.64,
+   "no": 0.36,
    "volumen": 9943.553707000001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -317,8 +336,8 @@
   {
    "question": "Will the highest temperature in Tel Aviv be 33°C on August 14?",
    "slug": "highest-temperature-in-tel-aviv-on-august-14-2026-33c",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.045,
+   "no": 0.955,
    "volumen": 9910.645576,
    "spread": 0.0,
    "categoria": "Otros",
@@ -327,13 +346,13 @@
   {
    "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
    "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
-   "yes": 0.32,
-   "no": 0.68,
+   "yes": 0.455,
+   "no": 0.545,
    "volumen": 9903.455292999997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
   }
  ],
- "db_size_mb": 11.77
+ "db_size_mb": 11.82
 }
