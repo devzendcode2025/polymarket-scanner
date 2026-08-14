@@ -1,66 +1,28 @@
 {
- "ts": 1786668500,
- "stamp": "20260814_004820",
+ "ts": 1786668560,
+ "stamp": "20260814_004920",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3a2ef65b2988a853b16ca1b00cabaef5d425e6962b657bba49140f9bc94c7c88",
-   "titulo": "National Bank Open: Ben Shelton vs Brandon Nakashima",
-   "slug": "atp-shelton-nakashi-2026-08-13",
-   "outcome": "Ben Shelton",
-   "side": "BUY",
-   "size": 3700.26359,
-   "price": 0.8869151927,
-   "usd": 3281.82,
-   "ts": 1786668217,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,282 en 'Ben Shelton'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-shelton-nakashi-2026-08-13",
-   "titulo_es": "Abierto del Banco Nacional: Ben Shelton vs Brandon Nakashima"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xdf1463edbf062d8fdd82c5eb0bdb5fd69450b0c21c9dab4858dcaeaba8e2068f",
-   "titulo": "Will Bitcoin dip to $50,000 in August?",
-   "slug": "will-bitcoin-dip-to-50k-in-august-2026",
+   "market_id": "0x49fdf9e22bc2820ff3ea265899a7717854a9318ff1f8b46aa1a6aae9ab29c51f",
+   "titulo": "Will Bitcoin dip to $62,000 on August 13?",
+   "slug": "will-bitcoin-dip-to-62k-on-august-13",
    "outcome": "No",
    "side": "BUY",
-   "size": 1278.14,
-   "price": 0.983,
-   "usd": 1256.41,
-   "ts": 1786668225,
+   "size": 1503.82,
+   "price": 0.998,
+   "usd": 1500.81,
+   "ts": 1786668520,
    "categoria": "Cripto",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,256 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-bitcoin-dip-to-50k-in-august-2026",
-   "titulo_es": "¿Caerá Bitcoin a $50,000 en agosto?"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xe7a9a27ab24c176e7d23d354219f14f76c72202aa60d61789e5d5479f661f7f9",
-   "titulo": "Valorant: Team Envy vs M80 - Map 2 Winner",
-   "slug": "val-nv2-m80-2026-08-13-game2",
-   "outcome": "Team Envy",
-   "side": "BUY",
-   "size": 2454.545453,
-   "price": 0.4399999999,
-   "usd": 1080.0,
-   "ts": 1786668228,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,080 en 'Team Envy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/val-nv2-m80-2026-08-13-game2",
-   "titulo_es": "Valorant: Team Envy vs M80 - Ganador del Mapa 2"
+   "razon": "Trade de compra por $1,501 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-bitcoin-dip-to-62k-on-august-13",
+   "titulo_es": "¿Caerá Bitcoin a $62,000 el 13 de agosto?"
   }
  ],
  "edges": [
@@ -95,31 +57,11 @@
  ],
  "top_volumen": [
   {
-   "question": "Will Eric Trump win the 2028 Republican presidential nomination?",
-   "slug": "will-eric-trump-win-the-2028-republican-presidential-nomination",
-   "yes": 0.0035,
-   "no": 0.9965,
-   "volumen": 9999795.768244995,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Eric Trump la nominación presidencial republicana de 2028?"
-  },
-  {
-   "question": "Will Crude Oil reach a new all-time high by September 30?",
-   "slug": "will-crude-oil-reach-a-new-all-time-high-by-september-30",
-   "yes": 0.0355,
-   "no": 0.9645,
-   "volumen": 999720.3390390002,
-   "spread": 0.0,
-   "categoria": "Economía",
-   "question_es": "¿Alcanzará el petróleo crudo un nuevo máximo histórico para el 30 de septiembre?"
-  },
-  {
    "question": "Israel closes its airspace by August 31?",
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996434.2322910015,
+   "volumen": 996434.2322910003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -159,7 +101,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33041999998,
+   "volumen": 99532.33042000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -167,8 +109,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -179,7 +121,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 99159.48181799999,
+   "volumen": 99159.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -189,7 +131,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99035.45360200001,
+   "volumen": 99035.45360200004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -219,7 +161,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 98896.73757200003,
+   "volumen": 98896.73757200001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -229,7 +171,7 @@
    "slug": "sud-san-mac-2026-08-13-mac",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98775.79297099999,
+   "volumen": 98775.79297100006,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará CSyD Macará el 13 de agosto de 2026?"
@@ -237,8 +179,8 @@
   {
    "question": "Will Bitcoin reach $70,000 August 10-16?",
    "slug": "will-bitcoin-reach-70k-august-10-16-2026",
-   "yes": 0.011,
-   "no": 0.989,
+   "yes": 0.012,
+   "no": 0.988,
    "volumen": 98466.83850099996,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -255,20 +197,40 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?",
+   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 98106.614526,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
+  },
+  {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.0095,
-   "no": 0.9905,
+   "yes": 0.01,
+   "no": 0.99,
    "volumen": 9996.76192,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
+   "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
+   "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
+   "yes": 0.121,
+   "no": 0.879,
+   "volumen": 9974.940754,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
+  },
+  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.03,
-   "no": 0.97,
+   "yes": 0.0325,
+   "no": 0.9675,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -283,6 +245,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Estará el Sentimiento del Consumidor de UMich entre 52.0 y 54.9 en agosto?"
+  },
+  {
+   "question": "Will Alibaba be the third-best Math AI lab at the end of August 2026?",
+   "slug": "will-alibaba-be-the-third-best-math-ai-lab-at-the-end-of-august-2026-20260720230105166",
+   "yes": 0.73,
+   "no": 0.27,
+   "volumen": 9968.575645,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será Alibaba el tercer mejor laboratorio de IA matemática a finales de agosto de 2026?"
   },
   {
    "question": "Will the number of votes cast in the 2026 Clacton by-election be between 20,000-30,000?",
@@ -309,7 +281,7 @@
    "slug": "ukraine-strikes-another-vessel-in-the-black-sea-by-august-15-2026-20260804183343485",
    "yes": 0.885,
    "no": 0.115,
-   "volumen": 9966.010565,
+   "volumen": 9966.010564999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Ucrania ataca otro buque en el Mar Negro antes del 15 de agosto de 2026?"
@@ -319,7 +291,7 @@
    "slug": "highest-temperature-in-toronto-on-august-13-2026-28c",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9947.755251,
+   "volumen": 9955.825251000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Toronto de 28°C el 13 de agosto?"
@@ -327,23 +299,13 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
-  },
-  {
-   "question": "Will Typhoon Dolphin be a \"Very Strong Typhoon\" at Japan landfall?",
-   "slug": "will-typhoon-dolphin-be-a-very-strong-typhoon-at-japan-landfall-20260804170510870",
-   "yes": 0.9945,
-   "no": 0.0055,
-   "volumen": 9942.525255,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
   }
  ],
- "db_size_mb": 2.81
+ "db_size_mb": 2.89
 }
