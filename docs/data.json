@@ -1,47 +1,28 @@
 {
- "ts": 1786678402,
- "stamp": "20260814_033322",
+ "ts": 1786678763,
+ "stamp": "20260814_033923",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb61a9d762515f7544705811811af9153bd07e18e484774ff95d5b8d070eebc56",
-   "titulo": "Washington Mystics vs. Las Vegas Aces",
-   "slug": "wnba-wsh-las-2026-08-13",
-   "outcome": "Las Vegas Aces",
+   "market_id": "0xdefefe4a4a89441148f773e0c024704f28698e916f06c949b48f2c3e9d5153c6",
+   "titulo": "Dota 2: Team Yandex vs Team Liquid - Game 2 Winner",
+   "slug": "dota2-ty-liquid-2026-08-13-game2",
+   "outcome": "Team Liquid",
    "side": "BUY",
-   "size": 1663.590546,
-   "price": 0.7213313401,
-   "usd": 1200.0,
-   "ts": 1786678140,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,200 en 'Las Vegas Aces'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-wsh-las-2026-08-13",
-   "titulo_es": "Washington Mystics vs. Las Vegas Aces"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xcfd447f2377329f74696ba99865d42913ca7dd4aa744f6c80e9b5e38a3f49bdf",
-   "titulo": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
-   "slug": "atp-svajda-bellucc-2026-08-13",
-   "outcome": "Zachary Svajda",
-   "side": "BUY",
-   "size": 1846.153845,
-   "price": 0.6499999999,
-   "usd": 1200.0,
-   "ts": 1786678134,
+   "size": 4364.62,
+   "price": 0.3,
+   "usd": 1309.39,
+   "ts": 1786678729,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,200 en 'Zachary Svajda'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-svajda-bellucc-2026-08-13",
-   "titulo_es": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci"
+   "razon": "Trade de compra por $1,309 en 'Team Liquid'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ty-liquid-2026-08-13-game2",
+   "titulo_es": "Dota 2: Team Yandex vs Team Liquid - Ganador del Juego 2"
   }
  ],
  "edges": [
@@ -60,7 +41,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Multipli.fi FDV above $1B one day after launch?",
+     "_poly_question": "NYSE marketwide circuit breaker before 2027?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -72,6 +53,34 @@
    "fuentes_nombres": "Manifold",
    "razon": "Polymarket paga este mercado a 27.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 26.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
+  },
+  {
+   "tipo": "edge",
+   "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
+   "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
+   "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
+   "prob_poly": 44.5,
+   "consenso": 34.5,
+   "edge": -10.0,
+   "direccion": "Polymarket CARO (comprar No)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
+     "prob": 34.53783434138884,
+     "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
+     "_poly_question": "NYSE marketwide circuit breaker before 2027?",
+     "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Entretenimiento",
+   "prob": 66,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "Manifold",
+   "razon": "Polymarket paga este mercado a 44.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 10.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
  "top_volumen": [
@@ -80,7 +89,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996559.7156910014,
+   "volumen": 996562.4656910014,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -106,10 +115,20 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "Spread: Los Angeles Dodgers (-1.5)",
+   "slug": "mlb-mil-lad-2026-08-13-spread-home-1pt5",
+   "yes": 0.165,
+   "no": 0.835,
+   "volumen": 99940.53636399997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Spread: Los Angeles Dodgers (-1.5)"
+  },
+  {
    "question": "Will Bitcoin reach $66,000 August 10-16?",
    "slug": "will-bitcoin-reach-66k-august-10-16-2026",
-   "yes": 0.0325,
-   "no": 0.9675,
+   "yes": 0.0335,
+   "no": 0.9665,
    "volumen": 99768.44148099999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -150,7 +169,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 99159.48181800001,
+   "volumen": 99159.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -160,7 +179,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99035.453602,
+   "volumen": 99035.45360200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -206,6 +225,16 @@
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
   },
   {
+   "question": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
+   "slug": "will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123",
+   "yes": 0.0055,
+   "no": 0.9945,
+   "volumen": 98538.391397,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Nigel Farage entre el 50 y el 60% de los votos en la elección parcial parlamentaria de Clacton?"
+  },
+  {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0085,
@@ -216,60 +245,50 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
-   "slug": "will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123",
-   "yes": 0.0175,
-   "no": 0.9825,
-   "volumen": 98300.68016200002,
+   "question": "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?",
+   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 98150.550526,
    "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Nigel Farage entre el 50 y el 60% de los votos en la elección parcial parlamentaria de Clacton?"
+   "categoria": "Otros",
+   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
   },
   {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.01,
-   "no": 0.99,
+   "yes": 0.009,
+   "no": 0.991,
    "volumen": 9996.76192,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
-   "question": "Will Meta have the best AI model at the end of September 2026?",
-   "slug": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
-   "yes": 0.0075,
-   "no": 0.9925,
-   "volumen": 9993.368813000001,
+   "question": "Will the highest temperature in London be 34°C on August 14?",
+   "slug": "highest-temperature-in-london-on-august-14-2026-34c",
+   "yes": 0.3,
+   "no": 0.7,
+   "volumen": 9992.802692,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Meta el mejor modelo de IA a finales de septiembre de 2026?"
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Londres de 34°C el 14 de agosto?"
   },
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1195,
    "no": 0.8805,
-   "volumen": 9974.940754,
+   "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
   },
   {
-   "question": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
-   "slug": "ukraine-strikes-another-vessel-in-the-black-sea-by-august-15-2026-20260804183343485",
-   "yes": 0.94,
-   "no": 0.06,
-   "volumen": 9974.530565,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Ucrania ataca otro buque en el Mar Negro antes del 15 de agosto de 2026?"
-  },
-  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,30 +305,10 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the Republicans win the Kansas governor race in 2026?",
-   "slug": "will-the-republicans-win-the-kansas-governor-race-in-2026",
-   "yes": 0.665,
-   "no": 0.335,
-   "volumen": 9956.720720999998,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Kansas en 2026?"
-  },
-  {
-   "question": "Will the highest temperature in London be 34°C on August 14?",
-   "slug": "highest-temperature-in-london-on-august-14-2026-34c",
-   "yes": 0.295,
-   "no": 0.705,
-   "volumen": 9953.468680999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Londres de 34°C el 14 de agosto?"
-  },
-  {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -324,7 +323,17 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
+  },
+  {
+   "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
+   "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
+   "yes": 0.25,
+   "no": 0.75,
+   "volumen": 9920.824999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   }
  ],
- "db_size_mb": 5.01
+ "db_size_mb": 5.16
 }
