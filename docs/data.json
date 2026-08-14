@@ -1,28 +1,47 @@
 {
- "ts": 1786679303,
- "stamp": "20260814_034823",
+ "ts": 1786679363,
+ "stamp": "20260814_034923",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xbbc0aac697938df5c04753ae878e03377e8e0bb1acd98596f465f27bbcf40eb7",
-   "titulo": "LoL: Nongshim Red Force vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
-   "slug": "lol-ns-bro2-2026-08-14",
-   "outcome": "Nongshim Red Force",
+   "market_id": "0x9b76994d7b4cfdf46f3dcc3ad08748089fce02a26d8a7f4f33d86583e857293f",
+   "titulo": "LoL: NRG Esports vs Contingent Esports - Game 2 Winner",
+   "slug": "lol-nrg-cont-2026-08-13-game2",
+   "outcome": "NRG Esports",
    "side": "BUY",
-   "size": 5494.480768,
-   "price": 0.5199999999,
-   "usd": 2857.13,
-   "ts": 1786679037,
-   "categoria": "Otros",
-   "prob": 56,
+   "size": 2538.9006,
+   "price": 0.9846781375,
+   "usd": 2500.0,
+   "ts": 1786679326,
+   "categoria": "Deportes",
+   "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,857 en 'Nongshim Red Force'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ns-bro2-2026-08-14",
-   "titulo_es": "LoL: Nongshim Red Force vs HANJIN BRION (BO3) - LCK Ronda 3-4 Grupo Rise"
+   "razon": "Trade de compra por $2,500 en 'NRG Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-nrg-cont-2026-08-13-game2",
+   "titulo_es": "LoL: NRG Esports vs Contingent Esports - Ganador del Juego 2"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xb250f71e99c64d332937397d913f1bfe3ae7a7a8e60e8f1fde4a9a9bf9df4c32",
+   "titulo": "Dota 2: Team Spirit vs Aurora - Game 2 Winner",
+   "slug": "dota2-ts8-aur1-2026-08-13-game2",
+   "outcome": "Team Spirit",
+   "side": "BUY",
+   "size": 3459.92,
+   "price": 0.5779283336,
+   "usd": 1999.59,
+   "ts": 1786679334,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $2,000 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ts8-aur1-2026-08-13-game2",
+   "titulo_es": "Dota 2: Team Spirit vs Aurora - Ganador del Juego 2"
   }
  ],
  "edges": [
@@ -89,7 +108,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996562.4656910014,
+   "volumen": 996562.4656910012,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -99,7 +118,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.023,
    "no": 0.977,
-   "volumen": 985888.5008280001,
+   "volumen": 985888.500828,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -117,9 +136,9 @@
   {
    "question": "Spread: Los Angeles Dodgers (-1.5)",
    "slug": "mlb-mil-lad-2026-08-13-spread-home-1pt5",
-   "yes": 0.165,
-   "no": 0.835,
-   "volumen": 99940.53636399997,
+   "yes": 0.255,
+   "no": 0.745,
+   "volumen": 99969.25951999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Spread: Los Angeles Dodgers (-1.5)"
@@ -129,7 +148,7 @@
    "slug": "will-bitcoin-reach-66k-august-10-16-2026",
    "yes": 0.0325,
    "no": 0.9675,
-   "volumen": 99768.44148099999,
+   "volumen": 99768.44148099997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Bitcoin los $66,000 del 10 al 16 de agosto?"
@@ -139,7 +158,7 @@
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.024,
    "no": 0.976,
-   "volumen": 99681.46954699994,
+   "volumen": 99681.46954699996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
@@ -149,7 +168,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042,
+   "volumen": 99532.33041999997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -157,8 +176,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -169,7 +188,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 99159.48181799999,
+   "volumen": 99159.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -179,7 +198,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99035.45360200001,
+   "volumen": 99035.453602,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -209,10 +228,20 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.31,
    "no": 0.69,
-   "volumen": 98896.73757199998,
+   "volumen": 98896.737572,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
+  },
+  {
+   "question": "Dota 2: HULIGANI vs Vici Gaming (BO3) - The International Group Stage",
+   "slug": "dota2-huliga-vg-2026-08-13",
+   "yes": 0.465,
+   "no": 0.535,
+   "volumen": 98623.18510399999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Dota 2: HULIGANI vs Vici Gaming (BO3) - Fase de Grupos de The International"
   },
   {
    "question": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
@@ -223,16 +252,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
-   "slug": "will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123",
-   "yes": 0.008,
-   "no": 0.992,
-   "volumen": 98538.391397,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Nigel Farage entre el 50 y el 60% de los votos en la elección parcial parlamentaria de Clacton?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -265,21 +284,11 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
-   "question": "Will the highest temperature in London be 34°C on August 14?",
-   "slug": "highest-temperature-in-london-on-august-14-2026-34c",
-   "yes": 0.29,
-   "no": 0.71,
-   "volumen": 9992.802692,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Londres de 34°C el 14 de agosto?"
-  },
-  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1195,
    "no": 0.8805,
-   "volumen": 9974.940754000001,
+   "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -287,8 +296,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.03,
-   "no": 0.97,
+   "yes": 0.046,
+   "no": 0.954,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -299,7 +308,7 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137667,
+   "volumen": 9966.137666999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
@@ -307,8 +316,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -327,13 +336,23 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.25,
-   "no": 0.75,
+   "yes": 0.255,
+   "no": 0.745,
    "volumen": 9920.824999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
+  },
+  {
+   "question": "Will Thinky have the best AI model at the end of September 2026?",
+   "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9918.892000000002,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 5.22
+ "db_size_mb": 5.28
 }
