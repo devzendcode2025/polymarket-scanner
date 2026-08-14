@@ -1,6 +1,6 @@
 {
- "ts": 1786665619,
- "stamp": "20260814_000019",
+ "ts": 1786665679,
+ "stamp": "20260814_000119",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -58,6 +58,98 @@
    "razon": "Trade de compra por $1,500 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/mlb-phi-min-2026-08-13-total-10pt5",
    "titulo_es": "Philadelphia Phillies vs. Minnesota Twins: Más/Menos 10.5"
+  }
+ ],
+ "top_volumen": [
+  {
+   "question": "Will Eric Trump win the 2028 Republican presidential nomination?",
+   "slug": "will-eric-trump-win-the-2028-republican-presidential-nomination",
+   "yes": 0.0035,
+   "no": 0.9965,
+   "volumen": 9999484.842578996,
+   "spread": 0.0,
+   "question_es": "¿Ganará Eric Trump la nominación presidencial republicana de 2028?"
+  },
+  {
+   "question": "Will Crude Oil reach a new all-time high by September 30?",
+   "slug": "will-crude-oil-reach-a-new-all-time-high-by-september-30",
+   "yes": 0.035,
+   "no": 0.965,
+   "volumen": 999720.339039,
+   "spread": 0.0,
+   "question_es": "¿Alcanzará el petróleo crudo un nuevo máximo histórico para el 30 de septiembre?"
+  },
+  {
+   "question": "Israel closes its airspace by August 31?",
+   "slug": "israel-closes-its-airspace-by-august-31-389",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 996434.2322910014,
+   "spread": 0.0,
+   "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
+  },
+  {
+   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
+   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
+   "yes": 0.023,
+   "no": 0.977,
+   "volumen": 985888.500828,
+   "spread": 0.0,
+   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
+  },
+  {
+   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
+   "yes": 0.0065,
+   "no": 0.9935,
+   "volumen": 983741.491909,
+   "spread": 0.0,
+   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
+  },
+  {
+   "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
+   "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
+   "yes": 0.024,
+   "no": 0.976,
+   "volumen": 99681.46954699994,
+   "spread": 0.0,
+   "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
+  },
+  {
+   "question": "NYSE marketwide circuit breaker before 2027?",
+   "slug": "nyse-marketwide-circuit-breaker-before-2027",
+   "yes": 0.145,
+   "no": 0.855,
+   "volumen": 99532.33041999998,
+   "spread": 0.0,
+   "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
+  },
+  {
+   "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+   "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
+   "yes": 0.12,
+   "no": 0.88,
+   "volumen": 99162.08819200004,
+   "spread": 0.0,
+   "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
+  },
+  {
+   "question": "Will MicroStrategy be margin called in 2026?",
+   "slug": "will-microstrategy-be-margin-called-in-2026",
+   "yes": 0.0355,
+   "no": 0.9645,
+   "volumen": 99159.48181799999,
+   "spread": 0.0,
+   "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
+  },
+  {
+   "question": "NATO x Russia military clash by October 31, 2026?",
+   "slug": "nato-x-russia-military-clash-by-october-31-2026",
+   "yes": 0.075,
+   "no": 0.925,
+   "volumen": 99035.45360200001,
+   "spread": 0.0,
+   "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
   }
  ],
  "db_size_mb": 2.2
