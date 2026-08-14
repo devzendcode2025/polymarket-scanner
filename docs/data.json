@@ -1,28 +1,28 @@
 {
- "ts": 1786684104,
- "stamp": "20260814_050824",
+ "ts": 1786684164,
+ "stamp": "20260814_050924",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x5d4e2eb855988c92f4a7f8f8687c6a0ac37da2248e6535bab135f4e2f767f9c6",
-   "titulo": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-   "slug": "lol-t1a-dkc-2026-08-13",
-   "outcome": "Dplus KIA Challengers",
-   "side": "SELL",
-   "size": 1019.54,
-   "price": 0.999,
-   "usd": 1018.52,
-   "ts": 1786683841,
+   "market_id": "0x3b7971cd72e15ff80e623a7521fa3e0545b296545792e77dc9addd4cb7e390a4",
+   "titulo": "Dota 2: Team Yandex vs Team Liquid (BO3) - The International Group Stage",
+   "slug": "dota2-ty-liquid-2026-08-13",
+   "outcome": "Team Yandex",
+   "side": "BUY",
+   "size": 3538.75,
+   "price": 0.41,
+   "usd": 1450.89,
+   "ts": 1786684132,
    "categoria": "Otros",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,019 en 'Dplus KIA Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1a-dkc-2026-08-13",
-   "titulo_es": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío"
+   "razon": "Trade de compra por $1,451 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ty-liquid-2026-08-13",
+   "titulo_es": "Dota 2: Team Yandex vs Team Liquid (BO3) - Fase de Grupos de The International"
   }
  ],
  "edges": [
@@ -117,8 +117,8 @@
   {
    "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
-   "yes": 0.0275,
-   "no": 0.9725,
+   "yes": 0.028,
+   "no": 0.972,
    "volumen": 99751.35804699996,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -137,8 +137,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -177,8 +177,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0625,
-   "no": 0.9375,
+   "yes": 0.0615,
+   "no": 0.9385,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -197,8 +197,8 @@
   {
    "question": "Bitcoin Up or Down on August 14?",
    "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.49,
-   "no": 0.51,
+   "yes": 0.46,
+   "no": 0.54,
    "volumen": 98598.93502599998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -247,8 +247,8 @@
   {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.009,
-   "no": 0.991,
+   "yes": 0.0095,
+   "no": 0.9905,
    "volumen": 9996.76192,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -267,8 +267,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1205,
-   "no": 0.8795,
+   "yes": 0.1225,
+   "no": 0.8775,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -277,8 +277,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0375,
-   "no": 0.9625,
+   "yes": 0.037,
+   "no": 0.963,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -307,8 +307,8 @@
   {
    "question": "Will the highest temperature in Guangzhou be 35°C on August 14?",
    "slug": "highest-temperature-in-guangzhou-on-august-14-2026-35c",
-   "yes": 0.045,
-   "no": 0.955,
+   "yes": 0.0345,
+   "no": 0.9655,
    "volumen": 9950.889503999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -335,5 +335,5 @@
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   }
  ],
- "db_size_mb": 6.27
+ "db_size_mb": 6.33
 }
