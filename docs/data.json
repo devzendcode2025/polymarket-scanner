@@ -1,6 +1,6 @@
 {
- "ts": 1786718494,
- "stamp": "20260814_144134",
+ "ts": 1786718554,
+ "stamp": "20260814_144234",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -79,7 +79,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will Yandy Diaz win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
+     "_poly_question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
