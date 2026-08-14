@@ -1,10 +1,29 @@
 {
- "ts": 1786717113,
- "stamp": "20260814_141833",
+ "ts": 1786717173,
+ "stamp": "20260814_141933",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x6c8bc8cd9b2d64358ad995ccee8e998cf0f81a89c4be0b8e51eadf09c6be60ba",
+   "titulo": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+   "slug": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 2849.13,
+   "price": 0.82,
+   "usd": 2336.29,
+   "ts": 1786717161,
+   "categoria": "Cripto",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,336 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+   "titulo_es": "¿Caerá Bitcoin a $60,000 para el 31 de diciembre de 2026?"
+  },
   {
    "tipo": "ballena",
    "market_id": "0xd96b7cb2a7a5971b7f0bd5d268da7d452ce4cf8807a15ba33fcb8fdc092f5d48",
@@ -12,36 +31,36 @@
    "slug": "cs2-b8-vit-2026-08-14-game1",
    "outcome": "Vitality",
    "side": "BUY",
-   "size": 5800.0,
-   "price": 0.7295620862,
-   "usd": 4231.46,
-   "ts": 1786716862,
+   "size": 1527.46236,
+   "price": 0.7061646999,
+   "usd": 1078.64,
+   "ts": 1786717159,
    "categoria": "Otros",
-   "prob": 58,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,231 en 'Vitality'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,079 en 'Vitality'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/cs2-b8-vit-2026-08-14-game1",
    "titulo_es": "Counter-Strike: B8 vs Vitality - Ganador del Mapa 1"
   },
   {
    "tipo": "ballena",
-   "market_id": "0xf34dec8bb2a3603cb7fcacafbd0c4ef7e22b2dd62cc2db3fc28fb36bc99eb989",
-   "titulo": "Counter-Strike: BESTIA vs ALKA (BO3) - BetBoom Storm Playoffs",
-   "slug": "cs2-bst-alkaa-2026-08-14",
-   "outcome": "BESTIA",
-   "side": "BUY",
-   "size": 2431.73,
-   "price": 0.83,
-   "usd": 2018.34,
-   "ts": 1786716861,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,018 en 'BESTIA'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-bst-alkaa-2026-08-14",
-   "titulo_es": "Counter-Strike: BESTIA vs ALKA (BO3) - Playoffs de BetBoom Storm"
+   "market_id": "0x8ce33e7b4a7f62a665eb1c61d1fce7ac2843c1b67838c75fa524fee612619387",
+   "titulo": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
+   "slug": "lol-al-jdg-2026-08-14",
+   "outcome": "Anyones Legend",
+   "side": "SELL",
+   "size": 1034.42,
+   "price": 0.999,
+   "usd": 1033.39,
+   "ts": 1786717158,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,033 en 'Anyones Legend'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14",
+   "titulo_es": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend"
   }
  ],
  "edges": [
@@ -76,24 +95,24 @@
  ],
  "top_volumen": [
   {
-   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
-   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
-   "yes": 0.0205,
-   "no": 0.9795,
-   "volumen": 985894.432663,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
-  },
-  {
    "question": "Will Yabloko gain the most seats in the next Russian parliamentary election?",
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 984770.8835219999,
+   "volumen": 986378.623522,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
+  },
+  {
+   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
+   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
+   "yes": 0.0205,
+   "no": 0.9795,
+   "volumen": 985894.4326629997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -110,7 +129,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000004,
+   "volumen": 99532.33042,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -198,19 +217,29 @@
   {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.009,
-   "no": 0.991,
+   "yes": 0.01,
+   "no": 0.99,
    "volumen": 9996.76192,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
+   "question": "Will the price of Ethereum be between $1,900 and $2,000 on August 14?",
+   "slug": "will-the-price-of-ethereum-be-between-1900-2000-on-august-14-2026",
+   "yes": 0.0135,
+   "no": 0.9865,
+   "volumen": 9990.507336,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Ethereum entre $1,900 y $2,000 el 14 de agosto?"
+  },
+  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1205,
    "no": 0.8795,
-   "volumen": 9974.940754000001,
+   "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -218,8 +247,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0355,
-   "no": 0.9645,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -230,7 +259,7 @@
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
    "yes": 0.225,
    "no": 0.775,
-   "volumen": 9969.309622999997,
+   "volumen": 9969.309623,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -248,8 +277,8 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.265,
-   "no": 0.735,
+   "yes": 0.26,
+   "no": 0.74,
    "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
@@ -286,6 +315,16 @@
    "question_es": "¿Será Z.ai la segunda mejor empresa china de IA a finales de agosto de 2026?"
   },
   {
+   "question": "Cincinnati Open: Daniel Merida Aguilar vs Marin Cilic",
+   "slug": "atp-aguilar-cilic-2026-08-13",
+   "yes": 0.535,
+   "no": 0.465,
+   "volumen": 9938.40516,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Cincinnati Open: Daniel Merida Aguilar vs Marin Cilic"
+  },
+  {
    "question": "Games Total: O/U 2.5",
    "slug": "lol-al-jdg-2026-08-14-total-games-2pt5",
    "yes": 0.9995,
@@ -296,16 +335,6 @@
    "question_es": "Total de Juegos: O/U 2.5"
   },
   {
-   "question": "Will the highest temperature in Amsterdam be 36°C on August 14?",
-   "slug": "highest-temperature-in-amsterdam-on-august-14-2026-36c",
-   "yes": 0.0075,
-   "no": 0.9925,
-   "volumen": 9925.070886999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Ámsterdam de 36°C el 14 de agosto?"
-  },
-  {
    "question": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A",
    "slug": "cs2-jjh-aur1-2026-08-15",
    "yes": 0.155,
@@ -314,17 +343,7 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Copa Mundial de Esports Grupo A"
-  },
-  {
-   "question": "Will Thinky have the best AI model at the end of September 2026?",
-   "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9918.892000000002,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 13.66
+ "db_size_mb": 13.71
 }
