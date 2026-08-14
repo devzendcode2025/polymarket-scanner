@@ -1,47 +1,28 @@
 {
- "ts": 1786672101,
- "stamp": "20260814_014821",
+ "ts": 1786672161,
+ "stamp": "20260814_014921",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xfda5ad9d3708e31172d5f1294ba2483b661576733f0c05b44073e8a5c4d5a04e",
-   "titulo": "Portland Timbers vs. Club Tijuana: O/U 1.5",
-   "slug": "lec-por-tij-2026-08-13-total-1pt5",
-   "outcome": "Over",
+   "market_id": "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d",
+   "titulo": "Cincinnati Open: Rinky Hijikata vs Gael Monfils",
+   "slug": "atp-hijikat-monfils-2026-08-13",
+   "outcome": "Gael Monfils",
    "side": "BUY",
-   "size": 6348.57,
-   "price": 0.87,
-   "usd": 5523.26,
-   "ts": 1786671820,
-   "categoria": "Otros",
-   "prob": 60,
-   "confianza": "alta",
+   "size": 2816.9,
+   "price": 0.71,
+   "usd": 2000.0,
+   "ts": 1786672132,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $5,523 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lec-por-tij-2026-08-13-total-1pt5",
-   "titulo_es": "Portland Timbers vs. Club Tijuana: Más/Menos 1.5"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3a2ef65b2988a853b16ca1b00cabaef5d425e6962b657bba49140f9bc94c7c88",
-   "titulo": "National Bank Open: Ben Shelton vs Brandon Nakashima",
-   "slug": "atp-shelton-nakashi-2026-08-13",
-   "outcome": "Ben Shelton",
-   "side": "SELL",
-   "size": 1363.63,
-   "price": 0.999,
-   "usd": 1362.27,
-   "ts": 1786671828,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,362 en 'Ben Shelton'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-shelton-nakashi-2026-08-13",
-   "titulo_es": "Abierto del Banco Nacional: Ben Shelton vs Brandon Nakashima"
+   "razon": "Trade de compra por $2,000 en 'Gael Monfils'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-hijikat-monfils-2026-08-13",
+   "titulo_es": "Cincinnati Open: Rinky Hijikata vs Gael Monfils"
   }
  ],
  "edges": [
@@ -80,7 +61,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996534.2322910004,
+   "volumen": 996534.2322909986,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -110,7 +91,7 @@
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.024,
    "no": 0.976,
-   "volumen": 99681.46954699996,
+   "volumen": 99681.46954699994,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
@@ -120,7 +101,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000001,
+   "volumen": 99532.33041999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -140,7 +121,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 99159.481818,
+   "volumen": 99159.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -150,7 +131,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99035.45360200004,
+   "volumen": 99035.45360200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -168,8 +149,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0625,
-   "no": 0.9375,
+   "yes": 0.062,
+   "no": 0.938,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -196,21 +177,11 @@
    "question_es": "¿Ganará CSyD Macará el 13 de agosto de 2026?"
   },
   {
-   "question": "Will CF Cruz Azul win on 2026-08-13?",
-   "slug": "lec-caz-chi-2026-08-13-caz",
-   "yes": 0.355,
-   "no": 0.645,
-   "volumen": 98610.42823800001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará CF Cruz Azul el 2026-08-13?"
-  },
-  {
    "question": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
    "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
    "yes": 0.0145,
    "no": 0.9855,
-   "volumen": 98586.75945999997,
+   "volumen": 98586.75946,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
@@ -240,7 +211,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98128.754526,
+   "volumen": 98128.75452600002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -250,7 +221,7 @@
    "slug": "will-the-number-of-votes-cast-in-the-2026-clacton-by-election-be-between-20000-30000-20260717155703441",
    "yes": 0.0055,
    "no": 0.9945,
-   "volumen": 9997.179543,
+   "volumen": 9997.179542999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿El número de votos emitidos en la elección parcial de Clacton de 2026 estará entre 20,000 y 30,000?"
@@ -268,8 +239,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1215,
-   "no": 0.8785,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -278,9 +249,9 @@
   {
    "question": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
    "slug": "ukraine-strikes-another-vessel-in-the-black-sea-by-august-15-2026-20260804183343485",
-   "yes": 0.875,
-   "no": 0.125,
-   "volumen": 9974.530565,
+   "yes": 0.865,
+   "no": 0.135,
+   "volumen": 9974.530565000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Ucrania ataca otro buque en el Mar Negro antes del 15 de agosto de 2026?"
@@ -288,8 +259,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.03,
-   "no": 0.97,
+   "yes": 0.0295,
+   "no": 0.9705,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -300,7 +271,7 @@
    "slug": "will-alibaba-be-the-third-best-math-ai-lab-at-the-end-of-august-2026-20260720230105166",
    "yes": 0.725,
    "no": 0.275,
-   "volumen": 9968.575645,
+   "volumen": 9968.575644999997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el tercer mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -310,7 +281,7 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137667,
+   "volumen": 9966.137666999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
@@ -324,7 +295,17 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
+  },
+  {
+   "question": "Will Typhoon Dolphin be a \"Very Strong Typhoon\" at Japan landfall?",
+   "slug": "will-typhoon-dolphin-be-a-very-strong-typhoon-at-japan-landfall-20260804170510870",
+   "yes": 0.9945,
+   "no": 0.0055,
+   "volumen": 9942.525255,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
   }
  ],
- "db_size_mb": 3.61
+ "db_size_mb": 3.66
 }
