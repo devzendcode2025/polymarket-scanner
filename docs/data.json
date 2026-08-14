@@ -1,10 +1,29 @@
 {
- "ts": 1786684404,
- "stamp": "20260814_051324",
+ "ts": 1786684764,
+ "stamp": "20260814_051924",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x37eb55675e56c5afeb79224da9972c67dc4597fd749bb93db6f4e9f167258d04",
+   "titulo": "Will Count Binface win 10–20% of votes in the Clacton parliamentary by-election?",
+   "slug": "will-count-binface-win-1020-of-votes-in-the-clacton-parliamentary-by-election-20260708142507720",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 4738.82,
+   "price": 0.999,
+   "usd": 4734.08,
+   "ts": 1786684735,
+   "categoria": "Política",
+   "prob": 59,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $4,734 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-count-binface-win-1020-of-votes-in-the-clacton-parliamentary-by-election-20260708142507720",
+   "titulo_es": "¿Ganará Count Binface entre el 10 y el 20% de los votos en la elección parcial parlamentaria de Clacton?"
+  },
   {
    "tipo": "ballena",
    "market_id": "0x3b7971cd72e15ff80e623a7521fa3e0545b296545792e77dc9addd4cb7e390a4",
@@ -12,15 +31,15 @@
    "slug": "dota2-ty-liquid-2026-08-13",
    "outcome": "Team Yandex",
    "side": "BUY",
-   "size": 3538.75,
-   "price": 0.41,
-   "usd": 1450.89,
-   "ts": 1786684132,
+   "size": 8859.99,
+   "price": 0.19,
+   "usd": 1683.4,
+   "ts": 1786684737,
    "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,451 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $1,683 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/dota2-ty-liquid-2026-08-13",
    "titulo_es": "Dota 2: Team Yandex vs Team Liquid (BO3) - Fase de Grupos de The International"
   }
@@ -41,7 +60,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will the highest temperature in Jeddah be 39°C on August 14?",
+     "_poly_question": "Will the highest temperature in Guangzhou be 35°C on August 14?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -53,34 +72,6 @@
    "fuentes_nombres": "Manifold",
    "razon": "Polymarket paga este mercado a 27.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 26.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
-  },
-  {
-   "tipo": "edge",
-   "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
-   "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "prob_poly": 43.5,
-   "consenso": 34.5,
-   "edge": -9.0,
-   "direccion": "Polymarket CARO (comprar No)",
-   "fuentes": [
-    {
-     "fuente": "Manifold",
-     "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
-     "prob": 34.53783434138884,
-     "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
-     "_poly_question": "Will the highest temperature in Jeddah be 39°C on August 14?",
-     "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Entretenimiento",
-   "prob": 65,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 43.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
-   "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
  "top_volumen": [
@@ -129,7 +120,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000004,
+   "volumen": 99532.33042000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -137,8 +128,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -149,7 +140,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.48181799999,
+   "volumen": 99159.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -177,8 +168,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0615,
-   "no": 0.9385,
+   "yes": 0.062,
+   "no": 0.938,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -197,9 +188,9 @@
   {
    "question": "Bitcoin Up or Down on August 14?",
    "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.46,
-   "no": 0.54,
-   "volumen": 98598.93502599998,
+   "yes": 0.45,
+   "no": 0.55,
+   "volumen": 98610.13956999996,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Bitcoin sube o baja el 14 de agosto?"
@@ -215,6 +206,16 @@
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
   },
   {
+   "question": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+   "slug": "lol-t1a-dkc-2026-08-13",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 98572.80181399995,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío"
+  },
+  {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0085,
@@ -227,8 +228,8 @@
   {
    "question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
-   "yes": 0.08,
-   "no": 0.92,
+   "yes": 0.085,
+   "no": 0.915,
    "volumen": 98342.28758899999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -255,14 +256,24 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
-   "question": "Cincinnati Open: Taylor Townsend vs Elena Rybakina",
-   "slug": "wta-townsen-rybakin-2026-08-15",
-   "yes": 0.305,
-   "no": 0.695,
-   "volumen": 9982.50813,
+   "question": "Will the highest temperature in Denver be 75°F or below on August 13?",
+   "slug": "highest-temperature-in-denver-on-august-13-2026-75forbelow",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9983.735801,
    "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Taylor Townsend vs Elena Rybakina"
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Denver de 75°F o inferior el 13 de agosto?"
+  },
+  {
+   "question": "Will the highest temperature in Singapore be 31°C on August 14?",
+   "slug": "highest-temperature-in-singapore-on-august-14-2026-31c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9975.288144000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Singapur de 31°C el 14 de agosto?"
   },
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
@@ -277,8 +288,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.037,
-   "no": 0.963,
+   "yes": 0.0295,
+   "no": 0.9705,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -295,24 +306,14 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the highest temperature in Singapore be 31°C on August 14?",
-   "slug": "highest-temperature-in-singapore-on-august-14-2026-31c",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9955.288144,
+   "question": "Will Sol1xd Win the 2026 Soloq Challenge (High Elo)",
+   "slug": "will-sol1xd-win-the-2026-soloq-challenge-high-elo-20260727164936180",
+   "yes": 0.34,
+   "no": 0.66,
+   "volumen": 9953.25494,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en Singapur de 31°C el 14 de agosto?"
-  },
-  {
-   "question": "Will the highest temperature in Guangzhou be 35°C on August 14?",
-   "slug": "highest-temperature-in-guangzhou-on-august-14-2026-35c",
-   "yes": 0.0345,
-   "no": 0.9655,
-   "volumen": 9950.889503999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Guangzhou de 35°C el 14 de agosto?"
+   "question_es": "¿Ganará Sol1xd el Soloq Challenge 2026 (High Elo)?"
   },
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
@@ -323,17 +324,7 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
-  },
-  {
-   "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
-   "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.255,
-   "no": 0.745,
-   "volumen": 9920.824999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   }
  ],
- "db_size_mb": 6.34
+ "db_size_mb": 6.48
 }
