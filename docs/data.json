@@ -1,28 +1,28 @@
 {
- "ts": 1786670900,
- "stamp": "20260814_012820",
+ "ts": 1786670960,
+ "stamp": "20260814_012920",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x23564459d47cb1ba3293d2815e21836c01e97185b16932b38ff1694361f3f109",
-   "titulo": "Chargers vs. Texans",
-   "slug": "nfl-lac-hou-2026-08-14",
-   "outcome": "Texans",
-   "side": "SELL",
-   "size": 2900.03,
-   "price": 0.4396722103,
-   "usd": 1275.06,
-   "ts": 1786670629,
+   "market_id": "0x6001eea8fd2aad68d5ec8f01f517d832ce3a3ed1714b825ef293b8c9370708ca",
+   "titulo": "Will Portland Timbers win on 2026-08-13?",
+   "slug": "lec-por-tij-2026-08-13-por",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2610.0,
+   "price": 0.4,
+   "usd": 1044.0,
+   "ts": 1786670935,
    "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,275 en 'Texans'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/nfl-lac-hou-2026-08-14",
-   "titulo_es": "Chargers vs. Texans"
+   "razon": "Trade de compra por $1,044 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lec-por-tij-2026-08-13-por",
+   "titulo_es": "¿Ganará Portland Timbers el 13 de agosto de 2026?"
   }
  ],
  "edges": [
@@ -109,8 +109,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -229,8 +229,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.1205,
+   "no": 0.8795,
    "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -289,8 +289,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -307,5 +307,5 @@
    "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
   }
  ],
- "db_size_mb": 3.37
+ "db_size_mb": 3.42
 }
