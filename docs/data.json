@@ -1,6 +1,6 @@
 {
- "ts": 1786713032,
- "stamp": "20260814_131032",
+ "ts": 1786713092,
+ "stamp": "20260814_131132",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -373,5 +373,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 12.78
+ "db_size_mb": 12.79
 }
