@@ -1,28 +1,28 @@
 {
- "ts": 1786672701,
- "stamp": "20260814_015821",
+ "ts": 1786673061,
+ "stamp": "20260814_020421",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3f9441c58a3f0646d07dcfefd9ba534425e72a3044d4decf2e28f324b2f06b18",
-   "titulo": "Will Austin FC win on 2026-08-13?",
-   "slug": "lec-ame-aus-2026-08-13-aus",
-   "outcome": "No",
+   "market_id": "0xd6e3e6620c32a0e41eea9728b46cac6dba3482926b5f3f2e1439eec21d9e66e0",
+   "titulo": "Will FC Nantes win on 2026-08-14?",
+   "slug": "fr2-lav-nan-2026-08-14-nan",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 1187.0,
-   "price": 0.94,
-   "usd": 1115.78,
-   "ts": 1786672426,
+   "size": 13810.0,
+   "price": 0.4850721868,
+   "usd": 6698.85,
+   "ts": 1786673029,
    "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,116 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lec-ame-aus-2026-08-13-aus",
-   "titulo_es": "¿Ganará Austin FC el 2026-08-13?"
+   "prob": 62,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $6,699 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/fr2-lav-nan-2026-08-14-nan",
+   "titulo_es": "¿Ganará el FC Nantes el 14 de agosto de 2026?"
   }
  ],
  "edges": [
@@ -61,7 +61,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996534.2322909986,
+   "volumen": 996534.2322910016,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -87,11 +87,21 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "Will Bitcoin reach $66,000 August 10-16?",
+   "slug": "will-bitcoin-reach-66k-august-10-16-2026",
+   "yes": 0.0415,
+   "no": 0.9585,
+   "volumen": 99697.52013099998,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Bitcoin los $66,000 del 10 al 16 de agosto?"
+  },
+  {
    "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.024,
    "no": 0.976,
-   "volumen": 99681.46954699994,
+   "volumen": 99681.46954699996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
@@ -101,7 +111,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33041999998,
+   "volumen": 99532.33042,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -121,7 +131,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 99159.48181800001,
+   "volumen": 99159.48181800003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -171,7 +181,7 @@
    "slug": "sud-san-mac-2026-08-13-mac",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98829.46297100006,
+   "volumen": 98829.46297099999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará CSyD Macará el 13 de agosto de 2026?"
@@ -185,16 +195,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will Bitcoin reach $70,000 August 10-16?",
-   "slug": "will-bitcoin-reach-70k-august-10-16-2026",
-   "yes": 0.0095,
-   "no": 0.9905,
-   "volumen": 98466.83850099996,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Bitcoin los $70,000 del 10 al 16 de agosto?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -211,20 +211,10 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98128.75452600002,
+   "volumen": 98128.754526,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
-  },
-  {
-   "question": "Will the number of votes cast in the 2026 Clacton by-election be between 20,000-30,000?",
-   "slug": "will-the-number-of-votes-cast-in-the-2026-clacton-by-election-be-between-20000-30000-20260717155703441",
-   "yes": 0.0055,
-   "no": 0.9945,
-   "volumen": 9997.179542999998,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿El número de votos emitidos en la elección parcial de Clacton de 2026 estará entre 20,000 y 30,000?"
   },
   {
    "question": "Will Dogecoin reach $0.15 in August?",
@@ -237,10 +227,20 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
+   "question": "Will the highest temperature in Tokyo be 26°C on August 14?",
+   "slug": "highest-temperature-in-tokyo-on-august-14-2026-26c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9984.840229,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Tokio de 26°C el 14 de agosto?"
+  },
+  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1225,
-   "no": 0.8775,
+   "yes": 0.122,
+   "no": 0.878,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -259,8 +259,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.0375,
+   "no": 0.9625,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -271,7 +271,7 @@
    "slug": "will-alibaba-be-the-third-best-math-ai-lab-at-the-end-of-august-2026-20260720230105166",
    "yes": 0.725,
    "no": 0.275,
-   "volumen": 9968.575644999997,
+   "volumen": 9968.575644999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el tercer mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -281,7 +281,7 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137666999999,
+   "volumen": 9966.137667,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
@@ -289,8 +289,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -307,5 +307,5 @@
    "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
   }
  ],
- "db_size_mb": 3.72
+ "db_size_mb": 3.88
 }
