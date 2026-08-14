@@ -1,6 +1,6 @@
 {
- "ts": 1786691366,
- "stamp": "20260814_070926",
+ "ts": 1786691426,
+ "stamp": "20260814_071026",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -47,34 +47,6 @@
  "edges": [
   {
    "tipo": "edge",
-   "question": "Will the Chicago Cubs have the highest ABS success rate during the 2026 MLB regular season?",
-   "slug": "will-the-chicago-cubs-have-the-highest-abs-success-rate-during-the-2026-mlb-regular-season-20260702205844831",
-   "url": "https://polymarket.com/market/will-the-chicago-cubs-have-the-highest-abs-success-rate-during-the-2026-mlb-regular-season-20260702205844831",
-   "prob_poly": 1.2,
-   "consenso": 56.9,
-   "edge": 55.7,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "Manifold",
-     "titulo": "MLB: Will the Chicago Cubs sweep the St. Louis Cardinals OR will the 3-game series total 26 or more runs?",
-     "prob": 56.94294940796555,
-     "url": "https://manifold.markets/Web3ICP/mlb-will-the-chicago-cubs-sweep-the-LSupCS9IOC",
-     "_poly_question": "Will Shein's closing IPO market cap be at least 400B HKD?",
-     "titulo_es": "MLB: ¿Barrerán los Chicago Cubs a los St. Louis Cardinals O la serie de 3 juegos totalizará 26 o más carreras?"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Deportes",
-   "prob": 85,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 1.2% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 56.9%: diferencia de 55.7 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Tendrán los Chicago Cubs la tasa de éxito de ABS más alta durante la temporada regular de la MLB 2026?"
-  },
-  {
-   "tipo": "edge",
    "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
@@ -88,7 +60,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will Shein's closing IPO market cap be at least 400B HKD?",
+     "_poly_question": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -106,9 +78,9 @@
    "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
    "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
    "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "prob_poly": 43.0,
+   "prob_poly": 45.0,
    "consenso": 34.5,
-   "edge": -8.5,
+   "edge": -10.5,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -116,17 +88,17 @@
      "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
      "prob": 34.53783434138884,
      "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
-     "_poly_question": "Will Shein's closing IPO market cap be at least 400B HKD?",
+     "_poly_question": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
      "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
     }
    ],
    "n_fuentes": 1,
    "categoria": "Entretenimiento",
-   "prob": 65,
+   "prob": 67,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 43.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 8.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 45.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 10.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
