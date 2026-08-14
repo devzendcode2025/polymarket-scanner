@@ -1,28 +1,47 @@
 {
- "ts": 1786715313,
- "stamp": "20260814_134833",
+ "ts": 1786715373,
+ "stamp": "20260814_134933",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
-   "titulo": "Will Renan Santos win the 2026 Brazilian presidential election?",
-   "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "outcome": "No",
+   "market_id": "0x8ce33e7b4a7f62a665eb1c61d1fce7ac2843c1b67838c75fa524fee612619387",
+   "titulo": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
+   "slug": "lol-al-jdg-2026-08-14",
+   "outcome": "Anyones Legend",
    "side": "BUY",
-   "size": 1338.61,
-   "price": 0.9299811147,
-   "usd": 1244.88,
-   "ts": 1786715058,
-   "categoria": "Política",
+   "size": 9085.16,
+   "price": 0.86,
+   "usd": 7813.24,
+   "ts": 1786715358,
+   "categoria": "Otros",
+   "prob": 63,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $7,813 en 'Anyones Legend'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14",
+   "titulo_es": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x7ed39c70d877b92165581f2ef0a6d35675212aa248c3b8afe5d19686cbb54bb4",
+   "titulo": "Bitcoin Up or Down - August 14, 9:45AM-9:50AM ET",
+   "slug": "btc-updown-5m-1786715100",
+   "outcome": "Down",
+   "side": "BUY",
+   "size": 1121.43,
+   "price": 0.99,
+   "usd": 1110.22,
+   "ts": 1786715356,
+   "categoria": "Cripto",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,245 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "titulo_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
+   "razon": "Trade de compra por $1,110 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786715100",
+   "titulo_es": "Bitcoin sube o baja - 14 de agosto, 9:45AM-9:50AM ET"
   }
  ],
  "edges": [
@@ -61,7 +80,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0205,
    "no": 0.9795,
-   "volumen": 985894.4326630001,
+   "volumen": 985894.4326629997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -71,7 +90,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 984114.5435220001,
+   "volumen": 984660.9935219999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -91,7 +110,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000003,
+   "volumen": 99532.33042000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -111,7 +130,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.48181800001,
+   "volumen": 99159.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -139,8 +158,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0615,
-   "no": 0.9385,
+   "yes": 0.061,
+   "no": 0.939,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -171,7 +190,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98404.807526,
+   "volumen": 98404.80752599999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -187,6 +206,16 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
+   "question": "Will Cagliari Calcio win on 2026-08-14?",
+   "slug": "itc-cag-are-2026-08-14-cag",
+   "yes": 0.615,
+   "no": 0.385,
+   "volumen": 9984.685094,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará el Cagliari Calcio el 2026-08-14?"
+  },
+  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.12,
@@ -199,29 +228,19 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "Will Cagliari Calcio win on 2026-08-14?",
-   "slug": "itc-cag-are-2026-08-14-cag",
-   "yes": 0.615,
-   "no": 0.385,
-   "volumen": 9971.781872,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Cagliari Calcio el 2026-08-14?"
-  },
-  {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
    "yes": 0.24,
    "no": 0.76,
-   "volumen": 9969.309623000003,
+   "volumen": 9969.309623,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -237,20 +256,10 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the highest temperature in Lucknow be 34°C on August 14?",
-   "slug": "highest-temperature-in-lucknow-on-august-14-2026-34c",
-   "yes": 0.999,
-   "no": 0.001,
-   "volumen": 9961.876333,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Lucknow de 34°C el 14 de agosto?"
-  },
-  {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.27,
-   "no": 0.73,
+   "yes": 0.265,
+   "no": 0.735,
    "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
@@ -275,6 +284,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
+  },
+  {
+   "question": "Will Z.ai be the second-best Chinese AI company at the end of August 2026?",
+   "slug": "will-zptai-be-the-second-best-chinese-ai-company-at-the-end-of-august-2026-20260720223339926",
+   "yes": 0.2385,
+   "no": 0.7615,
+   "volumen": 9945.378467,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será Z.ai la segunda mejor empresa china de IA a finales de agosto de 2026?"
   },
   {
    "question": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A",
@@ -307,5 +326,5 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 13.26
+ "db_size_mb": 13.33
 }
