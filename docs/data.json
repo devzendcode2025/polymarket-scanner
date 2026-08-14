@@ -1,10 +1,30 @@
 {
- "ts": 1786686265,
- "stamp": "20260814_054425",
+ "ts": 1786686565,
+ "stamp": "20260814_054925",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x3d11e53379fc2596bf7c68492c75d2b3ddb7971422782b15b7ec9c2652320418",
+   "titulo": "Dota 2: LGD Gaming vs Nigma Galaxy - Game 1 Winner",
+   "slug": "dota2-lgd-ngx-2026-08-14-game1",
+   "outcome": "Nigma Galaxy",
+   "side": "SELL",
+   "size": 54351.28,
+   "price": 0.999,
+   "usd": 54296.93,
+   "ts": 1786686538,
+   "categoria": "Deportes",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $54,297 en 'Nigma Galaxy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-lgd-ngx-2026-08-14-game1",
+   "titulo_es": "Dota 2: LGD Gaming vs Nigma Galaxy - Ganador del Juego 1"
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -21,7 +41,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will Moonshot have the #1 AI model at the end of August 2026?",
+     "_poly_question": "Will the highest temperature in Jeddah be 39°C on August 14?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -33,34 +53,6 @@
    "fuentes_nombres": "Manifold",
    "razon": "Polymarket paga este mercado a 27.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 26.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
-  },
-  {
-   "tipo": "edge",
-   "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
-   "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "prob_poly": 43.5,
-   "consenso": 34.5,
-   "edge": -9.0,
-   "direccion": "Polymarket CARO (comprar No)",
-   "fuentes": [
-    {
-     "fuente": "Manifold",
-     "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
-     "prob": 34.53783434138884,
-     "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
-     "_poly_question": "Will Moonshot have the #1 AI model at the end of August 2026?",
-     "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Entretenimiento",
-   "prob": 65,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 43.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
-   "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
  "top_volumen": [
@@ -69,7 +61,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996567.7848240014,
+   "volumen": 998467.7848240002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -99,17 +91,27 @@
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.028,
    "no": 0.972,
-   "volumen": 99751.35804699994,
+   "volumen": 99751.35804699996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
+  },
+  {
+   "question": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+   "slug": "lol-t1a-dkc-2026-08-13",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99681.86181399995,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33041999995,
+   "volumen": 99532.33042000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -123,6 +125,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la segunda empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
+  },
+  {
+   "question": "Bitcoin Up or Down on August 14?",
+   "slug": "bitcoin-up-or-down-on-august-14-2026",
+   "yes": 0.46,
+   "no": 0.54,
+   "volumen": 99256.49749299997,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Bitcoin sube o baja el 14 de agosto?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -139,17 +151,27 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.481818,
+   "volumen": 99159.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
+  },
+  {
+   "question": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
+   "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
+   "yes": 0.0115,
+   "no": 0.9885,
+   "volumen": 99113.27213299999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
   },
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99069.69360200001,
+   "volumen": 99069.69360200003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -163,16 +185,6 @@
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Bitcoin Up or Down on August 14?",
-   "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.46,
-   "no": 0.54,
-   "volumen": 98955.46882699999,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Bitcoin sube o baja el 14 de agosto?"
   },
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
@@ -189,30 +201,10 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.295,
    "no": 0.705,
-   "volumen": 98896.73757199998,
+   "volumen": 98896.73757200001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
-  },
-  {
-   "question": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-   "slug": "lol-t1a-dkc-2026-08-13",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 98753.86181399999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío"
-  },
-  {
-   "question": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
-   "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
-   "yes": 0.013,
-   "no": 0.987,
-   "volumen": 98591.825315,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -223,6 +215,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
+  },
+  {
+   "question": "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?",
+   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 98150.550526,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
   },
   {
    "question": "Will Dogecoin reach $0.15 in August?",
@@ -239,7 +241,7 @@
    "slug": "highest-temperature-in-denver-on-august-13-2026-75forbelow",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9983.735800999997,
+   "volumen": 9983.735801,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Denver de 75°F o inferior el 13 de agosto?"
@@ -259,7 +261,7 @@
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.12,
    "no": 0.88,
-   "volumen": 9974.940754000001,
+   "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -267,8 +269,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.029,
-   "no": 0.971,
+   "yes": 0.0305,
+   "no": 0.9695,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -279,41 +281,31 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137666999999,
+   "volumen": 9966.137667,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the highest temperature in London be 33°C on August 14?",
-   "slug": "highest-temperature-in-london-on-august-14-2026-33c",
-   "yes": 0.53,
-   "no": 0.47,
-   "volumen": 9965.362195,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Londres de 33°C el 14 de agosto?"
-  },
-  {
-   "question": "Will the highest temperature in Wellington be 14°C on August 14?",
-   "slug": "highest-temperature-in-wellington-on-august-14-2026-14c",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9965.062006,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Wellington de 14°C el 14 de agosto?"
-  },
-  {
    "question": "Will Sol1xd Win the 2026 Soloq Challenge (High Elo)",
    "slug": "will-sol1xd-win-the-2026-soloq-challenge-high-elo-20260727164936180",
-   "yes": 0.35,
-   "no": 0.65,
+   "yes": 0.345,
+   "no": 0.655,
    "volumen": 9953.25494,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará Sol1xd el Soloq Challenge 2026 (High Elo)?"
+  },
+  {
+   "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
+   "slug": "will-xagusd-dip-to-54-in-august-2026",
+   "yes": 0.11,
+   "no": 0.89,
+   "volumen": 9946.068062000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
- "db_size_mb": 6.82
+ "db_size_mb": 6.87
 }
