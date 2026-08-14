@@ -1,6 +1,6 @@
 {
- "ts": 1786682424,
- "stamp": "20260814_044024",
+ "ts": 1786682484,
+ "stamp": "20260814_044124",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -364,5 +364,5 @@
    "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
   }
  ],
- "db_size_mb": 5.93
+ "db_size_mb": 5.94
 }
