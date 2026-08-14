@@ -1,6 +1,6 @@
 {
- "ts": 1786700669,
- "stamp": "20260814_094429",
+ "ts": 1786700729,
+ "stamp": "20260814_094529",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -421,5 +421,5 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
- "db_size_mb": 10.01
+ "db_size_mb": 10.02
 }
