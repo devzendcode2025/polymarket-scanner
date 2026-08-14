@@ -1,47 +1,28 @@
 {
- "ts": 1786712612,
- "stamp": "20260814_130332",
+ "ts": 1786712672,
+ "stamp": "20260814_130432",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x89398eeaa91b1ef5f4041dd27bfbff20b76e73c4d41cb8fa06d4ed1b45ded842",
-   "titulo": "Hamburg: Matheus Pucinelli de Almeida vs Dylan Dietrich",
-   "slug": "atp-almeida-dietric-2026-08-14",
-   "outcome": "Matheus Pucinelli de Almeida",
+   "market_id": "0x571247d0bac851be9e0b50b7dbd15e76da4a214060f069ff2db2955418221ed5",
+   "titulo": "Bitcoin Up or Down - August 14, 8:00AM-12:00PM ET",
+   "slug": "btc-updown-4h-1786708800",
+   "outcome": "Down",
    "side": "BUY",
-   "size": 3750.0,
-   "price": 0.7441937333,
-   "usd": 2790.73,
-   "ts": 1786712352,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,791 en 'Matheus Pucinelli de Almeida'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-almeida-dietric-2026-08-14",
-   "titulo_es": "Hamburgo: Matheus Pucinelli de Almeida vs Dylan Dietrich"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x02616b9895b52d4d1b5b1ede0e237a411cf90f244069c09e380f51365c7e67fd",
-   "titulo": "LoL: Anyone's Legend vs JD Gaming - Game 2 Winner",
-   "slug": "lol-al-jdg-2026-08-14-game2",
-   "outcome": "Anyones Legend",
-   "side": "BUY",
-   "size": 1547.452075,
-   "price": 0.9596419921,
-   "usd": 1485.0,
-   "ts": 1786712358,
-   "categoria": "Deportes",
-   "prob": 54,
+   "size": 1703.0,
+   "price": 0.66,
+   "usd": 1123.98,
+   "ts": 1786712659,
+   "categoria": "Cripto",
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,485 en 'Anyones Legend'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14-game2",
-   "titulo_es": "LoL: Anyone's Legend vs JD Gaming - Ganador del Juego 2"
+   "razon": "Trade de compra por $1,124 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-4h-1786708800",
+   "titulo_es": "Bitcoin al alza o a la baja - 14 de agosto, 8:00AM-12:00PM ET"
   }
  ],
  "edges": [
@@ -108,7 +89,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0205,
    "no": 0.9795,
-   "volumen": 985894.4326630001,
+   "volumen": 985894.4326630002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -128,7 +109,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 983548.6235219999,
+   "volumen": 983673.8935219999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -138,7 +119,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000001,
+   "volumen": 99532.33042000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -146,8 +127,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -158,7 +139,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.481818,
+   "volumen": 99159.48181800004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -168,7 +149,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99069.693602,
+   "volumen": 99069.69360200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -218,17 +199,27 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98404.80752600002,
+   "volumen": 98404.80752599999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
+  },
+  {
+   "question": "Will Ethereum reach $2,100 August 10-16?",
+   "slug": "will-ethereum-reach-2100-august-10-16-2026",
+   "yes": 0.007,
+   "no": 0.993,
+   "volumen": 98336.26403899999,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Ethereum los $2,100 del 10 al 16 de agosto?"
   },
   {
    "question": "Games Total: O/U 2.5",
    "slug": "lol-t1-dk-2026-08-14-total-games-2pt5",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9999.210369000004,
+   "volumen": 9999.210369,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Total de Juegos: O/U 2.5"
@@ -246,12 +237,22 @@
   {
    "question": "Counter-Strike: Lazer Cats vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #3 Group A",
    "slug": "cs2-lc-mouzn-2026-08-14",
-   "yes": 0.705,
-   "no": 0.295,
-   "volumen": 9987.786731000002,
+   "yes": 0.69,
+   "no": 0.31,
+   "volumen": 9987.786731000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Counter-Strike: Lazer Cats vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #3 Grupo A"
+  },
+  {
+   "question": "Will the highest temperature in London be 36°C on August 14?",
+   "slug": "highest-temperature-in-london-on-august-14-2026-36c",
+   "yes": 0.004,
+   "no": 0.996,
+   "volumen": 9987.660526,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Londres de 36°C el 14 de agosto?"
   },
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
@@ -278,7 +279,7 @@
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
    "yes": 0.24,
    "no": 0.76,
-   "volumen": 9969.309623000001,
+   "volumen": 9969.309623000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -308,7 +309,7 @@
    "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
    "yes": 0.61,
    "no": 0.39,
-   "volumen": 9948.479011,
+   "volumen": 9948.479011000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
@@ -332,27 +333,7 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Will the Democratic Party win the AR-01 House seat?",
-   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.0155,
-   "no": 0.9845,
-   "volumen": 9914.337593,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
-  },
-  {
-   "question": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A",
-   "slug": "cs2-jjh-aur1-2026-08-15",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 9908.848541000001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Copa Mundial de Esports Grupo A"
   }
  ],
- "db_size_mb": 12.65
+ "db_size_mb": 12.71
 }
