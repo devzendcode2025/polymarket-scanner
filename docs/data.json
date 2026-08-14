@@ -1,66 +1,28 @@
 {
- "ts": 1786722515,
- "stamp": "20260814_154835",
+ "ts": 1786722575,
+ "stamp": "20260814_154935",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x4b2d6c745c88b403eeb33621876cc5539ad09454da98905212e8f735b83cbf7f",
-   "titulo": "Will Holstein Kiel win on 2026-08-14?",
-   "slug": "bl2-ksv-stp-2026-08-14-ksv",
+   "market_id": "0xb9233cbde539b038609df0de4d22419677f4e5b416fbcea62b746a9d3b1931ed",
+   "titulo": "Will the price of Bitcoin be between $60,000 and $62,000 on August 14?",
+   "slug": "will-the-price-of-bitcoin-be-between-60000-62000-on-august-14-2026",
    "outcome": "No",
-   "side": "BUY",
-   "size": 10746.780302,
-   "price": 0.6513578767,
-   "usd": 7000.0,
-   "ts": 1786722258,
-   "categoria": "Otros",
-   "prob": 62,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $7,000 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bl2-ksv-stp-2026-08-14-ksv",
-   "titulo_es": "¿Ganará Holstein Kiel el 2026-08-14?"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-   "titulo": "Will JD Vance win the 2028 US Presidential Election?",
-   "slug": "will-jd-vance-win-the-2028-us-presidential-election",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 9000.0,
-   "price": 0.7696855289,
-   "usd": 6927.17,
-   "ts": 1786722258,
-   "categoria": "Política",
-   "prob": 62,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $6,927 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-jd-vance-win-the-2028-us-presidential-election",
-   "titulo_es": "¿Ganará JD Vance las Elecciones Presidenciales de EE. UU. de 2028?"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xf34dec8bb2a3603cb7fcacafbd0c4ef7e22b2dd62cc2db3fc28fb36bc99eb989",
-   "titulo": "Counter-Strike: BESTIA vs ALKA (BO3) - BetBoom Storm Playoffs",
-   "slug": "cs2-bst-alkaa-2026-08-14",
-   "outcome": "BESTIA",
-   "side": "BUY",
-   "size": 1772.53,
-   "price": 0.86,
-   "usd": 1524.38,
-   "ts": 1786722264,
-   "categoria": "Deportes",
-   "prob": 54,
+   "side": "SELL",
+   "size": 1114.68,
+   "price": 0.999,
+   "usd": 1113.57,
+   "ts": 1786722565,
+   "categoria": "Cripto",
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,524 en 'BESTIA'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-bst-alkaa-2026-08-14",
-   "titulo_es": "Counter-Strike: BESTIA vs ALKA (BO3) - Playoffs de BetBoom Storm"
+   "razon": "Trade de venta por $1,114 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-60000-62000-on-august-14-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin entre $60,000 y $62,000 el 14 de agosto?"
   }
  ],
  "edges": [
@@ -137,7 +99,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0205,
    "no": 0.9795,
-   "volumen": 985974.4326629998,
+   "volumen": 985980.5857229999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -157,7 +119,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000001,
+   "volumen": 99532.33042000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -177,7 +139,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.481818,
+   "volumen": 99159.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -187,7 +149,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99069.693602,
+   "volumen": 99069.69360200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -237,7 +199,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98413.957526,
+   "volumen": 98413.95752599998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -257,7 +219,7 @@
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.12,
    "no": 0.88,
-   "volumen": 9974.940754,
+   "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -265,29 +227,29 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0345,
-   "no": 0.9655,
+   "yes": 0.0425,
+   "no": 0.9575,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "Will the highest temperature in Madrid be 40°C on August 14?",
-   "slug": "highest-temperature-in-madrid-on-august-14-2026-40c",
-   "yes": 0.0245,
-   "no": 0.9755,
-   "volumen": 9970.651382,
+   "question": "Cincinnati Open: Maya Joint vs Tamara Korpatsch",
+   "slug": "wta-joint-korpats-2026-08-13",
+   "yes": 0.685,
+   "no": 0.315,
+   "volumen": 9969.887198,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Madrid de 40°C el 14 de agosto?"
+   "categoria": "Deportes",
+   "question_es": "Cincinnati Open: Maya Joint vs Tamara Korpatsch"
   },
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
    "yes": 0.215,
    "no": 0.785,
-   "volumen": 9969.309623000001,
+   "volumen": 9969.309623000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -303,21 +265,11 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Games Total: O/U 2.5",
-   "slug": "lol-al-jdg-2026-08-14-total-games-2pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9951.454877,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Total de Juegos: O/U 2.5"
-  },
-  {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.255,
-   "no": 0.745,
-   "volumen": 9948.784999000001,
+   "yes": 0.245,
+   "no": 0.755,
+   "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
@@ -371,7 +323,17 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
+  },
+  {
+   "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
+   "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
+   "yes": 0.45,
+   "no": 0.55,
+   "volumen": 9903.455292999997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
   }
  ],
- "db_size_mb": 14.86
+ "db_size_mb": 14.96
 }
