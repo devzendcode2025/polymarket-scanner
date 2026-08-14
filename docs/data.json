@@ -1,10 +1,30 @@
 {
- "ts": 1786719334,
- "stamp": "20260814_145534",
+ "ts": 1786719574,
+ "stamp": "20260814_145934",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x0cc3d7f9723b06381b10222bed4d30f56ddf1c24fa36edf4c7e828e659495de9",
+   "titulo": "Will Blackburn Rovers FC win on 2026-08-14?",
+   "slug": "elc-wol-bbr-2026-08-14-bbr",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1494.252869,
+   "price": 0.87,
+   "usd": 1300.0,
+   "ts": 1786719559,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,300 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elc-wol-bbr-2026-08-14-bbr",
+   "titulo_es": "¿Ganará el Blackburn Rovers FC el 14-08-2026?"
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -107,8 +127,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.1,
-   "no": 0.9,
+   "yes": 0.095,
+   "no": 0.905,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -237,8 +257,8 @@
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.245,
-   "no": 0.755,
+   "yes": 0.225,
+   "no": 0.775,
    "volumen": 9969.309623000001,
    "spread": 0.0,
    "categoria": "Política",
@@ -277,8 +297,8 @@
   {
    "question": "Will Z.ai be the second-best Chinese AI company at the end of August 2026?",
    "slug": "will-zptai-be-the-second-best-chinese-ai-company-at-the-end-of-august-2026-20260720223339926",
-   "yes": 0.2745,
-   "no": 0.7255,
+   "yes": 0.2735,
+   "no": 0.7265,
    "volumen": 9945.378466999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -315,5 +335,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 14.19
+ "db_size_mb": 14.24
 }
