@@ -1,28 +1,66 @@
 {
- "ts": 1786713812,
- "stamp": "20260814_132332",
+ "ts": 1786713872,
+ "stamp": "20260814_132432",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd3622a52ec6d9a8d582d0aae715c0b2a0b15e72a67cc1edc593607741dbc3b78",
-   "titulo": "LoL: MVK Esports vs CTBC Flying Oyster (BO5) - LCP Group Stage",
-   "slug": "lol-mvk-cfo-2026-08-14",
-   "outcome": "MVK Esports",
+   "market_id": "0x86a2515d1df361ecd588ca8705c6eb83567cc9fbe907780c5d5d470877c1ce0c",
+   "titulo": "Will the next Google Gemini Pro model be released by August 14, 2026?",
+   "slug": "will-the-next-google-gemini-pro-model-be-released-by-august-14-2026",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 1378.82,
+   "price": 0.997,
+   "usd": 1374.68,
+   "ts": 1786713852,
+   "categoria": "Tecnología",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,375 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-the-next-google-gemini-pro-model-be-released-by-august-14-2026",
+   "titulo_es": "¿Se lanzará el próximo modelo Google Gemini Pro antes del 14 de agosto de 2026?"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x6fc077aae787d736d08eaf2505c064b66776a49cf8109599e6cc12da61807e14",
+   "titulo": "Arizona Diamondbacks vs. Atlanta Braves",
+   "slug": "mlb-ari-atl-2026-08-14",
+   "outcome": "Arizona Diamondbacks",
    "side": "BUY",
-   "size": 6407.245356,
-   "price": 0.4682199342,
-   "usd": 3000.0,
-   "ts": 1786713552,
+   "size": 3346.189188,
+   "price": 0.3699999998,
+   "usd": 1238.09,
+   "ts": 1786713853,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,238 en 'Arizona Diamondbacks'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-ari-atl-2026-08-14",
+   "titulo_es": "Arizona Diamondbacks vs. Atlanta Braves"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x38aae5f85f4ea1da3474ff779979018a5f1c4c9bb3315a1de336c11b6f548920",
+   "titulo": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
+   "slug": "cs2-fut-mouz-2026-08-14",
+   "outcome": "FUT Esports",
+   "side": "BUY",
+   "size": 3333.333332,
+   "price": 0.3599999998,
+   "usd": 1200.0,
+   "ts": 1786713852,
    "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,000 en 'MVK Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-mvk-cfo-2026-08-14",
-   "titulo_es": "LoL: MVK Esports vs CTBC Flying Oyster (BO5) - Fase de Grupos LCP"
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,200 en 'FUT Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-fut-mouz-2026-08-14",
+   "titulo_es": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Copa Mundial de Esports Grupo C"
   }
  ],
  "edges": [
@@ -87,8 +125,8 @@
   {
    "question": "Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage",
    "slug": "dota2-aur1-ty-2026-08-14",
-   "yes": 0.255,
-   "no": 0.745,
+   "yes": 0.445,
+   "no": 0.555,
    "volumen": 993569.9210359989,
    "spread": 0.0,
    "categoria": "Otros",
@@ -317,8 +355,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.06,
+   "no": 0.94,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -335,5 +373,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 12.92
+ "db_size_mb": 12.98
 }
