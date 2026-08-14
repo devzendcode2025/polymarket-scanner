@@ -1,28 +1,28 @@
 {
- "ts": 1786679003,
- "stamp": "20260814_034323",
+ "ts": 1786679063,
+ "stamp": "20260814_034423",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xdefefe4a4a89441148f773e0c024704f28698e916f06c949b48f2c3e9d5153c6",
-   "titulo": "Dota 2: Team Yandex vs Team Liquid - Game 2 Winner",
-   "slug": "dota2-ty-liquid-2026-08-13-game2",
-   "outcome": "Team Liquid",
+   "market_id": "0xbbc0aac697938df5c04753ae878e03377e8e0bb1acd98596f465f27bbcf40eb7",
+   "titulo": "LoL: Nongshim Red Force vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+   "slug": "lol-ns-bro2-2026-08-14",
+   "outcome": "Nongshim Red Force",
    "side": "BUY",
-   "size": 4364.62,
-   "price": 0.3,
-   "usd": 1309.39,
-   "ts": 1786678729,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,309 en 'Team Liquid'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ty-liquid-2026-08-13-game2",
-   "titulo_es": "Dota 2: Team Yandex vs Team Liquid - Ganador del Juego 2"
+   "size": 5494.480768,
+   "price": 0.5199999999,
+   "usd": 2857.13,
+   "ts": 1786679037,
+   "categoria": "Otros",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,857 en 'Nongshim Red Force'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ns-bro2-2026-08-14",
+   "titulo_es": "LoL: Nongshim Red Force vs HANJIN BRION (BO3) - LCK Ronda 3-4 Grupo Rise"
   }
  ],
  "edges": [
@@ -127,8 +127,8 @@
   {
    "question": "Will Bitcoin reach $66,000 August 10-16?",
    "slug": "will-bitcoin-reach-66k-august-10-16-2026",
-   "yes": 0.0335,
-   "no": 0.9665,
+   "yes": 0.0325,
+   "no": 0.9675,
    "volumen": 99768.44148099999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -227,8 +227,8 @@
   {
    "question": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
    "slug": "will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123",
-   "yes": 0.0055,
-   "no": 0.9945,
+   "yes": 0.008,
+   "no": 0.992,
    "volumen": 98538.391397,
    "spread": 0.0,
    "categoria": "Política",
@@ -267,8 +267,8 @@
   {
    "question": "Will the highest temperature in London be 34°C on August 14?",
    "slug": "highest-temperature-in-london-on-august-14-2026-34c",
-   "yes": 0.3,
-   "no": 0.7,
+   "yes": 0.29,
+   "no": 0.71,
    "volumen": 9992.802692,
    "spread": 0.0,
    "categoria": "Otros",
@@ -335,5 +335,5 @@
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   }
  ],
- "db_size_mb": 5.16
+ "db_size_mb": 5.22
 }
