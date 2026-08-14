@@ -1,6 +1,6 @@
 {
- "ts": 1786700369,
- "stamp": "20260814_093929",
+ "ts": 1786700429,
+ "stamp": "20260814_094029",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -117,7 +117,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
+     "_poly_question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -383,5 +383,5 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
- "db_size_mb": 9.95
+ "db_size_mb": 9.96
 }
