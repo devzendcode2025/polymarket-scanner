@@ -1,6 +1,6 @@
 {
- "ts": 1786708471,
- "stamp": "20260814_115431",
+ "ts": 1786708531,
+ "stamp": "20260814_115531",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -335,5 +335,5 @@
    "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
   }
  ],
- "db_size_mb": 11.76
+ "db_size_mb": 11.77
 }
