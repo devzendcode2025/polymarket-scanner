@@ -1,6 +1,6 @@
 {
- "ts": 1786666939,
- "stamp": "20260814_002219",
+ "ts": 1786666999,
+ "stamp": "20260814_002319",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -468,5 +468,5 @@
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   }
  ],
- "db_size_mb": 2.46
+ "db_size_mb": 2.47
 }

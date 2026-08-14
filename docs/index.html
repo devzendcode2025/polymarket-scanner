@@ -385,10 +385,11 @@ function renderDesdePipeline(r){
   const ballenas = (r.ballenas_scan || []).filter(matchItem);
   const misp = (r.mispricings || []).filter(matchItem);
   const mom  = (r.momentum || []).filter(matchItem);
-  const top  = (r.top_volumen || []).filter(m => matchPais((m.question_es || "") + " " + (m.question || ""), []));
+  const edges = (r.edges || []).filter(matchItem);
+  const top  = (r.top_volumen || []).filter(matchItem);
 
   const whaleUSD = renderWhales(ballenas);
-  tag("mispTag", misp.length); tag("momTag", mom.length);
+  tag("mispTag", misp.length); tag("momTag", mom.length); tag("edgeTag", edges.length);
 
   const mb = document.getElementById("misp");
   mb.innerHTML = misp.length ? signalCards(misp, "🎯 Mispricing")
@@ -398,6 +399,10 @@ function renderDesdePipeline(r){
   mo.innerHTML = mom.length ? signalCards(mom, "📈 Momentum")
     : emptyBox("Acumulando historial de precios. Las alertas aparecen cuando un precio se mueve ≥ 5% entre scans.");
 
+  const eb = document.getElementById("edges");
+  eb.innerHTML = edges.length ? edgeCards(edges)
+    : emptyBox("Sin diferencias ≥ 8 puntos entre Polymarket y el consenso externo (Kalshi, Manifold, PredictIt). El cross-check corre cada 10 min.");
+
   renderTop(top);
 
   const stats = [
@@ -406,6 +411,7 @@ function renderDesdePipeline(r){
     ['class="stat accent"', whaleUSD ? money(whaleUSD) : "—", "Volumen de ballenas"],
     ["", misp.length, "Mispricings activos"],
     ["", mom.length, "Alertas de momentum"],
+    ["", edges.length, "Datos ganadores (edge)"],
   ].map(s => "<div " + s[0] + "><div class='num'>" + s[1] + "</div><div class='lbl'>" + s[2] + "</div></div>").join("");
   document.getElementById("stats").innerHTML = stats;
 }
