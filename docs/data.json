@@ -1,6 +1,6 @@
 {
- "ts": 1786687465,
- "stamp": "20260814_060425",
+ "ts": 1786687525,
+ "stamp": "20260814_060525",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -364,5 +364,5 @@
    "question_es": "¿Dirá Trump \"Biden\" durante sus declaraciones en Nueva York?"
   }
  ],
- "db_size_mb": 7.07
+ "db_size_mb": 7.08
 }
