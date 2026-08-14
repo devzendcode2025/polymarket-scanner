@@ -1,28 +1,28 @@
 {
- "ts": 1786713512,
- "stamp": "20260814_131832",
+ "ts": 1786713572,
+ "stamp": "20260814_131932",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xc8e72eb07dc579a57e6e382e002f9717522f87ca1ff1cda7ef4eff9a593609b1",
-   "titulo": "Spread: Navbahor (-1.5)",
-   "slug": "uzb1-nav-bun-2026-08-14-spread-home-1pt5",
-   "outcome": "FC Bunyodkor",
+   "market_id": "0xd3622a52ec6d9a8d582d0aae715c0b2a0b15e72a67cc1edc593607741dbc3b78",
+   "titulo": "LoL: MVK Esports vs CTBC Flying Oyster (BO5) - LCP Group Stage",
+   "slug": "lol-mvk-cfo-2026-08-14",
+   "outcome": "MVK Esports",
    "side": "BUY",
-   "size": 2686.0,
-   "price": 0.49,
-   "usd": 1316.14,
-   "ts": 1786713247,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,316 en 'FC Bunyodkor'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/uzb1-nav-bun-2026-08-14-spread-home-1pt5",
-   "titulo_es": "Margen: Navbahor (-1.5)"
+   "size": 6407.245356,
+   "price": 0.4682199342,
+   "usd": 3000.0,
+   "ts": 1786713552,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,000 en 'MVK Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-mvk-cfo-2026-08-14",
+   "titulo_es": "LoL: MVK Esports vs CTBC Flying Oyster (BO5) - Fase de Grupos LCP"
   }
  ],
  "edges": [
@@ -85,14 +85,34 @@
  ],
  "top_volumen": [
   {
+   "question": "Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage",
+   "slug": "dota2-aur1-ty-2026-08-14",
+   "yes": 0.255,
+   "no": 0.745,
+   "volumen": 993569.9210359989,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Dota 2: Aurora vs Team Yandex (BO3) - Fase de Grupos de The International"
+  },
+  {
    "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0205,
    "no": 0.9795,
-   "volumen": 985894.4326630002,
+   "volumen": 985894.4326630001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
+  },
+  {
+   "question": "Will Yabloko gain the most seats in the next Russian parliamentary election?",
+   "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+   "yes": 0.0035,
+   "no": 0.9965,
+   "volumen": 983903.343522,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -105,21 +125,11 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "Will Yabloko gain the most seats in the next Russian parliamentary election?",
-   "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-   "yes": 0.0035,
-   "no": 0.9965,
-   "volumen": 983673.8935219999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
-  },
-  {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000003,
+   "volumen": 99532.33042000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -127,8 +137,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -139,7 +149,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.48181800004,
+   "volumen": 99159.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -149,7 +159,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99069.69360200001,
+   "volumen": 99069.69360200003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -199,27 +209,17 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98404.80752599999,
+   "volumen": 98404.807526,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
-  },
-  {
-   "question": "Will Ethereum reach $2,100 August 10-16?",
-   "slug": "will-ethereum-reach-2100-august-10-16-2026",
-   "yes": 0.008,
-   "no": 0.992,
-   "volumen": 98336.26403899999,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Ethereum los $2,100 del 10 al 16 de agosto?"
   },
   {
    "question": "Games Total: O/U 2.5",
    "slug": "lol-t1-dk-2026-08-14-total-games-2pt5",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9999.210369,
+   "volumen": 9999.210369000002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Total de Juegos: O/U 2.5"
@@ -237,29 +237,19 @@
   {
    "question": "Counter-Strike: Lazer Cats vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #3 Group A",
    "slug": "cs2-lc-mouzn-2026-08-14",
-   "yes": 0.705,
-   "no": 0.295,
-   "volumen": 9987.786731000004,
+   "yes": 0.7,
+   "no": 0.3,
+   "volumen": 9992.786731000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Counter-Strike: Lazer Cats vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #3 Grupo A"
-  },
-  {
-   "question": "Will the highest temperature in London be 36°C on August 14?",
-   "slug": "highest-temperature-in-london-on-august-14-2026-36c",
-   "yes": 0.0035,
-   "no": 0.9965,
-   "volumen": 9987.660526,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Londres de 36°C el 14 de agosto?"
   },
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1205,
    "no": 0.8795,
-   "volumen": 9974.940754000001,
+   "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -267,8 +257,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0395,
-   "no": 0.9605,
+   "yes": 0.0365,
+   "no": 0.9635,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -279,7 +269,7 @@
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
    "yes": 0.24,
    "no": 0.76,
-   "volumen": 9969.309623000003,
+   "volumen": 9969.309623000005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -295,11 +285,21 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will the highest temperature in Lucknow be 34°C on August 14?",
+   "slug": "highest-temperature-in-lucknow-on-august-14-2026-34c",
+   "yes": 0.9985,
+   "no": 0.0015,
+   "volumen": 9956.876332999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Lucknow de 34°C el 14 de agosto?"
+  },
+  {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
    "yes": 0.23,
    "no": 0.77,
-   "volumen": 9948.784999,
+   "volumen": 9948.784999000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
@@ -309,7 +309,7 @@
    "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
    "yes": 0.61,
    "no": 0.39,
-   "volumen": 9948.479011000001,
+   "volumen": 9948.479010999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
@@ -335,5 +335,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 12.84
+ "db_size_mb": 12.91
 }
