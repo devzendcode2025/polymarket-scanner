@@ -1,28 +1,28 @@
 {
- "ts": 1786677502,
- "stamp": "20260814_031822",
+ "ts": 1786677562,
+ "stamp": "20260814_031922",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x936a5abf0e2ca85d01ad9a060c97ed6bfad6e540e5c8773008c11da7e83cd813",
-   "titulo": "Dota 2: Team Spirit vs Aurora - Game 1 Winner",
-   "slug": "dota2-ts8-aur1-2026-08-13-game1",
-   "outcome": "Team Spirit",
-   "side": "SELL",
-   "size": 1016.0,
+   "market_id": "0x2a662fee768b2d7ee1a2e9fff20f324eaae0a2f95d8b67c1f385e3bdb2f1b1d2",
+   "titulo": "US announces end of Iranian blockade by August 13, 2026?",
+   "slug": "us-announces-end-of-iranian-blockade-by-august-13-2026",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 5336.39,
    "price": 0.999,
-   "usd": 1014.98,
-   "ts": 1786677229,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,015 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ts8-aur1-2026-08-13-game1",
-   "titulo_es": "Dota 2: Team Spirit vs Aurora - Ganador del Juego 1"
+   "usd": 5331.05,
+   "ts": 1786677537,
+   "categoria": "Otros",
+   "prob": 59,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,331 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/us-announces-end-of-iranian-blockade-by-august-13-2026",
+   "titulo_es": "¿EE. UU. anuncia el fin del bloqueo iraní para el 13 de agosto de 2026?"
   }
  ],
  "edges": [
@@ -61,7 +61,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996554.8856910013,
+   "volumen": 996559.7156910014,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -89,8 +89,8 @@
   {
    "question": "Will Bitcoin reach $66,000 August 10-16?",
    "slug": "will-bitcoin-reach-66k-august-10-16-2026",
-   "yes": 0.0335,
-   "no": 0.9665,
+   "yes": 0.035,
+   "no": 0.965,
    "volumen": 99768.44148099999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -111,7 +111,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000001,
+   "volumen": 99532.33042,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -119,8 +119,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -131,7 +131,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 99159.481818,
+   "volumen": 99159.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -141,7 +141,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99035.45360200001,
+   "volumen": 99035.453602,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -181,7 +181,7 @@
    "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
    "yes": 0.0145,
    "no": 0.9855,
-   "volumen": 98586.75945999999,
+   "volumen": 98586.75946,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
@@ -201,7 +201,7 @@
    "slug": "will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123",
    "yes": 0.025,
    "no": 0.975,
-   "volumen": 98300.68016199999,
+   "volumen": 98300.68016200002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Nigel Farage entre el 50 y el 60% de los votos en la elección parcial parlamentaria de Clacton?"
@@ -217,6 +217,16 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
+   "question": "Will Meta have the best AI model at the end of September 2026?",
+   "slug": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
+   "yes": 0.0075,
+   "no": 0.9925,
+   "volumen": 9993.368813000001,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Meta el mejor modelo de IA a finales de septiembre de 2026?"
+  },
+  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1195,
@@ -229,9 +239,9 @@
   {
    "question": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
    "slug": "ukraine-strikes-another-vessel-in-the-black-sea-by-august-15-2026-20260804183343485",
-   "yes": 0.88,
-   "no": 0.12,
-   "volumen": 9974.530565000001,
+   "yes": 0.87,
+   "no": 0.13,
+   "volumen": 9974.530565,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Ucrania ataca otro buque en el Mar Negro antes del 15 de agosto de 2026?"
@@ -251,10 +261,30 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137666999999,
+   "volumen": 9966.137667,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will the Republicans win the Kansas governor race in 2026?",
+   "slug": "will-the-republicans-win-the-kansas-governor-race-in-2026",
+   "yes": 0.665,
+   "no": 0.335,
+   "volumen": 9956.720720999998,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Kansas en 2026?"
+  },
+  {
+   "question": "Will the highest temperature in London be 34°C on August 14?",
+   "slug": "highest-temperature-in-london-on-august-14-2026-34c",
+   "yes": 0.295,
+   "no": 0.705,
+   "volumen": 9953.468680999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Londres de 34°C el 14 de agosto?"
   },
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
@@ -275,37 +305,7 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
-  },
-  {
-   "question": "Will the highest temperature in London be 34°C on August 14?",
-   "slug": "highest-temperature-in-london-on-august-14-2026-34c",
-   "yes": 0.3,
-   "no": 0.7,
-   "volumen": 9931.593680999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Londres de 34°C el 14 de agosto?"
-  },
-  {
-   "question": "Will Meta have the best AI model at the end of September 2026?",
-   "slug": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
-   "yes": 0.0075,
-   "no": 0.9925,
-   "volumen": 9924.981956000001,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Meta el mejor modelo de IA a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
-   "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.21,
-   "no": 0.79,
-   "volumen": 9920.824999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   }
  ],
- "db_size_mb": 4.81
+ "db_size_mb": 4.87
 }
