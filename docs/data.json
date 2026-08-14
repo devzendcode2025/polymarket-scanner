@@ -1,49 +1,10 @@
 {
- "ts": 1786679903,
- "stamp": "20260814_035823",
+ "ts": 1786680263,
+ "stamp": "20260814_040423",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x8076dd1a5dab6d4ada784256555fcd5d814646377f4df8161542af28bc58d03f",
-   "titulo": "Dota 2: HULIGANI vs Vici Gaming - Game 2 Winner",
-   "slug": "dota2-huliga-vg-2026-08-13-game2",
-   "outcome": "Vici Gaming",
-   "side": "BUY",
-   "size": 4072.38,
-   "price": 0.7499631665,
-   "usd": 3054.13,
-   "ts": 1786679631,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,054 en 'Vici Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-huliga-vg-2026-08-13-game2",
-   "titulo_es": "Dota 2: HULIGANI vs Vici Gaming - Ganador del Juego 2"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x8076dd1a5dab6d4ada784256555fcd5d814646377f4df8161542af28bc58d03f",
-   "titulo": "Dota 2: HULIGANI vs Vici Gaming - Game 2 Winner",
-   "slug": "dota2-huliga-vg-2026-08-13-game2",
-   "outcome": "Vici Gaming",
-   "side": "BUY",
-   "size": 1286.596278,
-   "price": 0.8497537399,
-   "usd": 1093.29,
-   "ts": 1786679638,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,093 en 'Vici Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-huliga-vg-2026-08-13-game2",
-   "titulo_es": "Dota 2: HULIGANI vs Vici Gaming - Ganador del Juego 2"
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -108,7 +69,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996562.4656910012,
+   "volumen": 996562.4656910005,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -134,30 +95,10 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "Spread: Los Angeles Dodgers (-1.5)",
-   "slug": "mlb-mil-lad-2026-08-13-spread-home-1pt5",
-   "yes": 0.18,
-   "no": 0.82,
-   "volumen": 99969.25951999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Spread: Los Angeles Dodgers (-1.5)"
-  },
-  {
-   "question": "Will Bitcoin reach $66,000 August 10-16?",
-   "slug": "will-bitcoin-reach-66k-august-10-16-2026",
-   "yes": 0.0325,
-   "no": 0.9675,
-   "volumen": 99768.44148099997,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Bitcoin los $66,000 del 10 al 16 de agosto?"
-  },
-  {
    "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
-   "yes": 0.0275,
-   "no": 0.9725,
+   "yes": 0.028,
+   "no": 0.972,
    "volumen": 99681.46954699996,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -168,7 +109,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33041999997,
+   "volumen": 99532.33042,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -188,7 +129,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 99159.481818,
+   "volumen": 99159.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -198,7 +139,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99035.453602,
+   "volumen": 99069.69360200003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -234,16 +175,6 @@
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
   },
   {
-   "question": "Dota 2: HULIGANI vs Vici Gaming (BO3) - The International Group Stage",
-   "slug": "dota2-huliga-vg-2026-08-13",
-   "yes": 0.475,
-   "no": 0.525,
-   "volumen": 98623.18510399999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Dota 2: HULIGANI vs Vici Gaming (BO3) - Fase de Grupos de The International"
-  },
-  {
    "question": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
    "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
    "yes": 0.0145,
@@ -264,11 +195,21 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Bitcoin Up or Down on August 14?",
+   "slug": "bitcoin-up-or-down-on-august-14-2026",
+   "yes": 0.415,
+   "no": 0.585,
+   "volumen": 98284.117578,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Bitcoin sube o baja el 14 de agosto?"
+  },
+  {
    "question": "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?",
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98150.550526,
+   "volumen": 98150.55052599999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -296,8 +237,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.03,
-   "no": 0.97,
+   "yes": 0.0295,
+   "no": 0.9705,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -308,7 +249,7 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137666999999,
+   "volumen": 9966.137667,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
@@ -352,7 +293,27 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
+  },
+  {
+   "question": "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?",
+   "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
+   "yes": 0.6,
+   "no": 0.4,
+   "volumen": 9916.220947999998,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
+  },
+  {
+   "question": "Will the Democratic Party win the AR-01 House seat?",
+   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
+   "yes": 0.0155,
+   "no": 0.9845,
+   "volumen": 9914.337593,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 5.35
+ "db_size_mb": 5.48
 }
