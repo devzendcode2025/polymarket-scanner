@@ -1,47 +1,47 @@
 {
- "ts": 1786694907,
- "stamp": "20260814_080827",
+ "ts": 1786695267,
+ "stamp": "20260814_081427",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x698b8ed7978ab7f8aa697d674b0be6c3deb85955f74079dbee324e17d7e1367f",
-   "titulo": "Astana: Fajing Sun vs Hayato Matsuoka",
-   "slug": "atp-su-matsuok-2026-08-14",
-   "outcome": "Hayato Matsuoka",
+   "market_id": "0x9b26f42aefdcb6713dd76e5d93e9f3ecfaaca64e4f2b724fa6779460e72fe102",
+   "titulo": "Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner",
+   "slug": "dota2-vg-gl-2026-08-14-game1",
+   "outcome": "GamerLegion",
    "side": "BUY",
-   "size": 2913.14,
-   "price": 0.89,
-   "usd": 2592.69,
-   "ts": 1786694644,
-   "categoria": "Otros",
-   "prob": 55,
+   "size": 5000.0,
+   "price": 0.85972,
+   "usd": 4298.6,
+   "ts": 1786695240,
+   "categoria": "Deportes",
+   "prob": 58,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,593 en 'Hayato Matsuoka'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-su-matsuok-2026-08-14",
-   "titulo_es": "Astana: Fajing Sun contra Hayato Matsuoka"
+   "razon": "Trade de compra por $4,299 en 'GamerLegion'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-vg-gl-2026-08-14-game1",
+   "titulo_es": "Dota 2: Vici Gaming vs GamerLegion - Ganador del Juego 1"
   },
   {
    "tipo": "ballena",
-   "market_id": "0x1a1b97419b915e22c1ab2ed5a526797bac286ad74c422db4a2ad690ae4a1b997",
-   "titulo": "LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
-   "slug": "lol-edg-lgd-2026-08-14",
-   "outcome": "LGD Gaming",
+   "market_id": "0xa8f56c904770654835da63bdfad05074913f71173b39185527f3b04be4e504b0",
+   "titulo": "Dota 2: Iron Wing vs Team Falcons - Game 2 Winner",
+   "slug": "dota2-ironwi-flc-2026-08-14-game2",
+   "outcome": "Iron Wing",
    "side": "BUY",
-   "size": 1256.470587,
-   "price": 0.8499999992,
-   "usd": 1068.0,
-   "ts": 1786694643,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,068 en 'LGD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-edg-lgd-2026-08-14",
-   "titulo_es": "LoL: EDward Gaming vs LGD Gaming (BO3) - Ascenso de Grupo LPL"
+   "size": 4385.534375,
+   "price": 0.4560447665,
+   "usd": 2000.0,
+   "ts": 1786695240,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Iron Wing'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ironwi-flc-2026-08-14-game2",
+   "titulo_es": "Dota 2: Iron Wing vs Team Falcons - Ganador del Juego 2"
   }
  ],
  "edges": [
@@ -60,7 +60,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will QHP win the most seats in the 2026 Kazakh Kurultai elections?",
+     "_poly_question": "Will Los Angeles FC vs. San Diego FC end in a draw?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -78,9 +78,9 @@
    "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
    "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
    "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "prob_poly": 43.5,
+   "prob_poly": 43.0,
    "consenso": 34.5,
-   "edge": -9.0,
+   "edge": -8.5,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -88,7 +88,7 @@
      "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
      "prob": 34.53783434138884,
      "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
-     "_poly_question": "Will QHP win the most seats in the 2026 Kazakh Kurultai elections?",
+     "_poly_question": "Will Los Angeles FC vs. San Diego FC end in a draw?",
      "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
     }
    ],
@@ -98,7 +98,7 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 43.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 43.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 8.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
@@ -206,8 +206,8 @@
   {
    "question": "Will the price of Ethereum be above $2,000 on August 14?",
    "slug": "ethereum-above-2000-on-august-14-2026",
-   "yes": 0.0025,
-   "no": 0.9975,
+   "yes": 0.0015,
+   "no": 0.9985,
    "volumen": 98936.65803399998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -266,8 +266,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.121,
-   "no": 0.879,
+   "yes": 0.1205,
+   "no": 0.8795,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -276,8 +276,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0335,
-   "no": 0.9665,
+   "yes": 0.0305,
+   "no": 0.9695,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -296,8 +296,8 @@
   {
    "question": "Will Sol1xd Win the 2026 Soloq Challenge (High Elo)",
    "slug": "will-sol1xd-win-the-2026-soloq-challenge-high-elo-20260727164936180",
-   "yes": 0.345,
-   "no": 0.655,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 9953.25494,
    "spread": 0.0,
    "categoria": "Otros",
@@ -306,8 +306,8 @@
   {
    "question": "Will the highest temperature in Paris be 39°C on August 14?",
    "slug": "highest-temperature-in-paris-on-august-14-2026-39c",
-   "yes": 0.5,
-   "no": 0.5,
+   "yes": 0.445,
+   "no": 0.555,
    "volumen": 9951.068034000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -354,5 +354,5 @@
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
   }
  ],
- "db_size_mb": 8.7
+ "db_size_mb": 8.81
 }
