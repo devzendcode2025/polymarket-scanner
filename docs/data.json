@@ -1,10 +1,106 @@
 {
- "ts": 1786670060,
- "stamp": "20260814_011420",
+ "ts": 1786670360,
+ "stamp": "20260814_011920",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c",
+   "titulo": "Will Count Binface get second place in the Clacton by-election?",
+   "slug": "will-count-binface-get-second-place-in-the-clacton-by-election-copy-20260707214646969",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 8954.47,
+   "price": 0.9826227996,
+   "usd": 8798.87,
+   "ts": 1786670329,
+   "categoria": "Política",
+   "prob": 65,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $8,799 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-count-binface-get-second-place-in-the-clacton-by-election-copy-20260707214646969",
+   "titulo_es": "¿Quedará Count Binface en segundo lugar en la elección parcial de Clacton?"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x6001eea8fd2aad68d5ec8f01f517d832ce3a3ed1714b825ef293b8c9370708ca",
+   "titulo": "Will Portland Timbers win on 2026-08-13?",
+   "slug": "lec-por-tij-2026-08-13-por",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 7846.54857,
+   "price": 0.5557972349,
+   "usd": 4361.09,
+   "ts": 1786670334,
+   "categoria": "Otros",
+   "prob": 58,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $4,361 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lec-por-tij-2026-08-13-por",
+   "titulo_es": "¿Ganará Portland Timbers el 13 de agosto de 2026?"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 4460.774644,
+   "price": 0.7099999999,
+   "usd": 3167.15,
+   "ts": 1786670329,
+   "categoria": "Economía",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,167 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x6d8e2b39cd84863ba99650ab5f459bf9c52b3e16e6f7e8c7748745b6713545b7",
+   "titulo": "Bitcoin Up or Down - August 13, 9:15PM-9:20PM ET",
+   "slug": "btc-updown-5m-1786670100",
+   "outcome": "Down",
+   "side": "BUY",
+   "size": 2500.01,
+   "price": 0.9874699701,
+   "usd": 2468.68,
+   "ts": 1786670331,
+   "categoria": "Cripto",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,469 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786670100",
+   "titulo_es": "Bitcoin al alza o a la baja - 13 de agosto, 9:15PM-9:20PM ET"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xa5ce4e0cf17801d89f245025eeb2e4dda5f39a94bca8d5a4c36436f779a0ea16",
+   "titulo": "Will Nigel Farage win 60–70% of votes in the Clacton parliamentary by-election?",
+   "slug": "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 5691.02,
+   "price": 0.399,
+   "usd": 2270.72,
+   "ts": 1786670326,
+   "categoria": "Política",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,271 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124",
+   "titulo_es": "¿Ganará Nigel Farage el 60–70% de los votos en la elección parcial parlamentaria de Clacton?"
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +137,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996434.2322910014,
+   "volumen": 996534.2322910011,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -67,16 +163,6 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "Los Angeles Sparks vs. New York Liberty",
-   "slug": "wnba-la-nyl-2026-08-13",
-   "yes": 0.045,
-   "no": 0.955,
-   "volumen": 99788.33347900004,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Los Angeles Sparks vs. New York Liberty"
-  },
-  {
    "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.024,
@@ -91,7 +177,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042,
+   "volumen": 99532.33042000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -99,8 +185,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -111,7 +197,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 99159.48181800001,
+   "volumen": 99159.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -161,7 +247,7 @@
    "slug": "sud-san-mac-2026-08-13-mac",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98775.79297099997,
+   "volumen": 98802.04297100006,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará CSyD Macará el 13 de agosto de 2026?"
@@ -171,7 +257,7 @@
    "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
    "yes": 0.0145,
    "no": 0.9855,
-   "volumen": 98586.75946,
+   "volumen": 98586.75946000002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
@@ -197,6 +283,16 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?",
+   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 98126.61452600002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
+  },
+  {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
    "yes": 0.0095,
@@ -209,9 +305,9 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1215,
-   "no": 0.8785,
-   "volumen": 9974.940754,
+   "yes": 0.1235,
+   "no": 0.8765,
+   "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -229,8 +325,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.036,
-   "no": 0.964,
+   "yes": 0.0355,
+   "no": 0.9645,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -241,7 +337,7 @@
    "slug": "will-alibaba-be-the-third-best-math-ai-lab-at-the-end-of-august-2026-20260720230105166",
    "yes": 0.725,
    "no": 0.275,
-   "volumen": 9968.575645000003,
+   "volumen": 9968.575645,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el tercer mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -261,20 +357,10 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137666999999,
+   "volumen": 9966.137667,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will the highest temperature in Toronto be 28°C on August 13?",
-   "slug": "highest-temperature-in-toronto-on-august-13-2026-28c",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9955.825251000004,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Toronto de 28°C el 13 de agosto?"
   },
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
@@ -285,7 +371,17 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
+  },
+  {
+   "question": "Will Typhoon Dolphin be a \"Very Strong Typhoon\" at Japan landfall?",
+   "slug": "will-typhoon-dolphin-be-a-very-strong-typhoon-at-japan-landfall-20260804170510870",
+   "yes": 0.9945,
+   "no": 0.0055,
+   "volumen": 9942.525255,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
   }
  ],
- "db_size_mb": 3.21
+ "db_size_mb": 3.29
 }
