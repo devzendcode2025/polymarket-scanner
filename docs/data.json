@@ -1,6 +1,6 @@
 {
- "ts": 1786703429,
- "stamp": "20260814_103029",
+ "ts": 1786703489,
+ "stamp": "20260814_103129",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -326,5 +326,5 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 10.66
+ "db_size_mb": 10.67
 }
