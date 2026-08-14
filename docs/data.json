@@ -1,7 +1,7 @@
 {
- "ts": 1786667060,
- "stamp": "20260814_002420",
- "mercados": 100,
+ "ts": 1786667119,
+ "stamp": "20260814_002519",
+ "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
@@ -87,6 +87,26 @@
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
   },
   {
+   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
+   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
+   "yes": 0.023,
+   "no": 0.977,
+   "volumen": 985888.500828,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
+  },
+  {
+   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
+   "yes": 0.0065,
+   "no": 0.9935,
+   "volumen": 983741.491909,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
+  },
+  {
    "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.024,
@@ -125,6 +145,76 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
+  },
+  {
+   "question": "NATO x Russia military clash by October 31, 2026?",
+   "slug": "nato-x-russia-military-clash-by-october-31-2026",
+   "yes": 0.075,
+   "no": 0.925,
+   "volumen": 99035.45360200004,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
+  },
+  {
+   "question": "Will Loopscale launch a token by December 31, 2026?",
+   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
+   "yes": 0.135,
+   "no": 0.865,
+   "volumen": 98982.04341899998,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Will Radu Burnete be the next Prime Minister of Romania?",
+   "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
+   "yes": 0.063,
+   "no": 0.937,
+   "volumen": 98922.89304,
+   "spread": 0.0,
+   "categoria": "Politica",
+   "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
+  },
+  {
+   "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
+   "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
+   "yes": 0.32,
+   "no": 0.68,
+   "volumen": 98896.737572,
+   "spread": 0.0,
+   "categoria": "Tecnologia",
+   "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
+  },
+  {
+   "question": "Will CSyD Macará win on 2026-08-13?",
+   "slug": "sud-san-mac-2026-08-13-mac",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 98729.22297100005,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará CSyD Macará el 13 de agosto de 2026?"
+  },
+  {
+   "question": "Will Bitcoin reach $70,000 August 10-16?",
+   "slug": "will-bitcoin-reach-70k-august-10-16-2026",
+   "yes": 0.011,
+   "no": 0.989,
+   "volumen": 98466.83850099996,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Bitcoin los $70,000 del 10 al 16 de agosto?"
+  },
+  {
+   "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
+   "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
+   "yes": 0.0085,
+   "no": 0.9915,
+   "volumen": 98443.77697800001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
    "question": "Will Dogecoin reach $0.15 in August?",
@@ -215,97 +305,7 @@
    "spread": 0.0,
    "categoria": "Politica",
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
-  },
-  {
-   "question": "Will Thinky have the best AI model at the end of September 2026?",
-   "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9918.892000000002,
-   "spread": 0.0,
-   "categoria": "Tecnologia",
-   "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Will the Democratic Party win the AR-01 House seat?",
-   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.0155,
-   "no": 0.9845,
-   "volumen": 9914.337593,
-   "spread": 0.0,
-   "categoria": "Politica",
-   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
-  },
-  {
-   "question": "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?",
-   "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
-   "yes": 0.59,
-   "no": 0.41,
-   "volumen": 9913.389996999998,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
-  },
-  {
-   "question": "Will 1. FC Kaiserslautern win on 2026-08-21?",
-   "slug": "dfb-wal-fck-2026-08-21-fck",
-   "yes": 0.645,
-   "no": 0.355,
-   "volumen": 999.457138,
-   "spread": 0.0,
-   "categoria": "Tecnologia",
-   "question_es": "¿Ganará el 1. FC Kaiserslautern el 21-08-2026?"
-  },
-  {
-   "question": "Spread: Philadelphia Phillies (-2.5)",
-   "slug": "mlb-phi-min-2026-08-13-spread-away-2pt5",
-   "yes": 0.295,
-   "no": 0.705,
-   "volumen": 999.224812,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Diferencial: Philadelphia Phillies (-2.5)"
-  },
-  {
-   "question": "Will global temperature increase by between 1.10ºC and 1.14ºC in August 2026?",
-   "slug": "will-global-temperature-increase-by-between-1pt10c-and-1pt14c-in-july-2026-20260728153116736",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 998.5925900000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Aumentará la temperatura global entre 1.10ºC y 1.14ºC en agosto de 2026?"
-  },
-  {
-   "question": "Will Lewis Hamilton win the 2026 Action of the Year?",
-   "slug": "will-lewis-hamilton-win-the-2026-action-of-the-year",
-   "yes": 0.097,
-   "no": 0.903,
-   "volumen": 998.4776909999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará Lewis Hamilton la Acción del Año 2026?"
-  },
-  {
-   "question": "Will the highest temperature in Panama City be 31°C on August 13?",
-   "slug": "highest-temperature-in-panama-city-on-august-13-2026-31c",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 998.082881,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Ciudad de Panamá de 31°C el 13 de agosto?"
-  },
-  {
-   "question": "Will FURIA Win the BLAST Open Porto 2026?",
-   "slug": "will-furia-win-the-blast-open-porto-2026-20260806201117425",
-   "yes": 0.07,
-   "no": 0.93,
-   "volumen": 998.061123,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará FURIA el BLAST Open Porto 2026?"
   }
  ],
- "db_size_mb": 2.53
+ "db_size_mb": 2.55
 }
