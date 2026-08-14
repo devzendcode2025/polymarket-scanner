@@ -20,6 +20,8 @@
 - [x] LINKS DIRECTOS a Polymarket en cada señal/mercado del dashboard (F1, v0.5.0)
 - [x] FILTRO POR PAÍS LatAm en el dashboard: 23 ✅ ejecutables / 4 🔒 solo datos (F1, v0.5.0)
 - [x] ANALISTA HEURÍSTICO: prob 0-100 + confianza + horizonte + justificación por señal, sin LLM (F2, v0.5.0)
+- [x] VERSIÓN MOBILE del dashboard: tablas→tarjetas apiladas, stats 2 col, selector full-width (v0.6.0)
+- [x] TODO EN ESPAÑOL: traducción automática de títulos con DeepSeek (translate.py + caché SQLite, máx 30 nuevos/corrida; fallback silencioso) (v0.6.0)
 - [ ] Afinar mispricings: barrer mercados de menor volumen / bajar umbral (los top-200 líquidos son eficientes)
 
 ## Fase 2 — Backtest de estrategias
