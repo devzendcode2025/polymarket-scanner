@@ -1,28 +1,85 @@
 {
- "ts": 1786682003,
- "stamp": "20260814_043323",
+ "ts": 1786682063,
+ "stamp": "20260814_043423",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x479c7153b44d8c10c1bea53b05cdcce8b8d69682c9892fc3f8d64edc73d0ee40",
-   "titulo": "Dota 2: HULIGANI vs Vici Gaming (BO3) - The International Group Stage",
-   "slug": "dota2-huliga-vg-2026-08-13",
-   "outcome": "Vici Gaming",
+   "market_id": "0x5d0791acd1d1c0289dc7256f065e81f9c2bb264793290d0b1453b2e5f5d5add5",
+   "titulo": "Cincinnati Open: Caty McNally vs McCartney Kessler",
+   "slug": "wta-mcnally-kessler-2026-08-13",
+   "outcome": "Caty McNally",
    "side": "BUY",
-   "size": 5633.802813,
-   "price": 0.71,
-   "usd": 4000.0,
-   "ts": 1786681740,
-   "categoria": "Otros",
-   "prob": 58,
+   "size": 14529.384576,
+   "price": 0.8226570049,
+   "usd": 11952.7,
+   "ts": 1786682043,
+   "categoria": "Deportes",
+   "prob": 69,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $11,953 en 'Caty McNally'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-mcnally-kessler-2026-08-13",
+   "titulo_es": "Abierto de Cincinnati: Caty McNally vs McCartney Kessler"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x5d0791acd1d1c0289dc7256f065e81f9c2bb264793290d0b1453b2e5f5d5add5",
+   "titulo": "Cincinnati Open: Caty McNally vs McCartney Kessler",
+   "slug": "wta-mcnally-kessler-2026-08-13",
+   "outcome": "Caty McNally",
+   "side": "BUY",
+   "size": 14163.040237,
+   "price": 0.8328932067,
+   "usd": 11796.3,
+   "ts": 1786682043,
+   "categoria": "Deportes",
+   "prob": 69,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $11,796 en 'Caty McNally'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-mcnally-kessler-2026-08-13",
+   "titulo_es": "Abierto de Cincinnati: Caty McNally vs McCartney Kessler"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x388cf03c431c3bc7c80b75579c616a51c8b0993ed60bb1155892373e48023c6b",
+   "titulo": "Bitcoin Up or Down - August 14, 12:30AM-12:35AM ET",
+   "slug": "btc-updown-5m-1786681800",
+   "outcome": "Down",
+   "side": "BUY",
+   "size": 2250.82,
+   "price": 0.9607408411,
+   "usd": 2162.45,
+   "ts": 1786682038,
+   "categoria": "Cripto",
+   "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $4,000 en 'Vici Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-huliga-vg-2026-08-13",
-   "titulo_es": "Dota 2: HULIGANI vs Vici Gaming (BO3) - Fase de Grupos de The International"
+   "razon": "Trade de compra por $2,162 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786681800",
+   "titulo_es": "Bitcoin sube o baja - 14 de agosto, 12:30AM-12:35AM ET"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x5d0791acd1d1c0289dc7256f065e81f9c2bb264793290d0b1453b2e5f5d5add5",
+   "titulo": "Cincinnati Open: Caty McNally vs McCartney Kessler",
+   "slug": "wta-mcnally-kessler-2026-08-13",
+   "outcome": "Caty McNally",
+   "side": "BUY",
+   "size": 2400.0,
+   "price": 0.82,
+   "usd": 1968.0,
+   "ts": 1786682041,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,968 en 'Caty McNally'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-mcnally-kessler-2026-08-13",
+   "titulo_es": "Abierto de Cincinnati: Caty McNally vs McCartney Kessler"
   }
  ],
  "edges": [
@@ -89,7 +146,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996562.4656910014,
+   "volumen": 996567.7848240011,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -117,9 +174,9 @@
   {
    "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
-   "yes": 0.0275,
-   "no": 0.9725,
-   "volumen": 99681.46954699996,
+   "yes": 0.028,
+   "no": 0.972,
+   "volumen": 99746.40804699996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
@@ -129,7 +186,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33041999995,
+   "volumen": 99532.33042000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -137,8 +194,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -147,8 +204,8 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.036,
-   "no": 0.964,
+   "yes": 0.037,
+   "no": 0.963,
    "volumen": 99159.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -159,7 +216,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99069.693602,
+   "volumen": 99069.69360200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -217,8 +274,8 @@
   {
    "question": "Bitcoin Up or Down on August 14?",
    "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.49,
-   "no": 0.51,
+   "yes": 0.51,
+   "no": 0.49,
    "volumen": 98368.11757799999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -249,7 +306,7 @@
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1245,
    "no": 0.8755,
-   "volumen": 9974.940754000001,
+   "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -269,7 +326,7 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137667,
+   "volumen": 9966.137666999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
@@ -293,6 +350,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
+  },
+  {
+   "question": "Will the highest temperature in Seoul (Incheon) be 31°C on August 14?",
+   "slug": "highest-temperature-in-seoul-on-august-14-2026-31c",
+   "yes": 0.22,
+   "no": 0.78,
+   "volumen": 9933.164917,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 31°C el 14 de agosto?"
   },
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
@@ -323,17 +390,7 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
-  },
-  {
-   "question": "Will the Democratic Party win the AR-01 House seat?",
-   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.0155,
-   "no": 0.9845,
-   "volumen": 9914.337593,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 5.79
+ "db_size_mb": 5.86
 }
