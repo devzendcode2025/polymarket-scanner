@@ -1,28 +1,47 @@
 {
- "ts": 1786694007,
- "stamp": "20260814_075327",
+ "ts": 1786694367,
+ "stamp": "20260814_075927",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x575102acefddddd492ddc96a88444859f0b98ad3c44bf8d831879dcdb0e14c19",
-   "titulo": "Bitcoin Up or Down - August 14, 3:45AM-3:50AM ET",
-   "slug": "btc-updown-5m-1786693500",
-   "outcome": "Down",
-   "side": "SELL",
-   "size": 1510.19,
-   "price": 0.9902978036,
-   "usd": 1495.54,
-   "ts": 1786693740,
-   "categoria": "Cripto",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,496 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1786693500",
-   "titulo_es": "Bitcoin sube o baja - 14 de agosto, 3:45AM-3:50AM ET"
+   "market_id": "0x5aedcb6693a08cf4d9642dec05c97c31afd57f30cf4350628925b7ff36535e85",
+   "titulo": "Dota 2: Team Liquid vs Team Spirit - Game 1 Winner",
+   "slug": "dota2-liquid-ts8-2026-08-14-game1",
+   "outcome": "Team Spirit",
+   "side": "BUY",
+   "size": 4000.0,
+   "price": 0.75,
+   "usd": 3000.0,
+   "ts": 1786694340,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,000 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-liquid-ts8-2026-08-14-game1",
+   "titulo_es": "Dota 2: Team Liquid vs Team Spirit - Ganador del Juego 1"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xa8f56c904770654835da63bdfad05074913f71173b39185527f3b04be4e504b0",
+   "titulo": "Dota 2: Iron Wing vs Team Falcons - Game 2 Winner",
+   "slug": "dota2-ironwi-flc-2026-08-14-game2",
+   "outcome": "Team Falcons",
+   "side": "BUY",
+   "size": 3951.96,
+   "price": 0.56,
+   "usd": 2213.1,
+   "ts": 1786694343,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,213 en 'Team Falcons'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ironwi-flc-2026-08-14-game2",
+   "titulo_es": "Dota 2: Iron Wing vs Team Falcons - Ganador del Juego 2"
   }
  ],
  "edges": [
@@ -157,8 +176,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -217,8 +236,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.295,
-   "no": 0.705,
+   "yes": 0.29,
+   "no": 0.71,
    "volumen": 98896.73757200001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -267,8 +286,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.0355,
+   "no": 0.9645,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -297,8 +316,8 @@
   {
    "question": "Will the highest temperature in Paris be 39°C on August 14?",
    "slug": "highest-temperature-in-paris-on-august-14-2026-39c",
-   "yes": 0.555,
-   "no": 0.445,
+   "yes": 0.505,
+   "no": 0.495,
    "volumen": 9947.998034,
    "spread": 0.0,
    "categoria": "Otros",
@@ -317,8 +336,8 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.22,
-   "no": 0.78,
+   "yes": 0.215,
+   "no": 0.785,
    "volumen": 9920.824999,
    "spread": 0.0,
    "categoria": "Política",
@@ -335,5 +354,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 8.49
+ "db_size_mb": 8.62
 }
