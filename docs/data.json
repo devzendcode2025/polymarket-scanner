@@ -1,77 +1,19 @@
 {
- "ts": 1786674201,
- "stamp": "20260814_022321",
+ "ts": 1786674561,
+ "stamp": "20260814_022921",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x06a4bb04ff6f388b43519166794aa013f8c69ca99aeb5ba288a58fe3d07cd813",
-   "titulo": "Philadelphia Phillies vs. Minnesota Twins: O/U 8.5",
-   "slug": "mlb-phi-min-2026-08-13-total-8pt5",
-   "outcome": "Under",
-   "side": "BUY",
-   "size": 3017.0,
-   "price": 0.7,
-   "usd": 2111.9,
-   "ts": 1786673932,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,112 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-phi-min-2026-08-13-total-8pt5",
-   "titulo_es": "Philadelphia Phillies vs. Minnesota Twins: Más/Menos 8.5"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x33858b90c1b0f2711269e315f5e480ad8d088443ea081dcaf9157692a04aba9f",
-   "titulo": "Bitcoin Up or Down - August 13, 10:15PM-10:20PM ET",
-   "slug": "btc-updown-5m-1786673700",
-   "outcome": "Down",
-   "side": "BUY",
-   "size": 1266.8,
-   "price": 0.9508879855,
-   "usd": 1204.58,
-   "ts": 1786673932,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,205 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1786673700",
-   "titulo_es": "Bitcoin al alza o a la baja - 13 de agosto, 10:15PM-10:20PM ET"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-   "titulo": "Strait of Hormuz traffic returns to normal by August 31?",
-   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1171.15,
-   "price": 0.976,
-   "usd": 1143.04,
-   "ts": 1786673932,
-   "categoria": "Tecnología",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,143 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
-   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad para el 31 de agosto?"
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
    "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
-   "prob_poly": 29.0,
+   "prob_poly": 28.0,
    "consenso": 1.0,
-   "edge": -28.0,
+   "edge": -27.0,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -79,7 +21,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "NYSE marketwide circuit breaker before 2027?",
+     "_poly_question": "Will Yandy Diaz win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -89,7 +31,7 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 29.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 28.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 28.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 27.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
   }
  ],
@@ -127,8 +69,8 @@
   {
    "question": "Texas Rangers vs. Los Angeles Angels",
    "slug": "mlb-tex-laa-2026-08-13",
-   "yes": 0.565,
-   "no": 0.435,
+   "yes": 0.545,
+   "no": 0.455,
    "volumen": 99928.99277800007,
    "spread": 0.0,
    "categoria": "Otros",
@@ -137,8 +79,8 @@
   {
    "question": "Will Bitcoin reach $66,000 August 10-16?",
    "slug": "will-bitcoin-reach-66k-august-10-16-2026",
-   "yes": 0.039,
-   "no": 0.961,
+   "yes": 0.032,
+   "no": 0.968,
    "volumen": 99701.09013099999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -167,8 +109,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -257,8 +199,8 @@
   {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.0105,
-   "no": 0.9895,
+   "yes": 0.0085,
+   "no": 0.9915,
    "volumen": 9996.76192,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -267,8 +209,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1215,
-   "no": 0.8785,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -327,8 +269,8 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.25,
-   "no": 0.75,
+   "yes": 0.2,
+   "no": 0.8,
    "volumen": 9920.824998999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -345,5 +287,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 4.09
+ "db_size_mb": 4.22
 }
