@@ -1,28 +1,28 @@
 {
- "ts": 1786710811,
- "stamp": "20260814_123331",
+ "ts": 1786710871,
+ "stamp": "20260814_123431",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x77beece38bec7557e3c6228450335c685822d579579948278c0105b8aaa804e5",
-   "titulo": "LoL: MVK Esports vs CTBC Flying Oyster - Game 4 Winner",
-   "slug": "lol-mvk-cfo-2026-08-14-game4",
-   "outcome": "CTBC Flying Oyster",
+   "market_id": "0x9fe097335e2240bf278208d1515bd589d0b9013bd35209c4eb575eae66acdb24",
+   "titulo": "Counter-Strike: NIP vs BetBoom Team - Map 2 Winner",
+   "slug": "cs2-nip-bb3-2026-08-14-game2",
+   "outcome": "BetBoom Team",
    "side": "BUY",
-   "size": 6069.47,
-   "price": 0.9875903744,
-   "usd": 5994.15,
-   "ts": 1786710555,
-   "categoria": "Deportes",
-   "prob": 60,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,994 en 'CTBC Flying Oyster'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-mvk-cfo-2026-08-14-game4",
-   "titulo_es": "LoL: MVK Esports vs CTBC Flying Oyster - Ganador del Juego 4"
+   "size": 2000.0,
+   "price": 0.5,
+   "usd": 1000.0,
+   "ts": 1786710855,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,000 en 'BetBoom Team'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-nip-bb3-2026-08-14-game2",
+   "titulo_es": "Counter-Strike: NIP vs BetBoom Team - Ganador del Mapa 2"
   }
  ],
  "edges": [
@@ -89,7 +89,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0205,
    "no": 0.9795,
-   "volumen": 985893.592663,
+   "volumen": 985893.5926630002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -119,7 +119,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000003,
+   "volumen": 99532.33041999997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -179,7 +179,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.295,
    "no": 0.705,
-   "volumen": 98896.73757199998,
+   "volumen": 98896.737572,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -209,7 +209,7 @@
    "slug": "lol-t1-dk-2026-08-14-total-games-2pt5",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9999.210369,
+   "volumen": 9999.210368999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Total de Juegos: O/U 2.5"
@@ -229,7 +229,7 @@
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1205,
    "no": 0.8795,
-   "volumen": 9974.940754000001,
+   "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -249,7 +249,7 @@
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
    "yes": 0.24,
    "no": 0.76,
-   "volumen": 9969.309623000001,
+   "volumen": 9969.309623000005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -265,10 +265,20 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "S&P 500 (SPX) Up or Down on August 14?",
+   "slug": "spx-up-or-down-on-august-14-2026",
+   "yes": 0.67,
+   "no": 0.33,
+   "volumen": 9957.133861,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿S&P 500 (SPX) Sube o Baja el 14 de agosto?"
+  },
+  {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.23,
-   "no": 0.77,
+   "yes": 0.225,
+   "no": 0.775,
    "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
@@ -295,16 +305,6 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   },
   {
-   "question": "Will the price of Bitcoin be between $64,000 and $66,000 on August 14?",
-   "slug": "will-the-price-of-bitcoin-be-between-64000-66000-on-august-14-2026",
-   "yes": 0.015,
-   "no": 0.985,
-   "volumen": 9937.318634000001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Bitcoin entre $64,000 y $66,000 el 14 de agosto?"
-  },
-  {
    "question": "Will Thinky have the best AI model at the end of September 2026?",
    "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
    "yes": 0.0015,
@@ -327,13 +327,13 @@
   {
    "question": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A",
    "slug": "cs2-jjh-aur1-2026-08-15",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 9908.848541000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Copa Mundial de Esports Grupo A"
   }
  ],
- "db_size_mb": 12.25
+ "db_size_mb": 12.32
 }
