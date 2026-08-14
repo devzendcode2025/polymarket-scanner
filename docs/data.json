@@ -1,28 +1,47 @@
 {
- "ts": 1786703609,
- "stamp": "20260814_103329",
+ "ts": 1786703670,
+ "stamp": "20260814_103429",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf8bc89538e26048a5377d758cdfe4f3be32f9f37d33b512be899868be79f2446",
-   "titulo": "Dota 2: Vici Gaming vs GamerLegion (BO3) - The International Group Stage",
-   "slug": "dota2-vg-gl-2026-08-14",
-   "outcome": "GamerLegion",
+   "market_id": "0x8b65d3bf652ab25430a076d9fe686d4f92afe536b8a5336f576f6424d9797563",
+   "titulo": "Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage",
+   "slug": "dota2-aur1-ty-2026-08-14",
+   "outcome": "Aurora",
    "side": "BUY",
-   "size": 10000.0,
-   "price": 0.52857979,
-   "usd": 5285.8,
-   "ts": 1786703352,
-   "categoria": "Deportes",
-   "prob": 59,
-   "confianza": "alta",
+   "size": 7500.0,
+   "price": 0.4,
+   "usd": 3000.0,
+   "ts": 1786703653,
+   "categoria": "Otros",
+   "prob": 56,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $5,286 en 'GamerLegion'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-vg-gl-2026-08-14",
-   "titulo_es": "Dota 2: Vici Gaming vs GamerLegion (BO3) - Fase de Grupos de The International"
+   "razon": "Trade de compra por $3,000 en 'Aurora'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-aur1-ty-2026-08-14",
+   "titulo_es": "Dota 2: Aurora vs Team Yandex (BO3) - Fase de Grupos de The International"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x83c71e47035e6c6ca622cb40a83bcf92e9e2321de43d39a6f8a20f33fb538509",
+   "titulo": "LoL: Team WE vs Top Esports (BO3) - LPL Group Ascend",
+   "slug": "lol-we-tes-2026-08-14",
+   "outcome": "Team WE",
+   "side": "BUY",
+   "size": 2105.26314,
+   "price": 0.95,
+   "usd": 2000.0,
+   "ts": 1786703655,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Team WE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-we-tes-2026-08-14",
+   "titulo_es": "LoL: Team WE vs Top Esports (BO3) - LPL Grupo Ascend"
   },
   {
    "tipo": "ballena",
@@ -31,15 +50,15 @@
    "slug": "lol-we-tes-2026-08-14-game2",
    "outcome": "Team WE",
    "side": "BUY",
-   "size": 3401.39,
-   "price": 0.69,
-   "usd": 2346.96,
-   "ts": 1786703355,
+   "size": 2104.844575,
+   "price": 0.9501889193,
+   "usd": 2000.0,
+   "ts": 1786703649,
    "categoria": "Deportes",
    "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,347 en 'Team WE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $2,000 en 'Team WE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-we-tes-2026-08-14-game2",
    "titulo_es": "LoL: Team WE vs Top Esports - Ganador del Juego 2"
   }
@@ -76,21 +95,11 @@
  ],
  "top_volumen": [
   {
-   "question": "Dota 2: Iron Wing vs Team Falcons (BO3) - The International Group Stage",
-   "slug": "dota2-ironwi-flc-2026-08-14",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 993817.8744629995,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Dota 2: Iron Wing vs Team Falcons (BO3) - Fase de grupos de The International"
-  },
-  {
    "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0215,
    "no": 0.9785,
-   "volumen": 985888.500828,
+   "volumen": 985888.5008280001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -110,7 +119,7 @@
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
    "yes": 0.135,
    "no": 0.865,
-   "volumen": 99705.23998799997,
+   "volumen": 99785.24906399997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la segunda empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -120,20 +129,10 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042,
+   "volumen": 99532.33041999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
-  },
-  {
-   "question": "Will the price of Ethereum be above $2,000 on August 14?",
-   "slug": "ethereum-above-2000-on-august-14-2026",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 99276.23953400001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Ethereum por encima de $2,000 el 14 de agosto?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -150,7 +149,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.48181800003,
+   "volumen": 99159.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -190,7 +189,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.29,
    "no": 0.71,
-   "volumen": 98896.73757199995,
+   "volumen": 98896.73757200001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -210,7 +209,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98404.80752600002,
+   "volumen": 98404.80752599999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -230,7 +229,7 @@
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1205,
    "no": 0.8795,
-   "volumen": 9974.940754,
+   "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -238,8 +237,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.031,
+   "no": 0.969,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -248,29 +247,19 @@
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.26,
-   "no": 0.74,
+   "yes": 0.255,
+   "no": 0.745,
    "volumen": 9969.309623000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
   },
   {
-   "question": "Will Enzo Fernandez join Manchester City?",
-   "slug": "will-enzo-fernandez-join-manchester-city",
-   "yes": 0.525,
-   "no": 0.475,
-   "volumen": 9968.588160999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Se unirá Enzo Fernández al Manchester City?"
-  },
-  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137667,
+   "volumen": 9966.137666999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
@@ -288,8 +277,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.17,
-   "no": 0.83,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -324,7 +313,37 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
+  },
+  {
+   "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
+   "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
+   "yes": 0.365,
+   "no": 0.635,
+   "volumen": 9903.455292999997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
+  },
+  {
+   "question": "Will Geraldo Alckmin finish in third place in the first round of the 2026 Brazilian presidential election?",
+   "slug": "will-geraldo-alckmin-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9903.161646999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Terminará Geraldo Alckmin en tercer lugar en la primera vuelta de las elecciones presidenciales brasileñas de 2026?"
+  },
+  {
+   "question": "Will Beto O’Rourke announce a Presidential run before 2027?",
+   "slug": "will-beto-orourke-announce-a-presidential-run-before-2027",
+   "yes": 0.0195,
+   "no": 0.9805,
+   "volumen": 9894.255944000002,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Anunciará Beto O’Rourke una candidatura presidencial antes de 2027?"
   }
  ],
- "db_size_mb": 10.67
+ "db_size_mb": 10.73
 }
