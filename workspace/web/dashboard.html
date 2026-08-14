@@ -222,8 +222,9 @@ function linkBtn(url){ return url ? "<a class='pmlink' target='_blank' rel='noop
 function badgeConf(c){ return "<span class='badge conf-" + esc(c) + "'>Confianza " + esc(c) + "</span>"; }
 function probBar(prob){
   const p = Math.max(2, Math.min(100, Number(prob) || 0));
+  const pc = Math.round(p * 10) / 10;   // evita 2.0500000000000003
   const col = p >= 70 ? "var(--green)" : (p >= 55 ? "var(--accent)" : "var(--red)");
-  return "<div class='prob'><div class='bar'><span style='width:" + p + "%;background:" + col + "'></span></div><span class='pct' style='color:" + col + "'>" + p + "%</span></div>";
+  return "<div class='prob'><div class='bar'><span style='width:" + pc + "%;background:" + col + "'></span></div><span class='pct' style='color:" + col + "'>" + pc + "%</span></div>";
 }
 
 async function getJSON(url){

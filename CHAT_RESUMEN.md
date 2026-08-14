@@ -1,5 +1,11 @@
 # CHAT_RESUMEN — polymarket-scanner
 
+### 2026-08-14 [13:30] — v0.7.1: fix decimales largos en porcentajes
+- **Petición:** usuario reportó en las tarjetas "2.0500000000000003%" (mercado Alito) — error de punto flotante JS.
+- **Acciones:** localizado en probBar() (workspace/web/dashboard.html línea 223): normalizaba p pero lo imprimía crudo (el "No" usaba toFixed(1) por eso salía bien). Fix: `pc = Math.round(p*10)/10` usado en width y texto → afecta todas las vistas (tarjetas, top, señales).
+- **Resultado:** JS validado (node --check), prueba 2.0500000000000003→2.1%, commit v0.7.1 pusheado, sitio verificado con el fix (intento 4 rebuild). make test TODO OK.
+- **Pendientes:** sin cambios (depurar matching de edges; F4 narración; F5 Perú; afinar mispricings; revisar crecimiento BD 12.9MB — tablas traducciones/edges).
+
 ### 2026-08-14 [00:50] — v0.7.0: F3 EDGE "datos ganadores" + categorías + 25 ítems
 - **Petición:** "Sigue con eso" (F3 cross-check) + "solo miro 10 ítems... deberían tener categorías y más de 10 tarjetas".
 - **Acciones:** (a) CATEGORÍAS: nuevo categorias.py clasifica cada señal/mercado (Política, Deportes, Cripto, Economía, Tecnología, Ciencia y espacio, Entretenimiento, Otros) + segundo selector en el dashboard + badge en cada tarjeta; (b) MÁS ÍTEMS: ballenas 15→25, momentum 20→30, top_volumen 10→25, slices del dashboard 10→25; (c) F3 CROSS-CHECK: nuevo crosscheck.py — Kalshi + Manifold + PredictIt (Metaculus descartada: ahora exige cuenta), caché de 10 min en workspace/data/crosscheck_cache.json (ignorado), matching por tokens raros compartidos + misma categoría (depurado 3 veces: eliminados falsos positivos tipo "Chargers NFL"↔"MLB", "Ronald Acuña"↔"James Bond"); edges con prob/confianza/horizonte/razón + links a cada fuente + panel "💎 Datos ganadores" en el dashboard.
