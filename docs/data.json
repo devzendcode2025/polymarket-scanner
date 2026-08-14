@@ -1,47 +1,28 @@
 {
- "ts": 1786685004,
- "stamp": "20260814_052324",
+ "ts": 1786685064,
+ "stamp": "20260814_052424",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x37eb55675e56c5afeb79224da9972c67dc4597fd749bb93db6f4e9f167258d04",
-   "titulo": "Will Count Binface win 10–20% of votes in the Clacton parliamentary by-election?",
-   "slug": "will-count-binface-win-1020-of-votes-in-the-clacton-parliamentary-by-election-20260708142507720",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 4738.82,
+   "market_id": "0x3d11e53379fc2596bf7c68492c75d2b3ddb7971422782b15b7ec9c2652320418",
+   "titulo": "Dota 2: LGD Gaming vs Nigma Galaxy - Game 1 Winner",
+   "slug": "dota2-lgd-ngx-2026-08-14-game1",
+   "outcome": "Nigma Galaxy",
+   "side": "SELL",
+   "size": 1596.58,
    "price": 0.999,
-   "usd": 4734.08,
-   "ts": 1786684735,
-   "categoria": "Política",
-   "prob": 59,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,734 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-count-binface-win-1020-of-votes-in-the-clacton-parliamentary-by-election-20260708142507720",
-   "titulo_es": "¿Ganará Count Binface entre el 10 y el 20% de los votos en la elección parcial parlamentaria de Clacton?"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3b7971cd72e15ff80e623a7521fa3e0545b296545792e77dc9addd4cb7e390a4",
-   "titulo": "Dota 2: Team Yandex vs Team Liquid (BO3) - The International Group Stage",
-   "slug": "dota2-ty-liquid-2026-08-13",
-   "outcome": "Team Yandex",
-   "side": "BUY",
-   "size": 8859.99,
-   "price": 0.19,
-   "usd": 1683.4,
-   "ts": 1786684737,
-   "categoria": "Otros",
+   "usd": 1594.98,
+   "ts": 1786685038,
+   "categoria": "Deportes",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,683 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ty-liquid-2026-08-13",
-   "titulo_es": "Dota 2: Team Yandex vs Team Liquid (BO3) - Fase de Grupos de The International"
+   "razon": "Trade de venta por $1,595 en 'Nigma Galaxy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-lgd-ngx-2026-08-14-game1",
+   "titulo_es": "Dota 2: LGD Gaming vs Nigma Galaxy - Ganador del Juego 1"
   }
  ],
  "edges": [
@@ -128,8 +109,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -188,8 +169,8 @@
   {
    "question": "Bitcoin Up or Down on August 14?",
    "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.45,
-   "no": 0.55,
+   "yes": 0.455,
+   "no": 0.545,
    "volumen": 98610.13956999996,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -228,8 +209,8 @@
   {
    "question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
-   "yes": 0.085,
-   "no": 0.915,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 98342.28758899999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -326,5 +307,5 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
- "db_size_mb": 6.49
+ "db_size_mb": 6.55
 }
