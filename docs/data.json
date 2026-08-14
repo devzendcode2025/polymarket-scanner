@@ -1,47 +1,47 @@
 {
- "ts": 1786679603,
- "stamp": "20260814_035323",
+ "ts": 1786679663,
+ "stamp": "20260814_035423",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9b76994d7b4cfdf46f3dcc3ad08748089fce02a26d8a7f4f33d86583e857293f",
-   "titulo": "LoL: NRG Esports vs Contingent Esports - Game 2 Winner",
-   "slug": "lol-nrg-cont-2026-08-13-game2",
-   "outcome": "NRG Esports",
+   "market_id": "0x8076dd1a5dab6d4ada784256555fcd5d814646377f4df8161542af28bc58d03f",
+   "titulo": "Dota 2: HULIGANI vs Vici Gaming - Game 2 Winner",
+   "slug": "dota2-huliga-vg-2026-08-13-game2",
+   "outcome": "Vici Gaming",
    "side": "BUY",
-   "size": 2538.9006,
-   "price": 0.9846781375,
-   "usd": 2500.0,
-   "ts": 1786679326,
+   "size": 4072.38,
+   "price": 0.7499631665,
+   "usd": 3054.13,
+   "ts": 1786679631,
    "categoria": "Deportes",
-   "prob": 55,
+   "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,500 en 'NRG Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-nrg-cont-2026-08-13-game2",
-   "titulo_es": "LoL: NRG Esports vs Contingent Esports - Ganador del Juego 2"
+   "razon": "Trade de compra por $3,054 en 'Vici Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-huliga-vg-2026-08-13-game2",
+   "titulo_es": "Dota 2: HULIGANI vs Vici Gaming - Ganador del Juego 2"
   },
   {
    "tipo": "ballena",
-   "market_id": "0xb250f71e99c64d332937397d913f1bfe3ae7a7a8e60e8f1fde4a9a9bf9df4c32",
-   "titulo": "Dota 2: Team Spirit vs Aurora - Game 2 Winner",
-   "slug": "dota2-ts8-aur1-2026-08-13-game2",
-   "outcome": "Team Spirit",
+   "market_id": "0x8076dd1a5dab6d4ada784256555fcd5d814646377f4df8161542af28bc58d03f",
+   "titulo": "Dota 2: HULIGANI vs Vici Gaming - Game 2 Winner",
+   "slug": "dota2-huliga-vg-2026-08-13-game2",
+   "outcome": "Vici Gaming",
    "side": "BUY",
-   "size": 3459.92,
-   "price": 0.5779283336,
-   "usd": 1999.59,
-   "ts": 1786679334,
+   "size": 1286.596278,
+   "price": 0.8497537399,
+   "usd": 1093.29,
+   "ts": 1786679638,
    "categoria": "Deportes",
-   "prob": 54,
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $2,000 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ts8-aur1-2026-08-13-game2",
-   "titulo_es": "Dota 2: Team Spirit vs Aurora - Ganador del Juego 2"
+   "razon": "Trade de compra por $1,093 en 'Vici Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-huliga-vg-2026-08-13-game2",
+   "titulo_es": "Dota 2: HULIGANI vs Vici Gaming - Ganador del Juego 2"
   }
  ],
  "edges": [
@@ -136,8 +136,8 @@
   {
    "question": "Spread: Los Angeles Dodgers (-1.5)",
    "slug": "mlb-mil-lad-2026-08-13-spread-home-1pt5",
-   "yes": 0.255,
-   "no": 0.745,
+   "yes": 0.18,
+   "no": 0.82,
    "volumen": 99969.25951999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -156,8 +156,8 @@
   {
    "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
-   "yes": 0.024,
-   "no": 0.976,
+   "yes": 0.0275,
+   "no": 0.9725,
    "volumen": 99681.46954699996,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -196,8 +196,8 @@
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
-   "yes": 0.075,
-   "no": 0.925,
+   "yes": 0.08,
+   "no": 0.92,
    "volumen": 99035.453602,
    "spread": 0.0,
    "categoria": "Otros",
@@ -236,8 +236,8 @@
   {
    "question": "Dota 2: HULIGANI vs Vici Gaming (BO3) - The International Group Stage",
    "slug": "dota2-huliga-vg-2026-08-13",
-   "yes": 0.465,
-   "no": 0.535,
+   "yes": 0.475,
+   "no": 0.525,
    "volumen": 98623.18510399999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -286,8 +286,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1195,
-   "no": 0.8805,
+   "yes": 0.119,
+   "no": 0.881,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -296,8 +296,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.046,
-   "no": 0.954,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -316,8 +316,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -354,5 +354,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 5.28
+ "db_size_mb": 5.35
 }
