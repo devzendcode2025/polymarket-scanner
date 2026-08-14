@@ -1,28 +1,47 @@
 {
- "ts": 1786668800,
- "stamp": "20260814_005320",
+ "ts": 1786669160,
+ "stamp": "20260814_005920",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x49fdf9e22bc2820ff3ea265899a7717854a9318ff1f8b46aa1a6aae9ab29c51f",
-   "titulo": "Will Bitcoin dip to $62,000 on August 13?",
-   "slug": "will-bitcoin-dip-to-62k-on-august-13",
-   "outcome": "No",
+   "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+   "titulo": "Will Marco Rubio win the 2028 US Presidential Election?",
+   "slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 31750.85,
+   "price": 0.1253444815,
+   "usd": 3979.79,
+   "ts": 1786669134,
+   "categoria": "Política",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $3,980 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-marco-rubio-win-the-2028-us-presidential-election",
+   "titulo_es": "¿Ganará Marco Rubio las elecciones presidenciales de EE. UU. de 2028?"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xb724de975dde7bef80a867c2bcd44d789a139e5d1685a253f22f6306e6c6cac5",
+   "titulo": "CS Cienciano vs. Botafogo FR: O/U 3.5",
+   "slug": "sud-cie-bot-2026-08-13-total-3pt5",
+   "outcome": "Over",
    "side": "BUY",
-   "size": 1503.82,
-   "price": 0.998,
-   "usd": 1500.81,
-   "ts": 1786668520,
-   "categoria": "Cripto",
+   "size": 2433.58,
+   "price": 0.61,
+   "usd": 1484.48,
+   "ts": 1786669125,
+   "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,501 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-bitcoin-dip-to-62k-on-august-13",
-   "titulo_es": "¿Caerá Bitcoin a $62,000 el 13 de agosto?"
+   "razon": "Trade de compra por $1,484 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/sud-cie-bot-2026-08-13-total-3pt5",
+   "titulo_es": "CS Cienciano vs. Botafogo FR: Más/Menos 3.5"
   }
  ],
  "edges": [
@@ -41,7 +60,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Deportes Iquique vs. Deportes Copiapo: Deportes Iquique O/U 0.5",
+     "_poly_question": "Will Yandy Diaz win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -109,8 +128,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -219,8 +238,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.121,
-   "no": 0.879,
+   "yes": 0.124,
+   "no": 0.876,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -229,8 +248,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0325,
-   "no": 0.9675,
+   "yes": 0.048,
+   "no": 0.952,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -239,8 +258,8 @@
   {
    "question": "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?",
    "slug": "will-umich-consumer-sentiment-be-between-52pt0-and-54pt9-in-august-1785878499356",
-   "yes": 0.35,
-   "no": 0.65,
+   "yes": 0.37,
+   "no": 0.63,
    "volumen": 9970.821799,
    "spread": 0.0,
    "categoria": "Otros",
@@ -279,8 +298,8 @@
   {
    "question": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
    "slug": "ukraine-strikes-another-vessel-in-the-black-sea-by-august-15-2026-20260804183343485",
-   "yes": 0.885,
-   "no": 0.115,
+   "yes": 0.88,
+   "no": 0.12,
    "volumen": 9966.010564999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -299,13 +318,13 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
- "db_size_mb": 2.9
+ "db_size_mb": 3.01
 }
