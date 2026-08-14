@@ -1,6 +1,6 @@
 {
- "ts": 1786682844,
- "stamp": "20260814_044724",
+ "ts": 1786682904,
+ "stamp": "20260814_044824",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -31,9 +31,9 @@
    "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
-   "prob_poly": 37.5,
+   "prob_poly": 38.5,
    "consenso": 1.0,
-   "edge": -36.5,
+   "edge": -37.5,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -51,8 +51,36 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 37.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 36.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 38.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 37.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
+  },
+  {
+   "tipo": "edge",
+   "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
+   "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
+   "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
+   "prob_poly": 44.0,
+   "consenso": 34.5,
+   "edge": -9.5,
+   "direccion": "Polymarket CARO (comprar No)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
+     "prob": 34.53783434138884,
+     "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
+     "_poly_question": "Will the highest temperature in Hong Kong be 35°C on August 15?",
+     "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Entretenimiento",
+   "prob": 66,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "Manifold",
+   "razon": "Polymarket paga este mercado a 44.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 9.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
  "top_volumen": [
