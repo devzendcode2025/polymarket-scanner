@@ -1,104 +1,28 @@
 {
- "ts": 1786683804,
- "stamp": "20260814_050324",
+ "ts": 1786683864,
+ "stamp": "20260814_050424",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x2726b9a0b8e2abf71287c618c0f010586d5bb720a5c4f3c487d3e123aab89e39",
-   "titulo": "LoL: BNK FearX Youth vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
-   "slug": "lol-foxy-bro1-2026-08-14",
-   "outcome": "BNK FearX Youth",
-   "side": "BUY",
-   "size": 2055.0,
-   "price": 0.65,
-   "usd": 1335.75,
-   "ts": 1786683538,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,336 en 'BNK FearX Youth'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-foxy-bro1-2026-08-14",
-   "titulo_es": "LoL: BNK FearX Youth vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rondas 3-4 Grupo de Prueba"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x479c7153b44d8c10c1bea53b05cdcce8b8d69682c9892fc3f8d64edc73d0ee40",
-   "titulo": "Dota 2: HULIGANI vs Vici Gaming (BO3) - The International Group Stage",
-   "slug": "dota2-huliga-vg-2026-08-13",
-   "outcome": "Vici Gaming",
-   "side": "BUY",
-   "size": 1475.0,
-   "price": 0.82,
-   "usd": 1209.5,
-   "ts": 1786683535,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,210 en 'Vici Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-huliga-vg-2026-08-13",
-   "titulo_es": "Dota 2: HULIGANI vs Vici Gaming (BO3) - Fase de Grupos de The International"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x479c7153b44d8c10c1bea53b05cdcce8b8d69682c9892fc3f8d64edc73d0ee40",
-   "titulo": "Dota 2: HULIGANI vs Vici Gaming (BO3) - The International Group Stage",
-   "slug": "dota2-huliga-vg-2026-08-13",
-   "outcome": "Vici Gaming",
-   "side": "BUY",
-   "size": 1366.5,
-   "price": 0.82,
-   "usd": 1120.53,
-   "ts": 1786683537,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,121 en 'Vici Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-huliga-vg-2026-08-13",
-   "titulo_es": "Dota 2: HULIGANI vs Vici Gaming (BO3) - Fase de Grupos de The International"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xcfd447f2377329f74696ba99865d42913ca7dd4aa744f6c80e9b5e38a3f49bdf",
-   "titulo": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
-   "slug": "atp-svajda-bellucc-2026-08-13",
-   "outcome": "Mattia Bellucci",
+   "market_id": "0x5d4e2eb855988c92f4a7f8f8687c6a0ac37da2248e6535bab135f4e2f767f9c6",
+   "titulo": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+   "slug": "lol-t1a-dkc-2026-08-13",
+   "outcome": "Dplus KIA Challengers",
    "side": "SELL",
-   "size": 1022.2,
+   "size": 1019.54,
    "price": 0.999,
-   "usd": 1021.18,
-   "ts": 1786683543,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,021 en 'Mattia Bellucci'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-svajda-bellucc-2026-08-13",
-   "titulo_es": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd3f94536c5583b74bae4af863d0891289568be1ca51114bd3f515a8488e79e2e",
-   "titulo": "Milwaukee Brewers vs. Los Angeles Dodgers",
-   "slug": "mlb-mil-lad-2026-08-13",
-   "outcome": "Milwaukee Brewers",
-   "side": "BUY",
-   "size": 1137.1,
-   "price": 0.8905276581,
-   "usd": 1012.62,
-   "ts": 1786683541,
+   "usd": 1018.52,
+   "ts": 1786683841,
    "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,013 en 'Milwaukee Brewers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-mil-lad-2026-08-13",
-   "titulo_es": "Milwaukee Brewers vs. Los Angeles Dodgers"
+   "razon": "Trade de venta por $1,019 en 'Dplus KIA Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-t1a-dkc-2026-08-13",
+   "titulo_es": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío"
   }
  ],
  "edges": [
@@ -165,7 +89,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996567.7848240016,
+   "volumen": 996567.7848240002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -205,7 +129,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33041999998,
+   "volumen": 99532.33042000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -213,8 +137,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -225,7 +149,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.481818,
+   "volumen": 99159.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -235,7 +159,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99069.693602,
+   "volumen": 99069.69360200003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -273,9 +197,9 @@
   {
    "question": "Bitcoin Up or Down on August 14?",
    "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.465,
-   "no": 0.535,
-   "volumen": 98598.93502599999,
+   "yes": 0.49,
+   "no": 0.51,
+   "volumen": 98598.93502599998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Bitcoin sube o baja el 14 de agosto?"
@@ -305,7 +229,7 @@
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 98342.287589,
+   "volumen": 98342.28758899999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la segunda empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -323,19 +247,29 @@
   {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.01,
-   "no": 0.99,
-   "volumen": 9996.761919999999,
+   "yes": 0.009,
+   "no": 0.991,
+   "volumen": 9996.76192,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
+   "question": "Cincinnati Open: Taylor Townsend vs Elena Rybakina",
+   "slug": "wta-townsen-rybakin-2026-08-15",
+   "yes": 0.305,
+   "no": 0.695,
+   "volumen": 9982.50813,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Cincinnati Open: Taylor Townsend vs Elena Rybakina"
+  },
+  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1215,
-   "no": 0.8785,
-   "volumen": 9974.940753999997,
+   "yes": 0.1205,
+   "no": 0.8795,
+   "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -343,8 +277,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.03,
-   "no": 0.97,
+   "yes": 0.0375,
+   "no": 0.9625,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -361,16 +295,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Cincinnati Open: Taylor Townsend vs Elena Rybakina",
-   "slug": "wta-townsen-rybakin-2026-08-15",
-   "yes": 0.305,
-   "no": 0.695,
-   "volumen": 9962.809099,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Taylor Townsend vs Elena Rybakina"
-  },
-  {
    "question": "Will the highest temperature in Singapore be 31°C on August 14?",
    "slug": "highest-temperature-in-singapore-on-august-14-2026-31c",
    "yes": 0.0005,
@@ -381,24 +305,24 @@
    "question_es": "¿Será la temperatura más alta en Singapur de 31°C el 14 de agosto?"
   },
   {
+   "question": "Will the highest temperature in Guangzhou be 35°C on August 14?",
+   "slug": "highest-temperature-in-guangzhou-on-august-14-2026-35c",
+   "yes": 0.045,
+   "no": 0.955,
+   "volumen": 9950.889503999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Guangzhou de 35°C el 14 de agosto?"
+  },
+  {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
-  },
-  {
-   "question": "Will Typhoon Dolphin be a \"Very Strong Typhoon\" at Japan landfall?",
-   "slug": "will-typhoon-dolphin-be-a-very-strong-typhoon-at-japan-landfall-20260804170510870",
-   "yes": 0.9945,
-   "no": 0.0055,
-   "volumen": 9942.525255,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
   },
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
@@ -411,5 +335,5 @@
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   }
  ],
- "db_size_mb": 6.19
+ "db_size_mb": 6.27
 }
