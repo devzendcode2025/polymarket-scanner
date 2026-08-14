@@ -1,6 +1,6 @@
 {
- "ts": 1786707571,
- "stamp": "20260814_113931",
+ "ts": 1786707631,
+ "stamp": "20260814_114031",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -98,7 +98,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will the lowest temperature in Shanghai be 28°C on August 15?",
+     "_poly_question": "Will Truist fail by end of 2026?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -364,5 +364,5 @@
    "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
   }
  ],
- "db_size_mb": 11.55
+ "db_size_mb": 11.56
 }
