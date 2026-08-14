@@ -1,28 +1,28 @@
 {
- "ts": 1786720114,
- "stamp": "20260814_150834",
+ "ts": 1786720174,
+ "stamp": "20260814_150934",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xce465554b36324ab7427531932a56ce540c1f65a34ef7e02a629f79cba333f25",
-   "titulo": "Cincinnati Open: Sho Shimabukuro vs Hubert Hurkacz",
-   "slug": "atp-shimabu-hurkacz-2026-08-14",
-   "outcome": "Hubert Hurkacz",
+   "market_id": "0x16fb6a36fd72bb183447f81c036fbd59dd2587a70ce02337bcfe08f3f3d313fc",
+   "titulo": "LoL: Shifters vs SK Gaming - Game 1 Winner",
+   "slug": "lol-shft-sk-2026-08-14-game1",
+   "outcome": "Shifters",
    "side": "BUY",
-   "size": 16971.04,
-   "price": 0.7799882152,
-   "usd": 13237.21,
-   "ts": 1786719864,
+   "size": 2722.0,
+   "price": 0.44,
+   "usd": 1197.68,
+   "ts": 1786720161,
    "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $13,237 en 'Hubert Hurkacz'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-shimabu-hurkacz-2026-08-14",
-   "titulo_es": "Cincinnati Open: Sho Shimabukuro vs Hubert Hurkacz"
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,198 en 'Shifters'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-shft-sk-2026-08-14-game1",
+   "titulo_es": "LoL: Shifters vs SK Gaming - Ganador del Juego 1"
   }
  ],
  "edges": [
@@ -217,8 +217,8 @@
   {
    "question": "Will the price of Ethereum be between $1,900 and $2,000 on August 14?",
    "slug": "will-the-price-of-ethereum-be-between-1900-2000-on-august-14-2026",
-   "yes": 0.012,
-   "no": 0.988,
+   "yes": 0.011,
+   "no": 0.989,
    "volumen": 9990.507336,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -277,8 +277,8 @@
   {
    "question": "Counter-Strike: BASEMENT BOYS vs  Phantom Academy (BO3) - ESL Challenger League Europe Cup #3 Group B",
    "slug": "cs2-bmb-phanto-2026-08-14",
-   "yes": 0.775,
-   "no": 0.225,
+   "yes": 0.815,
+   "no": 0.185,
    "volumen": 9959.722214000001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -297,8 +297,8 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.255,
-   "no": 0.745,
+   "yes": 0.26,
+   "no": 0.74,
    "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
@@ -335,5 +335,5 @@
    "question_es": "Total de Juegos: O/U 2.5"
   }
  ],
- "db_size_mb": 14.34
+ "db_size_mb": 14.39
 }
