@@ -1,47 +1,47 @@
 {
- "ts": 1786675702,
- "stamp": "20260814_024822",
+ "ts": 1786675762,
+ "stamp": "20260814_024922",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x87b9b8d69f3d45bf24576e35afbd9ce9432b027c03bb46d937661b604f6c67e2",
-   "titulo": "Will WTI Crude Oil (WTI) hit (LOW) $65 in August?",
-   "slug": "will-wti-dip-to-65-in-august-2026",
-   "outcome": "No",
+   "market_id": "0xa7b6a8ece3ce834341f5a3723516c94c6141a386a1192e8329b024d708816c28",
+   "titulo": "Dota 2: Team Yandex vs Team Liquid - Game 1 Winner",
+   "slug": "dota2-ty-liquid-2026-08-13-game1",
+   "outcome": "Team Yandex",
    "side": "BUY",
-   "size": 9832.91,
-   "price": 0.95,
-   "usd": 9341.26,
-   "ts": 1786675435,
-   "categoria": "Economía",
-   "prob": 66,
-   "confianza": "alta",
+   "size": 3766.48,
+   "price": 0.6246981266,
+   "usd": 2352.91,
+   "ts": 1786675731,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $9,341 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-wti-dip-to-65-in-august-2026",
-   "titulo_es": "¿Alcanzará el petróleo crudo WTI (WTI) un mínimo de $65 en agosto?"
+   "razon": "Trade de compra por $2,353 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ty-liquid-2026-08-13-game1",
+   "titulo_es": "Dota 2: Team Yandex vs Team Liquid - Ganador del Juego 1"
   },
   {
    "tipo": "ballena",
-   "market_id": "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d",
-   "titulo": "Cincinnati Open: Rinky Hijikata vs Gael Monfils",
-   "slug": "atp-hijikat-monfils-2026-08-13",
-   "outcome": "Rinky Hijikata",
-   "side": "SELL",
-   "size": 1438.24,
-   "price": 0.84,
-   "usd": 1208.12,
-   "ts": 1786675429,
+   "market_id": "0xa7b6a8ece3ce834341f5a3723516c94c6141a386a1192e8329b024d708816c28",
+   "titulo": "Dota 2: Team Yandex vs Team Liquid - Game 1 Winner",
+   "slug": "dota2-ty-liquid-2026-08-13-game1",
+   "outcome": "Team Yandex",
+   "side": "BUY",
+   "size": 1586.16,
+   "price": 0.6330468553,
+   "usd": 1004.11,
+   "ts": 1786675735,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,208 en 'Rinky Hijikata'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-hijikat-monfils-2026-08-13",
-   "titulo_es": "Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+   "razon": "Trade de compra por $1,004 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ty-liquid-2026-08-13-game1",
+   "titulo_es": "Dota 2: Team Yandex vs Team Liquid - Ganador del Juego 1"
   }
  ],
  "edges": [
@@ -80,7 +80,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996550.5156910012,
+   "volumen": 996551.7956910003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -90,7 +90,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.023,
    "no": 0.977,
-   "volumen": 985888.500828,
+   "volumen": 985888.5008280001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -108,9 +108,9 @@
   {
    "question": "Will Bitcoin reach $66,000 August 10-16?",
    "slug": "will-bitcoin-reach-66k-august-10-16-2026",
-   "yes": 0.0325,
-   "no": 0.9675,
-   "volumen": 99701.09013099999,
+   "yes": 0.036,
+   "no": 0.964,
+   "volumen": 99743.44148099999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Bitcoin los $66,000 del 10 al 16 de agosto?"
@@ -120,7 +120,7 @@
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.024,
    "no": 0.976,
-   "volumen": 99681.46954699994,
+   "volumen": 99681.46954699996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
@@ -130,7 +130,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33041999998,
+   "volumen": 99532.33042,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -150,7 +150,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 99159.48181800001,
+   "volumen": 99159.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -160,7 +160,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99035.45360200001,
+   "volumen": 99035.45360200004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -190,7 +190,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.31,
    "no": 0.69,
-   "volumen": 98896.737572,
+   "volumen": 98896.73757199998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -200,7 +200,7 @@
    "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
    "yes": 0.0145,
    "no": 0.9855,
-   "volumen": 98586.75945999999,
+   "volumen": 98586.75946,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
@@ -216,14 +216,14 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?",
-   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 98128.754526,
+   "question": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
+   "slug": "will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123",
+   "yes": 0.0245,
+   "no": 0.9755,
+   "volumen": 98172.12016199999,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
+   "categoria": "Política",
+   "question_es": "¿Ganará Nigel Farage entre el 50 y el 60% de los votos en la elección parcial parlamentaria de Clacton?"
   },
   {
    "question": "Will Dogecoin reach $0.15 in August?",
@@ -238,8 +238,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.1205,
+   "no": 0.8795,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -258,8 +258,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.03,
-   "no": 0.97,
+   "yes": 0.0385,
+   "no": 0.9615,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -270,7 +270,7 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137667,
+   "volumen": 9966.137666999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
@@ -278,8 +278,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -294,6 +294,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
+  },
+  {
+   "question": "Will Meta have the best AI model at the end of September 2026?",
+   "slug": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
+   "yes": 0.0075,
+   "no": 0.9925,
+   "volumen": 9924.981956,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Meta el mejor modelo de IA a finales de septiembre de 2026?"
   },
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
@@ -314,17 +324,7 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Will the Democratic Party win the AR-01 House seat?",
-   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.0155,
-   "no": 0.9845,
-   "volumen": 9914.337593,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 4.41
+ "db_size_mb": 4.48
 }
