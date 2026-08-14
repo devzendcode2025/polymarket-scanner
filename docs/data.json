@@ -1,6 +1,6 @@
 {
- "ts": 1786691306,
- "stamp": "20260814_070826",
+ "ts": 1786691366,
+ "stamp": "20260814_070926",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -12,17 +12,36 @@
    "slug": "dota2-boombo-vsn2-2026-08-14-game2",
    "outcome": "TEAM VISION",
    "side": "BUY",
-   "size": 1252.856875,
-   "price": 0.7981757693,
-   "usd": 1000.0,
-   "ts": 1786691044,
+   "size": 2299.99,
+   "price": 0.9799184344,
+   "usd": 2253.8,
+   "ts": 1786691340,
    "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,000 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,254 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/dota2-boombo-vsn2-2026-08-14-game2",
    "titulo_es": "Dota 2: BoomBoys vs TEAM VISION - Ganador del Juego 2"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x9fbb7f7ef371169c8c938fb6401e1c92659d1959dc1a79d91b6c34e903bdfe32",
+   "titulo": "Dota 2: BoomBoys vs TEAM VISION (BO3) - The International Group Stage",
+   "slug": "dota2-boombo-vsn2-2026-08-14",
+   "outcome": "TEAM VISION",
+   "side": "BUY",
+   "size": 2000.0,
+   "price": 0.99,
+   "usd": 1980.0,
+   "ts": 1786691340,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,980 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-boombo-vsn2-2026-08-14",
+   "titulo_es": "Dota 2: BoomBoys vs TEAM VISION (BO3) - Fase de grupos de The International"
   }
  ],
  "edges": [
@@ -145,8 +164,8 @@
   {
    "question": "Dota 2: Iron Wing vs Team Falcons (BO3) - The International Group Stage",
    "slug": "dota2-ironwi-flc-2026-08-14",
-   "yes": 0.215,
-   "no": 0.785,
+   "yes": 0.305,
+   "no": 0.695,
    "volumen": 99933.68805699998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -185,8 +204,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -215,8 +234,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 98982.04341899998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -225,8 +244,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0635,
-   "no": 0.9365,
+   "yes": 0.062,
+   "no": 0.938,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -295,8 +314,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.122,
-   "no": 0.878,
+   "yes": 0.123,
+   "no": 0.877,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -305,8 +324,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.038,
-   "no": 0.962,
+   "yes": 0.0355,
+   "no": 0.9645,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -335,8 +354,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.1,
-   "no": 0.9,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -363,5 +382,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 7.9
+ "db_size_mb": 7.96
 }
