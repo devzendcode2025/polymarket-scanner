@@ -1,28 +1,47 @@
 {
- "ts": 1786696107,
- "stamp": "20260814_082827",
+ "ts": 1786696167,
+ "stamp": "20260814_082927",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x6899d6356ad6718825b7537a887fc4d83c1373b3d31df8a4bded58438df08eef",
-   "titulo": "LoL: T1 vs Dplus KIA - Game 1 Winner",
-   "slug": "lol-t1-dk-2026-08-14-game1",
-   "outcome": "T1",
+   "market_id": "0xefbb4bea027867cc08c0d1c9fe3f7dc440a5ad7690f25df5536de20dbdf74471",
+   "titulo": "Will the price of Ethereum be above $1,900 on August 14?",
+   "slug": "ethereum-above-1900-on-august-14-2026",
+   "outcome": "No",
    "side": "BUY",
-   "size": 1988.16,
-   "price": 0.8817511669,
-   "usd": 1753.06,
-   "ts": 1786695849,
-   "categoria": "Deportes",
-   "prob": 54,
+   "size": 1227.0,
+   "price": 0.93,
+   "usd": 1141.11,
+   "ts": 1786696150,
+   "categoria": "Cripto",
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,753 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dk-2026-08-14-game1",
-   "titulo_es": "LoL: T1 vs Dplus KIA - Ganador del Juego 1"
+   "razon": "Trade de compra por $1,141 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ethereum-above-1900-on-august-14-2026",
+   "titulo_es": "¿Estará el precio de Ethereum por encima de $1,900 el 14 de agosto?"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x13e7b146388e5674d5ea55eda8dfb1e3526999651ddb5e6959f29ba5ee2a6770",
+   "titulo": "Will the highest temperature in Busan be 32°C on August 14?",
+   "slug": "highest-temperature-in-busan-on-august-14-2026-32c",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1119.78,
+   "price": 0.999,
+   "usd": 1118.66,
+   "ts": 1786696149,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,119 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/highest-temperature-in-busan-on-august-14-2026-32c",
+   "titulo_es": "¿Será la temperatura máxima en Busan de 32°C el 14 de agosto?"
   }
  ],
  "edges": [
@@ -257,8 +276,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -317,8 +336,8 @@
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.385,
-   "no": 0.615,
+   "yes": 0.36,
+   "no": 0.64,
    "volumen": 9917.309622999997,
    "spread": 0.0,
    "categoria": "Política",
@@ -335,5 +354,5 @@
    "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
   }
  ],
- "db_size_mb": 8.95
+ "db_size_mb": 9.0
 }
