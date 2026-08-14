@@ -1,28 +1,47 @@
 {
- "ts": 1786682904,
- "stamp": "20260814_044824",
+ "ts": 1786682964,
+ "stamp": "20260814_044924",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x87119d1ee11bbf7a67b31530305e9b828ba44d312b9399fa53fb2002548ff8e8",
-   "titulo": "Texas Rangers vs. Los Angeles Angels",
-   "slug": "mlb-tex-laa-2026-08-13",
-   "outcome": "Los Angeles Angels",
+   "market_id": "0x8ce33e7b4a7f62a665eb1c61d1fce7ac2843c1b67838c75fa524fee612619387",
+   "titulo": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
+   "slug": "lol-al-jdg-2026-08-14",
+   "outcome": "Anyones Legend",
    "side": "BUY",
-   "size": 2000.0,
-   "price": 0.998,
-   "usd": 1996.0,
-   "ts": 1786682643,
+   "size": 1845.578946,
+   "price": 0.5699999999,
+   "usd": 1051.98,
+   "ts": 1786682934,
    "categoria": "Otros",
-   "prob": 54,
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,996 en 'Los Angeles Angels'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-tex-laa-2026-08-13",
-   "titulo_es": "Texas Rangers vs. Los Angeles Angels"
+   "razon": "Trade de compra por $1,052 en 'Anyones Legend'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14",
+   "titulo_es": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x42e68700e7d0b2201e6db1e0161d7a47a0963b67c8d1ccb5922bfe93231b3ad0",
+   "titulo": "Dota 2: BoomBoys vs TEAM VISION - Game 1 Winner",
+   "slug": "dota2-boombo-vsn2-2026-08-14-game1",
+   "outcome": "TEAM VISION",
+   "side": "BUY",
+   "size": 1666.75,
+   "price": 0.5999700015,
+   "usd": 1000.0,
+   "ts": 1786682938,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,000 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-boombo-vsn2-2026-08-14-game1",
+   "titulo_es": "Dota 2: BoomBoys vs TEAM VISION - Ganador del Juego 1"
   }
  ],
  "edges": [
@@ -89,7 +108,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996567.7848240011,
+   "volumen": 996567.7848240016,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -119,7 +138,7 @@
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.028,
    "no": 0.972,
-   "volumen": 99746.40804699996,
+   "volumen": 99751.35804699996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
@@ -129,7 +148,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000001,
+   "volumen": 99532.33041999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -137,8 +156,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -147,9 +166,9 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.0355,
-   "no": 0.9645,
-   "volumen": 99159.48181800001,
+   "yes": 0.034,
+   "no": 0.966,
+   "volumen": 99159.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -159,7 +178,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99069.69360200001,
+   "volumen": 99069.693602,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -195,6 +214,16 @@
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
   },
   {
+   "question": "Bitcoin Up or Down on August 14?",
+   "slug": "bitcoin-up-or-down-on-august-14-2026",
+   "yes": 0.49,
+   "no": 0.51,
+   "volumen": 98598.93502599999,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Bitcoin sube o baja el 14 de agosto?"
+  },
+  {
    "question": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
    "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
    "yes": 0.0145,
@@ -215,14 +244,14 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Bitcoin Up or Down on August 14?",
-   "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.49,
-   "no": 0.51,
-   "volumen": 98368.11757799999,
+   "question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
+   "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
+   "yes": 0.08,
+   "no": 0.92,
+   "volumen": 98342.287589,
    "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Bitcoin sube o baja el 14 de agosto?"
+   "categoria": "Tecnología",
+   "question_es": "¿Será Alphabet la segunda empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
   },
   {
    "question": "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?",
@@ -239,7 +268,7 @@
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
    "yes": 0.01,
    "no": 0.99,
-   "volumen": 9996.76192,
+   "volumen": 9996.761919999999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
@@ -247,9 +276,9 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1225,
-   "no": 0.8775,
-   "volumen": 9974.940754,
+   "yes": 0.1205,
+   "no": 0.8795,
+   "volumen": 9974.940753999997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -257,8 +286,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0345,
-   "no": 0.9655,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -269,16 +298,36 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137666999999,
+   "volumen": 9966.137667,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Cincinnati Open: Taylor Townsend vs Elena Rybakina",
+   "slug": "wta-townsen-rybakin-2026-08-15",
+   "yes": 0.305,
+   "no": 0.695,
+   "volumen": 9962.809099,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Cincinnati Open: Taylor Townsend vs Elena Rybakina"
+  },
+  {
+   "question": "Will the highest temperature in Singapore be 31°C on August 14?",
+   "slug": "highest-temperature-in-singapore-on-august-14-2026-31c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9955.288144,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Singapur de 31°C el 14 de agosto?"
+  },
+  {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -295,16 +344,6 @@
    "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
   },
   {
-   "question": "Will the highest temperature in Seoul (Incheon) be 31°C on August 14?",
-   "slug": "highest-temperature-in-seoul-on-august-14-2026-31c",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 9933.164917,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 31°C el 14 de agosto?"
-  },
-  {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
    "yes": 0.255,
@@ -313,27 +352,7 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
-  },
-  {
-   "question": "Will Thinky have the best AI model at the end of September 2026?",
-   "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9918.892000000002,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?",
-   "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
-   "yes": 0.605,
-   "no": 0.395,
-   "volumen": 9916.220948,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
   }
  ],
- "db_size_mb": 5.99
+ "db_size_mb": 6.05
 }
