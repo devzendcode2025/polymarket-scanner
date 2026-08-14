@@ -1,28 +1,66 @@
 {
- "ts": 1786681403,
- "stamp": "20260814_042323",
+ "ts": 1786681463,
+ "stamp": "20260814_042423",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x055780f0be344eb090ff5ba3f7eb16f077f7f104a9c32d545c330cdb3e4b866b",
-   "titulo": "Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B",
-   "slug": "cs2-nip-bb3-2026-08-14",
-   "outcome": "NIP",
+   "market_id": "0x3d11e53379fc2596bf7c68492c75d2b3ddb7971422782b15b7ec9c2652320418",
+   "titulo": "Dota 2: LGD Gaming vs Nigma Galaxy - Game 1 Winner",
+   "slug": "dota2-lgd-ngx-2026-08-14-game1",
+   "outcome": "Nigma Galaxy",
    "side": "BUY",
-   "size": 73879.66,
-   "price": 0.35,
-   "usd": 25857.88,
-   "ts": 1786681135,
+   "size": 10869.565216,
+   "price": 0.46,
+   "usd": 5000.0,
+   "ts": 1786681440,
    "categoria": "Deportes",
-   "prob": 70,
+   "prob": 59,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $25,858 en 'NIP'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-nip-bb3-2026-08-14",
-   "titulo_es": "Counter-Strike: NIP vs BetBoom Team (BO3) - Copa del Mundo de Esports Grupo B"
+   "razon": "Trade de compra por $5,000 en 'Nigma Galaxy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-lgd-ngx-2026-08-14-game1",
+   "titulo_es": "Dota 2: LGD Gaming vs Nigma Galaxy - Ganador del Juego 1"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x3d11e53379fc2596bf7c68492c75d2b3ddb7971422782b15b7ec9c2652320418",
+   "titulo": "Dota 2: LGD Gaming vs Nigma Galaxy - Game 1 Winner",
+   "slug": "dota2-lgd-ngx-2026-08-14-game1",
+   "outcome": "LGD Gaming",
+   "side": "BUY",
+   "size": 7050.0,
+   "price": 0.55,
+   "usd": 3877.5,
+   "ts": 1786681432,
+   "categoria": "Deportes",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,878 en 'LGD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-lgd-ngx-2026-08-14-game1",
+   "titulo_es": "Dota 2: LGD Gaming vs Nigma Galaxy - Ganador del Juego 1"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xb61a9d762515f7544705811811af9153bd07e18e484774ff95d5b8d070eebc56",
+   "titulo": "Washington Mystics vs. Las Vegas Aces",
+   "slug": "wnba-wsh-las-2026-08-13",
+   "outcome": "Las Vegas Aces",
+   "side": "SELL",
+   "size": 1551.38,
+   "price": 0.999,
+   "usd": 1549.83,
+   "ts": 1786681434,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,550 en 'Las Vegas Aces'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wnba-wsh-las-2026-08-13",
+   "titulo_es": "Washington Mystics vs. Las Vegas Aces"
   }
  ],
  "edges": [
@@ -137,8 +175,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -147,8 +185,8 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.036,
-   "no": 0.964,
+   "yes": 0.037,
+   "no": 0.963,
    "volumen": 99159.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -217,8 +255,8 @@
   {
    "question": "Bitcoin Up or Down on August 14?",
    "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.53,
-   "no": 0.47,
+   "yes": 0.5,
+   "no": 0.5,
    "volumen": 98368.11757799999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -247,8 +285,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1195,
-   "no": 0.8805,
+   "yes": 0.1215,
+   "no": 0.8785,
    "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -257,8 +295,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.033,
+   "no": 0.967,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -277,8 +315,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -335,5 +373,5 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 5.68
+ "db_size_mb": 5.73
 }
