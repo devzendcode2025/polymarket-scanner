@@ -1,87 +1,10 @@
 {
- "ts": 1786716213,
- "stamp": "20260814_140333",
+ "ts": 1786716573,
+ "stamp": "20260814_140933",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x13a903b2e8c24237f7ba4b2969c61b0e014052a0cc56adc67d2dd98aebd03476",
-   "titulo": "Hamburg: Saba Purtseladze vs Matej Dodig",
-   "slug": "atp-purtsel-dodig-2026-08-14",
-   "outcome": "Matej Dodig",
-   "side": "BUY",
-   "size": 2846.146145,
-   "price": 0.9989999997,
-   "usd": 2843.3,
-   "ts": 1786715961,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,843 en 'Matej Dodig'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-purtsel-dodig-2026-08-14",
-   "titulo_es": "Hamburgo: Saba Purtseladze vs Matej Dodig"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x94ffb3e28d5611ec6a76c65471105334f4656b9429d1a0ca503032fb5df2ef71",
-   "titulo": "Hamburg: Carlos Taberner vs Jan Kumstat",
-   "slug": "atp-taberne-kumstat-2026-08-14",
-   "outcome": "Jan Kumstat",
-   "side": "BUY",
-   "size": 3092.78,
-   "price": 0.9037105775,
-   "usd": 2794.98,
-   "ts": 1786715959,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,795 en 'Jan Kumstat'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-taberne-kumstat-2026-08-14",
-   "titulo_es": "Hamburgo: Carlos Taberner vs Jan Kumstat"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x48810a6d57bfe717ab328610486d3751cae284d65adfa999cfd3e0d55c438043",
-   "titulo": "Bitcoin Up or Down - August 14, 9:55AM-10:00AM ET",
-   "slug": "btc-updown-5m-1786715700",
-   "outcome": "Down",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.93735865,
-   "usd": 1874.72,
-   "ts": 1786715956,
-   "categoria": "Cripto",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,875 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1786715700",
-   "titulo_es": "Bitcoin Sube o Baja - 14 de agosto, 9:55AM-10:00AM ET"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x48810a6d57bfe717ab328610486d3751cae284d65adfa999cfd3e0d55c438043",
-   "titulo": "Bitcoin Up or Down - August 14, 9:55AM-10:00AM ET",
-   "slug": "btc-updown-5m-1786715700",
-   "outcome": "Down",
-   "side": "BUY",
-   "size": 1153.721633,
-   "price": 0.9629705747,
-   "usd": 1111.0,
-   "ts": 1786715958,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,111 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1786715700",
-   "titulo_es": "Bitcoin Sube o Baja - 14 de agosto, 9:55AM-10:00AM ET"
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -118,7 +41,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0205,
    "no": 0.9795,
-   "volumen": 985894.4326629997,
+   "volumen": 985894.432663,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -128,7 +51,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 984660.9935219999,
+   "volumen": 984770.8835219999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -148,7 +71,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000001,
+   "volumen": 99532.33042000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -156,8 +79,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -178,7 +101,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99069.693602,
+   "volumen": 99069.69360200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -244,16 +167,6 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
-   "question": "Will Cagliari Calcio win on 2026-08-14?",
-   "slug": "itc-cag-are-2026-08-14-cag",
-   "yes": 0.615,
-   "no": 0.385,
-   "volumen": 9984.685094,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Cagliari Calcio el 2026-08-14?"
-  },
-  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1205,
@@ -266,8 +179,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.04,
-   "no": 0.96,
+   "yes": 0.0385,
+   "no": 0.9615,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -276,9 +189,9 @@
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.24,
-   "no": 0.76,
-   "volumen": 9969.309623,
+   "yes": 0.235,
+   "no": 0.765,
+   "volumen": 9969.309622999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -316,8 +229,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.055,
+   "no": 0.945,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -326,12 +239,32 @@
   {
    "question": "Will Z.ai be the second-best Chinese AI company at the end of August 2026?",
    "slug": "will-zptai-be-the-second-best-chinese-ai-company-at-the-end-of-august-2026-20260720223339926",
-   "yes": 0.242,
-   "no": 0.758,
+   "yes": 0.2745,
+   "no": 0.7255,
    "volumen": 9945.378467,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Z.ai la segunda mejor empresa china de IA a finales de agosto de 2026?"
+  },
+  {
+   "question": "Games Total: O/U 2.5",
+   "slug": "lol-al-jdg-2026-08-14-total-games-2pt5",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9931.634876999997,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Total de Juegos: O/U 2.5"
+  },
+  {
+   "question": "Will the highest temperature in Amsterdam be 36°C on August 14?",
+   "slug": "highest-temperature-in-amsterdam-on-august-14-2026-36c",
+   "yes": 0.0085,
+   "no": 0.9915,
+   "volumen": 9925.070886999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Ámsterdam de 36°C el 14 de agosto?"
   },
   {
    "question": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A",
@@ -352,17 +285,7 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Will the Democratic Party win the AR-01 House seat?",
-   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.0155,
-   "no": 0.9845,
-   "volumen": 9914.337593,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 13.47
+ "db_size_mb": 13.59
 }
