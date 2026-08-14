@@ -1,6 +1,6 @@
 {
- "ts": 1786716093,
- "stamp": "20260814_140133",
+ "ts": 1786716153,
+ "stamp": "20260814_140233",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -88,9 +88,9 @@
    "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
-   "prob_poly": 17.5,
+   "prob_poly": 18.5,
    "consenso": 1.0,
-   "edge": -16.5,
+   "edge": -17.5,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -98,17 +98,17 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Multipli.fi FDV above $1B one day after launch?",
+     "_poly_question": "NYSE marketwide circuit breaker before 2027?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
    "n_fuentes": 1,
    "categoria": "Política",
-   "prob": 74,
+   "prob": 76,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 17.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 16.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 18.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 17.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
   }
  ],
