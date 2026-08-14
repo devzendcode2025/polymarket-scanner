@@ -1,48 +1,10 @@
 {
- "ts": 1786717413,
- "stamp": "20260814_142333",
+ "ts": 1786717473,
+ "stamp": "20260814_142433",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x6c8bc8cd9b2d64358ad995ccee8e998cf0f81a89c4be0b8e51eadf09c6be60ba",
-   "titulo": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-   "slug": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 2849.13,
-   "price": 0.82,
-   "usd": 2336.29,
-   "ts": 1786717161,
-   "categoria": "Cripto",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,336 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-   "titulo_es": "¿Caerá Bitcoin a $60,000 para el 31 de diciembre de 2026?"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd96b7cb2a7a5971b7f0bd5d268da7d452ce4cf8807a15ba33fcb8fdc092f5d48",
-   "titulo": "Counter-Strike: B8 vs Vitality - Map 1 Winner",
-   "slug": "cs2-b8-vit-2026-08-14-game1",
-   "outcome": "Vitality",
-   "side": "BUY",
-   "size": 1527.46236,
-   "price": 0.7061646999,
-   "usd": 1078.64,
-   "ts": 1786717159,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,079 en 'Vitality'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-b8-vit-2026-08-14-game1",
-   "titulo_es": "Counter-Strike: B8 vs Vitality - Ganador del Mapa 1"
-  },
   {
    "tipo": "ballena",
    "market_id": "0x8ce33e7b4a7f62a665eb1c61d1fce7ac2843c1b67838c75fa524fee612619387",
@@ -50,15 +12,15 @@
    "slug": "lol-al-jdg-2026-08-14",
    "outcome": "Anyones Legend",
    "side": "SELL",
-   "size": 1034.42,
+   "size": 3332.96,
    "price": 0.999,
-   "usd": 1033.39,
-   "ts": 1786717158,
+   "usd": 3329.63,
+   "ts": 1786717461,
    "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,033 en 'Anyones Legend'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $3,330 en 'Anyones Legend'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14",
    "titulo_es": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend"
   }
@@ -237,8 +199,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1205,
-   "no": 0.8795,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -247,8 +209,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.03,
-   "no": 0.97,
+   "yes": 0.0365,
+   "no": 0.9635,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -307,8 +269,8 @@
   {
    "question": "Will Z.ai be the second-best Chinese AI company at the end of August 2026?",
    "slug": "will-zptai-be-the-second-best-chinese-ai-company-at-the-end-of-august-2026-20260720223339926",
-   "yes": 0.2745,
-   "no": 0.7255,
+   "yes": 0.275,
+   "no": 0.725,
    "volumen": 9945.378467,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -345,5 +307,5 @@
    "question_es": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Copa Mundial de Esports Grupo A"
   }
  ],
- "db_size_mb": 13.71
+ "db_size_mb": 13.77
 }
