@@ -1,28 +1,28 @@
 {
- "ts": 1786719814,
- "stamp": "20260814_150334",
+ "ts": 1786719874,
+ "stamp": "20260814_150434",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x0cc3d7f9723b06381b10222bed4d30f56ddf1c24fa36edf4c7e828e659495de9",
-   "titulo": "Will Blackburn Rovers FC win on 2026-08-14?",
-   "slug": "elc-wol-bbr-2026-08-14-bbr",
-   "outcome": "No",
+   "market_id": "0xce465554b36324ab7427531932a56ce540c1f65a34ef7e02a629f79cba333f25",
+   "titulo": "Cincinnati Open: Sho Shimabukuro vs Hubert Hurkacz",
+   "slug": "atp-shimabu-hurkacz-2026-08-14",
+   "outcome": "Hubert Hurkacz",
    "side": "BUY",
-   "size": 1494.252869,
-   "price": 0.87,
-   "usd": 1300.0,
-   "ts": 1786719559,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,300 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/elc-wol-bbr-2026-08-14-bbr",
-   "titulo_es": "¿Ganará el Blackburn Rovers FC el 14-08-2026?"
+   "size": 16971.04,
+   "price": 0.7799882152,
+   "usd": 13237.21,
+   "ts": 1786719864,
+   "categoria": "Deportes",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $13,237 en 'Hubert Hurkacz'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-shimabu-hurkacz-2026-08-14",
+   "titulo_es": "Cincinnati Open: Sho Shimabukuro vs Hubert Hurkacz"
   }
  ],
  "edges": [
@@ -139,7 +139,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.481818,
+   "volumen": 99159.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -199,7 +199,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98404.80752599999,
+   "volumen": 98404.80752600002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -217,9 +217,9 @@
   {
    "question": "Will the price of Ethereum be between $1,900 and $2,000 on August 14?",
    "slug": "will-the-price-of-ethereum-be-between-1900-2000-on-august-14-2026",
-   "yes": 0.0175,
-   "no": 0.9825,
-   "volumen": 9990.507336000002,
+   "yes": 0.012,
+   "no": 0.988,
+   "volumen": 9990.507336,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Ethereum entre $1,900 y $2,000 el 14 de agosto?"
@@ -247,8 +247,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.034,
+   "no": 0.966,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -257,9 +257,9 @@
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.225,
-   "no": 0.775,
-   "volumen": 9969.309623000001,
+   "yes": 0.22,
+   "no": 0.78,
+   "volumen": 9969.309622999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -275,10 +275,30 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
-   "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
+   "question": "Counter-Strike: BASEMENT BOYS vs  Phantom Academy (BO3) - ESL Challenger League Europe Cup #3 Group B",
+   "slug": "cs2-bmb-phanto-2026-08-14",
+   "yes": 0.775,
+   "no": 0.225,
+   "volumen": 9959.722214000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Counter-Strike: BASEMENT BOYS vs Phantom Academy (BO3) - ESL Challenger League Europe Cup #3 Grupo B"
+  },
+  {
+   "question": "Dallas Wings vs. Indiana Fever",
+   "slug": "wnba-dal-ind-2026-08-14",
    "yes": 0.26,
    "no": 0.74,
+   "volumen": 9948.942371,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Dallas Wings vs. Indiana Fever"
+  },
+  {
+   "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
+   "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
+   "yes": 0.255,
+   "no": 0.745,
    "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
@@ -297,9 +317,9 @@
   {
    "question": "Will Z.ai be the second-best Chinese AI company at the end of August 2026?",
    "slug": "will-zptai-be-the-second-best-chinese-ai-company-at-the-end-of-august-2026-20260720223339926",
-   "yes": 0.2735,
-   "no": 0.7265,
-   "volumen": 9945.378466999999,
+   "yes": 0.274,
+   "no": 0.726,
+   "volumen": 9945.378467,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Z.ai la segunda mejor empresa china de IA a finales de agosto de 2026?"
@@ -309,31 +329,11 @@
    "slug": "lol-al-jdg-2026-08-14-total-games-2pt5",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9933.384876999999,
+   "volumen": 9938.644876999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Total de Juegos: O/U 2.5"
-  },
-  {
-   "question": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A",
-   "slug": "cs2-jjh-aur1-2026-08-15",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 9920.848541000001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Copa Mundial de Esports Grupo A"
-  },
-  {
-   "question": "Will Thinky have the best AI model at the end of September 2026?",
-   "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9918.892000000002,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 14.25
+ "db_size_mb": 14.33
 }
