@@ -1,6 +1,6 @@
 {
- "ts": 1786690766,
- "stamp": "20260814_065926",
+ "ts": 1786690826,
+ "stamp": "20260814_070026",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -50,9 +50,9 @@
    "question": "Will the Chicago Cubs have the highest ABS success rate during the 2026 MLB regular season?",
    "slug": "will-the-chicago-cubs-have-the-highest-abs-success-rate-during-the-2026-mlb-regular-season-20260702205844831",
    "url": "https://polymarket.com/market/will-the-chicago-cubs-have-the-highest-abs-success-rate-during-the-2026-mlb-regular-season-20260702205844831",
-   "prob_poly": 1.1,
+   "prob_poly": 1.2,
    "consenso": 56.9,
-   "edge": 55.8,
+   "edge": 55.7,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -70,7 +70,7 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 1.1% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 56.9%: diferencia de 55.8 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 1.2% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 56.9%: diferencia de 55.7 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Tendrán los Chicago Cubs la tasa de éxito de ABS más alta durante la temporada regular de la MLB 2026?"
   },
   {
@@ -106,9 +106,9 @@
    "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
    "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
    "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "prob_poly": 43.5,
+   "prob_poly": 43.0,
    "consenso": 34.5,
-   "edge": -9.0,
+   "edge": -8.5,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -126,7 +126,7 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 43.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 43.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 8.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
@@ -382,5 +382,5 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 7.81
+ "db_size_mb": 7.82
 }
