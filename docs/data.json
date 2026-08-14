@@ -1,28 +1,28 @@
 {
- "ts": 1786688005,
- "stamp": "20260814_061325",
+ "ts": 1786688365,
+ "stamp": "20260814_061925",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xab4655991948b72de71ddc8ec978082c5c84d7d28330b9f39cddf0039a04b88e",
-   "titulo": "Dota 2: BoomBoys vs TEAM VISION - Game 2 Winner",
-   "slug": "dota2-boombo-vsn2-2026-08-14-game2",
-   "outcome": "TEAM VISION",
+   "market_id": "0xccf2b4f4ee94200fb3e05bfd45c1fb8a43bb0bf5cf69d78508c969d72b3a7f2b",
+   "titulo": "US announces end of Iranian blockade by August 22, 2026?",
+   "slug": "us-announces-end-of-iranian-blockade-by-august-22-2026",
+   "outcome": "No",
    "side": "BUY",
-   "size": 1553.57,
-   "price": 0.6628650141,
-   "usd": 1029.81,
-   "ts": 1786687738,
-   "categoria": "Deportes",
+   "size": 1369.0,
+   "price": 0.88,
+   "usd": 1204.72,
+   "ts": 1786688337,
+   "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,030 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-boombo-vsn2-2026-08-14-game2",
-   "titulo_es": "Dota 2: BoomBoys vs TEAM VISION - Ganador del Juego 2"
+   "razon": "Trade de compra por $1,205 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/us-announces-end-of-iranian-blockade-by-august-22-2026",
+   "titulo_es": "¿EE. UU. anuncia el fin del bloqueo iraní para el 22 de agosto de 2026?"
   }
  ],
  "edges": [
@@ -61,7 +61,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 998471.8848240011,
+   "volumen": 998476.0048240016,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -87,6 +87,16 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
+   "yes": 0.1325,
+   "no": 0.8675,
+   "volumen": 980646.1912770005,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
+  },
+  {
    "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.028,
@@ -101,27 +111,17 @@
    "slug": "lol-t1a-dkc-2026-08-13",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99686.04181399998,
+   "volumen": 99692.44181400003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío"
-  },
-  {
-   "question": "Bitcoin Up or Down on August 14?",
-   "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.445,
-   "no": 0.555,
-   "volumen": 99549.090084,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Bitcoin sube o baja el 14 de agosto?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33041999998,
+   "volumen": 99532.33042000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -129,9 +129,9 @@
   {
    "question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
-   "yes": 0.12,
-   "no": 0.88,
-   "volumen": 99452.51031499998,
+   "yes": 0.125,
+   "no": 0.875,
+   "volumen": 99453.770315,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la segunda empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -139,8 +139,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -151,20 +151,10 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.481818,
+   "volumen": 99159.48181799996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
-  },
-  {
-   "question": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
-   "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
-   "yes": 0.0115,
-   "no": 0.9885,
-   "volumen": 99113.27213299999,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de agosto de 2026?"
   },
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
@@ -201,7 +191,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.295,
    "no": 0.705,
-   "volumen": 98896.73757199998,
+   "volumen": 98896.73757199997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -221,7 +211,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98150.55052600002,
+   "volumen": 98150.550526,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -249,9 +239,9 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.122,
-   "no": 0.878,
-   "volumen": 9974.940754,
+   "yes": 0.124,
+   "no": 0.876,
+   "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -259,8 +249,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0485,
-   "no": 0.9515,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -271,7 +261,7 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137666999999,
+   "volumen": 9966.137667,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
@@ -297,15 +287,25 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   },
   {
-   "question": "Will Trump say \"Biden\" during remarks in New York?",
-   "slug": "will-trump-say-biden-during-remarks-in-new-york-20260811183234687",
-   "yes": 0.905,
-   "no": 0.095,
-   "volumen": 9926.106451000003,
+   "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
+   "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
+   "yes": 0.255,
+   "no": 0.745,
+   "volumen": 9920.824999,
    "spread": 0.0,
    "categoria": "Política",
-   "question_es": "¿Dirá Trump \"Biden\" durante sus declaraciones en Nueva York?"
+   "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
+  },
+  {
+   "question": "Will Thinky have the best AI model at the end of September 2026?",
+   "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9918.892000000002,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 7.14
+ "db_size_mb": 7.28
 }
