@@ -8,6 +8,8 @@ Tipos de senal:
 """
 import time
 
+import categorias
+
 
 def detect_mispricing(markets, epsilon=0.03, min_volume=10_000):
     """Mercados donde Yes+No se aleja de 1 en mas de epsilon.
@@ -27,6 +29,7 @@ def detect_mispricing(markets, epsilon=0.03, min_volume=10_000):
                 "question": m["question"],
                 "slug": m.get("slug"),
                 "tags": m.get("tags") or [],
+                "categoria": categorias.clasificar(m["question"]),
                 "yes": m["yes"],
                 "no": m["no"],
                 "sum": m["sum_price"],
@@ -38,7 +41,7 @@ def detect_mispricing(markets, epsilon=0.03, min_volume=10_000):
     return out
 
 
-def detect_whales(trades, min_usd=1000, limit=15):
+def detect_whales(trades, min_usd=1000, limit=25):
     """Trades individuales grandes (size * precio)."""
     out = []
     for t in trades:
@@ -85,6 +88,7 @@ def detect_momentum(markets, get_last, max_age_h=24, threshold=0.05):
                 "question": m["question"],
                 "slug": m.get("slug"),
                 "tags": m.get("tags") or [],
+                "categoria": categorias.clasificar(m["question"]),
                 "yes_antes": round(prev["yes"], 3),
                 "yes_ahora": round(m["yes"], 3),
                 "cambio_pct": round(delta * 100, 1),
@@ -92,7 +96,7 @@ def detect_momentum(markets, get_last, max_age_h=24, threshold=0.05):
                 "volumen": m["volume"],
             })
     out.sort(key=lambda d: abs(d["cambio_pct"]), reverse=True)
-    return out[:20]
+    return out[:30]
 
 
 def build_summary(markets, mispricings, whales, momentum):

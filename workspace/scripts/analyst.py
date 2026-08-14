@@ -109,12 +109,33 @@ def analizar_momentum(d):
             "razon": razon, "url": _url(d.get("slug"))}
 
 
+# ---------- Edge (cross-check de fuentes externas) ----------
+
+def analizar_edge(d):
+    edge = abs(d.get("edge", 0))
+    n_f = d.get("n_fuentes", 0)
+    razon = (
+        f"Polymarket paga este mercado a {d.get('prob_poly', 0)}% y el consenso de "
+        f"{n_f} fuente(s) externa(s) ({d.get('fuentes_nombres', '')}) lo paga a "
+        f"{d.get('consenso', 0)}%: diferencia de {edge:.1f} puntos. "
+        f"Cuando el mercado externo está más informado, el precio de Polymarket "
+        f"suele converger hacia el consenso. {d.get('direccion', '')}."
+    )
+    return {**d, "razon": razon, "url": d.get("url") or ""}
+
+
 # ---------- Orquestador ----------
 
-def enrich(mispricings, ballenas, momentum):
-    """Aplica el analisis heuristico a las tres listas de detecciones."""
+def enrich(mispricings, ballenas, momentum, edges=None):
+    """Aplica el analisis heuristico a las listas de detecciones."""
+    if edges is None:
+        edges = []
+    for e in edges:
+        e["fuentes_nombres"] = ", ".join(f["fuente"] for f in e.get("fuentes", []))
+        e = analizar_edge(e)
     return (
         [analizar_mispricing(d) for d in mispricings],
         [analizar_ballena(d) for d in ballenas],
         [analizar_momentum(d) for d in momentum],
+        [analizar_edge(d) for d in edges],
     )

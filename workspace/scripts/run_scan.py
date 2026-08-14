@@ -22,6 +22,8 @@ import db as dbmod  # noqa: E402
 import scanner  # noqa: E402
 import analyst  # noqa: E402
 import translate  # noqa: E402
+import crosscheck  # noqa: E402
+import categorias  # noqa: E402
 
 PROYECTO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 WORKSPACE = os.path.join(PROYECTO, "workspace")
@@ -106,22 +108,34 @@ def main():
             w["volumen_mercado"] = m["volume"]
             w.setdefault("slug", m.get("slug"))
             w.setdefault("tags", m.get("tags") or [])
+        w.setdefault("categoria", categorias.clasificar(w.get("titulo") or ""))
 
     momentum = scanner.detect_momentum(markets, lambda mid: dbmod.last_snapshot(conn, mid))
     print(f"  Momentum (>=5% vs scan anterior): {len(momentum)}")
 
-    # 3b. Analista heuristico: probabilidad + confianza + horizonte + justificacion
-    mispricings, whales, momentum = analyst.enrich(mispricings, whales, momentum)
-    print(f"  Analisis: {sum(1 for d in mispricings + whales + momentum if d.get('confianza') == 'alta')} senales de confianza alta")
+    # 3b. Cross-check fuentes externas (F3): edge = "datos ganadores"
+    edges = crosscheck.get_edges([
+        {"question": m["question"], "slug": m.get("slug"),
+         "yes": m["yes"], "volume": m["volume"]}
+        for m in markets
+    ])
+    print(f"  Edges (consenso externo vs Polymarket): {len(edges)}")
 
-    # 3c. Traduccion de titulos al espanol (DeepSeek + cache SQLite; fallback silencioso)
+    # 3c. Analista heuristico: probabilidad + confianza + horizonte + justificacion
+    mispricings, whales, momentum, edges = analyst.enrich(mispricings, whales, momentum, edges)
+    print(f"  Analisis: {sum(1 for d in mispricings + whales + momentum + edges if d.get('confianza') == 'alta')} senales de confianza alta")
+
+    # 3d. Traduccion de titulos al espanol (DeepSeek + cache SQLite; fallback silencioso)
     top_volumen = [
         {"question": m["question"], "slug": m.get("slug"), "yes": m["yes"], "no": m["no"],
-         "volumen": m["volume"], "spread": m["spread"]}
-        for m in sorted(markets, key=lambda x: x["volume"], reverse=True)[:10]
+         "volumen": m["volume"], "spread": m["spread"],
+         "categoria": categorias.clasificar(m["question"])}
+        for m in sorted(markets, key=lambda x: x["volume"], reverse=True)[:25]
     ]
     textos = ([d["question"] for d in mispricings] + [d["titulo"] for d in whales] +
-              [d["question"] for d in momentum] + [m["question"] for m in top_volumen])
+              [d["question"] for d in momentum] + [m["question"] for m in top_volumen] +
+              [e["question"] for e in edges] +
+              [f["titulo"] for e in edges for f in e.get("fuentes", [])])
     trad = translate.traducir(conn, textos)
     print(f"  Traducciones: {len(trad)} titulos al espanol")
     for d in mispricings + momentum:
@@ -133,6 +147,12 @@ def main():
     for m in top_volumen:
         if m["question"] in trad:
             m["question_es"] = trad[m["question"]]
+    for e in edges:
+        if e["question"] in trad:
+            e["question_es"] = trad[e["question"]]
+        for f in e.get("fuentes", []):
+            if f["titulo"] in trad:
+                f["titulo_es"] = trad[f["titulo"]]
 
     # 4. Reporte
     report = {
@@ -144,6 +164,7 @@ def main():
         "mispricings": mispricings,
         "ballenas": whales,
         "momentum": momentum,
+        "edges": edges,
         "top_volumen": top_volumen,
     }
     os.makedirs(REPORTS, exist_ok=True)
@@ -169,6 +190,12 @@ def main():
             f.write(f"  {d['direccion']} {d['cambio_pct']}% -> '{d.get('question_es') or d['question']}' "
                     f"(yes {d['yes_antes']} -> {d['yes_ahora']}) "
                     f"| prob {d['prob']}% ({d['confianza']}, {d['horizonte']}) | {d['url']}\n")
+        f.write("\n=== EDGES (consenso externo vs Polymarket) ===\n")
+        for e in edges[:10]:
+            f.write(f"  {e['direccion']} | edge {e['edge']:+.1f} pts -> '{e.get('question_es') or e['question']}'\n"
+                    f"    Poly {e['prob_poly']}% vs consenso {e['consenso']}% "
+                    f"({e.get('fuentes_nombres', '')}) | prob {e['prob']}% ({e['confianza']}, {e['horizonte']})\n"
+                    f"    {e['url']}\n")
 
     dbmod.log_scan(conn, len(markets), len(mispricings) + len(whales) + len(momentum),
                    scanner.build_summary(markets, mispricings, whales, momentum))

@@ -51,6 +51,16 @@
   .badge.conf-media { background:rgba(255,209,102,.15); color:var(--accent); }
   .badge.conf-baja { background:rgba(139,147,167,.12); color:var(--dim); }
   .badge.hor { background:rgba(78,140,255,.12); color:var(--blue); }
+  .badge.cat { background:rgba(255,209,102,.12); color:var(--accent); }
+  .edge-compare { display:flex; align-items:center; gap:14px; flex-wrap:wrap; margin-top:10px; }
+  .edge-pill { background:#10151f; border:1px solid var(--line); border-radius:8px; padding:6px 12px; text-align:center; }
+  .edge-pill .lbl { font-size:.65rem; color:var(--dim); text-transform:uppercase; letter-spacing:.04em; }
+  .edge-pill .val { font-weight:700; font-size:1rem; }
+  .edge-arrow { color:var(--accent); font-weight:700; font-size:1.1rem; }
+  .edge-fuentes { display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; }
+  .edge-fuente { font-size:.72rem; background:rgba(139,147,167,.08); border:1px solid var(--line); border-radius:6px; padding:3px 8px; text-decoration:none; color:var(--dim); }
+  .edge-fuente b { color:var(--text); }
+  .edge-fuente:hover { border-color:var(--blue); }
   .sig { border:1px solid var(--line); border-radius:10px; margin:10px 16px; padding:14px 16px; background:#161c2b; }
   .sig-head { display:flex; align-items:flex-start; gap:10px; flex-wrap:wrap; }
   .sig-type { font-size:.72rem; font-weight:700; padding:3px 10px; border-radius:999px; background:rgba(255,209,102,.12); color:var(--accent); white-space:nowrap; }
@@ -108,6 +118,11 @@
     <select id="paisSelect"></select>
     <span id="paisStatus" class="tag dim">Todos los mercados</span>
   </div>
+  <div class="paisbar" style="margin-top:-6px;">
+    <label>🗂️ Categoría:</label>
+    <select id="catSelect"></select>
+    <span class="tag dim" style="font-size:.72rem;">Política · Deportes · Cripto · Economía · Tecnología · Ciencia · Entretenimiento</span>
+  </div>
 
   <div class="stats" id="stats">
     <div class="stat blue"><div class="num">—</div><div class="lbl">Mercados monitoreados</div></div>
@@ -130,6 +145,11 @@
   <div class="panel">
     <h2>📈 Momentum (cambio ≥ 5%) <span id="momTag" class="tag dim">…</span></h2>
     <div id="mom"><div class="empty">Cargando…</div></div>
+  </div>
+
+  <div class="panel">
+    <h2>💎 Datos ganadores — Edge vs consenso externo <span id="edgeTag" class="tag dim">…</span></h2>
+    <div id="edges"><div class="empty">Cargando…</div></div>
   </div>
 
   <div class="panel">
@@ -188,6 +208,8 @@ const PAISES = {
 };
 
 let paisActual = "todos";
+let catActual = "todas";
+const CATS = ["Deportes", "Cripto", "Política", "Economía", "Tecnología", "Ciencia y espacio", "Entretenimiento", "Otros"];
 
 function esc(s){ return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
 function money(n){ return "$" + Math.round(Number(n) || 0).toLocaleString("en-US"); }
@@ -221,9 +243,11 @@ function matchPais(texto, tags){
 }
 function matchItem(d){
   const texto = (d.question_es || "") + " " + (d.question || d.titulo || d.titulo_es || "");
+  if (catActual !== "todas" && (d.categoria || "Otros") !== catActual) return false;
   return matchPais(texto, d.tags);
 }
 function nombre(d){ return d.question_es || d.question || d.titulo_es || d.titulo || ""; }
+function badgeCat(c){ return c ? "<span class='badge cat'>" + esc(c) + "</span>" : ""; }
 
 // Selector de países
 (function buildPaisSelect(){
@@ -247,6 +271,15 @@ function nombre(d){ return d.question_es || d.question || d.titulo_es || d.titul
   });
 })();
 
+// Selector de categoría
+(function buildCatSelect(){
+  const sel = document.getElementById("catSelect");
+  let opts = "<option value='todas'>🗂️ Todas las categorías</option>";
+  for (const c of CATS){ opts += "<option value='" + esc(c) + "'>" + esc(c) + "</option>"; }
+  sel.innerHTML = opts;
+  sel.addEventListener("change", () => { catActual = sel.value; load(); });
+})();
+
 // --- Ballenas: fuente principal data.json (traducido + analizado); fallback Data API ---
 function renderWhales(list){
   const box = document.getElementById("whales");
@@ -259,13 +292,13 @@ function renderWhales(list){
     return;
   }
   let rows = "";
-  for (const w of list.slice(0, 10)){
+  for (const w of list.slice(0, 25)){
     const cls = String(w.side).toUpperCase() === "BUY" ? "buy" : "sell";
     const lbl = cls === "buy" ? "COMPRA" : "VENTA";
     rows += "<tr>" + td("Dirección", "<span class='" + cls + "'>" + lbl + "</span>") +
             td("Monto", "<span class='money'>" + money(w.usd) + "</span>") +
             td("Resultado", esc(w.outcome)) +
-            td("Mercado", "<span class='q'>" + esc(w.titulo_es || w.titulo) + "</span>") +
+            td("Mercado", "<span class='q'>" + esc(w.titulo_es || w.titulo) + "</span><br>" + badgeCat(w.categoria)) +
             td("Prob. estimada", probBar(w.prob) + " " + badgeConf(w.confianza)) +
             td("Polymarket", linkBtn(w.url)) + "</tr>";
   }
@@ -281,10 +314,10 @@ function renderTop(list){
     return;
   }
   let rows = "";
-  for (const m of list.slice(0, 10)){
+  for (const m of list.slice(0, 25)){
     const yes = Number(m.yes) || 0;
     const pct = Math.max(0.3, Math.min(100, yes*100));
-    rows += "<tr>" + td("Mercado", "<span class='q'>" + esc(m.question_es || m.question) + "</span>") +
+    rows += "<tr>" + td("Mercado", "<span class='q'>" + esc(m.question_es || m.question) + "</span><br>" + badgeCat(m.categoria)) +
             td("Sí", probBar(pct)) +
             td("No", "<span class='money' style='color:var(--green)'>" + ((1-yes)*100).toFixed(1) + "%</span>") +
             td("Volumen", "<span class='money'>" + money(m.volumen) + "</span>") +
@@ -297,7 +330,7 @@ function renderTop(list){
 function signalCards(list, tipo){
   if (!list.length) return "";
   let out = "";
-  for (const d of list.slice(0, 10)){
+  for (const d of list.slice(0, 25)){
     const extra = (d.tipo === "mispricing")
       ? "Sí " + d.yes + " + No " + d.no + " = " + d.sum + " · " + esc(d.direccion)
       : "Sí " + d.yes_antes + " → " + d.yes_ahora;
@@ -307,8 +340,42 @@ function signalCards(list, tipo){
            linkBtn(d.url) + "</div>" +
            "<div class='sig-meta'>" + probBar(d.prob) + badgeConf(d.confianza) +
            "<span class='badge hor'>Horizonte " + esc(d.horizonte) + "</span>" +
+           badgeCat(d.categoria) +
            "<span class='badge dim'>" + extra + "</span></div>" +
            "<div class='sig-razon'>💡 " + esc(d.razon) + "</div></div>";
+  }
+  return out;
+}
+
+// --- Tarjetas de EDGE (dato ganador: Polymarket vs consenso externo) ---
+function edgeCards(list){
+  if (!list.length) return "";
+  let out = "";
+  for (const e of list.slice(0, 25)){
+    const signo = e.edge > 0 ? "+" : "";
+    const color = e.edge > 0 ? "var(--green)" : "var(--red)";
+    let fuentes = "";
+    for (const f of (e.fuentes || [])){
+      fuentes += "<a class='edge-fuente' target='_blank' rel='noopener' href='" + esc(f.url || "#") + "'>" +
+                 "<b>" + esc(f.fuente) + "</b> " + esc(f.titulo_es || f.titulo) + " → " +
+                 "<b>" + (Number(f.prob)||0).toFixed(0) + "%</b></a>";
+    }
+    out += "<div class='sig'><div class='sig-head'>" +
+           "<span class='sig-type'>💎 Edge " + signo + esc(e.edge) + " pts</span>" +
+           "<span class='sig-q'>" + esc(e.question_es || e.question) + "</span>" +
+           linkBtn(e.url) + "</div>" +
+           "<div class='edge-compare'>" +
+           "<div class='edge-pill'><div class='lbl'>Polymarket</div><div class='val'>" + esc(e.prob_poly) + "%</div></div>" +
+           "<span class='edge-arrow'>→</span>" +
+           "<div class='edge-pill'><div class='lbl'>Consenso externo</div><div class='val'>" + esc(e.consenso) + "%</div></div>" +
+           "<div class='edge-pill'><div class='lbl'>Diferencia</div><div class='val' style='color:" + color + "'>" + signo + esc(e.edge) + " pts</div></div>" +
+           "</div>" +
+           "<div class='edge-fuentes'>" + fuentes + "</div>" +
+           "<div class='sig-meta'>" + probBar(e.prob) + badgeConf(e.confianza) +
+           "<span class='badge hor'>Horizonte " + esc(e.horizonte) + "</span>" +
+           badgeCat(e.categoria) +
+           "<span class='badge dim'>" + esc(e.direccion) + "</span></div>" +
+           "<div class='sig-razon'>💡 " + esc(e.razon) + "</div></div>";
   }
   return out;
 }
@@ -318,10 +385,11 @@ function renderDesdePipeline(r){
   const ballenas = (r.ballenas_scan || []).filter(matchItem);
   const misp = (r.mispricings || []).filter(matchItem);
   const mom  = (r.momentum || []).filter(matchItem);
-  const top  = (r.top_volumen || []).filter(m => matchPais((m.question_es || "") + " " + (m.question || ""), []));
+  const edges = (r.edges || []).filter(matchItem);
+  const top  = (r.top_volumen || []).filter(matchItem);
 
   const whaleUSD = renderWhales(ballenas);
-  tag("mispTag", misp.length); tag("momTag", mom.length);
+  tag("mispTag", misp.length); tag("momTag", mom.length); tag("edgeTag", edges.length);
 
   const mb = document.getElementById("misp");
   mb.innerHTML = misp.length ? signalCards(misp, "🎯 Mispricing")
@@ -331,6 +399,10 @@ function renderDesdePipeline(r){
   mo.innerHTML = mom.length ? signalCards(mom, "📈 Momentum")
     : emptyBox("Acumulando historial de precios. Las alertas aparecen cuando un precio se mueve ≥ 5% entre scans.");
 
+  const eb = document.getElementById("edges");
+  eb.innerHTML = edges.length ? edgeCards(edges)
+    : emptyBox("Sin diferencias ≥ 8 puntos entre Polymarket y el consenso externo (Kalshi, Manifold, PredictIt). El cross-check corre cada 10 min.");
+
   renderTop(top);
 
   const stats = [
@@ -339,6 +411,7 @@ function renderDesdePipeline(r){
     ['class="stat accent"', whaleUSD ? money(whaleUSD) : "—", "Volumen de ballenas"],
     ["", misp.length, "Mispricings activos"],
     ["", mom.length, "Alertas de momentum"],
+    ["", edges.length, "Datos ganadores (edge)"],
   ].map(s => "<div " + s[0] + "><div class='num'>" + s[1] + "</div><div class='lbl'>" + s[2] + "</div></div>").join("");
   document.getElementById("stats").innerHTML = stats;
 }
