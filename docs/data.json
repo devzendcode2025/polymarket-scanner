@@ -1,6 +1,6 @@
 {
- "ts": 1786697368,
- "stamp": "20260814_084928",
+ "ts": 1786697428,
+ "stamp": "20260814_085028",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -79,7 +79,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will Yandy Diaz win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
+     "_poly_question": "Will Los Angeles FC vs. San Diego FC end in a draw?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
