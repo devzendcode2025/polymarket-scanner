@@ -1,6 +1,6 @@
 {
- "ts": 1786695267,
- "stamp": "20260814_081427",
+ "ts": 1786695327,
+ "stamp": "20260814_081527",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -354,5 +354,5 @@
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
   }
  ],
- "db_size_mb": 8.81
+ "db_size_mb": 8.82
 }
