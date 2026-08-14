@@ -1,6 +1,6 @@
 {
- "ts": 1786666819,
- "stamp": "20260814_002019",
+ "ts": 1786666939,
+ "stamp": "20260814_002219",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -16,12 +16,204 @@
    "price": 0.79,
    "usd": 4544.05,
    "ts": 1786666728,
+   "categoria": "Politica",
    "prob": 58,
    "confianza": "media",
    "horizonte": "24h",
    "razon": "Trade de compra por $4,544 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/will-nigel-farage-win-at-least-80-of-votes-in-the-clacton-parliamentary-by-election-20260708151424126",
    "titulo_es": "¿Ganará Nigel Farage al menos el 80% de los votos en la elección parcial parlamentaria de Clacton?"
+  }
+ ],
+ "edges": [
+  {
+   "tipo": "edge",
+   "question": "Will the Democratic Party candidate win the 2026 Nebraska gubernatorial election?",
+   "slug": "will-the-democratic-party-candidate-win-the-2026-nebraska-gubernatorial-election",
+   "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-nebraska-gubernatorial-election",
+   "prob_poly": 6.5,
+   "consenso": 38.7,
+   "edge": 32.2,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "Will Democrats win the 2026 Wisconsin Gubernatorial election by 5.00% or more?",
+     "prob": 38.681647007809154,
+     "url": "https://manifold.markets/Jack1/will-democrats-win-the-2026-wiscons-8z6npS9Rqn",
+     "titulo_es": "¿Ganarán los Demócratas las elecciones a gobernador de Wisconsin en 2026 por 5.00% o más?"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Politica",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "Manifold",
+   "razon": "Polymarket paga este mercado a 6.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 38.7%: diferencia de 32.2 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones a gobernador de Nebraska en 2026?"
+  },
+  {
+   "tipo": "edge",
+   "question": "Will the Republican Party candidate win the 2026 Arkansas Senate election by 0%-5%?",
+   "slug": "will-the-republican-party-candidate-win-the-2026-arkansas-senate-election-by-0-5",
+   "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-arkansas-senate-election-by-0-5",
+   "prob_poly": 9.2,
+   "consenso": 40.7,
+   "edge": 31.6,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "Republicans win a 2026 US Senate election in a state Kamala won?",
+     "prob": 40.72684770287074,
+     "url": "https://manifold.markets/JasonMendoza2008/republicans-win-a-2026-us-senate-el-R5cnCE0CPE",
+     "titulo_es": "¿Ganan los Republicanos una elección al Senado de EE. UU. en 2026 en un estado que ganó Kamala?"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Politica",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "Manifold",
+   "razon": "Polymarket paga este mercado a 9.2% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 40.7%: diferencia de 31.6 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Arkansas en 2026 por 0%-5%?"
+  },
+  {
+   "tipo": "edge",
+   "question": "Will Los Angeles Chargers finish the 2026-27 NFL regular season with the most return yards?",
+   "slug": "will-los-angeles-chargers-finish-the-2026-27-nfl-regular-season-with-the-most-return-yards-20260716001414218",
+   "url": "https://polymarket.com/market/will-los-angeles-chargers-finish-the-2026-27-nfl-regular-season-with-the-most-return-yards-20260716001414218",
+   "prob_poly": 2.1,
+   "consenso": 31.0,
+   "edge": 28.9,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "Will 17 or more MLB regular-season games go to extra innings from August 12 through August 23, 2026?",
+     "prob": 31.000000000000007,
+     "url": "https://manifold.markets/Web3ICP/will-17-or-more-mlb-regularseason-g-LP0uz6E5Oh",
+     "titulo_es": "¿Irán 17 o más juegos de la temporada regular de la MLB a entradas extra del 12 al 23 de agosto de 2026?"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Deportes",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "Manifold",
+   "razon": "Polymarket paga este mercado a 2.1% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 31.0%: diferencia de 28.9 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Terminarán Los Angeles Chargers la temporada regular de la NFL 2026-27 con la mayor cantidad de yardas de retorno?"
+  },
+  {
+   "tipo": "edge",
+   "question": "Will Philadelphia Eagles finish the 2026-27 NFL regular season with the most return yards?",
+   "slug": "will-philadelphia-eagles-finish-the-2026-27-nfl-regular-season-with-the-most-return-yards-20260716001414220",
+   "url": "https://polymarket.com/market/will-philadelphia-eagles-finish-the-2026-27-nfl-regular-season-with-the-most-return-yards-20260716001414220",
+   "prob_poly": 3.0,
+   "consenso": 31.0,
+   "edge": 28.0,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "Will 17 or more MLB regular-season games go to extra innings from August 12 through August 23, 2026?",
+     "prob": 31.000000000000007,
+     "url": "https://manifold.markets/Web3ICP/will-17-or-more-mlb-regularseason-g-LP0uz6E5Oh",
+     "titulo_es": "¿Irán 17 o más juegos de la temporada regular de la MLB a entradas extra del 12 al 23 de agosto de 2026?"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Deportes",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "Manifold",
+   "razon": "Polymarket paga este mercado a 3.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 31.0%: diferencia de 28.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Terminarán Philadelphia Eagles la temporada regular de la NFL 2026-27 con la mayor cantidad de yardas de retorno?"
+  },
+  {
+   "tipo": "edge",
+   "question": "Mobile Legends Bang Bang: EVOS vs RRQ Hoshi (BO3) - MPL Indonesia Regular Season",
+   "slug": "mlbb-evos-rrq-2026-08-14",
+   "url": "https://polymarket.com/market/mlbb-evos-rrq-2026-08-14",
+   "prob_poly": 58.5,
+   "consenso": 31.0,
+   "edge": -27.5,
+   "direccion": "Polymarket CARO (comprar No)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "Will 17 or more MLB regular-season games go to extra innings from August 12 through August 23, 2026?",
+     "prob": 31.000000000000007,
+     "url": "https://manifold.markets/Web3ICP/will-17-or-more-mlb-regularseason-g-LP0uz6E5Oh",
+     "titulo_es": "¿Irán 17 o más juegos de la temporada regular de la MLB a entradas extra del 12 al 23 de agosto de 2026?"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Otros",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "Manifold",
+   "razon": "Polymarket paga este mercado a 58.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 31.0%: diferencia de 27.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "question_es": "Mobile Legends Bang Bang: EVOS vs RRQ Hoshi (BO3) - Temporada Regular de MPL Indonesia"
+  },
+  {
+   "tipo": "edge",
+   "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
+   "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
+   "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
+   "prob_poly": 17.0,
+   "consenso": 1.0,
+   "edge": -16.0,
+   "direccion": "Polymarket CARO (comprar No)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
+     "prob": 1.0000000000000022,
+     "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
+     "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Politica",
+   "prob": 74,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "Manifold",
+   "razon": "Polymarket paga este mercado a 17.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 16.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
+  },
+  {
+   "tipo": "edge",
+   "question": "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?",
+   "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
+   "url": "https://polymarket.com/market/will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
+   "prob_poly": 2.4,
+   "consenso": 17.1,
+   "edge": 14.7,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "Will at least 1,000 people irregularly enter Ceuta from Morocco on 15 August 2026?",
+     "prob": 17.092687321219614,
+     "url": "https://manifold.markets/JaimeM/will-at-least-1000-people-irregular",
+     "titulo_es": "¿Entrarán irregularmente al menos 1,000 personas a Ceuta desde Marruecos el 15 de agosto de 2026?"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Tecnologia",
+   "prob": 72,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "Manifold",
+   "razon": "Polymarket paga este mercado a 2.4% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 17.1%: diferencia de 14.7 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
   }
  ],
  "top_volumen": [
@@ -32,6 +224,7 @@
    "no": 0.9965,
    "volumen": 9999795.768244999,
    "spread": 0.0,
+   "categoria": "Politica",
    "question_es": "¿Ganará Eric Trump la nominación presidencial republicana de 2028?"
   },
   {
@@ -41,6 +234,7 @@
    "no": 0.965,
    "volumen": 999720.3390389999,
    "spread": 0.0,
+   "categoria": "Economia",
    "question_es": "¿Alcanzará el petróleo crudo un nuevo máximo histórico para el 30 de septiembre?"
   },
   {
@@ -50,6 +244,7 @@
    "no": 0.935,
    "volumen": 996434.2322910003,
    "spread": 0.0,
+   "categoria": "Tecnologia",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
   },
   {
@@ -59,6 +254,7 @@
    "no": 0.977,
    "volumen": 985888.500828,
    "spread": 0.0,
+   "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
@@ -68,6 +264,7 @@
    "no": 0.9935,
    "volumen": 983741.491909,
    "spread": 0.0,
+   "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
@@ -77,6 +274,7 @@
    "no": 0.976,
    "volumen": 99681.46954699996,
    "spread": 0.0,
+   "categoria": "Tecnologia",
    "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
   },
   {
@@ -86,6 +284,7 @@
    "no": 0.855,
    "volumen": 99532.33042,
    "spread": 0.0,
+   "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
@@ -95,6 +294,7 @@
    "no": 0.87,
    "volumen": 99162.08819200004,
    "spread": 0.0,
+   "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
@@ -104,6 +304,7 @@
    "no": 0.9645,
    "volumen": 99159.481818,
    "spread": 0.0,
+   "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
@@ -113,7 +314,158 @@
    "no": 0.925,
    "volumen": 99035.45360200004,
    "spread": 0.0,
+   "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
+  },
+  {
+   "question": "Will Loopscale launch a token by December 31, 2026?",
+   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
+   "yes": 0.135,
+   "no": 0.865,
+   "volumen": 98982.04341899998,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Will Radu Burnete be the next Prime Minister of Romania?",
+   "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
+   "yes": 0.063,
+   "no": 0.937,
+   "volumen": 98922.89304,
+   "spread": 0.0,
+   "categoria": "Politica",
+   "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
+  },
+  {
+   "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
+   "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
+   "yes": 0.32,
+   "no": 0.68,
+   "volumen": 98896.737572,
+   "spread": 0.0,
+   "categoria": "Tecnologia",
+   "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
+  },
+  {
+   "question": "Will CSyD Macará win on 2026-08-13?",
+   "slug": "sud-san-mac-2026-08-13-mac",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 98729.22297100005,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará CSyD Macará el 13 de agosto de 2026?"
+  },
+  {
+   "question": "Will Bitcoin reach $70,000 August 10-16?",
+   "slug": "will-bitcoin-reach-70k-august-10-16-2026",
+   "yes": 0.011,
+   "no": 0.989,
+   "volumen": 98466.83850099996,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Bitcoin los $70,000 del 10 al 16 de agosto?"
+  },
+  {
+   "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
+   "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
+   "yes": 0.0085,
+   "no": 0.9915,
+   "volumen": 98443.77697800001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
+  },
+  {
+   "question": "Will Dogecoin reach $0.15 in August?",
+   "slug": "will-dogecoin-reach-0pt15-in-august-2026",
+   "yes": 0.01,
+   "no": 0.99,
+   "volumen": 9996.76192,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
+  },
+  {
+   "question": "Will Truist fail by end of 2026?",
+   "slug": "will-truist-fail-by-end-of-2026",
+   "yes": 0.0365,
+   "no": 0.9635,
+   "volumen": 9973.222389999999,
+   "spread": 0.0,
+   "categoria": "Tecnologia",
+   "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?",
+   "slug": "will-umich-consumer-sentiment-be-between-52pt0-and-54pt9-in-august-1785878499356",
+   "yes": 0.35,
+   "no": 0.65,
+   "volumen": 9970.821799,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Estará el Sentimiento del Consumidor de UMich entre 52.0 y 54.9 en agosto?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137667,
+   "spread": 0.0,
+   "categoria": "Politica",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
+   "slug": "ukraine-strikes-another-vessel-in-the-black-sea-by-august-15-2026-20260804183343485",
+   "yes": 0.885,
+   "no": 0.115,
+   "volumen": 9966.010564999999,
+   "spread": 0.0,
+   "categoria": "Tecnologia",
+   "question_es": "¿Ucrania ataca otro buque en el Mar Negro antes del 15 de agosto de 2026?"
+  },
+  {
+   "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
+   "slug": "will-xagusd-dip-to-54-in-august-2026",
+   "yes": 0.11,
+   "no": 0.89,
+   "volumen": 9946.068062000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
+  },
+  {
+   "question": "Will Typhoon Dolphin be a \"Very Strong Typhoon\" at Japan landfall?",
+   "slug": "will-typhoon-dolphin-be-a-very-strong-typhoon-at-japan-landfall-20260804170510870",
+   "yes": 0.9945,
+   "no": 0.0055,
+   "volumen": 9942.525255,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
+  },
+  {
+   "question": "Will the highest temperature in Toronto be 28°C on August 13?",
+   "slug": "highest-temperature-in-toronto-on-august-13-2026-28c",
+   "yes": 0.9985,
+   "no": 0.0015,
+   "volumen": 9930.575251000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Toronto de 28°C el 13 de agosto?"
+  },
+  {
+   "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
+   "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
+   "yes": 0.25,
+   "no": 0.75,
+   "volumen": 9920.824999,
+   "spread": 0.0,
+   "categoria": "Politica",
+   "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   }
  ],
  "db_size_mb": 2.46
