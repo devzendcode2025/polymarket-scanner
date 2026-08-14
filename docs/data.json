@@ -1,6 +1,6 @@
 {
- "ts": 1786701269,
- "stamp": "20260814_095429",
+ "ts": 1786701329,
+ "stamp": "20260814_095529",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -326,5 +326,5 @@
    "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 16 de agosto?"
   }
  ],
- "db_size_mb": 10.18
+ "db_size_mb": 10.19
 }
