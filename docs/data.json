@@ -1,30 +1,47 @@
 {
- "ts": 1786721614,
- "stamp": "20260814_153334",
+ "ts": 1786721674,
+ "stamp": "20260814_153434",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x38aae5f85f4ea1da3474ff779979018a5f1c4c9bb3315a1de336c11b6f548920",
-   "titulo": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
-   "slug": "cs2-fut-mouz-2026-08-14",
-   "outcome": "MOUZ",
-   "side": "SELL",
-   "size": 20000.0,
-   "price": 0.61,
-   "usd": 12200.0,
-   "ts": 1786721362,
-   "volumen_mercado": 989126.9841279988,
-   "tags": [],
-   "categoria": "Deportes",
-   "prob": 80,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $12,200 en 'MOUZ' = 1.2% del volumen del mercado ($989,127). Órdenes de este tamaño relativo suelen mover el precio en el corto plazo.",
-   "url": "https://polymarket.com/market/cs2-fut-mouz-2026-08-14",
-   "titulo_es": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Copa Mundial de Esports Grupo C"
+   "market_id": "0x63784eedefbe65b7d81e7dc6e08a698e82d7b11084c6004b42a02f1ea369c829",
+   "titulo": "Counter-Strike: B8 vs Vitality - Map 2 Winner",
+   "slug": "cs2-b8-vit-2026-08-14-game2",
+   "outcome": "B8",
+   "side": "BUY",
+   "size": 2222.0,
+   "price": 0.67,
+   "usd": 1488.74,
+   "ts": 1786721659,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,489 en 'B8'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-b8-vit-2026-08-14-game2",
+   "titulo_es": "Counter-Strike: B8 vs Vitality - Ganador del Mapa 2"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x63784eedefbe65b7d81e7dc6e08a698e82d7b11084c6004b42a02f1ea369c829",
+   "titulo": "Counter-Strike: B8 vs Vitality - Map 2 Winner",
+   "slug": "cs2-b8-vit-2026-08-14-game2",
+   "outcome": "B8",
+   "side": "BUY",
+   "size": 2222.0,
+   "price": 0.6654017102,
+   "usd": 1478.52,
+   "ts": 1786721659,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,479 en 'B8'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-b8-vit-2026-08-14-game2",
+   "titulo_es": "Counter-Strike: B8 vs Vitality - Ganador del Mapa 2"
   }
  ],
  "edges": [
@@ -87,16 +104,6 @@
  ],
  "top_volumen": [
   {
-   "question": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
-   "slug": "cs2-fut-mouz-2026-08-14",
-   "yes": 0.385,
-   "no": 0.615,
-   "volumen": 989126.9841279988,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Copa Mundial de Esports Grupo C"
-  },
-  {
    "question": "Will Yabloko gain the most seats in the next Russian parliamentary election?",
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
@@ -111,7 +118,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0205,
    "no": 0.9795,
-   "volumen": 985974.432663,
+   "volumen": 985974.4326629998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -131,7 +138,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042,
+   "volumen": 99532.33042000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -151,7 +158,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.48181799999,
+   "volumen": 99159.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -161,7 +168,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99069.69360200003,
+   "volumen": 99069.693602,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -211,7 +218,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98404.80752599999,
+   "volumen": 98413.957526,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -227,16 +234,6 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
-   "question": "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?",
-   "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
-   "yes": 0.61,
-   "no": 0.39,
-   "volumen": 9980.737073999999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
-  },
-  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.12,
@@ -249,19 +246,29 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.037,
-   "no": 0.963,
+   "yes": 0.0365,
+   "no": 0.9635,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
+   "question": "Will the highest temperature in Madrid be 40°C on August 14?",
+   "slug": "highest-temperature-in-madrid-on-august-14-2026-40c",
+   "yes": 0.015,
+   "no": 0.985,
+   "volumen": 9970.651382,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Madrid de 40°C el 14 de agosto?"
+  },
+  {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.225,
-   "no": 0.775,
-   "volumen": 9969.309623,
+   "yes": 0.24,
+   "no": 0.76,
+   "volumen": 9969.309623000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -277,11 +284,21 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Games Total: O/U 2.5",
+   "slug": "lol-al-jdg-2026-08-14-total-games-2pt5",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9951.454877,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Total de Juegos: O/U 2.5"
+  },
+  {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.26,
-   "no": 0.74,
-   "volumen": 9948.784999,
+   "yes": 0.255,
+   "no": 0.745,
+   "volumen": 9948.784999000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
@@ -307,26 +324,6 @@
    "question_es": "¿Será Z.ai la segunda mejor empresa china de IA a finales de agosto de 2026?"
   },
   {
-   "question": "Games Total: O/U 2.5",
-   "slug": "lol-al-jdg-2026-08-14-total-games-2pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9945.304876999999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Total de Juegos: O/U 2.5"
-  },
-  {
-   "question": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A",
-   "slug": "cs2-jjh-aur1-2026-08-15",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 9920.848541000001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Copa Mundial de Esports Grupo A"
-  },
-  {
    "question": "Will Thinky have the best AI model at the end of September 2026?",
    "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
    "yes": 0.0015,
@@ -335,7 +332,27 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
+  },
+  {
+   "question": "Will the Democratic Party win the AR-01 House seat?",
+   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
+   "yes": 0.0155,
+   "no": 0.9845,
+   "volumen": 9914.337593,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
+  },
+  {
+   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
+   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9905.121829,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
   }
  ],
- "db_size_mb": 14.67
+ "db_size_mb": 14.75
 }
