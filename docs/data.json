@@ -1,28 +1,47 @@
 {
- "ts": 1786671501,
- "stamp": "20260814_013821",
+ "ts": 1786671861,
+ "stamp": "20260814_014421",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x6001eea8fd2aad68d5ec8f01f517d832ce3a3ed1714b825ef293b8c9370708ca",
-   "titulo": "Will Portland Timbers win on 2026-08-13?",
-   "slug": "lec-por-tij-2026-08-13-por",
-   "outcome": "Yes",
+   "market_id": "0xfda5ad9d3708e31172d5f1294ba2483b661576733f0c05b44073e8a5c4d5a04e",
+   "titulo": "Portland Timbers vs. Club Tijuana: O/U 1.5",
+   "slug": "lec-por-tij-2026-08-13-total-1pt5",
+   "outcome": "Over",
    "side": "BUY",
-   "size": 3000.0,
-   "price": 0.59,
-   "usd": 1770.0,
-   "ts": 1786671228,
+   "size": 6348.57,
+   "price": 0.87,
+   "usd": 5523.26,
+   "ts": 1786671820,
+   "categoria": "Otros",
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,523 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lec-por-tij-2026-08-13-total-1pt5",
+   "titulo_es": "Portland Timbers vs. Club Tijuana: Más/Menos 1.5"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x3a2ef65b2988a853b16ca1b00cabaef5d425e6962b657bba49140f9bc94c7c88",
+   "titulo": "National Bank Open: Ben Shelton vs Brandon Nakashima",
+   "slug": "atp-shelton-nakashi-2026-08-13",
+   "outcome": "Ben Shelton",
+   "side": "SELL",
+   "size": 1363.63,
+   "price": 0.999,
+   "usd": 1362.27,
+   "ts": 1786671828,
    "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,770 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lec-por-tij-2026-08-13-por",
-   "titulo_es": "¿Ganará Portland Timbers el 13 de agosto de 2026?"
+   "razon": "Trade de venta por $1,362 en 'Ben Shelton'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-shelton-nakashi-2026-08-13",
+   "titulo_es": "Abierto del Banco Nacional: Ben Shelton vs Brandon Nakashima"
   }
  ],
  "edges": [
@@ -149,8 +168,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.063,
-   "no": 0.937,
+   "yes": 0.0625,
+   "no": 0.9375,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -179,8 +198,8 @@
   {
    "question": "Will CF Cruz Azul win on 2026-08-13?",
    "slug": "lec-caz-chi-2026-08-13-caz",
-   "yes": 0.365,
-   "no": 0.635,
+   "yes": 0.355,
+   "no": 0.645,
    "volumen": 98610.42823800001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -199,8 +218,8 @@
   {
    "question": "Will Bitcoin reach $70,000 August 10-16?",
    "slug": "will-bitcoin-reach-70k-august-10-16-2026",
-   "yes": 0.012,
-   "no": 0.988,
+   "yes": 0.0095,
+   "no": 0.9905,
    "volumen": 98466.83850099996,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -239,8 +258,8 @@
   {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.009,
-   "no": 0.991,
+   "yes": 0.0105,
+   "no": 0.9895,
    "volumen": 9996.76192,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -249,8 +268,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.124,
-   "no": 0.876,
+   "yes": 0.1215,
+   "no": 0.8785,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -259,8 +278,8 @@
   {
    "question": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
    "slug": "ukraine-strikes-another-vessel-in-the-black-sea-by-august-15-2026-20260804183343485",
-   "yes": 0.865,
-   "no": 0.135,
+   "yes": 0.875,
+   "no": 0.125,
    "volumen": 9974.530565,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -269,8 +288,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -307,5 +326,5 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
- "db_size_mb": 3.49
+ "db_size_mb": 3.61
 }
