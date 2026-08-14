@@ -1,45 +1,27 @@
 {
- "ts": 1786666399,
- "stamp": "20260814_001319",
+ "ts": 1786666459,
+ "stamp": "20260814_001419",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x2a662fee768b2d7ee1a2e9fff20f324eaae0a2f95d8b67c1f385e3bdb2f1b1d2",
-   "titulo": "US announces end of Iranian blockade by August 13, 2026?",
-   "slug": "us-announces-end-of-iranian-blockade-by-august-13-2026",
-   "outcome": "No",
+   "market_id": "0x11f7a7f4b47f3f1af8518b3632451503b2f6fa2fb2540dc6b576589ae6726b72",
+   "titulo": "Packers vs. Steelers",
+   "slug": "nfl-gb-pit-2026-08-13",
+   "outcome": "Steelers",
    "side": "BUY",
-   "size": 5451.21,
-   "price": 0.998,
-   "usd": 5440.31,
-   "ts": 1786666129,
-   "prob": 60,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,440 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/us-announces-end-of-iranian-blockade-by-august-13-2026",
-   "titulo_es": "¿EE. UU. anuncia el fin del bloqueo iraní para el 13 de agosto de 2026?"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x258b7478bbc5bd518ed41dc5c52fc493945125753cda05801abd93f5bc3142ad",
-   "titulo": "Will CF América win on 2026-08-13?",
-   "slug": "lec-ame-aus-2026-08-13-ame",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 4834.0,
-   "price": 0.49,
-   "usd": 2368.66,
-   "ts": 1786666122,
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,369 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lec-ame-aus-2026-08-13-ame",
-   "titulo_es": "¿Ganará el CF América el 13 de agosto de 2026?"
+   "size": 3931.82,
+   "price": 0.43,
+   "usd": 1690.68,
+   "ts": 1786666432,
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,691 en 'Steelers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/nfl-gb-pit-2026-08-13",
+   "titulo_es": "Packers vs. Steelers"
   }
  ],
  "top_volumen": [
@@ -109,8 +91,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -134,5 +116,5 @@
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
   }
  ],
- "db_size_mb": 2.34
+ "db_size_mb": 2.4
 }
