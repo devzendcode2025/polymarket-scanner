@@ -10,6 +10,27 @@
 
 ---
 
+## HOJA DE RUTA — para retomar desde la PC
+
+El sistema está COMPLETO y corriendo solo (scan 1/min + backup 03:00 UTC + sitio auto-publicado). Lo que falta es producto y precisión, no infraestructura. Orden sugerido:
+
+1. **Depurar matching de edges** — hoy cruza solo el MISMO evento (tokens raros + categoría): precisión alta, recall bajo (1-2 edges/día). Mejora: embeddings + similitud coseno (sin API) o DeepSeek confirmando pares candidatos. Objetivo: 5-15 edges legítimos/día.
+2. **F4 narración DeepSeek** — justificaciones redactadas con contexto (la razón heurística ya existe; F4 la enriquece). Clave YA autorizada y en uso para traducción.
+3. **F5 piloto Perú** — verificar el filtro de país con mercados peruanos reales; ajustar keywords si hace falta.
+4. **Afinar mispricings** — barrer mercados de menor volumen (hoy los top-200 líquidos son eficientes → 0 señales).
+5. **Backtest Fase 2** — momentum/contrarian con el historial de snapshots acumulado.
+6. **Histórico de aciertos** — trackear cuántos edges/ballenas convergen (marketing: "nuestras señales aciertan X%").
+7. **Canal X/Telegram** — publicar detecciones gratis + suscripciones USDC ($10-25/mes).
+8. **On-ramps USDC Nicaragua** — verificación manual (p2p.binance.com fiat NIO, moonpay.com, transak.com).
+9. **Validar Azuro** — liquidez real, fees, gas (Fase 4 trading).
+10. **Firebase/cPanel/dominio** — fase futura (el estático migra sin cambios).
+
+**Costos activos:** DeepSeek solo traduce títulos NUEVOS (caché SQLite) → centavos el primer día, ~$0 después. Fuentes externas (Kalshi/Manifold/PredictIt) consultadas cada 10 min vía caché. Sin otros gastos.
+
+**Limitaciones conocidas (documentadas):** Metaculus exige cuenta (fuera); matching de edges estricto a propósito (precisión > cantidad); las probabilidades son heurísticas, no garantías (avisado en el pie del sitio).
+
+---
+
 ## Registro de decisiones
 
 ### 2026-08-13 — Creación del proyecto

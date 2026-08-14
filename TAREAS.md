@@ -45,6 +45,7 @@
 - [ ] Firebase Firestore + dominio propio + cPanel: FASE FUTURA (usuario decidió dejarlo para adelante; el HTML estático migra sin cambios)
 - [ ] Canal Telegram público (detecciones gratis)
 - [ ] Canal Telegram pago: alertas ballenas $10/mes, scanner $20/mes, combo $25/mes (pago en USDC)
+- [ ] HISTÓRICO DE ACIERTOS: trackear convergencia de edges/ballenas (marketing "nuestras señales aciertan X%")
 - [ ] Boletín semanal (Substack) — mes 2-3
 - [ ] Venta B2B del feed (mes 3+): $50-200/mes por cliente
 
