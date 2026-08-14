@@ -1,47 +1,66 @@
 {
- "ts": 1786701509,
- "stamp": "20260814_095829",
+ "ts": 1786701869,
+ "stamp": "20260814_100429",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9eb0fe0ef437ac2c66abc3c424d1dd4a2d8e165d679687e884f3c6db49becc0a",
-   "titulo": "Cincinnati Open: Mark Lajal vs Juan Manuel Cerundolo",
-   "slug": "atp-lajal-cerund-2026-08-14",
-   "outcome": "Mark Lajal",
+   "market_id": "0x3602396cedd9974d00a67b3b8ca1109e55d045a2187a995605021b80294b993c",
+   "titulo": "Valorant: Team Secret vs Xipto Esports (BO3) - VCT Pacific Play-In",
+   "slug": "val-ts3-xe-2026-08-14",
+   "outcome": "Xipto Esports",
    "side": "BUY",
-   "size": 10518.92,
-   "price": 0.5,
-   "usd": 5259.46,
-   "ts": 1786701247,
+   "size": 10000.0,
+   "price": 0.47630339,
+   "usd": 4763.03,
+   "ts": 1786701849,
    "categoria": "Deportes",
    "prob": 59,
-   "confianza": "alta",
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $5,259 en 'Mark Lajal'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-lajal-cerund-2026-08-14",
-   "titulo_es": "Cincinnati Open: Mark Lajal vs Juan Manuel Cerundolo"
+   "razon": "Trade de compra por $4,763 en 'Xipto Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-ts3-xe-2026-08-14",
+   "titulo_es": "Valorant: Team Secret vs Xipto Esports (BO3) - VCT Pacific Play-In"
   },
   {
    "tipo": "ballena",
-   "market_id": "0x7d0aaf81bbd3fd73b6a1651cce08a452c0cbf9c0cbb4520ce0f981065b639d88",
-   "titulo": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
-   "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 5061.0,
-   "price": 0.996,
-   "usd": 5040.76,
-   "ts": 1786701253,
-   "categoria": "Cripto",
-   "prob": 59,
-   "confianza": "alta",
+   "market_id": "0xde198e0dba757eb35ab94d3fde9efd2550bc6348234eb4776d867349063431c1",
+   "titulo": "Dota 2: Vici Gaming vs GamerLegion - Game 2 Winner",
+   "slug": "dota2-vg-gl-2026-08-14-game2",
+   "outcome": "Vici Gaming",
+   "side": "SELL",
+   "size": 2999.99,
+   "price": 0.999,
+   "usd": 2996.99,
+   "ts": 1786701850,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $5,041 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia",
-   "titulo_es": "¿Será Adanech Abiebie el próximo Primer Ministro de Etiopía?"
+   "razon": "Trade de venta por $2,997 en 'Vici Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-vg-gl-2026-08-14-game2",
+   "titulo_es": "Dota 2: Vici Gaming vs GamerLegion - Ganador del Juego 2"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x7a3217f57f200e622b94b25d8681332cdc922c4a600edf084bb83c86aa014058",
+   "titulo": "Bitcoin Up or Down - August 14, 6:00AM-6:05AM ET",
+   "slug": "btc-updown-5m-1786701600",
+   "outcome": "Up",
+   "side": "BUY",
+   "size": 1122.2222,
+   "price": 0.99,
+   "usd": 1111.0,
+   "ts": 1786701847,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,111 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786701600",
+   "titulo_es": "Bitcoin al alza o a la baja - 14 de agosto, 6:00AM-6:05AM ET"
   }
  ],
  "edges": [
@@ -80,7 +99,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0215,
    "no": 0.9785,
-   "volumen": 985888.5008280003,
+   "volumen": 985888.5008280001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -98,8 +117,8 @@
   {
    "question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99705.23998799997,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -110,7 +129,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33041999997,
+   "volumen": 99532.33042000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -120,7 +139,7 @@
    "slug": "ethereum-above-2000-on-august-14-2026",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 99264.31853400002,
+   "volumen": 99276.23953400005,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Ethereum por encima de $2,000 el 14 de agosto?"
@@ -140,7 +159,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.48181800001,
+   "volumen": 99159.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -150,7 +169,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99069.693602,
+   "volumen": 99069.69360200003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -180,20 +199,10 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.29,
    "no": 0.71,
-   "volumen": 98896.73757199998,
+   "volumen": 98896.737572,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
-  },
-  {
-   "question": "Will Bitcoin reach $65,000 in August?",
-   "slug": "will-bitcoin-reach-65k-in-august-2026-from-august-10",
-   "yes": 0.585,
-   "no": 0.415,
-   "volumen": 98890.406374,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Bitcoin los $65,000 en agosto?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -216,16 +225,6 @@
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
   },
   {
-   "question": "ITF W50 Hamburg Women: Anna Siskova vs Merel Hoedt",
-   "slug": "itf-siskova-hoedt-2026-08-14",
-   "yes": 0.96,
-   "no": 0.04,
-   "volumen": 9999.381910000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "ITF W50 Hamburgo Femenino: Anna Siskova vs Merel Hoedt"
-  },
-  {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
    "yes": 0.009,
@@ -236,21 +235,11 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
-   "question": "Will Bitcoin dip to $61,000 on August 14?",
-   "slug": "will-bitcoin-dip-to-61k-on-august-14",
-   "yes": 0.033,
-   "no": 0.967,
-   "volumen": 9980.112125,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Caerá Bitcoin a $61,000 el 14 de agosto?"
-  },
-  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1205,
    "no": 0.8795,
-   "volumen": 9974.940754000001,
+   "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -258,8 +247,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0375,
-   "no": 0.9625,
+   "yes": 0.0385,
+   "no": 0.9615,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -268,9 +257,9 @@
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.25,
-   "no": 0.75,
-   "volumen": 9969.309623000003,
+   "yes": 0.255,
+   "no": 0.745,
+   "volumen": 9969.309623000005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -280,7 +269,7 @@
    "slug": "will-enzo-fernandez-join-manchester-city",
    "yes": 0.58,
    "no": 0.42,
-   "volumen": 9968.588160999996,
+   "volumen": 9968.588161,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Se unirá Enzo Fernández al Manchester City?"
@@ -298,9 +287,9 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.265,
-   "no": 0.735,
-   "volumen": 9948.784999,
+   "yes": 0.26,
+   "no": 0.74,
+   "volumen": 9948.784999000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
@@ -308,23 +297,53 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   },
   {
-   "question": "Will the price of Bitcoin be above $64,000 on August 16?",
-   "slug": "bitcoin-above-64k-on-august-16-2026",
-   "yes": 0.115,
-   "no": 0.885,
-   "volumen": 9936.845699999998,
+   "question": "Tōkyō Verdy vs. Kashiwa Reysol: O/U 0.5",
+   "slug": "jap-fct1-rey-2026-08-14-total-0pt5",
+   "yes": 0.895,
+   "no": 0.105,
+   "volumen": 9943.612953999998,
    "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 16 de agosto?"
+   "categoria": "Otros",
+   "question_es": "Tōkyō Verdy vs. Kashiwa Reysol: Más/Menos 0.5"
+  },
+  {
+   "question": "Will Thinky have the best AI model at the end of September 2026?",
+   "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9918.892000000002,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
+  },
+  {
+   "question": "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?",
+   "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
+   "yes": 0.61,
+   "no": 0.39,
+   "volumen": 9916.220947999998,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
+  },
+  {
+   "question": "Will the Democratic Party win the AR-01 House seat?",
+   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
+   "yes": 0.0155,
+   "no": 0.9845,
+   "volumen": 9914.337593,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 10.19
+ "db_size_mb": 10.31
 }
