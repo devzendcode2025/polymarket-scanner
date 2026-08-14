@@ -1,68 +1,10 @@
 {
- "ts": 1786718614,
- "stamp": "20260814_144334",
+ "ts": 1786718974,
+ "stamp": "20260814_144934",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x92a7633ebba21b6e816bb0af38a51a17fbb56afa99df148074f6aebc6d5d222d",
-   "titulo": "Will Team Spirit Win the CS2 EWC 2026?",
-   "slug": "will-team-spirit-win-the-cs2-ewc-2026-20260810160005084",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 40031.26,
-   "price": 0.83,
-   "usd": 33225.95,
-   "ts": 1786718362,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $33,226 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-team-spirit-win-the-cs2-ewc-2026-20260810160005084",
-   "titulo_es": "¿Ganará Team Spirit el CS2 EWC 2026?"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x8cb6397eb801be6c6aa2e176e3bf32fdfed2aeaaac16061cb6e85d10cacca393",
-   "titulo": "Will Team Falcons Win the CS2 EWC 2026?",
-   "slug": "will-team-falcons-win-the-cs2-ewc-2026-20260810160005085",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 9916.25,
-   "price": 0.83,
-   "usd": 8230.49,
-   "ts": 1786718356,
-   "categoria": "Otros",
-   "prob": 64,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $8,230 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-team-falcons-win-the-cs2-ewc-2026-20260810160005085",
-   "titulo_es": "¿Ganará Team Falcons el CS2 EWC 2026?"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3ae1308e51206a98e16813ab3461b8456c505d8e54624d2c0b8861e0a0a2b4c3",
-   "titulo": "Cincinnati Open: Kyrian Jacquet vs Adolfo Vallejo",
-   "slug": "atp-jacquet-vallejo-2026-08-14",
-   "outcome": "Adolfo Vallejo",
-   "side": "BUY",
-   "size": 11805.887836,
-   "price": 0.3557546927,
-   "usd": 4200.0,
-   "ts": 1786718346,
-   "categoria": "Deportes",
-   "prob": 58,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,200 en 'Adolfo Vallejo'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-jacquet-vallejo-2026-08-14",
-   "titulo_es": "Abierto de Cincinnati: Kyrian Jacquet vs Adolfo Vallejo"
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -99,7 +41,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 987272.173522,
+   "volumen": 987374.173522,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -109,7 +51,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0205,
    "no": 0.9795,
-   "volumen": 985894.4326629998,
+   "volumen": 985974.4326629998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -149,7 +91,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.48181799999,
+   "volumen": 99159.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -235,6 +177,16 @@
    "question_es": "¿Estará el precio de Ethereum entre $1,900 y $2,000 el 14 de agosto?"
   },
   {
+   "question": "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?",
+   "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
+   "yes": 0.61,
+   "no": 0.39,
+   "volumen": 9980.737074,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
+  },
+  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1205,
@@ -247,8 +199,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0325,
-   "no": 0.9675,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -257,9 +209,9 @@
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.39,
-   "no": 0.61,
-   "volumen": 9969.309622999994,
+   "yes": 0.225,
+   "no": 0.775,
+   "volumen": 9969.309623000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -285,20 +237,10 @@
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   },
   {
-   "question": "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?",
-   "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
-   "yes": 0.61,
-   "no": 0.39,
-   "volumen": 9948.479011,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
-  },
-  {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.055,
-   "no": 0.945,
+   "yes": 0.065,
+   "no": 0.935,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -307,22 +249,12 @@
   {
    "question": "Will Z.ai be the second-best Chinese AI company at the end of August 2026?",
    "slug": "will-zptai-be-the-second-best-chinese-ai-company-at-the-end-of-august-2026-20260720223339926",
-   "yes": 0.2735,
-   "no": 0.7265,
-   "volumen": 9945.378467,
+   "yes": 0.273,
+   "no": 0.727,
+   "volumen": 9945.378466999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Z.ai la segunda mejor empresa china de IA a finales de agosto de 2026?"
-  },
-  {
-   "question": "Cincinnati Open: Daniel Merida Aguilar vs Marin Cilic",
-   "slug": "atp-aguilar-cilic-2026-08-13",
-   "yes": 0.535,
-   "no": 0.465,
-   "volumen": 9938.405160000002,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Daniel Merida Aguilar vs Marin Cilic"
   },
   {
    "question": "Games Total: O/U 2.5",
@@ -343,7 +275,17 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Copa Mundial de Esports Grupo A"
+  },
+  {
+   "question": "Will Thinky have the best AI model at the end of September 2026?",
+   "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9918.892000000002,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 13.99
+ "db_size_mb": 14.11
 }
