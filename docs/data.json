@@ -1,47 +1,28 @@
 {
- "ts": 1786697908,
- "stamp": "20260814_085828",
+ "ts": 1786697968,
+ "stamp": "20260814_085928",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7d0aaf81bbd3fd73b6a1651cce08a452c0cbf9c0cbb4520ce0f981065b639d88",
-   "titulo": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
-   "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 5082.0,
-   "price": 0.996,
-   "usd": 5061.67,
-   "ts": 1786697641,
+   "market_id": "0xe7b18e622e62ca2c8e3a26a1c5c09e191992ba04d0575fbd8a6c1d8c12e75ccc",
+   "titulo": "Bitcoin Up or Down - August 14, 4AM ET",
+   "slug": "bitcoin-up-or-down-august-14-2026-4am-et",
+   "outcome": "Up",
+   "side": "SELL",
+   "size": 1264.96,
+   "price": 0.8421445737,
+   "usd": 1065.28,
+   "ts": 1786697944,
    "categoria": "Cripto",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,062 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia",
-   "titulo_es": "¿Será Adanech Abiebie el próximo Primer Ministro de Etiopía?"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xcaecc3644c77affe8d10bb1f5d0b3ca24960f7fce75f117fc8475b6bccd67184",
-   "titulo": "Will Vitória SC win on 2026-08-14?",
-   "slug": "por-spo-gui-2026-08-14-gui",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2197.802188,
-   "price": 0.91,
-   "usd": 2000.0,
-   "ts": 1786697647,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/por-spo-gui-2026-08-14-gui",
-   "titulo_es": "¿Ganará el Vitória SC el 2026-08-14?"
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,065 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-up-or-down-august-14-2026-4am-et",
+   "titulo_es": "Bitcoin Sube o Baja - 14 de agosto, 4AM ET"
   }
  ],
  "edges": [
@@ -238,8 +219,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.035,
+   "no": 0.965,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -268,8 +249,8 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.26,
-   "no": 0.74,
+   "yes": 0.265,
+   "no": 0.735,
    "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
@@ -326,5 +307,5 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 9.36
+ "db_size_mb": 9.4
 }
