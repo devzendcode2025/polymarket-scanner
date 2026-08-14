@@ -1,28 +1,28 @@
 {
- "ts": 1786714713,
- "stamp": "20260814_133833",
+ "ts": 1786715073,
+ "stamp": "20260814_134433",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xef6e9dec1709d535cb7bef116db701de00f1255a5033e3786a1e1996a12e0609",
-   "titulo": "Will Shandong Taishan FC win on 2026-08-14?",
-   "slug": "chi-sha-hai-2026-08-14-sha",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 1992.5,
-   "price": 0.999,
-   "usd": 1990.51,
-   "ts": 1786714458,
-   "categoria": "Tecnología",
-   "prob": 54,
+   "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+   "titulo": "Will Renan Santos win the 2026 Brazilian presidential election?",
+   "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1338.61,
+   "price": 0.9299811147,
+   "usd": 1244.88,
+   "ts": 1786715058,
+   "categoria": "Política",
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,991 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/chi-sha-hai-2026-08-14-sha",
-   "titulo_es": "¿Ganará el Shandong Taishan FC el 2026-08-14?"
+   "razon": "Trade de compra por $1,245 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-renan-santos-win-the-2026-brazilian-presidential-election",
+   "titulo_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
   }
  ],
  "edges": [
@@ -31,9 +31,9 @@
    "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
-   "prob_poly": 17.5,
+   "prob_poly": 17.0,
    "consenso": 1.0,
-   "edge": -16.5,
+   "edge": -16.0,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -41,7 +41,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
+     "_poly_question": "Will QHP win the most seats in the 2026 Kazakh Kurultai elections?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -51,36 +51,8 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 17.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 16.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 17.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 16.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
-  },
-  {
-   "tipo": "edge",
-   "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
-   "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "prob_poly": 43.0,
-   "consenso": 34.5,
-   "edge": -8.5,
-   "direccion": "Polymarket CARO (comprar No)",
-   "fuentes": [
-    {
-     "fuente": "Manifold",
-     "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
-     "prob": 34.53783434138884,
-     "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
-     "_poly_question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
-     "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Entretenimiento",
-   "prob": 65,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 43.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 8.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
-   "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
  "top_volumen": [
@@ -207,8 +179,8 @@
   {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.009,
-   "no": 0.991,
+   "yes": 0.0085,
+   "no": 0.9915,
    "volumen": 9996.76192,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -217,8 +189,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1205,
-   "no": 0.8795,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -227,8 +199,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.048,
-   "no": 0.952,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -237,8 +209,8 @@
   {
    "question": "Will Cagliari Calcio win on 2026-08-14?",
    "slug": "itc-cag-are-2026-08-14-cag",
-   "yes": 0.61,
-   "no": 0.39,
+   "yes": 0.615,
+   "no": 0.385,
    "volumen": 9971.781872,
    "spread": 0.0,
    "categoria": "Otros",
@@ -267,8 +239,8 @@
   {
    "question": "Will the highest temperature in Lucknow be 34°C on August 14?",
    "slug": "highest-temperature-in-lucknow-on-august-14-2026-34c",
-   "yes": 0.9985,
-   "no": 0.0015,
+   "yes": 0.999,
+   "no": 0.001,
    "volumen": 9961.876333,
    "spread": 0.0,
    "categoria": "Otros",
@@ -277,8 +249,8 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.235,
-   "no": 0.765,
+   "yes": 0.27,
+   "no": 0.73,
    "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
@@ -297,8 +269,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.06,
-   "no": 0.94,
+   "yes": 0.055,
+   "no": 0.945,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -335,5 +307,5 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 13.13
+ "db_size_mb": 13.26
 }
