@@ -32,6 +32,7 @@ def main():
         "mispricings": r["mispricings"],
         "momentum": r["momentum"],
         "ballenas_scan": r["ballenas"],
+        "top_volumen": r.get("top_volumen", []),
         "db_size_mb": r.get("db_size_mb", 0),
     }
     os.makedirs(os.path.dirname(OUT), exist_ok=True)

@@ -52,6 +52,12 @@ CREATE TABLE IF NOT EXISTS scans (
     detections INTEGER,
     summary TEXT
 );
+
+CREATE TABLE IF NOT EXISTS translations (
+    source TEXT PRIMARY KEY,
+    target TEXT,
+    ts INTEGER
+);
 """
 
 
@@ -126,6 +132,30 @@ def log_scan(conn, markets_seen, detections, summary):
         "INSERT INTO scans (ts, markets_seen, detections, summary) VALUES (?,?,?,?)",
         (int(time.time()), markets_seen, detections, summary),
     )
+    conn.commit()
+
+
+def get_translations(conn, sources):
+    """Devuelve {source: target} para los textos ya traducidos (cache)."""
+    cur = conn.cursor()
+    out = {}
+    for s in sources:
+        cur.execute("SELECT target FROM translations WHERE source = ?", (s,))
+        row = cur.fetchone()
+        if row:
+            out[s] = row[0]
+    return out
+
+
+def save_translations(conn, pairs):
+    """Guarda traducciones nuevas {source: target}."""
+    cur = conn.cursor()
+    now = int(time.time())
+    for s, t in pairs.items():
+        cur.execute(
+            "INSERT OR REPLACE INTO translations (source, target, ts) VALUES (?,?,?)",
+            (s, t, now),
+        )
     conn.commit()
 
 

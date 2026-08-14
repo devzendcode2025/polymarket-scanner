@@ -21,6 +21,7 @@ import polymarket_client as pc  # noqa: E402
 import db as dbmod  # noqa: E402
 import scanner  # noqa: E402
 import analyst  # noqa: E402
+import translate  # noqa: E402
 
 PROYECTO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 WORKSPACE = os.path.join(PROYECTO, "workspace")
@@ -113,6 +114,26 @@ def main():
     mispricings, whales, momentum = analyst.enrich(mispricings, whales, momentum)
     print(f"  Analisis: {sum(1 for d in mispricings + whales + momentum if d.get('confianza') == 'alta')} senales de confianza alta")
 
+    # 3c. Traduccion de titulos al espanol (DeepSeek + cache SQLite; fallback silencioso)
+    top_volumen = [
+        {"question": m["question"], "slug": m.get("slug"), "yes": m["yes"], "no": m["no"],
+         "volumen": m["volume"], "spread": m["spread"]}
+        for m in sorted(markets, key=lambda x: x["volume"], reverse=True)[:10]
+    ]
+    textos = ([d["question"] for d in mispricings] + [d["titulo"] for d in whales] +
+              [d["question"] for d in momentum] + [m["question"] for m in top_volumen])
+    trad = translate.traducir(conn, textos)
+    print(f"  Traducciones: {len(trad)} titulos al espanol")
+    for d in mispricings + momentum:
+        if d["question"] in trad:
+            d["question_es"] = trad[d["question"]]
+    for d in whales:
+        if d["titulo"] in trad:
+            d["titulo_es"] = trad[d["titulo"]]
+    for m in top_volumen:
+        if m["question"] in trad:
+            m["question_es"] = trad[m["question"]]
+
     # 4. Reporte
     report = {
         "ts": ts,
@@ -123,11 +144,7 @@ def main():
         "mispricings": mispricings,
         "ballenas": whales,
         "momentum": momentum,
-        "top_volumen": [
-            {"question": m["question"], "yes": m["yes"], "no": m["no"],
-             "volumen": m["volume"], "spread": m["spread"]}
-            for m in sorted(markets, key=lambda x: x["volume"], reverse=True)[:10]
-        ],
+        "top_volumen": top_volumen,
     }
     os.makedirs(REPORTS, exist_ok=True)
     json_path = os.path.join(REPORTS, f"scan_{stamp}.json")
@@ -139,16 +156,17 @@ def main():
         f.write(scanner.build_summary(markets, mispricings, whales, momentum) + "\n\n")
         f.write("=== MISPRICINGS ===\n")
         for d in mispricings[:10]:
-            f.write(f"  {d['question']}\n    Yes {d['yes']} + No {d['no']} = {d['sum']} "
+            f.write(f"  {d.get('question_es') or d['question']}\n"
+                    f"    Yes {d['yes']} + No {d['no']} = {d['sum']} "
                     f"(desvio {d['desvio']}) -> {d['direccion']} | vol ${d['volumen']:,.0f}\n"
                     f"    Prob {d['prob']}% ({d['confianza']}, {d['horizonte']}) | {d['url']}\n")
         f.write("\n=== BALLENAS ===\n")
         for d in whales[:10]:
-            f.write(f"  {d['side']} ${d['usd']:,.0f} en '{d['outcome']}' - {d['titulo']} "
+            f.write(f"  {d['side']} ${d['usd']:,.0f} en '{d['outcome']}' - {d.get('titulo_es') or d['titulo']} "
                     f"| prob {d['prob']}% ({d['confianza']}, {d['horizonte']}) | {d['url']}\n")
         f.write("\n=== MOMENTUM ===\n")
         for d in momentum[:10]:
-            f.write(f"  {d['direccion']} {d['cambio_pct']}% -> '{d['question']}' "
+            f.write(f"  {d['direccion']} {d['cambio_pct']}% -> '{d.get('question_es') or d['question']}' "
                     f"(yes {d['yes_antes']} -> {d['yes_ahora']}) "
                     f"| prob {d['prob']}% ({d['confianza']}, {d['horizonte']}) | {d['url']}\n")
 
