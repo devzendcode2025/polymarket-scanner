@@ -1,47 +1,28 @@
 {
- "ts": 1786698808,
- "stamp": "20260814_091328",
+ "ts": 1786698868,
+ "stamp": "20260814_091428",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x83c71e47035e6c6ca622cb40a83bcf92e9e2321de43d39a6f8a20f33fb538509",
-   "titulo": "LoL: Team WE vs Top Esports (BO3) - LPL Group Ascend",
-   "slug": "lol-we-tes-2026-08-14",
-   "outcome": "Team WE",
+   "market_id": "0xe0353972c6a45ba65d89c2e50523916a486ee7d51d873ea4a9a0e6b4371e611f",
+   "titulo": "Bitcoin Up or Down - August 14, 5:10AM-5:15AM ET",
+   "slug": "btc-updown-5m-1786698600",
+   "outcome": "Down",
    "side": "BUY",
-   "size": 9238.09,
-   "price": 0.31,
-   "usd": 2863.81,
-   "ts": 1786698546,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,864 en 'Team WE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-we-tes-2026-08-14",
-   "titulo_es": "LoL: Team WE vs Top Esports (BO3) - LPL Grupo Ascend"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x46ca741da4abd7ffa993f59ac65bfe83de43ae027accac71d263a493e44064e7",
-   "titulo": "US announces end of Iranian blockade by December 31, 2026?",
-   "slug": "us-announces-end-of-iranian-blockade-by-december-31-2026-20260727171803489-375-949-645-919-269-157",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 2000.0,
-   "price": 0.791350185,
-   "usd": 1582.7,
-   "ts": 1786698540,
-   "categoria": "Otros",
-   "prob": 54,
+   "size": 1122.222221,
+   "price": 0.9899999993,
+   "usd": 1111.0,
+   "ts": 1786698844,
+   "categoria": "Cripto",
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,583 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/us-announces-end-of-iranian-blockade-by-december-31-2026-20260727171803489-375-949-645-919-269-157",
-   "titulo_es": "¿EE.UU. anuncia el fin del bloqueo iraní para el 31 de diciembre de 2026?"
+   "razon": "Trade de compra por $1,111 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786698600",
+   "titulo_es": "Bitcoin Sube o Baja - 14 de agosto, 5:10AM-5:15AM ET"
   }
  ],
  "edges": [
@@ -98,8 +79,8 @@
   {
    "question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99621.41317100001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -228,8 +209,8 @@
   {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.009,
-   "no": 0.991,
+   "yes": 0.01,
+   "no": 0.99,
    "volumen": 9996.76192,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -298,8 +279,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 16?",
    "slug": "bitcoin-above-64k-on-august-16-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 9919.596276999999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -326,5 +307,5 @@
    "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
   }
  ],
- "db_size_mb": 9.54
+ "db_size_mb": 9.6
 }
