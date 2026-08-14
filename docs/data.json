@@ -1,28 +1,47 @@
 {
- "ts": 1786692206,
- "stamp": "20260814_072326",
+ "ts": 1786692266,
+ "stamp": "20260814_072426",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa8672dd0290cd9ca36a08bd59f265890845da0a70f27340f8bbfdd3fda186f60",
-   "titulo": "LoL: EDward Gaming vs LGD Gaming - Game 1 Winner",
-   "slug": "lol-edg-lgd-2026-08-14-game1",
-   "outcome": "LGD Gaming",
-   "side": "BUY",
-   "size": 4207.322056,
-   "price": 0.6790875431,
-   "usd": 2857.14,
-   "ts": 1786691941,
+   "market_id": "0x1d1541a15f8dd93ac076043725805da29ce680e1bdb373689acc41218ab226d0",
+   "titulo": "Dota 2: LGD Gaming vs Nigma Galaxy - Game 2 Winner",
+   "slug": "dota2-lgd-ngx-2026-08-14-game2",
+   "outcome": "Nigma Galaxy",
+   "side": "SELL",
+   "size": 2499.99,
+   "price": 0.999,
+   "usd": 2497.49,
+   "ts": 1786692238,
    "categoria": "Deportes",
-   "prob": 56,
+   "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,857 en 'LGD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-edg-lgd-2026-08-14-game1",
-   "titulo_es": "LoL: EDward Gaming vs LGD Gaming - Ganador del Juego 1"
+   "razon": "Trade de venta por $2,497 en 'Nigma Galaxy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-lgd-ngx-2026-08-14-game2",
+   "titulo_es": "Dota 2: LGD Gaming vs Nigma Galaxy - Ganador del Juego 2"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x44069f0fa42ed23885d631fcf162f7b092485b819d2bee639de1b3265a7b9532",
+   "titulo": "Bitcoin Up or Down - August 14, 3:20AM-3:25AM ET",
+   "slug": "btc-updown-5m-1786692000",
+   "outcome": "Up",
+   "side": "BUY",
+   "size": 1415.282827,
+   "price": 0.9892015725,
+   "usd": 1400.0,
+   "ts": 1786692244,
+   "categoria": "Cripto",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,400 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786692000",
+   "titulo_es": "Bitcoin Sube o Baja - 14 de agosto, 3:20AM-3:25AM ET"
   }
  ],
  "edges": [
@@ -157,8 +176,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -247,8 +266,8 @@
   {
    "question": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
    "slug": "lol-al-jdg-2026-08-14",
-   "yes": 0.565,
-   "no": 0.435,
+   "yes": 0.555,
+   "no": 0.445,
    "volumen": 98097.61933100001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -265,20 +284,10 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
-   "question": "Will the highest temperature in Denver be 75°F or below on August 13?",
-   "slug": "highest-temperature-in-denver-on-august-13-2026-75forbelow",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9983.735800999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Denver de 75°F o inferior el 13 de agosto?"
-  },
-  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.123,
-   "no": 0.877,
+   "yes": 0.1235,
+   "no": 0.8765,
    "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -287,8 +296,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.04,
-   "no": 0.96,
+   "yes": 0.0295,
+   "no": 0.9705,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -317,8 +326,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -333,7 +342,17 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Abierto de Cincinnati: Coleman Wong vs Daniel Altmaier"
+  },
+  {
+   "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
+   "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
+   "yes": 0.22,
+   "no": 0.78,
+   "volumen": 9920.824999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
   }
  ],
- "db_size_mb": 8.1
+ "db_size_mb": 8.15
 }
