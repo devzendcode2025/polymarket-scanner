@@ -1,10 +1,32 @@
 {
- "ts": 1786721134,
- "stamp": "20260814_152534",
+ "ts": 1786721374,
+ "stamp": "20260814_152934",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x38aae5f85f4ea1da3474ff779979018a5f1c4c9bb3315a1de336c11b6f548920",
+   "titulo": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
+   "slug": "cs2-fut-mouz-2026-08-14",
+   "outcome": "MOUZ",
+   "side": "SELL",
+   "size": 20000.0,
+   "price": 0.61,
+   "usd": 12200.0,
+   "ts": 1786721362,
+   "volumen_mercado": 989126.9841279988,
+   "tags": [],
+   "categoria": "Deportes",
+   "prob": 80,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $12,200 en 'MOUZ' = 1.2% del volumen del mercado ($989,127). Órdenes de este tamaño relativo suelen mover el precio en el corto plazo.",
+   "url": "https://polymarket.com/market/cs2-fut-mouz-2026-08-14",
+   "titulo_es": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Copa Mundial de Esports Grupo C"
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -67,8 +89,8 @@
   {
    "question": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
    "slug": "cs2-fut-mouz-2026-08-14",
-   "yes": 0.535,
-   "no": 0.465,
+   "yes": 0.385,
+   "no": 0.615,
    "volumen": 989126.9841279988,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -227,8 +249,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.037,
+   "no": 0.963,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -237,8 +259,8 @@
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.235,
-   "no": 0.765,
+   "yes": 0.225,
+   "no": 0.775,
    "volumen": 9969.309623,
    "spread": 0.0,
    "categoria": "Política",
@@ -257,8 +279,8 @@
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.255,
-   "no": 0.745,
+   "yes": 0.26,
+   "no": 0.74,
    "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
@@ -315,5 +337,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 14.59
+ "db_size_mb": 14.66
 }
