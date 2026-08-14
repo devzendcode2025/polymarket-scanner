@@ -1,63 +1,27 @@
 {
- "ts": 1786665799,
- "stamp": "20260814_000319",
+ "ts": 1786665859,
+ "stamp": "20260814_000419",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8232268dedd534ac75f7930491162809966517c0492835af7db489351228616b",
-   "titulo": "LAC vs. HOU: O/U 37.5",
-   "slug": "nfl-lac-hou-2026-08-14-total-37pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 6700.0,
-   "price": 0.52,
-   "usd": 3484.0,
-   "ts": 1786665528,
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,484 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/nfl-lac-hou-2026-08-14-total-37pt5",
-   "titulo_es": "LAC vs. HOU: Más/Menos 37.5"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xa234107f4936dbc781149af2ea2bf6ae6d97451aedc6056b2f24825f7c4a89fc",
-   "titulo": "Will the price of Bitcoin be above $58,000 on August 14?",
-   "slug": "bitcoin-above-58k-on-august-14-2026",
+   "market_id": "0xa604abf1768155fbfaa5e4c9e4376314f6efab4041af574131d1a8329354aa74",
+   "titulo": "Will CF Cruz Azul vs. Chicago Fire FC end in a draw?",
+   "slug": "lec-caz-chi-2026-08-13-draw",
    "outcome": "Yes",
    "side": "BUY",
-   "size": 2045.0,
-   "price": 0.999,
-   "usd": 2042.95,
-   "ts": 1786665529,
-   "prob": 55,
+   "size": 16032.84,
+   "price": 0.3,
+   "usd": 4809.85,
+   "ts": 1786665814,
+   "prob": 59,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,043 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-58k-on-august-14-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $58,000 el 14 de agosto?"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xa40bc5cdccd5ed4f20e238bedccbdebbb32aebfb721175cc2824ca9a5bea2088",
-   "titulo": "Philadelphia Phillies vs. Minnesota Twins: O/U 10.5",
-   "slug": "mlb-phi-min-2026-08-13-total-10pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 3409.090908,
-   "price": 0.4399999998,
-   "usd": 1500.0,
-   "ts": 1786665526,
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,500 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-phi-min-2026-08-13-total-10pt5",
-   "titulo_es": "Philadelphia Phillies vs. Minnesota Twins: Más/Menos 10.5"
+   "razon": "Trade de compra por $4,810 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lec-caz-chi-2026-08-13-draw",
+   "titulo_es": "¿Terminará en empate el partido CF Cruz Azul vs. Chicago Fire FC?"
   }
  ],
  "top_volumen": [
@@ -66,7 +30,7 @@
    "slug": "will-eric-trump-win-the-2028-republican-presidential-nomination",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 9999484.842578996,
+   "volumen": 9999791.131244993,
    "spread": 0.0,
    "question_es": "¿Ganará Eric Trump la nominación presidencial republicana de 2028?"
   },
@@ -75,7 +39,7 @@
    "slug": "will-crude-oil-reach-a-new-all-time-high-by-september-30",
    "yes": 0.035,
    "no": 0.965,
-   "volumen": 999720.339039,
+   "volumen": 999720.3390390001,
    "spread": 0.0,
    "question_es": "¿Alcanzará el petróleo crudo un nuevo máximo histórico para el 30 de septiembre?"
   },
@@ -84,7 +48,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996434.2322910014,
+   "volumen": 996434.232290999,
    "spread": 0.0,
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
   },
@@ -111,7 +75,7 @@
    "slug": "will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331",
    "yes": 0.024,
    "no": 0.976,
-   "volumen": 99681.46954699994,
+   "volumen": 99681.46954699997,
    "spread": 0.0,
    "question_es": "¿Acusa España a Marruecos de facilitar la ola migratoria en Ceuta antes del 31 de agosto?"
   },
@@ -120,15 +84,15 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33041999998,
+   "volumen": 99532.33041999995,
    "spread": 0.0,
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -138,7 +102,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 99159.48181799999,
+   "volumen": 99159.48181799997,
    "spread": 0.0,
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
@@ -152,5 +116,5 @@
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
   }
  ],
- "db_size_mb": 2.2
+ "db_size_mb": 2.27
 }
