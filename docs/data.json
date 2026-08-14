@@ -1,10 +1,49 @@
 {
- "ts": 1786716573,
- "stamp": "20260814_140933",
+ "ts": 1786716873,
+ "stamp": "20260814_141433",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xd96b7cb2a7a5971b7f0bd5d268da7d452ce4cf8807a15ba33fcb8fdc092f5d48",
+   "titulo": "Counter-Strike: B8 vs Vitality - Map 1 Winner",
+   "slug": "cs2-b8-vit-2026-08-14-game1",
+   "outcome": "Vitality",
+   "side": "BUY",
+   "size": 5800.0,
+   "price": 0.7295620862,
+   "usd": 4231.46,
+   "ts": 1786716862,
+   "categoria": "Otros",
+   "prob": 58,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $4,231 en 'Vitality'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-b8-vit-2026-08-14-game1",
+   "titulo_es": "Counter-Strike: B8 vs Vitality - Ganador del Mapa 1"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xf34dec8bb2a3603cb7fcacafbd0c4ef7e22b2dd62cc2db3fc28fb36bc99eb989",
+   "titulo": "Counter-Strike: BESTIA vs ALKA (BO3) - BetBoom Storm Playoffs",
+   "slug": "cs2-bst-alkaa-2026-08-14",
+   "outcome": "BESTIA",
+   "side": "BUY",
+   "size": 2431.73,
+   "price": 0.83,
+   "usd": 2018.34,
+   "ts": 1786716861,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,018 en 'BESTIA'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-bst-alkaa-2026-08-14",
+   "titulo_es": "Counter-Strike: BESTIA vs ALKA (BO3) - Playoffs de BetBoom Storm"
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -21,7 +60,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "NYSE marketwide circuit breaker before 2027?",
+     "_poly_question": "Will Anthropic have the best AI model on LiveBench (Coding) at the end of October 2026?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -79,8 +118,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.1,
+   "no": 0.9,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -179,8 +218,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0385,
-   "no": 0.9615,
+   "yes": 0.0355,
+   "no": 0.9645,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -189,8 +228,8 @@
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.235,
-   "no": 0.765,
+   "yes": 0.225,
+   "no": 0.775,
    "volumen": 9969.309622999997,
    "spread": 0.0,
    "categoria": "Política",
@@ -259,8 +298,8 @@
   {
    "question": "Will the highest temperature in Amsterdam be 36°C on August 14?",
    "slug": "highest-temperature-in-amsterdam-on-august-14-2026-36c",
-   "yes": 0.0085,
-   "no": 0.9915,
+   "yes": 0.0075,
+   "no": 0.9925,
    "volumen": 9925.070886999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -287,5 +326,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 13.59
+ "db_size_mb": 13.65
 }
