@@ -1,85 +1,28 @@
 {
- "ts": 1786693707,
- "stamp": "20260814_074827",
+ "ts": 1786693767,
+ "stamp": "20260814_074927",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xab4655991948b72de71ddc8ec978082c5c84d7d28330b9f39cddf0039a04b88e",
-   "titulo": "Dota 2: BoomBoys vs TEAM VISION - Game 2 Winner",
-   "slug": "dota2-boombo-vsn2-2026-08-14-game2",
-   "outcome": "TEAM VISION",
+   "market_id": "0x575102acefddddd492ddc96a88444859f0b98ad3c44bf8d831879dcdb0e14c19",
+   "titulo": "Bitcoin Up or Down - August 14, 3:45AM-3:50AM ET",
+   "slug": "btc-updown-5m-1786693500",
+   "outcome": "Down",
    "side": "SELL",
-   "size": 27777.22,
-   "price": 0.999,
-   "usd": 27749.44,
-   "ts": 1786693449,
-   "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $27,749 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-boombo-vsn2-2026-08-14-game2",
-   "titulo_es": "Dota 2: BoomBoys vs TEAM VISION - Ganador del Juego 2"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x109aa7a13a29905d6d2edc312f3cb7cd16aefabb168fb9fff667f2479f33808f",
-   "titulo": "Dota 2: Iron Wing vs Team Falcons - Game 1 Winner",
-   "slug": "dota2-ironwi-flc-2026-08-14-game1",
-   "outcome": "Iron Wing",
-   "side": "SELL",
-   "size": 3213.04,
-   "price": 0.999,
-   "usd": 3209.83,
-   "ts": 1786693437,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,210 en 'Iron Wing'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ironwi-flc-2026-08-14-game1",
-   "titulo_es": "Dota 2: Iron Wing vs Team Falcons - Ganador del Juego 1"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x9b26f42aefdcb6713dd76e5d93e9f3ecfaaca64e4f2b724fa6779460e72fe102",
-   "titulo": "Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner",
-   "slug": "dota2-vg-gl-2026-08-14-game1",
-   "outcome": "GamerLegion",
-   "side": "BUY",
-   "size": 3094.313468,
-   "price": 0.4847601946,
-   "usd": 1500.0,
-   "ts": 1786693440,
-   "categoria": "Deportes",
+   "size": 1510.19,
+   "price": 0.9902978036,
+   "usd": 1495.54,
+   "ts": 1786693740,
+   "categoria": "Cripto",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,500 en 'GamerLegion'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-vg-gl-2026-08-14-game1",
-   "titulo_es": "Dota 2: Vici Gaming vs GamerLegion - Ganador del Juego 1"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x5aedcb6693a08cf4d9642dec05c97c31afd57f30cf4350628925b7ff36535e85",
-   "titulo": "Dota 2: Team Liquid vs Team Spirit - Game 1 Winner",
-   "slug": "dota2-liquid-ts8-2026-08-14-game1",
-   "outcome": "Team Spirit",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.5,
-   "usd": 1000.0,
-   "ts": 1786693431,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,000 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-liquid-ts8-2026-08-14-game1",
-   "titulo_es": "Dota 2: Team Liquid vs Team Spirit - Ganador del Juego 1"
+   "razon": "Trade de venta por $1,496 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786693500",
+   "titulo_es": "Bitcoin sube o baja - 14 de agosto, 3:45AM-3:50AM ET"
   }
  ],
  "edges": [
@@ -146,7 +89,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 998488.0248240015,
+   "volumen": 998488.0248240005,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -156,7 +99,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.022,
    "no": 0.978,
-   "volumen": 985888.500828,
+   "volumen": 985888.5008279999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -172,24 +115,34 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "NYSE marketwide circuit breaker before 2027?",
-   "slug": "nyse-marketwide-circuit-breaker-before-2027",
-   "yes": 0.145,
-   "no": 0.855,
-   "volumen": 99532.33042,
+   "question": "LoL: EDward Gaming vs LGD Gaming - Game 1 Winner",
+   "slug": "lol-edg-lgd-2026-08-14-game1",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 981555.7237340002,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
+   "categoria": "Deportes",
+   "question_es": "LoL: EDward Gaming vs LGD Gaming - Ganador del Juego 1"
   },
   {
    "question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
-   "yes": 0.125,
-   "no": 0.875,
-   "volumen": 99468.77031499997,
+   "yes": 0.12,
+   "no": 0.88,
+   "volumen": 99547.41317100001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la segunda empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
+  },
+  {
+   "question": "NYSE marketwide circuit breaker before 2027?",
+   "slug": "nyse-marketwide-circuit-breaker-before-2027",
+   "yes": 0.145,
+   "no": 0.855,
+   "volumen": 99532.33042000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
    "question": "Will the price of Bitcoin be above $70,000 on August 14?",
@@ -204,8 +157,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -216,7 +169,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.48181799994,
+   "volumen": 99159.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -226,7 +179,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99069.693602,
+   "volumen": 99069.69360200003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -244,9 +197,9 @@
   {
    "question": "Will the price of Ethereum be above $2,000 on August 14?",
    "slug": "ethereum-above-2000-on-august-14-2026",
-   "yes": 0.0025,
-   "no": 0.9975,
-   "volumen": 98936.65803400001,
+   "yes": 0.002,
+   "no": 0.998,
+   "volumen": 98936.65803400004,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Ethereum por encima de $2,000 el 14 de agosto?"
@@ -266,7 +219,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.295,
    "no": 0.705,
-   "volumen": 98896.73757199997,
+   "volumen": 98896.73757200001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -290,16 +243,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
-  },
-  {
-   "question": "Valorant: FULL SENSE vs QT DIG∞ (BO3) - VCT Pacific Play-In",
-   "slug": "val-fs1-qtd-2026-08-14",
-   "yes": 0.705,
-   "no": 0.295,
-   "volumen": 9998.462887,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Valorant: FULL SENSE vs QT DIG∞ (BO3) - VCT Pacific Play-In"
   },
   {
    "question": "Will Dogecoin reach $0.15 in August?",
@@ -352,14 +295,14 @@
    "question_es": "¿Ganará Sol1xd el Soloq Challenge 2026 (High Elo)?"
   },
   {
-   "question": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
-   "slug": "atp-wong-altmaie-2026-08-14",
-   "yes": 0.575,
-   "no": 0.425,
-   "volumen": 9950.819950000003,
+   "question": "Will the highest temperature in Paris be 39°C on August 14?",
+   "slug": "highest-temperature-in-paris-on-august-14-2026-39c",
+   "yes": 0.555,
+   "no": 0.445,
+   "volumen": 9947.998034,
    "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Abierto de Cincinnati: Coleman Wong vs Daniel Altmaier"
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en París de 39°C el 14 de agosto?"
   },
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
@@ -392,5 +335,5 @@
    "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
   }
  ],
- "db_size_mb": 8.44
+ "db_size_mb": 8.49
 }
