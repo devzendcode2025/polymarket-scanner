@@ -1,28 +1,28 @@
 {
- "ts": 1786672401,
- "stamp": "20260814_015321",
+ "ts": 1786672461,
+ "stamp": "20260814_015421",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d",
-   "titulo": "Cincinnati Open: Rinky Hijikata vs Gael Monfils",
-   "slug": "atp-hijikat-monfils-2026-08-13",
-   "outcome": "Gael Monfils",
+   "market_id": "0x3f9441c58a3f0646d07dcfefd9ba534425e72a3044d4decf2e28f324b2f06b18",
+   "titulo": "Will Austin FC win on 2026-08-13?",
+   "slug": "lec-ame-aus-2026-08-13-aus",
+   "outcome": "No",
    "side": "BUY",
-   "size": 2816.9,
-   "price": 0.71,
-   "usd": 2000.0,
-   "ts": 1786672132,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Gael Monfils'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-hijikat-monfils-2026-08-13",
-   "titulo_es": "Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+   "size": 1187.0,
+   "price": 0.94,
+   "usd": 1115.78,
+   "ts": 1786672426,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,116 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lec-ame-aus-2026-08-13-aus",
+   "titulo_es": "¿Ganará Austin FC el 2026-08-13?"
   }
  ],
  "edges": [
@@ -239,8 +239,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.1225,
+   "no": 0.8775,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -259,8 +259,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.0315,
+   "no": 0.9685,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -307,5 +307,5 @@
    "question_es": "¿Será el Tifón Dolphin un \"Tifón Muy Fuerte\" al tocar tierra en Japón?"
   }
  ],
- "db_size_mb": 3.67
+ "db_size_mb": 3.72
 }
