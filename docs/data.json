@@ -1,28 +1,28 @@
 {
- "ts": 1786681103,
- "stamp": "20260814_041823",
+ "ts": 1786681163,
+ "stamp": "20260814_041923",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb250f71e99c64d332937397d913f1bfe3ae7a7a8e60e8f1fde4a9a9bf9df4c32",
-   "titulo": "Dota 2: Team Spirit vs Aurora - Game 2 Winner",
-   "slug": "dota2-ts8-aur1-2026-08-13-game2",
-   "outcome": "Team Spirit",
+   "market_id": "0x055780f0be344eb090ff5ba3f7eb16f077f7f104a9c32d545c330cdb3e4b866b",
+   "titulo": "Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B",
+   "slug": "cs2-nip-bb3-2026-08-14",
+   "outcome": "NIP",
    "side": "BUY",
-   "size": 1809.29,
-   "price": 0.9315136877,
-   "usd": 1685.38,
-   "ts": 1786680834,
+   "size": 73879.66,
+   "price": 0.35,
+   "usd": 25857.88,
+   "ts": 1786681135,
    "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,685 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ts8-aur1-2026-08-13-game2",
-   "titulo_es": "Dota 2: Team Spirit vs Aurora - Ganador del Juego 2"
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $25,858 en 'NIP'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-nip-bb3-2026-08-14",
+   "titulo_es": "Counter-Strike: NIP vs BetBoom Team (BO3) - Copa del Mundo de Esports Grupo B"
   }
  ],
  "edges": [
@@ -89,7 +89,7 @@
    "slug": "israel-closes-its-airspace-by-august-31-389",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 996562.4656910005,
+   "volumen": 996562.4656910014,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?"
@@ -99,7 +99,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.023,
    "no": 0.977,
-   "volumen": 985888.500828,
+   "volumen": 985888.5008280001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -129,7 +129,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042,
+   "volumen": 99532.33041999995,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -137,8 +137,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -147,9 +147,9 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.0355,
-   "no": 0.9645,
-   "volumen": 99159.48181799997,
+   "yes": 0.036,
+   "no": 0.964,
+   "volumen": 99159.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -159,7 +159,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99069.69360200003,
+   "volumen": 99069.693602,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -167,8 +167,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 98982.04341899998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -217,9 +217,9 @@
   {
    "question": "Bitcoin Up or Down on August 14?",
    "slug": "bitcoin-up-or-down-on-august-14-2026",
-   "yes": 0.485,
-   "no": 0.515,
-   "volumen": 98284.117578,
+   "yes": 0.53,
+   "no": 0.47,
+   "volumen": 98368.11757799999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Bitcoin sube o baja el 14 de agosto?"
@@ -229,7 +229,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98150.55052599999,
+   "volumen": 98150.550526,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -237,8 +237,8 @@
   {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.009,
-   "no": 0.991,
+   "yes": 0.0095,
+   "no": 0.9905,
    "volumen": 9996.76192,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -247,9 +247,9 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.119,
-   "no": 0.881,
-   "volumen": 9974.940754,
+   "yes": 0.1195,
+   "no": 0.8805,
+   "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -257,8 +257,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0325,
-   "no": 0.9675,
+   "yes": 0.0295,
+   "no": 0.9705,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -277,8 +277,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -317,9 +317,9 @@
   {
    "question": "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?",
    "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
-   "yes": 0.6,
-   "no": 0.4,
-   "volumen": 9916.220947999998,
+   "yes": 0.605,
+   "no": 0.395,
+   "volumen": 9916.220948,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
@@ -335,5 +335,5 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
- "db_size_mb": 5.62
+ "db_size_mb": 5.67
 }
