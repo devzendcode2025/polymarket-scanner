@@ -1,28 +1,28 @@
 {
- "ts": 1786699108,
- "stamp": "20260814_091828",
+ "ts": 1786699168,
+ "stamp": "20260814_091928",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xe0353972c6a45ba65d89c2e50523916a486ee7d51d873ea4a9a0e6b4371e611f",
-   "titulo": "Bitcoin Up or Down - August 14, 5:10AM-5:15AM ET",
-   "slug": "btc-updown-5m-1786698600",
-   "outcome": "Down",
+   "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+   "titulo": "Strait of Hormuz traffic returns to normal by August 31?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+   "outcome": "No",
    "side": "BUY",
-   "size": 1122.222221,
-   "price": 0.9899999993,
-   "usd": 1111.0,
-   "ts": 1786698844,
-   "categoria": "Cripto",
-   "prob": 53,
+   "size": 1565.98,
+   "price": 0.982,
+   "usd": 1537.79,
+   "ts": 1786699149,
+   "categoria": "Tecnología",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,111 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1786698600",
-   "titulo_es": "Bitcoin Sube o Baja - 14 de agosto, 5:10AM-5:15AM ET"
+   "razon": "Trade de compra por $1,538 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad para el 31 de agosto?"
   }
  ],
  "edges": [
@@ -77,11 +77,21 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "LoL: Team WE vs Top Esports - Game 1 Winner",
+   "slug": "lol-we-tes-2026-08-14-game1",
+   "yes": 0.565,
+   "no": 0.435,
+   "volumen": 99935.56232299998,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: Team WE vs Top Esports - Ganador del Juego 1"
+  },
+  {
    "question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
    "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 99621.41317100001,
+   "volumen": 99684.93317100001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la segunda empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -91,7 +101,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000001,
+   "volumen": 99532.33042000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -111,7 +121,7 @@
    "slug": "ethereum-above-2000-on-august-14-2026",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 99264.31853400005,
+   "volumen": 99264.31853399998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Ethereum por encima de $2,000 el 14 de agosto?"
@@ -131,7 +141,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.034,
    "no": 0.966,
-   "volumen": 99159.48181800001,
+   "volumen": 99159.48181799996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -141,7 +151,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99069.69360200003,
+   "volumen": 99069.69360200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -191,7 +201,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98404.80752599999,
+   "volumen": 98404.807526,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -201,7 +211,7 @@
    "slug": "will-bitcoin-reach-65k-in-august-2026-from-august-10",
    "yes": 0.605,
    "no": 0.395,
-   "volumen": 98299.113502,
+   "volumen": 98319.11350200001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Bitcoin los $65,000 en agosto?"
@@ -217,11 +227,21 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
+   "question": "Will the highest temperature in Chengdu be 38°C on August 14?",
+   "slug": "highest-temperature-in-chengdu-on-august-14-2026-38c",
+   "yes": 0.0245,
+   "no": 0.9755,
+   "volumen": 9975.185591000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Chengdu de 38°C el 14 de agosto?"
+  },
+  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.1205,
    "no": 0.8795,
-   "volumen": 9974.940754,
+   "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -229,8 +249,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.034,
+   "no": 0.966,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -241,7 +261,7 @@
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 9969.309622999997,
+   "volumen": 9969.309623000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -261,7 +281,7 @@
    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
    "yes": 0.265,
    "no": 0.735,
-   "volumen": 9948.784999000001,
+   "volumen": 9948.784999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
@@ -277,35 +297,15 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   },
   {
-   "question": "Will the price of Bitcoin be above $64,000 on August 16?",
-   "slug": "bitcoin-above-64k-on-august-16-2026",
-   "yes": 0.145,
-   "no": 0.855,
-   "volumen": 9919.596276999999,
+   "question": "Will Enzo Fernandez join Manchester City?",
+   "slug": "will-enzo-fernandez-join-manchester-city",
+   "yes": 0.58,
+   "no": 0.42,
+   "volumen": 9941.867232999997,
    "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 16 de agosto?"
-  },
-  {
-   "question": "Will Thinky have the best AI model at the end of September 2026?",
-   "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9918.892000000002,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?",
-   "slug": "will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075",
-   "yes": 0.61,
-   "no": 0.39,
-   "volumen": 9916.220947999998,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Grand Theft Auto VI el Juego del Año en los Game Awards 2026?"
+   "categoria": "Otros",
+   "question_es": "¿Se unirá Enzo Fernández al Manchester City?"
   }
  ],
- "db_size_mb": 9.6
+ "db_size_mb": 9.67
 }
