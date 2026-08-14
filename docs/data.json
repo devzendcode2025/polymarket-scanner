@@ -1,104 +1,66 @@
 {
- "ts": 1786711712,
- "stamp": "20260814_124832",
+ "ts": 1786712072,
+ "stamp": "20260814_125432",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9fe097335e2240bf278208d1515bd589d0b9013bd35209c4eb575eae66acdb24",
-   "titulo": "Counter-Strike: NIP vs BetBoom Team - Map 2 Winner",
-   "slug": "cs2-nip-bb3-2026-08-14-game2",
-   "outcome": "NIP",
-   "side": "SELL",
-   "size": 7384.58,
-   "price": 0.999,
-   "usd": 7377.2,
-   "ts": 1786711459,
-   "categoria": "Otros",
-   "prob": 63,
+   "market_id": "0xd3622a52ec6d9a8d582d0aae715c0b2a0b15e72a67cc1edc593607741dbc3b78",
+   "titulo": "LoL: MVK Esports vs CTBC Flying Oyster (BO5) - LCP Group Stage",
+   "slug": "lol-mvk-cfo-2026-08-14",
+   "outcome": "MVK Esports",
+   "side": "BUY",
+   "size": 9757.54,
+   "price": 0.53,
+   "usd": 5171.5,
+   "ts": 1786712055,
+   "categoria": "Deportes",
+   "prob": 59,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de venta por $7,377 en 'NIP'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-nip-bb3-2026-08-14-game2",
-   "titulo_es": "Counter-Strike: NIP vs BetBoom Team - Ganador del Mapa 2"
+   "razon": "Trade de compra por $5,172 en 'MVK Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-mvk-cfo-2026-08-14",
+   "titulo_es": "LoL: MVK Esports vs CTBC Flying Oyster (BO5) - Fase de Grupos LCP"
   },
   {
    "tipo": "ballena",
-   "market_id": "0x8ce33e7b4a7f62a665eb1c61d1fce7ac2843c1b67838c75fa524fee612619387",
-   "titulo": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
-   "slug": "lol-al-jdg-2026-08-14",
-   "outcome": "Anyones Legend",
-   "side": "BUY",
-   "size": 3698.129129,
-   "price": 0.4508090283,
-   "usd": 1667.15,
-   "ts": 1786711452,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,667 en 'Anyones Legend'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-al-jdg-2026-08-14",
-   "titulo_es": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x055780f0be344eb090ff5ba3f7eb16f077f7f104a9c32d545c330cdb3e4b866b",
-   "titulo": "Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B",
-   "slug": "cs2-nip-bb3-2026-08-14",
-   "outcome": "NIP",
-   "side": "SELL",
-   "size": 1500.0,
-   "price": 0.999,
-   "usd": 1498.5,
-   "ts": 1786711459,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,498 en 'NIP'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-nip-bb3-2026-08-14",
-   "titulo_es": "Counter-Strike: NIP vs BetBoom Team (BO3) - Copa del Mundo de Esports Grupo B"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x9fe097335e2240bf278208d1515bd589d0b9013bd35209c4eb575eae66acdb24",
-   "titulo": "Counter-Strike: NIP vs BetBoom Team - Map 2 Winner",
-   "slug": "cs2-nip-bb3-2026-08-14-game2",
-   "outcome": "NIP",
-   "side": "SELL",
-   "size": 1500.0,
-   "price": 0.999,
-   "usd": 1498.5,
-   "ts": 1786711459,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,498 en 'NIP'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-nip-bb3-2026-08-14-game2",
-   "titulo_es": "Counter-Strike: NIP vs BetBoom Team - Ganador del Mapa 2"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xa2319fce339546ac9aa0259cdb9f42738b47ca6e52950d88b6826784a3977819",
-   "titulo": "LoL: Nongshim Red Force vs HANJIN BRION - Game 2 Winner",
-   "slug": "lol-ns-bro2-2026-08-14-game2",
+   "market_id": "0xbbc0aac697938df5c04753ae878e03377e8e0bb1acd98596f465f27bbcf40eb7",
+   "titulo": "LoL: Nongshim Red Force vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+   "slug": "lol-ns-bro2-2026-08-14",
    "outcome": "Nongshim Red Force",
    "side": "SELL",
-   "size": 1395.34,
+   "size": 4122.0,
    "price": 0.999,
-   "usd": 1393.94,
-   "ts": 1786711452,
-   "categoria": "Deportes",
+   "usd": 4117.88,
+   "ts": 1786712055,
+   "categoria": "Otros",
+   "prob": 58,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $4,118 en 'Nongshim Red Force'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ns-bro2-2026-08-14",
+   "titulo_es": "LoL: Nongshim Red Force vs HANJIN BRION (BO3) - LCK Ronda 3-4 Grupo Rise"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x1102a94408a990d2b29ecfc72fd3e51352dcbed8c71b1118a3914ea4a9fd126a",
+   "titulo": "Will Ethereum reach $2,100 August 10-16?",
+   "slug": "will-ethereum-reach-2100-august-10-16-2026",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1620.0,
+   "price": 0.993,
+   "usd": 1608.66,
+   "ts": 1786712055,
+   "categoria": "Cripto",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,394 en 'Nongshim Red Force'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ns-bro2-2026-08-14-game2",
-   "titulo_es": "LoL: Nongshim Red Force vs HANJIN BRION - Ganador del Juego 2"
+   "razon": "Trade de compra por $1,609 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-ethereum-reach-2100-august-10-16-2026",
+   "titulo_es": "¿Alcanzará Ethereum los $2,100 del 10 al 16 de agosto?"
   }
  ],
  "edges": [
@@ -117,7 +79,7 @@
      "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
      "prob": 1.0000000000000022,
      "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Will a hurricane make landfall in the US in August?",
+     "_poly_question": "Multipli.fi FDV above $1B one day after launch?",
      "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
     }
    ],
@@ -135,9 +97,9 @@
    "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
    "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
    "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
-   "prob_poly": 44.5,
+   "prob_poly": 44.0,
    "consenso": 34.5,
-   "edge": -10.0,
+   "edge": -9.5,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -145,7 +107,7 @@
      "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
      "prob": 34.53783434138884,
      "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
-     "_poly_question": "Will a hurricane make landfall in the US in August?",
+     "_poly_question": "Multipli.fi FDV above $1B one day after launch?",
      "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
     }
    ],
@@ -155,7 +117,7 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 44.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 10.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 44.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 9.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
@@ -165,7 +127,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0205,
    "no": 0.9795,
-   "volumen": 985893.5926630002,
+   "volumen": 985894.4326630001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -195,7 +157,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33041999997,
+   "volumen": 99532.33042000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -255,7 +217,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.295,
    "no": 0.705,
-   "volumen": 98896.737572,
+   "volumen": 98896.73757199998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -275,7 +237,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98404.807526,
+   "volumen": 98404.80752600002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
@@ -285,7 +247,7 @@
    "slug": "lol-t1-dk-2026-08-14-total-games-2pt5",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9999.210368999999,
+   "volumen": 9999.210369000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Total de Juegos: O/U 2.5"
@@ -301,11 +263,21 @@
    "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
   },
   {
+   "question": "Counter-Strike: Lazer Cats vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #3 Group A",
+   "slug": "cs2-lc-mouzn-2026-08-14",
+   "yes": 0.7,
+   "no": 0.3,
+   "volumen": 9987.786731000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Counter-Strike: Lazer Cats vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #3 Grupo A"
+  },
+  {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
    "yes": 0.12,
    "no": 0.88,
-   "volumen": 9974.940754,
+   "volumen": 9974.940754000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
@@ -313,8 +285,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.036,
-   "no": 0.964,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -323,9 +295,9 @@
   {
    "question": "Will the US federal government take a stake in OpenAI?",
    "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.22,
-   "no": 0.78,
-   "volumen": 9969.309623000005,
+   "yes": 0.24,
+   "no": 0.76,
+   "volumen": 9969.309623000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
@@ -335,20 +307,10 @@
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
    "no": 0.2,
-   "volumen": 9966.137666999999,
+   "volumen": 9966.137667,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "S&P 500 (SPX) Up or Down on August 14?",
-   "slug": "spx-up-or-down-on-august-14-2026",
-   "yes": 0.655,
-   "no": 0.345,
-   "volumen": 9957.133861,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿S&P 500 (SPX) Sube o Baja el 14 de agosto?"
   },
   {
    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
@@ -373,8 +335,8 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.1,
-   "no": 0.9,
+   "yes": 0.08,
+   "no": 0.92,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -411,5 +373,5 @@
    "question_es": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Copa Mundial de Esports Grupo A"
   }
  ],
- "db_size_mb": 12.46
+ "db_size_mb": 12.59
 }
