@@ -1,30 +1,10 @@
 {
- "ts": 1786669700,
- "stamp": "20260814_010820",
+ "ts": 1786670060,
+ "stamp": "20260814_011420",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x156d09518baa9facc4debb6c388251430b5e8832bdf01e1996ddaedaf4f991f9",
-   "titulo": "Will Hakainde Hichilema win the 2026 Zambian presidential elections?",
-   "slug": "will-hakainde-hichilema-win-the-2026-zambian-presidential-elections-20260604205342549",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 2228.10472,
-   "price": 0.9384657576,
-   "usd": 2091.0,
-   "ts": 1786669432,
-   "categoria": "Política",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,091 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-hakainde-hichilema-win-the-2026-zambian-presidential-elections-20260604205342549",
-   "titulo_es": "¿Ganará Hakainde Hichilema las elecciones presidenciales de Zambia en 2026?"
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -119,8 +99,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99162.08819200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -219,8 +199,8 @@
   {
    "question": "Will Dogecoin reach $0.15 in August?",
    "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.01,
-   "no": 0.99,
+   "yes": 0.0095,
+   "no": 0.9905,
    "volumen": 9996.76192,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -229,8 +209,8 @@
   {
    "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1245,
-   "no": 0.8755,
+   "yes": 0.1215,
+   "no": 0.8785,
    "volumen": 9974.940754,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -239,8 +219,8 @@
   {
    "question": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
    "slug": "ukraine-strikes-another-vessel-in-the-black-sea-by-august-15-2026-20260804183343485",
-   "yes": 0.865,
-   "no": 0.135,
+   "yes": 0.87,
+   "no": 0.13,
    "volumen": 9974.530565000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -249,8 +229,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.036,
+   "no": 0.964,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -259,8 +239,8 @@
   {
    "question": "Will Alibaba be the third-best Math AI lab at the end of August 2026?",
    "slug": "will-alibaba-be-the-third-best-math-ai-lab-at-the-end-of-august-2026-20260720230105166",
-   "yes": 0.73,
-   "no": 0.27,
+   "yes": 0.725,
+   "no": 0.275,
    "volumen": 9968.575645000003,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -307,5 +287,5 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
- "db_size_mb": 3.1
+ "db_size_mb": 3.21
 }
