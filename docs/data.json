@@ -1,29 +1,69 @@
 {
- "ts": 1786816201,
- "stamp": "20260815_175001",
+ "ts": 1786816261,
+ "stamp": "20260815_175101",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xfc3b3f97b4f6f1fc5c5f31bcdbcab7ed8be4d44b75fe40b6ee686a77062a24fe",
-   "titulo": "LoL: G2 Esports vs Shifters - Game 1 Winner",
-   "slug": "lol-g2-shft-2026-08-15-game1",
-   "outcome": "G2 Esports",
+   "market_id": "0xf68eae6f252c3c41effc3d7ded0154b4a8d8ecf616a647aeab6e54255d7fce82",
+   "titulo": "Cincinnati Open: Cristina Bucsa vs Maja Chwalinska",
+   "slug": "wta-bucsa-chwalin-2026-08-15",
+   "outcome": "Cristina Bucsa",
    "side": "BUY",
-   "size": 2613.43,
-   "price": 0.4832550939,
-   "usd": 1262.95,
-   "ts": 1786815930,
+   "size": 29411.764704,
+   "price": 0.34,
+   "usd": 10000.0,
+   "ts": 1786816233,
    "categoria": "Deportes",
-   "prob": 53,
+   "prob": 67,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $10,000 en 'Cristina Bucsa'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-bucsa-chwalin-2026-08-15",
+   "titulo_es": "Cincinnati Open: Cristina Bucsa vs Maja Chwalinska",
+   "narrativa": "La compra de 10,000 USD sobre Cristina Bucsa en el Cincinnati Open refleja una fuerte convicción direccional, posicionándose a favor de la jugadora con mayor consistencia en cancha dura. Este monto, al ser significativo frente a un mercado sin volumen reportado, sugiere una ventaja de información o de valor percibido que el consenso externo aún no ha descontado por completo. Riesgo: posible falta de liquidez para salir rápido en caso de quiebre de la tendencia."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xc2c02923a8211b4727de76c95921949d2a9b90a8e9d72e402eaf144469b57597",
+   "titulo": "Cincinnati Open: Alexandra Eala vs Gabriela Ruse",
+   "slug": "wta-eala-ruse-2026-08-15",
+   "outcome": "Alexandra Eala",
+   "side": "SELL",
+   "size": 1800.0,
+   "price": 0.999,
+   "usd": 1798.2,
+   "ts": 1786816227,
+   "categoria": "Deportes",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,263 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-g2-shft-2026-08-15-game1",
-   "titulo_es": "LoL: G2 Esports vs Shifters - Ganador del Juego 1",
-   "narrativa": "La compra en G2 Esports para el Juego 1 presenta un edge favorable alineado con el consenso externo del 78% de probabilidad implícita, mientras que el mercado cotiza a 1.62 (61.7%), generando un diferencial de +16.3 puntos porcentuales. Con un monto de $1,262.95, la posición capitaliza la brecha entre la valoración del mercado y la expectativa del modelo, sin que el volumen reportado indique distorsión de precios. Riesgo: posible ajuste rápido del precio si el mercado corrige el desvío antes del cierre de la ventana de apuestas."
+   "razon": "Trade de venta por $1,798 en 'Alexandra Eala'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-eala-ruse-2026-08-15",
+   "titulo_es": "Cincinnati Open: Alexandra Eala vs Gabriela Ruse",
+   "narrativa": "La venta de 1,798.2 USD contra Alexandra Eala indica una apuesta a que el mercado sobrevalora su opción de victoria frente a Gabriela Ruse, aprovechando el desvío entre el precio implícito y la probabilidad real estimada por el consenso. El tamaño moderado del trade permite capitalizar el edge sin exponer una posición excesiva ante la volatilidad de un partido temprano. Riesgo: errores de calibración en superficies lentas pueden anular la ventaja."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xefc6b78546054e094721770f1a75f7df123fa1ba40a1ec1a1a2f05fd3429f3e5",
+   "titulo": "Miami Marlins vs. Cincinnati Reds",
+   "slug": "mlb-mia-cin-2026-08-15",
+   "outcome": "Cincinnati Reds",
+   "side": "BUY",
+   "size": 2843.137253,
+   "price": 0.51,
+   "usd": 1450.0,
+   "ts": 1786816230,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,450 en 'Cincinnati Reds'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-mia-cin-2026-08-15",
+   "titulo_es": "Miami Marlins vs. Cincinnati Reds",
+   "narrativa": "La compra de 1,450 USD en los Cincinnati Reds contra los Marlins busca capturar el valor de un equipo con mejor bullpen y poder ofensivo, mientras el mercado podría estar ponderando en exceso la irregularidad reciente de Miami. Este monto, aunque no masivo, muestra una selección de spot con un edge positivo derivado de la diferencia entre el precio actual y la probabilidad implícita del consenso externo. Riesgo: los juegos de interliga suelen tener alta varianza por el factor de la rotación de abridores."
   }
  ],
  "edges": [],
@@ -33,7 +73,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 995573.260854,
+   "volumen": 996361.1508539999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -63,7 +103,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 985645.7568139998,
+   "volumen": 985645.7568140001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -73,7 +113,7 @@
    "slug": "israel-closes-its-airspace-by-august-15",
    "yes": 0.003,
    "no": 0.997,
-   "volumen": 983865.5260689999,
+   "volumen": 983865.5260689997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
@@ -81,9 +121,9 @@
   {
    "question": "Will FISA Section 702 reauthorization become law this year?",
    "slug": "will-fisa-section-702-reauthorization-become-law-this-year",
-   "yes": 0.38,
-   "no": 0.62,
-   "volumen": 99983.23696000001,
+   "yes": 0.45,
+   "no": 0.55,
+   "volumen": 99983.23696,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Se convertirá en ley la reautorización de la Sección 702 de FISA este año?"
@@ -103,7 +143,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99543.66375200002,
+   "volumen": 99543.663752,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -113,7 +153,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181800001,
+   "volumen": 99179.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -153,7 +193,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.285,
    "no": 0.715,
-   "volumen": 98904.73757199998,
+   "volumen": 98904.737572,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -173,7 +213,7 @@
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
    "no": 0.055,
-   "volumen": 9997.497541,
+   "volumen": 9997.497540999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
@@ -183,7 +223,7 @@
    "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9995.6475,
+   "volumen": 9995.647500000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
@@ -191,8 +231,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0335,
-   "no": 0.9665,
+   "yes": 0.031,
+   "no": 0.969,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -231,9 +271,9 @@
   {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.0525,
-   "no": 0.9475,
-   "volumen": 9943.525083000002,
+   "yes": 0.052,
+   "no": 0.948,
+   "volumen": 9943.525083,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
@@ -247,6 +287,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Ámsterdam de 28°C el 15 de agosto?"
+  },
+  {
+   "question": "USMCA extended in 2026?",
+   "slug": "usmca-extended-in-2026-20260701162719768",
+   "yes": 0.205,
+   "no": 0.795,
+   "volumen": 9918.915998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Se extenderá el T-MEC en 2026?"
   },
   {
    "question": "AC Milan vs. Manchester United: O/U 1.5",
@@ -267,16 +317,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
-  },
-  {
-   "question": "USMCA extended in 2026?",
-   "slug": "usmca-extended-in-2026-20260701162719768",
-   "yes": 0.205,
-   "no": 0.795,
-   "volumen": 9908.915998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Se extenderá el T-MEC en 2026?"
   }
  ],
  "historico": {
@@ -286,5 +326,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 16.57
+ "db_size_mb": 16.65
 }
