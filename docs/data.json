@@ -1,10 +1,31 @@
 {
- "ts": 1786831565,
- "stamp": "20260815_220605",
+ "ts": 1786831865,
+ "stamp": "20260815_221105",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xe07256403de84fea4c2f31ea7b7fa4316742d29565539395b39b1a8ac955949b",
+   "titulo": "Baltimore Orioles vs. Tampa Bay Rays: O/U 6.5",
+   "slug": "mlb-bal-tb-2026-08-15-total-6pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 2430.61,
+   "price": 0.61,
+   "usd": 1482.67,
+   "ts": 1786831552,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,483 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-bal-tb-2026-08-15-total-6pt5",
+   "titulo_es": "Baltimore Orioles vs. Tampa Bay Rays: Más/Menos 6.5",
+   "narrativa": "El mercado de totales para Orioles-Rays muestra una línea de 6.5 carreras, y la compra de Over por $1,482.67 refleja un edge positivo frente al consenso externo que proyecta un total esperado de 7.1, lo que sugiere un desvío de +0.6 carreras a favor del over. Este movimiento de capital, aunque moderado, indica una convicción direccional en un mercado con volumen suficiente para ejecutar la posición sin fricción significativa. Riesgo: posible variación por condiciones climáticas o bullpens descansados."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -130,8 +151,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.29,
-   "no": 0.71,
+   "yes": 0.285,
+   "no": 0.715,
    "volumen": 99104.44479299999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -220,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.031,
-   "no": 0.969,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -230,8 +251,8 @@
   {
    "question": "Will the highest temperature in Toronto be 26°C on August 15?",
    "slug": "highest-temperature-in-toronto-on-august-15-2026-26c",
-   "yes": 0.001,
-   "no": 0.999,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 9969.137793000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 20.07
+ "db_size_mb": 20.13
 }
