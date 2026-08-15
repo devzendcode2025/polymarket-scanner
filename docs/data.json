@@ -1,29 +1,29 @@
 {
- "ts": 1786834206,
- "stamp": "20260815_225006",
+ "ts": 1786834266,
+ "stamp": "20260815_225106",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa8045ef9b865f4565b4f676adcd87077811ae473d7c2d6e0cc21b418e2cb3c9a",
-   "titulo": "Valorant: KRÜ Esports vs MIBR - Map 2 Winner",
-   "slug": "val-kru1-mibr-2026-08-15-game2",
-   "outcome": "MIBR",
+   "market_id": "0x12b94e84a6a85904c2ee0534b796b0b1f5664dc0472a1f677e6c67c6fac015e9",
+   "titulo": "UFC 330: Lucas Fernando vs. Rafael Tobias (Light Heavyweight, Early Prelims)",
+   "slug": "ufc-luc8-raf11-2026-08-15",
+   "outcome": "Lucas Fernando",
    "side": "SELL",
-   "size": 3916.98,
-   "price": 0.999,
-   "usd": 3913.06,
-   "ts": 1786833654,
+   "size": 4104.12,
+   "price": 0.8703465786,
+   "usd": 3572.01,
+   "ts": 1786833948,
    "categoria": "Deportes",
    "prob": 57,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $3,913 en 'MIBR'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/val-kru1-mibr-2026-08-15-game2",
-   "titulo_es": "Valorant: KRÜ Esports vs MIBR - Ganador del Mapa 2",
-   "narrativa": "La venta de MIBR en el mapa 2 de KRÜ vs MIBR presenta un edge de +3.2 puntos frente al consenso externo del 58%, con un monto de $3,913 que refleja una posición significativa en un mercado de volumen moderado. El desvío del 4.1% respecto al precio justo sugiere que el mercado está sobrevalorando a MIBR tras su actuación en el mapa 1, lo que abre una ventana de valor. Riesgo: posible corrección rápida si el equipo ajusta su estrategia entre mapas."
+   "razon": "Trade de venta por $3,572 en 'Lucas Fernando'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ufc-luc8-raf11-2026-08-15",
+   "titulo_es": "UFC 330: Lucas Fernando vs. Rafael Tobias (Peso Semipesado, Preliminares Tempranos)",
+   "narrativa": "La venta de Lucas Fernando a 3572 USD refleja una postura contraria al consenso del mercado, que podría estar sobrevalorando sus opciones tras el anuncio del combate. El edge se materializa si el público descuenta un rendimiento superior al realista para un peleador en preliminares tempranas, donde la volatilidad de rendimiento es alta. El monto posicionado sugiere convicción institucional, pero el volumen de mercado no reportado limita la confirmación de liquidez. Riesgo: posible falta de profundidad en el libro de órdenes para ejecutar la salida sin deslizamiento."
   }
  ],
  "edges": [],
@@ -33,7 +33,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920003,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -53,7 +53,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988494.681919,
+   "volumen": 988494.6819189999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -109,21 +109,11 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
-   "question": "Will Ethereum dip to $1,700 in August?",
-   "slug": "will-ethereum-dip-to-1700-in-august-2026",
-   "yes": 0.185,
-   "no": 0.815,
-   "volumen": 99399.473117,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Caerá Ethereum a $1,700 en agosto?"
-  },
-  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799999,
+   "volumen": 99179.48181799996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -143,7 +133,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99104.444793,
+   "volumen": 99104.44479299997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -173,10 +163,20 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98711.43276299998,
+   "volumen": 98711.43276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Will Ethereum dip to $1,600 in August?",
+   "slug": "will-ethereum-dip-to-1600-in-august-2026",
+   "yes": 0.075,
+   "no": 0.925,
+   "volumen": 98607.791973,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Caerá Ethereum a $1,600 en agosto?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -189,31 +189,11 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Jaguars vs. Saints",
-   "slug": "nfl-jax-no-2026-08-15",
-   "yes": 0.37,
-   "no": 0.63,
-   "volumen": 98403.52016199997,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "Jaguars vs. Saints"
-  },
-  {
-   "question": "Will Ethereum dip to $1,600 in August?",
-   "slug": "will-ethereum-dip-to-1600-in-august-2026",
-   "yes": 0.075,
-   "no": 0.925,
-   "volumen": 98322.07768900001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Caerá Ethereum a $1,600 en agosto?"
-  },
-  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
    "no": 0.055,
-   "volumen": 9997.497541000002,
+   "volumen": 9997.497541,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
@@ -223,7 +203,7 @@
    "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9995.647500000001,
+   "volumen": 9995.6475,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
@@ -241,8 +221,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.034,
-   "no": 0.966,
+   "yes": 0.04,
+   "no": 0.96,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -253,7 +233,7 @@
    "slug": "will-renan-santos-qualify-for-brazils-presidential-runoff-20260617203623448",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 9970.607002,
+   "volumen": 9970.607002000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Renan Santos calificará para la segunda vuelta presidencial de Brasil?"
@@ -277,6 +257,26 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
+  },
+  {
+   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
+   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
+   "yes": 0.05,
+   "no": 0.95,
+   "volumen": 9943.525083,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
+  },
+  {
+   "question": "Will \"Spider-Man: Brand New Day\" 3rd Weekend Box Office be less than 72m?",
+   "slug": "will-spider-man-brand-new-day-3rd-weekend-box-office-be-less-than-72m-20260812164837138",
+   "yes": 0.8815,
+   "no": 0.1185,
+   "volumen": 9934.041256,
+   "spread": 0.0,
+   "categoria": "Entretenimiento",
+   "question_es": "¿Será la recaudación de taquilla del tercer fin de semana de \"Spider-Man: Brand New Day\" inferior a 72 millones?"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 20.61
+ "db_size_mb": 20.68
 }
