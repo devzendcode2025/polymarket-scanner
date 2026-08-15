@@ -6,10 +6,15 @@
 set -u
 cd /srv/hermes-projects/proyectos/polymarket-scanner || { echo "ERROR: no existe el proyecto"; exit 1; }
 
-# Lock para no pisar scans simultaneos
+# Lock a prueba de huerfanos: flock del kernel se libera solo si el proceso
+# muere (SIGKILL incluido). El mkdir anterior dejo un lock huerfano el
+# 2026-08-14 y el cron corrio "ok" sin hacer nada durante ~24h.
 LOCK=/tmp/polymarket-scan.lock
-if ! mkdir "$LOCK" 2>/dev/null; then exit 0; fi
-trap 'rmdir "$LOCK" 2>/dev/null' EXIT
+exec 9>"$LOCK"
+if ! flock -n 9; then
+  exit 0  # otro scan en curso, saltar este tick
+fi
+trap 'rm -f "$LOCK"' EXIT
 
 # 1) Scan (silencioso) + poda de disco
 if ! python3 workspace/scripts/run_scan.py --quiet; then

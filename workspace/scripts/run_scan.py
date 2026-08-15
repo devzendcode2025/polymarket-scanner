@@ -24,6 +24,8 @@ import analyst  # noqa: E402
 import translate  # noqa: E402
 import crosscheck  # noqa: E402
 import categorias  # noqa: E402
+import narrativa  # noqa: E402
+import historico_aciertos  # noqa: E402
 
 PROYECTO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 WORKSPACE = os.path.join(PROYECTO, "workspace")
@@ -66,13 +68,23 @@ def main():
         dbmod.insert_snapshot(conn, m)
         snap_guardados += 1
 
-    # 2b. Poda de snapshots viejos
+    # 2b. Poda de snapshots viejos + trades viejos (control de disco)
     podados = dbmod.prune_snapshots(conn, SNAPSHOT_TTL_DIAS)
-    print(f"  Snapshots guardados: {snap_guardados} | podados (>30d): {podados}")
+    podados_t = dbmod.prune_trades(conn, 7)
+    print(f"  Snapshots guardados: {snap_guardados} | podados (>30d): {podados} | trades podados (>7d): {podados_t}")
 
     # 3. Detecciones
-    mispricings = scanner.detect_mispricing(markets)
-    print(f"  Mispricings (Yes+No != 1, vol>=$10k): {len(mispricings)}")
+    # 3a. Mispricings: ademas del top-200 (eficientes), barrer la cola
+    #     (offset 200-400, menor volumen) donde es mas probable el desvio.
+    #     La cola NO se guarda en snapshots ni trades (solo se escanea).
+    cola = []
+    try:
+        cola = pc.fetch_top_binary_markets(200, offset=200)
+    except Exception:  # noqa: BLE001 - el barrido extra no rompe el scan
+        pass
+    mispricings = scanner.detect_mispricing(markets + cola)
+    print(f"  Mispricings (Yes+No != 1, vol>=$10k): {len(mispricings)} "
+          f"(barrido: {len(markets)} top + {len(cola)} cola)")
 
     trades = pc.fetch_trades(limit=200)
     norm_trades = []
@@ -114,7 +126,7 @@ def main():
     print(f"  Momentum (>=5% vs scan anterior): {len(momentum)}")
 
     # 3b. Cross-check fuentes externas (F3): edge = "datos ganadores"
-    edges = crosscheck.get_edges([
+    edges = crosscheck.get_edges(conn, [
         {"question": m["question"], "slug": m.get("slug"),
          "yes": m["yes"], "volume": m["volume"]}
         for m in markets
@@ -154,6 +166,19 @@ def main():
             if f["titulo"] in trad:
                 f["titulo_es"] = trad[f["titulo"]]
 
+    # 3e. Narrativa DeepSeek (F4): justificaciones narradas de las top-5 senales.
+    # La clave de cache incluye los datos numericos: mercados quietos = 0 llamadas.
+    seleccion = narrativa.seleccionar_top(mispricings, whales, momentum, edges, n=5)
+    narrativa.narrar(conn, seleccion)
+    n_narr = sum(1 for d in mispricings + whales + momentum + edges if d.get("narrativa"))
+    print(f"  Narrativas F4: {n_narr} senales con analisis narrado")
+
+    # 3f. Historico de aciertos (marketing): convergencia de ballenas resueltas
+    historico = historico_aciertos.get_historico(conn)
+    if historico:
+        print(f"  Historico aciertos: {historico['aciertos']}/{historico['total']} "
+              f"({historico['pct']}%)")
+
     # 4. Reporte
     report = {
         "ts": ts,
@@ -166,6 +191,7 @@ def main():
         "momentum": momentum,
         "edges": edges,
         "top_volumen": top_volumen,
+        "historico": historico,
     }
     os.makedirs(REPORTS, exist_ok=True)
     json_path = os.path.join(REPORTS, f"scan_{stamp}.json")

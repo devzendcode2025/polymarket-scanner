@@ -27,7 +27,7 @@
   .stat { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; }
   .stat .num { font-size:1.7rem; font-weight:700; }
   .stat .lbl { color:var(--dim); font-size:.8rem; margin-top:2px; }
-  .stat.green .num { color:var(--green); } .stat.red .num { color:var(--red); } .stat.accent .num { color:var(--accent); } .stat.blue .num { color:var(--blue); }
+  .stat.green .num { color:var(--green); } .stat.red .num { color:var(--red); } .stat.accent .num { color:var(--accent); } .stat.blue .num { color:var(--blue); } .stat.gold .num { color:#fbbf24; }
   .panel { background:var(--card); border:1px solid var(--line); border-radius:12px; margin-bottom:18px; overflow:hidden; }
   .panel h2 { font-size:1rem; padding:14px 18px; border-bottom:1px solid var(--line); display:flex; justify-content:space-between; align-items:center; }
   .panel h2 .tag { font-size:.7rem; font-weight:600; padding:3px 10px; border-radius:999px; }
@@ -69,6 +69,7 @@
   .sig-meta .prob.big .bar { max-width:220px; height:10px; }
   .sig-meta .prob.big .pct { font-size:1.05rem; font-weight:700; }
   .sig-razon { color:var(--dim); font-size:.82rem; margin-top:10px; border-left:3px solid var(--line); padding-left:10px; }
+  .sig-narrativa { color:#cfe3ff; font-size:.85rem; margin-top:8px; border-left:3px solid #3b82f6; padding-left:10px; background:rgba(59,130,246,.07); border-radius:6px; padding-top:6px; padding-bottom:6px; }
   .empty { padding:26px 18px; text-align:center; color:var(--dim); font-size:.9rem; }
   .error { padding:18px; text-align:center; color:var(--red); font-size:.85rem; }
   .cta { background:linear-gradient(135deg,#1a2030,#14201f); border:1px solid rgba(38,166,153,.35); border-radius:12px; padding:22px; text-align:center; margin:24px 0; }
@@ -178,7 +179,7 @@ const TZ = { timeZone: "America/Managua" };
 // ejecutable=true -> el país PUEDE operar en Polymarket (23 habilitados).
 // ejecutable=false -> bloqueado para trading (Brasil, Cuba, Nicaragua, Venezuela): solo datos.
 const PAISES = {
-  "peru":        { n:"Perú",               tags:["peru"],                      kw:["peru","perú","lima","boluarte"], e:true },
+  "peru":        { n:"Perú",               tags:["peru","peruvian"],          kw:["peru","perú","peruvian","lima","boluarte"], e:true },
   "mexico":      { n:"México",             tags:["mexico","mexican"],           kw:["méxico","mexico","sheinbaum","amlo","cdmx"], e:true },
   "argentina":   { n:"Argentina",          tags:["argentina","argentine"],      kw:["argentina","milei","buenos aires"], e:true },
   "colombia":    { n:"Colombia",           tags:["colombia","colombian"],       kw:["colombia","gustavo petro","bogotá","bogota"], e:true },
@@ -343,7 +344,9 @@ function signalCards(list, tipo){
            "<span class='badge hor'>Horizonte " + esc(d.horizonte) + "</span>" +
            badgeCat(d.categoria) +
            "<span class='badge dim'>" + extra + "</span></div>" +
-           "<div class='sig-razon'>💡 " + esc(d.razon) + "</div></div>";
+           "<div class='sig-razon'>💡 " + esc(d.razon) + "</div>" +
+           (d.narrativa ? "<div class='sig-narrativa'>📝 " + esc(d.narrativa) + "</div>" : "") +
+           "</div>";
   }
   return out;
 }
@@ -376,7 +379,9 @@ function edgeCards(list){
            "<span class='badge hor'>Horizonte " + esc(e.horizonte) + "</span>" +
            badgeCat(e.categoria) +
            "<span class='badge dim'>" + esc(e.direccion) + "</span></div>" +
-           "<div class='sig-razon'>💡 " + esc(e.razon) + "</div></div>";
+           "<div class='sig-razon'>💡 " + esc(e.razon) + "</div>" +
+           (e.narrativa ? "<div class='sig-narrativa'>📝 " + esc(e.narrativa) + "</div>" : "") +
+           "</div>";
   }
   return out;
 }
@@ -394,7 +399,7 @@ function renderDesdePipeline(r){
 
   const mb = document.getElementById("misp");
   mb.innerHTML = misp.length ? signalCards(misp, "🎯 Mispricing")
-    : emptyBox("Sin ineficiencias en los mercados de alta liquidez. El barrido de menor volumen está en desarrollo.");
+    : emptyBox("Sin ineficiencias en los top-400 mercados por volumen. Los mercados de alta liquidez son eficientes; el barrido cubre hasta el puesto 400.");
 
   const mo = document.getElementById("mom");
   mo.innerHTML = mom.length ? signalCards(mom, "📈 Momentum")
@@ -406,6 +411,7 @@ function renderDesdePipeline(r){
 
   renderTop(top);
 
+  const hist = r.historico || {};
   const stats = [
     ['class="stat blue"', r.mercados ?? "—", "Mercados monitoreados"],
     ['class="stat green"', ballenas.length, "Ballenas (≥ $1k)"],
@@ -413,7 +419,8 @@ function renderDesdePipeline(r){
     ["", misp.length, "Mispricings activos"],
     ["", mom.length, "Alertas de momentum"],
     ["", edges.length, "Datos ganadores (edge)"],
-  ].map(s => "<div " + s[0] + "><div class='num'>" + s[1] + "</div><div class='lbl'>" + s[2] + "</div></div>").join("");
+    (hist.total ? ['class="stat gold"', hist.pct + "%", "Señales acertadas (" + hist.aciertos + "/" + hist.total + ")"] : []),
+  ].filter(s => s.length).map(s => "<div " + s[0] + "><div class='num'>" + s[1] + "</div><div class='lbl'>" + s[2] + "</div></div>").join("");
   document.getElementById("stats").innerHTML = stats;
 }
 

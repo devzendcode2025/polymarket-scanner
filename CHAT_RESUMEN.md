@@ -1,5 +1,18 @@
 # CHAT_RESUMEN — polymarket-scanner
 
+### 2026-08-15 [~10:30-12:30] — v0.8.0: F4 narrativa + F3 con confirmación DeepSeek + barrido mispricings + histórico (sesión autónoma)
+- **Petición:** "que puede ir avanzando sin supervisión. Para sacar este proyecto en menos tiempo. Y tú me das un reporte al final del día" (WhatsApp). Autorización amplia de trabajo autónomo sobre la hoja de ruta.
+- **Acciones:**
+  - 🐛 **CRÍTICO encontrado:** el lock `/tmp/polymarket-scan.lock` (mkdir) quedó huérfano el 2026-08-14 16:04 → el cron de 1 min corría "ok" sin hacer NADA desde ayer (~24h): sitio congelado, data.json del 14. Fix: flock del kernel (se libera solo si el proceso muere) en cron_scan.sh. Verificado: scan real 200 mercados + push edf95da (primer push en 24h).
+  - **F4 NARRATIVA DeepSeek** (narrativa.py): justificaciones narradas en español de las top-5 señales (2-3 frases con los números reales, nota de riesgo). Caché SQLite por clave (tipo+identidad+datos) → mercados quietos = 0 llamadas. Límite 5 por corrida. Mostrada en las tarjetas del dashboard (bloque 📝). Probado: 3-5 narrativas reales por scan.
+  - **F3 DEPURACIÓN del matching** (crosscheck.py v2): candidatos laxos (≥1 nombre propio compartido ≥5 chars, o ≥2 tokens comunes con raro) + CONFIRMACIÓN DeepSeek en batch ("mismo evento SI/NO", cache SQLite edge_confirm, max 60 pares/corrida). Se eliminó el fallback estricto v1 (dejaba pasar falsos positivos tipo "Taylor Swift GRAMMY" vs "gira NZ"). MAX_POLY 50→200. Primera pasada real: 30 pares confirmados (29 NO, 1 SI — correcto). Bug fix: max_tokens proporcional a los pares (el JSON truncado rompía la confirmación).
+  - **MISPRICINGS ampliado:** barrido de la cola (offset 200-400 por volumen) además del top-200, solo para mispricings (sin snapshots/trades extra). 0 señales hoy (mercados eficientes), pero el barrido queda.
+  - **HISTÓRICO DE ACIERTOS** (historico_aciertos.py): cruza mercados resueltos (Gamma closed) con trades ≥$1k de la BD → % de aciertos de ballenas (marketing "nuestras señales acertaron X%"). Caché 30 min. Stat dorada en el dashboard (aparece cuando hay datos). Hoy 0/0 (arranca a acumular).
+  - **PODA DE TRADES** (db.py prune_trades, TTL 7 días): la BD crecía ~13 MB/día por trades; con TTL queda acotada (hoy 15.5 MB).
+  - **F5 PILOTO PERÚ verificado en vivo:** 0 mercados peruanos en los top-400 de Gamma hoy (ni por tags ni keywords: boluarte/lima/perú). El filtro por país matchea correctamente tags+keywords, pero no hay mercado "sobre Perú" que mostrar; el valor del filtro es operativo (qué puede operar un peruano). Keywords de Perú ampliadas (peruvian).
+- **Resultado:** v0.8.0, `make test` TODO OK, push publicado. Pipeline completo en producción: scan 1/min con F4+F3 v2+mispricing 400+histórico+poda.
+- **Pendientes:** verificar data.json nuevo en el sitio tras caché de Pages (10 min); canal Telegram (requiere usuario: BotFather); F5 real cuando Polymarket tenga mercados peruanos (ej. elecciones Perú 2026); backtest Fase 2; on-ramps USDC; Azuro; histórico necesita días para tener datos.
+
 ### 2026-08-14 [13:30] — v0.7.1: fix decimales largos en porcentajes
 - **Petición:** usuario reportó en las tarjetas "2.0500000000000003%" (mercado Alito) — error de punto flotante JS.
 - **Acciones:** localizado en probBar() (workspace/web/dashboard.html línea 223): normalizaba p pero lo imprimía crudo (el "No" usaba toFixed(1) por eso salía bien). Fix: `pc = Math.round(p*10)/10` usado en width y texto → afecta todas las vistas (tarjetas, top, señales).

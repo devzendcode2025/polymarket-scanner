@@ -38,14 +38,15 @@
 - [x] SITIO PÚBLICO EN LÍNEA: https://devzendcode2025.github.io/polymarket-scanner/ (GitHub Pages, repo público polymarket-scanner)
 - [x] DASHBOARD DINÁMICO (v0.4.0): app JS consulta las APIs de Polymarket EN VIVO desde el navegador (ballenas vía Data API, top mercados vía Gamma — CORS verificado) + data.json del pipeline (mispricings/momentum) + auto-refresh 60s + hora Nicaragua
 - [x] Generador: render_dashboard.py → docs/data.json (detecciones del último scan); docs/index.html = app fija con JS
-- [x] Sitio se auto-actualiza: cron 1/min → render → push condicional (detecciones o ≥6 min; límite Pages ~10 builds/h)
-- [x] CROSS-CHECK DE PROBABILIDADES (F3): Kalshi/Manifold/PredictIt (Metaculus exige cuenta) → EDGE "datos ganadores"; matching por tokens raros + categoría; DEPURACIÓN del matching pendiente (LLM/embeddings para mismo evento) — ver Fase 1
-- [ ] ANALISTA DEEPSEEK (F4): justificaciones narradas en español con el edge real (clave de Hermes ya autorizada; top-5 señales, cron 30-60 min)
-- [ ] PILOTO POR PAÍS (F5): verificación en vivo con Perú + ajustes
-- [ ] Firebase Firestore + dominio propio + cPanel: FASE FUTURA (usuario decidió dejarlo para adelante; el HTML estático migra sin cambios)
-- [ ] Canal Telegram público (detecciones gratis)
+- [x] CROSS-CHECK DE PROBABILIDADES (F3): Kalshi + Manifold + PredictIt (Metaculus exige cuenta) → EDGE "datos ganadores", caché 10 min, matching por tokens raros + categoría (v0.7.0)
+- [x] DEPURACIÓN DEL MATCHING DE EDGES (F3, v0.8.0): candidatos laxos (nombres propios ≥5 chars o ≥2 tokens con raro) + CONFIRMACIÓN DeepSeek en batch "mismo evento SI/NO" (cache SQLite edge_confirm, 60 pares/corrida, precisión absoluta: sin confirmación no hay edge). Se eliminó el fallback v1 (falsos positivos). MAX_POLY 50→200.
+- [x] ANALISTA DEEPSEEK NARRANDO (F4, v0.8.0): narrativa.py — top-5 señales con justificación narrada en español (2-3 frases, números reales, nota de riesgo), caché SQLite por clave (0 llamadas si la señal no cambió), mostrada en las tarjetas del dashboard
+- [x] HISTÓRICO DE ACIERTOS (v0.8.0): historico_aciertos.py cruza mercados resueltos con trades ≥$1k → % de aciertos de ballenas (stat dorada en dashboard; hoy 0/0, acumula datos)
+- [x] PODA DE TRADES (v0.8.0): TTL 7 días (la BD crecía ~13 MB/día)
+- [x] MISPRICINGS: barrido ampliado al puesto 400 por volumen (offset 200-400, solo escaneo) (v0.8.0)
+- [ ] PILOTO POR PAÍS (F5): VERIFICADO en vivo 2026-08-15 — 0 mercados peruanos en top-400 de Gamma (filtro por país OK por tags+keywords; el mercado "sobre Perú" no existe aún; keywords de Perú ampliadas). Re-evaluar cuando haya mercados peruanos (elecciones Perú 2026)
+- [ ] Canal Telegram público (detecciones gratis) — REQUIERE usuario (BotFather)
 - [ ] Canal Telegram pago: alertas ballenas $10/mes, scanner $20/mes, combo $25/mes (pago en USDC)
-- [ ] HISTÓRICO DE ACIERTOS: trackear convergencia de edges/ballenas (marketing "nuestras señales aciertan X%")
 - [ ] Boletín semanal (Substack) — mes 2-3
 - [ ] Venta B2B del feed (mes 3+): $50-200/mes por cliente
 

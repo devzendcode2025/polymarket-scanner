@@ -58,6 +58,18 @@ CREATE TABLE IF NOT EXISTS translations (
     target TEXT,
     ts INTEGER
 );
+
+CREATE TABLE IF NOT EXISTS narrativas (
+    key TEXT PRIMARY KEY,
+    texto TEXT,
+    ts INTEGER
+);
+
+CREATE TABLE IF NOT EXISTS edge_confirm (
+    key TEXT PRIMARY KEY,
+    resultado TEXT,
+    ts INTEGER
+);
 """
 
 
@@ -159,11 +171,64 @@ def save_translations(conn, pairs):
     conn.commit()
 
 
+def get_narrativa(conn, key):
+    """Devuelve la narrativa cacheada para una clave, o None."""
+    cur = conn.cursor()
+    cur.execute("SELECT texto FROM narrativas WHERE key = ?", (key,))
+    row = cur.fetchone()
+    return row[0] if row else None
+
+
+def save_narrativas(conn, pairs):
+    """Guarda narrativas nuevas {key: texto}."""
+    cur = conn.cursor()
+    now = int(time.time())
+    for k, texto in pairs.items():
+        cur.execute(
+            "INSERT OR REPLACE INTO narrativas (key, texto, ts) VALUES (?,?,?)",
+            (k, texto, now),
+        )
+    conn.commit()
+
+
+def get_confirmacion(conn, key):
+    """Devuelve 'SI'/'NO' de una confirmacion de edge cacheada, o None."""
+    cur = conn.cursor()
+    cur.execute("SELECT resultado FROM edge_confirm WHERE key = ?", (key,))
+    row = cur.fetchone()
+    return row[0] if row else None
+
+
+def save_confirmaciones(conn, pairs):
+    """Guarda confirmaciones {key: 'SI'|'NO'}."""
+    cur = conn.cursor()
+    now = int(time.time())
+    for k, res in pairs.items():
+        cur.execute(
+            "INSERT OR REPLACE INTO edge_confirm (key, resultado, ts) VALUES (?,?,?)",
+            (k, res, now),
+        )
+    conn.commit()
+
+
 def prune_snapshots(conn, max_age_days=30):
     """Elimina snapshots mas viejos que max_age_days. Devuelve filas borradas."""
     cur = conn.cursor()
     cutoff = int(time.time()) - max_age_days * 86400
     cur.execute("DELETE FROM price_snapshots WHERE ts < ?", (cutoff,))
+    conn.commit()
+    return cur.rowcount
+
+
+def prune_trades(conn, max_age_days=7):
+    """Poda trades viejos (la API trae 200 por minuto; TTL corto controla el disco).
+
+    Devuelve filas borradas. 7 dias cubren ballenas recientes y el historico
+    de aciertos de mercados que se resuelven en dias.
+    """
+    cur = conn.cursor()
+    cutoff = int(time.time()) - max_age_days * 86400
+    cur.execute("DELETE FROM trades WHERE ts < ?", (cutoff,))
     conn.commit()
     return cur.rowcount
 

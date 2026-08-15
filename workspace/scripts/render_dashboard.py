@@ -34,6 +34,7 @@ def main():
         "ballenas_scan": r["ballenas"],
         "edges": r.get("edges", []),
         "top_volumen": r.get("top_volumen", []),
+        "historico": r.get("historico", {}),
         "db_size_mb": r.get("db_size_mb", 0),
     }
     os.makedirs(os.path.dirname(OUT), exist_ok=True)

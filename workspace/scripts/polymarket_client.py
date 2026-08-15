@@ -113,11 +113,11 @@ def parse_market(m):
         return None
 
 
-def fetch_top_binary_markets(n=200):
-    """Trae los N mercados binarios activos con mas volumen."""
+def fetch_top_binary_markets(n=200, offset=0):
+    """Trae los N mercados binarios activos con mas volumen, desde un offset."""
     out = []
-    for offset in range(0, n, 100):
-        batch = fetch_markets(limit=100, offset=offset)
+    for off in range(offset, offset + n, 100):
+        batch = fetch_markets(limit=100, offset=off)
         for m in batch:
             p = parse_market(m)
             if p is not None:
