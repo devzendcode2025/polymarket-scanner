@@ -1,58 +1,77 @@
 {
- "ts": 1786723415,
- "stamp": "20260814_160335",
+ "ts": 1786810407,
+ "stamp": "20260815_161327",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd08a5441e548d2c9b06dc7a7b7631389f9e544750cb58325ebe80438dcee5f6a",
-   "titulo": "LoL: Shifters vs SK Gaming - Game 2 Winner",
-   "slug": "lol-shft-sk-2026-08-14-game2",
-   "outcome": "Shifters",
+   "market_id": "0x34d22da88d8bd77ccb49365ee1441e3dee18a55c971d2f3f53fe2c951b61ef9a",
+   "titulo": "LoL: SK Gaming vs Fnatic - Game 2 Winner",
+   "slug": "lol-sk-fnc-2026-08-15-game2",
+   "outcome": "SK Gaming",
    "side": "BUY",
-   "size": 6856.53,
-   "price": 0.52,
-   "usd": 3565.4,
-   "ts": 1786723162,
+   "size": 4607.578595,
+   "price": 0.5642877154,
+   "usd": 2600.0,
+   "ts": 1786810230,
    "categoria": "Deportes",
-   "prob": 57,
+   "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,565 en 'Shifters'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-shft-sk-2026-08-14-game2",
-   "titulo_es": "LoL: Shifters vs SK Gaming - Ganador del Juego 2"
+   "razon": "Trade de compra por $2,600 en 'SK Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-sk-fnc-2026-08-15-game2",
+   "titulo_es": "LoL: SK Gaming vs Fnatic - Ganador del Juego 2"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x8ec22bb015e1d162d5c918b06cc050e60a338ac4eec8aaae5909a5c15795bc3b",
+   "titulo": "Will FC Volendam win on 2026-08-15?",
+   "slug": "ned2-vol-oss-2026-08-15-vol",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1700.0,
+   "price": 0.984,
+   "usd": 1672.8,
+   "ts": 1786810227,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,673 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ned2-vol-oss-2026-08-15-vol",
+   "titulo_es": "¿Ganará el FC Volendam el 15-08-2026?"
   }
  ],
  "edges": [
   {
    "tipo": "edge",
-   "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
-   "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
-   "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-10-15",
-   "prob_poly": 18.5,
-   "consenso": 1.0,
-   "edge": -17.5,
+   "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
+   "slug": "will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
+   "url": "https://polymarket.com/market/will-the-fate-of-ophelia-taylor-swift-win-song-of-the-year-at-the-69th-annual-grammy-awards-20260805190947571",
+   "prob_poly": 43.0,
+   "consenso": 34.5,
+   "edge": -8.5,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
      "fuente": "Manifold",
-     "titulo": "Will the winner of the South Carolina Special Republican Primary for Senate recieve at least 50% of the vote?",
-     "prob": 1.0000000000000022,
-     "url": "https://manifold.markets/NicBergman/will-the-winner-of-the-south-caroli",
-     "_poly_question": "Spread: CF Monterrey (-1.5)",
-     "titulo_es": "¿Recibirá el ganador de la Primaria Republicana Especial de Carolina del Sur para el Senado al menos el 50% de los votos?"
+     "titulo": "Will Taylor swift announce she’s performing in New Zealand before EOY 2027?",
+     "prob": 34.53783434138884,
+     "url": "https://manifold.markets/JasonMendoza2008/will-taylor-swift-announce-shes-per-OZnQyCgA50",
+     "_poly_question": "Will James Harden play for the Washington Wizards in 2026-27?",
+     "titulo_es": "¿Anunciará Taylor Swift que se presentará en Nueva Zelanda antes de fin de 2027?"
     }
    ],
    "n_fuentes": 1,
-   "categoria": "Política",
-   "prob": 76,
+   "categoria": "Entretenimiento",
+   "prob": 65,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 18.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 1.0%: diferencia de 17.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
-   "question_es": "¿Ganará el candidato del Partido Republicano las elecciones al Senado de Carolina del Sur en 2026 por 10%-15%?"
+   "razon": "Polymarket paga este mercado a 43.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 34.5%: diferencia de 8.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "question_es": "¿Ganará The Fate of Ophelia (Taylor Swift) el premio a Canción del Año en la 69.ª Entrega Anual de los Premios GRAMMY?"
   }
  ],
  "top_volumen": [
@@ -61,7 +80,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 987374.173522,
+   "volumen": 994870.610854,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -69,32 +88,62 @@
   {
    "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
-   "yes": 0.0205,
-   "no": 0.9795,
-   "volumen": 985980.5857229999,
+   "yes": 0.0195,
+   "no": 0.9805,
+   "volumen": 988149.042131,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
-   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
-   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 983741.491909,
+   "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
+   "yes": 0.1315,
+   "no": 0.8685,
+   "volumen": 985645.7568139998,
    "spread": 0.0,
    "categoria": "Deportes",
-   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
+   "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
+  },
+  {
+   "question": "Will FISA Section 702 reauthorization become law this year?",
+   "slug": "will-fisa-section-702-reauthorization-become-law-this-year",
+   "yes": 0.39,
+   "no": 0.61,
+   "volumen": 99715.52531699999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Se convertirá en ley la reautorización de la Sección 702 de FISA este año?"
+  },
+  {
+   "question": "NATO x Russia military clash by October 31, 2026?",
+   "slug": "nato-x-russia-military-clash-by-october-31-2026",
+   "yes": 0.075,
+   "no": 0.925,
+   "volumen": 99580.656173,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99532.33042000003,
+   "volumen": 99543.66375199998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
+  },
+  {
+   "question": "Will MicroStrategy be margin called in 2026?",
+   "slug": "will-microstrategy-be-margin-called-in-2026",
+   "yes": 0.0335,
+   "no": 0.9665,
+   "volumen": 99179.48181799997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -105,26 +154,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
-  },
-  {
-   "question": "Will MicroStrategy be margin called in 2026?",
-   "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.034,
-   "no": 0.966,
-   "volumen": 99159.48181799997,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
-  },
-  {
-   "question": "NATO x Russia military clash by October 31, 2026?",
-   "slug": "nato-x-russia-military-clash-by-october-31-2026",
-   "yes": 0.075,
-   "no": 0.925,
-   "volumen": 99069.69360200001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
@@ -139,8 +168,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.061,
-   "no": 0.939,
+   "yes": 0.0665,
+   "no": 0.9335,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -149,12 +178,22 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.295,
-   "no": 0.705,
-   "volumen": 98896.73757199998,
+   "yes": 0.285,
+   "no": 0.715,
+   "volumen": 98904.73757199997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
+  },
+  {
+   "question": "Will the price of Bitcoin be above $68,000 on August 15?",
+   "slug": "bitcoin-above-68k-on-august-15-2026",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 98448.013435,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin por encima de $68,000 el 15 de agosto?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -167,64 +206,44 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?",
-   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779",
+   "question": "Will the Democratic Party win the FL-10 House seat?",
+   "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
+   "yes": 0.945,
+   "no": 0.055,
+   "volumen": 9997.497541000002,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
+  },
+  {
+   "question": "Will StepFun have the best AI model at the end of September 2026?",
+   "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98413.95752599998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en otro país de Oriente Medio/Norte de África antes del 30 de septiembre de 2026?"
-  },
-  {
-   "question": "Will Dogecoin reach $0.15 in August?",
-   "slug": "will-dogecoin-reach-0pt15-in-august-2026",
-   "yes": 0.009,
-   "no": 0.991,
-   "volumen": 9996.76192,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Dogecoin los $0.15 en agosto?"
-  },
-  {
-   "question": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
-   "slug": "will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700",
-   "yes": 0.1205,
-   "no": 0.8795,
-   "volumen": 9974.940754000001,
+   "volumen": 9995.647500000001,
    "spread": 0.0,
    "categoria": "Tecnología",
-   "question_es": "¿Será Alibaba el segundo mejor laboratorio de IA matemática a finales de agosto de 2026?"
+   "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
+  },
+  {
+   "question": "Will Shakira's monthly listeners figure hit 107m by August 31?",
+   "slug": "will-shakiras-monthly-listeners-figure-hit-107m-by-august-31-20260723155943132",
+   "yes": 0.958,
+   "no": 0.042,
+   "volumen": 9976.74125,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará la cifra de oyentes mensuales de Shakira los 107 millones para el 31 de agosto?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0415,
-   "no": 0.9585,
+   "yes": 0.032,
+   "no": 0.968,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
-  },
-  {
-   "question": "Cincinnati Open: Maya Joint vs Tamara Korpatsch",
-   "slug": "wta-joint-korpats-2026-08-13",
-   "yes": 0.675,
-   "no": 0.325,
-   "volumen": 9969.887198,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Maya Joint vs Tamara Korpatsch"
-  },
-  {
-   "question": "Will the US federal government take a stake in OpenAI?",
-   "slug": "will-the-us-federal-government-take-a-stake-in-openai",
-   "yes": 0.25,
-   "no": 0.75,
-   "volumen": 9969.309623000003,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en OpenAI?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -237,54 +256,54 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
-   "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
-   "yes": 0.245,
-   "no": 0.755,
-   "volumen": 9948.784999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Carlos Ricardo Bruce Montes de Oca las próximas elecciones a la alcaldía de Lima?"
-  },
-  {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.055,
-   "no": 0.945,
+   "yes": 0.085,
+   "no": 0.915,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   },
   {
-   "question": "Will Z.ai be the second-best Chinese AI company at the end of August 2026?",
-   "slug": "will-zptai-be-the-second-best-chinese-ai-company-at-the-end-of-august-2026-20260720223339926",
-   "yes": 0.2745,
-   "no": 0.7255,
-   "volumen": 9945.378467,
+   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
+   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
+   "yes": 0.0545,
+   "no": 0.9455,
+   "volumen": 9943.525082999999,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Z.ai la segunda mejor empresa china de IA a finales de agosto de 2026?"
+   "categoria": "Política",
+   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
-   "question": "Will Thinky have the best AI model at the end of September 2026?",
-   "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137067",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9918.892000000002,
+   "question": "Will the highest temperature in Amsterdam be 28°C on August 15?",
+   "slug": "highest-temperature-in-amsterdam-on-august-15-2026-28c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9922.283017,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Thinky el mejor modelo de IA a finales de septiembre de 2026?"
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Ámsterdam de 28°C el 15 de agosto?"
   },
   {
    "question": "Will the Democratic Party win the AR-01 House seat?",
    "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.0155,
-   "no": 0.9845,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 9914.337593,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
+  },
+  {
+   "question": "USMCA extended in 2026?",
+   "slug": "usmca-extended-in-2026-20260701162719768",
+   "yes": 0.21,
+   "no": 0.79,
+   "volumen": 9908.915998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Se extenderá el T-MEC en 2026?"
   },
   {
    "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
@@ -299,13 +318,13 @@
   {
    "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
    "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
-   "yes": 0.305,
-   "no": 0.695,
+   "yes": 0.36,
+   "no": 0.64,
    "volumen": 9903.455292999997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
   }
  ],
- "db_size_mb": 15.09
+ "db_size_mb": 15.31
 }
