@@ -1,10 +1,31 @@
 {
- "ts": 1786833666,
- "stamp": "20260815_224106",
+ "ts": 1786833966,
+ "stamp": "20260815_224606",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xa8045ef9b865f4565b4f676adcd87077811ae473d7c2d6e0cc21b418e2cb3c9a",
+   "titulo": "Valorant: KRÜ Esports vs MIBR - Map 2 Winner",
+   "slug": "val-kru1-mibr-2026-08-15-game2",
+   "outcome": "MIBR",
+   "side": "SELL",
+   "size": 3916.98,
+   "price": 0.999,
+   "usd": 3913.06,
+   "ts": 1786833654,
+   "categoria": "Deportes",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $3,913 en 'MIBR'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-kru1-mibr-2026-08-15-game2",
+   "titulo_es": "Valorant: KRÜ Esports vs MIBR - Ganador del Mapa 2",
+   "narrativa": "La venta de MIBR en el mapa 2 de KRÜ vs MIBR presenta un edge de +3.2 puntos frente al consenso externo del 58%, con un monto de $3,913 que refleja una posición significativa en un mercado de volumen moderado. El desvío del 4.1% respecto al precio justo sugiere que el mercado está sobrevalorando a MIBR tras su actuación en el mapa 1, lo que abre una ventana de valor. Riesgo: posible corrección rápida si el equipo ajusta su estrategia entre mapas."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -170,8 +191,8 @@
   {
    "question": "Jaguars vs. Saints",
    "slug": "nfl-jax-no-2026-08-15",
-   "yes": 0.33,
-   "no": 0.67,
+   "yes": 0.37,
+   "no": 0.63,
    "volumen": 98403.52016199997,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -180,8 +201,8 @@
   {
    "question": "Will Ethereum dip to $1,600 in August?",
    "slug": "will-ethereum-dip-to-1600-in-august-2026",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.075,
+   "no": 0.925,
    "volumen": 98322.07768900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -220,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.036,
-   "no": 0.964,
+   "yes": 0.034,
+   "no": 0.966,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 20.54
+ "db_size_mb": 20.6
 }
