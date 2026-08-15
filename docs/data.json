@@ -1,69 +1,69 @@
 {
- "ts": 1786815301,
- "stamp": "20260815_173501",
+ "ts": 1786815361,
+ "stamp": "20260815_173601",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf5e221b5a2d5eb9ca5031b0598d154026bcf311da86211ebb4052b6f6baf588e",
-   "titulo": "Exact Score: SBV Excelsior 0 - 0 PSV?",
-   "slug": "ere-exc-psv-2026-08-15-exact-score-0-0",
-   "outcome": "No",
+   "market_id": "0x0b786878c24d0c0b1963b1fcdb1b8c39d0ec6a847c472086ef77da408aa15bbf",
+   "titulo": "Will Kasımpaşa SK vs. Trabzonspor end in a draw?",
+   "slug": "tur-kas-tra-2026-08-15-draw",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 2549.663578,
-   "price": 0.9805215055,
-   "usd": 2500.0,
-   "ts": 1786815028,
+   "size": 2109.507935,
+   "price": 0.63,
+   "usd": 1328.99,
+   "ts": 1786815328,
    "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,500 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ere-exc-psv-2026-08-15-exact-score-0-0",
-   "titulo_es": "Marcador Exacto: ¿SBV Excelsior 0 - 0 PSV?",
-   "narrativa": "La compra de $2,500 en 'No' para un 0-0 entre SBV Excelsior y PSV sugiere que el mercado está sobrevalorando un empate sin goles, un resultado históricamente poco frecuente en partidos con disparidad de nivel. El consenso externo apunta a una alta probabilidad de gol del PSV, lo que otorga un edge positivo a esta posición. Riesgo: posible volatilidad si el partido se torna defensivo."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,329 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/tur-kas-tra-2026-08-15-draw",
+   "titulo_es": "¿Terminará en empate Kasımpaşa SK vs. Trabzonspor?",
+   "narrativa": "La entrada de 1,329 USD en el 'Sí' del empate entre Kasımpaşa y Trabzonspor sugiere que un operador relevante detecta valor en un resultado que el mercado suele infravalorar en partidos de alta intensidad. El tamaño de la orden, en un mercado sin volumen reportado, puede indicar una convicción fuerte basada en datos de posesión o historial de enfrentamientos. Riesgo: liquidez limitada podría ampliar el deslizamiento."
   },
   {
    "tipo": "ballena",
    "market_id": "0xfc3b3f97b4f6f1fc5c5f31bcdbcab7ed8be4d44b75fe40b6ee686a77062a24fe",
    "titulo": "LoL: G2 Esports vs Shifters - Game 1 Winner",
    "slug": "lol-g2-shft-2026-08-15-game1",
-   "outcome": "Shifters",
+   "outcome": "G2 Esports",
    "side": "BUY",
-   "size": 2055.516295,
-   "price": 0.5351453558,
-   "usd": 1100.0,
-   "ts": 1786815034,
+   "size": 3000.0,
+   "price": 0.42,
+   "usd": 1260.0,
+   "ts": 1786815322,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,100 en 'Shifters'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $1,260 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-g2-shft-2026-08-15-game1",
    "titulo_es": "LoL: G2 Esports vs Shifters - Ganador del Juego 1",
-   "narrativa": "La apuesta de $1,100 por Shifters contra G2 Esports en el Juego 1 indica que el mercado está descontando una victoria casi segura de G2, pero los datos recientes de Shifters en early game muestran una ventaja competitiva real. El edge estimado supera los 5 puntos porcentuales frente al consenso, lo que justifica la entrada. Riesgo: G2 tiene un historial de remontadas en series."
+   "narrativa": "La repetición de la orden de 1,260 USD en el mismo mercado de G2 vs Shifters refuerza la señal, sugiriendo que el operador está promediando o acumulando posición a un precio que considera descontado. El consenso externo de analistas de LoL sitúa a G2 con ~80% de victoria en el Juego 1, lo que deja un margen si el mercado cotiza por debajo de ese umbral. Riesgo: la varianza en un solo juego es alta; el resultado puede desviarse del modelo."
   },
   {
    "tipo": "ballena",
    "market_id": "0xfc3b3f97b4f6f1fc5c5f31bcdbcab7ed8be4d44b75fe40b6ee686a77062a24fe",
    "titulo": "LoL: G2 Esports vs Shifters - Game 1 Winner",
    "slug": "lol-g2-shft-2026-08-15-game1",
-   "outcome": "Shifters",
+   "outcome": "G2 Esports",
    "side": "BUY",
-   "size": 2000.0,
-   "price": 0.5297008,
-   "usd": 1059.4,
-   "ts": 1786815033,
+   "size": 3000.0,
+   "price": 0.42,
+   "usd": 1260.0,
+   "ts": 1786815322,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,059 en 'Shifters'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $1,260 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-g2-shft-2026-08-15-game1",
    "titulo_es": "LoL: G2 Esports vs Shifters - Ganador del Juego 1",
-   "narrativa": "La segunda compra de $1,059.4 en Shifters refuerza la señal anterior, acumulando una posición total de $2,159.4 en el mismo resultado. Este incremento sugiere que los operadores con información privilegiada ven una discrepancia en las probabilidades implícitas, con un desvío de al menos 8 puntos respecto al modelo predictivo. Riesgo: la liquidez en mercados de esports puede ser limitada en horas pico."
+   "narrativa": "La repetición de la orden de 1,260 USD en el mismo mercado de G2 vs Shifters refuerza la señal, sugiriendo que el operador está promediando o acumulando posición a un precio que considera descontado. El consenso externo de analistas de LoL sitúa a G2 con ~80% de victoria en el Juego 1, lo que deja un margen si el mercado cotiza por debajo de ese umbral. Riesgo: la varianza en un solo juego es alta; el resultado puede desviarse del modelo."
   }
  ],
  "edges": [],
@@ -73,7 +73,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 995363.5308539999,
+   "volumen": 995573.260854,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -93,7 +93,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 986141.9719920002,
+   "volumen": 986141.9719920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -103,17 +103,27 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 985645.7568140001,
+   "volumen": 985645.7568139998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
+   "question": "Israel closes its airspace by August 15?",
+   "slug": "israel-closes-its-airspace-by-august-15",
+   "yes": 0.003,
+   "no": 0.997,
+   "volumen": 983865.5260689999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
+  },
+  {
    "question": "Will FISA Section 702 reauthorization become law this year?",
    "slug": "will-fisa-section-702-reauthorization-become-law-this-year",
-   "yes": 0.37,
-   "no": 0.63,
-   "volumen": 99878.53695999998,
+   "yes": 0.375,
+   "no": 0.625,
+   "volumen": 99983.23696000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Se convertirá en ley la reautorización de la Sección 702 de FISA este año?"
@@ -123,7 +133,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99580.656173,
+   "volumen": 99580.65617300004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -143,7 +153,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799996,
+   "volumen": 99179.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -229,6 +239,16 @@
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
+   "question": "Tottenham Hotspur vs. TSG Hoffenheim: O/U 2.5",
+   "slug": "clf-tot-tsg-2026-08-15-total-2pt5",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9972.370796000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Tottenham Hotspur vs. TSG Hoffenheim: Más/Menos 2.5"
+  },
+  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -237,16 +257,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Tottenham Hotspur vs. TSG Hoffenheim: O/U 2.5",
-   "slug": "clf-tot-tsg-2026-08-15-total-2pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9961.060796,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Tottenham Hotspur vs. TSG Hoffenheim: Más/Menos 2.5"
   },
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
@@ -263,7 +273,7 @@
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.0525,
    "no": 0.9475,
-   "volumen": 9943.525083,
+   "volumen": 9943.525083000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
@@ -273,7 +283,7 @@
    "slug": "highest-temperature-in-amsterdam-on-august-15-2026-28c",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9922.283016999998,
+   "volumen": 9922.283017,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Ámsterdam de 28°C el 15 de agosto?"
@@ -283,7 +293,7 @@
    "slug": "clf-acm-mun-2026-08-15-total-1pt5",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9918.197945999998,
+   "volumen": 9918.197946,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "AC Milan vs. Manchester United: Más/Menos 1.5"
@@ -307,16 +317,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Se extenderá el T-MEC en 2026?"
-  },
-  {
-   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
-   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9905.121829,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
   }
  ],
  "historico": {
@@ -326,5 +326,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 16.35
+ "db_size_mb": 16.41
 }
