@@ -1,29 +1,29 @@
 {
- "ts": 1786813800,
- "stamp": "20260815_171000",
+ "ts": 1786814160,
+ "stamp": "20260815_171600",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xfc3b3f97b4f6f1fc5c5f31bcdbcab7ed8be4d44b75fe40b6ee686a77062a24fe",
-   "titulo": "LoL: G2 Esports vs Shifters - Game 1 Winner",
-   "slug": "lol-g2-shft-2026-08-15-game1",
-   "outcome": "G2 Esports",
+   "market_id": "0x79ef65fd4fb217c9930a48393d2e5d712177580ee976ebd12926216cf4c23f47",
+   "titulo": "Will TSG Hoffenheim win on 2026-08-16?",
+   "slug": "clf-tot-tsg-2026-08-16-tsg",
+   "outcome": "No",
    "side": "BUY",
-   "size": 1900.0,
-   "price": 0.89,
-   "usd": 1691.0,
-   "ts": 1786813524,
-   "categoria": "Deportes",
+   "size": 2043.5,
+   "price": 0.8999510644,
+   "usd": 1839.05,
+   "ts": 1786814127,
+   "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,691 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-g2-shft-2026-08-15-game1",
-   "titulo_es": "LoL: G2 Esports vs Shifters - Ganador del Juego 1",
-   "narrativa": "La compra en G2 Esports para el Juego 1 muestra un edge claro frente al consenso externo, con un monto de $1,691 que refleja convicción direccional en un matchup donde el historial reciente favorece al favorito. El desvío entre el precio implícito del mercado y la probabilidad real estimada ofrece un margen positivo de retorno esperado, aunque el volumen de mercado no reportado limita la profundidad de la señal. Riesgo: posible falta de liquidez en horarios de baja actividad."
+   "razon": "Trade de compra por $1,839 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/clf-tot-tsg-2026-08-16-tsg",
+   "titulo_es": "¿Ganará el TSG Hoffenheim el 2026-08-16?",
+   "narrativa": "La compra de 'No' en este mercado de Hoffenheim refleja una apuesta contraria al consenso implícito en el precio actual, con un edge estimado de +4.2 puntos frente a la probabilidad neutral del 50%. El monto de $1,839 sugiere convicción moderada, y la ausencia de volumen publicado indica que el mercado puede estar subvalorando la probabilidad de que no ganen, ofreciendo una entrada asimétrica. Riesgo: liquidez potencialmente baja, lo que podría dificultar la salida en el cierre."
   }
  ],
  "edges": [],
@@ -111,8 +111,8 @@
   {
    "question": "Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
    "slug": "elon-musk-of-tweets-august-11-august-18-140-159",
-   "yes": 0.1355,
-   "no": 0.8645,
+   "yes": 0.127,
+   "no": 0.873,
    "volumen": 99335.22828999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 16.05
+ "db_size_mb": 16.17
 }
