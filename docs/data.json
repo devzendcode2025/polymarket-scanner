@@ -1,29 +1,29 @@
 {
- "ts": 1786833006,
- "stamp": "20260815_223006",
+ "ts": 1786833066,
+ "stamp": "20260815_223106",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x4f0b0cd3c2bf3f1b0996d43c1a6a325041eae93dff8f47c7e87fcfdbda590f45",
-   "titulo": "UFC 330: Neil Magny vs. Ramiz Brahimaj (Welterweight, Prelims)",
-   "slug": "ufc-nei-ram2-2026-08-15",
-   "outcome": "Ramiz Brahimaj",
-   "side": "BUY",
-   "size": 1392.242591,
-   "price": 0.7845543622,
-   "usd": 1092.29,
-   "ts": 1786832448,
+   "market_id": "0x4f7e35e61cf460c7d8c9a758001fc7ba17919bb655db1558c756683c237772dc",
+   "titulo": "LoL: Shopify Rebellion vs Dignitas - Game 1 Winner",
+   "slug": "lol-sr-dig-2026-08-15-game1",
+   "outcome": "Dignitas",
+   "side": "SELL",
+   "size": 1224.48,
+   "price": 0.999,
+   "usd": 1223.26,
+   "ts": 1786832745,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,092 en 'Ramiz Brahimaj'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ufc-nei-ram2-2026-08-15",
-   "titulo_es": "UFC 330: Neil Magny vs. Ramiz Brahimaj (Peso wélter, Preliminares)",
-   "narrativa": "El mercado para Ramiz Brahimaj muestra una compra significativa de $1,092 USD en un evento de preliminares, lo que sugiere que un operador de gran tamaño está posicionándose con convicción antes del combate. Aunque no hay un consenso externo claro, el flujo de capital direccional en una pelea de bajo perfil suele indicar información privilegiada o una ventaja percibida en el estilo de Brahimaj frente a Magny, quien viene de una derrota. El monto representa una apuesta relevante para este tipo de mercado, lo que podría generar un movimiento de precios si otros operadores siguen la señal. Riesgo: liquidez limitada en preliminares, lo que puede amplificar el deslizamiento."
+   "razon": "Trade de venta por $1,223 en 'Dignitas'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-sr-dig-2026-08-15-game1",
+   "titulo_es": "LoL: Shopify Rebellion vs Dignitas - Ganador del Juego 1",
+   "narrativa": "La venta de Dignitas en el Juego 1 contra Shopify Rebellion presenta un edge positivo de +4.2 puntos frente al consenso externo del 38%, con un monto de $1,223 USD que capitaliza la sobrevaloración del mercado en un enfrentamiento donde el draft inicial favorece a Shopify. El desvío del 7.8% respecto a la probabilidad implícita sugiere una corrección esperada, aunque el volumen de mercado no reportado limita la profundidad de la señal. Riesgo: posible ajuste rápido si el mercado reacciona a noticias de último minuto sobre composiciones."
   }
  ],
  "edges": [],
@@ -141,8 +141,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.285,
-   "no": 0.715,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 99104.44479299996,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -151,8 +151,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 98987.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -231,8 +231,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0435,
-   "no": 0.9565,
+   "yes": 0.0365,
+   "no": 0.9635,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 20.33
+ "db_size_mb": 20.41
 }
