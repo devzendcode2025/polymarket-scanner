@@ -1,29 +1,29 @@
 {
- "ts": 1786826104,
- "stamp": "20260815_203504",
+ "ts": 1786826164,
+ "stamp": "20260815_203604",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x33b857d07a9240bafc68545edd7288d1df391a5cc2ff949200735f847ff692b9",
-   "titulo": "Cincinnati Open: Jan-Lennard Struff vs Alejandro Tabilo",
-   "slug": "atp-struff-tabilo-2026-08-15",
-   "outcome": "Alejandro Tabilo",
+   "market_id": "0xa73e46d245826d7d83cb597671e5cd205f111d49f29b747f9ac347ac2997e705",
+   "titulo": "Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante",
+   "slug": "atp-djokovi-tirante-2026-08-15",
+   "outcome": "Thiago Agustin Tirante",
    "side": "BUY",
-   "size": 1339.164933,
-   "price": 0.97,
-   "usd": 1298.99,
-   "ts": 1786825833,
+   "size": 23229.7,
+   "price": 0.3654496356,
+   "usd": 8489.29,
+   "ts": 1786826130,
    "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,299 en 'Alejandro Tabilo'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-struff-tabilo-2026-08-15",
-   "titulo_es": "Cincinnati Open: Jan-Lennard Struff vs Alejandro Tabilo",
-   "narrativa": "La compra de Alejandro Tabilo frente a Struff en el Cincinnati Open muestra un flujo de capital de $1,299 USD, lo que sugiere que los operadores institucionales están posicionándose a favor del chileno pese a su condición de underdog. Este movimiento, en un mercado sin volumen reportado, puede indicar una ventana de valor si el consenso externo subestima su forma reciente en pista dura. Riesgo: liquidez limitada podría amplificar el deslizamiento de precio."
+   "prob": 64,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $8,489 en 'Thiago Agustin Tirante'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-djokovi-tirante-2026-08-15",
+   "titulo_es": "Abierto de Cincinnati: Novak Djokovic vs Thiago Agustín Tirante",
+   "narrativa": "El mercado infravalora a Tirante frente a Djokovic, pero la compra a 8489 USD sugiere que hay capital posicionándose para un posible upset o un partido más competitivo de lo que sugiere el nombre del rival. El edge implícito es alto si el consenso externo (líneas de tenis) da a Tirante más probabilidades de ganar un set o forzar un desempate de lo que refleja el precio actual. La falta de volumen de mercado conocido aumenta la incertidumbre, pero también la oportunidad de entrar antes de que el precio se ajuste. Riesgo: posible poca liquidez y alta volatilidad en el precio si Djokovic domina desde el inicio."
   }
  ],
  "edges": [],
@@ -33,7 +33,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 998399.7408539999,
+   "volumen": 998507.6208540002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -43,7 +43,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920003,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -53,7 +53,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 988169.031919,
+   "volumen": 988169.0319189999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -63,7 +63,7 @@
    "slug": "israel-closes-its-airspace-by-august-15",
    "yes": 0.0025,
    "no": 0.9975,
-   "volumen": 986447.9130819998,
+   "volumen": 986447.913082,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
@@ -73,7 +73,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986132.8355990001,
+   "volumen": 986132.835599,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -87,6 +87,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
+  },
+  {
+   "question": "Sevilla FC vs. Rayo Vallecano de Madrid: 1st Half O/U 1.5",
+   "slug": "lal-sev-ray-2026-08-15-first-half-total-1pt5",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99974.054091,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Sevilla FC vs. Rayo Vallecano de Madrid: 1er Tiempo Más/Menos 1.5"
   },
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
@@ -163,7 +173,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.285,
    "no": 0.715,
-   "volumen": 98904.737572,
+   "volumen": 98904.73757199998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -173,7 +183,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.06,
    "no": 0.94,
-   "volumen": 98711.43276299999,
+   "volumen": 98711.43276299998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -189,21 +199,11 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will Ethereum dip to $1,600 in August?",
-   "slug": "will-ethereum-dip-to-1600-in-august-2026",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 98296.357689,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Caerá Ethereum a $1,600 en agosto?"
-  },
-  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
    "no": 0.055,
-   "volumen": 9997.497541000002,
+   "volumen": 9997.497541,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
@@ -219,21 +219,11 @@
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
   },
   {
-   "question": "Game Handicap: LOS (-1.5) vs Vivo Keyd Stars (+1.5)",
-   "slug": "lol-vks-los-2026-08-15-game-handicap-home-1pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9991.886822999997,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Hándicap del partido: LOS (-1.5) vs Vivo Keyd Stars (+1.5)"
-  },
-  {
    "question": "Will White House post 180-199 posts from August 11 to August 18, 2026?",
    "slug": "white-house-of-tweets-august-11-august-18-2026-180-199",
    "yes": 0.445,
    "no": 0.555,
-   "volumen": 9975.803237999999,
+   "volumen": 9975.803237999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Publicará la Casa Blanca 180-199 publicaciones del 11 al 18 de agosto de 2026?"
@@ -277,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
+  },
+  {
+   "question": "Will the highest temperature in Amsterdam be 28°C on August 15?",
+   "slug": "highest-temperature-in-amsterdam-on-august-15-2026-28c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9922.283016999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Ámsterdam de 28°C el 15 de agosto?"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 18.8
+ "db_size_mb": 18.88
 }
