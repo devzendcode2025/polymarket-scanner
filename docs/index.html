@@ -179,7 +179,7 @@ const TZ = { timeZone: "America/Managua" };
 // ejecutable=true -> el país PUEDE operar en Polymarket (23 habilitados).
 // ejecutable=false -> bloqueado para trading (Brasil, Cuba, Nicaragua, Venezuela): solo datos.
 const PAISES = {
-  "peru":        { n:"Perú",               tags:["peru"],                      kw:["peru","perú","lima","boluarte"], e:true },
+  "peru":        { n:"Perú",               tags:["peru","peruvian"],          kw:["peru","perú","peruvian","lima","boluarte"], e:true },
   "mexico":      { n:"México",             tags:["mexico","mexican"],           kw:["méxico","mexico","sheinbaum","amlo","cdmx"], e:true },
   "argentina":   { n:"Argentina",          tags:["argentina","argentine"],      kw:["argentina","milei","buenos aires"], e:true },
   "colombia":    { n:"Colombia",           tags:["colombia","colombian"],       kw:["colombia","gustavo petro","bogotá","bogota"], e:true },
@@ -411,6 +411,7 @@ function renderDesdePipeline(r){
 
   renderTop(top);
 
+  const hist = r.historico || {};
   const stats = [
     ['class="stat blue"', r.mercados ?? "—", "Mercados monitoreados"],
     ['class="stat green"', ballenas.length, "Ballenas (≥ $1k)"],
@@ -418,7 +419,8 @@ function renderDesdePipeline(r){
     ["", misp.length, "Mispricings activos"],
     ["", mom.length, "Alertas de momentum"],
     ["", edges.length, "Datos ganadores (edge)"],
-  ].map(s => "<div " + s[0] + "><div class='num'>" + s[1] + "</div><div class='lbl'>" + s[2] + "</div></div>").join("");
+    (hist.total ? ['class="stat gold"', hist.pct + "%", "Señales acertadas (" + hist.aciertos + "/" + hist.total + ")"] : []),
+  ].filter(s => s.length).map(s => "<div " + s[0] + "><div class='num'>" + s[1] + "</div><div class='lbl'>" + s[2] + "</div></div>").join("");
   document.getElementById("stats").innerHTML = stats;
 }
 
