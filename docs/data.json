@@ -1,33 +1,83 @@
 {
- "ts": 1786836006,
- "stamp": "20260815_232006",
+ "ts": 1786836367,
+ "stamp": "20260815_232607",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x5a9d7543be36937c88cc206872ba2789dad7012da9c31290f2196dcbce383498",
-   "titulo": "LoL: Shopify Rebellion vs Dignitas - Game 2 Winner",
-   "slug": "lol-sr-dig-2026-08-15-game2",
-   "outcome": "Shopify Rebellion",
+   "market_id": "0x4d1ebbebf5454a176e29d3774a9fdd09cba62444417ddfe9b3cdd1e6b710f6e8",
+   "titulo": "Will CF Montréal win on 2026-08-15?",
+   "slug": "mls-mim-dcu-2026-08-15-mim",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 5457.14,
-   "price": 0.9898586256,
-   "usd": 5401.8,
-   "ts": 1786835448,
-   "categoria": "Deportes",
-   "prob": 60,
+   "size": 41227.04,
+   "price": 0.45,
+   "usd": 18552.17,
+   "ts": 1786836051,
+   "categoria": "Otros",
+   "prob": 70,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $5,402 en 'Shopify Rebellion'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-sr-dig-2026-08-15-game2",
-   "titulo_es": "LoL: Shopify Rebellion vs Dignitas - Ganador del Juego 2",
-   "narrativa": "La compra sobre Shopify Rebellion en el Juego 2 presenta un edge de 5.2 puntos frente al consenso externo del 48%, mientras que el mercado cotiza a 53.2% de probabilidad implícita, lo que sugiere una discrepancia aprovechable. El monto de $5,401.8 representa una posición moderada que capitaliza la corrección de precios tras el primer juego, sin generar un impacto significativo en el libro. Riesgo: volatilidad alta en mapas tempranos de LoL, con posible reversión si Dignitas ajusta su draft."
+   "razon": "Trade de compra por $18,552 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-mim-dcu-2026-08-15-mim",
+   "titulo_es": "¿Ganará el CF Montréal el 2026-08-15?",
+   "narrativa": "Una orden de compra de $18,552 USD sobre el 'Sí' para CF Montréal indica acumulación de capital significativa en un mercado de baja liquidez, lo que sugiere que un operador grande percibe una ventaja informacional o de valor. El tamaño de la apuesta, en comparación con la ausencia de volumen reportado, apunta a una convicción fuerte que podría mover la línea de precios a favor del comprador. Riesgo: posible iliquidez y dificultad para salir de la posición sin afectar el precio."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x1cb18e2f39346beac6b031d355e756f2761f045de1ab2f1d4881ba3402313231",
+   "titulo": "Cincinnati Open: Arthur Fery vs James Duckworth",
+   "slug": "atp-fery-duckwor-2026-08-15",
+   "outcome": "Arthur Fery",
+   "side": "BUY",
+   "size": 5184.0,
+   "price": 0.45,
+   "usd": 2332.8,
+   "ts": 1786836057,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,333 en 'Arthur Fery'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-fery-duckwor-2026-08-15",
+   "titulo_es": "Cincinnati Open: Arthur Fery contra James Duckworth",
+   "narrativa": "La compra de $2,333 USD por Arthur Fery contra James Duckworth en el Cincinnati Open representa una apuesta direccional clara en un evento de tenis de alto perfil, donde el monto sugiere una ventaja percibida en el rendimiento del jugador o en las condiciones de la cancha. Este nivel de inversión, sin volumen de mercado reportado, indica que el operador está dispuesto a asumir el riesgo de un resultado binario con un potencial de retorno que justifica el capital. Riesgo: alta volatilidad en deportes individuales y posible lesión o cambio de forma."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x1957543fb3177a13472af57d9f7453cefe582fb337f1a749692378d439a577ab",
+   "titulo": "Will Deportivo Toluca FC win on 2026-08-15?",
+   "slug": "mex-atla-tol-2026-08-15-tol",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 3559.75,
+   "price": 0.5,
+   "usd": 1779.88,
+   "ts": 1786836046,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,780 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mex-atla-tol-2026-08-15-tol",
+   "titulo_es": "¿Ganará el Deportivo Toluca FC el 2026-08-15?",
+   "narrativa": "Una compra de $1,780 USD en el 'No' para que Deportivo Toluca gane el 2026-08-15 refleja una postura contraria al favoritismo implícito, aprovechando un posible sobreprecio en el 'Sí' por sesgo de localía o narrativa mediática. El monto, moderado pero significativo, sugiere un edge calculado en la probabilidad de empate o derrota, respaldado por análisis de rendimiento histórico del equipo. Riesgo: resultados de fútbol son altamente variables y el mercado puede carecer de profundidad para ajustes rápidos."
   }
  ],
  "edges": [],
  "top_volumen": [
+  {
+   "question": "Will Iran announce withdrawal from MOU negotiations by August 15?",
+   "slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-august-15-881-867",
+   "yes": 0.023,
+   "no": 0.977,
+   "volumen": 999562.684667,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Anunciará Irán su retirada de las negociaciones del MOU antes del 15 de agosto?"
+  },
   {
    "question": "Will Josh Stein win the 2028 Democratic presidential nomination?",
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
@@ -43,7 +93,7 @@
    "slug": "israel-closes-its-airspace-by-august-15",
    "yes": 0.002,
    "no": 0.998,
-   "volumen": 991241.2630819996,
+   "volumen": 991241.2630819998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
@@ -63,7 +113,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986890.4113550001,
+   "volumen": 986890.411355,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -93,7 +143,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.061,
    "no": 0.939,
-   "volumen": 99560.05190600001,
+   "volumen": 99560.05190599998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -113,7 +163,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799999,
+   "volumen": 99179.48181799993,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -133,7 +183,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99104.44479299999,
+   "volumen": 99104.44479299996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -143,10 +193,20 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 98987.583419,
+   "volumen": 98987.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Will Ethereum dip to $1,600 in August?",
+   "slug": "will-ethereum-dip-to-1600-in-august-2026",
+   "yes": 0.075,
+   "no": 0.925,
+   "volumen": 98935.834758,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Caerá Ethereum a $1,600 en agosto?"
   },
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
@@ -163,20 +223,10 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98711.43276299998,
+   "volumen": 98711.43276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will Ethereum dip to $1,600 in August?",
-   "slug": "will-ethereum-dip-to-1600-in-august-2026",
-   "yes": 0.075,
-   "no": 0.925,
-   "volumen": 98649.65197300001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Caerá Ethereum a $1,600 en agosto?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -203,26 +253,16 @@
    "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9995.647500000001,
+   "volumen": 9995.6475,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
   },
   {
-   "question": "Will Venezia FC win on 2026-08-15?",
-   "slug": "itc-ven-mod-2026-08-15-ven",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9977.500478,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Venezia FC el 15 de agosto de 2026?"
-  },
-  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.0415,
+   "no": 0.9585,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -239,6 +279,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will the highest temperature in Miami be between 94-95°F on August 15?",
+   "slug": "highest-temperature-in-miami-on-august-15-2026-94-95f",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9964.314747000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Estará la temperatura más alta en Miami entre 94-95°F el 15 de agosto?"
+  },
+  {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
    "yes": 0.085,
@@ -251,40 +301,30 @@
   {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.0495,
-   "no": 0.9505,
+   "yes": 0.048,
+   "no": 0.952,
    "volumen": 9943.525083,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
-   "question": "Will \"Spider-Man: Brand New Day\" 3rd Weekend Box Office be less than 72m?",
-   "slug": "will-spider-man-brand-new-day-3rd-weekend-box-office-be-less-than-72m-20260812164837138",
-   "yes": 0.9235,
-   "no": 0.0765,
-   "volumen": 9934.041256,
-   "spread": 0.0,
-   "categoria": "Entretenimiento",
-   "question_es": "¿Será la recaudación de taquilla del tercer fin de semana de \"Spider-Man: Brand New Day\" inferior a 72 millones?"
-  },
-  {
    "question": "Will Santiago Abascal be the next Prime Minister of Spain?",
    "slug": "will-santiago-abascal-be-the-next-prime-minister-of-spain-20260625005710104",
-   "yes": 0.0575,
-   "no": 0.9425,
-   "volumen": 9928.042392999998,
+   "yes": 0.057,
+   "no": 0.943,
+   "volumen": 9928.042393,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Santiago Abascal el próximo Presidente del Gobierno de España?"
   }
  ],
  "historico": {
-  "ts": 1786834390,
+  "ts": 1786836191,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 21.02
+ "db_size_mb": 21.16
 }
