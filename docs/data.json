@@ -1,6 +1,6 @@
 {
- "ts": 1786828805,
- "stamp": "20260815_212005",
+ "ts": 1786828865,
+ "stamp": "20260815_212105",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -53,7 +53,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 998914.50552,
+   "volumen": 998914.5055200001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -63,7 +63,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920004,
+   "volumen": 991312.1319920003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -71,8 +71,8 @@
   {
    "question": "Israel closes its airspace by August 15?",
    "slug": "israel-closes-its-airspace-by-august-15",
-   "yes": 0.0015,
-   "no": 0.9985,
+   "yes": 0.002,
+   "no": 0.998,
    "volumen": 990495.5530819999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -83,7 +83,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 988169.031919,
+   "volumen": 988169.0319190001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -139,11 +139,21 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
+   "question": "Will Ethereum dip to $1,700 in August?",
+   "slug": "will-ethereum-dip-to-1700-in-august-2026",
+   "yes": 0.185,
+   "no": 0.815,
+   "volumen": 99241.57838400001,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Caerá Ethereum a $1,700 en agosto?"
+  },
+  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181800001,
+   "volumen": 99179.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -193,7 +203,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.06,
    "no": 0.94,
-   "volumen": 98711.43276299999,
+   "volumen": 98711.43276299998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -209,21 +219,11 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "O/U 4.5 Rounds",
-   "slug": "ufc-isl-ian1-2026-08-15-totals-4pt5",
-   "yes": 0.57,
-   "no": 0.43,
-   "volumen": 9999.893950000003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Más/Menos 4.5 Asaltos"
-  },
-  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
    "no": 0.055,
-   "volumen": 9997.497541,
+   "volumen": 9997.497540999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
@@ -241,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.0305,
+   "no": 0.9695,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -279,24 +279,24 @@
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
-   "question": "St. Louis Cardinals vs. Chicago Cubs: O/U 12.5",
-   "slug": "mlb-stl-chc-2026-08-15-total-12pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9930.030511999998,
+   "question": "Will Santiago Abascal be the next Prime Minister of Spain?",
+   "slug": "will-santiago-abascal-be-the-next-prime-minister-of-spain-20260625005710104",
+   "yes": 0.057,
+   "no": 0.943,
+   "volumen": 9928.042393000002,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "St. Louis Cardinals vs. Chicago Cubs: Más/Menos 12.5"
+   "categoria": "Política",
+   "question_es": "¿Será Santiago Abascal el próximo Presidente del Gobierno de España?"
   },
   {
-   "question": "Will Elon Musk post 40-64 tweets from August 15 to August 17, 2026?",
-   "slug": "elon-musk-of-tweets-august-15-august-17-40-64",
-   "yes": 0.465,
-   "no": 0.535,
-   "volumen": 9928.133571000004,
+   "question": "Will the highest temperature in Amsterdam be 28°C on August 15?",
+   "slug": "highest-temperature-in-amsterdam-on-august-15-2026-28c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9922.283017000002,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 40 y 64 tuits del 15 al 17 de agosto de 2026?"
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Ámsterdam de 28°C el 15 de agosto?"
   }
  ],
  "historico": {
@@ -306,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 19.39
+ "db_size_mb": 19.43
 }
