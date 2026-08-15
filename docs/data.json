@@ -1,29 +1,49 @@
 {
- "ts": 1786814401,
- "stamp": "20260815_172001",
+ "ts": 1786814761,
+ "stamp": "20260815_172601",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x79ef65fd4fb217c9930a48393d2e5d712177580ee976ebd12926216cf4c23f47",
-   "titulo": "Will TSG Hoffenheim win on 2026-08-16?",
-   "slug": "clf-tot-tsg-2026-08-16-tsg",
-   "outcome": "No",
+   "market_id": "0x818e9a85c890ac31c10c16a8ed30b673a8fed9117134fe05fc8581738fe14189",
+   "titulo": "Will Trabzonspor win on 2026-08-15?",
+   "slug": "tur-kas-tra-2026-08-15-tra",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 2043.5,
-   "price": 0.8999510644,
-   "usd": 1839.05,
-   "ts": 1786814127,
+   "size": 8831.156469,
+   "price": 0.3397063578,
+   "usd": 3000.0,
+   "ts": 1786814730,
    "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,839 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/clf-tot-tsg-2026-08-16-tsg",
-   "titulo_es": "¿Ganará el TSG Hoffenheim el 2026-08-16?",
-   "narrativa": "La compra de 'No' en este mercado de Hoffenheim refleja una apuesta contraria al consenso implícito en el precio actual, con un edge estimado de +4.2 puntos frente a la probabilidad neutral del 50%. El monto de $1,839 sugiere convicción moderada, y la ausencia de volumen publicado indica que el mercado puede estar subvalorando la probabilidad de que no ganen, ofreciendo una entrada asimétrica. Riesgo: liquidez potencialmente baja, lo que podría dificultar la salida en el cierre."
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,000 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/tur-kas-tra-2026-08-15-tra",
+   "titulo_es": "¿Ganará Trabzonspor el 2026-08-15?",
+   "narrativa": "La compra de 3,000 USD en 'Yes' para Trabzonspor en el 2026-08-15 refleja una apuesta direccional de alto valor, lo que sugiere que el operador posee información o convicción fuerte sobre el resultado. Aunque no se reporta volumen de mercado, el tamaño del trade en relación a la falta de liquidez conocida podría generar un impacto de precio significativo, creando una ventana de entrada si se espera que el consenso externo se mueva a favor. Riesgo: posible baja liquidez y alta volatilidad en un evento lejano."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x1acd92f5aec41db1661c63b2d5dde097066629fb790e783b6085eb198a160441",
+   "titulo": "Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D",
+   "slug": "cs2-furia-9z-2026-08-15",
+   "outcome": "FURIA",
+   "side": "SELL",
+   "size": 2058.0,
+   "price": 0.999,
+   "usd": 2055.94,
+   "ts": 1786814730,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,056 en 'FURIA'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-furia-9z-2026-08-15",
+   "titulo_es": "Counter-Strike: FURIA vs 9z (BO3) - Copa del Mundo de Esports Grupo D",
+   "narrativa": "La venta de 2,055.94 USD en 'FURIA' contra 9z en el BO3 indica una expectativa de que el mercado está sobrevalorando al equipo brasileño, probablemente por sesgo de popularidad. Con un consenso externo que podría favorecer a 9z en un enfrentamiento parejo, el edge negativo en el precio de 'FURIA' ofrece una oportunidad de capturar valor si el desvío entre la probabilidad implícita y la real se corrige. Riesgo: el resultado en BO3 puede ser altamente volátil y depender de mapas específicos."
   }
  ],
  "edges": [],
@@ -33,7 +53,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 995233.5808539999,
+   "volumen": 995363.5308539999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -43,7 +63,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 988159.0370250002,
+   "volumen": 988159.037025,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -53,7 +73,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 986141.9719920004,
+   "volumen": 986141.9719920002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -69,21 +89,11 @@
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
-   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
-   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 983741.491909,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
    "question": "Will FISA Section 702 reauthorization become law this year?",
    "slug": "will-fisa-section-702-reauthorization-become-law-this-year",
    "yes": 0.225,
    "no": 0.775,
-   "volumen": 99826.85215100001,
+   "volumen": 99878.53695999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Se convertirá en ley la reautorización de la Sección 702 de FISA este año?"
@@ -103,20 +113,10 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99543.663752,
+   "volumen": 99543.66375200002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
-  },
-  {
-   "question": "Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
-   "slug": "elon-musk-of-tweets-august-11-august-18-140-159",
-   "yes": 0.127,
-   "no": 0.873,
-   "volumen": 99335.22828999998,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 140 y 159 tuits del 11 al 18 de agosto de 2026?"
   },
   {
    "question": "Will MicroStrategy be margin called in 2026?",
@@ -163,7 +163,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.285,
    "no": 0.715,
-   "volumen": 98904.73757200001,
+   "volumen": 98904.73757199998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -183,7 +183,7 @@
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
    "no": 0.055,
-   "volumen": 9997.497540999999,
+   "volumen": 9997.497541,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
@@ -201,8 +201,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0425,
-   "no": 0.9575,
+   "yes": 0.0375,
+   "no": 0.9625,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -223,7 +223,7 @@
    "slug": "clf-tot-tsg-2026-08-15-total-2pt5",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9961.060795999998,
+   "volumen": 9961.060796,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Tottenham Hotspur vs. TSG Hoffenheim: Más/Menos 2.5"
@@ -253,7 +253,7 @@
    "slug": "highest-temperature-in-amsterdam-on-august-15-2026-28c",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9922.283017,
+   "volumen": 9922.283016999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Ámsterdam de 28°C el 15 de agosto?"
@@ -263,7 +263,7 @@
    "slug": "clf-acm-mun-2026-08-15-total-1pt5",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9918.197946,
+   "volumen": 9918.197945999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "AC Milan vs. Manchester United: Más/Menos 1.5"
@@ -277,14 +277,34 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
+  },
+  {
+   "question": "USMCA extended in 2026?",
+   "slug": "usmca-extended-in-2026-20260701162719768",
+   "yes": 0.21,
+   "no": 0.79,
+   "volumen": 9908.915998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Se extenderá el T-MEC en 2026?"
+  },
+  {
+   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
+   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9905.121829,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
   }
  ],
  "historico": {
-  "ts": 1786812784,
+  "ts": 1786814584,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 16.17
+ "db_size_mb": 16.28
 }
