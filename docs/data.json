@@ -1,29 +1,29 @@
 {
- "ts": 1786816801,
- "stamp": "20260815_180001",
+ "ts": 1786816861,
+ "stamp": "20260815_180101",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9b032a268d7a697d7ae46972dfde92f451e5cdcd1496ca05ac94ecdebf375b63",
-   "titulo": "LoL: FURIA Esports vs RED Canids (BO3) - CBLOL Regular Season",
-   "slug": "lol-fur-red-2026-08-15",
-   "outcome": "FURIA Esports",
+   "market_id": "0x44aa387c32c0bbf14ce105c4df2ba69299e4ba88cdcdcfb71de016c96fd16e81",
+   "titulo": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A",
+   "slug": "cs2-jjh-aur1-2026-08-15",
+   "outcome": "Aurora Gaming",
    "side": "BUY",
-   "size": 2054.794518,
-   "price": 0.7299999999,
-   "usd": 1500.0,
-   "ts": 1786816530,
+   "size": 3000.0,
+   "price": 0.95,
+   "usd": 2850.0,
+   "ts": 1786816834,
    "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,500 en 'FURIA Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-fur-red-2026-08-15",
-   "titulo_es": "LoL: FURIA Esports vs RED Canids (BO3) - Temporada Regular de CBLOL",
-   "narrativa": "La compra de FURIA Esports a 1500 USD refleja una convicción clara en su superioridad sobre RED Canids en este BO3 de CBLOL, un mercado donde el consenso externo suele favorecer al equipo con mejor historial reciente. Aunque no se especifica el edge en puntos, el volumen de la operación sugiere que el precio actual no descuenta por completo la ventaja de FURIA en mapas y mecánica de juego. Riesgo: el formato BO3 puede amplificar la varianza en partidas cerradas, y la falta de datos de volumen de mercado limita el análisis de liquidez."
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,850 en 'Aurora Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-jjh-aur1-2026-08-15",
+   "titulo_es": "Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Copa Mundial de Esports Grupo A",
+   "narrativa": "La compra de Aurora Gaming a 2850 USD en el BO3 contra JiJieHao refleja una apuesta clara por el favoritismo del equipo en un formato al mejor de tres, donde la consistencia táctica suele imponerse sobre la sorpresa. Aunque no contamos con el volumen total del mercado para medir liquidez, el monto comprometido sugiere una convicción direccional que podría capitalizar el desajuste de expectativas si el consenso externo ya ubicaba a Aurora como superior. Riesgo: posible falta de profundidad en el libro de órdenes si el evento es de nicho."
   }
  ],
  "edges": [],
@@ -81,8 +81,8 @@
   {
    "question": "Will FISA Section 702 reauthorization become law this year?",
    "slug": "will-fisa-section-702-reauthorization-become-law-this-year",
-   "yes": 0.465,
-   "no": 0.535,
+   "yes": 0.52,
+   "no": 0.48,
    "volumen": 99983.23696,
    "spread": 0.0,
    "categoria": "Otros",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 16.71
+ "db_size_mb": 16.77
 }
