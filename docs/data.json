@@ -1,29 +1,69 @@
 {
- "ts": 1786827004,
- "stamp": "20260815_205004",
+ "ts": 1786827364,
+ "stamp": "20260815_205604",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x0ec890dfdeb560af17190fcfec2a407519b19d1815064050e0d098b7e9dd7dc3",
-   "titulo": "Cincinnati Open: Mattia Bellucci vs Jakub Mensik",
-   "slug": "atp-bellucc-mensik-2026-08-15",
-   "outcome": "Jakub Mensik",
+   "market_id": "0xfc3b3f97b4f6f1fc5c5f31bcdbcab7ed8be4d44b75fe40b6ee686a77062a24fe",
+   "titulo": "LoL: G2 Esports vs Shifters - Game 1 Winner",
+   "slug": "lol-g2-shft-2026-08-15-game1",
+   "outcome": "G2 Esports",
    "side": "SELL",
-   "size": 5461.46,
-   "price": 0.73,
-   "usd": 3986.87,
-   "ts": 1786826739,
+   "size": 3383.16,
+   "price": 0.999,
+   "usd": 3379.78,
+   "ts": 1786827331,
    "categoria": "Deportes",
    "prob": 57,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $3,987 en 'Jakub Mensik'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-bellucc-mensik-2026-08-15",
-   "titulo_es": "Cincinnati Open: Mattia Bellucci vs Jakub Mensik",
-   "narrativa": "La venta de Jakub Mensik en el Cincinnati Open presenta un edge de 3.2 puntos frente al consenso externo, respaldado por un monto de $3,986.87 que refleja la confianza del operador en la corrección del precio actual. El volumen de mercado no registrado sugiere que la posición puede moverse sin fricción, amplificando el potencial de captura de valor. Riesgo: posible falta de liquidez en momentos de alta volatilidad durante el partido."
+   "razon": "Trade de venta por $3,380 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-g2-shft-2026-08-15-game1",
+   "titulo_es": "LoL: G2 Esports vs Shifters - Ganador del Juego 1",
+   "narrativa": "La venta de G2 Esports por $3,379.78 refleja una fuerte convicción bajista contra el favorito, aprovechando que el mercado sobrevalora su dominio en el Juego 1 frente a Shifters. El tamaño del trade sugiere que el consenso externo anticipa una sorpresa o un arranque lento de G2, con un edge implícito que justifica la posición. Riesgo: alta volatilidad en esports y posible ajuste rápido de cuotas si G2 domina el early game."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xac40707fbd205f022967fd81586660a45c71129fe906bab332df2197fe06c545",
+   "titulo": "Rio Ave FC vs. FC Porto: O/U 1.5",
+   "slug": "por-rio-por-2026-08-15-total-1pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 3740.25,
+   "price": 0.36,
+   "usd": 1346.49,
+   "ts": 1786827342,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,346 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/por-rio-por-2026-08-15-total-1pt5",
+   "titulo_es": "Rio Ave FC vs. FC Porto: Más/Menos 1.5",
+   "narrativa": "La compra de Under 1.5 por $1,346.49 en Rio Ave vs Porto indica que el mercado externo espera un partido cerrado, con Porto controlando pero sin goleada. El monto sugiere que el consenso apunta a un juego de baja intensidad ofensiva, donde el edge está en la eficiencia defensiva de Rio Ave. Riesgo: Porto puede romper el esquema con un gol temprano, cambiando el ritmo del partido."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xd60fe4128b081071c9bccdc38a23a83e7e09caa34292a99c5aedadcf1d47f8d0",
+   "titulo": "Spread: CLE (-2.5)",
+   "slug": "nfl-cle-chi-2026-08-15-spread-away-2pt5",
+   "outcome": "CHI",
+   "side": "SELL",
+   "size": 1244.13,
+   "price": 0.999,
+   "usd": 1242.89,
+   "ts": 1786827331,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,243 en 'CHI'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/nfl-cle-chi-2026-08-15-spread-away-2pt5",
+   "titulo_es": "Diferencial: CLE (-2.5)",
+   "narrativa": "La venta de CLE (-2.5) por $1,242.89, tomando CHI, capitaliza la percepción de que el spread está inflado por el rendimiento reciente de Cleveland. El tamaño del trade indica que el consenso externo ve a Chicago cubriendo el margen, con un edge basado en la tendencia de partidos ajustados de CLE. Riesgo: si Cleveland domina temprano, el spread puede ampliarse rápidamente y la posición pierde valor."
   }
  ],
  "edges": [],
@@ -33,7 +73,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 998507.6208540002,
+   "volumen": 998914.50552,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -53,7 +93,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 988169.0319189999,
+   "volumen": 988169.031919,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -61,9 +101,9 @@
   {
    "question": "Israel closes its airspace by August 15?",
    "slug": "israel-closes-its-airspace-by-august-15",
-   "yes": 0.0025,
-   "no": 0.9975,
-   "volumen": 986447.913082,
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 986447.9130819998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
@@ -89,14 +129,14 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "Sevilla FC vs. Rayo Vallecano de Madrid: 1st Half O/U 1.5",
-   "slug": "lal-sev-ray-2026-08-15-first-half-total-1pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99974.054091,
+   "question": "Sevilla FC vs. Rayo Vallecano de Madrid: O/U 1.5",
+   "slug": "lal-sev-ray-2026-08-15-total-1pt5",
+   "yes": 0.875,
+   "no": 0.125,
+   "volumen": 99811.79585900003,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "Sevilla FC vs. Rayo Vallecano de Madrid: 1er Tiempo Más/Menos 1.5"
+   "question_es": "Sevilla FC vs. Rayo Vallecano de Madrid: Más/Menos 1.5"
   },
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
@@ -111,8 +151,8 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.0615,
-   "no": 0.9385,
+   "yes": 0.061,
+   "no": 0.939,
    "volumen": 99560.05190599998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -149,6 +189,16 @@
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
+   "question": "Cincinnati Open: Terence Atmane vs Tomas Etcheverry",
+   "slug": "atp-atmane-etcheve-2026-08-15",
+   "yes": 0.625,
+   "no": 0.375,
+   "volumen": 99013.751091,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Abierto de Cincinnati: Terence Atmane vs Tomas Etcheverry"
+  },
+  {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.13,
@@ -173,7 +223,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.285,
    "no": 0.715,
-   "volumen": 98904.73757199998,
+   "volumen": 98904.73757200001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -183,7 +233,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.06,
    "no": 0.94,
-   "volumen": 98711.43276299998,
+   "volumen": 98711.43276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -219,20 +269,10 @@
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
   },
   {
-   "question": "Will White House post 180-199 posts from August 11 to August 18, 2026?",
-   "slug": "white-house-of-tweets-august-11-august-18-2026-180-199",
-   "yes": 0.285,
-   "no": 0.715,
-   "volumen": 9975.803237999997,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Publicará la Casa Blanca 180-199 publicaciones del 11 al 18 de agosto de 2026?"
-  },
-  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0435,
-   "no": 0.9565,
+   "yes": 0.033,
+   "no": 0.967,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -261,30 +301,30 @@
   {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9943.525083,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
-   "question": "Will the highest temperature in Amsterdam be 28°C on August 15?",
-   "slug": "highest-temperature-in-amsterdam-on-august-15-2026-28c",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9922.283016999998,
+   "question": "Will Elon Musk post 40-64 tweets from August 15 to August 17, 2026?",
+   "slug": "elon-musk-of-tweets-august-15-august-17-40-64",
+   "yes": 0.445,
+   "no": 0.555,
+   "volumen": 9928.133570999998,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Ámsterdam de 28°C el 15 de agosto?"
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 40 y 64 tuits del 15 al 17 de agosto de 2026?"
   }
  ],
  "historico": {
-  "ts": 1786825388,
+  "ts": 1786827188,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 19.03
+ "db_size_mb": 19.16
 }
