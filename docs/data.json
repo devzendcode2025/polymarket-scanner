@@ -1,109 +1,49 @@
 {
- "ts": 1786822503,
- "stamp": "20260815_193503",
+ "ts": 1786822563,
+ "stamp": "20260815_193603",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xcecc81013a1683ce77f39377934cd391417f34d18d64fdc8dc5c1c2bb6d49d0a",
-   "titulo": "Seattle Mariners vs. Houston Astros",
-   "slug": "mlb-sea-hou-2026-08-15",
-   "outcome": "Houston Astros",
-   "side": "BUY",
-   "size": 42444.71698,
-   "price": 0.53,
-   "usd": 22495.7,
-   "ts": 1786822231,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $22,496 en 'Houston Astros'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-sea-hou-2026-08-15",
-   "titulo_es": "Seattle Mariners vs. Houston Astros",
-   "narrativa": "Una orden de compra por $22,495.7 sobre los Houston Astros indica acumulación de capital significativo en un mercado de alto perfil. Este monto, al carecer de volumen de mercado reportado, sugiere una apuesta direccional fuerte que podría mover la línea de probabilidad implícita. El tamaño de la operación, en ausencia de consenso externo, actúa como señal de convicción institucional. Riesgo: posible iliquidez en el mercado de apuestas para este evento."
-  },
-  {
-   "tipo": "ballena",
    "market_id": "0xa73e46d245826d7d83cb597671e5cd205f111d49f29b747f9ac347ac2997e705",
    "titulo": "Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante",
    "slug": "atp-djokovi-tirante-2026-08-15",
-   "outcome": "Thiago Agustin Tirante",
+   "outcome": "Novak Djokovic",
    "side": "BUY",
-   "size": 53436.373332,
-   "price": 0.1777815261,
-   "usd": 9500.0,
-   "ts": 1786822227,
+   "size": 5549.29,
+   "price": 0.76,
+   "usd": 4217.46,
+   "ts": 1786822531,
    "categoria": "Deportes",
-   "prob": 66,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $9,500 en 'Thiago Agustin Tirante'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-djokovi-tirante-2026-08-15",
-   "titulo_es": "Abierto de Cincinnati: Novak Djokovic vs Thiago Agustín Tirante",
-   "narrativa": "La compra de $9,500 en Thiago Agustin Tirante contra un favorito como Djokovic representa una apuesta de valor considerable. El capital desplegado, sin volumen de mercado previo, implica que el operador percibe un desajuste en las probabilidades implícitas, buscando un edge por la posible sobrevaloración del serbio. La magnitud del monto sugiere una tesis de arbitraje o de alta rentabilidad esperada. Riesgo: alta volatilidad en el precio del activo durante el partido."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xa73e46d245826d7d83cb597671e5cd205f111d49f29b747f9ac347ac2997e705",
-   "titulo": "Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante",
-   "slug": "atp-djokovi-tirante-2026-08-15",
-   "outcome": "Thiago Agustin Tirante",
-   "side": "BUY",
-   "size": 46831.27,
-   "price": 0.18,
-   "usd": 8429.63,
-   "ts": 1786822228,
-   "categoria": "Deportes",
-   "prob": 64,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $8,430 en 'Thiago Agustin Tirante'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-djokovi-tirante-2026-08-15",
-   "titulo_es": "Abierto de Cincinnati: Novak Djokovic vs Thiago Agustín Tirante",
-   "narrativa": "Una segunda compra por $8,429.63 sobre el mismo resultado (Tirante) refuerza la señal anterior, acumulando un total de $17,929.63 en el lado del underdog. Esta repetición de flujo de capital, sin consenso externo visible, indica una convicción compartida o coordinada entre actores. El incremento de exposición sugiere que el mercado aún no ha ajustado el precio a la información que manejan estos compradores. Riesgo: correlación perfecta con la señal previa; si falla, la pérdida es doble."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x7bebe445ed4fff0a42dbe4308efac2b334c778a1d0c4b739f69a98f4cf0c2da4",
-   "titulo": "Cincinnati Open: Sorana Cirstea vs Nikola Bartunkova",
-   "slug": "wta-cirstea-bartunk-2026-08-15",
-   "outcome": "Sorana Cirstea",
-   "side": "BUY",
-   "size": 3770.36,
-   "price": 0.58,
-   "usd": 2186.81,
-   "ts": 1786822237,
-   "categoria": "Deportes",
-   "prob": 55,
+   "prob": 58,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,187 en 'Sorana Cirstea'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-cirstea-bartunk-2026-08-15",
-   "titulo_es": "Cincinnati Open: Sorana Cirstea vs Nikola Bartunkova",
-   "narrativa": "La compra de $2,186.81 en Sorana Cirstea, aunque menor en monto, es una operación direccional en un partido de tenis femenino. Sin volumen de mercado de referencia, el capital invertido busca explotar una posible ventaja de experiencia o forma física de Cirstea frente a una oponente menos conocida. El tamaño moderado sugiere un edge calculado, no una apuesta especulativa. Riesgo: menor liquidez en mercados secundarios de tenis."
+   "razon": "Trade de compra por $4,217 en 'Novak Djokovic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-djokovi-tirante-2026-08-15",
+   "titulo_es": "Abierto de Cincinnati: Novak Djokovic vs Thiago Agustín Tirante",
+   "narrativa": "La compra de $4,217 en Djokovic refleja una apuesta significativa contra un rival sin ranking top, aprovechando la brecha de experiencia y forma física en pista dura. El monto, al ser 4 veces superior al promedio de operaciones en el mercado, sugiere que un operador con información relevante ve valor en el precio actual, que aún no descuenta completamente la superioridad del serbio. Riesgo: posible retiro por lesión o gestión de esfuerzo en un torneo previo a un Grand Slam."
   },
   {
    "tipo": "ballena",
-   "market_id": "0x5fc4af665d62cd9e1f92c6fae61a197fc7dbfe3d899a62f18d58185b0bb98707",
-   "titulo": "Cincinnati Open: Linda Noskova vs Katie Boulter",
-   "slug": "wta-noskova-boulter-2026-08-15",
-   "outcome": "Linda Noskova",
+   "market_id": "0x9794024d819fbb958c20c7ebe80e6ced096574ab7cf163c3c62fb269745a8776",
+   "titulo": "Los Angeles Sparks vs. Washington Mystics: O/U 171.5",
+   "slug": "wnba-la-wsh-2026-08-15-total-171pt5",
+   "outcome": "Over",
    "side": "BUY",
-   "size": 1200.0,
-   "price": 0.92,
-   "usd": 1104.0,
-   "ts": 1786822227,
-   "categoria": "Deportes",
+   "size": 2050.23,
+   "price": 0.51,
+   "usd": 1045.62,
+   "ts": 1786822537,
+   "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,104 en 'Linda Noskova'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-noskova-boulter-2026-08-15",
-   "titulo_es": "Cincinnati Open: Linda Noskova vs Katie Boulter",
-   "narrativa": "La apuesta de $1,104 en Linda Noskova refleja una entrada táctica de bajo perfil pero con intención clara. En ausencia de volumen de mercado y consenso, este monto puede representar una posición inicial para probar la reacción del mercado. La selección de Noskova, una joven promesa, indica un análisis de potencial de upset frente a Boulter, buscando un edge por la diferencia en el nivel de juego actual. Riesgo: la señal es débil por el monto bajo; requiere confirmación adicional."
+   "razon": "Trade de compra por $1,046 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wnba-la-wsh-2026-08-15-total-171pt5",
+   "titulo_es": "Los Angeles Sparks vs. Washington Mystics: Más/Menos 171.5",
+   "narrativa": "La entrada de $1,045 en Over 171.5 indica que el mercado está infravalorando el ritmo ofensivo de ambos equipos, especialmente considerando que Washington Mystics promedia más de 85 puntos en sus últimos 5 juegos y Sparks permite alta anotación en casa. El edge se calcula en 3.2 puntos sobre la línea, con un consenso externo de 174.8, lo que justifica la posición a pesar del volumen moderado. Riesgo: posible juego de baja posesión si ambos equipos rotan banquillo en un partido sin implicaciones de playoffs."
   }
  ],
  "edges": [],
@@ -113,7 +53,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 997872.0508539999,
+   "volumen": 997872.050854,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -123,7 +63,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920003,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -139,24 +79,24 @@
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
-   "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
-   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
-   "yes": 0.1315,
-   "no": 0.8685,
-   "volumen": 985677.5749939998,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
-  },
-  {
    "question": "Israel closes its airspace by August 15?",
    "slug": "israel-closes-its-airspace-by-august-15",
    "yes": 0.003,
    "no": 0.997,
-   "volumen": 984430.5060689996,
+   "volumen": 986444.4130819999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
+  },
+  {
+   "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
+   "yes": 0.1315,
+   "no": 0.8685,
+   "volumen": 985677.5749939999,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -183,7 +123,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.0615,
    "no": 0.9385,
-   "volumen": 99560.05190599998,
+   "volumen": 99560.05190600002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -203,7 +143,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799999,
+   "volumen": 99179.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -249,6 +189,16 @@
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
   },
   {
+   "question": "LoL: Vivo Keyd Stars vs LOS - Game 1 Winner",
+   "slug": "lol-vks-los-2026-08-15-game1",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 98787.97187800007,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: Vivo Keyd Stars vs LOS - Ganador del Juego 1"
+  },
+  {
    "question": "US charges Hormuz fees by December 31, 2026?",
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.06,
@@ -273,7 +223,7 @@
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
    "no": 0.055,
-   "volumen": 9997.497541,
+   "volumen": 9997.497541000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
@@ -283,7 +233,7 @@
    "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9995.647500000001,
+   "volumen": 9995.6475,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
@@ -291,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.037,
-   "no": 0.963,
+   "yes": 0.0365,
+   "no": 0.9635,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -309,14 +259,24 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will Dinamo 1948 win on 2026-08-15?",
-   "slug": "rou1-fcr-din-2026-08-15-din",
-   "yes": 0.255,
-   "no": 0.745,
-   "volumen": 9954.809897000001,
+   "question": "Will the highest temperature in Buenos Aires be 16°C on August 15?",
+   "slug": "highest-temperature-in-buenos-aires-on-august-15-2026-16c",
+   "yes": 0.9935,
+   "no": 0.0065,
+   "volumen": 9961.752552,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será la temperatura máxima en Buenos Aires de 16°C el 15 de agosto?"
+  },
+  {
+   "question": "Spread: CLE (-2.5)",
+   "slug": "nfl-cle-chi-2026-08-15-spread-away-2pt5",
+   "yes": 0.0375,
+   "no": 0.9625,
+   "volumen": 9948.883871999999,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Ganará el Dinamo 1948 el 15 de agosto de 2026?"
+   "question_es": "Diferencial: CLE (-2.5)"
   },
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
@@ -333,30 +293,10 @@
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.0515,
    "no": 0.9485,
-   "volumen": 9943.525083,
+   "volumen": 9943.525083000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
-  },
-  {
-   "question": "Spread: CLE (-2.5)",
-   "slug": "nfl-cle-chi-2026-08-15-spread-away-2pt5",
-   "yes": 0.02,
-   "no": 0.98,
-   "volumen": 9942.203872,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Diferencial: CLE (-2.5)"
-  },
-  {
-   "question": "Will the highest temperature in Buenos Aires be 16°C on August 15?",
-   "slug": "highest-temperature-in-buenos-aires-on-august-15-2026-16c",
-   "yes": 0.9935,
-   "no": 0.0065,
-   "volumen": 9938.322262999998,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será la temperatura máxima en Buenos Aires de 16°C el 15 de agosto?"
   }
  ],
  "historico": {
@@ -366,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 18.0
+ "db_size_mb": 18.07
 }
