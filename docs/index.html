@@ -27,7 +27,7 @@
   .stat { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; }
   .stat .num { font-size:1.7rem; font-weight:700; }
   .stat .lbl { color:var(--dim); font-size:.8rem; margin-top:2px; }
-  .stat.green .num { color:var(--green); } .stat.red .num { color:var(--red); } .stat.accent .num { color:var(--accent); } .stat.blue .num { color:var(--blue); }
+  .stat.green .num { color:var(--green); } .stat.red .num { color:var(--red); } .stat.accent .num { color:var(--accent); } .stat.blue .num { color:var(--blue); } .stat.gold .num { color:#fbbf24; }
   .panel { background:var(--card); border:1px solid var(--line); border-radius:12px; margin-bottom:18px; overflow:hidden; }
   .panel h2 { font-size:1rem; padding:14px 18px; border-bottom:1px solid var(--line); display:flex; justify-content:space-between; align-items:center; }
   .panel h2 .tag { font-size:.7rem; font-weight:600; padding:3px 10px; border-radius:999px; }
@@ -399,7 +399,7 @@ function renderDesdePipeline(r){
 
   const mb = document.getElementById("misp");
   mb.innerHTML = misp.length ? signalCards(misp, "🎯 Mispricing")
-    : emptyBox("Sin ineficiencias en los mercados de alta liquidez. El barrido de menor volumen está en desarrollo.");
+    : emptyBox("Sin ineficiencias en los top-400 mercados por volumen. Los mercados de alta liquidez son eficientes; el barrido cubre hasta el puesto 400.");
 
   const mo = document.getElementById("mom");
   mo.innerHTML = mom.length ? signalCards(mom, "📈 Momentum")
