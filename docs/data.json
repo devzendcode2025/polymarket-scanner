@@ -1,29 +1,29 @@
 {
- "ts": 1786834506,
- "stamp": "20260815_225506",
+ "ts": 1786834866,
+ "stamp": "20260815_230106",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x12b94e84a6a85904c2ee0534b796b0b1f5664dc0472a1f677e6c67c6fac015e9",
-   "titulo": "UFC 330: Lucas Fernando vs. Rafael Tobias (Light Heavyweight, Early Prelims)",
-   "slug": "ufc-luc8-raf11-2026-08-15",
-   "outcome": "Lucas Fernando",
-   "side": "SELL",
-   "size": 4104.12,
-   "price": 0.8703465786,
-   "usd": 3572.01,
-   "ts": 1786833948,
+   "market_id": "0x4678cbfe18a64b5ef2203a994f980d80feadf5631319d52d567f3e9b536b60e7",
+   "titulo": "Counter-Strike: ENCE vs WBT (BO3) - CCT Europe Challengers Series Playoffs",
+   "slug": "cs2-ence-wbt-2026-08-16",
+   "outcome": "WBT",
+   "side": "BUY",
+   "size": 2317.54,
+   "price": 0.4975511102,
+   "usd": 1153.09,
+   "ts": 1786834549,
    "categoria": "Deportes",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,572 en 'Lucas Fernando'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ufc-luc8-raf11-2026-08-15",
-   "titulo_es": "UFC 330: Lucas Fernando vs. Rafael Tobias (Peso Semipesado, Preliminares Tempranos)",
-   "narrativa": "La venta de Lucas Fernando a 3572 USD refleja una postura contraria al consenso del mercado, que podría estar sobrevalorando sus opciones tras el anuncio del combate. El edge se materializa si el público descuenta un rendimiento superior al realista para un peleador en preliminares tempranas, donde la volatilidad de rendimiento es alta. El monto posicionado sugiere convicción institucional, pero el volumen de mercado no reportado limita la confirmación de liquidez. Riesgo: posible falta de profundidad en el libro de órdenes para ejecutar la salida sin deslizamiento."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,153 en 'WBT'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-ence-wbt-2026-08-16",
+   "titulo_es": "Counter-Strike: ENCE vs WBT (BO3) - Playoffs de la Serie de Desafiantes de CCT Europa",
+   "narrativa": "La compra de WBT a 1153 USD refleja una apuesta agresiva contra el consenso implícito del mercado, que aún no ha ajustado completamente el edge a favor del underdog en un BO3 de playoffs. El monto concentrado sugiere que el capital inteligente detecta una ventaja en el mapa actual de ENCE, pero el volumen de mercado nulo indica que la liquidez es escasa y el precio puede moverse con pocas órdenes. Riesgo: poca liquidez y posible falta de profundidad para salir en caso de reversión."
   }
  ],
  "edges": [],
@@ -221,8 +221,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.04,
-   "no": 0.96,
+   "yes": 0.031,
+   "no": 0.969,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -271,8 +271,8 @@
   {
    "question": "Will \"Spider-Man: Brand New Day\" 3rd Weekend Box Office be less than 72m?",
    "slug": "will-spider-man-brand-new-day-3rd-weekend-box-office-be-less-than-72m-20260812164837138",
-   "yes": 0.8815,
-   "no": 0.1185,
+   "yes": 0.88,
+   "no": 0.12,
    "volumen": 9934.041256,
    "spread": 0.0,
    "categoria": "Entretenimiento",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 20.68
+ "db_size_mb": 20.8
 }
