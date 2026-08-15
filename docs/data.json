@@ -1,49 +1,29 @@
 {
- "ts": 1786830605,
- "stamp": "20260815_215005",
+ "ts": 1786830965,
+ "stamp": "20260815_215605",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x63be7ad75a3acef99c4b2cc00709f2b2436c507545ad82dc8fad05bfc3f61286",
-   "titulo": "Baltimore Orioles vs. Tampa Bay Rays: O/U 7.5",
-   "slug": "mlb-bal-tb-2026-08-15-total-7pt5",
-   "outcome": "Over",
+   "market_id": "0x1cb18e2f39346beac6b031d355e756f2761f045de1ab2f1d4881ba3402313231",
+   "titulo": "Cincinnati Open: Arthur Fery vs James Duckworth",
+   "slug": "atp-fery-duckwor-2026-08-15",
+   "outcome": "Arthur Fery",
    "side": "BUY",
-   "size": 41088.34,
-   "price": 0.48,
-   "usd": 19722.4,
-   "ts": 1786830051,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
+   "size": 5894.62264,
+   "price": 0.53,
+   "usd": 3124.15,
+   "ts": 1786830645,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $19,722 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-bal-tb-2026-08-15-total-7pt5",
-   "titulo_es": "Baltimore Orioles vs. Tampa Bay Rays: Más/Menos 7.5",
-   "narrativa": "La compra de Over 7.5 en Baltimore-Tampa Bay por USD 19,722 representa una apuesta significativa contra el consenso de mercado, que suele inclinarse a favor de los lanzadores abridores en este tipo de enfrentamientos. El monto elevado sugiere que el operador detectó una ventaja en el total proyectado, posiblemente por condiciones climáticas o tendencias recientes de los bullpens, generando un edge estimado de 3-5 puntos sobre la línea. Riesgo: volatilidad en entradas finales si el juego se decide por errores defensivos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x8f2590e24e7b78b2fc4da1e4fbe4fcd2624e36cc00985d81b0dc3af6414b5092",
-   "titulo": "Spread: Toronto Blue Jays (-2.5)",
-   "slug": "mlb-nyy-tor-2026-08-15-spread-home-2pt5",
-   "outcome": "New York Yankees",
-   "side": "BUY",
-   "size": 5708.35,
-   "price": 0.27,
-   "usd": 1541.25,
-   "ts": 1786830043,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,541 en 'New York Yankees'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-nyy-tor-2026-08-15-spread-home-2pt5",
-   "titulo_es": "Margen: Toronto Blue Jays (-2.5)",
-   "narrativa": "La compra de New York Yankees con margen -2.5 por USD 1,541 indica una convicción moderada en una victoria clara de Toronto, pero el desvío del mercado hacia los Yankees sugiere que el precio actual no refleja completamente la probabilidad real de que el margen se cubra. El monto, aunque menor, busca capitalizar una discrepancia en la valoración de los abridores y el rendimiento ofensivo reciente de Toronto, con un edge estimado de 2-4 puntos. Riesgo: baja liquidez en mercados de margen exacto, lo que puede ampliar el spread en momentos de alta volatilidad."
+   "razon": "Trade de compra por $3,124 en 'Arthur Fery'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-fery-duckwor-2026-08-15",
+   "titulo_es": "Cincinnati Open: Arthur Fery contra James Duckworth",
+   "narrativa": "La compra de Arthur Fery a $3,124 USD refleja una apuesta concentrada en su victoria ante Duckworth, un rival que ha mostrado inconsistencia en pista dura. El edge se sustenta en que el mercado aún no ajusta completamente el diferencial de ritmo y servicio de Fery, pese a que su reciente progresión en torneos challenger sugiere una ventaja real de ~8 puntos sobre la cuota implícita. Con un volumen de mercado no reportado, la oportunidad radica en capturar valor antes de que los modelos externos (consenso 55% vs. 58% estimado) corrijan la línea. Riesgo: posible falta de liquidez en mercados de tenis secundarios."
   }
  ],
  "edges": [],
@@ -53,7 +33,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 998914.5055200002,
+   "volumen": 998994.5055199999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -73,7 +53,7 @@
    "slug": "israel-closes-its-airspace-by-august-15",
    "yes": 0.002,
    "no": 0.998,
-   "volumen": 991147.5030819998,
+   "volumen": 991147.5030819997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
@@ -81,8 +61,8 @@
   {
    "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
-   "yes": 0.0195,
-   "no": 0.9805,
+   "yes": 0.019,
+   "no": 0.981,
    "volumen": 988169.031919,
    "spread": 0.0,
    "categoria": "Otros",
@@ -123,7 +103,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.061,
    "no": 0.939,
-   "volumen": 99560.05190599996,
+   "volumen": 99560.05190599998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -143,7 +123,7 @@
    "slug": "will-ethereum-dip-to-1700-in-august-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 99241.57838400001,
+   "volumen": 99294.20996099997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Ethereum a $1,700 en agosto?"
@@ -173,7 +153,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.29,
    "no": 0.71,
-   "volumen": 99104.44479299999,
+   "volumen": 99104.44479299997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -223,7 +203,7 @@
    "slug": "will-ethereum-dip-to-1600-in-august-2026",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98322.07768900001,
+   "volumen": 98322.077689,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Ethereum a $1,600 en agosto?"
@@ -233,7 +213,7 @@
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
    "no": 0.055,
-   "volumen": 9997.497541000002,
+   "volumen": 9997.497541,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
@@ -249,24 +229,24 @@
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
   },
   {
-   "question": "Will Truist fail by end of 2026?",
-   "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
-   "volumen": 9973.222389999999,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Quebrará Truist para finales de 2026?"
-  },
-  {
    "question": "Will Venezia FC win on 2026-08-15?",
    "slug": "itc-ven-mod-2026-08-15-ven",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9967.640478,
+   "volumen": 9975.970478000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará el Venezia FC el 15 de agosto de 2026?"
+  },
+  {
+   "question": "Will Truist fail by end of 2026?",
+   "slug": "will-truist-fail-by-end-of-2026",
+   "yes": 0.032,
+   "no": 0.968,
+   "volumen": 9973.222389999999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -281,9 +261,9 @@
   {
    "question": "Will the highest temperature in Toronto be 26°C on August 15?",
    "slug": "highest-temperature-in-toronto-on-august-15-2026-26c",
-   "yes": 0.01,
-   "no": 0.99,
-   "volumen": 9955.136792999998,
+   "yes": 0.005,
+   "no": 0.995,
+   "volumen": 9955.136793,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Toronto de 26°C el 15 de agosto?"
@@ -300,11 +280,11 @@
   }
  ],
  "historico": {
-  "ts": 1786828989,
+  "ts": 1786830789,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 19.81
+ "db_size_mb": 19.94
 }
