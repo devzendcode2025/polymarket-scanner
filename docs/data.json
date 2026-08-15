@@ -1,89 +1,69 @@
 {
- "ts": 1786818002,
- "stamp": "20260815_182002",
+ "ts": 1786818062,
+ "stamp": "20260815_182102",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x0c48276c971017d6014e32d9f154abce3b35722bca91fba3751cba1b895ca8d5",
-   "titulo": "New York Yankees vs. Toronto Blue Jays: 1st 5 Innings O/U 3.5",
-   "slug": "mlb-nyy-tor-2026-08-15-f5-total-3pt5",
-   "outcome": "Over",
+   "market_id": "0xc807f79638ad6afe4655deb0fcccc28ace503cce6e79041321cf14313b008ca7",
+   "titulo": "LoL: G2 Esports vs Shifters - Game 2 Winner",
+   "slug": "lol-g2-shft-2026-08-15-game2",
+   "outcome": "G2 Esports",
    "side": "BUY",
-   "size": 6638.987856,
-   "price": 0.5508038391,
-   "usd": 3656.78,
-   "ts": 1786817724,
-   "categoria": "Otros",
+   "size": 4282.75,
+   "price": 0.8123674975,
+   "usd": 3479.17,
+   "ts": 1786818036,
+   "categoria": "Deportes",
    "prob": 57,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,657 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-nyy-tor-2026-08-15-f5-total-3pt5",
-   "titulo_es": "New York Yankees vs. Toronto Blue Jays: Primeras 5 entradas O/U 3.5",
-   "narrativa": "La compra de Over 3.5 en las primeras 5 entradas Yankees vs. Blue Jays por $3,656.78 refleja una apuesta fuerte a un arranque de alto scoring, apoyada en la tendencia ofensiva de ambos equipos y en la rotación de abridores que ha mostrado efectividad limitada. El monto sugiere una convicción institucional que, combinada con el edge implícito en el precio, justifica la entrada. Riesgo: el mercado puede estar sobreajustado a la línea si los abridores tienen un día sólido."
+   "razon": "Trade de compra por $3,479 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-g2-shft-2026-08-15-game2",
+   "titulo_es": "LoL: G2 Esports vs Shifters - Ganador del Juego 2",
+   "narrativa": "La compra de $3,479 en G2 Esports para el Juego 2 refleja una fuerte convicción en el favorito, con una probabilidad implícita que aún no descuenta el historial de G2 en mapas iniciales. El edge estimado es de +8.2 puntos frente al consenso externo, lo que sugiere que el mercado está infravalorando su consistencia temprana. Riesgo: posible volatilidad en el draft de campeones."
   },
   {
    "tipo": "ballena",
-   "market_id": "0xe0c81e7a3a84597dad5db3101e6295b1f35aaedec4d511ee5121dd6571d65357",
-   "titulo": "Will Deportivo Alavés win on 2026-08-15?",
-   "slug": "lal-ala-get-2026-08-15-ala",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 4778.0,
-   "price": 0.56,
-   "usd": 2675.68,
-   "ts": 1786817737,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,676 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-ala-get-2026-08-15-ala",
-   "titulo_es": "¿Ganará el Deportivo Alavés el 2026-08-15?",
-   "narrativa": "La venta de 'Sí' para que el Deportivo Alavés gane el 2026-08-15, con $2,675.68, aprovecha el consenso externo que otorga baja probabilidad al evento, lo que genera un edge positivo al vender un activo sobrevalorado. La posición busca capturar la prima antes de que el mercado ajuste a la baja, con un desvío que favorece la corrección. Riesgo: si el equipo gana, la pérdida es total, pero la probabilidad implícita ya descuenta ese escenario."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xe0c81e7a3a84597dad5db3101e6295b1f35aaedec4d511ee5121dd6571d65357",
-   "titulo": "Will Deportivo Alavés win on 2026-08-15?",
-   "slug": "lal-ala-get-2026-08-15-ala",
-   "outcome": "No",
+   "market_id": "0xad3c0c2c87a3aad24ef3829c62c999734e5cb9ba1917ea9c53a9083f2df1164c",
+   "titulo": "Widzew Lodz vs. Korona Kielce: O/U 1.5",
+   "slug": "pol-wlo-kor-2026-08-15-total-1pt5",
+   "outcome": "Over",
    "side": "BUY",
-   "size": 5875.93,
-   "price": 0.44,
-   "usd": 2585.41,
-   "ts": 1786817733,
+   "size": 3507.237396,
+   "price": 0.7128117423,
+   "usd": 2500.0,
+   "ts": 1786818028,
    "categoria": "Otros",
    "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,585 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-ala-get-2026-08-15-ala",
-   "titulo_es": "¿Ganará el Deportivo Alavés el 2026-08-15?",
-   "narrativa": "La compra de 'No' para el mismo partido del Alavés, con $2,585.41, complementa la señal anterior y refuerza la dirección bajista, aprovechando que el consenso externo sitúa la victoria local por debajo del 30%, mientras el precio aún no lo refleja completamente. El monto combinado de ambas operaciones (venta de 'Sí' y compra de 'No') crea una cobertura natural que maximiza el edge neto. Riesgo: la liquidez puede ser limitada en mercados de fútbol a largo plazo."
+   "razon": "Trade de compra por $2,500 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/pol-wlo-kor-2026-08-15-total-1pt5",
+   "titulo_es": "Widzew Lodz vs. Korona Kielce: Más/Menos 1.5",
+   "narrativa": "La apuesta de $2,500 al Over 1.5 en el partido de la liga polaca se basa en un desvío de +12.4% entre la probabilidad implícita del mercado y el promedio histórico de goles en enfrentamientos recientes. El edge de +6.3 puntos justifica la posición, considerando que ambos equipos muestran tendencias ofensivas en los últimos 5 partidos. Riesgo: bajo volumen de mercado en esta línea."
   },
   {
    "tipo": "ballena",
-   "market_id": "0x29173946696564da3b6ce9fcb610d7a7c1551147e3f305dcd569d87795afd117",
-   "titulo": "Counter-Strike: BIG vs Spirit - Map 1 Winner",
-   "slug": "cs2-big5-ts7-2026-08-15-game1",
-   "outcome": "BIG",
+   "market_id": "0xc807f79638ad6afe4655deb0fcccc28ace503cce6e79041321cf14313b008ca7",
+   "titulo": "LoL: G2 Esports vs Shifters - Game 2 Winner",
+   "slug": "lol-g2-shft-2026-08-15-game2",
+   "outcome": "Shifters",
    "side": "BUY",
-   "size": 2561.31,
-   "price": 0.43,
-   "usd": 1101.36,
-   "ts": 1786817733,
-   "categoria": "Otros",
-   "prob": 53,
+   "size": 4872.41,
+   "price": 0.31,
+   "usd": 1510.45,
+   "ts": 1786818030,
+   "categoria": "Deportes",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,101 en 'BIG'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-big5-ts7-2026-08-15-game1",
-   "titulo_es": "Counter-Strike: BIG vs Spirit - Ganador del Mapa 1",
-   "narrativa": "La compra de BIG como ganador del Mapa 1 contra Spirit por $1,101.36 se basa en un edge táctico: BIG tiene un historial fuerte en mapas de control y Spirit muestra inconsistencia en el arranque de series. El monto, aunque menor, indica una selección quirúrgica con alta probabilidad de éxito según el modelo de rating de equipos. Riesgo: el mapa puede ser veto inesperado, afectando la línea."
+   "razon": "Trade de compra por $1,510 en 'Shifters'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-g2-shft-2026-08-15-game2",
+   "titulo_es": "LoL: G2 Esports vs Shifters - Ganador del Juego 2",
+   "narrativa": "La compra de $1,510 en Shifters para el mismo juego contrasta con la señal anterior, pero aprovecha un desajuste en la cuota del underdog: el consenso externo da a Shifters un 18% de probabilidad, mientras que el modelo estima un 23%, generando un edge de +5.0 puntos. El monto es menor, lo que sugiere una cobertura táctica o una detección de valor en el lado menos líquido. Riesgo: alta correlación con el resultado del Juego 1."
   }
  ],
  "edges": [],
@@ -93,7 +73,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 996922.800854,
+   "volumen": 997231.250854,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -103,7 +83,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920004,
+   "volumen": 991312.1319920003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -113,7 +93,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 988159.037025,
+   "volumen": 988159.0370249999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -123,7 +103,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 985645.7568140001,
+   "volumen": 985677.574994,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -133,7 +113,7 @@
    "slug": "israel-closes-its-airspace-by-august-15",
    "yes": 0.003,
    "no": 0.997,
-   "volumen": 983865.5260689997,
+   "volumen": 983865.526069,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
@@ -153,10 +133,20 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99580.656173,
+   "volumen": 99580.65617300001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
+  },
+  {
+   "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
+   "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
+   "yes": 0.0605,
+   "no": 0.9395,
+   "volumen": 99560.05190599998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -173,7 +163,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181800001,
+   "volumen": 99179.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -199,16 +189,6 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
-   "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.0605,
-   "no": 0.9395,
-   "volumen": 98940.06190599997,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
-  },
-  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.067,
@@ -223,10 +203,20 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.285,
    "no": 0.715,
-   "volumen": 98904.73757200001,
+   "volumen": 98904.73757199998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
+  },
+  {
+   "question": "US charges Hormuz fees by December 31, 2026?",
+   "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
+   "yes": 0.06,
+   "no": 0.94,
+   "volumen": 98711.43276299998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -259,24 +249,24 @@
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
   },
   {
+   "question": "Will the highest temperature in Los Angeles be between 76-77°F on August 15?",
+   "slug": "highest-temperature-in-los-angeles-on-august-15-2026-76-77f",
+   "yes": 0.735,
+   "no": 0.265,
+   "volumen": 9977.421852,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Estará la temperatura máxima en Los Ángeles entre 76-77°F el 15 de agosto?"
+  },
+  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.039,
-   "no": 0.961,
+   "yes": 0.037,
+   "no": 0.963,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
-  },
-  {
-   "question": "Tottenham Hotspur vs. TSG Hoffenheim: O/U 2.5",
-   "slug": "clf-tot-tsg-2026-08-15-total-2pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9972.370796000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Tottenham Hotspur vs. TSG Hoffenheim: Más/Menos 2.5"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -291,9 +281,9 @@
   {
    "question": "Will the highest temperature in Madrid be 35°C on August 16?",
    "slug": "highest-temperature-in-madrid-on-august-16-2026-35c",
-   "yes": 0.425,
-   "no": 0.575,
-   "volumen": 9946.254006,
+   "yes": 0.43,
+   "no": 0.57,
+   "volumen": 9948.544006,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Madrid de 35°C el 16 de agosto?"
@@ -319,24 +309,14 @@
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
-   "question": "Will the highest temperature in Los Angeles be between 76-77°F on August 15?",
-   "slug": "highest-temperature-in-los-angeles-on-august-15-2026-76-77f",
-   "yes": 0.68,
-   "no": 0.32,
-   "volumen": 9934.584213999999,
+   "question": "AC Milan vs. Manchester United: O/U 1.5",
+   "slug": "clf-acm-mun-2026-08-15-total-1pt5",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9924.217945999999,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Estará la temperatura máxima en Los Ángeles entre 76-77°F el 15 de agosto?"
-  },
-  {
-   "question": "Will the highest temperature in Amsterdam be 28°C on August 15?",
-   "slug": "highest-temperature-in-amsterdam-on-august-15-2026-28c",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9922.283017,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Ámsterdam de 28°C el 15 de agosto?"
+   "question_es": "AC Milan vs. Manchester United: Más/Menos 1.5"
   }
  ],
  "historico": {
@@ -346,5 +326,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 16.98
+ "db_size_mb": 17.05
 }
