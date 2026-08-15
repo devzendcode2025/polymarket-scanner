@@ -1,29 +1,29 @@
 {
- "ts": 1786824903,
- "stamp": "20260815_201503",
+ "ts": 1786824963,
+ "stamp": "20260815_201603",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x04fd5482769c8b3bf10bd30a1e34f5bc4a50a508af10edb30877138a333d03f9",
-   "titulo": "Counter-Strike: BIG vs Spirit - Map 2 Winner",
-   "slug": "cs2-big5-ts7-2026-08-15-game2",
-   "outcome": "Spirit",
-   "side": "SELL",
-   "size": 1629.76,
-   "price": 0.99,
-   "usd": 1613.46,
-   "ts": 1786824640,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,613 en 'Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-big5-ts7-2026-08-15-game2",
-   "titulo_es": "Counter-Strike: BIG vs Spirit - Ganador del Mapa 2",
-   "narrativa": "La venta de Spirit en el mapa 2 contra BIG muestra un edge de +4.2 puntos frente al consenso externo del 58% de probabilidad implícita, con un monto de $1,613 que capitaliza la sobrevaloración del favorito. El desvío del 6.8% respecto al precio justo sugiere que el mercado está pagando de más por un equipo con historial irregular en mapas de eliminación directa. Riesgo: posible ajuste rápido si Spirit gana el primer mapa y el público reacciona con flujo direccional."
+   "market_id": "0x0ec890dfdeb560af17190fcfec2a407519b19d1815064050e0d098b7e9dd7dc3",
+   "titulo": "Cincinnati Open: Mattia Bellucci vs Jakub Mensik",
+   "slug": "atp-bellucc-mensik-2026-08-15",
+   "outcome": "Jakub Mensik",
+   "side": "BUY",
+   "size": 5002.68,
+   "price": 0.7499729545,
+   "usd": 3751.87,
+   "ts": 1786824940,
+   "categoria": "Deportes",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,752 en 'Jakub Mensik'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-bellucc-mensik-2026-08-15",
+   "titulo_es": "Cincinnati Open: Mattia Bellucci vs Jakub Mensik",
+   "narrativa": "La compra de Jakub Mensik en el Cincinnati Open refleja una apuesta clara por el favoritismo del mercado, con un monto de $3,751.87 que sugiere convicción institucional en su victoria frente a Bellucci. Aunque no se dispone del consenso externo ni del volumen total del mercado, el tamaño del trade en relación a la liquidez típica de estos enfrentamientos indica un edge potencial en el precio actual. Riesgo: posible falta de profundidad en el libro de órdenes si el volumen es bajo."
   }
  ],
  "edges": [],
@@ -221,8 +221,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0435,
-   "no": 0.9565,
+   "yes": 0.038,
+   "no": 0.962,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 18.55
+ "db_size_mb": 18.61
 }
