@@ -1,29 +1,69 @@
 {
- "ts": 1786821603,
- "stamp": "20260815_192003",
+ "ts": 1786821963,
+ "stamp": "20260815_192603",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xfdd2fd60c4f0d2b8d9f7d85c8c9e867d362d7b3472ed9a138cfd2afc9948c005",
-   "titulo": "US Catanzaro 1929 vs. FC Südtirol: O/U 1.5",
-   "slug": "itc-cat1-sud-2026-08-15-total-1pt5",
+   "market_id": "0xa922be7b0f211b702b5ab600411367e8009909dbf0b2f047af8035a30ac14f75",
+   "titulo": "Deportivo Alavés vs. Getafe CF: O/U 2.5",
+   "slug": "lal-ala-get-2026-08-15-total-2pt5",
    "outcome": "Over",
-   "side": "SELL",
-   "size": 3809.52,
-   "price": 0.999,
-   "usd": 3805.71,
-   "ts": 1786821333,
+   "side": "BUY",
+   "size": 4620.0,
+   "price": 0.9773737229,
+   "usd": 4515.47,
+   "ts": 1786821936,
    "categoria": "Otros",
-   "prob": 57,
+   "prob": 58,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $3,806 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/itc-cat1-sud-2026-08-15-total-1pt5",
-   "titulo_es": "US Catanzaro 1929 vs. FC Südtirol: Más/Menos 1.5",
-   "narrativa": "La venta de Over 1.5 en US Catanzaro vs. FC Südtirol captura un edge de +3.2 puntos frente al consenso externo del 68%, con un monto de $3,805 que refleja alta convicción en un mercado de volumen moderado. El desvío del 4.1% sugiere que el precio actual subestima la probabilidad de un partido con menos de 2 goles, apoyado en la tendencia defensiva de ambos equipos. Riesgo: posible corrección rápida si el mercado ajusta el consenso hacia el Under."
+   "razon": "Trade de compra por $4,515 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-ala-get-2026-08-15-total-2pt5",
+   "titulo_es": "Deportivo Alavés vs. Getafe CF: Más/Menos 2.5",
+   "narrativa": "Una apuesta de $4,515 USD a favor de Over 2.5 en el Alavés vs Getafe indica una convicción fuerte en un partido con alto potencial ofensivo; el tamaño del trade sugiere que el mercado aún no ha ajustado completamente la probabilidad implícita, dejando un edge favorable para quien entra ahora. El desvío entre el consenso externo y el precio actual refuerza la oportunidad de capturar valor antes de que el flujo de dinero cierre la brecha. Riesgo: posible baja liquidez en mercados de fútbol de media tabla."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xc2463e955f640ca1a26b53e8ba3c37fbb5962b22b1ac32635d064de33df8fd5d",
+   "titulo": "Will Fortuna Sittard win on 2026-08-15?",
+   "slug": "ere-sit-cam-2026-08-15-sit",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 2000.0,
+   "price": 0.7836,
+   "usd": 1567.2,
+   "ts": 1786821927,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,567 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ere-sit-cam-2026-08-15-sit",
+   "titulo_es": "¿Ganará Fortuna Sittard el 15-08-2026?",
+   "narrativa": "La venta de $1,567 USD en el 'Yes' de Fortuna Sittard para 2026 refleja una posición contraria al optimismo del mercado; el monto indica que el operador ve una sobrevaloración en la probabilidad de victoria, con un consenso externo que probablemente ubica el éxito por debajo del precio implícito actual. Este desajuste entre expectativa y precio genera un edge de varios puntos, aprovechable antes de que el mercado corrija. Riesgo: horizonte temporal largo y eventos imprevistos en la temporada."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x3c135db7b77cc830e908088df95a06b0ef0b38c9d4e13eb828c7839d593381d1",
+   "titulo": "Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A",
+   "slug": "cs2-big5-ts7-2026-08-15",
+   "outcome": "Spirit",
+   "side": "BUY",
+   "size": 2000.0,
+   "price": 0.7,
+   "usd": 1400.0,
+   "ts": 1786821936,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,400 en 'Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-big5-ts7-2026-08-15",
+   "titulo_es": "Counter-Strike: BIG vs Spirit (BO3) - Copa del Mundo de Esports Grupo A",
+   "narrativa": "La compra de $1,400 USD en Spirit para el BO3 contra BIG en la Copa del Mundo de Esports señala una clara ventaja percibida en el mapa y forma reciente; el tamaño del trade, junto con el desvío frente al consenso externo, sugiere que Spirit está infravalorado en el precio actual, ofreciendo un edge positivo en puntos de probabilidad. La entrada agresiva busca capitalizar el ajuste de cuotas antes del inicio del juego. Riesgo: alta volatilidad en esports y posible impacto del mapa inicial."
   }
  ],
  "edges": [],
@@ -33,7 +73,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 997562.850854,
+   "volumen": 997872.0508539999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -43,7 +83,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920004,
+   "volumen": 991312.1319920003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -63,7 +103,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 985677.5749939999,
+   "volumen": 985677.5749939998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -73,7 +113,7 @@
    "slug": "israel-closes-its-airspace-by-august-15",
    "yes": 0.003,
    "no": 0.997,
-   "volumen": 983865.5260689998,
+   "volumen": 984430.5060689996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
@@ -99,21 +139,11 @@
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
   },
   {
-   "question": "Cincinnati Open: Diana Shnaider vs Tatjana Maria",
-   "slug": "wta-shnaide-maria-2026-08-15",
-   "yes": 0.951,
-   "no": 0.049,
-   "volumen": 99568.3605480002,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Diana Shnaider vs Tatjana Maria"
-  },
-  {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.0615,
    "no": 0.9385,
-   "volumen": 99560.051906,
+   "volumen": 99560.05190599998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -133,7 +163,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.481818,
+   "volumen": 99179.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -173,7 +203,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.285,
    "no": 0.715,
-   "volumen": 98904.737572,
+   "volumen": 98904.73757199998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -183,7 +213,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.06,
    "no": 0.94,
-   "volumen": 98711.43276299998,
+   "volumen": 98711.43276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -213,26 +243,16 @@
    "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9995.6475,
+   "volumen": 9995.647500000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
   },
   {
-   "question": "Sevilla FC vs. Rayo Vallecano de Madrid: O/U 0.5",
-   "slug": "lal-sev-ray-2026-08-15-total-0pt5",
-   "yes": 0.875,
-   "no": 0.125,
-   "volumen": 9989.629155999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Sevilla FC vs. Rayo Vallecano de Madrid: Más/Menos 0.5"
-  },
-  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0355,
-   "no": 0.9645,
+   "yes": 0.033,
+   "no": 0.967,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -249,14 +269,14 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will Rio Ave FC win on 2026-08-15?",
-   "slug": "por-rio-por-2026-08-15-rio",
-   "yes": 0.095,
-   "no": 0.905,
-   "volumen": 9963.773693000001,
+   "question": "Will Dinamo 1948 win on 2026-08-15?",
+   "slug": "rou1-fcr-din-2026-08-15-din",
+   "yes": 0.245,
+   "no": 0.755,
+   "volumen": 9954.809897000001,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Ganará el Rio Ave FC el 2026-08-15?"
+   "question_es": "¿Ganará el Dinamo 1948 el 15 de agosto de 2026?"
   },
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
@@ -277,14 +297,34 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
+  },
+  {
+   "question": "Spread: CLE (-2.5)",
+   "slug": "nfl-cle-chi-2026-08-15-spread-away-2pt5",
+   "yes": 0.0315,
+   "no": 0.9685,
+   "volumen": 9942.203872,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Diferencial: CLE (-2.5)"
+  },
+  {
+   "question": "Will the highest temperature in Buenos Aires be 16°C on August 15?",
+   "slug": "highest-temperature-in-buenos-aires-on-august-15-2026-16c",
+   "yes": 0.9935,
+   "no": 0.0065,
+   "volumen": 9938.322262999998,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será la temperatura máxima en Buenos Aires de 16°C el 15 de agosto?"
   }
  ],
  "historico": {
-  "ts": 1786819986,
+  "ts": 1786821787,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 17.79
+ "db_size_mb": 17.92
 }
