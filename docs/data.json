@@ -1,29 +1,29 @@
 {
- "ts": 1786826404,
- "stamp": "20260815_204004",
+ "ts": 1786826764,
+ "stamp": "20260815_204604",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa73e46d245826d7d83cb597671e5cd205f111d49f29b747f9ac347ac2997e705",
-   "titulo": "Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante",
-   "slug": "atp-djokovi-tirante-2026-08-15",
-   "outcome": "Thiago Agustin Tirante",
-   "side": "BUY",
-   "size": 23229.7,
-   "price": 0.3654496356,
-   "usd": 8489.29,
-   "ts": 1786826130,
+   "market_id": "0x0ec890dfdeb560af17190fcfec2a407519b19d1815064050e0d098b7e9dd7dc3",
+   "titulo": "Cincinnati Open: Mattia Bellucci vs Jakub Mensik",
+   "slug": "atp-bellucc-mensik-2026-08-15",
+   "outcome": "Jakub Mensik",
+   "side": "SELL",
+   "size": 5461.46,
+   "price": 0.73,
+   "usd": 3986.87,
+   "ts": 1786826739,
    "categoria": "Deportes",
-   "prob": 64,
-   "confianza": "alta",
+   "prob": 57,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $8,489 en 'Thiago Agustin Tirante'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-djokovi-tirante-2026-08-15",
-   "titulo_es": "Abierto de Cincinnati: Novak Djokovic vs Thiago Agustín Tirante",
-   "narrativa": "El mercado infravalora a Tirante frente a Djokovic, pero la compra a 8489 USD sugiere que hay capital posicionándose para un posible upset o un partido más competitivo de lo que sugiere el nombre del rival. El edge implícito es alto si el consenso externo (líneas de tenis) da a Tirante más probabilidades de ganar un set o forzar un desempate de lo que refleja el precio actual. La falta de volumen de mercado conocido aumenta la incertidumbre, pero también la oportunidad de entrar antes de que el precio se ajuste. Riesgo: posible poca liquidez y alta volatilidad en el precio si Djokovic domina desde el inicio."
+   "razon": "Trade de venta por $3,987 en 'Jakub Mensik'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-bellucc-mensik-2026-08-15",
+   "titulo_es": "Cincinnati Open: Mattia Bellucci vs Jakub Mensik",
+   "narrativa": "La venta de Jakub Mensik en el Cincinnati Open presenta un edge de 3.2 puntos frente al consenso externo, respaldado por un monto de $3,986.87 que refleja la confianza del operador en la corrección del precio actual. El volumen de mercado no registrado sugiere que la posición puede moverse sin fricción, amplificando el potencial de captura de valor. Riesgo: posible falta de liquidez en momentos de alta volatilidad durante el partido."
   }
  ],
  "edges": [],
@@ -221,8 +221,8 @@
   {
    "question": "Will White House post 180-199 posts from August 11 to August 18, 2026?",
    "slug": "white-house-of-tweets-august-11-august-18-2026-180-199",
-   "yes": 0.445,
-   "no": 0.555,
+   "yes": 0.285,
+   "no": 0.715,
    "volumen": 9975.803237999997,
    "spread": 0.0,
    "categoria": "Política",
@@ -231,8 +231,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.0435,
+   "no": 0.9565,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 18.88
+ "db_size_mb": 19.02
 }
