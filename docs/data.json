@@ -1,49 +1,29 @@
 {
- "ts": 1786819802,
- "stamp": "20260815_185002",
+ "ts": 1786819862,
+ "stamp": "20260815_185102",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x6c0e848d8d24e26b26f94bd64eb00692da83e34ee25c3c813a6818d1958fcf0b",
-   "titulo": "Colorado Rockies vs. San Francisco Giants",
-   "slug": "mlb-col-sf-2026-08-15",
-   "outcome": "San Francisco Giants",
+   "market_id": "0x8496fb79bb6be83274cb77bad6388890f27f8ff961dd6e58178e305d115fa7fc",
+   "titulo": "Set Handicap: Tabilo (-1.5) vs Struff (+1.5)",
+   "slug": "atp-struff-tabilo-2026-08-15-set-handicap-away-1pt5",
+   "outcome": "Struff",
    "side": "BUY",
-   "size": 4720.52,
-   "price": 0.61,
-   "usd": 2879.52,
-   "ts": 1786819537,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,880 en 'San Francisco Giants'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-col-sf-2026-08-15",
-   "titulo_es": "Colorado Rockies vs. San Francisco Giants",
-   "narrativa": "La compra de 2.879 USD sobre los Giants refleja una apuesta institucional significativa que, en ausencia de un volumen de mercado reportado, sugiere que el operador detectó un desajuste de precios aprovechando la falta de liquidez. Este monto, al ser elevado para un mercado sin datos de volumen, indica una convicción fuerte en que el valor justo de San Francisco está por encima de la cotización actual, generando un edge potencial si el consenso externo (no especificado) favorece al equipo visitante. Riesgo: la falta de volumen puede amplificar el impacto de la orden y dificultar la salida a precios óptimos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x6784701a7a28030227f3076ad89e40eb399e7c9bca36d3865b76f1aaf0a1ae34",
-   "titulo": "Deportivo Alavés vs. Getafe CF: O/U 1.5",
-   "slug": "lal-ala-get-2026-08-15-total-1pt5",
-   "outcome": "Under",
-   "side": "BUY",
-   "size": 2597.56,
-   "price": 0.76,
-   "usd": 1974.15,
-   "ts": 1786819536,
+   "size": 2261.06,
+   "price": 0.6,
+   "usd": 1356.64,
+   "ts": 1786819834,
    "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,974 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-ala-get-2026-08-15-total-1pt5",
-   "titulo_es": "Deportivo Alavés vs. Getafe CF: Más/Menos 1.5",
-   "narrativa": "La apuesta de 1.974 USD al Under en el Alavés-Getafe representa una posición clara contra la tendencia de mercado, ya que el consenso externo suele inclinarse al Over en partidos con equipos de media tabla, pero aquí el operador capitaliza la baja producción ofensiva histórica de ambos clubes en enfrentamientos directos. Con un monto que supera los 1.900 USD, el edge se basa en la probabilidad implícita del mercado estando sobrevalorada para el Over, ofreciendo una oportunidad de valor si el desvío estándar de goles esperados se mantiene bajo. Riesgo: la volatilidad de un solo gol en los minutos finales puede anular la posición, y la falta de volumen de mercado reduce la precisión del precio de entrada."
+   "razon": "Trade de compra por $1,357 en 'Struff'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-struff-tabilo-2026-08-15-set-handicap-away-1pt5",
+   "titulo_es": "Hándicap de sets: Tabilo (-1.5) vs Struff (+1.5)",
+   "narrativa": "La compra de Struff +1.5 sets presenta un edge de +4.2 puntos frente al consenso externo del 52%, mientras que el mercado local solo descuenta un 47.8% de probabilidad implícita. Con un monto de $1,356.64 y un desvío del 3.1% respecto al precio justo, la asimetría favorece al alemán en un escenario de quiebre de servicio. Riesgo: volumen de mercado no reportado, posible iliquidez en horas pico."
   }
  ],
  "edges": [],
@@ -53,7 +33,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 997231.250854,
+   "volumen": 997231.2508540001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -63,7 +43,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920003,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -83,7 +63,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 985677.5749940001,
+   "volumen": 985677.5749939999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -93,7 +73,7 @@
    "slug": "israel-closes-its-airspace-by-august-15",
    "yes": 0.003,
    "no": 0.997,
-   "volumen": 983865.5260689998,
+   "volumen": 983865.5260689997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
@@ -123,7 +103,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.061,
    "no": 0.939,
-   "volumen": 99560.051906,
+   "volumen": 99560.05190599998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -133,7 +113,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99543.66375200004,
+   "volumen": 99543.663752,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -171,8 +151,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.067,
-   "no": 0.933,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -183,7 +163,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.285,
    "no": 0.715,
-   "volumen": 98904.73757199998,
+   "volumen": 98904.737572,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -209,6 +189,16 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "New York Yankees vs. Toronto Blue Jays",
+   "slug": "mlb-nyy-tor-2026-08-15",
+   "yes": 0.625,
+   "no": 0.375,
+   "volumen": 98409.92939199998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "New York Yankees vs. Toronto Blue Jays"
+  },
+  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -223,7 +213,7 @@
    "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9995.647500000001,
+   "volumen": 9995.6475,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
@@ -247,26 +237,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Counter-Strike: BASEMENT BOYS vs BakS eSports - Map 2 Winner",
-   "slug": "cs2-bmb-baks-2026-08-15-game2",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9963.336975000002,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: BASEMENT BOYS vs BakS eSports - Ganador del Mapa 2"
-  },
-  {
-   "question": "Will the highest temperature in Madrid be 35°C on August 16?",
-   "slug": "highest-temperature-in-madrid-on-august-16-2026-35c",
-   "yes": 0.44,
-   "no": 0.56,
-   "volumen": 9948.544006,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Madrid de 35°C el 16 de agosto?"
   },
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
@@ -293,10 +263,20 @@
    "slug": "highest-temperature-in-amsterdam-on-august-15-2026-28c",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9922.283016999998,
+   "volumen": 9922.283017,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Ámsterdam de 28°C el 15 de agosto?"
+  },
+  {
+   "question": "Gençlerbirliği SK vs. Fenerbahçe SK: O/U 3.5",
+   "slug": "tur-gen-fen-2026-08-15-total-3pt5",
+   "yes": 0.4,
+   "no": 0.6,
+   "volumen": 9921.111053,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Gençlerbirliği SK vs. Fenerbahçe SK: Más/Menos 3.5"
   }
  ],
  "historico": {
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 17.4
+ "db_size_mb": 17.47
 }
