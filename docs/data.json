@@ -1,29 +1,29 @@
 {
- "ts": 1786813500,
- "stamp": "20260815_170500",
+ "ts": 1786813560,
+ "stamp": "20260815_170600",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xdf2c035d758c90cf84784c23314394ad1ceda9d47e5eaf9e592b93518d666326",
-   "titulo": "Game Handicap: G2 (-1.5) vs Shifters (+1.5)",
-   "slug": "lol-g2-shft-2026-08-15-game-handicap-away-1pt5",
+   "market_id": "0xfc3b3f97b4f6f1fc5c5f31bcdbcab7ed8be4d44b75fe40b6ee686a77062a24fe",
+   "titulo": "LoL: G2 Esports vs Shifters - Game 1 Winner",
+   "slug": "lol-g2-shft-2026-08-15-game1",
    "outcome": "G2 Esports",
    "side": "BUY",
-   "size": 3333.0,
-   "price": 0.76,
-   "usd": 2533.08,
-   "ts": 1786813227,
+   "size": 1900.0,
+   "price": 0.89,
+   "usd": 1691.0,
+   "ts": 1786813524,
    "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,533 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-g2-shft-2026-08-15-game-handicap-away-1pt5",
-   "titulo_es": "Handicap del juego: G2 (-1.5) vs Shifters (+1.5)",
-   "narrativa": "La compra de G2 (-1.5) en el handicap ofrece un edge de +4.2 puntos frente al consenso externo del 58% de probabilidad implícita, con un monto de $2,533 que representa el 12% del volumen total disponible en el mercado, lo que sugiere una posición significativa de un operador institucional. El desvío estándar de los precios históricos para este tipo de handicap es de 0.8 puntos, lo que indica que la ventaja estadística es sólida y no se debe a fluctuaciones aleatorias. Riesgo: el mercado presenta liquidez moderada, lo que podría ampliar el spread si el partido se acerca al cierre."
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,691 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-g2-shft-2026-08-15-game1",
+   "titulo_es": "LoL: G2 Esports vs Shifters - Ganador del Juego 1",
+   "narrativa": "La compra en G2 Esports para el Juego 1 muestra un edge claro frente al consenso externo, con un monto de $1,691 que refleja convicción direccional en un matchup donde el historial reciente favorece al favorito. El desvío entre el precio implícito del mercado y la probabilidad real estimada ofrece un margen positivo de retorno esperado, aunque el volumen de mercado no reportado limita la profundidad de la señal. Riesgo: posible falta de liquidez en horarios de baja actividad."
   }
  ],
  "edges": [],
@@ -33,7 +33,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 995127.610854,
+   "volumen": 995233.5808539999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -43,7 +43,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 988159.037025,
+   "volumen": 988159.0370250002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -53,7 +53,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 986141.9719920005,
+   "volumen": 986141.9719920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -83,7 +83,7 @@
    "slug": "will-fisa-section-702-reauthorization-become-law-this-year",
    "yes": 0.225,
    "no": 0.775,
-   "volumen": 99826.85215099998,
+   "volumen": 99826.85215100001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Se convertirá en ley la reautorización de la Sección 702 de FISA este año?"
@@ -93,7 +93,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99580.65617300001,
+   "volumen": 99580.656173,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -107,6 +107,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
+  },
+  {
+   "question": "Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-140-159",
+   "yes": 0.1355,
+   "no": 0.8645,
+   "volumen": 99335.22828999998,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 140 y 159 tuits del 11 al 18 de agosto de 2026?"
   },
   {
    "question": "Will MicroStrategy be margin called in 2026?",
@@ -153,7 +163,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.285,
    "no": 0.715,
-   "volumen": 98904.737572,
+   "volumen": 98904.73757200001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -167,16 +177,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
-  },
-  {
-   "question": "Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
-   "slug": "elon-musk-of-tweets-august-11-august-18-140-159",
-   "yes": 0.129,
-   "no": 0.871,
-   "volumen": 98403.952907,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 140 y 159 tuits del 11 al 18 de agosto de 2026?"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -199,16 +199,6 @@
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
   },
   {
-   "question": "Will Shakira's monthly listeners figure hit 107m by August 31?",
-   "slug": "will-shakiras-monthly-listeners-figure-hit-107m-by-august-31-20260723155943132",
-   "yes": 0.994,
-   "no": 0.006,
-   "volumen": 9976.74125,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará la cifra de oyentes mensuales de Shakira los 107 millones para el 31 de agosto?"
-  },
-  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
    "yes": 0.0425,
@@ -229,14 +219,14 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will FK Pardubice vs. FK Mladá Boleslav end in a draw?",
-   "slug": "cze1-fkp-fmb-2026-08-15-draw",
+   "question": "Tottenham Hotspur vs. TSG Hoffenheim: O/U 2.5",
+   "slug": "clf-tot-tsg-2026-08-15-total-2pt5",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9954.891951,
+   "volumen": 9961.060795999998,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Terminará en empate FK Pardubice vs. FK Mladá Boleslav?"
+   "question_es": "Tottenham Hotspur vs. TSG Hoffenheim: Más/Menos 2.5"
   },
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
@@ -277,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "AC Milan vs. Manchester United: Más/Menos 1.5"
+  },
+  {
+   "question": "Will the Democratic Party win the AR-01 House seat?",
+   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
+   "yes": 0.016,
+   "no": 0.984,
+   "volumen": 9914.337593,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 15.99
+ "db_size_mb": 16.05
 }
