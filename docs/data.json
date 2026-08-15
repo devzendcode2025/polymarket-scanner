@@ -1,50 +1,10 @@
 {
- "ts": 1786815901,
- "stamp": "20260815_174501",
+ "ts": 1786815961,
+ "stamp": "20260815_174601",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x81440297024047810f16b15c9f0e2664e35c3fa9d70aabf36ac5c171bb6d63ba",
-   "titulo": "LoL: FURIA Esports vs RED Canids - Game 2 Winner",
-   "slug": "lol-fur-red-2026-08-15-game2",
-   "outcome": "RED Canids",
-   "side": "SELL",
-   "size": 2306.44,
-   "price": 0.9244499749,
-   "usd": 2132.19,
-   "ts": 1786815627,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,132 en 'RED Canids'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-fur-red-2026-08-15-game2",
-   "titulo_es": "LoL: FURIA Esports vs RED Canids - Ganador del Juego 2",
-   "narrativa": "La venta de 2,132 USD sobre RED Canids en el Juego 2 contra FURIA sugiere que el mercado está sobrevalorando a RED Canids tras un posible primer juego ajustado. El tamaño de la operación, aunque moderado, indica convicción direccional en un escenario de alta incertidumbre en partidos de LoL. Riesgo: liquidez limitada en mercados de esports puede amplificar el deslizamiento."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x818e9a85c890ac31c10c16a8ed30b673a8fed9117134fe05fc8581738fe14189",
-   "titulo": "Will Trabzonspor win on 2026-08-15?",
-   "slug": "tur-kas-tra-2026-08-15-tra",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2493.3375,
-   "price": 0.8,
-   "usd": 1994.67,
-   "ts": 1786815624,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,995 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/tur-kas-tra-2026-08-15-tra",
-   "titulo_es": "¿Ganará Trabzonspor el 2026-08-15?",
-   "narrativa": "La compra de 1,995 USD en 'No' para Trabzonspor el 2026-08-15 refleja una apuesta contra un equipo con historial irregular en partidos de pretemporada o competiciones tempranas. El monto sugiere que el consenso externo favorece al 'Sí', pero el operador ve un edge en la probabilidad implícita. Riesgo: el horizonte lejano (2026) introduce incertidumbre por cambios de plantilla y forma."
-  },
   {
    "tipo": "ballena",
    "market_id": "0xfc3b3f97b4f6f1fc5c5f31bcdbcab7ed8be4d44b75fe40b6ee686a77062a24fe",
@@ -52,18 +12,18 @@
    "slug": "lol-g2-shft-2026-08-15-game1",
    "outcome": "G2 Esports",
    "side": "BUY",
-   "size": 1557.117304,
-   "price": 0.7706548466,
-   "usd": 1200.0,
-   "ts": 1786815624,
+   "size": 2613.43,
+   "price": 0.4832550939,
+   "usd": 1262.95,
+   "ts": 1786815930,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,200 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $1,263 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-g2-shft-2026-08-15-game1",
    "titulo_es": "LoL: G2 Esports vs Shifters - Ganador del Juego 1",
-   "narrativa": "La compra de 1,200 USD en G2 Esports para el Juego 1 contra Shifters aprovecha la brecha entre el poderío histórico de G2 y la falta de experiencia de Shifters en escenarios internacionales. El tamaño de la operación es significativo para un mercado de juego individual, indicando confianza en el early game de G2. Riesgo: los bo1 en LoL son volátiles y un draft inusual puede alterar el resultado."
+   "narrativa": "La compra en G2 Esports para el Juego 1 presenta un edge favorable alineado con el consenso externo del 78% de probabilidad implícita, mientras que el mercado cotiza a 1.62 (61.7%), generando un diferencial de +16.3 puntos porcentuales. Con un monto de $1,262.95, la posición capitaliza la brecha entre la valoración del mercado y la expectativa del modelo, sin que el volumen reportado indique distorsión de precios. Riesgo: posible ajuste rápido del precio si el mercado corrige el desvío antes del cierre de la ventana de apuestas."
   }
  ],
  "edges": [],
@@ -121,8 +81,8 @@
   {
    "question": "Will FISA Section 702 reauthorization become law this year?",
    "slug": "will-fisa-section-702-reauthorization-become-law-this-year",
-   "yes": 0.375,
-   "no": 0.625,
+   "yes": 0.38,
+   "no": 0.62,
    "volumen": 99983.23696000001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -311,8 +271,8 @@
   {
    "question": "USMCA extended in 2026?",
    "slug": "usmca-extended-in-2026-20260701162719768",
-   "yes": 0.21,
-   "no": 0.79,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 9908.915998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -326,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 16.49
+ "db_size_mb": 16.57
 }
