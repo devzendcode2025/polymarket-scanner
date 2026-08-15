@@ -1,31 +1,10 @@
 {
- "ts": 1786831205,
- "stamp": "20260815_220005",
+ "ts": 1786831565,
+ "stamp": "20260815_220605",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x1cb18e2f39346beac6b031d355e756f2761f045de1ab2f1d4881ba3402313231",
-   "titulo": "Cincinnati Open: Arthur Fery vs James Duckworth",
-   "slug": "atp-fery-duckwor-2026-08-15",
-   "outcome": "Arthur Fery",
-   "side": "BUY",
-   "size": 5894.62264,
-   "price": 0.53,
-   "usd": 3124.15,
-   "ts": 1786830645,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,124 en 'Arthur Fery'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-fery-duckwor-2026-08-15",
-   "titulo_es": "Cincinnati Open: Arthur Fery contra James Duckworth",
-   "narrativa": "La compra de Arthur Fery a $3,124 USD refleja una apuesta concentrada en su victoria ante Duckworth, un rival que ha mostrado inconsistencia en pista dura. El edge se sustenta en que el mercado aún no ajusta completamente el diferencial de ritmo y servicio de Fery, pese a que su reciente progresión en torneos challenger sugiere una ventaja real de ~8 puntos sobre la cuota implícita. Con un volumen de mercado no reportado, la oportunidad radica en capturar valor antes de que los modelos externos (consenso 55% vs. 58% estimado) corrijan la línea. Riesgo: posible falta de liquidez en mercados de tenis secundarios."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -33,7 +12,7 @@
    "slug": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 998994.5055199999,
+   "volumen": 999610.24552,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Obtendrá Yabloko la mayor cantidad de escaños en las próximas elecciones parlamentarias rusas?"
@@ -43,7 +22,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920003,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -61,9 +40,9 @@
   {
    "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
-   "yes": 0.019,
-   "no": 0.981,
-   "volumen": 988169.031919,
+   "yes": 0.0185,
+   "no": 0.9815,
+   "volumen": 988494.6819190001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -73,7 +52,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986890.411355,
+   "volumen": 986890.4113549999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -123,7 +102,7 @@
    "slug": "will-ethereum-dip-to-1700-in-august-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 99294.20996099997,
+   "volumen": 99294.209961,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Ethereum a $1,700 en agosto?"
@@ -133,7 +112,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799996,
+   "volumen": 99179.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -153,7 +132,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.29,
    "no": 0.71,
-   "volumen": 99104.44479299997,
+   "volumen": 99104.44479299999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -171,8 +150,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.069,
-   "no": 0.931,
+   "yes": 0.0695,
+   "no": 0.9305,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -181,8 +160,8 @@
   {
    "question": "US charges Hormuz fees by December 31, 2026?",
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
-   "yes": 0.06,
-   "no": 0.94,
+   "yes": 0.055,
+   "no": 0.945,
    "volumen": 98711.43276299999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -203,7 +182,7 @@
    "slug": "will-ethereum-dip-to-1600-in-august-2026",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98322.077689,
+   "volumen": 98322.07768899998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Ethereum a $1,600 en agosto?"
@@ -213,7 +192,7 @@
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
    "no": 0.055,
-   "volumen": 9997.497541,
+   "volumen": 9997.497540999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
@@ -223,7 +202,7 @@
    "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9995.647500000001,
+   "volumen": 9995.6475,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
@@ -233,7 +212,7 @@
    "slug": "itc-ven-mod-2026-08-15-ven",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9975.970478000003,
+   "volumen": 9977.500478000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará el Venezia FC el 15 de agosto de 2026?"
@@ -241,12 +220,22 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.032,
-   "no": 0.968,
+   "yes": 0.031,
+   "no": 0.969,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will the highest temperature in Toronto be 26°C on August 15?",
+   "slug": "highest-temperature-in-toronto-on-august-15-2026-26c",
+   "yes": 0.001,
+   "no": 0.999,
+   "volumen": 9969.137793000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Toronto de 26°C el 15 de agosto?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -257,16 +246,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will the highest temperature in Toronto be 26°C on August 15?",
-   "slug": "highest-temperature-in-toronto-on-august-15-2026-26c",
-   "yes": 0.005,
-   "no": 0.995,
-   "volumen": 9955.136793,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Toronto de 26°C el 15 de agosto?"
   },
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 19.95
+ "db_size_mb": 20.07
 }
