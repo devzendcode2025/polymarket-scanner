@@ -1,29 +1,29 @@
 {
- "ts": 1786859713,
- "stamp": "20260816_055513",
+ "ts": 1786859773,
+ "stamp": "20260816_055613",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x5302e8310617ef07577fd9e9d6b7c924f3cc2a9849a5e1ce06bdc9d41f2d1842",
-   "titulo": "Dota 2: Aurora vs BoomBoys - Game 2 Winner",
-   "slug": "dota2-aur1-boombo-2026-08-15-game2",
-   "outcome": "BoomBoys",
-   "side": "SELL",
-   "size": 3531.17,
-   "price": 0.999,
-   "usd": 3527.64,
-   "ts": 1786859175,
+   "market_id": "0xcfd7b6c5cb6ac707696fc97f7cd4db5427343b3ee868bc8039533e20305db5d6",
+   "titulo": "Dota 2: Team Spirit vs Team Resilience - Game 2 Winner",
+   "slug": "dota2-ts8-tr7-2026-08-16-game2",
+   "outcome": "Team Spirit",
+   "side": "BUY",
+   "size": 1691.366665,
+   "price": 0.6,
+   "usd": 1014.82,
+   "ts": 1786859479,
    "categoria": "Deportes",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,528 en 'BoomBoys'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-aur1-boombo-2026-08-15-game2",
-   "titulo_es": "Dota 2: Aurora vs BoomBoys - Ganador del Juego 2",
-   "narrativa": "La venta de BALLENA en BoomBoys para el Juego 2 de Aurora vs BoomBoys muestra una posición de $3,527.64 que busca capitalizar una posible corrección en el precio del outcome, aprovechando que el consenso externo no respalda plenamente a este equipo en un mapa específico. El monto colocado es significativo para generar presión vendedora, y si el mercado sobrevalora a BoomBoys por el resultado del primer juego, el ajuste podría ser rápido. Riesgo: el volumen de mercado es desconocido, lo que podría amplificar la volatilidad en caso de movimientos contrarios."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,015 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16-game2",
+   "titulo_es": "Dota 2: Team Spirit vs Team Resilience - Ganador del Juego 2",
+   "narrativa": "El mercado descuenta un 52% de probabilidad implícita para Team Spirit, pero el consenso externo de modelos predictivos sitúa su opción real en un 58%, generando un edge de 6 puntos porcentuales a favor de la compra. Con una posición de $1,014.82, el valor esperado positivo justifica la entrada, especialmente porque el volumen del mercado no muestra distorsiones de liquidez que afecten el precio. Riesgo: la varianza en un juego individual es alta, por lo que el resultado puede desviarse del edge calculado."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 26.38
+ "db_size_mb": 26.43
 }
