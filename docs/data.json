@@ -1,6 +1,6 @@
 {
- "ts": 1786872977,
- "stamp": "20260816_093617",
+ "ts": 1786873037,
+ "stamp": "20260816_093717",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -36,13 +36,13 @@
    "price": 0.36,
    "usd": 3712.05,
    "ts": 1786872703,
-   "volumen_mercado": 98471.41158999997,
+   "volumen_mercado": 98982.88942699999,
    "tags": [],
    "categoria": "Otros",
    "prob": 80,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,712 en 'Yes' = 3.8% del volumen del mercado ($98,471). Órdenes de este tamaño relativo suelen mover el precio en el corto plazo.",
+   "razon": "Trade de compra por $3,712 en 'Yes' = 3.8% del volumen del mercado ($98,983). Órdenes de este tamaño relativo suelen mover el precio en el corto plazo.",
    "url": "https://polymarket.com/market/ere-ado-gro-2026-08-16-ado",
    "titulo_es": "¿Ganará el ADO Den Haag el 2026-08-16?",
    "narrativa": "La entrada de 3,712 USD a favor del ADO Den Haag para el 16 de agosto de 2026 se sustenta en un volumen de mercado de 98,471 USD, lo que indica un mercado activo y con suficiente liquidez para posicionarse con confianza. El monto invertido, en relación con el volumen total, sugiere que el comprador percibe una probabilidad implícita inferior a la real, generando un edge positivo en puntos porcentuales que justifica la exposición. Riesgo: el horizonte temporal largo (más de un año) implica incertidumbre por cambios en la plantilla o forma del equipo, aunque la liquidez actual mitiga el riesgo de salida."
@@ -115,7 +115,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988542.5749690001,
+   "volumen": 988542.5749689998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -125,7 +125,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987183.4166260001,
+   "volumen": 987183.4166260002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -145,7 +145,7 @@
    "slug": "val-ff3-jl-2026-08-16",
    "yes": 0.515,
    "no": 0.485,
-   "volumen": 99911.66979399999,
+   "volumen": 99923.20824999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Valorant: Fire Flux Esports vs Joblife (BO3) - VCT EMEA Play-Ins"
@@ -165,7 +165,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900002,
+   "volumen": 99798.31490900004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -173,9 +173,9 @@
   {
    "question": "Will Ethereum reach $2,000 August 10-16?",
    "slug": "will-ethereum-reach-2000-august-10-16-2026",
-   "yes": 0.0045,
-   "no": 0.9955,
-   "volumen": 99665.33387099998,
+   "yes": 0.005,
+   "no": 0.995,
+   "volumen": 99665.333871,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $2,000 del 10 al 16 de agosto?"
@@ -185,7 +185,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.061,
    "no": 0.939,
-   "volumen": 99646.19651800001,
+   "volumen": 99646.19651799998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -193,8 +193,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99202.056612,
    "spread": 0.0,
    "categoria": "Otros",
@@ -205,7 +205,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799997,
+   "volumen": 99179.48181799994,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -215,7 +215,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.33,
    "no": 0.67,
-   "volumen": 99104.44479300002,
+   "volumen": 99104.44479299997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -225,10 +225,20 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 98987.58341900003,
+   "volumen": 98987.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Will ADO Den Haag win on 2026-08-16?",
+   "slug": "ere-ado-gro-2026-08-16-ado",
+   "yes": 0.355,
+   "no": 0.645,
+   "volumen": 98982.88942699999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará el ADO Den Haag el 2026-08-16?"
   },
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
@@ -245,20 +255,10 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98824.49276299997,
+   "volumen": 98824.49276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will ADO Den Haag win on 2026-08-16?",
-   "slug": "ere-ado-gro-2026-08-16-ado",
-   "yes": 0.355,
-   "no": 0.645,
-   "volumen": 98471.41158999997,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el ADO Den Haag el 2026-08-16?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -281,20 +281,20 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
-   "question": "Will the price of Ethereum be above $2,000 on August 16?",
-   "slug": "ethereum-above-2000-on-august-16-2026",
-   "yes": 0.001,
-   "no": 0.999,
-   "volumen": 9973.699396999998,
+   "question": "Will the highest temperature in London be 26°C on August 16?",
+   "slug": "highest-temperature-in-london-on-august-16-2026-26c",
+   "yes": 0.355,
+   "no": 0.645,
+   "volumen": 9989.290726,
    "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Ethereum por encima de $2,000 el 16 de agosto?"
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Londres de 26°C el 16 de agosto?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0425,
-   "no": 0.9575,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -311,14 +311,14 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the highest temperature in Paris be 31°C on August 16?",
-   "slug": "highest-temperature-in-paris-on-august-16-2026-31c",
-   "yes": 0.705,
-   "no": 0.295,
-   "volumen": 9956.793109999999,
+   "question": "Counter-Strike: Nexus vs Bushido Wildcats (BO3) - NODWIN Clutch Series Play-In group C",
+   "slug": "cs2-nxs1-bw-2026-08-16",
+   "yes": 0.09,
+   "no": 0.91,
+   "volumen": 9953.323996000005,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en París de 31°C el 16 de agosto?"
+   "categoria": "Deportes",
+   "question_es": "Counter-Strike: Nexus vs Bushido Wildcats (BO3) - NODWIN Clutch Series Play-In grupo C"
   },
   {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
@@ -358,5 +358,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 29.43
+ "db_size_mb": 29.44
 }
