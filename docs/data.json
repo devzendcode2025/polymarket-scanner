@@ -1,6 +1,6 @@
 {
- "ts": 1786905686,
- "stamp": "20260816_184126",
+ "ts": 1786905746,
+ "stamp": "20260816_184226",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -241,8 +241,8 @@
   {
    "question": "Will Anthropic have the best Code Arena | WebDev AI at the end of October 2026?",
    "slug": "will-anthropic-have-the-best-code-arena-webdev-ai-at-the-end-of-october-2026-20260811194840755",
-   "yes": 0.53,
-   "no": 0.47,
+   "yes": 0.585,
+   "no": 0.415,
    "volumen": 9991.564536000002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -271,8 +271,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0355,
-   "no": 0.9645,
+   "yes": 0.031,
+   "no": 0.969,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -301,8 +301,8 @@
   {
    "question": "Spread: Liverpool FC (-2.5)",
    "slug": "clf-lfc-com-2026-08-16-spread-home-2pt5",
-   "yes": 0.245,
-   "no": 0.755,
+   "yes": 0.215,
+   "no": 0.785,
    "volumen": 9956.157811000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -321,8 +321,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.365,
-   "no": 0.635,
+   "yes": 0.38,
+   "no": 0.62,
    "volumen": 9950.113178,
    "spread": 0.0,
    "categoria": "Tecnología",
