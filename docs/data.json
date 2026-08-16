@@ -1,6 +1,6 @@
 {
- "ts": 1786887681,
- "stamp": "20260816_134121",
+ "ts": 1786887741,
+ "stamp": "20260816_134221",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -151,8 +151,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.305,
-   "no": 0.695,
+   "yes": 0.315,
+   "no": 0.685,
    "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -251,8 +251,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.0435,
+   "no": 0.9565,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
