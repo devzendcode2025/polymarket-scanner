@@ -1,29 +1,49 @@
 {
- "ts": 1786857613,
- "stamp": "20260816_052013",
+ "ts": 1786857673,
+ "stamp": "20260816_052113",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xbfbf42bef7dc25cd95c59937a4216db962670d78f766e7730befa4cdad9bad31",
-   "titulo": "Will Arsenal FC win on 2026-08-16?",
-   "slug": "ecs-ars-mci-2026-08-16-ars",
-   "outcome": "No",
+   "market_id": "0xcfd7b6c5cb6ac707696fc97f7cd4db5427343b3ee868bc8039533e20305db5d6",
+   "titulo": "Dota 2: Team Spirit vs Team Resilience - Game 2 Winner",
+   "slug": "dota2-ts8-tr7-2026-08-16-game2",
+   "outcome": "Team Spirit",
    "side": "BUY",
-   "size": 12444.64,
-   "price": 0.65,
-   "usd": 8089.02,
-   "ts": 1786857079,
-   "categoria": "Otros",
-   "prob": 64,
+   "size": 13698.630133,
+   "price": 0.73,
+   "usd": 10000.0,
+   "ts": 1786857375,
+   "categoria": "Deportes",
+   "prob": 67,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $8,089 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ecs-ars-mci-2026-08-16-ars",
-   "titulo_es": "¿Ganará el Arsenal FC el 2026-08-16?",
-   "narrativa": "El mercado descuenta un 62% de probabilidad implícita para el 'No', pero el consenso externo de modelos ofensivos y defensivos sitúa el verdadero margen del Arsenal en torno al 68%, generando un edge de +6 puntos porcentuales. Con una posición de $8,089 USD, el retorno esperado ajustado por desvío es atractivo si el precio converge al valor justo antes del cierre. Riesgo: el evento está a más de un año, y la volatilidad de plantilla y lesiones puede erosionar la ventaja estadística."
+   "razon": "Trade de compra por $10,000 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16-game2",
+   "titulo_es": "Dota 2: Team Spirit vs Team Resilience - Ganador del Juego 2",
+   "narrativa": "La acumulación de USD 10,000 en Team Spirit para el Juego 2 refleja una convicción institucional fuerte, con un flujo que representa una presión de compra significativa frente a un mercado sin volumen reportado, sugiriendo que el precio aún no ha absorbido toda la demanda. Este tamaño de orden, comparado con la ausencia de consenso externo, indica que el capital grande está posicionándose antes de que el público ajuste sus expectativas, generando un edge potencial en la diferencia entre el precio actual y el valor justo estimado por el flujo. Riesgo: la falta de liquidez podría amplificar el slippage si el mercado se mueve en contra."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xcfd7b6c5cb6ac707696fc97f7cd4db5427343b3ee868bc8039533e20305db5d6",
+   "titulo": "Dota 2: Team Spirit vs Team Resilience - Game 2 Winner",
+   "slug": "dota2-ts8-tr7-2026-08-16-game2",
+   "outcome": "Team Spirit",
+   "side": "BUY",
+   "size": 2740.030544,
+   "price": 0.7299188695,
+   "usd": 2000.0,
+   "ts": 1786857385,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16-game2",
+   "titulo_es": "Dota 2: Team Spirit vs Team Resilience - Ganador del Juego 2",
+   "narrativa": "La compra adicional de USD 2,000 en el mismo resultado refuerza la señal direccional, sumando un total de USD 12,000 en Team Spirit, lo que sugiere que el operador está promediando su entrada para maximizar el edge por punto, especialmente si el desvío entre el precio de mercado y el consenso implícito es favorable. Este segundo tramo, aunque menor, indica consistencia en la tesis y reduce el costo promedio, mejorando el ratio riesgo-beneficio en un evento binario de alta volatilidad. Riesgo: la exposición concentrada en un solo juego aumenta la varianza del resultado final."
   }
  ],
  "edges": [],
@@ -133,7 +153,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 98987.58341900002,
+   "volumen": 98987.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -153,7 +173,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98824.49276299999,
+   "volumen": 98824.49276299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 25.94
+ "db_size_mb": 26.01
 }
