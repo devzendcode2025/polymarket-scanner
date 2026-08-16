@@ -1,6 +1,6 @@
 {
- "ts": 1786893683,
- "stamp": "20260816_152123",
+ "ts": 1786893743,
+ "stamp": "20260816_152223",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -170,8 +170,8 @@
   {
    "question": "Will PVISION Win the CS2 EWC 2026?",
    "slug": "will-pvision-win-the-cs2-ewc-2026-20260810160005103",
-   "yes": 0.001,
-   "no": 0.999,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 99913.74988100001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -310,8 +310,8 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.5,
-   "no": 0.5,
+   "yes": 0.505,
+   "no": 0.495,
    "volumen": 9995.100677000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -330,8 +330,8 @@
   {
    "question": "Molde FK vs. Tromsø IL: O/U 2.5",
    "slug": "nor-mol-tro-2026-08-16-total-2pt5",
-   "yes": 0.545,
-   "no": 0.455,
+   "yes": 0.505,
+   "no": 0.495,
    "volumen": 9989.391974999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -360,8 +360,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0335,
-   "no": 0.9665,
+   "yes": 0.037,
+   "no": 0.963,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -370,8 +370,8 @@
   {
    "question": "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 45% or higher?",
    "slug": "will-the-highest-score-achieved-by-a-spacexai-grok-model-on-humanitys-last-exam-in-2026-be-45-or-higher-20260723191456650",
-   "yes": 0.7175,
-   "no": 0.2825,
+   "yes": 0.718,
+   "no": 0.282,
    "volumen": 9967.655697,
    "spread": 0.0,
    "categoria": "Tecnología",
