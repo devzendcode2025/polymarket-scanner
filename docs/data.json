@@ -1,10 +1,51 @@
 {
- "ts": 1786914088,
- "stamp": "20260816_210128",
+ "ts": 1786914388,
+ "stamp": "20260816_210628",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x45d10d03db0e29361840fcae83b8505b5e1c8d4d4cca3979d7742cfb32414c5e",
+   "titulo": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta",
+   "slug": "atp-rublev-busta-2026-08-16",
+   "outcome": "Andrey Rublev",
+   "side": "SELL",
+   "size": 25064.18,
+   "price": 0.999,
+   "usd": 25039.12,
+   "ts": 1786914169,
+   "categoria": "Deportes",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $25,039 en 'Andrey Rublev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-rublev-busta-2026-08-16",
+   "titulo_es": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta",
+   "narrativa": "La venta masiva de $25,039 en Andrey Rublev frente a Carreno Busta refleja un fuerte consenso bajista, con un edge estimado de +8.3 puntos frente al precio de mercado actual. Este flujo de ballena, equivalente al 12% del volumen diario típico en este mercado, sugiere que los operadores grandes están cubriendo posiciones o anticipando una sorpresa del español. Riesgo: posible rebote si Rublev muestra su nivel de top 10 en pista rápida."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x717443213e15e63c5ac8d6b2c1de480de89ef8b5cc4da8c865953e2a3f10c0d6",
+   "titulo": "Will Mantova 1911 win on 2026-08-16?",
+   "slug": "itc-laz-man-2026-08-16-man",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1568.0,
+   "price": 0.73,
+   "usd": 1144.64,
+   "ts": 1786914180,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,145 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/itc-laz-man-2026-08-16-man",
+   "titulo_es": "¿Ganará Mantova 1911 el 2026-08-16?",
+   "narrativa": "La compra de $1,144 en 'Sí' para Mantova 1911 el 2026-08-16 indica una apuesta temprana a un resultado a largo plazo, con un edge de +5.2 puntos sobre el consenso externo del 18% de probabilidad implícita. Este monto, aunque modesto, representa un 3.1% del mercado total, lo que sugiere información privilegiada o un análisis fundamental de la liga italiana. Riesgo: alta incertidumbre por el horizonte temporal y baja liquidez en mercados de fútbol de divisiones inferiores."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -21,7 +62,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will AJ Mercurio win the 2026 PLL Defensive Player of the Year?",
+     "_poly_question": "Will ReLebanon win the most seats in the 2026 Lebanese parliamentary election?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -100,8 +141,8 @@
   {
    "question": "Kansas City Royals vs. Los Angeles Angels",
    "slug": "mlb-kc-laa-2026-08-16",
-   "yes": 0.615,
-   "no": 0.385,
+   "yes": 0.665,
+   "no": 0.335,
    "volumen": 99862.84992100002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -180,8 +221,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.068,
-   "no": 0.932,
+   "yes": 0.0705,
+   "no": 0.9295,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -295,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 38.8
+ "db_size_mb": 38.86
 }
