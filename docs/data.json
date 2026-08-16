@@ -1,29 +1,49 @@
 {
- "ts": 1786902925,
- "stamp": "20260816_175525",
+ "ts": 1786903285,
+ "stamp": "20260816_180125",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9019df917a2138b6c262b8328bb287198155d75692c95b01c386c7a0a95837b5",
-   "titulo": "Kansas City Royals vs. Los Angeles Angels: O/U 9.5",
-   "slug": "mlb-kc-laa-2026-08-16-total-9pt5",
-   "outcome": "Under",
+   "market_id": "0xd999f397a08595479c9370d539598c99bba2997f5165552f2b98204de2763ae3",
+   "titulo": "Will SK Slavia Praha win on 2026-08-16?",
+   "slug": "cze1-fsl-ssp-2026-08-16-ssp",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 2500.0,
-   "price": 0.59,
-   "usd": 1475.0,
-   "ts": 1786902460,
+   "size": 6185.71,
+   "price": 0.54,
+   "usd": 3340.28,
+   "ts": 1786903057,
+   "categoria": "Otros",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,340 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cze1-fsl-ssp-2026-08-16-ssp",
+   "titulo_es": "¿Ganará el SK Slavia Praha el 2026-08-16?",
+   "narrativa": "La compra de 3,340 USD en 'Yes' para que el Slavia Praha gane el 16 de agosto refleja una apuesta significativa contra el consenso, buscando capturar valor si el mercado ha subestimado su forma actual. El tamaño del trade, al ser el mayor flujo detectado, sugiere convicción direccional, aunque el edge depende de que el precio de mercado aún no descuente plenamente la probabilidad real del equipo. Riesgo: volatilidad por noticias de última hora y posible falta de profundidad en el libro de órdenes."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xd8bb3984d54e1f0ddfe20df7c3daa6cc14648c6379561622b8630ed1d53e04a9",
+   "titulo": "FC Arouca vs. Moreirense FC: Both Teams to Score",
+   "slug": "por-aro-mor-2026-08-16-btts",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 4021.6,
+   "price": 0.45,
+   "usd": 1809.72,
+   "ts": 1786903062,
    "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,475 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-kc-laa-2026-08-16-total-9pt5",
-   "titulo_es": "Kansas City Royals vs. Los Angeles Angels: Más/Menos 9.5",
-   "narrativa": "El mercado fija la línea en 9.5 carreras, pero nuestro modelo detecta un edge de +4.2 puntos hacia el Under, respaldado por un consenso externo del 58% en esa dirección. Con un desvío estándar de 1.8 carreras en los últimos 10 juegos de ambos equipos, la probabilidad implícita del Under (52%) está por debajo de la nuestra (56.2%), lo que justifica la compra de $1,475. Riesgo: el volumen de mercado es bajo, lo que puede ampliar el spread en caso de salida rápida."
+   "razon": "Trade de compra por $1,810 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/por-aro-mor-2026-08-16-btts",
+   "titulo_es": "FC Arouca vs. Moreirense FC: Ambos equipos marcan",
+   "narrativa": "La entrada de 1,810 USD en 'Yes' para 'ambos equipos marcan' en el Arouca vs. Moreirense apunta a explotar una ineficiencia cuando el mercado suele infravalorar esta correlación en partidos de ligas menores. El monto, aunque moderado, busca un movimiento de varios puntos si el precio actual está por debajo de la frecuencia histórica de goles de ambos conjuntos. Riesgo: liquidez limitada que puede ampliar el deslizamiento al salir."
   }
  ],
  "edges": [
@@ -42,7 +62,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "BK Hacken vs. Halmstads BK: O/U 2.5",
+     "_poly_question": "Will Core PCE YoY be 3.2% in July?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -171,8 +191,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0695,
-   "no": 0.9305,
+   "yes": 0.069,
+   "no": 0.931,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -231,8 +251,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.042,
+   "no": 0.958,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -261,8 +281,8 @@
   {
    "question": "Will Joe Strada be the FL-11 Republican nominee?",
    "slug": "will-joe-strada-be-the-fl-11-republican-nominee-20260723173936220",
-   "yes": 0.765,
-   "no": 0.235,
+   "yes": 0.76,
+   "no": 0.24,
    "volumen": 9954.543102000001,
    "spread": 0.0,
    "categoria": "Política",
@@ -281,8 +301,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.37,
-   "no": 0.63,
+   "yes": 0.38,
+   "no": 0.62,
    "volumen": 9950.113178,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -310,11 +330,11 @@
   }
  ],
  "historico": {
-  "ts": 1786901249,
+  "ts": 1786903050,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 36.21
+ "db_size_mb": 36.34
 }
