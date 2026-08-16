@@ -1,6 +1,6 @@
 {
- "ts": 1786866735,
- "stamp": "20260816_075215",
+ "ts": 1786866795,
+ "stamp": "20260816_075315",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -159,7 +159,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will there be between 20 and 40 average daily transits of the Strait of Hormuz on August 31?",
+     "_poly_question": "Will the highest temperature in Milan be 32°C on August 17?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -427,7 +427,7 @@
   }
  ],
  "historico": {
-  "ts": 1786864999,
+  "ts": 1786866802,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
