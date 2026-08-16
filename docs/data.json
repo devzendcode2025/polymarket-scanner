@@ -1,29 +1,29 @@
 {
- "ts": 1786880419,
- "stamp": "20260816_114019",
+ "ts": 1786880479,
+ "stamp": "20260816_114119",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xad441ee103f06d07bd8e89e1a0511fdf30dd2657f68a3d611569777acca92c3a",
-   "titulo": "LoL: Kiwoom DRX vs HANJIN BRION - Game 1 Winner",
-   "slug": "lol-drx-bro2-2026-08-16-game1",
-   "outcome": "HANJIN BRION",
-   "side": "SELL",
-   "size": 2278.54,
-   "price": 0.999,
-   "usd": 2276.26,
-   "ts": 1786879939,
-   "categoria": "Deportes",
-   "prob": 55,
+   "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+   "titulo": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+   "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 4600.0,
+   "price": 0.88,
+   "usd": 4048.0,
+   "ts": 1786880236,
+   "categoria": "Política",
+   "prob": 58,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,276 en 'HANJIN BRION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-drx-bro2-2026-08-16-game1",
-   "titulo_es": "LoL: Kiwoom DRX vs HANJIN BRION - Ganador del Juego 1",
-   "narrativa": "La venta de 2,276 USD en HANJIN BRION para el Juego 1 de Kiwoom DRX vs HANJIN BRION sugiere una fuerte convicción bajista, probablemente basada en un edge de puntos negativo frente al consenso externo que favorece al rival. Este movimiento de capital, al ser el más grande del mercado en ese momento, puede indicar una corrección de precios inminente si el mercado no ha absorbido aún la información que motiva la venta. Riesgo: posible falta de liquidez en el mercado de este evento, lo que podría amplificar el impacto de la orden."
+   "razon": "Trade de compra por $4,048 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+   "titulo_es": "¿Controlará el Partido Demócrata la Cámara de Representantes después de las elecciones de mitad de mandato de 2026?",
+   "narrativa": "La compra de 4,048 USD en 'Yes' para que los Demócratas controlen la Cámara en 2026 refleja una apuesta anticipada a un ciclo electoral favorable, con un edge estimado de +5.2 puntos sobre el consenso externo del 42%. El tamaño del trade sugiere convicción institucional en un repunte de participación progresista, aunque el volumen de mercado aún no valida liquidez profunda. Riesgo: evento a largo plazo con alta sensibilidad a cambios macro y redistritación."
   },
   {
    "tipo": "ballena",
@@ -31,19 +31,19 @@
    "titulo": "LoL: Weibo Gaming vs Invictus Gaming - Game 2 Winner",
    "slug": "lol-wb-ig1-2026-08-16-game2",
    "outcome": "Invictus Gaming",
-   "side": "BUY",
-   "size": 2496.0,
-   "price": 0.7989142628,
-   "usd": 1994.09,
-   "ts": 1786879932,
+   "side": "SELL",
+   "size": 2000.0,
+   "price": 0.6010672,
+   "usd": 1202.13,
+   "ts": 1786880241,
    "categoria": "Deportes",
-   "prob": 54,
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,994 en 'Invictus Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de venta por $1,202 en 'Invictus Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-wb-ig1-2026-08-16-game2",
    "titulo_es": "LoL: Weibo Gaming vs Invictus Gaming - Ganador del Juego 2",
-   "narrativa": "La compra de 1,994 USD en Invictus Gaming para el Juego 2 contra Weibo Gaming representa una apuesta significativa que busca capitalizar un desajuste entre el precio actual y el valor esperado según el consenso externo. Este flujo de capital, al ser el mayor en ese mercado, podría estar anticipando una ventaja competitiva clave (como draft o forma reciente) que aún no se refleja en las probabilidades implícitas. Riesgo: la volatilidad de un solo juego en LoL puede ser alta, y el desenlace depende de factores difíciles de modelar."
+   "narrativa": "La venta de 1,202 USD en Invictus Gaming para el Juego 2 indica una corrección frente al precio implícito del mercado, con un desvío del -3.8% respecto al consenso de 55% de victoria para Weibo. El monto moderado busca capitalizar la sobrevaloración de IG tras un primer juego reñido, pero el edge de +2.1 puntos es ajustado. Riesgo: alta volatilidad en esports y posible falta de profundidad en el libro de órdenes."
   }
  ],
  "edges": [
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 31.11
+ "db_size_mb": 31.19
 }
