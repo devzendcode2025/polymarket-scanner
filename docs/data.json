@@ -1,6 +1,6 @@
 {
- "ts": 1786874177,
- "stamp": "20260816_095617",
+ "ts": 1786874237,
+ "stamp": "20260816_095717",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -151,8 +151,8 @@
   {
    "question": "Will Ethereum reach $2,000 August 10-16?",
    "slug": "will-ethereum-reach-2000-august-10-16-2026",
-   "yes": 0.005,
-   "no": 0.995,
+   "yes": 0.0035,
+   "no": 0.9965,
    "volumen": 99665.33387099998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -251,8 +251,8 @@
   {
    "question": "Will the highest temperature in London be 26°C on August 16?",
    "slug": "highest-temperature-in-london-on-august-16-2026-26c",
-   "yes": 0.44,
-   "no": 0.56,
+   "yes": 0.525,
+   "no": 0.475,
    "volumen": 9989.290726,
    "spread": 0.0,
    "categoria": "Otros",
