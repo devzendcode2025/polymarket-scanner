@@ -1,6 +1,6 @@
 {
- "ts": 1786880779,
- "stamp": "20260816_114619",
+ "ts": 1786880839,
+ "stamp": "20260816_114719",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -103,7 +103,7 @@
    "slug": "lol-wb-ig1-2026-08-16-game1",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 993257.2353869993,
+   "volumen": 993699.2853869995,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: Weibo Gaming vs Invictus Gaming - Ganador del Juego 1"
@@ -113,7 +113,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920004,
+   "volumen": 991312.1319920003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -123,7 +123,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988542.5749689998,
+   "volumen": 988542.5749689997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -133,7 +133,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987194.7802609999,
+   "volumen": 987194.780261,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -153,7 +153,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99847.14617299999,
+   "volumen": 99899.368394,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -163,7 +163,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900002,
+   "volumen": 99798.31490900005,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -173,10 +173,20 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.0615,
    "no": 0.9385,
-   "volumen": 99646.19651800001,
+   "volumen": 99646.196518,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
+  },
+  {
+   "question": "LoL: Movistar KOI vs Natus Vincere (BO3) - LEC Regular Season",
+   "slug": "lol-mkoi-navi-2026-08-16",
+   "yes": 0.555,
+   "no": 0.445,
+   "volumen": 99295.74843300004,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "LoL: Movistar KOI vs Natus Vincere (BO3) - Temporada Regular de la LEC"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -193,7 +203,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799997,
+   "volumen": 99179.48181799996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -203,7 +213,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99104.44479300002,
+   "volumen": 99104.44479299996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -243,20 +253,10 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.077,
    "no": 0.923,
-   "volumen": 98803.82621700001,
+   "volumen": 98803.826217,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
-  },
-  {
-   "question": "LoL: Movistar KOI vs Natus Vincere (BO3) - LEC Regular Season",
-   "slug": "lol-mkoi-navi-2026-08-16",
-   "yes": 0.555,
-   "no": 0.445,
-   "volumen": 98457.62034100003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "LoL: Movistar KOI vs Natus Vincere (BO3) - Temporada Regular de la LEC"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -277,16 +277,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
-  },
-  {
-   "question": "Will the highest temperature in Qingdao be 33°C on August 16?",
-   "slug": "highest-temperature-in-qingdao-on-august-16-2026-33c",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9988.982959,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Qingdao de 33°C el 16 de agosto?"
   },
   {
    "question": "Tom Holland as Spider-Man?",
@@ -319,6 +309,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will Google be the third-best AI lab at the end of August 2026?",
+   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
+   "yes": 0.435,
+   "no": 0.565,
+   "volumen": 9947.453486999999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
+  },
+  {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.0465,
@@ -339,14 +339,14 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   },
   {
-   "question": "Will Google be the third-best AI lab at the end of August 2026?",
-   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.435,
-   "no": 0.565,
-   "volumen": 9937.453487,
+   "question": "Will Julian Alvarez join Real Madrid?",
+   "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
+   "yes": 0.0045,
+   "no": 0.9955,
+   "volumen": 9937.221455000003,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
+   "categoria": "Deportes",
+   "question_es": "¿Se unirá Julián Álvarez al Real Madrid?"
   }
  ],
  "historico": {
