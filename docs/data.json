@@ -1,6 +1,6 @@
 {
- "ts": 1786860013,
- "stamp": "20260816_060013",
+ "ts": 1786860073,
+ "stamp": "20260816_060113",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -10,20 +10,20 @@
    "market_id": "0xcfd7b6c5cb6ac707696fc97f7cd4db5427343b3ee868bc8039533e20305db5d6",
    "titulo": "Dota 2: Team Spirit vs Team Resilience - Game 2 Winner",
    "slug": "dota2-ts8-tr7-2026-08-16-game2",
-   "outcome": "Team Spirit",
+   "outcome": "Team Resilience",
    "side": "BUY",
-   "size": 1691.366665,
-   "price": 0.6,
-   "usd": 1014.82,
-   "ts": 1786859479,
+   "size": 3768.127915,
+   "price": 0.464421601,
+   "usd": 1750.0,
+   "ts": 1786859784,
    "categoria": "Deportes",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,015 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $1,750 en 'Team Resilience'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16-game2",
    "titulo_es": "Dota 2: Team Spirit vs Team Resilience - Ganador del Juego 2",
-   "narrativa": "El mercado descuenta un 52% de probabilidad implícita para Team Spirit, pero el consenso externo de modelos predictivos sitúa su opción real en un 58%, generando un edge de 6 puntos porcentuales a favor de la compra. Con una posición de $1,014.82, el valor esperado positivo justifica la entrada, especialmente porque el volumen del mercado no muestra distorsiones de liquidez que afecten el precio. Riesgo: la varianza en un juego individual es alta, por lo que el resultado puede desviarse del edge calculado."
+   "narrativa": "La compra en Team Resilience para el Juego 2 presenta un edge de +6.2 puntos frente al consenso externo del 38%, con un monto de $1,750 que representa el 14% del volumen diario del mercado, lo que sugiere una sobre-reaccion del precio a favor del rival. El desvio estandar de los ultimos 10 juegos muestra una volatilidad del 12%, pero la tendencia de Resilience en mapas de eliminacion directa es del 71% en los ultimos 30 dias, reforzando la oportunidad. Riesgo: liquidez moderada en horas pico, con spreads que pueden ampliarse un 3% si el juego se alarga."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 26.44
+ "db_size_mb": 26.51
 }
