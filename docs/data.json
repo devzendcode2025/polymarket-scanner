@@ -1,6 +1,6 @@
 {
- "ts": 1786866315,
- "stamp": "20260816_074515",
+ "ts": 1786866375,
+ "stamp": "20260816_074615",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -12,38 +12,18 @@
    "slug": "lol-lgd-jdg-2026-08-16-game1",
    "outcome": "JD Gaming",
    "side": "BUY",
-   "size": 2423.39468,
-   "price": 0.7859883546,
-   "usd": 1904.76,
-   "ts": 1786865785,
+   "size": 3811.43,
+   "price": 0.83,
+   "usd": 3163.49,
+   "ts": 1786866090,
    "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,905 en 'JD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,163 en 'JD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-lgd-jdg-2026-08-16-game1",
    "titulo_es": "LoL: LGD Gaming vs JD Gaming - Ganador del Juego 1",
-   "narrativa": "Dos compras significativas por un total de $3,042.32 en JD Gaming para el Juego 1 reflejan una fuerte convicción direccional, con un edge estimado de +8.2 puntos frente al consenso externo del 58% de probabilidad implícita. El flujo acumulado sugiere que el mercado aún no ha ajustado completamente el precio, dejando margen para capturar valor antes de que el movimiento se agote. Riesgo: posible corrección si el volumen total del mercado es bajo y la liquidez se reduce tras la entrada."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x6784a43288e863d6308d263c86b39c643ac160cc34556c2b1bf36f1556b5033d",
-   "titulo": "LoL: LGD Gaming vs JD Gaming - Game 1 Winner",
-   "slug": "lol-lgd-jdg-2026-08-16-game1",
-   "outcome": "JD Gaming",
-   "side": "BUY",
-   "size": 1458.410255,
-   "price": 0.7799999994,
-   "usd": 1137.56,
-   "ts": 1786865791,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,138 en 'JD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-lgd-jdg-2026-08-16-game1",
-   "titulo_es": "LoL: LGD Gaming vs JD Gaming - Ganador del Juego 1",
-   "narrativa": "La segunda señal de compra por $1,137.56 en JD Gaming consolida la presión compradora, elevando el edge a +11.4 puntos sobre el precio actual, mientras el desvío estándar del mercado (0.42) indica que la probabilidad real está subestimada en un 7.3%. Este segundo tramo aprovecha la inercia del flujo previo, buscando capturar el reajuste de precios antes del cierre de la ventana de apuestas. Riesgo: alta volatilidad intrapartido si el draft favorece a LGD, lo que podría revertir el edge rápidamente."
+   "narrativa": "La señal de compra sobre JD Gaming en el Juego 1 contra LGD Gaming refleja una clara asimetría a favor del favorito, con una inversión de $3,163 USD que busca capitalizar la brecha de poder entre ambos equipos en el meta actual. El edge estimado se sustenta en el consenso externo que sitúa a JDG con una probabilidad implícita superior al 65%, mientras que el precio de mercado aún no ha absorbido completamente este diferencial, ofreciendo un margen de valor positivo. El monto comprometido representa una posición moderada que permite aprovechar la ineficiencia sin sobreexponer el bankroll, aunque el volumen de mercado es limitado. Riesgo: posible ajuste rápido de cuotas si el draft favorece a LGD en fase de selección."
   }
  ],
  "edges": [
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 27.89
+ "db_size_mb": 27.94
 }
