@@ -1,10 +1,31 @@
 {
- "ts": 1786888941,
- "stamp": "20260816_140221",
+ "ts": 1786889181,
+ "stamp": "20260816_140621",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x3b0d0f315995a2027b75ea678103bdfe51783f4cf0714941d597bdf96819a59f",
+   "titulo": "Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D",
+   "slug": "cs2-mglz-pain-2026-08-16",
+   "outcome": "TheMongolz",
+   "side": "SELL",
+   "size": 10999.98,
+   "price": 0.999,
+   "usd": 10988.98,
+   "ts": 1786888942,
+   "categoria": "Deportes",
+   "prob": 68,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $10,989 en 'TheMongolz'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-mglz-pain-2026-08-16",
+   "titulo_es": "Counter-Strike: TheMongolz vs paiN (BO3) - Copa Mundial de Esports Grupo D",
+   "narrativa": "La venta de TheMongolz en este BO3 contra paiN refleja una oportunidad de capturar valor si el mercado sobreestima su consistencia en un escenario de alto riesgo como el Grupo D de la Copa Mundial. El monto de 10,988 USD indica una posición significativa que puede mover la línea, pero sin volumen de mercado reportado, el edge depende de la asimetría informacional entre los equipos. Riesgo: posible iliquidez en el mercado si el volumen real es bajo, lo que podría ampliar el spread."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -21,7 +42,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will Pello Bilbao win the 2026 ADAC Cyclassics?",
+     "_poly_question": "Will the Democratic Party candidate win the 2026 New York gubernatorial election by 5%-10%?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -295,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 33.16
+ "db_size_mb": 33.22
 }
