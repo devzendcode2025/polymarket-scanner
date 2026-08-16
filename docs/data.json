@@ -1,71 +1,10 @@
 {
- "ts": 1786843208,
- "stamp": "20260816_012008",
+ "ts": 1786843569,
+ "stamp": "20260816_012609",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xc04094452b0386a73a9a6e07da0370fffb2722e05c837a5246b88c914e78b79f",
-   "titulo": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
-   "slug": "ufc-isl-ian1-2026-08-15",
-   "outcome": "Islam Makhachev",
-   "side": "BUY",
-   "size": 11994.594592,
-   "price": 0.74,
-   "usd": 8876.0,
-   "ts": 1786842670,
-   "categoria": "Deportes",
-   "prob": 65,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $8,876 en 'Islam Makhachev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ufc-isl-ian1-2026-08-15",
-   "titulo_es": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Peso wélter, Cartel principal)",
-   "narrativa": "La compra de $8,876 en Islam Makhachev refleja una fuerte convicción de una ballena en un combate de peso wélter donde el campeón llega con un desvio técnico favorable y un edge estimado en puntos superior al 15% frente al consenso externo. El tamaño del trade, casi 9 veces el monto promedio en este mercado, sugiere que la liquidez disponible absorbe la posición sin fricción, lo que amplifica la señal. Riesgo: posible ajuste de línea si el volumen se concentra en el lado opuesto antes del cierre."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x8998fd3ffdefa74c425fd5785044f903ae4fd7be85875455e72354101f0f33a3",
-   "titulo": "Los Angeles Sparks vs. Washington Mystics",
-   "slug": "wnba-la-wsh-2026-08-15",
-   "outcome": "Los Angeles Sparks",
-   "side": "BUY",
-   "size": 5455.265944,
-   "price": 0.36661824,
-   "usd": 2000.0,
-   "ts": 1786842663,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Los Angeles Sparks'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-la-wsh-2026-08-15",
-   "titulo_es": "Los Angeles Sparks vs. Washington Mystics",
-   "narrativa": "La apuesta de $2,000 en Los Angeles Sparks aprovecha un desajuste entre el precio implícito del mercado y las proyecciones de los modelos de rating, con un edge en puntos de aproximadamente 8% sobre el consenso externo en un partido de bajo volumen. El monto, aunque moderado, es significativo para un mercado WNBA donde la liquidez es limitada, lo que indica que la ballena busca capitalizar una corrección de precio pendiente. Riesgo: poca liquidez y alta volatilidad en los minutos finales."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x0366f46fc1fc41e631b32a3e611ba30a580000000000000000000000000000",
-   "titulo": "LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group AND Games Total: O/U 2.5",
-   "slug": "",
-   "outcome": "",
-   "side": "BUY",
-   "size": 5452.77538,
-   "price": 0.2295673914,
-   "usd": 1251.78,
-   "ts": 1786842666,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,252 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "",
-   "titulo_es": "LoL: T1 vs Gen.G (BO3) - Grupo Leyenda Ronda 3-4 de la LCK Y Total de juegos: Más/Menos 2.5",
-   "narrativa": "La compra de $1,251.78 en el total de juegos Más/Menos 2.5 para T1 vs Gen.G señala una convicción en un over/under donde el edge estimado supera el 10% frente al consenso de las casas de apuestas, basado en el ritmo de juego y el historial reciente de ambos equipos en BO3. El monto, aunque menor, es relevante en un mercado de esports con liquidez moderada, y el cambio porcentual esperado en el precio justifica la entrada. Riesgo: la variabilidad de los draft picks puede alterar drásticamente el total de juegos."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -83,7 +22,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920004,
+   "volumen": 991312.1319920005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -93,7 +32,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988494.6819190001,
+   "volumen": 988494.681919,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -103,7 +42,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986890.4113550001,
+   "volumen": 986890.4113550002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -123,7 +62,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99847.14617299999,
+   "volumen": 99847.146173,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -133,7 +72,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.061,
    "no": 0.939,
-   "volumen": 99560.05190599998,
+   "volumen": 99560.051906,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -173,7 +112,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99104.444793,
+   "volumen": 99104.44479299999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -193,7 +132,7 @@
    "slug": "will-ethereum-dip-to-1600-in-august-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 98935.834758,
+   "volumen": 98935.83475800001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Ethereum a $1,600 en agosto?"
@@ -229,16 +168,6 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will the highest temperature in New York City be between 84-85°F on August 15?",
-   "slug": "highest-temperature-in-nyc-on-august-15-2026-84-85f",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9998.12858,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 84-85°F el 15 de agosto?"
-  },
-  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -259,6 +188,16 @@
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
   },
   {
+   "question": "Will the highest temperature in Seoul (Incheon) be 30°C on August 16?",
+   "slug": "highest-temperature-in-seoul-on-august-16-2026-30c",
+   "yes": 0.15,
+   "no": 0.85,
+   "volumen": 9992.350218000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 30°C el 16 de agosto?"
+  },
+  {
    "question": "Will the highest temperature in Miami be between 94-95°F on August 15?",
    "slug": "highest-temperature-in-miami-on-august-15-2026-94-95f",
    "yes": 0.0005,
@@ -271,8 +210,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0425,
-   "no": 0.9575,
+   "yes": 0.036,
+   "no": 0.964,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -283,7 +222,7 @@
    "slug": "mls-orl-fcc-2026-08-15-btts",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9967.220974,
+   "volumen": 9967.220973999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Orlando City SC vs. FC Cincinnati: Ambos equipos marcan"
@@ -301,9 +240,9 @@
   {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.049,
-   "no": 0.951,
-   "volumen": 9947.125083000003,
+   "yes": 0.0485,
+   "no": 0.9515,
+   "volumen": 9947.125083,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
@@ -320,11 +259,11 @@
   }
  ],
  "historico": {
-  "ts": 1786841592,
+  "ts": 1786843393,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 22.64
+ "db_size_mb": 22.78
 }
