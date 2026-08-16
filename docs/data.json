@@ -1,6 +1,6 @@
 {
- "ts": 1786859773,
- "stamp": "20260816_055613",
+ "ts": 1786859833,
+ "stamp": "20260816_055713",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -171,8 +171,8 @@
   {
    "question": "Will OpenAI’s market cap be between $750B and $1T at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-750b-and-1t-at-market-close-on-ipo-day-by-december-31-2027-383",
-   "yes": 0.095,
-   "no": 0.905,
+   "yes": 0.1,
+   "no": 0.9,
    "volumen": 9998.783643000002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -191,8 +191,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.037,
-   "no": 0.963,
+   "yes": 0.0375,
+   "no": 0.9625,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -231,8 +231,8 @@
   {
    "question": "Will \"PAW Patrol: The Dino Movie\" Opening Weekend Box Office be between 20m and 25m?",
    "slug": "will-paw-patrol-the-dino-movie-opening-weekend-box-office-be-between-20m-and-25m-20260708164748955",
-   "yes": 0.8435,
-   "no": 0.1565,
+   "yes": 0.8235,
+   "no": 0.1765,
    "volumen": 9963.575504,
    "spread": 0.0,
    "categoria": "Entretenimiento",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 26.43
+ "db_size_mb": 26.44
 }
