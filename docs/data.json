@@ -1,6 +1,6 @@
 {
- "ts": 1786908327,
- "stamp": "20260816_192527",
+ "ts": 1786908687,
+ "stamp": "20260816_193127",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -12,38 +12,58 @@
    "slug": "mlb-ari-atl-2026-08-16",
    "outcome": "Atlanta Braves",
    "side": "BUY",
-   "size": 8821.43,
-   "price": 0.64,
-   "usd": 5645.72,
-   "ts": 1786907874,
+   "size": 5589.89,
+   "price": 0.77,
+   "usd": 4304.22,
+   "ts": 1786908463,
    "categoria": "Otros",
-   "prob": 60,
-   "confianza": "alta",
+   "prob": 58,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $5,646 en 'Atlanta Braves'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $4,304 en 'Atlanta Braves'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/mlb-ari-atl-2026-08-16",
    "titulo_es": "Arizona Diamondbacks vs. Atlanta Braves",
-   "narrativa": "La compra de $5,645.72 en Atlanta Braves contra Arizona Diamondbacks refleja una fuerte convicción direccional, con un edge implícito que justifica el tamaño de la posición. Aunque el volumen de mercado no está disponible, el monto sugiere que el operador identifica una discrepancia entre el precio actual y la probabilidad real de victoria, posiblemente por factores como el pitcheo abridor o el estado de forma reciente. Riesgo: la falta de datos de liquidez puede amplificar el impacto de la orden en el precio."
+   "narrativa": "La compra de $4,304 en Atlanta Braves refleja una apuesta institucional clara contra el mercado local, que suele sobrevalorar al equipo de casa. Este monto, al ser el mayor del lote, sugiere información privilegiada o un modelo con ventaja significativa en el pitcheo abridor. El edge implícito se amplía si el consenso externo favorece a Arizona, lo que crearía una discrepancia aprovechable. Riesgo: posible sesgo por lesiones de última hora en el lineup visitante."
   },
   {
    "tipo": "ballena",
-   "market_id": "0xe5fdf25f2e25b86f3e8ef3a995bd065ea2e491d8fac02fbd65c55b5e8ad907f2",
-   "titulo": "Will Mirassol FC win on 2026-08-16?",
-   "slug": "bra-mir-fla-2026-08-16-mir",
-   "outcome": "No",
+   "market_id": "0xc99cc3f60e68c732d32ccc554e26a66c32ad97b3211a32a25d002fe7df15b676",
+   "titulo": "LoL: FlyQuest vs Cloud9 - Game 1 Winner",
+   "slug": "lol-fly-c9-2026-08-16-game1",
+   "outcome": "Cloud9",
    "side": "BUY",
-   "size": 2857.14,
-   "price": 0.78,
-   "usd": 2228.57,
-   "ts": 1786907872,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,229 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bra-mir-fla-2026-08-16-mir",
-   "titulo_es": "¿Ganará el Mirassol FC el 2026-08-16?",
-   "narrativa": "La apuesta de $2,228.57 a que el Mirassol FC no gane el 2026-08-16 indica una clara percepción de sobrevaloración en el mercado para ese resultado, con un edge positivo derivado de la diferencia entre el consenso externo y la probabilidad implícita. El tamaño moderado del trade sugiere una gestión de riesgo prudente, aprovechando un desvío estadístico que podría corregirse a medida que se acerque la fecha. Riesgo: eventos imprevistos (lesiones, alineaciones) pueden alterar rápidamente las probabilidades."
+   "size": 3104.57,
+   "price": 0.58,
+   "usd": 1800.65,
+   "ts": 1786908460,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,801 en 'Cloud9'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-fly-c9-2026-08-16-game1",
+   "titulo_es": "LoL: FlyQuest vs Cloud9 - Ganador del Juego 1",
+   "narrativa": "La posición de $1,800 en Cloud9 para el Juego 1 indica confianza en su draft temprano y en el meta actual, donde suelen dominar la fase de líneas. Si el consenso externo de analistas de LoL da un 55% o menos de probabilidad a Cloud9, esta compra representa un edge de al menos 5 puntos porcentuales. El tamaño moderado sugiere una convicción media-alta, no una apuesta especulativa. Riesgo: volatilidad alta en pick/ban, que puede alterar el resultado en minutos."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xd91ca352d475ea45a72a71637ce662ddff2cceb782e9f932f37fb999bde4f169",
+   "titulo": "Bitcoin Up or Down - August 16, 3:25PM-3:30PM ET",
+   "slug": "btc-updown-5m-1786908300",
+   "outcome": "Up",
+   "side": "BUY",
+   "size": 1263.0,
+   "price": 0.99,
+   "usd": 1250.37,
+   "ts": 1786908466,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,250 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786908300",
+   "titulo_es": "Bitcoin Sube o Baja - 16 de agosto, 3:25PM-3:30PM ET",
+   "narrativa": "La compra de $1,250 en 'Up' para la ventana de 5 minutos de Bitcoin apunta a un patrón de momentum intradía, donde la volatilidad post-noticia suele empujar el precio al alza. Si el consenso externo de traders de cripto espera un movimiento lateral o bajista, esta posición captura un desvío positivo en la probabilidad implícita. El monto es suficiente para mover la aguja en mercados de corto plazo con baja liquidez. Riesgo: alta sensibilidad a noticias macro de último minuto en ese intervalo exacto."
   }
  ],
  "edges": [
@@ -62,7 +82,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will Georgia Tech Yellow Jackets Win the 2026 ACC Championship?",
+     "_poly_question": "Will Stanford Cardinal Win the 2026 ACC Championship?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -161,8 +181,8 @@
   {
    "question": "Will Beşiktaş JK win on 2026-08-16?",
    "slug": "tur-bes-eyu-2026-08-16-bes",
-   "yes": 0.905,
-   "no": 0.095,
+   "yes": 0.91,
+   "no": 0.09,
    "volumen": 99324.32767199998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -171,8 +191,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216199998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -259,16 +279,6 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
-   "question": "RCD Espanyol de Barcelona vs. Levante UD: 1st Half O/U 0.5",
-   "slug": "lal-esp-lev-2026-08-16-first-half-total-0pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9982.305195,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "RCD Espanyol de Barcelona vs. Levante UD: 1er Tiempo Más/Menos 0.5"
-  },
-  {
    "question": "Will Julian Alvarez join Real Madrid?",
    "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
    "yes": 0.0045,
@@ -281,8 +291,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.036,
-   "no": 0.964,
+   "yes": 0.034,
+   "no": 0.966,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -301,8 +311,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.796,
-   "no": 0.204,
+   "yes": 0.795,
+   "no": 0.205,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -311,8 +321,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.365,
-   "no": 0.635,
+   "yes": 0.37,
+   "no": 0.63,
    "volumen": 9950.113178000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -327,14 +337,24 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
+  },
+  {
+   "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
+   "slug": "will-xagusd-dip-to-54-in-august-2026",
+   "yes": 0.085,
+   "no": 0.915,
+   "volumen": 9946.068062000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
  "historico": {
-  "ts": 1786906651,
+  "ts": 1786908451,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 37.45
+ "db_size_mb": 37.55
 }
