@@ -1,6 +1,6 @@
 {
- "ts": 1786900885,
- "stamp": "20260816_172125",
+ "ts": 1786900945,
+ "stamp": "20260816_172225",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -168,16 +168,6 @@
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
-   "question": "Will PVISION Win the CS2 EWC 2026?",
-   "slug": "will-pvision-win-the-cs2-ewc-2026-20260810160005103",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99913.74988100001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará PVISION el CS2 EWC 2026?"
-  },
-  {
    "question": "NATO x Russia military clash by October 31, 2026?",
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
@@ -320,8 +310,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.034,
-   "no": 0.966,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -386,6 +376,16 @@
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
+  },
+  {
+   "question": "Will Google be the third-best AI lab at the end of August 2026?",
+   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
+   "yes": 0.37,
+   "no": 0.63,
+   "volumen": 9950.113178,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
   }
  ],
  "historico": {
@@ -395,5 +395,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 35.83
+ "db_size_mb": 35.84
 }
