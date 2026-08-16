@@ -1,6 +1,6 @@
 {
- "ts": 1786891282,
- "stamp": "20260816_144122",
+ "ts": 1786891342,
+ "stamp": "20260816_144222",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -181,8 +181,8 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.0625,
-   "no": 0.9375,
+   "yes": 0.063,
+   "no": 0.937,
    "volumen": 99653.19651799998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -191,8 +191,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99205.216612,
    "spread": 0.0,
    "categoria": "Otros",
@@ -301,8 +301,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0365,
-   "no": 0.9635,
+   "yes": 0.035,
+   "no": 0.965,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
