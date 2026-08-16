@@ -1,29 +1,49 @@
 {
- "ts": 1786885520,
- "stamp": "20260816_130520",
+ "ts": 1786885580,
+ "stamp": "20260816_130620",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x57ebba23afe9193586f18981fbf7c739dd5e473218a7df0ed298bff877cbe569",
-   "titulo": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana",
-   "slug": "lol-wb-ig1-2026-08-16",
-   "outcome": "Invictus Gaming",
-   "side": "SELL",
-   "size": 1014.91,
-   "price": 0.999,
-   "usd": 1013.9,
-   "ts": 1786885047,
+   "market_id": "0x87f90729531cace86fb53e405c3757dda72a63d18c4699ca5604d14a58c8c3d1",
+   "titulo": "Seattle Mariners vs. Houston Astros",
+   "slug": "mlb-sea-hou-2026-08-16",
+   "outcome": "Houston Astros",
+   "side": "BUY",
+   "size": 52459.05,
+   "price": 0.55,
+   "usd": 28852.48,
+   "ts": 1786885336,
    "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,014 en 'Invictus Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-wb-ig1-2026-08-16",
-   "titulo_es": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - Grupo Nirvana de la LPL",
-   "narrativa": "La venta de Invictus Gaming a 1013.9 USD refleja un desvio significativo contra el consenso externo, que favorece a Weibo Gaming en un BO3 de alto riesgo. El monto posicionado sugiere que el mercado infravalora la inconsistencia de IG en mapas iniciales, generando un edge de ~8-12 puntos si el precio se ajusta al modelo de probabilidad implícita. Riesgo: liquidez moderada en mercados de esports, con spreads que pueden erosionar el edge en ejecuciones parciales."
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $28,852 en 'Houston Astros'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-sea-hou-2026-08-16",
+   "titulo_es": "Seattle Mariners vs. Houston Astros",
+   "narrativa": "La compra de 28,852 USD sobre los Astros refleja una apuesta institucional clara ante un posible desajuste en la probabilidad implícita del mercado frente al modelo de poder ofensivo de Houston. El tamaño de la posición, muy superior a la media de operaciones en este mercado, sugiere que el comprador identifica un edge significativo en el precio actual de la acción, probablemente por una sobrevaloración del factor local de Seattle. Riesgo: la volatilidad de un solo juego puede erosionar la ventaja si el lanzador abridor de los Mariners rinde por encima de su proyección."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xa3fe6c0628983e16168e99e100b88870c075232a1072ab0678038f898fcde530",
+   "titulo": "Will Djurgardens IF vs. AIK end in a draw?",
+   "slug": "swe-dju-aik-2026-08-16-draw",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2750.0,
+   "price": 0.9,
+   "usd": 2475.0,
+   "ts": 1786885348,
+   "categoria": "Tecnología",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,475 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/swe-dju-aik-2026-08-16-draw",
+   "titulo_es": "¿Terminará en empate Djurgardens IF vs. AIK?",
+   "narrativa": "La compra de 2,475 USD en la opción 'No' al empate entre Djurgardens y AIK aprovecha un consenso externo que otorga a la probabilidad de empate un valor inferior al que sugiere el precio de mercado, generando un edge positivo en términos de valor esperado. El monto, aunque moderado, indica una convicción direccional clara en un evento binario donde los equipos suelen mostrar diferencias de gol notables en enfrentamientos directos. Riesgo: la baja liquidez en mercados de fútbol sueco puede ampliar el spread y dificultar la salida si el partido se mantiene igualado en los minutos finales."
   }
  ],
  "edges": [
@@ -316,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 32.3
+ "db_size_mb": 32.35
 }
