@@ -1,6 +1,6 @@
 {
- "ts": 1786890082,
- "stamp": "20260816_142122",
+ "ts": 1786890142,
+ "stamp": "20260816_142222",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -73,7 +73,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988542.5749689998,
+   "volumen": 988542.574969,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -151,8 +151,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.315,
-   "no": 0.685,
+   "yes": 0.34,
+   "no": 0.66,
    "volumen": 99104.44479299999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -171,8 +171,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0675,
-   "no": 0.9325,
+   "yes": 0.067,
+   "no": 0.933,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -211,8 +211,8 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.495,
-   "no": 0.505,
+   "yes": 0.5,
+   "no": 0.5,
    "volumen": 9995.100677,
    "spread": 0.0,
    "categoria": "Otros",
@@ -271,8 +271,8 @@
   {
    "question": "Will Colonel Busnello win the Governor of Rio de Janeiro election?",
    "slug": "will-candidate-d-win-the-governor-of-rio-de-janeiro-election-20260608202950333",
-   "yes": 0.004,
-   "no": 0.996,
+   "yes": 0.0045,
+   "no": 0.9955,
    "volumen": 9958.600267,
    "spread": 0.0,
    "categoria": "Política",
