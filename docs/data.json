@@ -1,49 +1,49 @@
 {
- "ts": 1786875317,
- "stamp": "20260816_101517",
+ "ts": 1786875377,
+ "stamp": "20260816_101617",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x5252aad2672bfffe1229002e499b5e822a9ba37817a8a7845687090b71df84cf",
-   "titulo": "Sion: Nicolas Parizzia vs Theo Papamalamis",
-   "slug": "atp-parizzi-papamal-2026-08-16",
-   "outcome": "Theo Papamalamis",
-   "side": "BUY",
-   "size": 9206.474284,
-   "price": 0.5430960697,
-   "usd": 5000.0,
-   "ts": 1786874830,
-   "categoria": "Otros",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,000 en 'Theo Papamalamis'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-parizzi-papamal-2026-08-16",
-   "titulo_es": "Sion: Nicolas Parizzia vs Theo Papamalamis",
-   "narrativa": "La compra de $5,000 sobre Theo Papamalamis en el duelo de Sion contra Nicolas Parizzia refleja una fuerte convicción de un operador relevante, lo que sugiere que el mercado podría estar subestimando su probabilidad de victoria. Este movimiento de capital significativo en un evento de nicho puede generar un repricing rápido si el consenso externo se alinea con la dirección del flujo. Riesgo: liquidez potencialmente limitada en un mercado de menor visibilidad."
-  },
-  {
-   "tipo": "ballena",
    "market_id": "0xb1ef36ea9ec59e44867300cf283d14a94787dd981152cfac02fd171d45aaf72d",
    "titulo": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
    "slug": "dota2-lgd-ty-2026-08-16-game2",
    "outcome": "Team Yandex",
-   "side": "BUY",
-   "size": 2417.52,
-   "price": 0.9442761177,
-   "usd": 2282.81,
-   "ts": 1786874818,
+   "side": "SELL",
+   "size": 27136.3,
+   "price": 0.999,
+   "usd": 27109.16,
+   "ts": 1786875127,
    "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
+   "prob": 70,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,283 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de venta por $27,109 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/dota2-lgd-ty-2026-08-16-game2",
    "titulo_es": "Dota 2: LGD Gaming vs Team Yandex - Ganador del Juego 2",
-   "narrativa": "La apuesta de $2,282.81 a favor de Team Yandex en el Juego 2 contra LGD Gaming indica una clara percepción de valor, especialmente si el mercado público favorece al equipo chino por historial o nombre. El monto, aunque moderado, es lo bastante grande como para mover la línea si el operador tiene información o un modelo superior, y el desvío respecto al precio implícito actual podría ofrecer un edge positivo. Riesgo: alta volatilidad en partidas individuales de Dota 2 y posible falta de profundidad en el libro de órdenes."
+   "narrativa": "La venta de 27,109 USD en Team Yandex para el Juego 2 de Dota 2 refleja una fuerte convicción bajista, probablemente alineada con un consenso externo que favorece a LGD Gaming en el mapa inicial. Este tamaño de posición, en comparación con el volumen de mercado no reportado, sugiere una apuesta direccional significativa que puede mover la línea si otros operadores siguen la señal. Riesgo: posible corrección si el mercado percibe sobreventa en el precio actual de Yandex."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xafa93f9707d09f0b6bd88bbb93ad5cae0e394dbe7a6c3542cd8f6361a105be25",
+   "titulo": "Valorant: Nongshim RedForce vs Team Secret - Map 1 Winner",
+   "slug": "val-ns1-ts3-2026-08-16-game1",
+   "outcome": "Nongshim RedForce",
+   "side": "BUY",
+   "size": 3823.94,
+   "price": 0.3,
+   "usd": 1147.18,
+   "ts": 1786875127,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,147 en 'Nongshim RedForce'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-ns1-ts3-2026-08-16-game1",
+   "titulo_es": "Valorant: Nongshim RedForce vs Team Secret - Ganador del Mapa 1",
+   "narrativa": "La compra de 1,147 USD en Nongshim RedForce para el Mapa 1 de Valorant indica una oportunidad de valor, ya que el mercado podría estar subestimando su forma reciente frente a Team Secret. El monto, aunque moderado, muestra una entrada temprana que podría capitalizar un desajuste en las probabilidades implícitas, con un edge potencial si el consenso externo respalda un mayor dominio de Nongshim en el mapa inicial. Riesgo: baja liquidez en mercados de esports menores puede amplificar la volatilidad del precio."
   }
  ],
  "edges": [
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 29.89
+ "db_size_mb": 29.96
 }
