@@ -1,29 +1,49 @@
 {
- "ts": 1786904426,
- "stamp": "20260816_182026",
+ "ts": 1786904486,
+ "stamp": "20260816_182126",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3927a0e1baded6f80c36b1c9fe0388e0489af3165262f4b9e28db1ad293e83ef",
-   "titulo": "New York Yankees vs. Toronto Blue Jays",
-   "slug": "mlb-nyy-tor-2026-08-16",
-   "outcome": "New York Yankees",
+   "market_id": "0x793f5e86fa07ff4edd06ebfe33d0cbd66f9db68aa516c0aedca494d15f5684b3",
+   "titulo": "Will CA Mineiro win on 2026-08-15?",
+   "slug": "bra-cam-gre-2026-08-15-cam",
+   "outcome": "No",
    "side": "BUY",
-   "size": 1771.459015,
-   "price": 0.6099999999,
-   "usd": 1080.59,
-   "ts": 1786903966,
+   "size": 16828.2,
+   "price": 0.45,
+   "usd": 7572.69,
+   "ts": 1786904266,
    "categoria": "Otros",
-   "prob": 53,
+   "prob": 63,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $7,573 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bra-cam-gre-2026-08-15-cam",
+   "titulo_es": "¿Ganará CA Mineiro el 2026-08-15?",
+   "narrativa": "La compra de 'No' en CA Mineiro refleja una apuesta de 7,572 USD contra una victoria local, un monto significativo que sugiere convicción institucional en un resultado adverso. El edge proviene de que el consenso externo probablemente subestima la probabilidad de un empate o derrota, dado el desvío entre el precio implícito y las cuotas de casas de apuestas. Riesgo: el volumen de mercado es bajo, lo que puede amplificar el slippage en la ejecución."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x15ef683734360faa9b00d8b64426539469e7d9bdbff628a039aae356fe5c5f6b",
+   "titulo": "Will Liverpool FC win on 2026-08-16?",
+   "slug": "clf-lfc-com-2026-08-16-lfc",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1532.0,
+   "price": 0.94,
+   "usd": 1440.08,
+   "ts": 1786904254,
+   "categoria": "Deportes",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,081 en 'New York Yankees'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-nyy-tor-2026-08-16",
-   "titulo_es": "New York Yankees vs. Toronto Blue Jays",
-   "narrativa": "La compra de $1,080 en los Yankees refleja una apuesta significativa contra el consenso del mercado, que probablemente favorece a Toronto en este enfrentamiento. Este flujo de capital, aunque moderado, sugiere que un operador con información o convicción fuerte ve valor en el lado local, generando un edge potencial si el precio aún no ha absorbido este movimiento. El volumen de mercado no reportado limita la confirmación de liquidez, pero el monto posiciona la operación como una señal direccional clara. Riesgo: posible falta de profundidad en el libro de órdenes para salir sin deslizamiento."
+   "razon": "Trade de compra por $1,440 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/clf-lfc-com-2026-08-16-lfc",
+   "titulo_es": "¿Ganará Liverpool FC el 2026-08-16?",
+   "narrativa": "La compra de 'Yes' en Liverpool FC por 1,440 USD busca capitalizar una posible corrección en el precio, ya que el mercado podría estar descontando un margen de victoria más ajustado de lo que sugieren los modelos de poder ofensivo. El edge se calcula en puntos de probabilidad si el consenso externo (ej. cuotas de 1.60) implica un 62.5% de éxito, mientras que el precio actual podría ofrecer un 65% o más. Riesgo: la volatilidad pre-partido por lesiones o rotaciones puede erosionar el valor rápidamente."
   }
  ],
  "edges": [
@@ -316,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 36.55
+ "db_size_mb": 36.6
 }
