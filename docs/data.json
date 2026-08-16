@@ -1,10 +1,51 @@
 {
- "ts": 1786840088,
- "stamp": "20260816_002808",
+ "ts": 1786840268,
+ "stamp": "20260816_003108",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x3d4c1bde52bac28fddeaf11e9f248c4b0e6c773b2c53543041080aef1db59dff",
+   "titulo": "Will Spokane Velocity FC win on 2026-08-15?",
+   "slug": "usl1-spo-coc-2026-08-15-spo",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 4043.02,
+   "price": 0.48,
+   "usd": 1940.65,
+   "ts": 1786839951,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,941 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/usl1-spo-coc-2026-08-15-spo",
+   "titulo_es": "¿Ganará Spokane Velocity FC el 2026-08-15?",
+   "narrativa": "La compra de 1,940 USD en 'Yes' para Spokane Velocity FC representa una apuesta significativa contra el consenso del mercado, que probablemente infravalora su potencial local en esa fecha. Este flujo de capital, al ser de gran tamaño en relación al volumen típico, sugiere que un operador con información relevante está dispuesto a tomar una posición fuerte, creando una oportunidad de seguir la tendencia del dinero inteligente. Riesgo: la falta de datos de volumen de mercado puede indicar liquidez limitada, amplificando el impacto de la orden pero también el riesgo de salida."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x21a151c70cc511ec370ccfaba4e4b3de7d35602e38992fcbf280934426a5ffa7",
+   "titulo": "Will Columbus Crew win on 2026-08-15?",
+   "slug": "mls-clt-clb-2026-08-15-clb",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1954.0,
+   "price": 0.89,
+   "usd": 1739.06,
+   "ts": 1786839952,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,739 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-clt-clb-2026-08-15-clb",
+   "titulo_es": "¿Ganará Columbus Crew el 2026-08-15?",
+   "narrativa": "La compra de 1,739 USD en 'No' para Columbus Crew es una señal clara de que el mercado está sobrevalorando al equipo visitante, y este operador está explotando ese desajuste con una posición considerable. Al tomar el lado contrario al favorito, se busca capitalizar un posible error de precio, donde el consenso externo no refleja la probabilidad real de una derrota del Crew en esa fecha. Esta operación ofrece un edge potencial si el mercado corrige su valoración, pero el riesgo principal reside en la posibilidad de que el equipo gane, lo que haría perder la prima invertida."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -20,8 +61,8 @@
   {
    "question": "Israel closes its airspace by August 15?",
    "slug": "israel-closes-its-airspace-by-august-15",
-   "yes": 0.0015,
-   "no": 0.9985,
+   "yes": 0.002,
+   "no": 0.998,
    "volumen": 991241.2630819994,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -210,8 +251,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0425,
-   "no": 0.9575,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -265,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 21.96
+ "db_size_mb": 22.03
 }
