@@ -1,49 +1,29 @@
 {
- "ts": 1786885220,
- "stamp": "20260816_130020",
+ "ts": 1786885280,
+ "stamp": "20260816_130120",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xc6ba9897d73553cb0be1bd5c13bf640536851d33b105c6d1257efa6cd13c0928",
-   "titulo": "Will Watford FC win on 2026-08-16?",
-   "slug": "elc-wat-sot-2026-08-16-wat",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 2813.68085,
-   "price": 0.4699999998,
-   "usd": 1322.43,
-   "ts": 1786884738,
+   "market_id": "0x57ebba23afe9193586f18981fbf7c739dd5e473218a7df0ed298bff877cbe569",
+   "titulo": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana",
+   "slug": "lol-wb-ig1-2026-08-16",
+   "outcome": "Invictus Gaming",
+   "side": "SELL",
+   "size": 1014.91,
+   "price": 0.999,
+   "usd": 1013.9,
+   "ts": 1786885047,
    "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,322 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/elc-wat-sot-2026-08-16-wat",
-   "titulo_es": "¿Ganará el Watford FC el 2026-08-16?",
-   "narrativa": "Se detecta una compra significativa de 1,322 USD en la opción 'Yes' para que el Watford FC gane el 2026-08-16, lo que sugiere que un operador con información o convicción fuerte está acumulando posición. Aunque el volumen de mercado no está disponible, el tamaño de la apuesta en un evento lejano puede indicar una percepción de valor en las probabilidades actuales. Riesgo: evento a largo plazo con alta incertidumbre y posible baja liquidez."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x9a0db7182e5ba1e12e49c93c30d528aa8a84bf96db18a61f42ada346755b1cec",
-   "titulo": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
-   "slug": "lol-drx-bro2-2026-08-16",
-   "outcome": "HANJIN BRION",
-   "side": "BUY",
-   "size": 1328.31,
-   "price": 0.8126444881,
-   "usd": 1079.44,
-   "ts": 1786884736,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,079 en 'HANJIN BRION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-drx-bro2-2026-08-16",
-   "titulo_es": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Ronda 3-4 Grupo Rise",
-   "narrativa": "La compra de 1,079 USD en HANJIN BRION para el BO3 de la LCK refleja una apuesta clara por el underdog, probablemente basada en un desajuste entre el consenso externo y las probabilidades implícitas del mercado. El monto del trade es relevante para un evento de esports, lo que sugiere que el operador identifica un edge positivo en este lado. Riesgo: alta volatilidad en partidos BO3 y posible información de alineaciones no confirmada."
+   "razon": "Trade de venta por $1,014 en 'Invictus Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-wb-ig1-2026-08-16",
+   "titulo_es": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - Grupo Nirvana de la LPL",
+   "narrativa": "La venta de Invictus Gaming a 1013.9 USD refleja un desvio significativo contra el consenso externo, que favorece a Weibo Gaming en un BO3 de alto riesgo. El monto posicionado sugiere que el mercado infravalora la inconsistencia de IG en mapas iniciales, generando un edge de ~8-12 puntos si el precio se ajusta al modelo de probabilidad implícita. Riesgo: liquidez moderada en mercados de esports, con spreads que pueden erosionar el edge en ejecuciones parciales."
   }
  ],
  "edges": [
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 32.22
+ "db_size_mb": 32.29
 }
