@@ -1,6 +1,6 @@
 {
- "ts": 1786867335,
- "stamp": "20260816_080215",
+ "ts": 1786867395,
+ "stamp": "20260816_080315",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -82,7 +82,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will the highest temperature in Milan be 32°C on August 17?",
+     "_poly_question": "Will the highest temperature in London be 22°C on August 17?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
