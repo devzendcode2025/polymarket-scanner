@@ -1,6 +1,6 @@
 {
- "ts": 1786879279,
- "stamp": "20260816_112119",
+ "ts": 1786879339,
+ "stamp": "20260816_112219",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -123,7 +123,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987194.7802610002,
+   "volumen": 987194.7802609999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -199,6 +199,16 @@
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
   },
   {
+   "question": "Will Loopscale launch a token by December 31, 2026?",
+   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
+   "yes": 0.15,
+   "no": 0.85,
+   "volumen": 99017.58341900003,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.0685,
@@ -237,6 +247,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
+  },
+  {
+   "question": "LoL: Movistar KOI vs Natus Vincere (BO3) - LEC Regular Season",
+   "slug": "lol-mkoi-navi-2026-08-16",
+   "yes": 0.555,
+   "no": 0.445,
+   "volumen": 98238.96955000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "LoL: Movistar KOI vs Natus Vincere (BO3) - Temporada Regular de la LEC"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -291,8 +311,8 @@
   {
    "question": "Will the highest temperature in Paris be 30°C on August 16?",
    "slug": "highest-temperature-in-paris-on-august-16-2026-30c",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 9965.880172999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -327,26 +347,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will DeepSeek have the best Chinese AI model at the end of September 2026?",
-   "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830",
-   "yes": 0.0345,
-   "no": 0.9655,
-   "volumen": 9933.341382,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Will Djurgardens IF win on 2026-08-16?",
-   "slug": "swe-dju-aik-2026-08-16-dju",
-   "yes": 0.685,
-   "no": 0.315,
-   "volumen": 9927.619712000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Djurgårdens IF el 16 de agosto de 2026?"
   }
  ],
  "historico": {
