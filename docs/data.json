@@ -1,6 +1,6 @@
 {
- "ts": 1786893983,
- "stamp": "20260816_152623",
+ "ts": 1786894043,
+ "stamp": "20260816_152723",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -151,8 +151,8 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.034,
-   "no": 0.966,
+   "yes": 0.0335,
+   "no": 0.9665,
    "volumen": 99179.48181799994,
    "spread": 0.0,
    "categoria": "Otros",
@@ -251,8 +251,8 @@
   {
    "question": "Molde FK vs. Tromsø IL: O/U 2.5",
    "slug": "nor-mol-tro-2026-08-16-total-2pt5",
-   "yes": 0.505,
-   "no": 0.495,
+   "yes": 0.455,
+   "no": 0.545,
    "volumen": 9989.391974999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -281,8 +281,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.037,
-   "no": 0.963,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 34.26
+ "db_size_mb": 34.27
 }
