@@ -1,6 +1,6 @@
 {
- "ts": 1786885280,
- "stamp": "20260816_130120",
+ "ts": 1786885340,
+ "stamp": "20260816_130220",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -111,8 +111,8 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.063,
-   "no": 0.937,
+   "yes": 0.0625,
+   "no": 0.9375,
    "volumen": 99646.19651800001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -301,8 +301,8 @@
   {
    "question": "Will the chopsticks catch SpaceX Starship Flight Test 14 Starship?",
    "slug": "will-the-chopsticks-catch-spacex-starship-flight-test-14-starship-563",
-   "yes": 0.205,
-   "no": 0.795,
+   "yes": 0.19,
+   "no": 0.81,
    "volumen": 9942.723844999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 32.29
+ "db_size_mb": 32.3
 }
