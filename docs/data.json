@@ -1,6 +1,6 @@
 {
- "ts": 1786844949,
- "stamp": "20260816_014909",
+ "ts": 1786845009,
+ "stamp": "20260816_015009",
  "mercados": 200,
  "mispricings": [],
  "momentum": [
@@ -11,18 +11,18 @@
    "slug": "highest-temperature-in-manila-on-august-16-2026-32c",
    "tags": [],
    "categoria": "Otros",
-   "yes_antes": 0.21,
-   "yes_ahora": 0.165,
-   "cambio_pct": -21.4,
-   "direccion": "BAJADA",
-   "volumen": 997.4973560000001,
-   "prob": 71,
+   "yes_antes": 0.165,
+   "yes_ahora": 0.21,
+   "cambio_pct": 27.3,
+   "direccion": "SUBIDA",
+   "volumen": 987.427356,
+   "prob": 72,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Yes bajada 21.4% vs el scan anterior (0.21 → 0.165) en un mercado con $997 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "razon": "Yes subida 27.3% vs el scan anterior (0.165 → 0.21) en un mercado con $987 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
    "url": "https://polymarket.com/market/highest-temperature-in-manila-on-august-16-2026-32c",
    "question_es": "¿Será la temperatura máxima en Manila de 32°C el 16 de agosto?",
-   "narrativa": "La caída del 21.4% en la probabilidad del 'sí' (de 0.21 a 0.165) refleja un ajuste brusco del mercado ante nueva información meteorológica, creando un desvío del 4.5 puntos respecto al consenso externo que aún no ha reaccionado. Con un volumen de ~$997, el trade ofrece una entrada a precio descontado si el modelo climático de referencia se mantiene, capturando el edge a favor del 'no' sin necesidad de esperar el evento. Riesgo: liquidez moderada y posible reversión si los pronósticos de última hora cambian."
+   "narrativa": "La probabilidad implícita de que Manila alcance 32°C el 16 de agosto ha subido de 16.5% a 21%, un avance del 27.3% que refleja una corrección alcista frente al consenso externo. Este movimiento de 4.5 puntos porcentuales de edge, con un volumen de $987, que respalda la presión compradora, sugiere que el mercado aún no ha absorbido por completo la nueva información meteorológica. Riesgo: evento climático de alta volatilidad y muestra pequeña."
   }
  ],
  "ballenas_scan": [
