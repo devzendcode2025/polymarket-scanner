@@ -1,71 +1,10 @@
 {
- "ts": 1786920630,
- "stamp": "20260816_225030",
+ "ts": 1786920990,
+ "stamp": "20260816_225630",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x21a28e464650469e092f61facfcdab34f377b26dd2a67846f67bf0ae8a74b35d",
-   "titulo": "Will Instituto AC Córdoba win on 2026-08-16?",
-   "slug": "arg-cac-iac-2026-08-16-iac",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 5000.0,
-   "price": 0.45,
-   "usd": 2250.0,
-   "ts": 1786920181,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,250 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/arg-cac-iac-2026-08-16-iac",
-   "titulo_es": "¿Ganará el Instituto AC Córdoba el 2026-08-16?",
-   "narrativa": "La compra de 2,250 USD en 'Yes' para que AC Córdoba gane el 16-08-2026 refleja una apuesta institucional significativa que, al carecer de volumen de mercado reportado, sugiere una posible ineficiencia de precios aprovechable. El monto elevado en relación a la falta de liquidez puede indicar información privilegiada o una convicción fuerte, generando un edge potencial si el consenso externo subestima la probabilidad real. Riesgo: mercado con poca profundidad y posible deslizamiento al ejecutar la salida."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x5aec793316075d483645c96697eab57d2c977196b44431a422888ac4c70022c4",
-   "titulo": "New York City FC vs. Philadelphia Union: O/U 5.5",
-   "slug": "mls-nyc-phi-2026-08-16-total-5pt5",
-   "outcome": "Under",
-   "side": "BUY",
-   "size": 1440.5,
-   "price": 0.94,
-   "usd": 1354.07,
-   "ts": 1786920186,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,354 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-nyc-phi-2026-08-16-total-5pt5",
-   "titulo_es": "New York City FC vs. Philadelphia Union: Más/Menos 5.5",
-   "narrativa": "La posición de 1,354 USD en 'Under 5.5' para el partido NYC FC vs. Philadelphia Union aprovecha un umbral alto de goles, donde el consenso externo suele sobreestimar la cantidad de anotaciones en partidos de alta posesión. El monto del trade, aunque moderado, indica una apuesta calculada contra la tendencia de mercados over, con un edge potencial si los equipos muestran defensas sólidas o baja eficiencia ofensiva. Riesgo: volatilidad alta en partidos con historial de goles tardíos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2375568602801c6b2df5f4d9d5db8f7b9793618d1f15d3f4f85412855c660b55",
-   "titulo": "Will Bitcoin dip to $60,000 August 10-16?",
-   "slug": "will-bitcoin-dip-to-60k-august-10-16-2026",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1134.75,
-   "price": 0.995,
-   "usd": 1129.08,
-   "ts": 1786920175,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,129 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-bitcoin-dip-to-60k-august-10-16-2026",
-   "titulo_es": "¿Caerá Bitcoin a $60,000 del 10 al 16 de agosto?",
-   "narrativa": "La compra de 1,129 USD en 'No' para que Bitcoin caiga a 60,000 USD entre el 10 y 16 de agosto capitaliza la baja probabilidad implícita de un movimiento tan extremo en una ventana corta, dado el consenso externo de soporte en niveles superiores. El monto del trade, junto con la ausencia de volumen de mercado, sugiere que el precio de 'No' está sobrevalorado, ofreciendo un edge si la volatilidad esperada se mantiene dentro de rangos históricos. Riesgo: eventos macroeconómicos o noticias regulatorias pueden desencadenar caídas rápidas."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -82,7 +21,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will ReLebanon win the most seats in the 2026 Lebanese parliamentary election?",
+     "_poly_question": "Will Stefan Evers be the next Governing Mayor of Berlin?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -231,8 +170,8 @@
   {
    "question": "Will Elon Musk post 240-259 tweets from August 11 to August 18, 2026?",
    "slug": "elon-musk-of-tweets-august-11-august-18-240-259",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.0025,
+   "no": 0.9975,
    "volumen": 98899.560386,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -331,8 +270,8 @@
   {
    "question": "Spread: CA River Plate (-1.5)",
    "slug": "arg-riv-aaj-2026-08-16-spread-home-1pt5",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.785,
+   "no": 0.215,
    "volumen": 9944.932073999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -356,5 +295,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 40.21
+ "db_size_mb": 40.33
 }
