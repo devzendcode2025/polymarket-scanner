@@ -1,10 +1,31 @@
 {
- "ts": 1786849870,
- "stamp": "20260816_031110",
+ "ts": 1786850170,
+ "stamp": "20260816_031610",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x0b5e577033642e1cbcbc081ba890974c780daea706ec6e4765d858454544ced2",
+   "titulo": "Colorado Rapids SC vs. Sporting Kansas City: O/U 1.5",
+   "slug": "mls-col-skc-2026-08-15-total-1pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 2084.61,
+   "price": 0.65,
+   "usd": 1355.0,
+   "ts": 1786849873,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,355 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-col-skc-2026-08-15-total-1pt5",
+   "titulo_es": "Colorado Rapids SC vs. Sporting Kansas City: Más/Menos 1.5",
+   "narrativa": "El mercado de Más/Menos 1.5 para este partido muestra una oportunidad de compra en Over, con un monto de $1,355 que refleja convicción direccional. Aunque no hay volumen de mercado reportado, el edge implícito se basa en la probabilidad de que ambos equipos generen al menos dos goles totales, un escenario frecuente en enfrentamientos de alta intensidad ofensiva. La ausencia de consenso externo sugiere que el precio aún no ha absorbido toda la información disponible. Riesgo: liquidez limitada podría ampliar el spread."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -60,8 +81,8 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.061,
-   "no": 0.939,
+   "yes": 0.0615,
+   "no": 0.9385,
    "volumen": 99560.051906,
    "spread": 0.0,
    "categoria": "Otros",
@@ -80,8 +101,8 @@
   {
    "question": "Kharg Island no longer under Iranian control by December 31?",
    "slug": "kharg-island-no-longer-under-iranian-control-by-december-31-20260730004337418",
-   "yes": 0.085,
-   "no": 0.915,
+   "yes": 0.09,
+   "no": 0.91,
    "volumen": 99340.717654,
    "spread": 0.0,
    "categoria": "Otros",
@@ -110,8 +131,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.335,
-   "no": 0.665,
+   "yes": 0.33,
+   "no": 0.67,
    "volumen": 99104.44479299996,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -190,8 +211,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0335,
-   "no": 0.9665,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -240,8 +261,8 @@
   {
    "question": "Los Angeles FC vs. San Diego FC: O/U 3.5",
    "slug": "mls-laf-sdg-2026-08-15-total-3pt5",
-   "yes": 0.275,
-   "no": 0.725,
+   "yes": 0.25,
+   "no": 0.75,
    "volumen": 9935.120621999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 24.21
+ "db_size_mb": 24.28
 }
