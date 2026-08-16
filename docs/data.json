@@ -1,6 +1,6 @@
 {
- "ts": 1786881679,
- "stamp": "20260816_120119",
+ "ts": 1786881739,
+ "stamp": "20260816_120219",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -211,8 +211,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.335,
-   "no": 0.665,
+   "yes": 0.3,
+   "no": 0.7,
    "volumen": 99104.44479299996,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -356,5 +356,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 31.43
+ "db_size_mb": 31.44
 }
