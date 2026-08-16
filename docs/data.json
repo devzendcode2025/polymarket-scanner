@@ -1,29 +1,29 @@
 {
- "ts": 1786859413,
- "stamp": "20260816_055013",
+ "ts": 1786859473,
+ "stamp": "20260816_055113",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xcfd7b6c5cb6ac707696fc97f7cd4db5427343b3ee868bc8039533e20305db5d6",
-   "titulo": "Dota 2: Team Spirit vs Team Resilience - Game 2 Winner",
-   "slug": "dota2-ts8-tr7-2026-08-16-game2",
-   "outcome": "Team Spirit",
-   "side": "BUY",
-   "size": 4054.054053,
-   "price": 0.7399999999,
-   "usd": 3000.0,
-   "ts": 1786858875,
+   "market_id": "0x5302e8310617ef07577fd9e9d6b7c924f3cc2a9849a5e1ce06bdc9d41f2d1842",
+   "titulo": "Dota 2: Aurora vs BoomBoys - Game 2 Winner",
+   "slug": "dota2-aur1-boombo-2026-08-15-game2",
+   "outcome": "BoomBoys",
+   "side": "SELL",
+   "size": 3531.17,
+   "price": 0.999,
+   "usd": 3527.64,
+   "ts": 1786859175,
    "categoria": "Deportes",
-   "prob": 56,
+   "prob": 57,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,000 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16-game2",
-   "titulo_es": "Dota 2: Team Spirit vs Team Resilience - Ganador del Juego 2",
-   "narrativa": "La compra en Team Spirit para el Juego 2 presenta un edge positivo de +4.2 puntos frente al consenso externo del 58.3%, mientras el mercado cotiza a 54.1%, lo que indica una corrección pendiente a favor del equipo favorito. Con un monto de $3,000, la posición aprovecha una brecha de valor del 7.8% sobre la probabilidad implícita, respaldada por el desempeño histórico de Spirit en mapas decisivos. Riesgo: la volatilidad de pick/ban en Dota 2 puede reducir el edge en partidas individuales."
+   "razon": "Trade de venta por $3,528 en 'BoomBoys'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-aur1-boombo-2026-08-15-game2",
+   "titulo_es": "Dota 2: Aurora vs BoomBoys - Ganador del Juego 2",
+   "narrativa": "La venta de BALLENA en BoomBoys para el Juego 2 de Aurora vs BoomBoys muestra una posición de $3,527.64 que busca capitalizar una posible corrección en el precio del outcome, aprovechando que el consenso externo no respalda plenamente a este equipo en un mapa específico. El monto colocado es significativo para generar presión vendedora, y si el mercado sobrevalora a BoomBoys por el resultado del primer juego, el ajuste podría ser rápido. Riesgo: el volumen de mercado es desconocido, lo que podría amplificar la volatilidad en caso de movimientos contrarios."
   }
  ],
  "edges": [],
@@ -53,7 +53,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986901.3313550001,
+   "volumen": 986901.3313549999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -133,7 +133,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 98987.58341900002,
+   "volumen": 98987.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -153,7 +153,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98824.49276299999,
+   "volumen": 98824.49276299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 26.31
+ "db_size_mb": 26.38
 }
