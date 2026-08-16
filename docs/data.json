@@ -1,69 +1,29 @@
 {
- "ts": 1786908927,
- "stamp": "20260816_193527",
+ "ts": 1786908987,
+ "stamp": "20260816_193627",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x4ce5f690e59c98a33dbe4515f2fb2896dec545fc86c51ab2f9d46f435c517011",
-   "titulo": "Arizona Diamondbacks vs. Atlanta Braves",
-   "slug": "mlb-ari-atl-2026-08-16",
-   "outcome": "Atlanta Braves",
+   "market_id": "0xdf5c8e1de79f99869744fd83edc6a8f64227e5995259ce23228029be52223708",
+   "titulo": "Will CA Sarmiento win on 2026-08-16?",
+   "slug": "arg-cas-cah-2026-08-16-cas",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 5589.89,
-   "price": 0.77,
-   "usd": 4304.22,
-   "ts": 1786908463,
+   "size": 1998.852266,
+   "price": 0.88,
+   "usd": 1758.99,
+   "ts": 1786908769,
    "categoria": "Otros",
-   "prob": 58,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,304 en 'Atlanta Braves'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-ari-atl-2026-08-16",
-   "titulo_es": "Arizona Diamondbacks vs. Atlanta Braves",
-   "narrativa": "La compra de $4,304 en Atlanta Braves refleja una apuesta institucional clara contra el mercado local, que suele sobrevalorar al equipo de casa. Este monto, al ser el mayor del lote, sugiere información privilegiada o un modelo con ventaja significativa en el pitcheo abridor. El edge implícito se amplía si el consenso externo favorece a Arizona, lo que crearía una discrepancia aprovechable. Riesgo: posible sesgo por lesiones de última hora en el lineup visitante."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xc99cc3f60e68c732d32ccc554e26a66c32ad97b3211a32a25d002fe7df15b676",
-   "titulo": "LoL: FlyQuest vs Cloud9 - Game 1 Winner",
-   "slug": "lol-fly-c9-2026-08-16-game1",
-   "outcome": "Cloud9",
-   "side": "BUY",
-   "size": 3104.57,
-   "price": 0.58,
-   "usd": 1800.65,
-   "ts": 1786908460,
-   "categoria": "Deportes",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,801 en 'Cloud9'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-fly-c9-2026-08-16-game1",
-   "titulo_es": "LoL: FlyQuest vs Cloud9 - Ganador del Juego 1",
-   "narrativa": "La posición de $1,800 en Cloud9 para el Juego 1 indica confianza en su draft temprano y en el meta actual, donde suelen dominar la fase de líneas. Si el consenso externo de analistas de LoL da un 55% o menos de probabilidad a Cloud9, esta compra representa un edge de al menos 5 puntos porcentuales. El tamaño moderado sugiere una convicción media-alta, no una apuesta especulativa. Riesgo: volatilidad alta en pick/ban, que puede alterar el resultado en minutos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd91ca352d475ea45a72a71637ce662ddff2cceb782e9f932f37fb999bde4f169",
-   "titulo": "Bitcoin Up or Down - August 16, 3:25PM-3:30PM ET",
-   "slug": "btc-updown-5m-1786908300",
-   "outcome": "Up",
-   "side": "BUY",
-   "size": 1263.0,
-   "price": 0.99,
-   "usd": 1250.37,
-   "ts": 1786908466,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,250 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1786908300",
-   "titulo_es": "Bitcoin Sube o Baja - 16 de agosto, 3:25PM-3:30PM ET",
-   "narrativa": "La compra de $1,250 en 'Up' para la ventana de 5 minutos de Bitcoin apunta a un patrón de momentum intradía, donde la volatilidad post-noticia suele empujar el precio al alza. Si el consenso externo de traders de cripto espera un movimiento lateral o bajista, esta posición captura un desvío positivo en la probabilidad implícita. El monto es suficiente para mover la aguja en mercados de corto plazo con baja liquidez. Riesgo: alta sensibilidad a noticias macro de último minuto en ese intervalo exacto."
+   "razon": "Trade de compra por $1,759 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/arg-cas-cah-2026-08-16-cas",
+   "titulo_es": "¿Ganará CA Sarmiento el 2026-08-16?",
+   "narrativa": "La compra de 'Yes' en CA Sarmiento para el 16-ago-2026 refleja una apuesta direccional con $1,759 USD, lo que sugiere convicción acumulada en un mercado donde el volumen total no está publicado, dejando espacio para que la demanda propia mueva la probabilidad implícita. El monto representa una posición significativa frente a la liquidez desconocida, lo que puede generar un edge táctico si el consenso externo subestima la capacidad del equipo en el largo plazo. Riesgo: falta de datos de volumen histórico, lo que amplifica la incertidumbre sobre la salida."
   }
  ],
  "edges": [
@@ -82,7 +42,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will Stanford Cardinal Win the 2026 ACC Championship?",
+     "_poly_question": "Will Peggy Flanagan win the Minnesota Senate Democratic primary by 10–15%?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -356,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 37.56
+ "db_size_mb": 37.61
 }
