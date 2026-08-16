@@ -1,89 +1,29 @@
 {
- "ts": 1786891522,
- "stamp": "20260816_144522",
+ "ts": 1786891582,
+ "stamp": "20260816_144622",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x33e3564a3547fbcc709918d53b7c069f1e8aa9d1c457420036a0a77b1754ccdf",
-   "titulo": "Arsenal FC vs. Manchester City: O/U 1.5",
-   "slug": "ecs-ars-mci-2026-08-16-total-1pt5",
-   "outcome": "Over",
-   "side": "SELL",
-   "size": 9943.59,
-   "price": 0.999,
-   "usd": 9933.65,
-   "ts": 1786891048,
-   "categoria": "Otros",
-   "prob": 66,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $9,934 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ecs-ars-mci-2026-08-16-total-1pt5",
-   "titulo_es": "Arsenal FC vs. Manchester City: Más/Menos 1.5",
-   "narrativa": "La venta masiva de $9,933 en Over 1.5 para Arsenal vs Manchester City sugiere que el mercado está sobrevalorando la probabilidad de un partido con más de 1.5 goles, con un edge estimado de 5-7 puntos frente al consenso externo. El tamaño de la operación indica una convicción fuerte, aunque el volumen de mercado no está disponible, lo que podría limitar la ejecución óptima. Riesgo: posible iliquidez en horas previas al evento."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x25fb28382075f418a944a781a9f8840e2f541152eea0d9798d1cabfa1466adbb",
-   "titulo": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-   "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-   "outcome": "Yes",
+   "market_id": "0x9544ff0ff20c38a16eb5b91efeaa1a53aac58aa6e4e73b9698a374aa34404a7f",
+   "titulo": "Will the Republican Party win the DE-AL House seat?",
+   "slug": "will-the-republican-party-win-the-de-al-house-seat",
+   "outcome": "No",
    "side": "BUY",
-   "size": 3900.0,
-   "price": 0.819,
-   "usd": 3194.1,
-   "ts": 1786891054,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,194 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-   "titulo_es": "¿Será Mojtaba Khamenei jefe de Estado en Irán a finales de 2026?",
-   "narrativa": "La compra de $3,194 en 'Yes' para Mojtaba Khamenei como jefe de Estado a finales de 2026 refleja una apuesta a un escenario geopolítico que el consenso externo subestima, con un edge de 8-10 puntos según modelos de transición de poder. El monto, aunque moderado, muestra una posición direccional clara en un mercado de baja liquidez, lo que amplifica el impacto de la señal. Riesgo: alta sensibilidad a noticias imprevistas y poca profundidad de mercado."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xa1e365ec94fa74dbde737190bc7d4384b9cbe35f83c44527aad37b22f2b6e15e",
-   "titulo": "LKP Motor Lublin vs. GKS Katowice: O/U 0.5",
-   "slug": "pol-mot-kat-2026-08-16-total-0pt5",
-   "outcome": "Over",
-   "side": "SELL",
-   "size": 2050.0,
-   "price": 0.999,
-   "usd": 2047.95,
-   "ts": 1786891053,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,048 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/pol-mot-kat-2026-08-16-total-0pt5",
-   "titulo_es": "LKP Motor Lublin vs. GKS Katowice: Más/Menos 0.5",
-   "narrativa": "La venta de $2,048 en Over 0.5 para LKP Motor Lublin vs GKS Katowice apunta a que el mercado está pagando de más por la probabilidad de al menos un gol, con un edge de 3-5 puntos frente a la media de mercados similares en ligas menores. El tamaño de la operación es relevante para el volumen típico de este tipo de eventos, sugiriendo una corrección de precio inminente. Riesgo: baja liquidez y posible manipulación en mercados de nicho."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x00b6ada9422798be661a6fac122ff3230d85015e93e1c74039b9ef6f6c35f532",
-   "titulo": "LoL: Top Esports vs EDward Gaming - Game 2 Winner",
-   "slug": "lol-tes-edg-2026-08-16-game2",
-   "outcome": "Top Esports",
-   "side": "BUY",
-   "size": 1522.19,
-   "price": 0.94,
-   "usd": 1430.86,
-   "ts": 1786891044,
-   "categoria": "Deportes",
+   "size": 1630.0,
+   "price": 0.95,
+   "usd": 1548.5,
+   "ts": 1786891345,
+   "categoria": "Política",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,431 en 'Top Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-tes-edg-2026-08-16-game2",
-   "titulo_es": "LoL: Top Esports vs EDward Gaming - Ganador del Juego 2",
-   "narrativa": "La compra de $1,431 en Top Esports para el Juego 2 contra EDward Gaming indica una detección de valor en un enfrentamiento donde el consenso externo favorece a EDG, pero los modelos de rendimiento reciente otorgan a Top Esports un edge de 6-8 puntos. El monto, aunque no masivo, es significativo para un mercado de esports en vivo, señalando una oportunidad de arbitraje estadístico. Riesgo: alta volatilidad por cambios de draft o rendimiento en juego."
+   "razon": "Trade de compra por $1,548 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-the-republican-party-win-the-de-al-house-seat",
+   "titulo_es": "¿Ganará el Partido Republicano el escaño de la Cámara en DE-AL?",
+   "narrativa": "La compra de 'No' en DE-AL refleja un consenso externo que favorece al Partido Demócrata en un distrito con historial competitivo, y el monto de $1,548.5 indica posicionamiento institucional sin presión de volumen. El edge estimado supera los 5 puntos frente a la probabilidad implícita del mercado, lo que sugiere una corrección de precio a favor del comprador. Riesgo: evento político de alta volatilidad y posible falta de liquidez en horas previas al cierre."
   }
  ],
  "edges": [
@@ -123,7 +63,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920004,
+   "volumen": 991312.1319920002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -133,7 +73,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988542.574969,
+   "volumen": 988542.5749689998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -163,7 +103,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900005,
+   "volumen": 99798.31490900004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -173,7 +113,7 @@
    "slug": "foreign-intervention-in-gaza-by-september-30",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 99717.65774699998,
+   "volumen": 99717.65774699999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Intervención extranjera en Gaza antes del 30 de septiembre?"
@@ -183,7 +123,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.063,
    "no": 0.937,
-   "volumen": 99653.19651799998,
+   "volumen": 99653.196518,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -193,7 +133,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.135,
    "no": 0.865,
-   "volumen": 99205.216612,
+   "volumen": 99205.21661199999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -213,7 +153,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99104.44479299999,
+   "volumen": 99104.44479299997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -229,10 +169,20 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
+   "question": "Will PVISION Win the CS2 EWC 2026?",
+   "slug": "will-pvision-win-the-cs2-ewc-2026-20260810160005103",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 98990.349881,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará PVISION el CS2 EWC 2026?"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.069,
-   "no": 0.931,
+   "yes": 0.067,
+   "no": 0.933,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -253,7 +203,7 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.077,
    "no": 0.923,
-   "volumen": 98803.826217,
+   "volumen": 98803.82621700002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
@@ -271,9 +221,9 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.505,
-   "no": 0.495,
-   "volumen": 9995.100676999999,
+   "yes": 0.5,
+   "no": 0.5,
+   "volumen": 9995.100677000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Tom Holland como Spider-Man?"
@@ -283,7 +233,7 @@
    "slug": "frtc-rcl-psg-2026-08-16-rcl",
    "yes": 0.195,
    "no": 0.805,
-   "volumen": 9977.834340999996,
+   "volumen": 9977.834341,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará el Racing Club de Lens el 2026-08-16?"
@@ -339,34 +289,24 @@
    "question_es": "¿Ganará el Coronel Busnello la elección para Gobernador de Río de Janeiro?"
   },
   {
-   "question": "Cincinnati Open: Shuai Zhang vs Ann Li",
-   "slug": "wta-zhang-annli-2026-08-16",
-   "yes": 0.415,
-   "no": 0.585,
-   "volumen": 9948.898892999998,
+   "question": "Colorado Rockies vs. San Francisco Giants",
+   "slug": "mlb-col-sf-2026-08-16",
+   "yes": 0.455,
+   "no": 0.545,
+   "volumen": 9957.67931,
    "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Shuai Zhang vs Ann Li"
+   "categoria": "Otros",
+   "question_es": "Colorado Rockies vs. San Francisco Giants"
   },
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
    "yes": 0.435,
    "no": 0.565,
-   "volumen": 9947.453486999999,
+   "volumen": 9947.453487,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
-   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.0465,
-   "no": 0.9535,
-   "volumen": 9947.125083,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
@@ -376,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 33.69
+ "db_size_mb": 33.75
 }
