@@ -1,49 +1,29 @@
 {
- "ts": 1786865115,
- "stamp": "20260816_072515",
+ "ts": 1786865175,
+ "stamp": "20260816_072615",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa5d4705e97381854c6cf2f58dd994e92927c764469c6e14f5370332611594098",
-   "titulo": "Dota 2: Team Spirit vs Team Resilience - Game 1 Winner",
-   "slug": "dota2-ts8-tr7-2026-08-16-game1",
-   "outcome": "Team Spirit",
-   "side": "SELL",
-   "size": 6539.96,
-   "price": 0.999,
-   "usd": 6533.42,
-   "ts": 1786864590,
-   "categoria": "Deportes",
-   "prob": 61,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $6,533 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16-game1",
-   "titulo_es": "Dota 2: Team Spirit vs Team Resilience - Ganador del Juego 1",
-   "narrativa": "La venta de Team Spirit en el Juego 1 refleja una operación de 6,533 USD que anticipa una corrección en el precio de la cuota, dado que el consenso externo favorece a Team Resilience en el arranque de la serie. El tamaño del trade sugiere convicción institucional para capturar el desvío entre el precio actual y la probabilidad implícita real, con un edge estimado de 3-5 puntos porcentuales. Riesgo: posible volatilidad temprana en el draft y poca liquidez en mercados de juego individual."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x6784a43288e863d6308d263c86b39c643ac160cc34556c2b1bf36f1556b5033d",
-   "titulo": "LoL: LGD Gaming vs JD Gaming - Game 1 Winner",
-   "slug": "lol-lgd-jdg-2026-08-16-game1",
-   "outcome": "JD Gaming",
+   "market_id": "0x6797bed9fa8d02434016f1c81026ea3cbc29b2d994ad5787c3aa2897eeffae51",
+   "titulo": "Astana: Aziz Dougaz vs Hayato Matsuoka",
+   "slug": "atp-dougaz-matsuok-2026-08-16",
+   "outcome": "Hayato Matsuoka",
    "side": "BUY",
-   "size": 5075.01,
-   "price": 0.68,
-   "usd": 3451.01,
-   "ts": 1786864594,
-   "categoria": "Deportes",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,451 en 'JD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-lgd-jdg-2026-08-16-game1",
-   "titulo_es": "LoL: LGD Gaming vs JD Gaming - Ganador del Juego 1",
-   "narrativa": "La compra de JD Gaming por 3,451 USD aprovecha un desajuste en la valoración del Juego 1, ya que el mercado externo otorga a JD Gaming una probabilidad superior al 60% mientras que la cuota implícita aún no refleja ese consenso. El monto del trade, aunque moderado, busca capitalizar un edge de 4-6 puntos porcentuales en un enfrentamiento donde LGD Gaming muestra menor consistencia en fases iniciales. Riesgo: el rendimiento de LGD en early game puede alterar el resultado si el draft favorece su composición."
+   "size": 2000.0,
+   "price": 0.6087978,
+   "usd": 1217.6,
+   "ts": 1786864893,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,218 en 'Hayato Matsuoka'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-dougaz-matsuok-2026-08-16",
+   "titulo_es": "Astana: Aziz Dougaz vs Hayato Matsuoka",
+   "narrativa": "El mercado descuenta a Hayato Matsuoka como claro favorito, y la compra de 1,217.6 USD refleja una convicción institucional que busca capturar el edge positivo implícito en el diferencial de probabilidades. Este flujo de capital, alineado con el consenso externo, sugiere una oportunidad de valor relativo en un evento de tenis con baja dispersión de precios. Riesgo: posible ajuste brusco si el mercado corrige el favoritismo antes del inicio del partido."
   }
  ],
  "edges": [
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 27.61
+ "db_size_mb": 27.66
 }
