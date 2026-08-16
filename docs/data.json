@@ -1,6 +1,6 @@
 {
- "ts": 1786843569,
- "stamp": "20260816_012609",
+ "ts": 1786843929,
+ "stamp": "20260816_013209",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -190,8 +190,8 @@
   {
    "question": "Will the highest temperature in Seoul (Incheon) be 30°C on August 16?",
    "slug": "highest-temperature-in-seoul-on-august-16-2026-30c",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 9992.350218000001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -210,8 +210,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.036,
-   "no": 0.964,
+   "yes": 0.034,
+   "no": 0.966,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -265,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 22.78
+ "db_size_mb": 22.85
 }
