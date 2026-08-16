@@ -1,10 +1,51 @@
 {
- "ts": 1786843929,
- "stamp": "20260816_013209",
+ "ts": 1786844169,
+ "stamp": "20260816_013609",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x9c1cf78abc70b506baf1b0604852c87f7428934339a01b53c9d9aafdcbb1e0d6",
+   "titulo": "UFC 330: Edson Barboza vs. Esteban Ribovics (Lightweight, Prelims)",
+   "slug": "ufc-eds-est1-2026-08-15",
+   "outcome": "Esteban Ribovics",
+   "side": "SELL",
+   "size": 1617.76,
+   "price": 0.99,
+   "usd": 1601.58,
+   "ts": 1786843863,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,602 en 'Esteban Ribovics'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ufc-eds-est1-2026-08-15",
+   "titulo_es": "UFC 330: Edson Barboza vs. Esteban Ribovics (Peso ligero, Preliminares)",
+   "narrativa": "La venta de 1,601 USD sobre Ribovics en las preliminares de UFC 330 refleja una convicción institucional de que el mercado sobrevalora su probabilidad de victoria, generando un edge negativo que justifica la posición. El tamaño del trade, sin volumen de mercado reportado, sugiere una operación de alta confianza en un nicho de liquidez limitada, donde el desvío entre el precio implícito y el modelo de los operadores grandes puede ser más pronunciado. Riesgo: posible falta de profundidad para salir rápido si el mercado se mueve en contra."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x8998fd3ffdefa74c425fd5785044f903ae4fd7be85875455e72354101f0f33a3",
+   "titulo": "Los Angeles Sparks vs. Washington Mystics",
+   "slug": "wnba-la-wsh-2026-08-15",
+   "outcome": "Washington Mystics",
+   "side": "SELL",
+   "size": 1220.27,
+   "price": 0.999,
+   "usd": 1219.05,
+   "ts": 1786843861,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,219 en 'Washington Mystics'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wnba-la-wsh-2026-08-15",
+   "titulo_es": "Los Angeles Sparks vs. Washington Mystics",
+   "narrativa": "La venta de 1,219 USD sobre Washington Mystics indica que el consenso externo no respalda el precio actual, creando una oportunidad de capturar valor a la baja en un mercado que podría estar inflado por ruido de corto plazo. El monto del trade, aunque moderado, muestra una apuesta calculada contra la narrativa popular, con un edge potencial derivado de la corrección esperada hacia la probabilidad real. Riesgo: volatilidad del partido y posible reacción tardía del mercado ante cambios de último minuto."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -12,7 +53,7 @@
    "slug": "israel-closes-its-airspace-by-august-15",
    "yes": 0.002,
    "no": 0.998,
-   "volumen": 993451.8030819998,
+   "volumen": 993451.8030819999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
@@ -22,7 +63,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920005,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -42,7 +83,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986890.4113550002,
+   "volumen": 986890.4113549999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -62,7 +103,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99847.146173,
+   "volumen": 99847.14617300003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -72,7 +113,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.061,
    "no": 0.939,
-   "volumen": 99560.051906,
+   "volumen": 99560.05190600001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -92,7 +133,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799999,
+   "volumen": 99179.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -112,7 +153,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99104.44479299999,
+   "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -122,7 +163,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 98987.583419,
+   "volumen": 98987.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -132,7 +173,7 @@
    "slug": "will-ethereum-dip-to-1600-in-august-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 98935.83475800001,
+   "volumen": 98935.83475799998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Ethereum a $1,600 en agosto?"
@@ -152,7 +193,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98711.43276299998,
+   "volumen": 98711.43276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -166,6 +207,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
+  },
+  {
+   "question": "Cincinnati Open: Yannick Hanfmann vs Arthur Fils",
+   "slug": "atp-hanfman-fils-2026-08-15",
+   "yes": 0.045,
+   "no": 0.955,
+   "volumen": 98378.8051729998,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Cincinnati Open: Yannick Hanfmann vs Arthur Fils"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -182,27 +233,17 @@
    "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9995.647500000001,
+   "volumen": 9995.6475,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Will the highest temperature in Seoul (Incheon) be 30°C on August 16?",
-   "slug": "highest-temperature-in-seoul-on-august-16-2026-30c",
-   "yes": 0.135,
-   "no": 0.865,
-   "volumen": 9992.350218000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 30°C el 16 de agosto?"
   },
   {
    "question": "Will the highest temperature in Miami be between 94-95°F on August 15?",
    "slug": "highest-temperature-in-miami-on-august-15-2026-94-95f",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9984.204747,
+   "volumen": 9984.204747000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Estará la temperatura más alta en Miami entre 94-95°F el 15 de agosto?"
@@ -242,7 +283,7 @@
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.0485,
    "no": 0.9515,
-   "volumen": 9947.125083,
+   "volumen": 9947.125083000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
@@ -265,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 22.85
+ "db_size_mb": 22.91
 }
