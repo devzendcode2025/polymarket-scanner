@@ -1,6 +1,6 @@
 {
- "ts": 1786866675,
- "stamp": "20260816_075115",
+ "ts": 1786866735,
+ "stamp": "20260816_075215",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -180,7 +180,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920003,
+   "volumen": 991312.1319920002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -240,7 +240,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.061,
    "no": 0.939,
-   "volumen": 99644.076518,
+   "volumen": 99644.07651799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -248,8 +248,8 @@
   {
    "question": "Will Ethereum reach $2,000 August 10-16?",
    "slug": "will-ethereum-reach-2000-august-10-16-2026",
-   "yes": 0.006,
-   "no": 0.994,
+   "yes": 0.0055,
+   "no": 0.9945,
    "volumen": 99615.43427499998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -280,7 +280,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.33,
    "no": 0.67,
-   "volumen": 99104.44479300002,
+   "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -288,9 +288,9 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
-   "volumen": 98987.58341899999,
+   "yes": 0.14,
+   "no": 0.86,
+   "volumen": 98987.58341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -338,8 +338,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.0325,
+   "no": 0.9675,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -348,9 +348,9 @@
   {
    "question": "Will Elif Eralp be the next Governing Mayor of Berlin?",
    "slug": "will-elif-eralp-be-the-next-governing-mayor-of-berlin-1786117615446",
-   "yes": 0.43,
-   "no": 0.57,
-   "volumen": 9968.575257999999,
+   "yes": 0.47,
+   "no": 0.53,
+   "volumen": 9968.575257999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Elif Eralp la próxima alcaldesa gobernante de Berlín?"
@@ -433,5 +433,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 28.02
+ "db_size_mb": 28.03
 }
