@@ -1,6 +1,6 @@
 {
- "ts": 1786920990,
- "stamp": "20260816_225630",
+ "ts": 1786921410,
+ "stamp": "20260816_230330",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -230,8 +230,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.032,
-   "no": 0.968,
+   "yes": 0.045,
+   "no": 0.955,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -270,8 +270,8 @@
   {
    "question": "Spread: CA River Plate (-1.5)",
    "slug": "arg-riv-aaj-2026-08-16-spread-home-1pt5",
-   "yes": 0.785,
-   "no": 0.215,
+   "yes": 0.9995,
+   "no": 0.0005,
    "volumen": 9944.932073999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -289,11 +289,11 @@
   }
  ],
  "historico": {
-  "ts": 1786919254,
+  "ts": 1786921055,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 40.33
+ "db_size_mb": 40.41
 }
