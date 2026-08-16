@@ -1,6 +1,6 @@
 {
- "ts": 1786866075,
- "stamp": "20260816_074115",
+ "ts": 1786866135,
+ "stamp": "20260816_074215",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -181,8 +181,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.335,
-   "no": 0.665,
+   "yes": 0.33,
+   "no": 0.67,
    "volumen": 99104.44479300002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -291,8 +291,8 @@
   {
    "question": "Will MrBeast Gaming's next video get between 10 and 12 million views on day 1?",
    "slug": "will-mrbeast-gamings-next-video-get-between-10-and-12-million-views-on-day-1",
-   "yes": 0.39,
-   "no": 0.61,
+   "yes": 0.415,
+   "no": 0.585,
    "volumen": 9951.958734,
    "spread": 0.0,
    "categoria": "Otros",
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 27.88
+ "db_size_mb": 27.89
 }
