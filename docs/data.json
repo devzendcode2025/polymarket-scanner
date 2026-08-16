@@ -1,6 +1,6 @@
 {
- "ts": 1786882580,
- "stamp": "20260816_121620",
+ "ts": 1786882640,
+ "stamp": "20260816_121720",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -63,7 +63,7 @@
    "slug": "lol-wb-ig1-2026-08-16-game1",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 998483.0353869996,
+   "volumen": 998707.2053869995,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: Weibo Gaming vs Invictus Gaming - Ganador del Juego 1"
@@ -83,7 +83,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988542.574969,
+   "volumen": 988542.5749689998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -93,7 +93,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987194.780261,
+   "volumen": 987214.740261,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -103,7 +103,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99899.36839400003,
+   "volumen": 99899.368394,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -123,27 +123,17 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.0615,
    "no": 0.9385,
-   "volumen": 99646.19651800001,
+   "volumen": 99646.19651799998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
-  },
-  {
-   "question": "LoL: Team Secret Whales vs CTBC Flying Oyster (BO5) - LCP Group Stage",
-   "slug": "lol-tsw-cfo-2026-08-16",
-   "yes": 0.715,
-   "no": 0.285,
-   "volumen": 99572.182542,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "LoL: Team Secret Whales vs CTBC Flying Oyster (BO5) - Fase de grupos LCP"
   },
   {
    "question": "Foreign intervention in Gaza by September 30?",
    "slug": "foreign-intervention-in-gaza-by-september-30",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 99414.56774699998,
+   "volumen": 99414.56774699996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Intervención extranjera en Gaza antes del 30 de septiembre?"
@@ -163,7 +153,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799997,
+   "volumen": 99179.48181799993,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -171,9 +161,9 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.31,
-   "no": 0.69,
-   "volumen": 99104.44479299999,
+   "yes": 0.315,
+   "no": 0.685,
+   "volumen": 99104.44479299997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -183,7 +173,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99017.58341900002,
+   "volumen": 99017.58341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -213,7 +203,7 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.077,
    "no": 0.923,
-   "volumen": 98803.826217,
+   "volumen": 98803.82621700002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
@@ -241,9 +231,9 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.49,
-   "no": 0.51,
-   "volumen": 9975.000677,
+   "yes": 0.485,
+   "no": 0.515,
+   "volumen": 9975.000677000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Tom Holland como Spider-Man?"
@@ -251,12 +241,22 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0435,
-   "no": 0.9565,
+   "yes": 0.04,
+   "no": 0.96,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 45% or higher?",
+   "slug": "will-the-highest-score-achieved-by-a-spacexai-grok-model-on-humanitys-last-exam-in-2026-be-45-or-higher-20260723191456650",
+   "yes": 0.712,
+   "no": 0.288,
+   "volumen": 9967.655697,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será el puntaje más alto logrado por un modelo SpaceXAI Grok en el Examen Final de la Humanidad en 2026 del 45% o superior?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 31.67
+ "db_size_mb": 31.68
 }
