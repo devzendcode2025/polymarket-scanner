@@ -1,6 +1,6 @@
 {
- "ts": 1786920390,
- "stamp": "20260816_224630",
+ "ts": 1786920450,
+ "stamp": "20260816_224730",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -113,7 +113,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988597.2548569998,
+   "volumen": 988597.2548570001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -123,7 +123,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987527.9902610001,
+   "volumen": 987527.9902609999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -143,7 +143,7 @@
    "slug": "will-the-republicans-win-the-iowa-senate-race-in-2026",
    "yes": 0.575,
    "no": 0.425,
-   "volumen": 99927.92006500003,
+   "volumen": 99927.920065,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los Republicanos la carrera al Senado de Iowa en 2026?"
@@ -153,7 +153,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99899.36839399999,
+   "volumen": 99899.36839400002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -163,7 +163,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900004,
+   "volumen": 99798.31490899996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -173,7 +173,7 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.077,
    "no": 0.923,
-   "volumen": 99781.706217,
+   "volumen": 99781.70621699997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
@@ -193,7 +193,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.032,
    "no": 0.968,
-   "volumen": 99181.48181799996,
+   "volumen": 99181.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -213,7 +213,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.583419,
+   "volumen": 99017.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -221,8 +221,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0665,
-   "no": 0.9335,
+   "yes": 0.067,
+   "no": 0.933,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -233,7 +233,7 @@
    "slug": "elon-musk-of-tweets-august-11-august-18-240-259",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 98899.56038600001,
+   "volumen": 98899.560386,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 240 y 259 tuits del 11 al 18 de agosto de 2026?"
@@ -243,7 +243,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98835.60276299999,
+   "volumen": 98835.60276299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -251,8 +251,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.008,
-   "no": 0.992,
+   "yes": 0.0075,
+   "no": 0.9925,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -263,7 +263,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 98429.94493400001,
+   "volumen": 98429.944934,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -283,7 +283,7 @@
    "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 9977.221455000003,
+   "volumen": 9977.221455,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Se unirá Julián Álvarez al Real Madrid?"
@@ -313,7 +313,7 @@
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
    "yes": 0.796,
    "no": 0.204,
-   "volumen": 9951.191957000001,
+   "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
@@ -323,7 +323,7 @@
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.0465,
    "no": 0.9535,
-   "volumen": 9947.125083,
+   "volumen": 9947.125083000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
@@ -331,22 +331,22 @@
   {
    "question": "Spread: CA River Plate (-1.5)",
    "slug": "arg-riv-aaj-2026-08-16-spread-home-1pt5",
-   "yes": 0.2,
-   "no": 0.8,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 9944.932073999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Margen: CA River Plate (-1.5)"
   },
   {
-   "question": "Will DeepSeek have the best Chinese AI model at the end of September 2026?",
-   "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830",
-   "yes": 0.033,
-   "no": 0.967,
-   "volumen": 9933.341382,
+   "question": "Will Belinda Keiser be the FL-22 Republican nominee?",
+   "slug": "will-belinda-keiser-be-the-fl-22-republican-nominee-20260723181248787",
+   "yes": 0.235,
+   "no": 0.765,
+   "volumen": 9937.787338,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de septiembre de 2026?"
+   "categoria": "Política",
+   "question_es": "¿Será Belinda Keiser la nominada republicana por FL-22?"
   }
  ],
  "historico": {
