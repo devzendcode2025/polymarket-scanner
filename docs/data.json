@@ -1,6 +1,6 @@
 {
- "ts": 1786922191,
- "stamp": "20260816_231631",
+ "ts": 1786922251,
+ "stamp": "20260816_231731",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -59,6 +59,16 @@
  ],
  "top_volumen": [
   {
+   "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
+   "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
+   "yes": 0.0475,
+   "no": 0.9525,
+   "volumen": 9816771.067745997,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
+  },
+  {
    "question": "Will Josh Stein win the 2028 Democratic presidential nomination?",
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
@@ -73,7 +83,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988597.2548569998,
+   "volumen": 988597.2548570001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -83,7 +93,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987527.990261,
+   "volumen": 987527.9902609996,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -103,7 +113,7 @@
    "slug": "will-the-republicans-win-the-iowa-senate-race-in-2026",
    "yes": 0.575,
    "no": 0.425,
-   "volumen": 99927.92006500007,
+   "volumen": 99927.920065,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los Republicanos la carrera al Senado de Iowa en 2026?"
@@ -113,7 +123,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99899.368394,
+   "volumen": 99899.36839400002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -153,7 +163,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.032,
    "no": 0.968,
-   "volumen": 99181.48181799999,
+   "volumen": 99181.48181800003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -173,7 +183,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.583419,
+   "volumen": 99017.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -183,7 +193,7 @@
    "slug": "elon-musk-of-tweets-august-11-august-18-240-259",
    "yes": 0.0025,
    "no": 0.9975,
-   "volumen": 98941.79438599998,
+   "volumen": 98979.83038599999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 240 y 259 tuits del 11 al 18 de agosto de 2026?"
@@ -207,6 +217,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Will Elon Musk post 180-199 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-180-199",
+   "yes": 0.305,
+   "no": 0.695,
+   "volumen": 98457.28491400016,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 180 y 199 tuits del 11 de agosto al 18 de agosto de 2026?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -239,6 +259,16 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
+   "question": "Exact Score: Austin FC 1 - 2 FC Dallas?",
+   "slug": "mls-aus-dal-2026-08-16-exact-score-1-2",
+   "yes": 0.095,
+   "no": 0.905,
+   "volumen": 9995.264161,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Marcador exacto: Austin FC 1 - 2 FC Dallas?"
+  },
+  {
    "question": "Will Julian Alvarez join Real Madrid?",
    "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
    "yes": 0.0045,
@@ -251,8 +281,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0355,
-   "no": 0.9645,
+   "yes": 0.033,
+   "no": 0.967,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -277,36 +307,6 @@
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
-  },
-  {
-   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
-   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.0465,
-   "no": 0.9535,
-   "volumen": 9947.125083,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
-  },
-  {
-   "question": "Will Belinda Keiser be the FL-22 Republican nominee?",
-   "slug": "will-belinda-keiser-be-the-fl-22-republican-nominee-20260723181248787",
-   "yes": 0.235,
-   "no": 0.765,
-   "volumen": 9937.787337999998,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Será Belinda Keiser la nominada republicana por FL-22?"
-  },
-  {
-   "question": "Will DeepSeek have the best Chinese AI model at the end of September 2026?",
-   "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830",
-   "yes": 0.033,
-   "no": 0.967,
-   "volumen": 9933.341382,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de septiembre de 2026?"
   }
  ],
  "historico": {
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 40.62
+ "db_size_mb": 40.63
 }
