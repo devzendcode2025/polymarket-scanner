@@ -1,49 +1,29 @@
 {
- "ts": 1786887021,
- "stamp": "20260816_133021",
+ "ts": 1786887081,
+ "stamp": "20260816_133121",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xef2b534f6ccce40cc20536936264c83421fce9290f6d0f3cb747c8e903fbefa7",
-   "titulo": "Map Handicap: MOUZ (-1.5) vs PARIVISION (+1.5)",
-   "slug": "cs2-mouz-prv-2026-08-16-map-handicap-away-1pt5",
-   "outcome": "MOUZ",
+   "market_id": "0x9b9d8e2d6473045b3ad32fc5992093a6995c7dec18180999c2c279b29f6b794d",
+   "titulo": "Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D",
+   "slug": "cs2-9z-mgc-2026-08-16",
+   "outcome": "9z",
    "side": "BUY",
-   "size": 7880.95296,
-   "price": 0.5075528325,
-   "usd": 4000.0,
-   "ts": 1786886536,
-   "categoria": "Otros",
-   "prob": 58,
+   "size": 3836.0,
+   "price": 0.65,
+   "usd": 2493.4,
+   "ts": 1786886842,
+   "categoria": "Deportes",
+   "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $4,000 en 'MOUZ'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-mouz-prv-2026-08-16-map-handicap-away-1pt5",
-   "titulo_es": "Mapa Handicap: MOUZ (-1.5) vs PARIVISION (+1.5)",
-   "narrativa": "La compra de MOUZ -1.5 en el mapa handicap presenta un edge de +4.2 puntos frente al consenso externo (58% vs 53.8%), con un monto de $4,000 que aprovecha la ventaja de mapa de MOUZ en su pick inicial. El desvío estándar del mercado es bajo (0.8), indicando alta confianza en la dirección. Riesgo: posible corrección si PARIVISION roba el mapa inicial."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x57ebba23afe9193586f18981fbf7c739dd5e473218a7df0ed298bff877cbe569",
-   "titulo": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana",
-   "slug": "lol-wb-ig1-2026-08-16",
-   "outcome": "Invictus Gaming",
-   "side": "SELL",
-   "size": 1346.93,
-   "price": 0.999,
-   "usd": 1345.58,
-   "ts": 1786886547,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,346 en 'Invictus Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-wb-ig1-2026-08-16",
-   "titulo_es": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - Grupo Nirvana de la LPL",
-   "narrativa": "La venta de Invictus Gaming en el BO3 contra Weibo Gaming ofrece un edge de +3.1 puntos (probabilidad implícita de 45% vs 48.1% del consenso), con un monto de $1,345.58 que capitaliza la inconsistencia reciente de IG en series largas. El volumen del mercado es moderado, lo que permite ejecutar sin deslizamiento significativo. Riesgo: si Weibo rota su alineación, el valor de la venta se reduce."
+   "razon": "Trade de compra por $2,493 en '9z'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-9z-mgc-2026-08-16",
+   "titulo_es": "Counter-Strike: 9z vs magic (BO3) - Copa del Mundo de Esports Grupo D",
+   "narrativa": "La compra de 9z a $2,493 USD en este BO3 refleja una apuesta agresiva contra el consenso de mercado, que probablemente favorece a magic por su historial reciente. El monto concentrado sugiere que un operador con información o modelo propio detectó un desajuste en la probabilidad implícita, generando un edge potencial si la cuota de 9z está sobrevalorada por el público. Con un volumen de mercado no reportado, el movimiento tiene mayor impacto relativo, pero la falta de liquidez podría amplificar el deslizamiento en caso de corrección. Riesgo: poca profundidad en el libro de órdenes para este enfrentamiento."
   }
  ],
  "edges": [
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 32.62
+ "db_size_mb": 32.69
 }
