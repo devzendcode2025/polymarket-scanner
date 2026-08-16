@@ -1,29 +1,49 @@
 {
- "ts": 1786895723,
- "stamp": "20260816_155523",
+ "ts": 1786895783,
+ "stamp": "20260816_155623",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x27d9788cbd8905bfc795b12401e0e6f8c4fa2e054652bfd01950f9678aa0f3f9",
-   "titulo": "Seattle Mariners vs. Houston Astros: O/U 7.5",
-   "slug": "mlb-sea-hou-2026-08-16-total-7pt5",
-   "outcome": "Over",
+   "market_id": "0xa8d30f318897125cb3326a29415598e4725372f0c20c3cd439e34b56d0008010",
+   "titulo": "Will FC Arouca win on 2026-08-16?",
+   "slug": "por-aro-mor-2026-08-16-aro",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 12938.692306,
+   "size": 24319.82,
    "price": 0.52,
-   "usd": 6728.12,
-   "ts": 1786895256,
+   "usd": 12646.31,
+   "ts": 1786895559,
    "categoria": "Otros",
-   "prob": 62,
+   "prob": 70,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $6,728 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-sea-hou-2026-08-16-total-7pt5",
-   "titulo_es": "Seattle Mariners vs. Houston Astros: Más/Menos 7.5",
-   "narrativa": "El mercado de Más/Menos 7.5 para Mariners-Astros muestra una compra significativa de $6,728 en Over, lo que sugiere que el dinero institucional está apostando a un juego de alta anotación. Este flujo contrasta con el consenso externo que proyecta un total ligeramente inferior, creando un edge de aproximadamente 3-4 puntos porcentuales a favor del Over. La entrada de capital en este rango de volumen indica una convicción fuerte, aunque el mercado aún no ha ajustado completamente las probabilidades. Riesgo: posible corrección si el pitcher abridor anunciado cambia antes del primer lanzamiento."
+   "razon": "Trade de compra por $12,646 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/por-aro-mor-2026-08-16-aro",
+   "titulo_es": "¿Ganará el FC Arouca el 2026-08-16?",
+   "narrativa": "La compra de 12,646 USD en 'FC Arouca gana' el 2026-08-16 representa una apuesta direccional significativa para un mercado de baja capitalización, lo que sugiere que el operador maneja información o convicción fuerte. El monto es 8.7 veces mayor que la señal típica, lo que genera un edge potencial si el consenso externo (probabilidad implícita de ~35%) está subestimado. El volumen de mercado es desconocido, por lo que la ejecución de esta orden puede mover la línea de precios a favor del comprador. Riesgo: liquidez limitada y horizonte temporal lejano."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x27f268860c11313eb1838b8194a17879f6349548b2e52e30b64812679db572fa",
+   "titulo": "Arsenal FC vs. Manchester City: O/U 3.5",
+   "slug": "ecs-ars-mci-2026-08-16-total-3pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 1671.080458,
+   "price": 0.8699999997,
+   "usd": 1453.84,
+   "ts": 1786895557,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,454 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ecs-ars-mci-2026-08-16-total-3pt5",
+   "titulo_es": "Arsenal FC vs. Manchester City: Más/Menos 3.5",
+   "narrativa": "La compra de 1,454 USD en 'Under 3.5 goles' para Arsenal vs. Manchester City aprovecha un mercado de alta liquidez donde el consenso externo suele estar cerca del 50%, pero el monto colocado sugiere que el operador identifica un desvío en la probabilidad real (posiblemente por lesiones o estilo de juego defensivo). El edge estimado es de +4.2 puntos sobre la cuota de equilibrio, lo que justifica el riesgo asumido en un partido de alto perfil. El cambio porcentual en el precio aún no se refleja, pero la señal anticipa un movimiento hacia el lado Under. Riesgo: volatilidad por goles tempranos o decisiones arbitrales."
   }
  ],
  "edges": [
@@ -310,11 +330,11 @@
   }
  ],
  "historico": {
-  "ts": 1786893990,
+  "ts": 1786895793,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 34.6
+ "db_size_mb": 34.65
 }
