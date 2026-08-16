@@ -1,6 +1,6 @@
 {
- "ts": 1786865175,
- "stamp": "20260816_072615",
+ "ts": 1786865235,
+ "stamp": "20260816_072715",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -151,8 +151,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.335,
-   "no": 0.665,
+   "yes": 0.33,
+   "no": 0.67,
    "volumen": 99104.44479300003,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -201,8 +201,8 @@
   {
    "question": "Will Ethereum reach $2,000 August 10-16?",
    "slug": "will-ethereum-reach-2000-august-10-16-2026",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.005,
+   "no": 0.995,
    "volumen": 98275.86060899998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -241,8 +241,8 @@
   {
    "question": "Will \"PAW Patrol: The Dino Movie\" Opening Weekend Box Office be between 20m and 25m?",
    "slug": "will-paw-patrol-the-dino-movie-opening-weekend-box-office-be-between-20m-and-25m-20260708164748955",
-   "yes": 0.832,
-   "no": 0.168,
+   "yes": 0.8285,
+   "no": 0.1715,
    "volumen": 9967.205504000001,
    "spread": 0.0,
    "categoria": "Entretenimiento",
