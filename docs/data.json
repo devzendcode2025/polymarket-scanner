@@ -1,29 +1,29 @@
 {
- "ts": 1786904126,
- "stamp": "20260816_181526",
+ "ts": 1786904186,
+ "stamp": "20260816_181626",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x4c58ecd28e545198cd0054113f9f038a5afb1e7f04d7fc4d8a0e792b2cb724de",
-   "titulo": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season",
-   "slug": "lol-g2-fnc-2026-08-16",
-   "outcome": "Fnatic",
+   "market_id": "0x3927a0e1baded6f80c36b1c9fe0388e0489af3165262f4b9e28db1ad293e83ef",
+   "titulo": "New York Yankees vs. Toronto Blue Jays",
+   "slug": "mlb-nyy-tor-2026-08-16",
+   "outcome": "New York Yankees",
    "side": "BUY",
-   "size": 32000.0,
-   "price": 0.46,
-   "usd": 14720.0,
-   "ts": 1786903669,
-   "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $14,720 en 'Fnatic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-g2-fnc-2026-08-16",
-   "titulo_es": "LoL: G2 Esports vs Fnatic (BO3) - Temporada Regular de la LEC",
-   "narrativa": "La señal de compra sobre Fnatic en el BO3 frente a G2 presenta un edge positivo de +4.7 puntos sobre el consenso externo, con un monto asignado de $14,720 que refleja una convicción media-alta en el mercado. El volumen del mercado no está reportado, pero la ausencia de datos sugiere que el movimiento puede ejecutarse sin deslizamientos significativos si se entra en ventanas de liquidez. Riesgo: la volatilidad de un clásico de la LEC puede amplificar el desvío estándar del resultado, por lo que se recomienda monitorear el cambio porcentual en vivo."
+   "size": 1771.459015,
+   "price": 0.6099999999,
+   "usd": 1080.59,
+   "ts": 1786903966,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,081 en 'New York Yankees'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-nyy-tor-2026-08-16",
+   "titulo_es": "New York Yankees vs. Toronto Blue Jays",
+   "narrativa": "La compra de $1,080 en los Yankees refleja una apuesta significativa contra el consenso del mercado, que probablemente favorece a Toronto en este enfrentamiento. Este flujo de capital, aunque moderado, sugiere que un operador con información o convicción fuerte ve valor en el lado local, generando un edge potencial si el precio aún no ha absorbido este movimiento. El volumen de mercado no reportado limita la confirmación de liquidez, pero el monto posiciona la operación como una señal direccional clara. Riesgo: posible falta de profundidad en el libro de órdenes para salir sin deslizamiento."
   }
  ],
  "edges": [
@@ -42,7 +42,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will the Democratic Party candidate win the 2026 New York gubernatorial election by 5%-10%?",
+     "_poly_question": "Will Donald Trump publicly insult Pam Bondi by August 31, 2026?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 36.47
+ "db_size_mb": 36.53
 }
