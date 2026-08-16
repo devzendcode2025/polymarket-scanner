@@ -1,89 +1,29 @@
 {
- "ts": 1786907727,
- "stamp": "20260816_191527",
+ "ts": 1786907787,
+ "stamp": "20260816_191627",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x91262afde6680441722b5d7b3b7f8928d5d7beb8eec4f5bc020e22dc5bbbb68e",
-   "titulo": "Will Burgos CF win on 2026-08-16?",
-   "slug": "es2-bur-cor-2026-08-16-bur",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 2783.5,
-   "price": 0.999,
-   "usd": 2780.72,
-   "ts": 1786907268,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,781 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/es2-bur-cor-2026-08-16-bur",
-   "titulo_es": "¿Ganará el Burgos CF el 2026-08-16?",
-   "narrativa": "Una posición de venta de 2.780 USD sobre el 'Sí' en Burgos CF sugiere que un operador relevante está cubriendo o anticipando una corrección en el precio del 'Yes', que probablemente cotiza con una prima excesiva frente a la probabilidad implícita real. El tamaño de la operación, aunque no se conoce el volumen total del mercado, indica una convicción direccional que puede arrastrar el precio a la baja a corto plazo. Riesgo: mercado de baja liquidez, lo que puede amplificar el deslizamiento."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x4234a8fc59b3e003c00d5f590bce15bd7f778b2049dabd7bcb3e6d0e409398a6",
-   "titulo": "Will Paris Saint-Germain win on 2026-08-16?",
-   "slug": "frtc-rcl-psg-2026-08-16-psg",
-   "outcome": "Yes",
+   "market_id": "0xfe967225e2dbf4992130fca9d8486a000602fa320016fe2d4532ae7e19c011b0",
+   "titulo": "Chicago White Sox vs. Detroit Tigers",
+   "slug": "mlb-cws-det-2026-08-16",
+   "outcome": "Detroit Tigers",
    "side": "BUY",
-   "size": 3785.242423,
-   "price": 0.66,
-   "usd": 2498.26,
-   "ts": 1786907268,
-   "categoria": "Tecnología",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,498 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/frtc-rcl-psg-2026-08-16-psg",
-   "titulo_es": "¿Ganará el Paris Saint-Germain el 2026-08-16?",
-   "narrativa": "La compra de 2.498 USD en el 'Sí' para PSG el 16 de agosto apunta a que un agente grande está acumulando exposición a un favorito claro, probablemente con una probabilidad implícita aún por debajo del consenso externo de los modelos de poder ofensivo. Este flujo de entrada, en un mercado con alta actividad, puede comprimir el spread y empujar el precio hacia arriba si el volumen acompaña. Riesgo: eventos de lesiones o rotaciones de plantilla cerca de la fecha."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xa0e9eff250cca606ada97db9acfdbb436cbfdcd10ceea634476c0c1e3bbe8550",
-   "titulo": "Will CF Cruz Azul win on 2026-08-16?",
-   "slug": "mex-tij-caz-2026-08-16-caz",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2405.0,
-   "price": 0.58,
-   "usd": 1394.9,
-   "ts": 1786907266,
+   "size": 3000.0,
+   "price": 0.61,
+   "usd": 1830.0,
+   "ts": 1786907572,
    "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,395 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mex-tij-caz-2026-08-16-caz",
-   "titulo_es": "¿Ganará el CF Cruz Azul el 2026-08-16?",
-   "narrativa": "La apuesta de 1.394 USD contra el 'No' en Cruz Azul implica que el operador espera que el equipo gane, y el precio del 'No' está sobrevalorado en relación con la cuota real de victoria. El monto, aunque moderado, es significativo en un mercado de nicho, y sugiere una ineficiencia que puede corregirse con la llegada de más información del once titular. Riesgo: alta volatilidad por noticias de última hora en ligas domésticas."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x32a9e1c910b0938abf010cde694578a21437ebbf2a8d33fa773e21297c27ede7",
-   "titulo": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B",
-   "slug": "cs2-ast10-nip-2026-08-16",
-   "outcome": "Astralis",
-   "side": "SELL",
-   "size": 1328.69,
-   "price": 0.999,
-   "usd": 1327.36,
-   "ts": 1786907263,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,327 en 'Astralis'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-ast10-nip-2026-08-16",
-   "titulo_es": "Counter-Strike: Astralis vs NIP (BO3) - Copa Mundial de Esports Grupo B",
-   "narrativa": "La venta de 1.327 USD sobre 'Astralis' en el BO3 contra NIP refleja una expectativa de que el precio del 'Sí' está inflado por el nombre del equipo, cuando los mapas y el momento de forma de NIP ofrecen un valor superior en el 'No'. El flujo de venta es lo bastante grande para mover la línea en un mercado de esports con liquidez media, lo que puede generar una oportunidad de arbitraje de consenso. Riesgo: los BO3 son altamente sensibles a los mapas iniciales y a los cambios tácticos en vivo."
+   "razon": "Trade de compra por $1,830 en 'Detroit Tigers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-cws-det-2026-08-16",
+   "titulo_es": "Chicago White Sox contra Detroit Tigers",
+   "narrativa": "La compra de Detroit Tigers por 1,830 USD en este mercado directo contra los White Sox representa una apuesta direccional con volumen de mercado no reportado, lo que sugiere un trade de tamaño considerable en relación a la liquidez disponible. Este movimiento de ballena indica que un operador con información o convicción fuerte está posicionándose en el lado de los Tigers, lo que puede generar un efecto de arrastre en el precio si otros participantes siguen la señal. La ausencia de volumen de mercado conocido aumenta la incertidumbre sobre la profundidad del libro, por lo que la ejecución podría enfrentar slippage. Riesgo: liquidez limitada y posible manipulación de precios en mercados de nicho."
   }
  ],
  "edges": [
@@ -92,9 +32,9 @@
    "question": "Will DeepSeek have the best Chinese AI model at the end of September 2026?",
    "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830",
    "url": "https://polymarket.com/market/will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830",
-   "prob_poly": 3.5,
+   "prob_poly": 3.3,
    "consenso": 33.8,
-   "edge": 30.3,
+   "edge": 30.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -102,7 +42,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will the Democratic Party candidate win the 2026 New York gubernatorial election by 5%-10%?",
+     "_poly_question": "Will Georgia Tech Yellow Jackets Win the 2026 ACC Championship?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -112,9 +52,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 3.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 33.8%: diferencia de 30.3 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 3.3% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 33.8%: diferencia de 30.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de septiembre de 2026?",
-   "narrativa": "La valoración de Polymarket al 3.5% para que DeepSeek tenga el mejor modelo de IA chino a finales de septiembre de 2026 contrasta fuertemente con el consenso externo de Manifold del 33.8%, generando un edge de +30.3 puntos a favor de comprar el 'Sí'. Este diferencial sugiere que el mercado de Polymarket aún no ha descontado el progreso técnico y la trayectoria de DeepSeek, lo que ofrece una oportunidad de entrada con una relación riesgo/beneficio asimétrica a un costo de 3.5 centavos por acción. El monto sugerido para el trade debe dimensionarse considerando que un acierto multiplica por ~28.5 veces la inversión, pero el desvío entre plataformas indica que una de las dos está significativamente equivocada en su pricing. Riesgo: baja liquidez en el mercado de Polymarket para horizontes tan largos, lo que puede ampliar el spread y dificultar la salida anticipada."
+   "narrativa": "El mercado de Polymarket valora al 3.3% la posibilidad de que DeepSeek tenga el mejor modelo de IA chino para septiembre de 2026, mientras que el consenso externo de Manifold se sitúa en 33.8%. Esta brecha de 30.5 puntos porcentuales ofrece un edge asimétrico a favor de la compra del 'Sí', ya que el precio implícito no refleja el progreso tecnológico observado en el sector. El trade sugiere una oportunidad de revalorización significativa si el mercado converge hacia el consenso externo, aunque el horizonte temporal es amplio y sujeto a eventos disruptivos. Riesgo: baja liquidez en horizontes largos y posible estancamiento del precio por tiempo prolongado."
   }
  ],
  "top_volumen": [
@@ -376,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 37.33
+ "db_size_mb": 37.38
 }
