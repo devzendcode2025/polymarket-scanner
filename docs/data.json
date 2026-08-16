@@ -1,6 +1,6 @@
 {
- "ts": 1786905986,
- "stamp": "20260816_184626",
+ "ts": 1786906046,
+ "stamp": "20260816_184726",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -93,7 +93,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988553.6549689999,
+   "volumen": 988553.654969,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -103,7 +103,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987424.530261,
+   "volumen": 987424.5302610002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -123,7 +123,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900004,
+   "volumen": 99798.314909,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -133,7 +133,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.0615,
    "no": 0.9385,
-   "volumen": 99784.25748500002,
+   "volumen": 99784.25748500001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -143,7 +143,7 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.077,
    "no": 0.923,
-   "volumen": 99781.706217,
+   "volumen": 99781.70621699997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
@@ -153,7 +153,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 99205.21661199997,
+   "volumen": 99205.21661199999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -183,7 +183,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.58341900002,
+   "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -197,6 +197,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
+  },
+  {
+   "question": "The Hundred: Trent Rockets vs Manchester Super Giants",
+   "slug": "crichundred-tre-man-2026-08-16",
+   "yes": 0.375,
+   "no": 0.625,
+   "volumen": 98882.22905399997,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "The Hundred: Trent Rockets vs Manchester Super Giants"
   },
   {
    "question": "US charges Hormuz fees by December 31, 2026?",
@@ -213,7 +223,7 @@
    "slug": "will-everton-win-the-2026-27-english-premier-league-epl-championship-20260701200428757",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98565.53900000002,
+   "volumen": 98675.729,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Everton el Campeonato de la Premier League inglesa (EPL) 2026-27?"
@@ -239,16 +249,6 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
-   "question": "Will Anthropic have the best Code Arena | WebDev AI at the end of October 2026?",
-   "slug": "will-anthropic-have-the-best-code-arena-webdev-ai-at-the-end-of-october-2026-20260811194840755",
-   "yes": 0.585,
-   "no": 0.415,
-   "volumen": 9991.564536000002,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Anthropic el mejor Code Arena | WebDev AI a finales de octubre de 2026?"
-  },
-  {
    "question": "RCD Espanyol de Barcelona vs. Levante UD: 1st Half O/U 0.5",
    "slug": "lal-esp-lev-2026-08-16-first-half-total-0pt5",
    "yes": 0.9995,
@@ -263,7 +263,7 @@
    "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 9977.221455,
+   "volumen": 9977.221454999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Se unirá Julián Álvarez al Real Madrid?"
@@ -293,27 +293,17 @@
    "slug": "hun-deb-gyo-2026-08-16-deb",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9958.141203,
+   "volumen": 9958.141203000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará el Debreceni VSC el 2026-08-16?"
-  },
-  {
-   "question": "Spread: Liverpool FC (-2.5)",
-   "slug": "clf-lfc-com-2026-08-16-spread-home-2pt5",
-   "yes": 0.215,
-   "no": 0.785,
-   "volumen": 9956.157811000001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Margen: Liverpool FC (-2.5)"
   },
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
    "yes": 0.796,
    "no": 0.204,
-   "volumen": 9951.191957000003,
+   "volumen": 9951.191957,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
@@ -323,10 +313,20 @@
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
    "yes": 0.38,
    "no": 0.62,
-   "volumen": 9950.113178,
+   "volumen": 9950.113178000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
+   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
+   "yes": 0.0465,
+   "no": 0.9535,
+   "volumen": 9947.125083,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 36.96
+ "db_size_mb": 36.97
 }
