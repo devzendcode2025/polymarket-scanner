@@ -1,29 +1,29 @@
 {
- "ts": 1786891822,
- "stamp": "20260816_145022",
+ "ts": 1786891882,
+ "stamp": "20260816_145122",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9544ff0ff20c38a16eb5b91efeaa1a53aac58aa6e4e73b9698a374aa34404a7f",
-   "titulo": "Will the Republican Party win the DE-AL House seat?",
-   "slug": "will-the-republican-party-win-the-de-al-house-seat",
-   "outcome": "No",
+   "market_id": "0x00b6ada9422798be661a6fac122ff3230d85015e93e1c74039b9ef6f6c35f532",
+   "titulo": "LoL: Top Esports vs EDward Gaming - Game 2 Winner",
+   "slug": "lol-tes-edg-2026-08-16-game2",
+   "outcome": "Top Esports",
    "side": "BUY",
-   "size": 1630.0,
-   "price": 0.95,
-   "usd": 1548.5,
-   "ts": 1786891345,
-   "categoria": "Política",
+   "size": 1500.0,
+   "price": 0.9201028,
+   "usd": 1380.15,
+   "ts": 1786891653,
+   "categoria": "Deportes",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,548 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-republican-party-win-the-de-al-house-seat",
-   "titulo_es": "¿Ganará el Partido Republicano el escaño de la Cámara en DE-AL?",
-   "narrativa": "La compra de 'No' en DE-AL refleja un consenso externo que favorece al Partido Demócrata en un distrito con historial competitivo, y el monto de $1,548.5 indica posicionamiento institucional sin presión de volumen. El edge estimado supera los 5 puntos frente a la probabilidad implícita del mercado, lo que sugiere una corrección de precio a favor del comprador. Riesgo: evento político de alta volatilidad y posible falta de liquidez en horas previas al cierre."
+   "razon": "Trade de compra por $1,380 en 'Top Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-tes-edg-2026-08-16-game2",
+   "titulo_es": "LoL: Top Esports vs EDward Gaming - Ganador del Juego 2",
+   "narrativa": "La compra en Top Esports para el Juego 2 presenta un edge favorable alineado con el consenso externo, que sitúa a este equipo como favorito en un enfrentamiento de alto nivel competitivo. Con un monto de $1,380 USD, la posición aprovecha la volatilidad esperada en un bo3 donde el segundo juego suele definir el ritmo de la serie, ofreciendo una relación riesgo/retorno atractiva. El volumen de mercado no está disponible, lo que sugiere cautela en la ejecución, pero la señal se apoya en la ventaja de mapa y el historial reciente de Top Esports en este tipo de escenarios. Riesgo: posible falta de liquidez en momentos de alta volatilidad."
   }
  ],
  "edges": [
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 33.75
+ "db_size_mb": 33.81
 }
