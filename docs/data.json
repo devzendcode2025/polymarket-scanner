@@ -1,49 +1,29 @@
 {
- "ts": 1786878918,
- "stamp": "20260816_111518",
+ "ts": 1786878978,
+ "stamp": "20260816_111618",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xea10d8dd95b0c4ad57330dddb04d8d832d0c85a5774c75e58628622f0aac5332",
-   "titulo": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
-   "slug": "dota2-lgd-ty-2026-08-16",
-   "outcome": "LGD Gaming",
+   "market_id": "0x4c58ecd28e545198cd0054113f9f038a5afb1e7f04d7fc4d8a0e792b2cb724de",
+   "titulo": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season",
+   "slug": "lol-g2-fnc-2026-08-16",
+   "outcome": "G2 Esports",
    "side": "BUY",
-   "size": 2006.0,
-   "price": 0.62,
-   "usd": 1243.72,
-   "ts": 1786878442,
-   "categoria": "Otros",
+   "size": 1575.66,
+   "price": 0.79,
+   "usd": 1244.77,
+   "ts": 1786878735,
+   "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,244 en 'LGD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-lgd-ty-2026-08-16",
-   "titulo_es": "Dota 2: LGD Gaming vs Team Yandex (BO3) - Ronda de Eliminación de The International",
-   "narrativa": "Dos compras consecutivas de 1.243,72 USD y 1.240 USD sobre LGD Gaming en la misma ventana de tiempo reflejan una acumulación coordinada de capital, lo que sugiere convicción direccional en el favorito del BO3. El monto agregado supera los 2.480 USD, un flujo relevante para un mercado sin volumen reportado, y la consistencia en el lado comprador apunta a una ventaja de información o de alineación de intereses. Riesgo: liquidez limitada podría amplificar el impacto de la orden, pero también la volatilidad del precio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xea10d8dd95b0c4ad57330dddb04d8d832d0c85a5774c75e58628622f0aac5332",
-   "titulo": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
-   "slug": "dota2-lgd-ty-2026-08-16",
-   "outcome": "LGD Gaming",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.62,
-   "usd": 1240.0,
-   "ts": 1786878441,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,240 en 'LGD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-lgd-ty-2026-08-16",
-   "titulo_es": "Dota 2: LGD Gaming vs Team Yandex (BO3) - Ronda de Eliminación de The International",
-   "narrativa": "La repetición de la apuesta a LGD Gaming con un monto casi idéntico (1.240 USD) refuerza la señal de acumulación, elevando el edge implícito al concentrar capital en un solo resultado sin dispersión. Este patrón de doble entrada, junto con la ausencia de ventas compensatorias, sugiere que el mercado aún no ha absorbido la presión compradora, dejando margen para un ajuste alcista en la probabilidad implícita. Riesgo: la falta de volumen de mercado puede generar deslizamientos si se busca salir rápido."
+   "razon": "Trade de compra por $1,245 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-g2-fnc-2026-08-16",
+   "titulo_es": "LoL: G2 Esports vs Fnatic (BO3) - Temporada Regular de la LEC",
+   "narrativa": "La compra de G2 Esports a 1.244,77 USD refleja un edge positivo frente al consenso externo, que sitúa su probabilidad implícita en torno al 58-60%, mientras que el mercado local aún no ha ajustado completamente el diferencial de forma y estado de forma entre ambos equipos. El volumen de mercado es limitado, lo que permite capturar una pequeña ineficiencia de precio antes de que los flujos institucionales corrijan la cuota. Riesgo: liquidez reducida en horarios de baja actividad, lo que puede ampliar el spread en la salida."
   }
  ],
  "edges": [
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 30.77
+ "db_size_mb": 30.83
 }
