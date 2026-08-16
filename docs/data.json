@@ -1,6 +1,6 @@
 {
- "ts": 1786890682,
- "stamp": "20260816_143122",
+ "ts": 1786890742,
+ "stamp": "20260816_143222",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -181,8 +181,8 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.063,
-   "no": 0.937,
+   "yes": 0.0625,
+   "no": 0.9375,
    "volumen": 99653.196518,
    "spread": 0.0,
    "categoria": "Otros",
@@ -211,8 +211,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.34,
-   "no": 0.66,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 99104.44479299999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -231,8 +231,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.068,
-   "no": 0.932,
+   "yes": 0.0685,
+   "no": 0.9315,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -301,8 +301,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.038,
-   "no": 0.962,
+   "yes": 0.0365,
+   "no": 0.9635,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -311,8 +311,8 @@
   {
    "question": "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 45% or higher?",
    "slug": "will-the-highest-score-achieved-by-a-spacexai-grok-model-on-humanitys-last-exam-in-2026-be-45-or-higher-20260723191456650",
-   "yes": 0.7145,
-   "no": 0.2855,
+   "yes": 0.715,
+   "no": 0.285,
    "volumen": 9967.655697,
    "spread": 0.0,
    "categoria": "Tecnología",
