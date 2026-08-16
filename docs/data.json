@@ -1,6 +1,6 @@
 {
- "ts": 1786852571,
- "stamp": "20260816_035611",
+ "ts": 1786852631,
+ "stamp": "20260816_035711",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -209,16 +209,6 @@
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
   },
   {
-   "question": "Spread: Real Salt Lake (-1.5)",
-   "slug": "mls-rsl-min-2026-08-15-spread-home-1pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9985.990910999997,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Margen: Real Salt Lake (-1.5)"
-  },
-  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
    "yes": 0.0425,
@@ -297,6 +287,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará CA Barracas Central el 2026-08-16?"
+  },
+  {
+   "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
+   "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
+   "yes": 0.255,
+   "no": 0.745,
+   "volumen": 9915.455292999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
   }
  ],
  "historico": {
