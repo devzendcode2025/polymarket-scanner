@@ -1,6 +1,6 @@
 {
- "ts": 1786863974,
- "stamp": "20260816_070614",
+ "ts": 1786864034,
+ "stamp": "20260816_070714",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -53,7 +53,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920003,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -63,7 +63,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988542.5749689997,
+   "volumen": 988542.5749690001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -73,7 +73,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986901.3313550001,
+   "volumen": 986901.3313550003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -93,7 +93,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99847.146173,
+   "volumen": 99847.14617300002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -113,27 +113,17 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.061,
    "no": 0.939,
-   "volumen": 99644.07651799999,
+   "volumen": 99644.076518,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
-  },
-  {
-   "question": "Will Team Resilience Win The International 2026?",
-   "slug": "will-team-resilience-win-the-international-2026-20260629212053625",
-   "yes": 0.0105,
-   "no": 0.9895,
-   "volumen": 99339.34028300001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará Team Resilience The International 2026?"
   },
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.481818,
+   "volumen": 99179.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -199,6 +189,16 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Will Ethereum reach $2,000 August 10-16?",
+   "slug": "will-ethereum-reach-2000-august-10-16-2026",
+   "yes": 0.004,
+   "no": 0.996,
+   "volumen": 98275.86060899998,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Ethereum los $2,000 del 10 al 16 de agosto?"
+  },
+  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -241,8 +241,8 @@
   {
    "question": "Will \"PAW Patrol: The Dino Movie\" Opening Weekend Box Office be between 20m and 25m?",
    "slug": "will-paw-patrol-the-dino-movie-opening-weekend-box-office-be-between-20m-and-25m-20260708164748955",
-   "yes": 0.8215,
-   "no": 0.1785,
+   "yes": 0.8235,
+   "no": 0.1765,
    "volumen": 9967.205504000001,
    "spread": 0.0,
    "categoria": "Entretenimiento",
@@ -289,14 +289,14 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   },
   {
-   "question": "Will Google be the third-best AI lab at the end of August 2026?",
-   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.435,
-   "no": 0.565,
-   "volumen": 9937.453486999999,
+   "question": "Will India win?",
+   "slug": "crint-lka-ind-2026-08-15-ind",
+   "yes": 0.565,
+   "no": 0.435,
+   "volumen": 9937.637714999999,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
+   "categoria": "Otros",
+   "question_es": "¿Ganará India?"
   }
  ],
  "historico": {
