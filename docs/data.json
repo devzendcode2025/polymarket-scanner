@@ -1,6 +1,6 @@
 {
- "ts": 1786906886,
- "stamp": "20260816_190126",
+ "ts": 1786906946,
+ "stamp": "20260816_190226",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -181,8 +181,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -201,8 +201,8 @@
   {
    "question": "The Hundred: Trent Rockets vs Manchester Super Giants",
    "slug": "crichundred-tre-man-2026-08-16",
-   "yes": 0.195,
-   "no": 0.805,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 98882.22905399997,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -271,8 +271,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0415,
-   "no": 0.9585,
+   "yes": 0.042,
+   "no": 0.958,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
