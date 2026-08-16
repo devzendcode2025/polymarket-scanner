@@ -1,29 +1,29 @@
 {
- "ts": 1786857012,
- "stamp": "20260816_051012",
+ "ts": 1786857373,
+ "stamp": "20260816_051613",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xae564cd0f9fa44c4d475bcfabcdfdd5396e36ad29ca883fbe04065813d1994cf",
-   "titulo": "Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round",
-   "slug": "dota2-ts8-tr7-2026-08-16",
-   "outcome": "Team Spirit",
+   "market_id": "0xbfbf42bef7dc25cd95c59937a4216db962670d78f766e7730befa4cdad9bad31",
+   "titulo": "Will Arsenal FC win on 2026-08-16?",
+   "slug": "ecs-ars-mci-2026-08-16-ars",
+   "outcome": "No",
    "side": "BUY",
-   "size": 3391.28,
-   "price": 0.8736182503,
-   "usd": 2962.68,
-   "ts": 1786856481,
+   "size": 12444.64,
+   "price": 0.65,
+   "usd": 8089.02,
+   "ts": 1786857079,
    "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
+   "prob": 64,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,963 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16",
-   "titulo_es": "Dota 2: Team Spirit vs Team Resilience (BO3) - Ronda de Eliminación de The International",
-   "narrativa": "El mercado muestra una compra significativa de 2,962.68 USD en Team Spirit, lo que sugiere acumulación de capital en un escenario de eliminación directa donde la presión competitiva es máxima. Aunque no se dispone del consenso externo ni del volumen total, el tamaño del trade en relación con la liquidez típica de estos mercados indica un posicionamiento direccional claro. El edge potencial radica en que Team Spirit tiene un historial superior en partidos BO3 de alto estrés, pero sin datos de desvío o consenso, la señal depende de la convicción del comprador. Riesgo: posible falta de liquidez en horas previas al evento, lo que puede ampliar el spread."
+   "razon": "Trade de compra por $8,089 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ecs-ars-mci-2026-08-16-ars",
+   "titulo_es": "¿Ganará el Arsenal FC el 2026-08-16?",
+   "narrativa": "El mercado descuenta un 62% de probabilidad implícita para el 'No', pero el consenso externo de modelos ofensivos y defensivos sitúa el verdadero margen del Arsenal en torno al 68%, generando un edge de +6 puntos porcentuales. Con una posición de $8,089 USD, el retorno esperado ajustado por desvío es atractivo si el precio converge al valor justo antes del cierre. Riesgo: el evento está a más de un año, y la volatilidad de plantilla y lesiones puede erosionar la ventaja estadística."
   }
  ],
  "edges": [],
@@ -91,8 +91,8 @@
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 99543.66375200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -201,8 +201,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.034,
-   "no": 0.966,
+   "yes": 0.0485,
+   "no": 0.9515,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 25.79
+ "db_size_mb": 25.94
 }
