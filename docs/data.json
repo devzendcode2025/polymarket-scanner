@@ -1,6 +1,6 @@
 {
- "ts": 1786854372,
- "stamp": "20260816_042612",
+ "ts": 1786854432,
+ "stamp": "20260816_042712",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -261,8 +261,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0435,
-   "no": 0.9565,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -271,8 +271,8 @@
   {
    "question": "Will Elif Eralp be the next Governing Mayor of Berlin?",
    "slug": "will-elif-eralp-be-the-next-governing-mayor-of-berlin-1786117615446",
-   "yes": 0.445,
-   "no": 0.555,
+   "yes": 0.435,
+   "no": 0.565,
    "volumen": 9968.575258,
    "spread": 0.0,
    "categoria": "Política",
@@ -291,8 +291,8 @@
   {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.0475,
-   "no": 0.9525,
+   "yes": 0.047,
+   "no": 0.953,
    "volumen": 9947.125083000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -331,8 +331,8 @@
   {
    "question": "Texas Rangers vs. Athletics: O/U 10.5",
    "slug": "mlb-tex-oak-2026-08-15-total-10pt5",
-   "yes": 0.04,
-   "no": 0.96,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 9925.644788000001,
    "spread": 0.0,
    "categoria": "Otros",
