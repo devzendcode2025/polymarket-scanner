@@ -1,10 +1,71 @@
 {
- "ts": 1786883480,
- "stamp": "20260816_123120",
+ "ts": 1786883780,
+ "stamp": "20260816_123620",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xd8f154f0ca38d80014fabe0dd4c875dd5129fbd83767523fb048f50733570e99",
+   "titulo": "Will AIK win on 2026-08-16?",
+   "slug": "swe-dju-aik-2026-08-16-aik",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 2754.56,
+   "price": 0.57,
+   "usd": 1570.1,
+   "ts": 1786883544,
+   "categoria": "Tecnología",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,570 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/swe-dju-aik-2026-08-16-aik",
+   "titulo_es": "¿Ganará el AIK el 2026-08-16?",
+   "narrativa": "La entrada de 1,570 USD en 'Yes' para que el AIK gane el 2026-08-16 sugiere convicción direccional, pero sin volumen de mercado reportado el edge real es especulativo; el monto representa una apuesta significativa que podría mover la línea si el libro es delgado. Oportunidad condicionada a que el precio actual esté por debajo del 50% de probabilidad implícita, dado el tamaño del trade. Riesgo: mercado sin liquidez verificable y horizonte lejano."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xb01fd46b4c866dfa96a093c0ea54e11581ad2ca2666bacfba5cb4fc69cb5081d",
+   "titulo": "Will Real Madrid win on 2026-08-16?",
+   "slug": "clf-sch-rma-2026-08-16-rma",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 1643.83,
+   "price": 0.72,
+   "usd": 1183.56,
+   "ts": 1786883541,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,184 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/clf-sch-rma-2026-08-16-rma",
+   "titulo_es": "¿Ganará el Real Madrid el 2026-08-16?",
+   "narrativa": "La venta de 1,183.56 USD en 'Yes' para el Real Madrid el 2026-08-16 indica una postura contraria al favoritismo público, buscando capturar prima si el mercado sobrevalora la opción; el monto sugiere que el vendedor espera un reajuste a la baja. Sin volumen de mercado, el edge depende de que la probabilidad implícita actual supere el 60% real estimado. Riesgo: evento de una sola pierna con alta varianza por lesiones o calendario."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x57ebba23afe9193586f18981fbf7c739dd5e473218a7df0ed298bff877cbe569",
+   "titulo": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana",
+   "slug": "lol-wb-ig1-2026-08-16",
+   "outcome": "Weibo Gaming",
+   "side": "BUY",
+   "size": 3048.0,
+   "price": 0.33,
+   "usd": 1005.84,
+   "ts": 1786883542,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,006 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-wb-ig1-2026-08-16",
+   "titulo_es": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - Grupo Nirvana de la LPL",
+   "narrativa": "La compra de 1,005.84 USD en Weibo Gaming para el BO3 contra Invictus Gaming refleja una ventaja percibida en el meta actual o en el historial reciente de los equipos; el tamaño del trade indica una señal de alta confianza, pero sin volumen de mercado el precio puede ser ineficiente. Oportunidad si la cuota implícita de Weibo está por debajo del 55% y el consenso externo (rankings, forma) la sitúa más cerca del 65%. Riesgo: partidos BO3 con alta dependencia de drafts y posibles sorpresas en early game."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -100,8 +161,8 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.0615,
-   "no": 0.9385,
+   "yes": 0.0625,
+   "no": 0.9375,
    "volumen": 99646.19651799998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -140,8 +201,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.32,
-   "no": 0.68,
+   "yes": 0.315,
+   "no": 0.685,
    "volumen": 99104.44479299997,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -210,8 +271,8 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.485,
-   "no": 0.515,
+   "yes": 0.495,
+   "no": 0.505,
    "volumen": 9975.000677000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -220,8 +281,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0295,
-   "no": 0.9705,
+   "yes": 0.045,
+   "no": 0.955,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -295,5 +356,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 31.88
+ "db_size_mb": 31.94
 }
