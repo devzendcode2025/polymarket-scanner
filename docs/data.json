@@ -1,49 +1,89 @@
 {
- "ts": 1786854912,
- "stamp": "20260816_043512",
+ "ts": 1786855272,
+ "stamp": "20260816_044112",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa0ebf629ede719e165eb8f1383a979640f70b0fbbc0996ae2fac178e207787c0",
-   "titulo": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
-   "slug": "atp-zverev-norrie-2026-08-15",
-   "outcome": "Alexander Zverev",
-   "side": "BUY",
-   "size": 4324.074073,
-   "price": 0.5399999999,
-   "usd": 2335.0,
-   "ts": 1786854369,
+   "market_id": "0x24a86f59ea6f32be34804a0f015f9e823d65f364bf5b13f2968781b4319a900d",
+   "titulo": "Dota 2: Aurora vs BoomBoys - Game 1 Winner",
+   "slug": "dota2-aur1-boombo-2026-08-15-game1",
+   "outcome": "BoomBoys",
+   "side": "SELL",
+   "size": 17639.99,
+   "price": 0.999,
+   "usd": 17622.35,
+   "ts": 1786854969,
    "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
+   "prob": 70,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,335 en 'Alexander Zverev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-zverev-norrie-2026-08-15",
-   "titulo_es": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
-   "narrativa": "La acumulación de 2335 USD en la compra de Zverev refleja una convicción institucional significativa, superando el ticket promedio del mercado y sugiriendo que los grandes operadores descuentan una ventaja de superficie y forma física sobre Norrie. Este flujo de capital, alineado con el consenso externo que favorece al alemán por su historial en pista dura, amplifica la probabilidad implícita a favor del favorito. Riesgo: el monto, aunque relevante, no garantiza cobertura ante una posible sorpresa táctica del británico."
+   "razon": "Trade de venta por $17,622 en 'BoomBoys'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-aur1-boombo-2026-08-15-game1",
+   "titulo_es": "Dota 2: Aurora vs BoomBoys - Ganador del Juego 1",
+   "narrativa": "La venta de 17.6K USD sobre BoomBoys en el Juego 1 de Aurora vs. BoomBoys sugiere una fuerte convicción bajista, probablemente basada en un desajuste de poder entre equipos. El monto, al ser el más alto del lote, indica que el operador busca capturar una caída de precio con un edge significativo si el mercado sobrevalora a BoomBoys. Riesgo: el volumen de mercado es nulo, lo que podría amplificar el slippage."
   },
   {
    "tipo": "ballena",
-   "market_id": "0xa0ebf629ede719e165eb8f1383a979640f70b0fbbc0996ae2fac178e207787c0",
-   "titulo": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
-   "slug": "atp-zverev-norrie-2026-08-15",
-   "outcome": "Alexander Zverev",
+   "market_id": "0xe5af514e5779c304bb5b9541f0423e6801f29267fda776b17c92dc4d610e5688",
+   "titulo": "Will San Diego FC win on 2026-08-15?",
+   "slug": "mls-laf-sdg-2026-08-15-sdg",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 1999.99,
-   "price": 0.54,
-   "usd": 1079.99,
-   "ts": 1786854378,
-   "categoria": "Deportes",
-   "prob": 53,
+   "size": 3003.0,
+   "price": 0.999,
+   "usd": 3000.0,
+   "ts": 1786854972,
+   "categoria": "Otros",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,000 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-laf-sdg-2026-08-15-sdg",
+   "titulo_es": "¿Ganará San Diego FC el 2026-08-15?",
+   "narrativa": "La compra de 3K USD en 'Yes' para que San Diego FC gane el 2026-08-15 refleja una apuesta temprana a un resultado con alta probabilidad implícita, pero el monto sugiere que el operador ve un edge positivo frente al consenso externo. Si el mercado aún no ha ajustado completamente el potencial del equipo, esta posición podría capturar una corrección alcista. Riesgo: el horizonte lejano expone a cambios de plantilla o lesiones."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xe5af514e5779c304bb5b9541f0423e6801f29267fda776b17c92dc4d610e5688",
+   "titulo": "Will San Diego FC win on 2026-08-15?",
+   "slug": "mls-laf-sdg-2026-08-15-sdg",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 2002.0,
+   "price": 0.9985652448,
+   "usd": 1999.13,
+   "ts": 1786854970,
+   "categoria": "Otros",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,080 en 'Alexander Zverev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-zverev-norrie-2026-08-15",
-   "titulo_es": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
-   "narrativa": "La segunda compra por 1079.99 USD en el mismo resultado refuerza la tesis de una posición direccional consistente, sumando más de 3400 USD en dos bloques que apuntan a una confianza creciente en la victoria de Zverev. Este segundo ticket, aunque menor, confirma que no se trata de una operación aislada, sino de un patrón de acumulación que suele preceder a movimientos de precio más amplios en el mercado. Riesgo: la falta de volumen total publicado limita el análisis de liquidez para salidas rápidas."
+   "razon": "Trade de compra por $1,999 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-laf-sdg-2026-08-15-sdg",
+   "titulo_es": "¿Ganará San Diego FC el 2026-08-15?",
+   "narrativa": "La compra adicional de 1.999,13 USD en el mismo 'Yes' de San Diego FC refuerza la señal anterior, acumulando casi 5K USD en total. Este segundo ticket, de tamaño similar, indica una estrategia de promediado o convicción creciente, aprovechando un posible desvío entre el precio actual y la probabilidad real. Riesgo: la liquidez podría ser limitada en mercados con fecha tan lejana."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x130480c97eb48e9a1724f6e5e52ac470c879dc2f4b43d0de633469b36d8bca3b",
+   "titulo": "Will Los Angeles FC vs. San Diego FC end in a draw?",
+   "slug": "mls-laf-sdg-2026-08-15-draw",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1895.49,
+   "price": 0.99883657,
+   "usd": 1893.28,
+   "ts": 1786854981,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,893 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-laf-sdg-2026-08-15-draw",
+   "titulo_es": "¿Terminará en empate Los Angeles FC vs. San Diego FC?",
+   "narrativa": "La compra de 1.893,28 USD en 'No' para el empate entre LAFC y San Diego FC sugiere que el operador descarta un resultado de baja probabilidad, buscando capturar un edge en un mercado donde el 'No' suele estar sobrevalorado. El monto moderado indica una posición calculada, probablemente basada en el historial de enfrentamientos o en la forma reciente de ambos equipos. Riesgo: los empates son comunes en fútbol, y el margen de error es alto."
   }
  ],
  "edges": [],
@@ -63,7 +103,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.019,
    "no": 0.981,
-   "volumen": 988494.681919,
+   "volumen": 988494.6819190002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -73,7 +113,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986901.331355,
+   "volumen": 986901.3313550001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -93,7 +133,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99847.146173,
+   "volumen": 99847.14617300002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -103,7 +143,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.0605,
    "no": 0.9395,
-   "volumen": 99560.431906,
+   "volumen": 99628.372457,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -123,7 +163,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799999,
+   "volumen": 99179.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -143,7 +183,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99104.44479299999,
+   "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -161,8 +201,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0675,
-   "no": 0.9325,
+   "yes": 0.0695,
+   "no": 0.9305,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -177,16 +217,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "O/U 4.5 Rounds",
-   "slug": "ufc-isl-ian1-2026-08-15-totals-4pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 98722.097862,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Más/Menos 4.5 Asaltos"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -213,16 +243,36 @@
    "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9995.6475,
+   "volumen": 9995.647500000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
   },
   {
+   "question": "Will Elon Musk post 200-219 tweets from August 14 to August 21, 2026?",
+   "slug": "elon-musk-of-tweets-august-14-august-21-200-219",
+   "yes": 0.145,
+   "no": 0.855,
+   "volumen": 9990.581680999998,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 200 y 219 tweets del 14 de agosto al 21 de agosto de 2026?"
+  },
+  {
+   "question": "Texas Rangers vs. Athletics: O/U 10.5",
+   "slug": "mlb-tex-oak-2026-08-15-total-10pt5",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9987.464788000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Texas Rangers vs. Athletics: Más/Menos 10.5"
+  },
+  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.0385,
+   "no": 0.9615,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -233,7 +283,7 @@
    "slug": "will-elif-eralp-be-the-next-governing-mayor-of-berlin-1786117615446",
    "yes": 0.435,
    "no": 0.565,
-   "volumen": 9968.575258,
+   "volumen": 9968.575257999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Elif Eralp la próxima alcaldesa gobernante de Berlín?"
@@ -249,11 +299,21 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will the price of Bitcoin be above $64,000 on August 17?",
+   "slug": "bitcoin-above-64k-on-august-17-2026",
+   "yes": 0.135,
+   "no": 0.865,
+   "volumen": 9951.793719000001,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 17 de agosto?"
+  },
+  {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.047,
    "no": 0.953,
-   "volumen": 9947.125083000003,
+   "volumen": 9947.125082999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
@@ -269,34 +329,14 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   },
   {
-   "question": "Will Elon Musk post 200-219 tweets from August 14 to August 21, 2026?",
-   "slug": "elon-musk-of-tweets-august-14-august-21-200-219",
-   "yes": 0.145,
-   "no": 0.855,
-   "volumen": 9933.581681000001,
+   "question": "Will Chuck Gray be the WY-AL Republican nominee?",
+   "slug": "will-chuck-gray-be-the-wy-al-republican-nominee-20260723165335297",
+   "yes": 0.565,
+   "no": 0.435,
+   "volumen": 9942.989699,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 200 y 219 tweets del 14 de agosto al 21 de agosto de 2026?"
-  },
-  {
-   "question": "Will the price of Bitcoin be above $64,000 on August 17?",
-   "slug": "bitcoin-above-64k-on-august-17-2026",
-   "yes": 0.135,
-   "no": 0.865,
-   "volumen": 9930.365149000001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 17 de agosto?"
-  },
-  {
-   "question": "Texas Rangers vs. Athletics: O/U 10.5",
-   "slug": "mlb-tex-oak-2026-08-15-total-10pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9925.644788000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Texas Rangers vs. Athletics: Más/Menos 10.5"
+   "categoria": "Política",
+   "question_es": "¿Será Chuck Gray el nominado republicano de WY-AL?"
   }
  ],
  "historico": {
@@ -306,5 +346,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 25.33
+ "db_size_mb": 25.46
 }
