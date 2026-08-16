@@ -1,6 +1,6 @@
 {
- "ts": 1786879339,
- "stamp": "20260816_112219",
+ "ts": 1786879399,
+ "stamp": "20260816_112319",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -82,7 +82,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "LoL: Movistar KOI vs Natus Vincere (BO3) - LEC Regular Season",
+     "_poly_question": "Will James Harden play for the Portland Trail Blazers in 2026-27?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -350,7 +350,7 @@
   }
  ],
  "historico": {
-  "ts": 1786877607,
+  "ts": 1786879407,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
