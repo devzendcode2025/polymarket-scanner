@@ -1,29 +1,49 @@
 {
- "ts": 1786908027,
- "stamp": "20260816_192027",
+ "ts": 1786908087,
+ "stamp": "20260816_192127",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xfe967225e2dbf4992130fca9d8486a000602fa320016fe2d4532ae7e19c011b0",
-   "titulo": "Chicago White Sox vs. Detroit Tigers",
-   "slug": "mlb-cws-det-2026-08-16",
-   "outcome": "Detroit Tigers",
+   "market_id": "0x4ce5f690e59c98a33dbe4515f2fb2896dec545fc86c51ab2f9d46f435c517011",
+   "titulo": "Arizona Diamondbacks vs. Atlanta Braves",
+   "slug": "mlb-ari-atl-2026-08-16",
+   "outcome": "Atlanta Braves",
    "side": "BUY",
-   "size": 3000.0,
-   "price": 0.61,
-   "usd": 1830.0,
-   "ts": 1786907572,
+   "size": 8821.43,
+   "price": 0.64,
+   "usd": 5645.72,
+   "ts": 1786907874,
    "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,830 en 'Detroit Tigers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-cws-det-2026-08-16",
-   "titulo_es": "Chicago White Sox contra Detroit Tigers",
-   "narrativa": "La compra de Detroit Tigers por 1,830 USD en este mercado directo contra los White Sox representa una apuesta direccional con volumen de mercado no reportado, lo que sugiere un trade de tamaño considerable en relación a la liquidez disponible. Este movimiento de ballena indica que un operador con información o convicción fuerte está posicionándose en el lado de los Tigers, lo que puede generar un efecto de arrastre en el precio si otros participantes siguen la señal. La ausencia de volumen de mercado conocido aumenta la incertidumbre sobre la profundidad del libro, por lo que la ejecución podría enfrentar slippage. Riesgo: liquidez limitada y posible manipulación de precios en mercados de nicho."
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,646 en 'Atlanta Braves'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-ari-atl-2026-08-16",
+   "titulo_es": "Arizona Diamondbacks vs. Atlanta Braves",
+   "narrativa": "La compra de $5,645.72 en Atlanta Braves contra Arizona Diamondbacks refleja una fuerte convicción direccional, con un edge implícito que justifica el tamaño de la posición. Aunque el volumen de mercado no está disponible, el monto sugiere que el operador identifica una discrepancia entre el precio actual y la probabilidad real de victoria, posiblemente por factores como el pitcheo abridor o el estado de forma reciente. Riesgo: la falta de datos de liquidez puede amplificar el impacto de la orden en el precio."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xe5fdf25f2e25b86f3e8ef3a995bd065ea2e491d8fac02fbd65c55b5e8ad907f2",
+   "titulo": "Will Mirassol FC win on 2026-08-16?",
+   "slug": "bra-mir-fla-2026-08-16-mir",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2857.14,
+   "price": 0.78,
+   "usd": 2228.57,
+   "ts": 1786907872,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,229 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bra-mir-fla-2026-08-16-mir",
+   "titulo_es": "¿Ganará el Mirassol FC el 2026-08-16?",
+   "narrativa": "La apuesta de $2,228.57 a que el Mirassol FC no gane el 2026-08-16 indica una clara percepción de sobrevaloración en el mercado para ese resultado, con un edge positivo derivado de la diferencia entre el consenso externo y la probabilidad implícita. El tamaño moderado del trade sugiere una gestión de riesgo prudente, aprovechando un desvío estadístico que podría corregirse a medida que se acerque la fecha. Riesgo: eventos imprevistos (lesiones, alineaciones) pueden alterar rápidamente las probabilidades."
   }
  ],
  "edges": [
@@ -316,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 37.38
+ "db_size_mb": 37.45
 }
