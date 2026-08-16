@@ -1,6 +1,6 @@
 {
- "ts": 1786915289,
- "stamp": "20260816_212129",
+ "ts": 1786915349,
+ "stamp": "20260816_212229",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -281,8 +281,8 @@
   {
    "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
-   "yes": 0.003,
-   "no": 0.997,
+   "yes": 0.0035,
+   "no": 0.9965,
    "volumen": 98429.944934,
    "spread": 0.0,
    "categoria": "Otros",
@@ -311,8 +311,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0365,
-   "no": 0.9635,
+   "yes": 0.0405,
+   "no": 0.9595,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -341,8 +341,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.365,
-   "no": 0.635,
+   "yes": 0.36,
+   "no": 0.64,
    "volumen": 9950.113178000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -376,5 +376,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 39.07
+ "db_size_mb": 39.08
 }
