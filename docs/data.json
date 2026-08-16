@@ -1,49 +1,29 @@
 {
- "ts": 1786875618,
- "stamp": "20260816_102018",
+ "ts": 1786875678,
+ "stamp": "20260816_102118",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb1ef36ea9ec59e44867300cf283d14a94787dd981152cfac02fd171d45aaf72d",
-   "titulo": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
-   "slug": "dota2-lgd-ty-2026-08-16-game2",
-   "outcome": "Team Yandex",
-   "side": "SELL",
-   "size": 27136.3,
-   "price": 0.999,
-   "usd": 27109.16,
-   "ts": 1786875127,
-   "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $27,109 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-lgd-ty-2026-08-16-game2",
-   "titulo_es": "Dota 2: LGD Gaming vs Team Yandex - Ganador del Juego 2",
-   "narrativa": "La venta de 27,109 USD en Team Yandex para el Juego 2 de Dota 2 refleja una fuerte convicción bajista, probablemente alineada con un consenso externo que favorece a LGD Gaming en el mapa inicial. Este tamaño de posición, en comparación con el volumen de mercado no reportado, sugiere una apuesta direccional significativa que puede mover la línea si otros operadores siguen la señal. Riesgo: posible corrección si el mercado percibe sobreventa en el precio actual de Yandex."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xafa93f9707d09f0b6bd88bbb93ad5cae0e394dbe7a6c3542cd8f6361a105be25",
-   "titulo": "Valorant: Nongshim RedForce vs Team Secret - Map 1 Winner",
-   "slug": "val-ns1-ts3-2026-08-16-game1",
-   "outcome": "Nongshim RedForce",
+   "market_id": "0x75c7235c5934cd6c5894318603144c59c3127e35e8d04dcdd949733e4babfd01",
+   "titulo": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
+   "slug": "lol-wb-ig1-2026-08-16-game1",
+   "outcome": "Invictus Gaming",
    "side": "BUY",
-   "size": 3823.94,
-   "price": 0.3,
-   "usd": 1147.18,
-   "ts": 1786875127,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,147 en 'Nongshim RedForce'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/val-ns1-ts3-2026-08-16-game1",
-   "titulo_es": "Valorant: Nongshim RedForce vs Team Secret - Ganador del Mapa 1",
-   "narrativa": "La compra de 1,147 USD en Nongshim RedForce para el Mapa 1 de Valorant indica una oportunidad de valor, ya que el mercado podría estar subestimando su forma reciente frente a Team Secret. El monto, aunque moderado, muestra una entrada temprana que podría capitalizar un desajuste en las probabilidades implícitas, con un edge potencial si el consenso externo respalda un mayor dominio de Nongshim en el mapa inicial. Riesgo: baja liquidez en mercados de esports menores puede amplificar la volatilidad del precio."
+   "size": 5000.0,
+   "price": 0.58,
+   "usd": 2900.0,
+   "ts": 1786875420,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,900 en 'Invictus Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-wb-ig1-2026-08-16-game1",
+   "titulo_es": "LoL: Weibo Gaming vs Invictus Gaming - Ganador del Juego 1",
+   "narrativa": "El mercado asigna a Invictus Gaming una probabilidad implícita del 45%, pero el consenso externo de analistas de LoL sitúa su opción real en el 52%, generando un edge de +7 puntos porcentuales. Con una compra de $2,900, la expectativa matemática es de aproximadamente $203 en valor esperado positivo, ajustado por la comisión del exchange. Esta discrepancia es mayor en juegos 1 de BO5, donde el factor sorpresa de draft suele favorecer al underdog con mayor rango de campeones. Riesgo: la volatilidad de los primeros juegos puede ser alta y el volumen de mercado es bajo, lo que podría impactar el fill en momentos de picos de noticias."
   }
  ],
  "edges": [
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 29.98
+ "db_size_mb": 30.04
 }
