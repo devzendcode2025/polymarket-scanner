@@ -1,6 +1,6 @@
 {
- "ts": 1786871536,
- "stamp": "20260816_091216",
+ "ts": 1786871596,
+ "stamp": "20260816_091316",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -102,7 +102,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Liverpool FC vs. Como 1907: 2nd Half O/U 2.5",
+     "_poly_question": "Newcastle United vs. Strasbourg Alsace: 1st Half O/U 0.5",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -376,5 +376,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 29.12
+ "db_size_mb": 29.13
 }
