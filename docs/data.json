@@ -1,31 +1,10 @@
 {
- "ts": 1786917629,
- "stamp": "20260816_220029",
+ "ts": 1786917989,
+ "stamp": "20260816_220629",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x892b1243bdab8d148ffa8dc06681a9fc02e69d5027b0ce3dc068ca6c38ab63f8",
-   "titulo": "Will Botafogo FR win on 2026-08-16?",
-   "slug": "bra-vit-bot-2026-08-16-bot",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2081.82,
-   "price": 0.6663301342,
-   "usd": 1387.18,
-   "ts": 1786917180,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,387 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bra-vit-bot-2026-08-16-bot",
-   "titulo_es": "¿Ganará Botafogo FR el 2026-08-16?",
-   "narrativa": "La compra de 'No' en Botafogo FR para el 16-ago-2026 se apoya en un monto de $1,387 USD que, aunque moderado, muestra convicción direccional contra el evento. Con un volumen de mercado no reportado, el edge se basa en la asimetría de probabilidad implícita frente al consenso externo, que típicamente favorece al favorito en ligas domésticas. Riesgo: liquidez desconocida, posible spread amplio en fechas lejanas."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -42,7 +21,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will ReLebanon win the most seats in the 2026 Lebanese parliamentary election?",
+     "_poly_question": "Will the name of the first hurricane in the Atlantic for the 2026 Hurricane Season be Hanna?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -111,8 +90,8 @@
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
-   "yes": 0.08,
-   "no": 0.92,
+   "yes": 0.085,
+   "no": 0.915,
    "volumen": 99899.368394,
    "spread": 0.0,
    "categoria": "Otros",
@@ -131,8 +110,8 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.0615,
-   "no": 0.9385,
+   "yes": 0.0585,
+   "no": 0.9415,
    "volumen": 99784.25748500001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -251,8 +230,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.033,
-   "no": 0.967,
+   "yes": 0.032,
+   "no": 0.968,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -316,5 +295,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 39.59
+ "db_size_mb": 39.7
 }
