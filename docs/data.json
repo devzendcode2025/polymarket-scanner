@@ -1,6 +1,6 @@
 {
- "ts": 1786851671,
- "stamp": "20260816_034111",
+ "ts": 1786851731,
+ "stamp": "20260816_034211",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -81,8 +81,8 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.0615,
-   "no": 0.9385,
+   "yes": 0.061,
+   "no": 0.939,
    "volumen": 99560.05190600002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -201,8 +201,8 @@
   {
    "question": "Spread: Real Salt Lake (-1.5)",
    "slug": "mls-rsl-min-2026-08-15-spread-home-1pt5",
-   "yes": 0.0055,
-   "no": 0.9945,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 9980.990910999997,
    "spread": 0.0,
    "categoria": "Otros",
