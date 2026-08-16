@@ -1,6 +1,6 @@
 {
- "ts": 1786894223,
- "stamp": "20260816_153023",
+ "ts": 1786894283,
+ "stamp": "20260816_153123",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -10,20 +10,40 @@
    "market_id": "0x1373e25b6a3a139a5a4fb35bd5329e40e862f2979a73cca51ba03173e6f6ca34",
    "titulo": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
    "slug": "wta-tjen-golubic-2026-08-16",
-   "outcome": "Viktorija Golubic",
-   "side": "SELL",
-   "size": 5959.95,
-   "price": 0.66,
-   "usd": 3933.57,
-   "ts": 1786893756,
+   "outcome": "Janice Tjen",
+   "side": "BUY",
+   "size": 21977.9,
+   "price": 0.25,
+   "usd": 5494.48,
+   "ts": 1786894047,
    "categoria": "Deportes",
-   "prob": 57,
-   "confianza": "media",
+   "prob": 60,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de venta por $3,934 en 'Viktorija Golubic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $5,494 en 'Janice Tjen'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/wta-tjen-golubic-2026-08-16",
    "titulo_es": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
-   "narrativa": "La venta de Viktorija Golubic frente a Janice Tjen en el Cincinnati Open presenta un edge de +8.2 puntos sobre el consenso externo, con un monto comprometido de $3,933.57 que refleja una posición clara de oportunidad. El mercado muestra un desvío del 12.4% respecto a la probabilidad implícita de la casa, lo que sugiere que el precio actual no incorpora plenamente la ventaja competitiva de Tjen en superficie rápida. Riesgo: volumen de mercado no reportado, posible iliquidez en momentos de alta volatilidad."
+   "narrativa": "Se detecta una compra relevante de $5,494 USD sobre Janice Tjen, lo que representa una apuesta direccional clara en un mercado de tenis de alto perfil. El monto concentrado sugiere convicción de un operador con información o modelo propio, y el edge implícito se amplía si el consenso externo subestima su forma física reciente. Riesgo: el volumen total del mercado no está disponible, lo que podría implicar liquidez limitada para salir en contra."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x1373e25b6a3a139a5a4fb35bd5329e40e862f2979a73cca51ba03173e6f6ca34",
+   "titulo": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
+   "slug": "wta-tjen-golubic-2026-08-16",
+   "outcome": "Viktorija Golubic",
+   "side": "BUY",
+   "size": 2036.0,
+   "price": 0.75,
+   "usd": 1527.0,
+   "ts": 1786894048,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,527 en 'Viktorija Golubic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-tjen-golubic-2026-08-16",
+   "titulo_es": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
+   "narrativa": "La compra de $1,527 USD sobre Viktorija Golubic contrasta con la operación mayoritaria en Tjen, lo que genera una oportunidad de arbitraje de opiniones dentro del mismo evento. Si el consenso externo favorece a Tjen por su juventud, este flujo contrario sugiere que Golubic ofrece valor a un precio descontado, con un edge potencial en puntos si su experiencia en pista dura pesa más. Riesgo: la falta de volumen de mercado puede amplificar el impacto de esta orden en el precio."
   }
  ],
  "edges": [
@@ -316,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 34.27
+ "db_size_mb": 34.33
 }
