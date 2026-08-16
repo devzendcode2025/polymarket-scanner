@@ -1,29 +1,29 @@
 {
- "ts": 1786874417,
- "stamp": "20260816_100017",
+ "ts": 1786874477,
+ "stamp": "20260816_100117",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x1cc0d1371dce0616ed110d5f886a0d28c652925cad5c741710ff86aa4f1956d4",
-   "titulo": "LoL: T1 vs Gen.G - Game 2 Winner",
-   "slug": "lol-t1-gen-2026-08-16-game2",
-   "outcome": "Gen.G",
-   "side": "BUY",
-   "size": 11310.48,
-   "price": 0.9890886859,
-   "usd": 11187.07,
-   "ts": 1786873923,
-   "categoria": "Deportes",
-   "prob": 68,
-   "confianza": "alta",
+   "market_id": "0x703113197f943ef25d3c2a40db87f56060bf36142902380c40cff6fe38ac78c6",
+   "titulo": "ITF W15 Tianjin 2 Women: Chengyiyi Yuan vs Thasaporn Naklo",
+   "slug": "itf-yuan-naklo-2026-08-16",
+   "outcome": "Chengyiyi Yuan",
+   "side": "SELL",
+   "size": 4955.49,
+   "price": 0.999,
+   "usd": 4950.53,
+   "ts": 1786874224,
+   "categoria": "Otros",
+   "prob": 59,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $11,187 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-gen-2026-08-16-game2",
-   "titulo_es": "LoL: T1 vs Gen.G - Ganador del Juego 2",
-   "narrativa": "La entrada de 11.2K USD en Gen.G para el Juego 2 refleja una convicción institucional fuerte, con un flujo que representa una apuesta direccional clara en un mercado de alta liquidez. El tamaño del trade, comparado con el volumen típico de estos enfrentamientos, sugiere que el comprador maneja información o modelo con ventaja estadística, justificando el riesgo asumido. Riesgo: posible overreaction a un solo juego en un BO5, con volatilidad alta entre mapas."
+   "razon": "Trade de venta por $4,951 en 'Chengyiyi Yuan'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/itf-yuan-naklo-2026-08-16",
+   "titulo_es": "ITF W15 Tianjin 2 Femenino: Chengyiyi Yuan vs Thasaporn Naklo",
+   "narrativa": "La venta de Chengyiyi Yuan, con un monto de 4,950 USD, sugiere que un operador de gran tamaño está cubriendo o tomando ganancias en un mercado de nicho como el ITF W15, donde el consenso externo podría estar sobrevalorando a la favorita. Este movimiento de salida, en un evento de baja liquidez, puede generar presión bajista adicional y abrir una ventana para posicionarse en contra del flujo. Riesgo: diferenciales amplios y poca profundidad de libro."
   },
   {
    "tipo": "ballena",
@@ -31,19 +31,19 @@
    "titulo": "LoL: T1 vs Gen.G - Game 2 Winner",
    "slug": "lol-t1-gen-2026-08-16-game2",
    "outcome": "Gen.G",
-   "side": "BUY",
-   "size": 1201.56,
-   "price": 0.9103329006,
-   "usd": 1093.82,
-   "ts": 1786873915,
+   "side": "SELL",
+   "size": 1951.21,
+   "price": 0.999,
+   "usd": 1949.26,
+   "ts": 1786874221,
    "categoria": "Deportes",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,094 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de venta por $1,949 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-t1-gen-2026-08-16-game2",
    "titulo_es": "LoL: T1 vs Gen.G - Ganador del Juego 2",
-   "narrativa": "La compra adicional de 1.1K USD en Gen.G, aunque menor, confirma la dirección del flujo mayor y sugiere que el mercado aún no ha ajustado completamente el precio tras la señal de la ballena. El monto, aunque pequeño, actúa como confirmación de la tesis, y el edge implícito se amplía si el consenso externo (probabilidad implícita) sigue por debajo del 55% para Gen.G. Riesgo: el tamaño reducido puede diluirse si el mercado se mueve en contra por noticias de draft o early game."
+   "narrativa": "La venta de Gen.G por 1,949 USD en el Juego 2 contra T1 indica una toma de beneficios tras un posible movimiento alcista previo, ya que el consenso externo suele favorecer a T1 en partidas individuales. Este flujo contrario al sentimiento popular, con un monto significativo para el volumen típico de este mercado, podría reflejar información interna o una corrección de expectativas. Riesgo: alta volatilidad en esports y resultados binarios impredecibles."
   }
  ],
  "edges": [
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 29.72
+ "db_size_mb": 29.77
 }
