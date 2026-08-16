@@ -1,6 +1,6 @@
 {
- "ts": 1786852871,
- "stamp": "20260816_040111",
+ "ts": 1786852931,
+ "stamp": "20260816_040211",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -271,8 +271,8 @@
   {
    "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
    "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
-   "yes": 0.255,
-   "no": 0.745,
+   "yes": 0.26,
+   "no": 0.74,
    "volumen": 9915.455292999999,
    "spread": 0.0,
    "categoria": "Otros",
