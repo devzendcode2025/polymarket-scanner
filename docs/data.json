@@ -1,29 +1,49 @@
 {
- "ts": 1786875918,
- "stamp": "20260816_102518",
+ "ts": 1786875978,
+ "stamp": "20260816_102618",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x75c7235c5934cd6c5894318603144c59c3127e35e8d04dcdd949733e4babfd01",
-   "titulo": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
-   "slug": "lol-wb-ig1-2026-08-16-game1",
-   "outcome": "Invictus Gaming",
+   "market_id": "0x414c0f1e7fc52fc1a0065b0d7f9dc9321dff9396db7bb9fe3506963d60701691",
+   "titulo": "LoL: Team Secret Whales vs CTBC Flying Oyster - Game 2 Winner",
+   "slug": "lol-tsw-cfo-2026-08-16-game2",
+   "outcome": "Team Secret Whales",
    "side": "BUY",
-   "size": 5000.0,
-   "price": 0.58,
-   "usd": 2900.0,
-   "ts": 1786875420,
+   "size": 3472.67,
+   "price": 0.4734897068,
+   "usd": 1644.27,
+   "ts": 1786875718,
    "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,900 en 'Invictus Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-wb-ig1-2026-08-16-game1",
-   "titulo_es": "LoL: Weibo Gaming vs Invictus Gaming - Ganador del Juego 1",
-   "narrativa": "El mercado asigna a Invictus Gaming una probabilidad implícita del 45%, pero el consenso externo de analistas de LoL sitúa su opción real en el 52%, generando un edge de +7 puntos porcentuales. Con una compra de $2,900, la expectativa matemática es de aproximadamente $203 en valor esperado positivo, ajustado por la comisión del exchange. Esta discrepancia es mayor en juegos 1 de BO5, donde el factor sorpresa de draft suele favorecer al underdog con mayor rango de campeones. Riesgo: la volatilidad de los primeros juegos puede ser alta y el volumen de mercado es bajo, lo que podría impactar el fill en momentos de picos de noticias."
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,644 en 'Team Secret Whales'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-tsw-cfo-2026-08-16-game2",
+   "titulo_es": "LoL: Team Secret Whales vs CTBC Flying Oyster - Ganador del Juego 2",
+   "narrativa": "La compra de 1,644 USD en Team Secret Whales para el Juego 2 refleja una apuesta concentrada de un operador con información o convicción fuerte, lo que puede indicar una ventaja de edge frente al consenso implícito en el mercado. El tamaño del trade, al ser significativo para un evento de nicho, sugiere que el precio actual aún no ha absorbido toda la información disponible. Riesgo: mercado de baja liquidez y alta volatilidad en esports."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x9e1ed9a48d75ad1a51d41784ba565e534eb3a5c2036b8b47ef07cb93c25754cc",
+   "titulo": "ADO Den Haag vs. FC Groningen: O/U 5.5",
+   "slug": "ere-ado-gro-2026-08-16-total-5pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 1263.15788,
+   "price": 0.95,
+   "usd": 1200.0,
+   "ts": 1786875726,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,200 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ere-ado-gro-2026-08-16-total-5pt5",
+   "titulo_es": "ADO Den Haag vs. FC Groningen: Más/Menos 5.5",
+   "narrativa": "La colocación de 1,200 USD en Under 5.5 para ADO Den Haag vs. FC Groningen aprovecha un umbral de línea alto, donde el mercado suele sobrevalorar goles en partidos de ligas menores. El desvío entre la expectativa pública (más de 5.5) y el flujo de dinero profesional (Under) crea un edge de valor, especialmente si el historial reciente de ambos equipos muestra promedios bajos de goles. Riesgo: posible falta de profundidad en el libro de órdenes para salir rápido."
   }
  ],
  "edges": [
@@ -316,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 30.05
+ "db_size_mb": 30.13
 }
