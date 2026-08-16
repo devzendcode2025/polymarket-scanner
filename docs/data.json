@@ -1,6 +1,6 @@
 {
- "ts": 1786854071,
- "stamp": "20260816_042111",
+ "ts": 1786854132,
+ "stamp": "20260816_042212",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -161,9 +161,9 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.061,
-   "no": 0.939,
-   "volumen": 99560.43190599998,
+   "yes": 0.0605,
+   "no": 0.9395,
+   "volumen": 99560.431906,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -183,7 +183,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799997,
+   "volumen": 99179.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -281,8 +281,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.0435,
+   "no": 0.9565,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -333,30 +333,30 @@
    "slug": "elon-musk-of-tweets-august-14-august-21-200-219",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 9933.581681,
+   "volumen": 9933.581681000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 200 y 219 tweets del 14 de agosto al 21 de agosto de 2026?"
   },
   {
-   "question": "USMCA extended in 2026?",
-   "slug": "usmca-extended-in-2026-20260701162719768",
-   "yes": 0.205,
-   "no": 0.795,
-   "volumen": 9923.915997999999,
+   "question": "Will the price of Bitcoin be above $64,000 on August 17?",
+   "slug": "bitcoin-above-64k-on-august-17-2026",
+   "yes": 0.135,
+   "no": 0.865,
+   "volumen": 9930.365149000001,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Se extenderá el T-MEC en 2026?"
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 17 de agosto?"
   },
   {
-   "question": "Will Google be the third-best AI lab at the end of August 2026?",
-   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.435,
-   "no": 0.565,
-   "volumen": 9917.453486999999,
+   "question": "Texas Rangers vs. Athletics: O/U 10.5",
+   "slug": "mlb-tex-oak-2026-08-15-total-10pt5",
+   "yes": 0.04,
+   "no": 0.96,
+   "volumen": 9925.644788000001,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
+   "categoria": "Otros",
+   "question_es": "Texas Rangers vs. Athletics: Más/Menos 10.5"
   }
  ],
  "historico": {
@@ -366,5 +366,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 25.18
+ "db_size_mb": 25.19
 }
