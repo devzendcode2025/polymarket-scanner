@@ -1,6 +1,6 @@
 {
- "ts": 1786859173,
- "stamp": "20260816_054613",
+ "ts": 1786859233,
+ "stamp": "20260816_054713",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -83,7 +83,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900004,
+   "volumen": 99798.31490900001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -103,7 +103,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799997,
+   "volumen": 99179.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -123,7 +123,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99104.444793,
+   "volumen": 99104.44479300003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -211,8 +211,8 @@
   {
    "question": "Will \"PAW Patrol: The Dino Movie\" Opening Weekend Box Office be between 20m and 25m?",
    "slug": "will-paw-patrol-the-dino-movie-opening-weekend-box-office-be-between-20m-and-25m-20260708164748955",
-   "yes": 0.849,
-   "no": 0.151,
+   "yes": 0.8435,
+   "no": 0.1565,
    "volumen": 9963.575504,
    "spread": 0.0,
    "categoria": "Entretenimiento",
@@ -273,7 +273,7 @@
    "slug": "highest-temperature-in-taipei-on-august-16-2026-34c",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9937.071306,
+   "volumen": 9937.071305999998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será la temperatura más alta en Taipéi de 34°C el 16 de agosto?"
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 26.3
+ "db_size_mb": 26.31
 }
