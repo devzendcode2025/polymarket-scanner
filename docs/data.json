@@ -1,6 +1,6 @@
 {
- "ts": 1786924291,
- "stamp": "20260816_235131",
+ "ts": 1786924651,
+ "stamp": "20260816_235731",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -21,7 +21,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will the Democratic Party candidate win the 2026 Tennessee Senate election?",
+     "_poly_question": "Will Ink launch a token by September 30, 2026?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -40,8 +40,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0485,
-   "no": 0.9515,
+   "yes": 0.05,
+   "no": 0.95,
    "volumen": 9822780.678669998,
    "spread": 0.0,
    "categoria": "Política",
@@ -200,8 +200,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.069,
+   "no": 0.931,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -270,8 +270,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.04,
-   "no": 0.96,
+   "yes": 0.0315,
+   "no": 0.9685,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -289,11 +289,11 @@
   }
  ],
  "historico": {
-  "ts": 1786922855,
+  "ts": 1786924656,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 41.09
+ "db_size_mb": 41.15
 }
