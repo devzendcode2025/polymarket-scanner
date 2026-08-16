@@ -1,6 +1,6 @@
 {
- "ts": 1786902085,
- "stamp": "20260816_174125",
+ "ts": 1786902145,
+ "stamp": "20260816_174225",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -131,8 +131,8 @@
   {
    "question": "RCD Espanyol de Barcelona vs. Levante UD: O/U 2.5",
    "slug": "lal-esp-lev-2026-08-16-total-2pt5",
-   "yes": 0.515,
-   "no": 0.485,
+   "yes": 0.495,
+   "no": 0.505,
    "volumen": 99984.968522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -271,8 +271,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0365,
-   "no": 0.9635,
+   "yes": 0.031,
+   "no": 0.969,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -281,8 +281,8 @@
   {
    "question": "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 45% or higher?",
    "slug": "will-the-highest-score-achieved-by-a-spacexai-grok-model-on-humanitys-last-exam-in-2026-be-45-or-higher-20260723191456650",
-   "yes": 0.725,
-   "no": 0.275,
+   "yes": 0.709,
+   "no": 0.291,
    "volumen": 9967.655697,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -311,8 +311,8 @@
   {
    "question": "Spread: Toronto Blue Jays (-2.5)",
    "slug": "mlb-nyy-tor-2026-08-16-spread-home-2pt5",
-   "yes": 0.235,
-   "no": 0.765,
+   "yes": 0.245,
+   "no": 0.755,
    "volumen": 9955.848078999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -341,8 +341,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.365,
-   "no": 0.635,
+   "yes": 0.38,
+   "no": 0.62,
    "volumen": 9950.113178,
    "spread": 0.0,
    "categoria": "Tecnología",
