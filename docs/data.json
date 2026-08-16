@@ -1,71 +1,10 @@
 {
- "ts": 1786839307,
- "stamp": "20260816_001507",
+ "ts": 1786839667,
+ "stamp": "20260816_002107",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x8c3422009b10f62452b4435d0d40d66c814da41c4e132a5c1750146324abaf2f",
-   "titulo": "Fight to Go the Distance?",
-   "slug": "ufc-dus4-man14-2026-08-15-go-the-distance",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 3550.0,
-   "price": 0.7371830986,
-   "usd": 2617.0,
-   "ts": 1786838748,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,617 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ufc-dus4-man14-2026-08-15-go-the-distance",
-   "titulo_es": "¿Pelea para llegar a la distancia?",
-   "narrativa": "La compra de 2,617 USD en el 'No' sugiere que un operador grande descuenta que la pelea no llegará a la distancia, probablemente por estilos de alto riesgo o historial de finalización temprana. Aunque no hay volumen de mercado reportado, el tamaño de la apuesta en un mercado binario indica una convicción clara, con un edge potencial si el consenso externo (peleadores con alto poder de nocaut) respalda la tesis. Riesgo: posible iliquidez si el mercado es poco profundo, lo que puede afectar la ejecución de salida."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2d17a7368482c6c260162f9dc06a0214a545d502b78180a180ae116f92d6374c",
-   "titulo": "Cincinnati Open: Jiri Lehecka vs Matteo Berrettini",
-   "slug": "atp-lehecka-berrett-2026-08-15",
-   "outcome": "Jiri Lehecka",
-   "side": "BUY",
-   "size": 2737.698112,
-   "price": 0.5299999999,
-   "usd": 1450.98,
-   "ts": 1786838749,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,451 en 'Jiri Lehecka'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-lehecka-berrett-2026-08-15",
-   "titulo_es": "Abierto de Cincinnati: Jiri Lehecka vs Matteo Berrettini",
-   "narrativa": "La posición de 1,450.98 USD a favor de Jiri Lehecka refleja una apuesta por su forma reciente y superficie rápida, donde su servicio y agresividad pueden superar a Berrettini, quien viene de lesiones. Si el consenso externo (ranking, rendimiento en pista dura) favorece al checo, el edge está en que el mercado no ha ajustado completamente el precio tras las últimas actuaciones. Riesgo: Berrettini tiene un alto techo cuando está sano, y la varianza en tie-breaks puede reducir el margen."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x8c3422009b10f62452b4435d0d40d66c814da41c4e132a5c1750146324abaf2f",
-   "titulo": "Fight to Go the Distance?",
-   "slug": "ufc-dus4-man14-2026-08-15-go-the-distance",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 4406.13,
-   "price": 0.25,
-   "usd": 1101.53,
-   "ts": 1786838748,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,102 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ufc-dus4-man14-2026-08-15-go-the-distance",
-   "titulo_es": "¿Pelea para llegar a la distancia?",
-   "narrativa": "La compra de 1,101.53 USD en el 'Yes' complementa la señal opuesta del primer trade, sugiriendo que el operador busca cobertura o arbitraje entre ambos resultados, capturando el spread si el mercado está desalineado. Con un monto menor, el posicionamiento en el 'Yes' indica que el precio implícito aún no refleja la probabilidad real de que la pelea llegue a la distancia, basado en el historial de resistencia de los peleadores. Riesgo: si el evento es binario y el mercado es eficiente, el beneficio neto puede ser marginal tras comisiones."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -81,9 +20,9 @@
   {
    "question": "Israel closes its airspace by August 15?",
    "slug": "israel-closes-its-airspace-by-august-15",
-   "yes": 0.002,
-   "no": 0.998,
-   "volumen": 991241.2630819997,
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 991241.2630819994,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
@@ -103,7 +42,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986890.4113549999,
+   "volumen": 986890.411355,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -117,26 +56,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
-   "question": "Will Elon Musk post 160-179 tweets from August 11 to August 18, 2026?",
-   "slug": "elon-musk-of-tweets-august-11-august-18-160-179",
-   "yes": 0.295,
-   "no": 0.705,
-   "volumen": 99784.350832,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 160 y 179 tuits del 11 de agosto al 18 de agosto de 2026?"
-  },
-  {
-   "question": "LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
-   "slug": "lol-t1-gen-2026-08-16",
-   "yes": 0.405,
-   "no": 0.595,
-   "volumen": 99739.83969099997,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "LoL: T1 vs Gen.G (BO3) - Grupo Leyenda Ronda 3-4 de la LCK"
   },
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
@@ -153,7 +72,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.061,
    "no": 0.939,
-   "volumen": 99560.05190599998,
+   "volumen": 99560.05190599996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -193,7 +112,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.34,
    "no": 0.66,
-   "volumen": 99104.444793,
+   "volumen": 99104.44479299999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -213,7 +132,7 @@
    "slug": "will-ethereum-dip-to-1600-in-august-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 98935.83475800001,
+   "volumen": 98935.834758,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Ethereum a $1,600 en agosto?"
@@ -229,6 +148,16 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
+   "question": "Will Inter Miami CF win on 2026-08-15?",
+   "slug": "mls-nas-mia-2026-08-15-mia",
+   "yes": 0.365,
+   "no": 0.635,
+   "volumen": 98757.19288,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará el Inter Miami CF el 2026-08-15?"
+  },
+  {
    "question": "US charges Hormuz fees by December 31, 2026?",
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
@@ -239,16 +168,6 @@
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Elisabeth Thand Ringqvist be the next Prime Minister of Sweden?",
-   "slug": "will-elisabeth-thand-ringqvist-be-the-next-prime-minister-of-sweden",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 98472.938204,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Será Elisabeth Thand Ringqvist la próxima Primera Ministra de Suecia?"
-  },
-  {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.008,
@@ -257,6 +176,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
+  },
+  {
+   "question": "Will the highest temperature in New York City be between 84-85°F on August 15?",
+   "slug": "highest-temperature-in-nyc-on-august-15-2026-84-85f",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9997.84858,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 84-85°F el 15 de agosto?"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -281,8 +210,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.034,
-   "no": 0.966,
+   "yes": 0.0425,
+   "no": 0.9575,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -313,10 +242,20 @@
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.049,
    "no": 0.951,
-   "volumen": 9947.125082999999,
+   "volumen": 9947.125083,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
+  },
+  {
+   "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
+   "slug": "will-xagusd-dip-to-54-in-august-2026",
+   "yes": 0.085,
+   "no": 0.915,
+   "volumen": 9946.068062000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
  "historico": {
@@ -326,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 21.77
+ "db_size_mb": 21.89
 }
