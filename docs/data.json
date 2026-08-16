@@ -1,51 +1,10 @@
 {
- "ts": 1786923931,
- "stamp": "20260816_234531",
+ "ts": 1786924291,
+ "stamp": "20260816_235131",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xd0d5047962cda3915425e89c2786e599fcc1b14af67632d5c2b76d4e967251d0",
-   "titulo": "Cincinnati Open: Coco Gauff vs Liudmila Samsonova",
-   "slug": "wta-gauff-samsono-2026-08-16",
-   "outcome": "Coco Gauff",
-   "side": "SELL",
-   "size": 3200.0,
-   "price": 0.4522381875,
-   "usd": 1447.16,
-   "ts": 1786923486,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,447 en 'Coco Gauff'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-gauff-samsono-2026-08-16",
-   "titulo_es": "Cincinnati Open: Coco Gauff vs Liudmila Samsonova",
-   "narrativa": "La venta de Coco Gauff refleja una corrección del mercado tras el sólido desempeño de Samsonova en cancha rápida, con un monto de $1,447 que presiona el precio a la baja. El consenso externo aún favorece a Gauff, pero el edge de esta operación se basa en la sobrevaloración de su probabilidad implícita, ofreciendo un margen de ~8 puntos porcentuales frente a modelos de superficie. Riesgo: volatilidad por momentum de la jugadora en sets cortos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x87f90729531cace86fb53e405c3757dda72a63d18c4699ca5604d14a58c8c3d1",
-   "titulo": "Seattle Mariners vs. Houston Astros",
-   "slug": "mlb-sea-hou-2026-08-16",
-   "outcome": "Houston Astros",
-   "side": "SELL",
-   "size": 3571.42,
-   "price": 0.38,
-   "usd": 1357.14,
-   "ts": 1786923487,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,357 en 'Houston Astros'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-sea-hou-2026-08-16",
-   "titulo_es": "Seattle Mariners vs. Houston Astros",
-   "narrativa": "La venta de Houston Astros aprovecha la ventaja local de Seattle y la reciente inconsistencia ofensiva de Houston, con un trade de $1,357 que busca capturar un desvío de ~6 puntos en la probabilidad implícita. El mercado externo da un 52% de opciones a los Marineros, mientras que el precio actual sugiere un 58% para los Astros, generando un edge positivo de 6 puntos. Riesgo: posible baja liquidez en mercados de MLB nocturnos."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +21,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will Ink launch a token by September 30, 2026?",
+     "_poly_question": "Will the Democratic Party candidate win the 2026 Tennessee Senate election?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -83,7 +42,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0485,
    "no": 0.9515,
-   "volumen": 9818631.097746,
+   "volumen": 9822780.678669998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -103,7 +62,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988676.4248569998,
+   "volumen": 988676.424857,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -113,7 +72,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987527.9902610002,
+   "volumen": 987527.9902609999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -129,11 +88,21 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "Will Jay Collins be the Republican nominee for Florida Governor?",
+   "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 981482.6549379999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
+  },
+  {
    "question": "Will the Republicans win the Iowa Senate race in 2026?",
    "slug": "will-the-republicans-win-the-iowa-senate-race-in-2026",
    "yes": 0.575,
    "no": 0.425,
-   "volumen": 99927.92006500003,
+   "volumen": 99927.92006499998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los Republicanos la carrera al Senado de Iowa en 2026?"
@@ -143,7 +112,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99899.368394,
+   "volumen": 99899.36839400002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -153,7 +122,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900001,
+   "volumen": 99798.31490900002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -163,10 +132,20 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.077,
    "no": 0.923,
-   "volumen": 99781.706217,
+   "volumen": 99781.70621700001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
+  },
+  {
+   "question": "Will Elon Musk post 240-259 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-240-259",
+   "yes": 0.0025,
+   "no": 0.9975,
+   "volumen": 99497.14038599998,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 240 y 259 tuits del 11 al 18 de agosto de 2026?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -183,20 +162,20 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.032,
    "no": 0.968,
-   "volumen": 99181.48181799997,
+   "volumen": 99181.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
-   "question": "Will Elon Musk post 240-259 tweets from August 11 to August 18, 2026?",
-   "slug": "elon-musk-of-tweets-august-11-august-18-240-259",
-   "yes": 0.0025,
-   "no": 0.9975,
-   "volumen": 99161.14038599997,
+   "question": "Will Elon Musk post 180-199 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-180-199",
+   "yes": 0.305,
+   "no": 0.695,
+   "volumen": 99135.69555599995,
    "spread": 0.0,
    "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 240 y 259 tuits del 11 al 18 de agosto de 2026?"
+   "question_es": "¿Publicará Elon Musk entre 180 y 199 tuits del 11 de agosto al 18 de agosto de 2026?"
   },
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
@@ -213,7 +192,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.583419,
+   "volumen": 99017.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -221,8 +200,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.068,
-   "no": 0.932,
+   "yes": 0.0685,
+   "no": 0.9315,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -239,16 +218,6 @@
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Elon Musk post 180-199 tweets from August 11 to August 18, 2026?",
-   "slug": "elon-musk-of-tweets-august-11-august-18-180-199",
-   "yes": 0.305,
-   "no": 0.695,
-   "volumen": 98621.73394499953,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 180 y 199 tuits del 11 de agosto al 18 de agosto de 2026?"
-  },
-  {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0075,
@@ -263,10 +232,20 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 98429.944934,
+   "volumen": 98429.94493400003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
+  },
+  {
+   "question": "Will the Democrats win the Ohio Senate race in 2026?",
+   "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
+   "yes": 0.525,
+   "no": 0.475,
+   "volumen": 98118.66974200001,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -277,26 +256,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
-  },
-  {
-   "question": "Exact Score: Austin FC 1 - 2 FC Dallas?",
-   "slug": "mls-aus-dal-2026-08-16-exact-score-1-2",
-   "yes": 0.095,
-   "no": 0.905,
-   "volumen": 9995.264161000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Marcador exacto: Austin FC 1 - 2 FC Dallas?"
-  },
-  {
-   "question": "Counter-Strike: Vitality Academy vs  Phantom Academy (BO3) - European Pro League Regular Playoffs",
-   "slug": "cs2-vita-phanto-2026-08-17",
-   "yes": 0.49,
-   "no": 0.51,
-   "volumen": 9990.45072,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: Vitality Academy vs Phantom Academy (BO3) - Playoffs Regulares de la Liga Pro Europea"
   },
   {
    "question": "Will Julian Alvarez join Real Madrid?",
@@ -311,8 +270,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0425,
-   "no": 0.9575,
+   "yes": 0.04,
+   "no": 0.96,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -336,5 +295,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 40.95
+ "db_size_mb": 41.09
 }
