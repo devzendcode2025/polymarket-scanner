@@ -1,6 +1,6 @@
 {
- "ts": 1786884680,
- "stamp": "20260816_125120",
+ "ts": 1786884740,
+ "stamp": "20260816_125220",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -139,6 +139,16 @@
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
+   "question": "Will MicroStrategy be margin called in 2026?",
+   "slug": "will-microstrategy-be-margin-called-in-2026",
+   "yes": 0.0335,
+   "no": 0.9665,
+   "volumen": 99179.48181799999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
+  },
+  {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
@@ -161,8 +171,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -221,8 +231,8 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.5,
-   "no": 0.5,
+   "yes": 0.505,
+   "no": 0.495,
    "volumen": 9995.100677000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -231,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.033,
-   "no": 0.967,
+   "yes": 0.0325,
+   "no": 0.9675,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -291,22 +301,12 @@
   {
    "question": "Will the chopsticks catch SpaceX Starship Flight Test 14 Starship?",
    "slug": "will-the-chopsticks-catch-spacex-starship-flight-test-14-starship-563",
-   "yes": 0.2,
-   "no": 0.805,
+   "yes": 0.22,
+   "no": 0.78,
    "volumen": 9942.723844999999,
-   "spread": 0.005,
+   "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Los palillos atraparán el SpaceX Starship Flight Test 14 Starship?"
-  },
-  {
-   "question": "Will Julian Alvarez join Real Madrid?",
-   "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
-   "yes": 0.0045,
-   "no": 0.9955,
-   "volumen": 9937.221454999999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Se unirá Julián Álvarez al Real Madrid?"
   }
  ],
  "historico": {
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 32.14
+ "db_size_mb": 32.15
 }
