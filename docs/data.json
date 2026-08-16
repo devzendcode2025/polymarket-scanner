@@ -1,29 +1,29 @@
 {
- "ts": 1786860313,
- "stamp": "20260816_060513",
+ "ts": 1786860373,
+ "stamp": "20260816_060613",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xcfd7b6c5cb6ac707696fc97f7cd4db5427343b3ee868bc8039533e20305db5d6",
-   "titulo": "Dota 2: Team Spirit vs Team Resilience - Game 2 Winner",
-   "slug": "dota2-ts8-tr7-2026-08-16-game2",
-   "outcome": "Team Resilience",
+   "market_id": "0xa0ebf629ede719e165eb8f1383a979640f70b0fbbc0996ae2fac178e207787c0",
+   "titulo": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
+   "slug": "atp-zverev-norrie-2026-08-15",
+   "outcome": "Alexander Zverev",
    "side": "BUY",
-   "size": 3768.127915,
-   "price": 0.464421601,
-   "usd": 1750.0,
-   "ts": 1786859784,
+   "size": 1295.76,
+   "price": 0.8921636723,
+   "usd": 1156.03,
+   "ts": 1786860085,
    "categoria": "Deportes",
-   "prob": 54,
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,750 en 'Team Resilience'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16-game2",
-   "titulo_es": "Dota 2: Team Spirit vs Team Resilience - Ganador del Juego 2",
-   "narrativa": "La compra en Team Resilience para el Juego 2 presenta un edge de +6.2 puntos frente al consenso externo del 38%, con un monto de $1,750 que representa el 14% del volumen diario del mercado, lo que sugiere una sobre-reaccion del precio a favor del rival. El desvio estandar de los ultimos 10 juegos muestra una volatilidad del 12%, pero la tendencia de Resilience en mapas de eliminacion directa es del 71% en los ultimos 30 dias, reforzando la oportunidad. Riesgo: liquidez moderada en horas pico, con spreads que pueden ampliarse un 3% si el juego se alarga."
+   "razon": "Trade de compra por $1,156 en 'Alexander Zverev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-zverev-norrie-2026-08-15",
+   "titulo_es": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
+   "narrativa": "El mercado descuenta una victoria de Zverev con un volumen de 1156 USD en la compra, lo que refleja un flujo de capital concentrado en el favorito. Dado que el consenso externo sitúa a Zverev como claro superior en superficie rápida, la entrada aprovecha la ventaja de precio si el mercado aún no ha ajustado completamente la probabilidad implícita. Riesgo: posible falta de liquidez en horas previas al partido, lo que puede ampliar el spread."
   }
  ],
  "edges": [],
@@ -43,7 +43,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.019,
    "no": 0.981,
-   "volumen": 988494.6819189999,
+   "volumen": 988494.6819189998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -53,7 +53,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986901.3313549999,
+   "volumen": 986901.331355,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -133,7 +133,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 98987.583419,
+   "volumen": 98987.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -153,7 +153,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98824.49276299997,
+   "volumen": 98824.49276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 26.51
+ "db_size_mb": 26.58
 }
