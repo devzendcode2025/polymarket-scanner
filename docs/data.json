@@ -1,49 +1,29 @@
 {
- "ts": 1786861514,
- "stamp": "20260816_062514",
+ "ts": 1786861574,
+ "stamp": "20260816_062614",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xcfd7b6c5cb6ac707696fc97f7cd4db5427343b3ee868bc8039533e20305db5d6",
-   "titulo": "Dota 2: Team Spirit vs Team Resilience - Game 2 Winner",
-   "slug": "dota2-ts8-tr7-2026-08-16-game2",
-   "outcome": "Team Resilience",
-   "side": "SELL",
-   "size": 4000.0,
-   "price": 0.574718975,
-   "usd": 2298.88,
-   "ts": 1786860973,
-   "categoria": "Deportes",
-   "prob": 55,
+   "market_id": "0x3640b1eee9454fd27dac2ad95834d03ef623859b9f8b358148d7e840b3808351",
+   "titulo": "LoL: Movistar KOI vs Natus Vincere (BO3) - LEC Regular Season",
+   "slug": "lol-mkoi-navi-2026-08-16",
+   "outcome": "Movistar KOI",
+   "side": "BUY",
+   "size": 6015.84,
+   "price": 0.52,
+   "usd": 3128.24,
+   "ts": 1786861269,
+   "categoria": "Otros",
+   "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,299 en 'Team Resilience'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16-game2",
-   "titulo_es": "Dota 2: Team Spirit vs Team Resilience - Ganador del Juego 2",
-   "narrativa": "La venta de 2,298.88 USD en Team Resilience refleja una fuerte convicción bajista, con un flujo que supera el 15% del monto de la compra registrada, sugiriendo que el consenso externo se inclina hacia Team Spirit. Este desequilibrio de capital, sin volumen de mercado reportado, amplifica el impacto direccional de la orden, creando una oportunidad de arbitraje de momentum si el precio aún no ha ajustado completamente la probabilidad implícita. Riesgo: posible falta de liquidez para ejecutar la salida en el momento óptimo."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xcfd7b6c5cb6ac707696fc97f7cd4db5427343b3ee868bc8039533e20305db5d6",
-   "titulo": "Dota 2: Team Spirit vs Team Resilience - Game 2 Winner",
-   "slug": "dota2-ts8-tr7-2026-08-16-game2",
-   "outcome": "Team Resilience",
-   "side": "BUY",
-   "size": 2552.994413,
-   "price": 0.756899423,
-   "usd": 1932.36,
-   "ts": 1786860978,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,932 en 'Team Resilience'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16-game2",
-   "titulo_es": "Dota 2: Team Spirit vs Team Resilience - Ganador del Juego 2",
-   "narrativa": "La compra de 1,932.36 USD en Team Resilience, aunque menor a la venta, indica acumulación activa en un escenario de bajo volumen, lo que puede anticipar un repunte si el mercado externo valora el potencial de la underdog. El edge relativo se calcula en la diferencia entre el flujo comprador y vendedor, pero la ausencia de volumen total limita la confirmación de tendencia, por lo que la oportunidad depende de un catalizador inmediato en el juego. Riesgo: alta volatilidad intrapartido y posible manipulación de precios por órdenes de gran tamaño."
+   "razon": "Trade de compra por $3,128 en 'Movistar KOI'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-mkoi-navi-2026-08-16",
+   "titulo_es": "LoL: Movistar KOI vs Natus Vincere (BO3) - Temporada Regular de la LEC",
+   "narrativa": "El mercado muestra un desequilibrio significativo a favor de Movistar KOI, con una apuesta de $3,128 USD que representa un movimiento direccional claro frente al volumen disponible. Este flujo de capital sugiere que los operadores institucionales están posicionándose con convicción en un partido BO3 donde el margen de error es reducido. El edge se materializa en la diferencia entre el precio implícito del mercado y la probabilidad real estimada por el consenso externo, que aún no ha ajustado completamente la ventaja competitiva de KOI en el meta actual. Riesgo: volatilidad intrapartido por posibles sorpresas tácticas de Natus Vincere en mapas iniciales."
   }
  ],
  "edges": [],
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 26.79
+ "db_size_mb": 26.85
 }
