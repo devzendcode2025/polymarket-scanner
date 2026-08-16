@@ -1,6 +1,6 @@
 {
- "ts": 1786881979,
- "stamp": "20260816_120619",
+ "ts": 1786882039,
+ "stamp": "20260816_120719",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -103,7 +103,7 @@
    "slug": "lol-wb-ig1-2026-08-16-game1",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 993699.2853869995,
+   "volumen": 998483.0353869996,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: Weibo Gaming vs Invictus Gaming - Ganador del Juego 1"
@@ -113,7 +113,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920003,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -123,7 +123,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988542.5749689997,
+   "volumen": 988542.574969,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -139,21 +139,11 @@
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
-   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
-   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 983741.491909,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
    "question": "NATO x Russia military clash by October 31, 2026?",
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99899.368394,
+   "volumen": 99899.36839400003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -163,7 +153,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900005,
+   "volumen": 99798.31490900004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -173,26 +163,36 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.0615,
    "no": 0.9385,
-   "volumen": 99646.196518,
+   "volumen": 99646.19651800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
   },
   {
-   "question": "LoL: Movistar KOI vs Natus Vincere (BO3) - LEC Regular Season",
-   "slug": "lol-mkoi-navi-2026-08-16",
-   "yes": 0.555,
-   "no": 0.445,
-   "volumen": 99295.74843300004,
+   "question": "LoL: Team Secret Whales vs CTBC Flying Oyster (BO5) - LCP Group Stage",
+   "slug": "lol-tsw-cfo-2026-08-16",
+   "yes": 0.705,
+   "no": 0.295,
+   "volumen": 99572.182542,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "LoL: Movistar KOI vs Natus Vincere (BO3) - Temporada Regular de la LEC"
+   "question_es": "LoL: Team Secret Whales vs CTBC Flying Oyster (BO5) - Fase de grupos LCP"
+  },
+  {
+   "question": "Foreign intervention in Gaza by September 30?",
+   "slug": "foreign-intervention-in-gaza-by-september-30",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 99414.56774699998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Intervención extranjera en Gaza antes del 30 de septiembre?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99202.056612,
    "spread": 0.0,
    "categoria": "Otros",
@@ -203,7 +203,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799996,
+   "volumen": 99179.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -211,9 +211,9 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.3,
-   "no": 0.7,
-   "volumen": 99104.44479299996,
+   "yes": 0.31,
+   "no": 0.69,
+   "volumen": 99104.44479299999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -223,7 +223,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99017.583419,
+   "volumen": 99017.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -283,7 +283,7 @@
    "slug": "tom-holland-as-spider-man",
    "yes": 0.495,
    "no": 0.505,
-   "volumen": 9975.000677000002,
+   "volumen": 9975.000677,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Tom Holland como Spider-Man?"
@@ -291,8 +291,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.03,
-   "no": 0.97,
+   "yes": 0.0435,
+   "no": 0.9565,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -356,5 +356,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 31.53
+ "db_size_mb": 31.54
 }
