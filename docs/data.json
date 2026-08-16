@@ -1,6 +1,6 @@
 {
- "ts": 1786901785,
- "stamp": "20260816_173625",
+ "ts": 1786901845,
+ "stamp": "20260816_173725",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -228,7 +228,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988553.6549690001,
+   "volumen": 988553.6549689998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -238,17 +238,27 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987424.5302610003,
+   "volumen": 987424.5302609999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
+  },
+  {
+   "question": "RCD Espanyol de Barcelona vs. Levante UD: O/U 2.5",
+   "slug": "lal-esp-lev-2026-08-16-total-2pt5",
+   "yes": 0.515,
+   "no": 0.485,
+   "volumen": 99984.968522,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "RCD Espanyol de Barcelona vs. Levante UD: Más/Menos 2.5"
   },
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99899.368394,
+   "volumen": 99899.36839400002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -258,7 +268,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900001,
+   "volumen": 99798.31490900004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -268,7 +278,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.0615,
    "no": 0.9385,
-   "volumen": 99784.25748500001,
+   "volumen": 99784.257485,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -308,7 +318,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.345,
    "no": 0.655,
-   "volumen": 99104.444793,
+   "volumen": 99104.44479300002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -318,7 +328,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.58341899999,
+   "volumen": 99017.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -326,8 +336,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0675,
-   "no": 0.9325,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -348,20 +358,10 @@
    "slug": "will-everton-win-the-2026-27-english-premier-league-epl-championship-20260701200428757",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98565.53900000002,
+   "volumen": 98565.539,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Everton el Campeonato de la Premier League inglesa (EPL) 2026-27?"
-  },
-  {
-   "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
-   "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.008,
-   "no": 0.992,
-   "volumen": 98443.77697800001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -378,7 +378,7 @@
    "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 9977.221455,
+   "volumen": 9977.221455000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Se unirá Julián Álvarez al Real Madrid?"
@@ -386,8 +386,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.0365,
+   "no": 0.9635,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -414,16 +414,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will Colonel Busnello win the Governor of Rio de Janeiro election?",
-   "slug": "will-candidate-d-win-the-governor-of-rio-de-janeiro-election-20260608202950333",
-   "yes": 0.004,
-   "no": 0.996,
-   "volumen": 9958.600267,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Coronel Busnello la elección para Gobernador de Río de Janeiro?"
-  },
-  {
    "question": "Will Debreceni VSC win on 2026-08-16?",
    "slug": "hun-deb-gyo-2026-08-16-deb",
    "yes": 0.0005,
@@ -438,17 +428,27 @@
    "slug": "mlb-nyy-tor-2026-08-16-spread-home-2pt5",
    "yes": 0.235,
    "no": 0.765,
-   "volumen": 9955.848079,
+   "volumen": 9955.848078999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Margen: Toronto Blue Jays (-2.5)"
+  },
+  {
+   "question": "Will Joe Strada be the FL-11 Republican nominee?",
+   "slug": "will-joe-strada-be-the-fl-11-republican-nominee-20260723173936220",
+   "yes": 0.765,
+   "no": 0.235,
+   "volumen": 9954.543102,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Joe Strada el nominado republicano por FL-11?"
   },
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
    "yes": 0.796,
    "no": 0.204,
-   "volumen": 9951.191957000001,
+   "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
@@ -456,8 +456,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.37,
-   "no": 0.63,
+   "yes": 0.365,
+   "no": 0.635,
    "volumen": 9950.113178,
    "spread": 0.0,
    "categoria": "Tecnología",
