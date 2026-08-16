@@ -1,6 +1,6 @@
 {
- "ts": 1786880539,
- "stamp": "20260816_114219",
+ "ts": 1786880599,
+ "stamp": "20260816_114319",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -62,7 +62,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will James Harden play for the Portland Trail Blazers in 2026-27?",
+     "_poly_question": "Will China GDP growth in Q3 2026 be between 4.3% and 4.6%?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
