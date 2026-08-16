@@ -1,6 +1,6 @@
 {
- "ts": 1786872377,
- "stamp": "20260816_092617",
+ "ts": 1786872437,
+ "stamp": "20260816_092717",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -131,8 +131,8 @@
   {
    "question": "Will Ethereum reach $2,000 August 10-16?",
    "slug": "will-ethereum-reach-2000-august-10-16-2026",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.0045,
+   "no": 0.9955,
    "volumen": 99665.33387099998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -151,8 +151,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99202.056612,
    "spread": 0.0,
    "categoria": "Otros",
@@ -171,8 +171,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.315,
-   "no": 0.685,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 99104.44479300002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -251,8 +251,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.03,
-   "no": 0.97,
+   "yes": 0.0425,
+   "no": 0.9575,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -271,8 +271,8 @@
   {
    "question": "Will the highest temperature in Paris be 31°C on August 16?",
    "slug": "highest-temperature-in-paris-on-august-16-2026-31c",
-   "yes": 0.8,
-   "no": 0.2,
+   "yes": 0.755,
+   "no": 0.245,
    "volumen": 9956.793109999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 29.31
+ "db_size_mb": 29.32
 }
