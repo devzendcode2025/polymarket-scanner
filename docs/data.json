@@ -1,6 +1,6 @@
 {
- "ts": 1786900284,
- "stamp": "20260816_171124",
+ "ts": 1786900345,
+ "stamp": "20260816_171225",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -151,8 +151,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.0775,
-   "no": 0.9225,
+   "yes": 0.077,
+   "no": 0.923,
    "volumen": 99781.70621700001,
    "spread": 0.0,
    "categoria": "Política",
@@ -261,8 +261,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.039,
-   "no": 0.961,
+   "yes": 0.0335,
+   "no": 0.9665,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -291,8 +291,8 @@
   {
    "question": "Will Colonel Busnello win the Governor of Rio de Janeiro election?",
    "slug": "will-candidate-d-win-the-governor-of-rio-de-janeiro-election-20260608202950333",
-   "yes": 0.004,
-   "no": 0.996,
+   "yes": 0.0035,
+   "no": 0.9965,
    "volumen": 9958.600267,
    "spread": 0.0,
    "categoria": "Política",
