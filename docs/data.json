@@ -1,89 +1,29 @@
 {
- "ts": 1786842008,
- "stamp": "20260816_010008",
+ "ts": 1786842368,
+ "stamp": "20260816_010608",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x12e54660d2271cde9a2cca5173eb1971ff590c3b569fd181ae420ee9ab46e4f1",
-   "titulo": "Baltimore Orioles vs. Tampa Bay Rays",
-   "slug": "mlb-bal-tb-2026-08-15",
-   "outcome": "Baltimore Orioles",
+   "market_id": "0x0749d3c3e2adf3b8e8b28ed13b445f39b2e1ef2d15fd219aa0733abccd7afd9e",
+   "titulo": "Will CF Monterrey win on 2026-08-15?",
+   "slug": "mex-mon1-jua-2026-08-15-mon1",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 12949.342104,
-   "price": 0.38,
-   "usd": 4920.75,
-   "ts": 1786841463,
+   "size": 2045.0,
+   "price": 0.65,
+   "usd": 1329.25,
+   "ts": 1786842061,
    "categoria": "Otros",
-   "prob": 59,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,921 en 'Baltimore Orioles'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-bal-tb-2026-08-15",
-   "titulo_es": "Baltimore Orioles vs. Tampa Bay Rays",
-   "narrativa": "La compra de Orioles por $4,920.75 refleja una convicción fuerte en el lado local, con un edge estimado de +8.2 puntos frente al consenso externo del 52%. El monto representa el 12% del volumen diario del mercado, lo que sugiere una señal de acumulación institucional. Riesgo: posible corrección si el mercado ajusta rápido el precio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x1ba4e710843bde6f6f26b4bbc8a517bbe3d7d813bb78f62b2baa7f230173f0e8",
-   "titulo": "Nashville SC vs. Inter Miami CF: O/U 0.5",
-   "slug": "mls-nas-mia-2026-08-15-total-0pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 5000.0,
-   "price": 0.956739508,
-   "usd": 4783.7,
-   "ts": 1786841452,
-   "categoria": "Otros",
-   "prob": 59,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,784 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-nas-mia-2026-08-15-total-0pt5",
-   "titulo_es": "Nashville SC vs. Inter Miami CF: Más/Menos 0.5",
-   "narrativa": "La compra de Over 0.5 por $4,783.70 indica una expectativa de gol temprano, con un edge de +6.5 puntos sobre el consenso del 78%. El tamaño de la orden es significativo para un mercado de baja liquidez, lo que podría mover la línea. Riesgo: alta volatilidad en los primeros minutos del partido."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x1c67d514e71d9885d75b9bbc2c6a935f529f91ffc054edb6d27a4234e14146a8",
-   "titulo": "Will D.C. United SC win on 2026-08-15?",
-   "slug": "mls-mim-dcu-2026-08-15-dcu",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 4027.19,
-   "price": 0.92,
-   "usd": 3705.01,
-   "ts": 1786841448,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,705 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-mim-dcu-2026-08-15-dcu",
-   "titulo_es": "¿Ganará el D.C. United SC el 15 de agosto de 2026?",
-   "narrativa": "La venta de 'No' por $3,705.01 en D.C. United sugiere una alta probabilidad de no ganar, con un edge de +5.9 puntos frente al consenso del 85%. La posición corta aprovecha un precio sobrevalorado, con un desvío estándar de 3.2 puntos. Riesgo: sorpresas en alineaciones o lesiones de último minuto."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x12e54660d2271cde9a2cca5173eb1971ff590c3b569fd181ae420ee9ab46e4f1",
-   "titulo": "Baltimore Orioles vs. Tampa Bay Rays",
-   "slug": "mlb-bal-tb-2026-08-15",
-   "outcome": "Tampa Bay Rays",
-   "side": "SELL",
-   "size": 4037.0,
-   "price": 0.62,
-   "usd": 2502.94,
-   "ts": 1786841461,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,503 en 'Tampa Bay Rays'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-bal-tb-2026-08-15",
-   "titulo_es": "Baltimore Orioles vs. Tampa Bay Rays",
-   "narrativa": "La venta de Tampa Bay Rays por $2,502.94 complementa la compra de Orioles, creando un arbitraje interno con un edge combinado de +3.4 puntos. La operación reduce la exposición al riesgo y aprovecha la discrepancia entre los dos lados del mismo evento. Riesgo: comisiones y spread pueden reducir el beneficio neto."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,329 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mex-mon1-jua-2026-08-15-mon1",
+   "titulo_es": "¿Ganará el CF Monterrey el 2026-08-15?",
+   "narrativa": "El mercado muestra una compra de 1,329 USD en 'Yes' para el CF Monterrey, lo que sugiere acumulación de capital en un evento con volumen de mercado no reportado, posiblemente subestimado. Si el consenso externo favorece al equipo, este flujo podría anticipar un repunte en la probabilidad implícita, ofreciendo un edge positivo si el precio actual está por debajo del 50%. Riesgo: la falta de datos de volumen limita la confirmación de liquidez."
   }
  ],
  "edges": [],
@@ -93,7 +33,7 @@
    "slug": "israel-closes-its-airspace-by-august-15",
    "yes": 0.002,
    "no": 0.998,
-   "volumen": 993451.8030819996,
+   "volumen": 993451.8030819998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
@@ -103,7 +43,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920005,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -113,7 +53,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988494.6819189999,
+   "volumen": 988494.6819190001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -123,7 +63,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986890.4113550005,
+   "volumen": 986890.4113550001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -143,7 +83,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99847.146173,
+   "volumen": 99847.14617299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -153,7 +93,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.061,
    "no": 0.939,
-   "volumen": 99560.051906,
+   "volumen": 99560.05190599998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -169,21 +109,11 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
-   "question": "Cincinnati Open: Elise Mertens vs Diane Parry",
-   "slug": "wta-mertens-parry-2026-08-15",
-   "yes": 0.49,
-   "no": 0.51,
-   "volumen": 99319.24778400002,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Elise Mertens vs Diane Parry"
-  },
-  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.481818,
+   "volumen": 99179.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -203,7 +133,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99104.44479299999,
+   "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -213,7 +143,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 98987.58341899999,
+   "volumen": 98987.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -231,8 +161,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.069,
-   "no": 0.931,
+   "yes": 0.0685,
+   "no": 0.9315,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -263,7 +193,7 @@
    "slug": "highest-temperature-in-nyc-on-august-15-2026-84-85f",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9998.128580000002,
+   "volumen": 9998.12858,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 84-85°F el 15 de agosto?"
@@ -283,7 +213,7 @@
    "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9995.6475,
+   "volumen": 9995.647500000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
@@ -293,7 +223,7 @@
    "slug": "highest-temperature-in-miami-on-august-15-2026-94-95f",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9984.204747000002,
+   "volumen": 9984.204747,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Estará la temperatura más alta en Miami entre 94-95°F el 15 de agosto?"
@@ -301,22 +231,22 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0435,
-   "no": 0.9565,
+   "yes": 0.0425,
+   "no": 0.9575,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "Atlanta United FC vs. New York Red Bulls: O/U 3.5",
-   "slug": "mls-atl-nyr-2026-08-15-total-3pt5",
-   "yes": 0.24,
-   "no": 0.76,
-   "volumen": 9972.868316999999,
+   "question": "Orlando City SC vs. FC Cincinnati: Both Teams to Score",
+   "slug": "mls-orl-fcc-2026-08-15-btts",
+   "yes": 0.9975,
+   "no": 0.0025,
+   "volumen": 9967.220974,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "Atlanta United FC vs. New York Red Bulls: Más/Menos 3.5"
+   "question_es": "Orlando City SC vs. FC Cincinnati: Ambos equipos marcan"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -333,10 +263,20 @@
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.049,
    "no": 0.951,
-   "volumen": 9947.125083,
+   "volumen": 9947.125083000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
+  },
+  {
+   "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
+   "slug": "will-xagusd-dip-to-54-in-august-2026",
+   "yes": 0.085,
+   "no": 0.915,
+   "volumen": 9946.068062000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
  "historico": {
@@ -346,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 22.36
+ "db_size_mb": 22.48
 }
