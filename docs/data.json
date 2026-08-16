@@ -1,6 +1,6 @@
 {
- "ts": 1786906286,
- "stamp": "20260816_185126",
+ "ts": 1786906346,
+ "stamp": "20260816_185226",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -210,8 +210,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99205.21661199999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -348,16 +348,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will Debreceni VSC win on 2026-08-16?",
-   "slug": "hun-deb-gyo-2026-08-16-deb",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9958.141203000003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Debreceni VSC el 2026-08-16?"
-  },
-  {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
    "yes": 0.796,
@@ -370,8 +360,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.38,
-   "no": 0.62,
+   "yes": 0.365,
+   "no": 0.635,
    "volumen": 9950.113178000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -386,6 +376,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
+  },
+  {
+   "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
+   "slug": "will-xagusd-dip-to-54-in-august-2026",
+   "yes": 0.085,
+   "no": 0.915,
+   "volumen": 9946.068062000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   }
  ],
  "historico": {
