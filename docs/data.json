@@ -1,6 +1,6 @@
 {
- "ts": 1786867275,
- "stamp": "20260816_080115",
+ "ts": 1786867335,
+ "stamp": "20260816_080215",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -221,8 +221,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.068,
-   "no": 0.932,
+   "yes": 0.069,
+   "no": 0.931,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -261,8 +261,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.032,
-   "no": 0.968,
+   "yes": 0.041,
+   "no": 0.959,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -271,8 +271,8 @@
   {
    "question": "Will Elif Eralp be the next Governing Mayor of Berlin?",
    "slug": "will-elif-eralp-be-the-next-governing-mayor-of-berlin-1786117615446",
-   "yes": 0.485,
-   "no": 0.515,
+   "yes": 0.495,
+   "no": 0.505,
    "volumen": 9968.575257999997,
    "spread": 0.0,
    "categoria": "Política",
@@ -281,8 +281,8 @@
   {
    "question": "Will \"PAW Patrol: The Dino Movie\" Opening Weekend Box Office be between 20m and 25m?",
    "slug": "will-paw-patrol-the-dino-movie-opening-weekend-box-office-be-between-20m-and-25m-20260708164748955",
-   "yes": 0.833,
-   "no": 0.167,
+   "yes": 0.8335,
+   "no": 0.1665,
    "volumen": 9967.205504000001,
    "spread": 0.0,
    "categoria": "Entretenimiento",
