@@ -1,6 +1,6 @@
 {
- "ts": 1786853771,
- "stamp": "20260816_041611",
+ "ts": 1786853831,
+ "stamp": "20260816_041711",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -53,7 +53,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920004,
+   "volumen": 991312.1319920003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -143,7 +143,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99104.44479300002,
+   "volumen": 99104.44479299999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -203,7 +203,7 @@
    "slug": "will-stepfun-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137072",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9995.647500000001,
+   "volumen": 9995.6475,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá StepFun el mejor modelo de IA a finales de septiembre de 2026?"
@@ -211,12 +211,22 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0325,
-   "no": 0.9675,
+   "yes": 0.0315,
+   "no": 0.9685,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will Elif Eralp be the next Governing Mayor of Berlin?",
+   "slug": "will-elif-eralp-be-the-next-governing-mayor-of-berlin-1786117615446",
+   "yes": 0.445,
+   "no": 0.555,
+   "volumen": 9968.575258,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Elif Eralp la próxima alcaldesa gobernante de Berlín?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -233,7 +243,7 @@
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.0475,
    "no": 0.9525,
-   "volumen": 9947.125082999999,
+   "volumen": 9947.125083000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
@@ -283,20 +293,10 @@
    "slug": "arg-bar-ros-2026-08-16-bar",
    "yes": 0.355,
    "no": 0.645,
-   "volumen": 9915.705356999999,
+   "volumen": 9915.705357,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará CA Barracas Central el 2026-08-16?"
-  },
-  {
-   "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
-   "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
-   "yes": 0.26,
-   "no": 0.74,
-   "volumen": 9915.455293000003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
   }
  ],
  "historico": {
