@@ -1,6 +1,6 @@
 {
- "ts": 1786871776,
- "stamp": "20260816_091616",
+ "ts": 1786871836,
+ "stamp": "20260816_091716",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -99,6 +99,16 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "Valorant: Fire Flux Esports vs Joblife (BO3) - VCT EMEA Play-Ins",
+   "slug": "val-ff3-jl-2026-08-16",
+   "yes": 0.515,
+   "no": 0.485,
+   "volumen": 99911.66979399999,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Valorant: Fire Flux Esports vs Joblife (BO3) - VCT EMEA Play-Ins"
+  },
+  {
    "question": "NATO x Russia military clash by October 31, 2026?",
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
@@ -107,16 +117,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
-  },
-  {
-   "question": "Valorant: Fire Flux Esports vs Joblife (BO3) - VCT EMEA Play-Ins",
-   "slug": "val-ff3-jl-2026-08-16",
-   "yes": 0.515,
-   "no": 0.485,
-   "volumen": 99845.01825699999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Valorant: Fire Flux Esports vs Joblife (BO3) - VCT EMEA Play-Ins"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -171,8 +171,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.31,
-   "no": 0.69,
+   "yes": 0.315,
+   "no": 0.685,
    "volumen": 99104.44479300002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -233,7 +233,7 @@
    "slug": "ethereum-above-2000-on-august-16-2026",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9973.699397000002,
+   "volumen": 9973.699396999998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Ethereum por encima de $2,000 el 16 de agosto?"
@@ -241,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.038,
-   "no": 0.962,
+   "yes": 0.0335,
+   "no": 0.9665,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -257,6 +257,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will the highest temperature in Paris be 31°C on August 16?",
+   "slug": "highest-temperature-in-paris-on-august-16-2026-31c",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9956.793109999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en París de 31°C el 16 de agosto?"
   },
   {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
@@ -293,20 +303,10 @@
    "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830",
    "yes": 0.0345,
    "no": 0.9655,
-   "volumen": 9933.341382,
+   "volumen": 9933.341381999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de septiembre de 2026?"
-  },
-  {
-   "question": "USMCA extended in 2026?",
-   "slug": "usmca-extended-in-2026-20260701162719768",
-   "yes": 0.205,
-   "no": 0.795,
-   "volumen": 9923.915998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Se extenderá el T-MEC en 2026?"
   }
  ],
  "historico": {
