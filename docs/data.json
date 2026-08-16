@@ -1,29 +1,49 @@
 {
- "ts": 1786879819,
- "stamp": "20260816_113019",
+ "ts": 1786879879,
+ "stamp": "20260816_113119",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xea10d8dd95b0c4ad57330dddb04d8d832d0c85a5774c75e58628622f0aac5332",
-   "titulo": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
-   "slug": "dota2-lgd-ty-2026-08-16",
-   "outcome": "Team Yandex",
+   "market_id": "0x200e8857f23e5a2f65afd58d4e4114bf9e6ee0b2904285b0937af73544328492",
+   "titulo": "LoL: Weibo Gaming vs Invictus Gaming - Game 2 Winner",
+   "slug": "lol-wb-ig1-2026-08-16-game2",
+   "outcome": "Invictus Gaming",
    "side": "BUY",
-   "size": 1354.57,
-   "price": 0.8548323084,
-   "usd": 1157.93,
-   "ts": 1786879333,
-   "categoria": "Otros",
+   "size": 2828.54,
+   "price": 0.81,
+   "usd": 2291.12,
+   "ts": 1786879642,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,291 en 'Invictus Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-wb-ig1-2026-08-16-game2",
+   "titulo_es": "LoL: Weibo Gaming vs Invictus Gaming - Ganador del Juego 2",
+   "narrativa": "Detección de una posición de compra relevante de $2,291 USD en Invictus Gaming para el Juego 2 contra Weibo Gaming, lo que sugiere convicción direccional en un mercado de alta rotación. Aunque no se reporta consenso externo, el tamaño del trade en relación al flujo habitual indica una apuesta activa que puede anticipar un ajuste de cuotas. Riesgo: posible falta de liquidez en el mercado de juego individual, lo que podría amplificar el deslizamiento."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x32a9e1c910b0938abf010cde694578a21437ebbf2a8d33fa773e21297c27ede7",
+   "titulo": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B",
+   "slug": "cs2-ast10-nip-2026-08-16",
+   "outcome": "NIP",
+   "side": "BUY",
+   "size": 2281.0,
+   "price": 0.47,
+   "usd": 1072.07,
+   "ts": 1786879641,
+   "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,158 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-lgd-ty-2026-08-16",
-   "titulo_es": "Dota 2: LGD Gaming vs Team Yandex (BO3) - Ronda de Eliminación de The International",
-   "narrativa": "La entrada a favor de Team Yandex a 1157 USD captura un edge positivo frente al consenso externo, que subestima su consistencia en BO3 de eliminación directa. El desvío entre el precio implícito y la probabilidad real estimada por nuestro modelo justifica la posición, con un cambio porcentual esperado favorable si el mercado corrige la brecha. Riesgo: liquidez moderada en el mercado de Dota 2, lo que puede amplificar el slippage en momentos de alta volatilidad."
+   "razon": "Trade de compra por $1,072 en 'NIP'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-ast10-nip-2026-08-16",
+   "titulo_es": "Counter-Strike: Astralis vs NIP (BO3) - Copa Mundial de Esports Grupo B",
+   "narrativa": "Se registra una compra significativa de $1,072 USD por NIP en el BO3 contra Astralis, un monto que supera el ticket promedio y refleja una expectativa de underdog con valor implícito. La falta de volumen de mercado publicado obliga a operar con cautela, pero el flujo direccional sugiere que los creadores de mercado podrían estar subestimando la probabilidad de NIP. Riesgo: la volatilidad del mapa inicial puede invalidar la señal si el equipo pierde el primer mapa."
   }
  ],
  "edges": [
@@ -316,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 30.98
+ "db_size_mb": 31.03
 }
