@@ -1,10 +1,30 @@
 {
- "ts": 1786879219,
- "stamp": "20260816_112019",
+ "ts": 1786879279,
+ "stamp": "20260816_112119",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x200e8857f23e5a2f65afd58d4e4114bf9e6ee0b2904285b0937af73544328492",
+   "titulo": "LoL: Weibo Gaming vs Invictus Gaming - Game 2 Winner",
+   "slug": "lol-wb-ig1-2026-08-16-game2",
+   "outcome": "Invictus Gaming",
+   "side": "SELL",
+   "size": 3778.03,
+   "price": 0.65,
+   "usd": 2455.72,
+   "ts": 1786879042,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,456 en 'Invictus Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-wb-ig1-2026-08-16-game2",
+   "titulo_es": "LoL: Weibo Gaming vs Invictus Gaming - Ganador del Juego 2",
+   "narrativa": "La venta de 2,455 USD sobre Invictus Gaming en el Juego 2 contra Weibo Gaming sugiere que el mercado está sobrevalorando su probabilidad de victoria, posiblemente por el rendimiento histórico del equipo. Este flujo de capital contrario a la narrativa pública puede ofrecer un edge si el precio implícito no refleja el estado de forma actual de ambos roster. Riesgo: alta volatilidad en mapas tempranos de la serie."
+  },
   {
    "tipo": "ballena",
    "market_id": "0x4c58ecd28e545198cd0054113f9f038a5afb1e7f04d7fc4d8a0e792b2cb724de",
@@ -12,18 +32,38 @@
    "slug": "lol-g2-fnc-2026-08-16",
    "outcome": "G2 Esports",
    "side": "BUY",
-   "size": 1575.66,
+   "size": 1640.16,
    "price": 0.79,
-   "usd": 1244.77,
-   "ts": 1786878735,
+   "usd": 1295.73,
+   "ts": 1786879038,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,245 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $1,296 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-g2-fnc-2026-08-16",
    "titulo_es": "LoL: G2 Esports vs Fnatic (BO3) - Temporada Regular de la LEC",
-   "narrativa": "La compra de G2 Esports a 1.244,77 USD refleja un edge positivo frente al consenso externo, que sitúa su probabilidad implícita en torno al 58-60%, mientras que el mercado local aún no ha ajustado completamente el diferencial de forma y estado de forma entre ambos equipos. El volumen de mercado es limitado, lo que permite capturar una pequeña ineficiencia de precio antes de que los flujos institucionales corrijan la cuota. Riesgo: liquidez reducida en horarios de baja actividad, lo que puede ampliar el spread en la salida."
+   "narrativa": "La compra de 1,295 USD sobre G2 Esports en un BO3 contra Fnatic indica que el mercado está descontando un margen menor al que sugieren las métricas de poder relativo en la temporada regular de la LEC. El monto, aunque moderado, muestra convicción en un equipo con mejor historial en enfrentamientos directos recientes. Riesgo: Fnatic puede elevar su nivel en partidos de alto impacto."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xa6896afbb3648f01e54edbb6ffe67b4d30522a43ce2fc01698d9f37be8e87fa0",
+   "titulo": "Counter-Strike: TheMongolz vs paiN - Map 1 Winner",
+   "slug": "cs2-mglz-pain-2026-08-16-game1",
+   "outcome": "paiN",
+   "side": "SELL",
+   "size": 1864.96,
+   "price": 0.59,
+   "usd": 1100.33,
+   "ts": 1786879035,
+   "categoria": "Tecnología",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,100 en 'paiN'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-mglz-pain-2026-08-16-game1",
+   "titulo_es": "Counter-Strike: TheMongolz vs paiN - Ganador del Mapa 1",
+   "narrativa": "La venta de 1,100 USD sobre paiN en el Mapa 1 contra TheMongolz refleja una posible corrección en el precio, ya que el mercado podría estar asignando demasiado peso al factor local o al momento de la serie. Este movimiento sugiere que el valor real de paiN en ese mapa es inferior al implícito, generando una oportunidad de arbitraje estadístico. Riesgo: mapas de apertura suelen tener mayor dispersión por estrategias sorpresa."
   }
  ],
  "edges": [
@@ -316,5 +356,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 30.84
+ "db_size_mb": 30.91
 }
