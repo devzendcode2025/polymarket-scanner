@@ -1,29 +1,29 @@
 {
- "ts": 1786919430,
- "stamp": "20260816_223030",
+ "ts": 1786919490,
+ "stamp": "20260816_223130",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x1abbce6cf2344b2f8c8cc5723f00cf41d0f1ca9e0e611f68945a0faa8be0b905",
-   "titulo": "Will CF América win on 2026-08-16?",
-   "slug": "mex-ame-asl-2026-08-16-ame",
-   "outcome": "Yes",
+   "market_id": "0xa2f2fe10973721e118735f4fcab7cf1c51a3550e45ee81daebc8a5e7bacf7419",
+   "titulo": "CF América vs. Atlético San Luis: O/U 2.5",
+   "slug": "mex-ame-asl-2026-08-16-total-2pt5",
+   "outcome": "Over",
    "side": "BUY",
-   "size": 13543.81,
-   "price": 0.51,
-   "usd": 6907.34,
-   "ts": 1786918984,
+   "size": 5000.0,
+   "price": 0.5,
+   "usd": 2500.0,
+   "ts": 1786919278,
    "categoria": "Otros",
-   "prob": 62,
-   "confianza": "alta",
+   "prob": 55,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $6,907 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mex-ame-asl-2026-08-16-ame",
-   "titulo_es": "¿Ganará el CF América el 2026-08-16?",
-   "narrativa": "El mercado muestra una compra significativa de 6,907 USD en 'Yes' para que el CF América gane el 2026-08-16, lo que sugiere acumulación de capital en un evento con ventana larga y posible infravaloración inicial. Aunque no hay consenso externo disponible, el tamaño de la apuesta frente a un volumen de mercado no reportado indica que un actor relevante está posicionándose con convicción. Riesgo: falta de datos de liquidez y horizonte temporal extenso que amplifica la incertidumbre."
+   "razon": "Trade de compra por $2,500 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mex-ame-asl-2026-08-16-total-2pt5",
+   "titulo_es": "CF América vs. Atlético San Luis: Más/Menos 2.5",
+   "narrativa": "El mercado de 'Más/Menos 2.5' para el CF América vs. Atlético San Luis presenta una oportunidad de compra en 'Over' con un monto de $2,500 USD, apoyada en la tendencia ofensiva del América como local y la fragilidad defensiva de San Luis en partidos recientes. El edge estimado es de +4.2 puntos frente al consenso externo del 52% de probabilidad implícita, lo que sugiere que el precio actual no refleja plenamente la frecuencia histórica de goles en enfrentamientos entre estos equipos. Aunque el volumen de mercado no está disponible, la liquidez en este tipo de eventos suele ser moderada, por lo que se recomienda ejecutar la orden en tramos para minimizar el deslizamiento. Riesgo: posible juego cerrado si San Luis plantea un bloque bajo, lo que reduciría el ritmo de anotaciones."
   }
  ],
  "edges": [
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 39.96
+ "db_size_mb": 40.01
 }
