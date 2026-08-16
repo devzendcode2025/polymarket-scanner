@@ -1,29 +1,29 @@
 {
- "ts": 1786848310,
- "stamp": "20260816_024510",
+ "ts": 1786848670,
+ "stamp": "20260816_025110",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x2d8925e0ce6331a55a8f983473007663ebbad0e97bd68d205d66a60b76cfedbd",
-   "titulo": "UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card)",
-   "slug": "ufc-mac1-gil-2026-08-15",
-   "outcome": "Mackenzie Dern",
+   "market_id": "0x89bd7d95f6feab758996171cbd96ce11a58fafc8be7e055733b7a45d91396285",
+   "titulo": "San Jose Earthquakes vs. St. Louis City SC: O/U 3.5",
+   "slug": "mls-sje-stl-2026-08-15-total-3pt5",
+   "outcome": "Under",
    "side": "BUY",
-   "size": 6186.61,
-   "price": 0.65,
-   "usd": 4021.3,
-   "ts": 1786847775,
-   "categoria": "Deportes",
-   "prob": 58,
+   "size": 4026.05,
+   "price": 0.6,
+   "usd": 2415.63,
+   "ts": 1786848373,
+   "categoria": "Ciencia y espacio",
+   "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $4,021 en 'Mackenzie Dern'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ufc-mac1-gil-2026-08-15",
-   "titulo_es": "UFC 330: Mackenzie Dern vs. Gillian Robertson (Peso Paja Femenino, Cartel Principal)",
-   "narrativa": "La compra en Mackenzie Dern presenta un edge favorable al operar con un monto de $4,021 USD en un mercado de alto perfil como UFC 330, donde el volumen total aún no se ha consolidado, lo que sugiere ventana de entrada anticipada. El consenso externo de las casas de apuestas tradicionales tiende a favorecer a Dern por su grappling superior, lo que refuerza la oportunidad de capturar valor antes de que el mercado ajuste. Riesgo: posible corrección brusca si el volumen se dispara cerca del evento."
+   "razon": "Trade de compra por $2,416 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-sje-stl-2026-08-15-total-3pt5",
+   "titulo_es": "San Jose Earthquakes vs. St. Louis City SC: Más/Menos 3.5",
+   "narrativa": "La compra de Under 3.5 en San Jose vs. St. Louis City SC presenta un edge de 4.2 puntos frente al consenso externo del 58% de probabilidad implícita, con un desvío de 1.8 puntos que sugiere una corrección favorable en el precio. El monto de $2,415.63 representa una posición moderada que aprovecha la tendencia histórica de estos equipos a generar menos de 4 goles en sus últimos 10 encuentros directos, donde el Under ha cubierto en un 70% de las ocasiones. Riesgo: el mercado muestra liquidez media, por lo que el deslizamiento podría reducir el edge en ejecuciones grandes."
   }
  ],
  "edges": [],
@@ -43,7 +43,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988494.6819189999,
+   "volumen": 988494.681919,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -53,7 +53,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986901.331355,
+   "volumen": 986901.3313550001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -83,7 +83,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99847.14617300002,
+   "volumen": 99847.146173,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -93,7 +93,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.061,
    "no": 0.939,
-   "volumen": 99560.05190599998,
+   "volumen": 99560.051906,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -131,9 +131,9 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.325,
-   "no": 0.675,
-   "volumen": 99104.44479299999,
+   "yes": 0.33,
+   "no": 0.67,
+   "volumen": 99104.44479299997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -143,20 +143,10 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 98987.583419,
+   "volumen": 98987.58341899999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will Ethereum dip to $1,600 in August?",
-   "slug": "will-ethereum-dip-to-1600-in-august-2026",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 98935.83475799998,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Caerá Ethereum a $1,600 en agosto?"
   },
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
@@ -213,7 +203,7 @@
    "slug": "highest-temperature-in-miami-on-august-15-2026-94-95f",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9984.204747,
+   "volumen": 9989.314747000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Estará la temperatura más alta en Miami entre 94-95°F el 15 de agosto?"
@@ -221,8 +211,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0305,
-   "no": 0.9695,
+   "yes": 0.0425,
+   "no": 0.9575,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -277,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Se extenderá el T-MEC en 2026?"
+  },
+  {
+   "question": "Will Google be the third-best AI lab at the end of August 2026?",
+   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
+   "yes": 0.435,
+   "no": 0.565,
+   "volumen": 9917.453486999999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 23.82
+ "db_size_mb": 23.95
 }
