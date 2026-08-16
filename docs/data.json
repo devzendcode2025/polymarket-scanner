@@ -1,6 +1,6 @@
 {
- "ts": 1786894883,
- "stamp": "20260816_154123",
+ "ts": 1786894943,
+ "stamp": "20260816_154223",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -191,8 +191,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.335,
-   "no": 0.665,
+   "yes": 0.325,
+   "no": 0.675,
    "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -251,8 +251,8 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.505,
-   "no": 0.495,
+   "yes": 0.5,
+   "no": 0.5,
    "volumen": 9995.100677,
    "spread": 0.0,
    "categoria": "Otros",
@@ -271,8 +271,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0335,
-   "no": 0.9665,
+   "yes": 0.033,
+   "no": 0.967,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -301,8 +301,8 @@
   {
    "question": "LoL: Movistar KOI vs Natus Vincere - Game 2 Winner",
    "slug": "lol-mkoi-navi-2026-08-16-game2",
-   "yes": 0.585,
-   "no": 0.415,
+   "yes": 0.575,
+   "no": 0.425,
    "volumen": 9963.028136,
    "spread": 0.0,
    "categoria": "Deportes",
