@@ -1,17 +1,38 @@
 {
- "ts": 1786845369,
- "stamp": "20260816_015609",
+ "ts": 1786845669,
+ "stamp": "20260816_020109",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x41904eafc71001c09b9607c71fc3aaf7cba67d6f11f92afa94519b377f4c7147",
+   "titulo": "Cincinnati Open: Rafael Jodar vs Denis Shapovalov",
+   "slug": "atp-jodar-shapova-2026-08-15",
+   "outcome": "Rafael Jodar",
+   "side": "SELL",
+   "size": 4828.33,
+   "price": 0.673,
+   "usd": 3249.47,
+   "ts": 1786845361,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $3,249 en 'Rafael Jodar'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-jodar-shapova-2026-08-15",
+   "titulo_es": "Cincinnati Open: Rafael Jodar vs Denis Shapovalov",
+   "narrativa": "La venta de Rafael Jodar frente a Shapovalov muestra un edge de +4.2 puntos sobre el consenso externo, con un monto de $3,249 que refleja convicción direccional en un mercado de tenis con desvío estándar bajo. El volumen de mercado no reportado reduce la comparabilidad, pero la posición sugiere que el precio actual sobrevalora las opciones del español. Riesgo: posible ajuste brusco si Shapovalov muestra forma física superior en pista rápida."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
    "question": "Israel closes its airspace by August 15?",
    "slug": "israel-closes-its-airspace-by-august-15",
-   "yes": 0.002,
-   "no": 0.998,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 993451.8030819998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -110,8 +131,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.29,
-   "no": 0.71,
+   "yes": 0.3,
+   "no": 0.7,
    "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -200,8 +221,8 @@
   {
    "question": "Will the highest temperature in Shanghai be 29°C on August 16?",
    "slug": "highest-temperature-in-shanghai-on-august-16-2026-29c",
-   "yes": 0.32,
-   "no": 0.68,
+   "yes": 0.295,
+   "no": 0.705,
    "volumen": 9980.646890999997,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -210,8 +231,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -226,16 +247,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "Counter-Strike: QUINTESSÊNCIA vs METANOIA WOLVES - Ganador del Mapa 2"
-  },
-  {
-   "question": "Orlando City SC vs. FC Cincinnati: Both Teams to Score",
-   "slug": "mls-orl-fcc-2026-08-15-btts",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9967.220974,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Orlando City SC vs. FC Cincinnati: Ambos equipos marcan"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -256,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Más/Menos 1.5 Asaltos"
+  },
+  {
+   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
+   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
+   "yes": 0.0485,
+   "no": 0.9515,
+   "volumen": 9947.125082999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 23.19
+ "db_size_mb": 23.28
 }
