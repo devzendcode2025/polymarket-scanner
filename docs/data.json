@@ -1,49 +1,29 @@
 {
- "ts": 1786885820,
- "stamp": "20260816_131020",
+ "ts": 1786886181,
+ "stamp": "20260816_131621",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x87f90729531cace86fb53e405c3757dda72a63d18c4699ca5604d14a58c8c3d1",
-   "titulo": "Seattle Mariners vs. Houston Astros",
-   "slug": "mlb-sea-hou-2026-08-16",
-   "outcome": "Houston Astros",
+   "market_id": "0x9a0db7182e5ba1e12e49c93c30d528aa8a84bf96db18a61f42ada346755b1cec",
+   "titulo": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+   "slug": "lol-drx-bro2-2026-08-16",
+   "outcome": "HANJIN BRION",
    "side": "BUY",
-   "size": 52459.05,
-   "price": 0.55,
-   "usd": 28852.48,
-   "ts": 1786885336,
+   "size": 10025.06,
+   "price": 0.949505968,
+   "usd": 9518.85,
+   "ts": 1786885947,
    "categoria": "Otros",
-   "prob": 70,
+   "prob": 66,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $28,852 en 'Houston Astros'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-sea-hou-2026-08-16",
-   "titulo_es": "Seattle Mariners vs. Houston Astros",
-   "narrativa": "La compra de 28,852 USD sobre los Astros refleja una apuesta institucional clara ante un posible desajuste en la probabilidad implícita del mercado frente al modelo de poder ofensivo de Houston. El tamaño de la posición, muy superior a la media de operaciones en este mercado, sugiere que el comprador identifica un edge significativo en el precio actual de la acción, probablemente por una sobrevaloración del factor local de Seattle. Riesgo: la volatilidad de un solo juego puede erosionar la ventaja si el lanzador abridor de los Mariners rinde por encima de su proyección."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xa3fe6c0628983e16168e99e100b88870c075232a1072ab0678038f898fcde530",
-   "titulo": "Will Djurgardens IF vs. AIK end in a draw?",
-   "slug": "swe-dju-aik-2026-08-16-draw",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2750.0,
-   "price": 0.9,
-   "usd": 2475.0,
-   "ts": 1786885348,
-   "categoria": "Tecnología",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,475 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/swe-dju-aik-2026-08-16-draw",
-   "titulo_es": "¿Terminará en empate Djurgardens IF vs. AIK?",
-   "narrativa": "La compra de 2,475 USD en la opción 'No' al empate entre Djurgardens y AIK aprovecha un consenso externo que otorga a la probabilidad de empate un valor inferior al que sugiere el precio de mercado, generando un edge positivo en términos de valor esperado. El monto, aunque moderado, indica una convicción direccional clara en un evento binario donde los equipos suelen mostrar diferencias de gol notables en enfrentamientos directos. Riesgo: la baja liquidez en mercados de fútbol sueco puede ampliar el spread y dificultar la salida si el partido se mantiene igualado en los minutos finales."
+   "razon": "Trade de compra por $9,519 en 'HANJIN BRION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-drx-bro2-2026-08-16",
+   "titulo_es": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Ronda 3-4 Grupo Rise",
+   "narrativa": "El mercado descuenta una victoria de HANJIN BRION con un flujo de compra de $9,518 USD, lo que sugiere convicción direccional a pesar de no contar con volumen total reportado. Este monto concentrado en un solo lado crea un desbalance que puede anticipar un ajuste de probabilidades a favor del equipo, ofreciendo un edge si el consenso externo (rankings de poder) no refleja aún esta preferencia. Riesgo: posible falta de liquidez en el mercado de apuestas del evento, lo que podría ampliar el spread."
   }
  ],
  "edges": [
@@ -62,7 +42,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will the Democratic Party candidate win the 2026 New York gubernatorial election by 5%-10%?",
+     "_poly_question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -141,8 +121,8 @@
   {
    "question": "Foreign intervention in Gaza by September 30?",
    "slug": "foreign-intervention-in-gaza-by-september-30",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.055,
+   "no": 0.945,
    "volumen": 99414.56774699998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -221,8 +201,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.078,
-   "no": 0.922,
+   "yes": 0.0775,
+   "no": 0.9225,
    "volumen": 98803.826217,
    "spread": 0.0,
    "categoria": "Política",
@@ -241,8 +221,8 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.505,
-   "no": 0.495,
+   "yes": 0.495,
+   "no": 0.505,
    "volumen": 9995.100677000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -261,8 +241,8 @@
   {
    "question": "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 45% or higher?",
    "slug": "will-the-highest-score-achieved-by-a-spacexai-grok-model-on-humanitys-last-exam-in-2026-be-45-or-higher-20260723191456650",
-   "yes": 0.7145,
-   "no": 0.2855,
+   "yes": 0.714,
+   "no": 0.286,
    "volumen": 9967.655697,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -281,8 +261,8 @@
   {
    "question": "Will Odense BK win on 2026-08-16?",
    "slug": "den-ode-hor-2026-08-16-ode",
-   "yes": 0.455,
-   "no": 0.545,
+   "yes": 0.435,
+   "no": 0.565,
    "volumen": 9949.196853000003,
    "spread": 0.0,
    "categoria": "Otros",
@@ -321,8 +301,8 @@
   {
    "question": "Will the chopsticks catch SpaceX Starship Flight Test 14 Starship?",
    "slug": "will-the-chopsticks-catch-spacex-starship-flight-test-14-starship-563",
-   "yes": 0.23,
-   "no": 0.77,
+   "yes": 0.215,
+   "no": 0.785,
    "volumen": 9942.723845,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 32.36
+ "db_size_mb": 32.48
 }
