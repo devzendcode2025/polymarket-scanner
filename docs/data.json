@@ -1,49 +1,49 @@
 {
- "ts": 1786905926,
- "stamp": "20260816_184526",
+ "ts": 1786905986,
+ "stamp": "20260816_184626",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
+   "market_id": "0x32a9e1c910b0938abf010cde694578a21437ebbf2a8d33fa773e21297c27ede7",
+   "titulo": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B",
+   "slug": "cs2-ast10-nip-2026-08-16",
+   "outcome": "Astralis",
+   "side": "SELL",
+   "size": 4117.39,
+   "price": 0.999,
+   "usd": 4113.27,
+   "ts": 1786905771,
+   "categoria": "Deportes",
+   "prob": 58,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $4,113 en 'Astralis'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-ast10-nip-2026-08-16",
+   "titulo_es": "Counter-Strike: Astralis vs NIP (BO3) - Copa Mundial de Esports Grupo B",
+   "narrativa": "La venta de Astralis por $4,113 USD refleja una postura agresiva contra el favoritismo del mercado, aprovechando que el consenso externo no muestra una ventaja clara en el BO3. Este flujo sugiere que el precio actual de Astralis está sobrevalorado en relación con la probabilidad implícita, ofreciendo un edge potencial si NIP mantiene su ritmo en mapas decisivos. Riesgo: la volatilidad del BO3 puede revertir la posición rápidamente si Astralis gana el primer mapa con contundencia."
+  },
+  {
+   "tipo": "ballena",
    "market_id": "0x722eaec8a96bd39b6738bc3e39421b82e34ed73f74bffdd21a069ddcb2c18d43",
    "titulo": "LoL: G2 Esports vs Fnatic - Game 2 Winner",
    "slug": "lol-g2-fnc-2026-08-16-game2",
    "outcome": "Fnatic",
-   "side": "BUY",
-   "size": 1500.0,
-   "price": 0.98,
-   "usd": 1470.0,
-   "ts": 1786905471,
+   "side": "SELL",
+   "size": 2551.37,
+   "price": 0.999,
+   "usd": 2548.82,
+   "ts": 1786905766,
    "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,470 en 'Fnatic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,549 en 'Fnatic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-g2-fnc-2026-08-16-game2",
    "titulo_es": "LoL: G2 Esports vs Fnatic - Ganador del Juego 2",
-   "narrativa": "La compra de $1,470 en Fnatic para el Juego 2 contra G2 Esports refleja una apuesta agresiva contra el favoritismo del mercado, buscando capitalizar el historial de Fnatic en partidos decisivos de la LEC. El tamaño del trade, al ser significativo para un mercado de juego individual, sugiere que el operador identifica un desajuste entre el precio implícito y la probabilidad real de victoria, generando un edge potencial en puntos de probabilidad. Riesgo: alta volatilidad en el resultado de un solo juego, donde una sola jugada puede revertir la tendencia."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x7da4c1f8aa302a0424a00c371e8f956ae6bfe222ab283ae2d45177c43ff5348a",
-   "titulo": "Counter-Strike: Legacy vs MIBR - Map 1 Winner",
-   "slug": "cs2-lgc-mibr-2026-08-16-game1",
-   "outcome": "Legacy",
-   "side": "BUY",
-   "size": 1431.05,
-   "price": 0.99,
-   "usd": 1416.74,
-   "ts": 1786905472,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,417 en 'Legacy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-lgc-mibr-2026-08-16-game1",
-   "titulo_es": "Counter-Strike: Legacy vs MIBR - Ganador del Mapa 1",
-   "narrativa": "La compra de $1,416.74 en Legacy para el Mapa 1 contra MIBR indica una convicción firme en que el mercado está subestimando la preparación o el mapa inicial de Legacy, a pesar de que MIBR suele ser el favorito en el papel. El monto del trade, cercano al máximo de la señal, sugiere que el operador calcula un desvío favorable entre el consenso externo y su modelo de valoración, buscando un retorno asimétrico si Legacy domina el arranque del mapa. Riesgo: poca liquidez en mercados de mapas específicos, lo que puede amplificar el impacto de grandes órdenes en el precio."
+   "narrativa": "La venta de Fnatic por $2,548 USD en el Juego 2 indica que el operador percibe una corrección inminente tras un posible overreaction del mercado al Juego 1. Con un desvío en las cuotas que favorece a G2 en el segundo mapa, este flujo busca capitalizar la regresión a la media en el rendimiento de Fnatic, que suele decaer en partidos largos. Riesgo: la moral alta de Fnatic tras una victoria inicial puede extender su dominio, limitando el margen de la operación."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will Donald Trump publicly insult Pam Bondi by August 31, 2026?",
+     "_poly_question": "Will Pello Bilbao win the 2026 ADAC Cyclassics?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 36.89
+ "db_size_mb": 36.96
 }
