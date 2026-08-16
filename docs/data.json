@@ -1,6 +1,6 @@
 {
- "ts": 1786855272,
- "stamp": "20260816_044112",
+ "ts": 1786855332,
+ "stamp": "20260816_044212",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -259,20 +259,10 @@
    "question_es": "¿Publicará Elon Musk entre 200 y 219 tweets del 14 de agosto al 21 de agosto de 2026?"
   },
   {
-   "question": "Texas Rangers vs. Athletics: O/U 10.5",
-   "slug": "mlb-tex-oak-2026-08-15-total-10pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9987.464788000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Texas Rangers vs. Athletics: Más/Menos 10.5"
-  },
-  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0385,
-   "no": 0.9615,
+   "yes": 0.0335,
+   "no": 0.9665,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -337,6 +327,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Chuck Gray el nominado republicano de WY-AL?"
+  },
+  {
+   "question": "USMCA extended in 2026?",
+   "slug": "usmca-extended-in-2026-20260701162719768",
+   "yes": 0.205,
+   "no": 0.795,
+   "volumen": 9923.915998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Se extenderá el T-MEC en 2026?"
   }
  ],
  "historico": {
@@ -346,5 +346,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 25.46
+ "db_size_mb": 25.47
 }
