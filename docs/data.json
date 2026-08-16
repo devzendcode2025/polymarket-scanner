@@ -1,6 +1,6 @@
 {
- "ts": 1786878678,
- "stamp": "20260816_111118",
+ "ts": 1786878738,
+ "stamp": "20260816_111218",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -171,8 +171,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.325,
-   "no": 0.675,
+   "yes": 0.33,
+   "no": 0.67,
    "volumen": 99104.44479300002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -191,8 +191,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.069,
+   "no": 0.931,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -271,8 +271,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.031,
-   "no": 0.969,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
