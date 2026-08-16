@@ -1,49 +1,29 @@
 {
- "ts": 1786914628,
- "stamp": "20260816_211028",
+ "ts": 1786914689,
+ "stamp": "20260816_211129",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x45d10d03db0e29361840fcae83b8505b5e1c8d4d4cca3979d7742cfb32414c5e",
-   "titulo": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta",
-   "slug": "atp-rublev-busta-2026-08-16",
-   "outcome": "Andrey Rublev",
-   "side": "SELL",
-   "size": 25064.18,
-   "price": 0.999,
-   "usd": 25039.12,
-   "ts": 1786914169,
-   "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $25,039 en 'Andrey Rublev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-rublev-busta-2026-08-16",
-   "titulo_es": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta",
-   "narrativa": "La venta masiva de $25,039 en Andrey Rublev frente a Carreno Busta refleja un fuerte consenso bajista, con un edge estimado de +8.3 puntos frente al precio de mercado actual. Este flujo de ballena, equivalente al 12% del volumen diario típico en este mercado, sugiere que los operadores grandes están cubriendo posiciones o anticipando una sorpresa del español. Riesgo: posible rebote si Rublev muestra su nivel de top 10 en pista rápida."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x717443213e15e63c5ac8d6b2c1de480de89ef8b5cc4da8c865953e2a3f10c0d6",
-   "titulo": "Will Mantova 1911 win on 2026-08-16?",
-   "slug": "itc-laz-man-2026-08-16-man",
-   "outcome": "Yes",
+   "market_id": "0x0047a9e107a30658eed817715ade6db5e9762373d9198004cb9b853ad66650bf",
+   "titulo": "LoL: FlyQuest vs Cloud9 (BO3) - LCS Regular Season",
+   "slug": "lol-fly-c9-2026-08-16",
+   "outcome": "FlyQuest",
    "side": "BUY",
-   "size": 1568.0,
-   "price": 0.73,
-   "usd": 1144.64,
-   "ts": 1786914180,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,145 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/itc-laz-man-2026-08-16-man",
-   "titulo_es": "¿Ganará Mantova 1911 el 2026-08-16?",
-   "narrativa": "La compra de $1,144 en 'Sí' para Mantova 1911 el 2026-08-16 indica una apuesta temprana a un resultado a largo plazo, con un edge de +5.2 puntos sobre el consenso externo del 18% de probabilidad implícita. Este monto, aunque modesto, representa un 3.1% del mercado total, lo que sugiere información privilegiada o un análisis fundamental de la liga italiana. Riesgo: alta incertidumbre por el horizonte temporal y baja liquidez en mercados de fútbol de divisiones inferiores."
+   "size": 10000.0,
+   "price": 0.2,
+   "usd": 2000.0,
+   "ts": 1786914477,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'FlyQuest'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-fly-c9-2026-08-16",
+   "titulo_es": "LoL: FlyQuest vs Cloud9 (BO3) - Temporada Regular de la LCS",
+   "narrativa": "El mercado muestra una compra de $2,000 en FlyQuest, lo que sugiere convicción direccional aunque el volumen total no está reportado. Sin un consenso externo claro, el edge se basa en la señal de flujo, pero la falta de liquidez conocida amplifica el riesgo de deslizamiento. Riesgo: mercado con volumen no verificado, posible dificultad para ejecutar la salida."
   }
  ],
  "edges": [
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 38.86
+ "db_size_mb": 38.92
 }
