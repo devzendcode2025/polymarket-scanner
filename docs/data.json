@@ -1,29 +1,29 @@
 {
- "ts": 1786890022,
- "stamp": "20260816_142022",
+ "ts": 1786890082,
+ "stamp": "20260816_142122",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "outcome": "Yes",
+   "market_id": "0xe2ea7856b01af563b7fbd085c7e4d0e0dd2f0877310bdd6a64961b423b8e481d",
+   "titulo": "Spread: Real Madrid (-1.5)",
+   "slug": "clf-sch-rma-2026-08-16-spread-away-1pt5",
+   "outcome": "Schalke 04",
    "side": "BUY",
-   "size": 7575.0,
-   "price": 0.74,
-   "usd": 5605.5,
-   "ts": 1786889542,
-   "categoria": "Economía",
-   "prob": 60,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,606 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?",
-   "narrativa": "La compra de $5,605 en 'Yes' para la posibilidad de que la Fed no modifique tasas en septiembre de 2026 refleja una apuesta clara contra el consenso externo, que descuenta al menos un recorte. Este posicionamiento busca capturar un edge de valor si la inflación se mantiene pegajosa o los datos de empleo sorprenden al alza, lo que haría que el mercado reajuste sus probabilidades. El tamaño del trade sugiere convicción media-alta, pero el horizonte lejano implica que el precio puede moverse bruscamente con cada publicación macro. Riesgo: alta sensibilidad a los datos de inflación y a las declaraciones de miembros de la Fed antes de la reunión."
+   "size": 3739.2,
+   "price": 0.45,
+   "usd": 1682.64,
+   "ts": 1786889850,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,683 en 'Schalke 04'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/clf-sch-rma-2026-08-16-spread-away-1pt5",
+   "titulo_es": "Margen: Real Madrid (-1.5)",
+   "narrativa": "El mercado muestra una clara asimetría a favor de Schalke 04 con un margen de -1.5 para el Real Madrid, y la compra de 1,682.64 USD refleja una convicción direccional que no se ve respaldada por el consenso externo, lo que sugiere un posible desajuste de precios. El volumen de mercado no reportado añade incertidumbre, pero el tamaño de la operación indica que el comprador busca capitalizar una posible sobrevaloración del favorito. Riesgo: la falta de datos de liquidez podría amplificar el impacto de movimientos bruscos."
   }
  ],
  "edges": [
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 33.38
+ "db_size_mb": 33.44
 }
