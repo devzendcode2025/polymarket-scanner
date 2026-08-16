@@ -1,10 +1,31 @@
 {
- "ts": 1786918890,
- "stamp": "20260816_222130",
+ "ts": 1786919190,
+ "stamp": "20260816_222630",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x1abbce6cf2344b2f8c8cc5723f00cf41d0f1ca9e0e611f68945a0faa8be0b905",
+   "titulo": "Will CF América win on 2026-08-16?",
+   "slug": "mex-ame-asl-2026-08-16-ame",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 13543.81,
+   "price": 0.51,
+   "usd": 6907.34,
+   "ts": 1786918984,
+   "categoria": "Otros",
+   "prob": 62,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $6,907 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mex-ame-asl-2026-08-16-ame",
+   "titulo_es": "¿Ganará el CF América el 2026-08-16?",
+   "narrativa": "El mercado muestra una compra significativa de 6,907 USD en 'Yes' para que el CF América gane el 2026-08-16, lo que sugiere acumulación de capital en un evento con ventana larga y posible infravaloración inicial. Aunque no hay consenso externo disponible, el tamaño de la apuesta frente a un volumen de mercado no reportado indica que un actor relevante está posicionándose con convicción. Riesgo: falta de datos de liquidez y horizonte temporal extenso que amplifica la incertidumbre."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -21,7 +42,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Bitcoin Up or Down on August 17?",
+     "_poly_question": "Will AJ Mercurio win the 2026 PLL Defensive Player of the Year?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -120,8 +141,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216199998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -160,8 +181,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.068,
-   "no": 0.932,
+   "yes": 0.0685,
+   "no": 0.9315,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -295,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 39.9
+ "db_size_mb": 39.95
 }
