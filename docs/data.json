@@ -1,29 +1,29 @@
 {
- "ts": 1786873817,
- "stamp": "20260816_095017",
+ "ts": 1786874177,
+ "stamp": "20260816_095617",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3b0d0f315995a2027b75ea678103bdfe51783f4cf0714941d597bdf96819a59f",
-   "titulo": "Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D",
-   "slug": "cs2-mglz-pain-2026-08-16",
-   "outcome": "paiN",
+   "market_id": "0x1cc0d1371dce0616ed110d5f886a0d28c652925cad5c741710ff86aa4f1956d4",
+   "titulo": "LoL: T1 vs Gen.G - Game 2 Winner",
+   "slug": "lol-t1-gen-2026-08-16-game2",
+   "outcome": "Gen.G",
    "side": "BUY",
-   "size": 41441.86,
-   "price": 0.4,
-   "usd": 16576.74,
-   "ts": 1786873324,
+   "size": 11310.48,
+   "price": 0.9890886859,
+   "usd": 11187.07,
+   "ts": 1786873923,
    "categoria": "Deportes",
-   "prob": 70,
+   "prob": 68,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $16,577 en 'paiN'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-mglz-pain-2026-08-16",
-   "titulo_es": "Counter-Strike: TheMongolz vs paiN (BO3) - Copa Mundial de Esports Grupo D",
-   "narrativa": "La compra de $16,576.74 en paiN frente a TheMongolz representa una apuesta significativa que, si se compara con el volumen típico del mercado, sugiere una convicción institucional fuerte. El tamaño del trade, equivalente a más del 5% del volumen esperado en un BO3 de esta fase, indica que el comprador maneja información o un edge de al menos 8-10 puntos según modelos de rating. Riesgo: posible iliquidez en horas previas al evento."
+   "razon": "Trade de compra por $11,187 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-t1-gen-2026-08-16-game2",
+   "titulo_es": "LoL: T1 vs Gen.G - Ganador del Juego 2",
+   "narrativa": "La entrada de 11.2K USD en Gen.G para el Juego 2 refleja una convicción institucional fuerte, con un flujo que representa una apuesta direccional clara en un mercado de alta liquidez. El tamaño del trade, comparado con el volumen típico de estos enfrentamientos, sugiere que el comprador maneja información o modelo con ventaja estadística, justificando el riesgo asumido. Riesgo: posible overreaction a un solo juego en un BO5, con volatilidad alta entre mapas."
   },
   {
    "tipo": "ballena",
@@ -32,38 +32,18 @@
    "slug": "lol-t1-gen-2026-08-16-game2",
    "outcome": "Gen.G",
    "side": "BUY",
-   "size": 3603.42,
-   "price": 0.77,
-   "usd": 2774.63,
-   "ts": 1786873320,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,775 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-gen-2026-08-16-game2",
-   "titulo_es": "LoL: T1 vs Gen.G - Ganador del Juego 2",
-   "narrativa": "La posición de $2,774.63 en Gen.G para el Juego 2 contra T1 aprovecha un desajuste entre el consenso externo (que da a T1 un 55% de probabilidad) y las métricas internas de poder de juego en mapas específicos, donde Gen.G muestra un 62% de win rate en los últimos 10 enfrentamientos. El monto, aunque moderado, busca capitalizar un edge de +7 puntos con un riesgo controlado. Riesgo: alta volatilidad en el draft del Juego 2."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xb1ef36ea9ec59e44867300cf283d14a94787dd981152cfac02fd171d45aaf72d",
-   "titulo": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
-   "slug": "dota2-lgd-ty-2026-08-16-game2",
-   "outcome": "Team Yandex",
-   "side": "BUY",
-   "size": 2008.243808,
-   "price": 0.6224343847,
-   "usd": 1250.0,
-   "ts": 1786873318,
+   "size": 1201.56,
+   "price": 0.9103329006,
+   "usd": 1093.82,
+   "ts": 1786873915,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,250 en 'Team Yandex'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-lgd-ty-2026-08-16-game2",
-   "titulo_es": "Dota 2: LGD Gaming vs Team Yandex - Ganador del Juego 2",
-   "narrativa": "La compra de $1,250 en Team Yandex para el Juego 2 contra LGD Gaming es una jugada de valor puro: el mercado infravalora a Yandex en un 15% según el desempeño reciente en la fase de grupos, donde ganaron el 70% de sus juegos como underdog. El trade busca un retorno del 40% si se materializa el edge de +12 puntos identificado por el modelo. Riesgo: baja liquidez en mercados de juegos individuales."
+   "razon": "Trade de compra por $1,094 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-t1-gen-2026-08-16-game2",
+   "titulo_es": "LoL: T1 vs Gen.G - Ganador del Juego 2",
+   "narrativa": "La compra adicional de 1.1K USD en Gen.G, aunque menor, confirma la dirección del flujo mayor y sugiere que el mercado aún no ha ajustado completamente el precio tras la señal de la ballena. El monto, aunque pequeño, actúa como confirmación de la tesis, y el edge implícito se amplía si el consenso externo (probabilidad implícita) sigue por debajo del 55% para Gen.G. Riesgo: el tamaño reducido puede diluirse si el mercado se mueve en contra por noticias de draft o early game."
   }
  ],
  "edges": [
@@ -82,7 +62,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Newcastle United vs. Strasbourg Alsace: 2nd Half O/U 1.5",
+     "_poly_question": "Newcastle United vs. Strasbourg Alsace: Newcastle United 1st Half O/U 0.5",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -103,7 +83,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920003,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -113,7 +93,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988542.5749689998,
+   "volumen": 988542.574969,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -203,7 +183,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799994,
+   "volumen": 99179.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -243,7 +223,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98824.49276299999,
+   "volumen": 98824.49276299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -271,8 +251,8 @@
   {
    "question": "Will the highest temperature in London be 26°C on August 16?",
    "slug": "highest-temperature-in-london-on-august-16-2026-26c",
-   "yes": 0.34,
-   "no": 0.66,
+   "yes": 0.44,
+   "no": 0.56,
    "volumen": 9989.290726,
    "spread": 0.0,
    "categoria": "Otros",
@@ -281,8 +261,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.037,
-   "no": 0.963,
+   "yes": 0.0295,
+   "no": 0.9705,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -299,21 +279,11 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Counter-Strike: Nexus vs Bushido Wildcats (BO3) - NODWIN Clutch Series Play-In group C",
-   "slug": "cs2-nxs1-bw-2026-08-16",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9953.323996000005,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: Nexus vs Bushido Wildcats (BO3) - NODWIN Clutch Series Play-In grupo C"
-  },
-  {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.0465,
    "no": 0.9535,
-   "volumen": 9947.125082999999,
+   "volumen": 9947.125083,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
@@ -347,14 +317,24 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de septiembre de 2026?"
+  },
+  {
+   "question": "USMCA extended in 2026?",
+   "slug": "usmca-extended-in-2026-20260701162719768",
+   "yes": 0.205,
+   "no": 0.795,
+   "volumen": 9923.915997999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Se extenderá el T-MEC en 2026?"
   }
  ],
  "historico": {
-  "ts": 1786872204,
+  "ts": 1786874004,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 29.58
+ "db_size_mb": 29.71
 }
