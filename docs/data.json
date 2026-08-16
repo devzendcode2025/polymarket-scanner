@@ -1,6 +1,6 @@
 {
- "ts": 1786860973,
- "stamp": "20260816_061613",
+ "ts": 1786861033,
+ "stamp": "20260816_061713",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -93,7 +93,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920002,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -133,7 +133,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99847.146173,
+   "volumen": 99847.14617300002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -143,7 +143,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900004,
+   "volumen": 99798.31490900002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -163,7 +163,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799994,
+   "volumen": 99179.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -249,6 +249,26 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
+   "question": "Will the highest temperature in Tokyo be 27°C on August 16?",
+   "slug": "highest-temperature-in-tokyo-on-august-16-2026-27c",
+   "yes": 0.05,
+   "no": 0.95,
+   "volumen": 9997.106855000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Tokio de 27°C el 16 de agosto?"
+  },
+  {
+   "question": "Will the highest temperature in Busan be 27°C on August 16?",
+   "slug": "highest-temperature-in-busan-on-august-16-2026-27c",
+   "yes": 0.015,
+   "no": 0.985,
+   "volumen": 9977.285249000004,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Busan de 27°C el 16 de agosto?"
+  },
+  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
    "yes": 0.0365,
@@ -317,26 +337,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
-  },
-  {
-   "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
-   "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.085,
-   "no": 0.915,
-   "volumen": 9946.068062000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
-  },
-  {
-   "question": "Will Google be the third-best AI lab at the end of August 2026?",
-   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.435,
-   "no": 0.565,
-   "volumen": 9937.453487,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
   }
  ],
  "historico": {
@@ -346,5 +346,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 26.71
+ "db_size_mb": 26.72
 }
