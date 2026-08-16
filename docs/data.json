@@ -1,6 +1,6 @@
 {
- "ts": 1786922791,
- "stamp": "20260816_232631",
+ "ts": 1786922851,
+ "stamp": "20260816_232731",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -178,8 +178,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0475,
-   "no": 0.9525,
+   "yes": 0.0485,
+   "no": 0.9515,
    "volumen": 9816771.067745997,
    "spread": 0.0,
    "categoria": "Política",
@@ -318,8 +318,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.067,
-   "no": 0.933,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -398,8 +398,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0465,
-   "no": 0.9535,
+   "yes": 0.0385,
+   "no": 0.9615,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -427,7 +427,7 @@
   }
  ],
  "historico": {
-  "ts": 1786921055,
+  "ts": 1786922855,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
