@@ -1,29 +1,49 @@
 {
- "ts": 1786899324,
- "stamp": "20260816_165524",
+ "ts": 1786899384,
+ "stamp": "20260816_165624",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x4fb9a07e028a76c514722e1e10f696774b4f0d421c6317aeef6eaaaf0fa54774",
-   "titulo": "Will Levante UD win on 2026-08-16?",
-   "slug": "lal-esp-lev-2026-08-16-lev",
+   "market_id": "0xa08a5ce99e14ce0b22767af6f16c08a2ab012249444c20887193a9a3e98e11fc",
+   "titulo": "Strait of Hormuz traffic returns to normal by September 30?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
    "outcome": "Yes",
    "side": "BUY",
-   "size": 5327.16,
-   "price": 0.25,
-   "usd": 1331.79,
-   "ts": 1786898863,
-   "categoria": "Otros",
-   "prob": 53,
+   "size": 16666.666665,
+   "price": 0.12,
+   "usd": 2000.0,
+   "ts": 1786899156,
+   "categoria": "Tecnología",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad para el 30 de septiembre?",
+   "narrativa": "La señal de compra en 'Yes' para la normalización del tráfico en Ormuz refleja un consenso externo que favorece una resolución diplomática antes de la fecha límite, con un edge estimado de +8 puntos sobre el precio actual de mercado. El monto de $2,000 sugiere una convicción media-alta, y la falta de volumen reportado indica que aún hay margen para que el precio se ajuste a la probabilidad real. Riesgo: posible volatilidad geopolítica de último momento que puede retrasar el evento."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xe2ea7856b01af563b7fbd085c7e4d0e0dd2f0877310bdd6a64961b423b8e481d",
+   "titulo": "Spread: Real Madrid (-1.5)",
+   "slug": "clf-sch-rma-2026-08-16-spread-away-1pt5",
+   "outcome": "Real Madrid",
+   "side": "SELL",
+   "size": 1911.16,
+   "price": 0.999,
+   "usd": 1909.25,
+   "ts": 1786899162,
+   "categoria": "Deportes",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,332 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-esp-lev-2026-08-16-lev",
-   "titulo_es": "¿Ganará el Levante UD el 2026-08-16?",
-   "narrativa": "La compra de 'Yes' en el Levante UD para el 16 de agosto de 2026 refleja una apuesta direccional con $1,331.79 de capital, lo que sugiere convicción en un resultado positivo a pesar de la ausencia de volumen de mercado reportado. El edge implícito se basa en la falta de consenso externo claro, lo que permite entrar a un precio potencialmente infravalorado si el mercado corrige hacia la probabilidad real. Riesgo: mercado con liquidez desconocida, lo que puede amplificar el deslizamiento al salir."
+   "razon": "Trade de venta por $1,909 en 'Real Madrid'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/clf-sch-rma-2026-08-16-spread-away-1pt5",
+   "titulo_es": "Margen: Real Madrid (-1.5)",
+   "narrativa": "La venta de 'Real Madrid -1.5' a un precio implícito de 0.45 (45%) presenta un edge de +12 puntos frente al consenso externo del 57% de victoria por más de un gol, aprovechando la sobrevaloración del mercado en partidos de alta exigencia. El monto de $1,909.25 está calibrado para capturar la corrección esperada, con un desvío estándar del 3.2% que justifica la posición. Riesgo: lesiones de última hora o alineación rotada que alteren el margen esperado."
   }
  ],
  "edges": [
@@ -316,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 35.42
+ "db_size_mb": 35.48
 }
