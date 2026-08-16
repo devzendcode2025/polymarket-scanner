@@ -1,29 +1,49 @@
 {
- "ts": 1786886421,
- "stamp": "20260816_132021",
+ "ts": 1786886481,
+ "stamp": "20260816_132121",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9a0db7182e5ba1e12e49c93c30d528aa8a84bf96db18a61f42ada346755b1cec",
-   "titulo": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
-   "slug": "lol-drx-bro2-2026-08-16",
-   "outcome": "HANJIN BRION",
+   "market_id": "0x9b0c280926c5be73ff1ff4d45156a32496d1f4a2fd10a8190d76e0bef2d69f94",
+   "titulo": "Degerfors IF vs. IFK Goteborg: O/U 5.5",
+   "slug": "swe-deg-ifk-2026-08-16-total-5pt5",
+   "outcome": "Under",
    "side": "BUY",
-   "size": 10025.06,
-   "price": 0.949505968,
-   "usd": 9518.85,
-   "ts": 1786885947,
+   "size": 1266.0,
+   "price": 0.895,
+   "usd": 1133.07,
+   "ts": 1786886242,
    "categoria": "Otros",
-   "prob": 66,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $9,519 en 'HANJIN BRION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-drx-bro2-2026-08-16",
-   "titulo_es": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Ronda 3-4 Grupo Rise",
-   "narrativa": "El mercado descuenta una victoria de HANJIN BRION con un flujo de compra de $9,518 USD, lo que sugiere convicción direccional a pesar de no contar con volumen total reportado. Este monto concentrado en un solo lado crea un desbalance que puede anticipar un ajuste de probabilidades a favor del equipo, ofreciendo un edge si el consenso externo (rankings de poder) no refleja aún esta preferencia. Riesgo: posible falta de liquidez en el mercado de apuestas del evento, lo que podría ampliar el spread."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,133 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/swe-deg-ifk-2026-08-16-total-5pt5",
+   "titulo_es": "Degerfors IF vs. IFK Gotemburgo: Más/Menos 5.5",
+   "narrativa": "La compra de 'Under 5.5' en Degerfors vs. IFK Gotemburgo por $1,133 sugiere una convicción fuerte en un partido de bajo puntaje, aprovechando un posible desajuste entre las expectativas del mercado y el historial defensivo de ambos equipos. El tamaño de la posición, al ser significativo para un mercado de nicho, puede indicar información privilegiada o un modelo que detecta una alta probabilidad implícita. Riesgo: volatilidad alta en minutos finales si el partido se abre."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xa87d333443e0e6718a060246618b20d2e5d271acf9cd561d4caa31d7fd6f770a",
+   "titulo": "Kansas City Royals vs. Los Angeles Angels",
+   "slug": "mlb-kc-laa-2026-08-16",
+   "outcome": "Los Angeles Angels",
+   "side": "BUY",
+   "size": 2260.393876,
+   "price": 0.4813276175,
+   "usd": 1087.99,
+   "ts": 1786886241,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,088 en 'Los Angeles Angels'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-kc-laa-2026-08-16",
+   "titulo_es": "Kansas City Royals vs. Los Angeles Angels",
+   "narrativa": "La apuesta de $1,088 a Los Angeles Angels como visitante contra Kansas City Royals representa una oportunidad de valor si el consenso público está sobrevalorando al equipo local por su récord en casa, mientras que los Angels muestran un rendimiento reciente superior en métricas clave de pitcheo y ofensiva. El monto del trade, al ser elevado sin un volumen de mercado claro, sugiere que el operador detectó una línea rezagada que aún no refleja el cambio de probabilidades real. Riesgo: posible sesgo por lesiones de última hora no incorporadas en el precio."
   }
  ],
  "edges": [
@@ -316,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 32.49
+ "db_size_mb": 32.54
 }
