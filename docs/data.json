@@ -1,6 +1,6 @@
 {
- "ts": 1786839667,
- "stamp": "20260816_002107",
+ "ts": 1786840088,
+ "stamp": "20260816_002808",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -70,8 +70,8 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.061,
-   "no": 0.939,
+   "yes": 0.0615,
+   "no": 0.9385,
    "volumen": 99560.05190599996,
    "spread": 0.0,
    "categoria": "Otros",
@@ -259,11 +259,11 @@
   }
  ],
  "historico": {
-  "ts": 1786837991,
+  "ts": 1786839792,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 21.89
+ "db_size_mb": 21.96
 }
