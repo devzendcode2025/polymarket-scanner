@@ -1,51 +1,10 @@
 {
- "ts": 1786888521,
- "stamp": "20260816_135521",
+ "ts": 1786888941,
+ "stamp": "20260816_140221",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xd50c016598c499fceea10a1a714e48d9b4953487fe215daeaf916068fae722f1",
-   "titulo": "Will the Democrats win the Iowa Senate race in 2026?",
-   "slug": "will-the-democrats-win-the-iowa-senate-race-in-2026",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 3508.771927,
-   "price": 0.5699999999,
-   "usd": 2000.0,
-   "ts": 1786888038,
-   "categoria": "Política",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-democrats-win-the-iowa-senate-race-in-2026",
-   "titulo_es": "¿Ganarán los demócratas la carrera al Senado de Iowa en 2026?",
-   "narrativa": "La compra de 'No' a 2000 USD en la carrera al Senado de Iowa refleja una apuesta significativa contra los demócratas en un estado de fuerte inclinación republicana. El tamaño del trade, en ausencia de volumen de mercado reportado, sugiere una convicción institucional que busca capturar un edge por valoración, aunque el consenso externo podría estar subestimando el efecto de un posible cambio en el clima político nacional. Riesgo: la falta de liquidez puede ampliar el desvío entre el precio de compra y el valor justo esperado."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x61ea7ce7588a551d15b98afcdfd8ea92f75f6559cc97affae05b7abb08d50021",
-   "titulo": "LoL: Top Esports vs EDward Gaming - Game 1 Winner",
-   "slug": "lol-tes-edg-2026-08-16-game1",
-   "outcome": "Top Esports",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.82,
-   "usd": 1640.0,
-   "ts": 1786888041,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,640 en 'Top Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-tes-edg-2026-08-16-game1",
-   "titulo_es": "LoL: Top Esports vs EDward Gaming - Ganador del Juego 1",
-   "narrativa": "La compra de Top Esports a 1640 USD en el Juego 1 contra EDward Gaming aprovecha un desajuste de precios en un enfrentamiento de alto perfil de la LPL. El monto colocado indica una confianza en la forma reciente del equipo y en su draft de apertura, lo que podría traducirse en un edge de varios puntos si el mercado sobrevalora a EDG por su historial. Riesgo: la volatilidad en juegos individuales es alta y el desenlace puede depender de un solo teamfight, por lo que el resultado es binario y de alta incertidumbre."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -151,8 +110,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99205.216612,
    "spread": 0.0,
    "categoria": "Otros",
@@ -171,8 +130,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.325,
-   "no": 0.675,
+   "yes": 0.33,
+   "no": 0.67,
    "volumen": 99104.44479300002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -241,8 +200,8 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.5,
-   "no": 0.5,
+   "yes": 0.505,
+   "no": 0.495,
    "volumen": 9995.100677000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -281,8 +240,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0435,
-   "no": 0.9565,
+   "yes": 0.038,
+   "no": 0.962,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -336,5 +295,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 33.01
+ "db_size_mb": 33.16
 }
