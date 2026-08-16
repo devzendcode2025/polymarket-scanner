@@ -1,29 +1,29 @@
 {
- "ts": 1786856112,
- "stamp": "20260816_045512",
+ "ts": 1786856172,
+ "stamp": "20260816_045612",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x5302e8310617ef07577fd9e9d6b7c924f3cc2a9849a5e1ce06bdc9d41f2d1842",
-   "titulo": "Dota 2: Aurora vs BoomBoys - Game 2 Winner",
-   "slug": "dota2-aur1-boombo-2026-08-15-game2",
-   "outcome": "BoomBoys",
+   "market_id": "0xa6e8c89d197bb6d8cbe8a30712b96ebfc881c98f4646e9a68a9fd5e5835b9f6a",
+   "titulo": "Will the price of Ethereum be above $1,700 on August 16?",
+   "slug": "ethereum-above-1700-on-august-16-2026",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 5700.0,
-   "price": 0.55,
-   "usd": 3135.0,
-   "ts": 1786855579,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,135 en 'BoomBoys'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-aur1-boombo-2026-08-15-game2",
-   "titulo_es": "Dota 2: Aurora vs BoomBoys - Ganador del Juego 2",
-   "narrativa": "La compra de BoomBoys en el Juego 2 de Aurora vs BoomBoys acumula $3,135 USD en una sola orden, lo que representa una apuesta direccional clara en un mercado de baja liquidez donde el flujo puede mover la cuota a favor del comprador. Este tamaño, frente a un volumen de mercado no reportado, sugiere que el operador detectó un desajuste entre el precio actual y su valoración interna, generando un edge potencial en puntos si el consenso externo (por ejemplo, análisis de mapas o historial reciente) favorece a BoomBoys. La concentración de capital en un solo lado incrementa la presión sobre el lado contrario, lo que puede acelerar la corrección del precio hacia el nivel justo. Riesgo: poca liquidez y posible deslizamiento en la ejecución de la orden."
+   "size": 1400.0,
+   "price": 0.999,
+   "usd": 1398.6,
+   "ts": 1786855876,
+   "categoria": "Cripto",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,399 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ethereum-above-1700-on-august-16-2026",
+   "titulo_es": "¿Estará el precio de Ethereum por encima de $1,700 el 16 de agosto?",
+   "narrativa": "El mercado muestra una clara preferencia por el resultado 'Yes', y el monto de 1,398.6 USD en la posición de compra refleja convicción direccional. Aunque no hay volumen de mercado reportado, el tamaño del trade sugiere que el consenso externo se inclina hacia la superación del umbral de $1,700, ofreciendo un edge potencial si el precio mantiene su tendencia alcista. Riesgo: falta de datos de liquidez podría amplificar el desvío en la ejecución."
   }
  ],
  "edges": [],
@@ -141,8 +141,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0705,
-   "no": 0.9295,
+   "yes": 0.067,
+   "no": 0.933,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 25.6
+ "db_size_mb": 25.67
 }
