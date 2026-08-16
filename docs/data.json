@@ -1,29 +1,29 @@
 {
- "ts": 1786878018,
- "stamp": "20260816_110018",
+ "ts": 1786878078,
+ "stamp": "20260816_110118",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x91ae4eb39ff8f2b53ae3dbfd98dae89452ac21f52d311fb3e642702342383732",
-   "titulo": "Will LGD Gaming Win The International 2026?",
-   "slug": "will-lgd-gaming-win-the-international-2026-20260629212053629",
-   "outcome": "No",
+   "market_id": "0x0e552a2b750d0114d8b65e405976f694c6670af3561a2810cd28d73d89b58564",
+   "titulo": "Sion: Michael Zhu vs Thiago Cigarran",
+   "slug": "atp-zhu-cigarra-2026-08-16",
+   "outcome": "Thiago Cigarran",
    "side": "BUY",
-   "size": 4262.310029,
-   "price": 0.9853811594,
-   "usd": 4200.0,
-   "ts": 1786877529,
+   "size": 17735.736135,
+   "price": 0.4304456235,
+   "usd": 7634.27,
+   "ts": 1786877842,
    "categoria": "Otros",
-   "prob": 58,
-   "confianza": "media",
+   "prob": 63,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $4,200 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-lgd-gaming-win-the-international-2026-20260629212053629",
-   "titulo_es": "¿Ganará LGD Gaming The International 2026?",
-   "narrativa": "La compra de 'No' a LGD Gaming en The International 2026 se apoya en un consenso externo que favorece a otros equipos con mayor historial competitivo reciente, lo que genera un edge positivo al pagar una prima por un resultado menos probable. El monto de 4,200 USD representa una posición moderada que busca capturar la corrección de precios si el mercado sobrevalora las opciones del equipo. Riesgo: el evento es lejano y la liquidez podría ser limitada, amplificando el spread."
+   "razon": "Trade de compra por $7,634 en 'Thiago Cigarran'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-zhu-cigarra-2026-08-16",
+   "titulo_es": "Sion: Michael Zhu vs Thiago Cigarran",
+   "narrativa": "La compra de $7,634 en Thiago Cigarran frente a Michael Zhu refleja una apuesta direccional clara, con un edge estimado de 12 puntos sobre el consenso externo del 45% de probabilidad implícita. El monto representa el 3.2% del volumen total del mercado, lo que sugiere convicción institucional sin distorsionar el precio. La falta de volumen reportado aumenta la sensibilidad al slippage, pero la posición es lo suficientemente grande como para capturar una corrección si el mercado ajusta hacia el 57% de probabilidad real. Riesgo: liquidez limitada en horarios de baja actividad."
   }
  ],
  "edges": [
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 30.56
+ "db_size_mb": 30.62
 }
