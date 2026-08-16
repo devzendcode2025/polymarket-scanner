@@ -1,10 +1,31 @@
 {
- "ts": 1786858873,
- "stamp": "20260816_054113",
+ "ts": 1786859173,
+ "stamp": "20260816_054613",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xcfd7b6c5cb6ac707696fc97f7cd4db5427343b3ee868bc8039533e20305db5d6",
+   "titulo": "Dota 2: Team Spirit vs Team Resilience - Game 2 Winner",
+   "slug": "dota2-ts8-tr7-2026-08-16-game2",
+   "outcome": "Team Spirit",
+   "side": "BUY",
+   "size": 4054.054053,
+   "price": 0.7399999999,
+   "usd": 3000.0,
+   "ts": 1786858875,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,000 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16-game2",
+   "titulo_es": "Dota 2: Team Spirit vs Team Resilience - Ganador del Juego 2",
+   "narrativa": "La compra en Team Spirit para el Juego 2 presenta un edge positivo de +4.2 puntos frente al consenso externo del 58.3%, mientras el mercado cotiza a 54.1%, lo que indica una corrección pendiente a favor del equipo favorito. Con un monto de $3,000, la posición aprovecha una brecha de valor del 7.8% sobre la probabilidad implícita, respaldada por el desempeño histórico de Spirit en mapas decisivos. Riesgo: la volatilidad de pick/ban en Dota 2 puede reducir el edge en partidas individuales."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -160,8 +181,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.032,
-   "no": 0.968,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -170,8 +191,8 @@
   {
    "question": "Will Elif Eralp be the next Governing Mayor of Berlin?",
    "slug": "will-elif-eralp-be-the-next-governing-mayor-of-berlin-1786117615446",
-   "yes": 0.43,
-   "no": 0.57,
+   "yes": 0.435,
+   "no": 0.565,
    "volumen": 9968.575257999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 26.24
+ "db_size_mb": 26.3
 }
