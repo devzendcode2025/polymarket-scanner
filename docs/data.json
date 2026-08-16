@@ -1,6 +1,6 @@
 {
- "ts": 1786901485,
- "stamp": "20260816_173125",
+ "ts": 1786901545,
+ "stamp": "20260816_173225",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -231,8 +231,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0425,
-   "no": 0.9575,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -301,8 +301,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.38,
-   "no": 0.62,
+   "yes": 0.37,
+   "no": 0.63,
    "volumen": 9950.113178,
    "spread": 0.0,
    "categoria": "Tecnología",
