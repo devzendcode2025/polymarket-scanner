@@ -1,6 +1,6 @@
 {
- "ts": 1786903885,
- "stamp": "20260816_181125",
+ "ts": 1786903946,
+ "stamp": "20260816_181226",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -281,8 +281,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.37,
-   "no": 0.63,
+   "yes": 0.375,
+   "no": 0.625,
    "volumen": 9950.113178000001,
    "spread": 0.0,
    "categoria": "Tecnología",
