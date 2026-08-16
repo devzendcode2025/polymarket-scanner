@@ -1,29 +1,29 @@
 {
- "ts": 1786878318,
- "stamp": "20260816_110518",
+ "ts": 1786878378,
+ "stamp": "20260816_110618",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x0e552a2b750d0114d8b65e405976f694c6670af3561a2810cd28d73d89b58564",
-   "titulo": "Sion: Michael Zhu vs Thiago Cigarran",
-   "slug": "atp-zhu-cigarra-2026-08-16",
-   "outcome": "Thiago Cigarran",
+   "market_id": "0xb2e44a361f1d64c4d1c250fe7b17e822dbc8dc8544a18f145baa1de4a4002cd7",
+   "titulo": "Kingston: Richard Mallory vs Aidan Kim",
+   "slug": "atp-mallory-kim-2026-08-16",
+   "outcome": "Aidan Kim",
    "side": "BUY",
-   "size": 17735.736135,
-   "price": 0.4304456235,
-   "usd": 7634.27,
-   "ts": 1786877842,
-   "categoria": "Otros",
-   "prob": 63,
-   "confianza": "alta",
+   "size": 4128.502866,
+   "price": 0.9688742166,
+   "usd": 4000.0,
+   "ts": 1786878141,
+   "categoria": "Tecnología",
+   "prob": 58,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $7,634 en 'Thiago Cigarran'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-zhu-cigarra-2026-08-16",
-   "titulo_es": "Sion: Michael Zhu vs Thiago Cigarran",
-   "narrativa": "La compra de $7,634 en Thiago Cigarran frente a Michael Zhu refleja una apuesta direccional clara, con un edge estimado de 12 puntos sobre el consenso externo del 45% de probabilidad implícita. El monto representa el 3.2% del volumen total del mercado, lo que sugiere convicción institucional sin distorsionar el precio. La falta de volumen reportado aumenta la sensibilidad al slippage, pero la posición es lo suficientemente grande como para capturar una corrección si el mercado ajusta hacia el 57% de probabilidad real. Riesgo: liquidez limitada en horarios de baja actividad."
+   "razon": "Trade de compra por $4,000 en 'Aidan Kim'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-mallory-kim-2026-08-16",
+   "titulo_es": "Kingston: Richard Mallory contra Aidan Kim",
+   "narrativa": "La compra de 4,000 USD en Aidan Kim frente a Richard Mallory refleja una apuesta clara por el desenlace menos favorecido por el público, lo que sugiere que el comprador maneja información o un modelo de valoración con ventaja sobre el consenso. Aunque no se dispone del volumen total del mercado para calcular el edge exacto, la magnitud del monto en relación con la probable liquidez del evento indica una convicción fuerte que puede generar un ajuste de precios a favor del comprador. Riesgo: liquidez limitada en mercados de nicho, lo que podría amplificar el deslizamiento al ejecutar la salida."
   }
  ],
  "edges": [
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 30.63
+ "db_size_mb": 30.7
 }
