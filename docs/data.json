@@ -1,6 +1,6 @@
 {
- "ts": 1786851071,
- "stamp": "20260816_033111",
+ "ts": 1786851131,
+ "stamp": "20260816_033211",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -81,8 +81,8 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.061,
-   "no": 0.939,
+   "yes": 0.0615,
+   "no": 0.9385,
    "volumen": 99560.051906,
    "spread": 0.0,
    "categoria": "Otros",
@@ -201,8 +201,8 @@
   {
    "question": "Spread: Real Salt Lake (-1.5)",
    "slug": "mls-rsl-min-2026-08-15-spread-home-1pt5",
-   "yes": 0.185,
-   "no": 0.815,
+   "yes": 0.015,
+   "no": 0.985,
    "volumen": 9975.990910999997,
    "spread": 0.0,
    "categoria": "Otros",
@@ -211,8 +211,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.037,
-   "no": 0.963,
+   "yes": 0.0365,
+   "no": 0.9635,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -251,8 +251,8 @@
   {
    "question": "Will David Burck be the FL-22 Republican nominee?",
    "slug": "will-david-burck-be-the-fl-22-republican-nominee-20260723181248783",
-   "yes": 0.1505,
-   "no": 0.8495,
+   "yes": 0.1515,
+   "no": 0.8485,
    "volumen": 9936.528224999998,
    "spread": 0.0,
    "categoria": "Política",
