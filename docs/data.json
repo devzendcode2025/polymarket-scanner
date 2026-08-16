@@ -1,29 +1,49 @@
 {
- "ts": 1786878618,
- "stamp": "20260816_111018",
+ "ts": 1786878678,
+ "stamp": "20260816_111118",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb2e44a361f1d64c4d1c250fe7b17e822dbc8dc8544a18f145baa1de4a4002cd7",
-   "titulo": "Kingston: Richard Mallory vs Aidan Kim",
-   "slug": "atp-mallory-kim-2026-08-16",
-   "outcome": "Aidan Kim",
+   "market_id": "0xea10d8dd95b0c4ad57330dddb04d8d832d0c85a5774c75e58628622f0aac5332",
+   "titulo": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
+   "slug": "dota2-lgd-ty-2026-08-16",
+   "outcome": "LGD Gaming",
    "side": "BUY",
-   "size": 4128.502866,
-   "price": 0.9688742166,
-   "usd": 4000.0,
-   "ts": 1786878141,
-   "categoria": "Tecnología",
-   "prob": 58,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,000 en 'Aidan Kim'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-mallory-kim-2026-08-16",
-   "titulo_es": "Kingston: Richard Mallory contra Aidan Kim",
-   "narrativa": "La compra de 4,000 USD en Aidan Kim frente a Richard Mallory refleja una apuesta clara por el desenlace menos favorecido por el público, lo que sugiere que el comprador maneja información o un modelo de valoración con ventaja sobre el consenso. Aunque no se dispone del volumen total del mercado para calcular el edge exacto, la magnitud del monto en relación con la probable liquidez del evento indica una convicción fuerte que puede generar un ajuste de precios a favor del comprador. Riesgo: liquidez limitada en mercados de nicho, lo que podría amplificar el deslizamiento al ejecutar la salida."
+   "size": 2006.0,
+   "price": 0.62,
+   "usd": 1243.72,
+   "ts": 1786878442,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,244 en 'LGD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-lgd-ty-2026-08-16",
+   "titulo_es": "Dota 2: LGD Gaming vs Team Yandex (BO3) - Ronda de Eliminación de The International",
+   "narrativa": "Dos compras consecutivas de 1.243,72 USD y 1.240 USD sobre LGD Gaming en la misma ventana de tiempo reflejan una acumulación coordinada de capital, lo que sugiere convicción direccional en el favorito del BO3. El monto agregado supera los 2.480 USD, un flujo relevante para un mercado sin volumen reportado, y la consistencia en el lado comprador apunta a una ventaja de información o de alineación de intereses. Riesgo: liquidez limitada podría amplificar el impacto de la orden, pero también la volatilidad del precio."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xea10d8dd95b0c4ad57330dddb04d8d832d0c85a5774c75e58628622f0aac5332",
+   "titulo": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
+   "slug": "dota2-lgd-ty-2026-08-16",
+   "outcome": "LGD Gaming",
+   "side": "BUY",
+   "size": 2000.0,
+   "price": 0.62,
+   "usd": 1240.0,
+   "ts": 1786878441,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,240 en 'LGD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-lgd-ty-2026-08-16",
+   "titulo_es": "Dota 2: LGD Gaming vs Team Yandex (BO3) - Ronda de Eliminación de The International",
+   "narrativa": "La repetición de la apuesta a LGD Gaming con un monto casi idéntico (1.240 USD) refuerza la señal de acumulación, elevando el edge implícito al concentrar capital en un solo resultado sin dispersión. Este patrón de doble entrada, junto con la ausencia de ventas compensatorias, sugiere que el mercado aún no ha absorbido la presión compradora, dejando margen para un ajuste alcista en la probabilidad implícita. Riesgo: la falta de volumen de mercado puede generar deslizamientos si se busca salir rápido."
   }
  ],
  "edges": [
@@ -316,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 30.71
+ "db_size_mb": 30.77
 }
