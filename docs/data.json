@@ -1,6 +1,6 @@
 {
- "ts": 1786882880,
- "stamp": "20260816_122120",
+ "ts": 1786882940,
+ "stamp": "20260816_122220",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -133,7 +133,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920004,
+   "volumen": 991312.1319920003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -221,8 +221,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.315,
-   "no": 0.685,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 99104.44479299997,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -291,8 +291,8 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.485,
-   "no": 0.515,
+   "yes": 0.495,
+   "no": 0.505,
    "volumen": 9975.000677000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -301,8 +301,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.04,
-   "no": 0.96,
+   "yes": 0.036,
+   "no": 0.964,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -376,5 +376,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 31.75
+ "db_size_mb": 31.76
 }
