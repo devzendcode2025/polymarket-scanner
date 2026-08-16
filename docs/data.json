@@ -1,6 +1,6 @@
 {
- "ts": 1786918290,
- "stamp": "20260816_221130",
+ "ts": 1786918349,
+ "stamp": "20260816_221229",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -219,6 +219,16 @@
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
   },
   {
+   "question": "Bitcoin Up or Down on August 17?",
+   "slug": "bitcoin-up-or-down-on-august-17-2026",
+   "yes": 0.38,
+   "no": 0.62,
+   "volumen": 98190.08890100001,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Bitcoin sube o baja el 17 de agosto?"
+  },
+  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -241,8 +251,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.045,
-   "no": 0.955,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -251,8 +261,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.365,
-   "no": 0.635,
+   "yes": 0.36,
+   "no": 0.64,
    "volumen": 9972.113178,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -291,22 +301,12 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.075,
+   "no": 0.925,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
-  },
-  {
-   "question": "Will DeepSeek have the best Chinese AI model at the end of September 2026?",
-   "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830",
-   "yes": 0.033,
-   "no": 0.967,
-   "volumen": 9933.341382,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de septiembre de 2026?"
   }
  ],
  "historico": {
