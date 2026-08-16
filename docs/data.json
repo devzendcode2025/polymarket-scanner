@@ -1,6 +1,6 @@
 {
- "ts": 1786908987,
- "stamp": "20260816_193627",
+ "ts": 1786909047,
+ "stamp": "20260816_193727",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -73,7 +73,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988553.654969,
+   "volumen": 988553.6549689998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -83,10 +83,20 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987424.5302610004,
+   "volumen": 987424.530261,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
+  },
+  {
+   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
+   "yes": 0.0065,
+   "no": 0.9935,
+   "volumen": 983741.491909,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
@@ -113,7 +123,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.0615,
    "no": 0.9385,
-   "volumen": 99784.257485,
+   "volumen": 99784.25748500001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -129,21 +139,11 @@
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
   },
   {
-   "question": "Texas Rangers vs. Athletics",
-   "slug": "mlb-tex-oak-2026-08-16",
-   "yes": 0.535,
-   "no": 0.465,
-   "volumen": 99354.796086,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Texas Rangers vs. Athletics"
-  },
-  {
    "question": "Will Beşiktaş JK win on 2026-08-16?",
    "slug": "tur-bes-eyu-2026-08-16-bes",
-   "yes": 0.91,
-   "no": 0.09,
-   "volumen": 99324.32767199998,
+   "yes": 0.905,
+   "no": 0.095,
+   "volumen": 99666.82792599997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará el Beşiktaş JK el 2026-08-16?"
@@ -173,7 +173,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.345,
    "no": 0.655,
-   "volumen": 99104.44479299999,
+   "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -183,7 +183,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.58341900003,
+   "volumen": 99017.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -203,7 +203,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98835.60276299997,
+   "volumen": 98835.60276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -213,7 +213,7 @@
    "slug": "will-everton-win-the-2026-27-english-premier-league-epl-championship-20260701200428757",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98685.05900000002,
+   "volumen": 98685.059,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Everton el Campeonato de la Premier League inglesa (EPL) 2026-27?"
@@ -243,7 +243,7 @@
    "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 9977.221454999999,
+   "volumen": 9977.221455000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Se unirá Julián Álvarez al Real Madrid?"
@@ -251,8 +251,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.034,
-   "no": 0.966,
+   "yes": 0.042,
+   "no": 0.958,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -273,7 +273,7 @@
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
    "yes": 0.795,
    "no": 0.205,
-   "volumen": 9951.191957000003,
+   "volumen": 9951.191957000001,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
@@ -281,8 +281,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.37,
-   "no": 0.63,
+   "yes": 0.375,
+   "no": 0.625,
    "volumen": 9950.113178000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -293,7 +293,7 @@
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.0465,
    "no": 0.9535,
-   "volumen": 9947.125083000003,
+   "volumen": 9947.125083,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 37.61
+ "db_size_mb": 37.62
 }
