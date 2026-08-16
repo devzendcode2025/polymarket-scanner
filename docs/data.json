@@ -1,10 +1,31 @@
 {
- "ts": 1786911088,
- "stamp": "20260816_201128",
+ "ts": 1786911388,
+ "stamp": "20260816_201628",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x9877da04be5d3aecdd51eb30537ff5b5070fd14acfb69feaa0be1d22fb8c0046",
+   "titulo": "Miami Marlins vs. Cincinnati Reds",
+   "slug": "mlb-mia-cin-2026-08-16",
+   "outcome": "Miami Marlins",
+   "side": "SELL",
+   "size": 5001.0,
+   "price": 0.87,
+   "usd": 4350.87,
+   "ts": 1786911174,
+   "categoria": "Otros",
+   "prob": 58,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $4,351 en 'Miami Marlins'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-mia-cin-2026-08-16",
+   "titulo_es": "Miami Marlins vs. Cincinnati Reds",
+   "narrativa": "El mercado descuenta la victoria de Miami Marlins, pero la venta de 4,350 USD en este resultado sugiere que un operador con información relevante está tomando ganancias o cubriendo una posición, lo que podría anticipar una corrección en el precio. Aunque no contamos con el consenso externo para comparar, el tamaño del trade en relación al volumen total del mercado (aún no reportado) indica una presión vendedora significativa que podría abrir una oportunidad de arbitraje si el precio se mantiene artificialmente alto. Riesgo: la falta de datos de volumen limita la confirmación de la señal."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -295,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 38.11
+ "db_size_mb": 38.18
 }
