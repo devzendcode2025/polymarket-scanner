@@ -1,49 +1,49 @@
 {
- "ts": 1786894523,
- "stamp": "20260816_153523",
+ "ts": 1786894883,
+ "stamp": "20260816_154123",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x1373e25b6a3a139a5a4fb35bd5329e40e862f2979a73cca51ba03173e6f6ca34",
-   "titulo": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
-   "slug": "wta-tjen-golubic-2026-08-16",
-   "outcome": "Janice Tjen",
+   "market_id": "0x8d4a0cdd59489a101dd411bc838c25e372a0734afb25587bf6d26de0d90969b6",
+   "titulo": "Will KS Cracovia Krakow win on 2026-08-16?",
+   "slug": "pol-cra-cze-2026-08-16-cra",
+   "outcome": "No",
    "side": "BUY",
-   "size": 21977.9,
-   "price": 0.25,
-   "usd": 5494.48,
-   "ts": 1786894047,
-   "categoria": "Deportes",
-   "prob": 60,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,494 en 'Janice Tjen'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-tjen-golubic-2026-08-16",
-   "titulo_es": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
-   "narrativa": "Se detecta una compra relevante de $5,494 USD sobre Janice Tjen, lo que representa una apuesta direccional clara en un mercado de tenis de alto perfil. El monto concentrado sugiere convicción de un operador con información o modelo propio, y el edge implícito se amplía si el consenso externo subestima su forma física reciente. Riesgo: el volumen total del mercado no está disponible, lo que podría implicar liquidez limitada para salir en contra."
+   "size": 2000.0,
+   "price": 0.63,
+   "usd": 1260.0,
+   "ts": 1786894657,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,260 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/pol-cra-cze-2026-08-16-cra",
+   "titulo_es": "¿Ganará el KS Cracovia Krakow el 2026-08-16?",
+   "narrativa": "La compra de 'No' en el KS Cracovia Krakow refleja una apuesta significativa de $1,260 contra la victoria local, lo que sugiere que el mercado está descontando una alta probabilidad de que no se imponga. Este movimiento de ballena, en un evento con volumen de mercado no reportado, indica una posible percepción de valor si el consenso externo favorece al rival o un empate. Riesgo: la falta de datos de volumen puede implicar liquidez limitada y movimientos de precio erráticos."
   },
   {
    "tipo": "ballena",
-   "market_id": "0x1373e25b6a3a139a5a4fb35bd5329e40e862f2979a73cca51ba03173e6f6ca34",
-   "titulo": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
-   "slug": "wta-tjen-golubic-2026-08-16",
-   "outcome": "Viktorija Golubic",
+   "market_id": "0x9c56b0a5c3011bb70b570e5b7f074d3ec06cc7186d93831bc0005b9d1fa10f05",
+   "titulo": "Will West Ham United FC win on 2026-08-16?",
+   "slug": "elc-bur-whu-2026-08-16-whu",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 2036.0,
-   "price": 0.75,
-   "usd": 1527.0,
-   "ts": 1786894048,
-   "categoria": "Deportes",
-   "prob": 54,
+   "size": 1630.32,
+   "price": 0.63,
+   "usd": 1027.1,
+   "ts": 1786894651,
+   "categoria": "Otros",
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,527 en 'Viktorija Golubic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-tjen-golubic-2026-08-16",
-   "titulo_es": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
-   "narrativa": "La compra de $1,527 USD sobre Viktorija Golubic contrasta con la operación mayoritaria en Tjen, lo que genera una oportunidad de arbitraje de opiniones dentro del mismo evento. Si el consenso externo favorece a Tjen por su juventud, este flujo contrario sugiere que Golubic ofrece valor a un precio descontado, con un edge potencial en puntos si su experiencia en pista dura pesa más. Riesgo: la falta de volumen de mercado puede amplificar el impacto de esta orden en el precio."
+   "razon": "Trade de compra por $1,027 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elc-bur-whu-2026-08-16-whu",
+   "titulo_es": "¿Ganará el West Ham United FC el 2026-08-16?",
+   "narrativa": "La compra de 'Yes' por $1,027 en el West Ham United FC apunta a que el operador ve una oportunidad en la victoria del equipo, posiblemente respaldada por un edge positivo frente al consenso externo. La magnitud del trade sugiere confianza en el resultado, pero sin datos de volumen de mercado, la ejecución podría enfrentar spreads amplios. Riesgo: la ausencia de liquidez visible puede amplificar el deslizamiento en la entrada o salida."
   }
  ],
  "edges": [
@@ -83,7 +83,7 @@
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 991312.1319920003,
+   "volumen": 991312.1319920004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
@@ -93,7 +93,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988542.5749689997,
+   "volumen": 988542.5749690001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -103,7 +103,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987214.7402610002,
+   "volumen": 987214.7402610001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -113,7 +113,7 @@
    "slug": "will-pvision-win-the-cs2-ewc-2026-20260810160005103",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99913.74988100001,
+   "volumen": 99913.749881,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará PVISION el CS2 EWC 2026?"
@@ -123,7 +123,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99899.36839399999,
+   "volumen": 99899.368394,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -133,17 +133,27 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900002,
+   "volumen": 99798.31490900005,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
+  },
+  {
+   "question": "Will Trump visit North Korea by December 31?",
+   "slug": "will-trump-visit-north-korea-by-december-31",
+   "yes": 0.077,
+   "no": 0.923,
+   "volumen": 99781.706217,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
   },
   {
    "question": "Foreign intervention in Gaza by September 30?",
    "slug": "foreign-intervention-in-gaza-by-september-30",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 99717.65774699996,
+   "volumen": 99717.65774699999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Intervención extranjera en Gaza antes del 30 de septiembre?"
@@ -153,7 +163,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.063,
    "no": 0.937,
-   "volumen": 99653.19651799998,
+   "volumen": 99653.196518,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -171,8 +181,8 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.034,
-   "no": 0.966,
+   "yes": 0.0335,
+   "no": 0.9665,
    "volumen": 99179.48181799994,
    "spread": 0.0,
    "categoria": "Otros",
@@ -183,7 +193,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99104.44479300002,
+   "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -193,7 +203,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.583419,
+   "volumen": 99017.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -213,20 +223,10 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98835.60276299999,
+   "volumen": 98835.60276299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will Trump visit North Korea by December 31?",
-   "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.077,
-   "no": 0.923,
-   "volumen": 98803.826217,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -251,49 +251,19 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.5,
-   "no": 0.5,
-   "volumen": 9995.100677000002,
+   "yes": 0.505,
+   "no": 0.495,
+   "volumen": 9995.100677,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Tom Holland como Spider-Man?"
-  },
-  {
-   "question": "Will GAIS win on 2026-08-16?",
-   "slug": "swe-gais-mal-2026-08-16-gais",
-   "yes": 0.365,
-   "no": 0.635,
-   "volumen": 9992.231711999997,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Ganará GAIS el 2026-08-16?"
-  },
-  {
-   "question": "Molde FK vs. Tromsø IL: O/U 2.5",
-   "slug": "nor-mol-tro-2026-08-16-total-2pt5",
-   "yes": 0.425,
-   "no": 0.575,
-   "volumen": 9989.391974999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Molde FK vs. Tromsø IL: Más/Menos 2.5"
-  },
-  {
-   "question": "Will Racing Club De Lens win on 2026-08-16?",
-   "slug": "frtc-rcl-psg-2026-08-16-rcl",
-   "yes": 0.185,
-   "no": 0.815,
-   "volumen": 9984.004340999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Racing Club de Lens el 2026-08-16?"
   },
   {
    "question": "Will Julian Alvarez join Real Madrid?",
    "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 9977.221455000003,
+   "volumen": 9977.221455,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Se unirá Julián Álvarez al Real Madrid?"
@@ -301,8 +271,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.0335,
+   "no": 0.9665,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -327,6 +297,36 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "LoL: Movistar KOI vs Natus Vincere - Game 2 Winner",
+   "slug": "lol-mkoi-navi-2026-08-16-game2",
+   "yes": 0.585,
+   "no": 0.415,
+   "volumen": 9963.028136,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: Movistar KOI vs Natus Vincere - Ganador del Juego 2"
+  },
+  {
+   "question": "Will Colonel Busnello win the Governor of Rio de Janeiro election?",
+   "slug": "will-candidate-d-win-the-governor-of-rio-de-janeiro-election-20260608202950333",
+   "yes": 0.0035,
+   "no": 0.9965,
+   "volumen": 9958.600267,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Coronel Busnello la elección para Gobernador de Río de Janeiro?"
+  },
+  {
+   "question": "Will Google be the third-best AI lab at the end of August 2026?",
+   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
+   "yes": 0.435,
+   "no": 0.565,
+   "volumen": 9947.453486999999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
   }
  ],
  "historico": {
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 34.33
+ "db_size_mb": 34.46
 }
