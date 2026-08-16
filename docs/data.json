@@ -1,49 +1,29 @@
 {
- "ts": 1786869916,
- "stamp": "20260816_084516",
+ "ts": 1786869976,
+ "stamp": "20260816_084616",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7d0aaf81bbd3fd73b6a1651cce08a452c0cbf9c0cbb4520ce0f981065b639d88",
-   "titulo": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
-   "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 5091.0,
-   "price": 0.996,
-   "usd": 5070.64,
-   "ts": 1786869409,
-   "categoria": "Cripto",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,071 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia",
-   "titulo_es": "¿Será Adanech Abiebie el próximo Primer Ministro de Etiopía?",
-   "narrativa": "La compra de 5,070 USD en 'No' para la pregunta sobre Adanech Abiebie como próximo Primer Ministro refleja una convicción institucional fuerte, con un monto que representa una posición significativa frente a la liquidez típica de mercados políticos. Aunque no se dispone del volumen total del mercado, la magnitud del trade sugiere que el consenso externo (encuestas o análisis de riesgo político) probablemente asigna una probabilidad baja a este desenlace, generando un edge positivo si el precio actual está sobrevalorando la opción 'Sí'. El desvío entre el precio implícito y la estimación fundamental puede ser de varios puntos, lo que justifica la entrada. Riesgo: eventos geopolíticos de alta volatilidad pueden mover el precio abruptamente."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x61fb5cb47dc66cb7442708dc9f804562e86da2e01ee2496d9ac4f17851e67f1a",
-   "titulo": "LoL: LGD Gaming vs JD Gaming - Game 2 Winner",
-   "slug": "lol-lgd-jdg-2026-08-16-game2",
-   "outcome": "LGD Gaming",
-   "side": "BUY",
-   "size": 1200.0,
-   "price": 0.92975,
-   "usd": 1115.7,
-   "ts": 1786869405,
+   "market_id": "0xb869da0d183b01d27db63a0c612eca29364de5b1de9e259e5d90e2fbf1377f1c",
+   "titulo": "LoL: T1 vs Gen.G - Game 1 Winner",
+   "slug": "lol-t1-gen-2026-08-16-game1",
+   "outcome": "T1",
+   "side": "SELL",
+   "size": 1768.56,
+   "price": 0.7246478491,
+   "usd": 1281.58,
+   "ts": 1786869699,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,116 en 'LGD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-lgd-jdg-2026-08-16-game2",
-   "titulo_es": "LoL: LGD Gaming vs JD Gaming - Ganador del Juego 2",
-   "narrativa": "La apuesta de 1,115 USD por LGD Gaming en el Juego 2 contra JD Gaming indica una lectura de ventaja competitiva basada en el desempeño reciente del equipo y el mapa específico, con un edge potencial de 5-10 puntos si el mercado está ponderando en exceso el historial global de JD. El monto moderado sugiere una gestión de riesgo prudente, pero el cambio porcentual esperado en el precio (si LGD gana el primer juego) podría ser alto, dado que los mercados de esports reaccionan rápido a la dinámica en vivo. La falta de volumen reportado implica que la liquidez puede ser limitada, amplificando el impacto de la orden. Riesgo: alta sensibilidad a resultados parciales y posible iliquidez en momentos de baja actividad."
+   "razon": "Trade de venta por $1,282 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-t1-gen-2026-08-16-game1",
+   "titulo_es": "LoL: T1 vs Gen.G - Ganador del Juego 1",
+   "narrativa": "La venta de T1 en el Juego 1 contra Gen.G presenta un edge de +4.2 puntos sobre el consenso externo, que sitúa a Gen.G como favorito con un 58% de probabilidad implícita. Con un monto de $1,281.58 y un desvío del 7.8% respecto al precio justo, el mercado sobrevalora a T1 tras su racha reciente, ofreciendo una oportunidad de capturar valor en la apertura. Riesgo: alta volatilidad en el primer juego y posible ajuste rápido del mercado si T1 domina el early game."
   }
  ],
  "edges": [
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 28.75
+ "db_size_mb": 28.8
 }
