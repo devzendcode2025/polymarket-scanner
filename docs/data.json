@@ -1,6 +1,6 @@
 {
- "ts": 1786877778,
- "stamp": "20260816_105618",
+ "ts": 1786877838,
+ "stamp": "20260816_105718",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -121,8 +121,8 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.0615,
-   "no": 0.9385,
+   "yes": 0.062,
+   "no": 0.938,
    "volumen": 99646.19651800001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -231,8 +231,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0385,
-   "no": 0.9615,
+   "yes": 0.038,
+   "no": 0.962,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -261,8 +261,8 @@
   {
    "question": "ADO Den Haag vs. FC Groningen: 1st Half O/U 2.5",
    "slug": "ere-ado-gro-2026-08-16-first-half-total-2pt5",
-   "yes": 0.355,
-   "no": 0.645,
+   "yes": 0.285,
+   "no": 0.715,
    "volumen": 9947.584903000004,
    "spread": 0.0,
    "categoria": "Otros",
