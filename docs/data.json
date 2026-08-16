@@ -1,6 +1,6 @@
 {
- "ts": 1786872677,
- "stamp": "20260816_093117",
+ "ts": 1786872737,
+ "stamp": "20260816_093217",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -250,8 +250,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.32,
-   "no": 0.68,
+   "yes": 0.33,
+   "no": 0.67,
    "volumen": 99104.44479300002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -320,8 +320,8 @@
   {
    "question": "Will the price of Ethereum be above $2,000 on August 16?",
    "slug": "ethereum-above-2000-on-august-16-2026",
-   "yes": 0.0005,
-   "no": 0.9995,
+   "yes": 0.001,
+   "no": 0.999,
    "volumen": 9973.699396999998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -350,8 +350,8 @@
   {
    "question": "Will the highest temperature in Paris be 31°C on August 16?",
    "slug": "highest-temperature-in-paris-on-august-16-2026-31c",
-   "yes": 0.755,
-   "no": 0.245,
+   "yes": 0.705,
+   "no": 0.295,
    "volumen": 9956.793109999999,
    "spread": 0.0,
    "categoria": "Otros",
