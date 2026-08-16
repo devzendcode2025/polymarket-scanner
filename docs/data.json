@@ -1,31 +1,10 @@
 {
- "ts": 1786919730,
- "stamp": "20260816_223530",
+ "ts": 1786920090,
+ "stamp": "20260816_224130",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xa2f2fe10973721e118735f4fcab7cf1c51a3550e45ee81daebc8a5e7bacf7419",
-   "titulo": "CF América vs. Atlético San Luis: O/U 2.5",
-   "slug": "mex-ame-asl-2026-08-16-total-2pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 5000.0,
-   "price": 0.5,
-   "usd": 2500.0,
-   "ts": 1786919278,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,500 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mex-ame-asl-2026-08-16-total-2pt5",
-   "titulo_es": "CF América vs. Atlético San Luis: Más/Menos 2.5",
-   "narrativa": "El mercado de 'Más/Menos 2.5' para el CF América vs. Atlético San Luis presenta una oportunidad de compra en 'Over' con un monto de $2,500 USD, apoyada en la tendencia ofensiva del América como local y la fragilidad defensiva de San Luis en partidos recientes. El edge estimado es de +4.2 puntos frente al consenso externo del 52% de probabilidad implícita, lo que sugiere que el precio actual no refleja plenamente la frecuencia histórica de goles en enfrentamientos entre estos equipos. Aunque el volumen de mercado no está disponible, la liquidez en este tipo de eventos suele ser moderada, por lo que se recomienda ejecutar la orden en tramos para minimizar el deslizamiento. Riesgo: posible juego cerrado si San Luis plantea un bloque bajo, lo que reduciría el ritmo de anotaciones."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -42,7 +21,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will AJ Mercurio win the 2026 PLL Defensive Player of the Year?",
+     "_poly_question": "Spread: Brentford FC (-1.5)",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -73,7 +52,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988590.7648569999,
+   "volumen": 988597.2548569998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -83,7 +62,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987527.9902610002,
+   "volumen": 987527.9902610001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -103,7 +82,7 @@
    "slug": "will-the-republicans-win-the-iowa-senate-race-in-2026",
    "yes": 0.575,
    "no": 0.425,
-   "volumen": 99927.92006500001,
+   "volumen": 99927.92006500003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los Republicanos la carrera al Senado de Iowa en 2026?"
@@ -113,7 +92,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99899.36839400002,
+   "volumen": 99899.36839399999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -123,7 +102,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900001,
+   "volumen": 99798.31490900004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -153,7 +132,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.032,
    "no": 0.968,
-   "volumen": 99181.48181799999,
+   "volumen": 99181.48181799996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -181,12 +160,22 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
+  },
+  {
+   "question": "Will Elon Musk post 240-259 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-240-259",
+   "yes": 0.0035,
+   "no": 0.9965,
+   "volumen": 98899.56038600001,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 240 y 259 tuits del 11 al 18 de agosto de 2026?"
   },
   {
    "question": "US charges Hormuz fees by December 31, 2026?",
@@ -201,8 +190,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0075,
-   "no": 0.9925,
+   "yes": 0.008,
+   "no": 0.992,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -249,16 +238,6 @@
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "Will Google be the third-best AI lab at the end of August 2026?",
-   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.405,
-   "no": 0.595,
-   "volumen": 9972.113178,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
-  },
-  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -289,6 +268,16 @@
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
+   "question": "Spread: CA River Plate (-1.5)",
+   "slug": "arg-riv-aaj-2026-08-16-spread-home-1pt5",
+   "yes": 0.235,
+   "no": 0.765,
+   "volumen": 9944.932073999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Margen: CA River Plate (-1.5)"
+  },
+  {
    "question": "Will DeepSeek have the best Chinese AI model at the end of September 2026?",
    "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830",
    "yes": 0.033,
@@ -297,16 +286,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de septiembre de 2026?"
-  },
-  {
-   "question": "USMCA extended in 2026?",
-   "slug": "usmca-extended-in-2026-20260701162719768",
-   "yes": 0.205,
-   "no": 0.795,
-   "volumen": 9923.915997999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Se extenderá el T-MEC en 2026?"
   }
  ],
  "historico": {
@@ -316,5 +295,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 40.02
+ "db_size_mb": 40.13
 }
