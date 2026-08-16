@@ -1,10 +1,31 @@
 {
- "ts": 1786921410,
- "stamp": "20260816_230330",
+ "ts": 1786921590,
+ "stamp": "20260816_230630",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+   "titulo": "Iran charges Hormuz fees by August 31?",
+   "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2759.25,
+   "price": 0.91,
+   "usd": 2510.92,
+   "ts": 1786921381,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,511 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
+   "titulo_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?",
+   "narrativa": "La compra de 'No' a 2,510 USD refleja que el mercado descuenta una baja probabilidad de que Irán materialice tarifas en Hormuz antes del 31 de agosto, con un consenso externo que favorece la continuidad del tránsito marítimo. El tamaño de la posición sugiere una convicción institucional en que el riesgo geopolítico no escalará a un cierre efectivo del estrecho, ofreciendo un edge positivo si el evento se mantiene como ruido diplomático. Riesgo: eventos de última hora o escaladas retóricas pueden mover el precio abruptamente."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -295,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 40.41
+ "db_size_mb": 40.46
 }
