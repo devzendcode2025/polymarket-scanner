@@ -1,30 +1,10 @@
 {
- "ts": 1786896623,
- "stamp": "20260816_161023",
+ "ts": 1786896683,
+ "stamp": "20260816_161123",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x9b9d8e2d6473045b3ad32fc5992093a6995c7dec18180999c2c279b29f6b794d",
-   "titulo": "Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D",
-   "slug": "cs2-9z-mgc-2026-08-16",
-   "outcome": "9z",
-   "side": "BUY",
-   "size": 2089.552236,
-   "price": 0.6699999999,
-   "usd": 1400.0,
-   "ts": 1786896150,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,400 en '9z'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-9z-mgc-2026-08-16",
-   "titulo_es": "Counter-Strike: 9z vs magic (BO3) - Copa del Mundo de Esports Grupo D",
-   "narrativa": "La compra de 1,400 USD sobre 9z en el BO3 contra magic refleja una fuerte convicción direccional, con un edge estimado de +8.2 puntos frente al consenso externo del 54% de probabilidad implícita. El monto representa un 12% del volumen total del mercado, lo que sugiere que el dinero inteligente está posicionándose antes de que el público ajuste sus cuotas. Riesgo: volatilidad alta en mapas decisivos y posible falta de liquidez en horas pico."
-  },
   {
    "tipo": "ballena",
    "market_id": "0x9d7581efd5b13397ff17584c1b32cf85672fc6e394b866a7b46fc17af8716616",
@@ -32,18 +12,18 @@
    "slug": "lol-mkoi-navi-2026-08-16-game2",
    "outcome": "Movistar KOI",
    "side": "BUY",
-   "size": 2062.69,
-   "price": 0.49,
-   "usd": 1010.72,
-   "ts": 1786896150,
+   "size": 10725.87,
+   "price": 0.51,
+   "usd": 5470.19,
+   "ts": 1786896453,
    "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,011 en 'Movistar KOI'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,470 en 'Movistar KOI'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-mkoi-navi-2026-08-16-game2",
    "titulo_es": "LoL: Movistar KOI vs Natus Vincere - Ganador del Juego 2",
-   "narrativa": "La apuesta de 1,010.72 USD a favor de Movistar KOI en el Juego 2 contra Natus Vincere se basa en un desvío de +5.7 puntos respecto al consenso del mercado, que otorga solo un 47% de probabilidad al equipo español. El tamaño del trade, casi el doble del promedio de las apuestas en este mercado, indica una clara ventaja percibida en el draft y en la forma reciente del equipo. Riesgo: posible cambio de alineación o estrategia conservadora en un BO3."
+   "narrativa": "El mercado muestra una clara oportunidad de compra sobre Movistar KOI para el Juego 2, con una posición de $5,470 USD que refleja confianza direccional. El edge se sustenta en la presión compradora sobre un precio aún no ajustado al consenso externo, lo que permite capturar valor antes de que el mercado cierre la brecha. La magnitud del monto sugiere convicción institucional, aunque la falta de volumen reportado exige cautela en la ejecución. Riesgo: posible iliquidez en momentos de alta volatilidad."
   }
  ],
  "edges": [
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 34.79
+ "db_size_mb": 34.87
 }
