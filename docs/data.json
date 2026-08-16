@@ -1,53 +1,103 @@
 {
- "ts": 1786840508,
- "stamp": "20260816_003508",
+ "ts": 1786840868,
+ "stamp": "20260816_004108",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3d4c1bde52bac28fddeaf11e9f248c4b0e6c773b2c53543041080aef1db59dff",
-   "titulo": "Will Spokane Velocity FC win on 2026-08-15?",
-   "slug": "usl1-spo-coc-2026-08-15-spo",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 4043.02,
-   "price": 0.48,
-   "usd": 1940.65,
-   "ts": 1786839951,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,941 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/usl1-spo-coc-2026-08-15-spo",
-   "titulo_es": "¿Ganará Spokane Velocity FC el 2026-08-15?",
-   "narrativa": "La compra de 1,940 USD en 'Yes' para Spokane Velocity FC representa una apuesta significativa contra el consenso del mercado, que probablemente infravalora su potencial local en esa fecha. Este flujo de capital, al ser de gran tamaño en relación al volumen típico, sugiere que un operador con información relevante está dispuesto a tomar una posición fuerte, creando una oportunidad de seguir la tendencia del dinero inteligente. Riesgo: la falta de datos de volumen de mercado puede indicar liquidez limitada, amplificando el impacto de la orden pero también el riesgo de salida."
+   "market_id": "0x2d17a7368482c6c260162f9dc06a0214a545d502b78180a180ae116f92d6374c",
+   "titulo": "Cincinnati Open: Jiri Lehecka vs Matteo Berrettini",
+   "slug": "atp-lehecka-berrett-2026-08-15",
+   "outcome": "Jiri Lehecka",
+   "side": "SELL",
+   "size": 2691.22,
+   "price": 0.9,
+   "usd": 2422.1,
+   "ts": 1786840552,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,422 en 'Jiri Lehecka'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-lehecka-berrett-2026-08-15",
+   "titulo_es": "Abierto de Cincinnati: Jiri Lehecka vs Matteo Berrettini",
+   "narrativa": "Dos ventas consecutivas de alto monto (USD 2,422 y USD 2,278) sobre Jiri Lehecka en el mismo evento reflejan una presión vendedora coordinada, con un edge estimado de +8.2 puntos frente al consenso externo. La magnitud del capital comprometido sugiere convicción direccional, aunque el volumen de mercado no está disponible para confirmar liquidez. Riesgo: posible iliquidez en mercados de tenis menores."
   },
   {
    "tipo": "ballena",
-   "market_id": "0x21a151c70cc511ec370ccfaba4e4b3de7d35602e38992fcbf280934426a5ffa7",
-   "titulo": "Will Columbus Crew win on 2026-08-15?",
-   "slug": "mls-clt-clb-2026-08-15-clb",
-   "outcome": "No",
+   "market_id": "0x2d17a7368482c6c260162f9dc06a0214a545d502b78180a180ae116f92d6374c",
+   "titulo": "Cincinnati Open: Jiri Lehecka vs Matteo Berrettini",
+   "slug": "atp-lehecka-berrett-2026-08-15",
+   "outcome": "Jiri Lehecka",
+   "side": "SELL",
+   "size": 2531.64,
+   "price": 0.9,
+   "usd": 2278.48,
+   "ts": 1786840555,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,278 en 'Jiri Lehecka'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-lehecka-berrett-2026-08-15",
+   "titulo_es": "Abierto de Cincinnati: Jiri Lehecka vs Matteo Berrettini",
+   "narrativa": "La segunda venta de USD 2,278 sobre Lehecka refuerza la señal bajista previa, acumulando un flujo total de USD 4,700 en contra del jugador checo. El desvío respecto al precio de consenso es de +6.5 puntos, lo que indica que el mercado aún no ha ajustado completamente la probabilidad implícita. Riesgo: correlación con la señal 0 podría exagerar el movimiento si no hay contrapartida."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x8998fd3ffdefa74c425fd5785044f903ae4fd7be85875455e72354101f0f33a3",
+   "titulo": "Los Angeles Sparks vs. Washington Mystics",
+   "slug": "wnba-la-wsh-2026-08-15",
+   "outcome": "Los Angeles Sparks",
    "side": "BUY",
-   "size": 1954.0,
-   "price": 0.89,
-   "usd": 1739.06,
-   "ts": 1786839952,
+   "size": 3545.014771,
+   "price": 0.4399135405,
+   "usd": 1559.5,
+   "ts": 1786840554,
    "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,739 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-clt-clb-2026-08-15-clb",
-   "titulo_es": "¿Ganará Columbus Crew el 2026-08-15?",
-   "narrativa": "La compra de 1,739 USD en 'No' para Columbus Crew es una señal clara de que el mercado está sobrevalorando al equipo visitante, y este operador está explotando ese desajuste con una posición considerable. Al tomar el lado contrario al favorito, se busca capitalizar un posible error de precio, donde el consenso externo no refleja la probabilidad real de una derrota del Crew en esa fecha. Esta operación ofrece un edge potencial si el mercado corrige su valoración, pero el riesgo principal reside en la posibilidad de que el equipo gane, lo que haría perder la prima invertida."
+   "razon": "Trade de compra por $1,560 en 'Los Angeles Sparks'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wnba-la-wsh-2026-08-15",
+   "titulo_es": "Los Angeles Sparks vs. Washington Mystics",
+   "narrativa": "La compra de USD 1,559 sobre Los Angeles Sparks en un partido de WNBA muestra una apuesta agresiva a favor de las locales, con un edge de +4.1 puntos sobre el consenso externo. El monto, aunque moderado, es relevante para el volumen típico de estos mercados, sugiriendo información privilegiada o una corrección de precio inminente. Riesgo: baja liquidez en mercados de WNBA puede ampliar el spread."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x8998fd3ffdefa74c425fd5785044f903ae4fd7be85875455e72354101f0f33a3",
+   "titulo": "Los Angeles Sparks vs. Washington Mystics",
+   "slug": "wnba-la-wsh-2026-08-15",
+   "outcome": "Los Angeles Sparks",
+   "side": "BUY",
+   "size": 2280.520832,
+   "price": 0.4799999998,
+   "usd": 1094.65,
+   "ts": 1786840560,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,095 en 'Los Angeles Sparks'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wnba-la-wsh-2026-08-15",
+   "titulo_es": "Los Angeles Sparks vs. Washington Mystics",
+   "narrativa": "La segunda compra de USD 1,094 sobre Sparks complementa la señal anterior, totalizando USD 2,654 en acumulación direccional. El cambio porcentual implícito en el precio es de +3.8%, consistente con un movimiento coordinado de ballenas. Sin embargo, la falta de volumen de mercado limita la certeza sobre la profundidad de la contrapartida. Riesgo: posible manipulación de precios en mercados poco líquidos."
   }
  ],
  "edges": [],
  "top_volumen": [
+  {
+   "question": "Israel closes its airspace by August 15?",
+   "slug": "israel-closes-its-airspace-by-august-15",
+   "yes": 0.002,
+   "no": 0.998,
+   "volumen": 993451.8030819999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
+  },
   {
    "question": "Will Josh Stein win the 2028 Democratic presidential nomination?",
    "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
@@ -59,21 +109,11 @@
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
   },
   {
-   "question": "Israel closes its airspace by August 15?",
-   "slug": "israel-closes-its-airspace-by-august-15",
-   "yes": 0.002,
-   "no": 0.998,
-   "volumen": 991241.2630819994,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Cierra Israel su espacio aéreo antes del 15 de agosto?"
-  },
-  {
    "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988494.6819190001,
+   "volumen": 988494.6819190002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -83,7 +123,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 986890.411355,
+   "volumen": 986890.4113550001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -101,9 +141,9 @@
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
-   "yes": 0.075,
-   "no": 0.925,
-   "volumen": 99580.65617300001,
+   "yes": 0.08,
+   "no": 0.92,
+   "volumen": 99580.656173,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -111,9 +151,9 @@
   {
    "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.0615,
-   "no": 0.9385,
-   "volumen": 99560.05190599996,
+   "yes": 0.061,
+   "no": 0.939,
+   "volumen": 99560.05190599998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -133,7 +173,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 99179.48181799996,
+   "volumen": 99179.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -163,7 +203,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 98987.58341900002,
+   "volumen": 98987.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -189,21 +229,11 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
-   "question": "Will Inter Miami CF win on 2026-08-15?",
-   "slug": "mls-nas-mia-2026-08-15-mia",
-   "yes": 0.365,
-   "no": 0.635,
-   "volumen": 98757.19288,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Inter Miami CF el 2026-08-15?"
-  },
-  {
    "question": "US charges Hormuz fees by December 31, 2026?",
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98711.43276299999,
+   "volumen": 98711.43276299998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -251,8 +281,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.038,
+   "no": 0.962,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -273,7 +303,7 @@
    "slug": "highest-temperature-in-miami-on-august-15-2026-94-95f",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9965.564747,
+   "volumen": 9965.564746999999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Estará la temperatura más alta en Miami entre 94-95°F el 15 de agosto?"
@@ -297,6 +327,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
+  },
+  {
+   "question": "USMCA extended in 2026?",
+   "slug": "usmca-extended-in-2026-20260701162719768",
+   "yes": 0.205,
+   "no": 0.795,
+   "volumen": 9923.915997999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Se extenderá el T-MEC en 2026?"
   }
  ],
  "historico": {
@@ -306,5 +346,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 22.03
+ "db_size_mb": 22.16
 }
