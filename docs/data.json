@@ -1,6 +1,6 @@
 {
- "ts": 1786905386,
- "stamp": "20260816_183626",
+ "ts": 1786905446,
+ "stamp": "20260816_183726",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -93,7 +93,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988553.6549689998,
+   "volumen": 988553.6549689999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -113,7 +113,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99899.36839400002,
+   "volumen": 99899.368394,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -123,7 +123,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900001,
+   "volumen": 99798.31490900004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -133,7 +133,7 @@
    "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
    "yes": 0.0615,
    "no": 0.9385,
-   "volumen": 99784.25748500001,
+   "volumen": 99784.25748500002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
@@ -183,7 +183,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.583419,
+   "volumen": 99017.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -203,7 +203,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98835.60276299999,
+   "volumen": 98835.60276299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -213,7 +213,7 @@
    "slug": "will-everton-win-the-2026-27-english-premier-league-epl-championship-20260701200428757",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98565.539,
+   "volumen": 98565.53900000002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Everton el Campeonato de la Premier League inglesa (EPL) 2026-27?"
@@ -229,16 +229,6 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will Moreirense FC win on 2026-08-16?",
-   "slug": "por-aro-mor-2026-08-16-mor",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9999.930857,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Moreirense FC el 2026-08-16?"
-  },
-  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -247,6 +237,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
+  },
+  {
+   "question": "Will Anthropic have the best Code Arena | WebDev AI at the end of October 2026?",
+   "slug": "will-anthropic-have-the-best-code-arena-webdev-ai-at-the-end-of-october-2026-20260811194840755",
+   "yes": 0.53,
+   "no": 0.47,
+   "volumen": 9991.564536000002,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Anthropic el mejor Code Arena | WebDev AI a finales de octubre de 2026?"
   },
   {
    "question": "RCD Espanyol de Barcelona vs. Levante UD: 1st Half O/U 0.5",
@@ -263,7 +263,7 @@
    "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 9977.221455000003,
+   "volumen": 9977.221455,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Se unirá Julián Álvarez al Real Madrid?"
@@ -299,11 +299,21 @@
    "question_es": "¿Ganará el Debreceni VSC el 2026-08-16?"
   },
   {
+   "question": "Spread: Liverpool FC (-2.5)",
+   "slug": "clf-lfc-com-2026-08-16-spread-home-2pt5",
+   "yes": 0.245,
+   "no": 0.755,
+   "volumen": 9956.157811000001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Margen: Liverpool FC (-2.5)"
+  },
+  {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
    "yes": 0.796,
    "no": 0.204,
-   "volumen": 9951.191957000001,
+   "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
@@ -311,22 +321,12 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.37,
-   "no": 0.63,
-   "volumen": 9950.113178000001,
+   "yes": 0.365,
+   "no": 0.635,
+   "volumen": 9950.113178,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
-   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.0465,
-   "no": 0.9535,
-   "volumen": 9947.125083,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 36.82
+ "db_size_mb": 36.83
 }
