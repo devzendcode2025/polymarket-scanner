@@ -1,6 +1,6 @@
 {
- "ts": 1786851911,
- "stamp": "20260816_034511",
+ "ts": 1786851971,
+ "stamp": "20260816_034611",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -12,18 +12,38 @@
    "slug": "dota2-flc-vg-2026-08-15-game2",
    "outcome": "Team Falcons",
    "side": "BUY",
-   "size": 7042.25352,
-   "price": 0.71,
-   "usd": 5000.0,
-   "ts": 1786851366,
+   "size": 1518.98,
+   "price": 0.7498339017,
+   "usd": 1138.98,
+   "ts": 1786851669,
    "categoria": "Deportes",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,000 en 'Team Falcons'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,139 en 'Team Falcons'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/dota2-flc-vg-2026-08-15-game2",
    "titulo_es": "Dota 2: Team Falcons vs Vici Gaming - Ganador del Juego 2",
-   "narrativa": "El mercado muestra una clara asimetría a favor de Team Falcons, con una compra de $5,000 que representa una posición significativa frente a un volumen de mercado aún no reportado. Este flujo de capital sugiere que los operadores institucionales están acumulando confianza en el equipo, lo que podría traducirse en un ajuste de precios al alza en el corto plazo. El edge se concentra en la velocidad de reacción ante esta señal, antes de que el consenso externo se actualice. Riesgo: posible falta de liquidez en horarios de baja actividad."
+   "narrativa": "El mercado para Team Falcons en el Juego 2 muestra una compra significativa de $1,138.98, lo que sugiere que un operador grande está acumulando posiciones a favor del equipo. Aunque no se dispone del volumen total del mercado, el tamaño de la orden en relación con la acción típica indica un posible desequilibrio en el flujo de órdenes, lo que podría anticipar un movimiento favorable si el consenso externo respalda la victoria de Falcons. Riesgo: liquidez limitada en mercados de nicho de esports."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x251c849b645b40138ee19ee534c2ae15b686797628a42d9843f4757dc669db19",
+   "titulo": "Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner",
+   "slug": "dota2-flc-vg-2026-08-15-game1",
+   "outcome": "Team Falcons",
+   "side": "SELL",
+   "size": 1129.8,
+   "price": 0.999,
+   "usd": 1128.67,
+   "ts": 1786851679,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,129 en 'Team Falcons'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-flc-vg-2026-08-15-game1",
+   "titulo_es": "Dota 2: Team Falcons vs Vici Gaming - Ganador del Juego 1",
+   "narrativa": "La venta de $1,128.67 en Team Falcons para el Juego 1 refleja una postura contraria al consenso externo, que probablemente favorece al equipo en el primer mapa. Este trade aprovecha la posible sobrevaloración inicial de Falcons, buscando beneficiarse de una corrección si el mercado ajusta sus expectativas. El monto elevado sugiere que el operador tiene información o un modelo que indica una mayor probabilidad de derrota de la que el precio actual implica. Riesgo: alta volatilidad en juegos de apertura y posible reacción emocional del mercado."
   }
  ],
  "edges": [],
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 24.61
+ "db_size_mb": 24.66
 }
