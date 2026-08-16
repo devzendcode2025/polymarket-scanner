@@ -1,6 +1,6 @@
 {
- "ts": 1786870576,
- "stamp": "20260816_085616",
+ "ts": 1786870636,
+ "stamp": "20260816_085716",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -171,8 +171,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.34,
-   "no": 0.66,
+   "yes": 0.305,
+   "no": 0.695,
    "volumen": 99104.44479300003,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -241,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.0425,
+   "no": 0.9575,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -251,8 +251,8 @@
   {
    "question": "Will \"PAW Patrol: The Dino Movie\" Opening Weekend Box Office be between 20m and 25m?",
    "slug": "will-paw-patrol-the-dino-movie-opening-weekend-box-office-be-between-20m-and-25m-20260708164748955",
-   "yes": 0.8335,
-   "no": 0.1665,
+   "yes": 0.8265,
+   "no": 0.1735,
    "volumen": 9967.205504000001,
    "spread": 0.0,
    "categoria": "Entretenimiento",
