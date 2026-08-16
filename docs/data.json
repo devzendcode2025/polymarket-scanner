@@ -1,29 +1,29 @@
 {
- "ts": 1786922431,
- "stamp": "20260816_232031",
+ "ts": 1786922491,
+ "stamp": "20260816_232131",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x4b3f111af3af074794f57c2b93d720ff8e146b940a9f60bb410452e5c610074d",
-   "titulo": "Cincinnati Open: Leylah Fernandez vs Xiyu Wang",
-   "slug": "wta-fernand-wan-2026-08-16",
-   "outcome": "Xiyu Wang",
-   "side": "SELL",
-   "size": 1251.74,
-   "price": 0.88,
-   "usd": 1101.53,
-   "ts": 1786921987,
+   "market_id": "0xb3bf6bb04b615dd14d20281980c7afcd7720050704336ae94c7613421d6be9d6",
+   "titulo": "LoL: LYON vs Sentinels - Game 2 Winner",
+   "slug": "lol-ly-sen-2026-08-16-game2",
+   "outcome": "Sentinels",
+   "side": "BUY",
+   "size": 3769.08,
+   "price": 0.2975561676,
+   "usd": 1121.51,
+   "ts": 1786922289,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,102 en 'Xiyu Wang'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-fernand-wan-2026-08-16",
-   "titulo_es": "Cincinnati Open: Leylah Fernandez vs Xiyu Wang",
-   "narrativa": "El mercado está sobrevalorando a Xiyu Wang en este enfrentamiento, y la venta de su victoria ofrece un edge del 4.2% frente al consenso externo del 58%, con un monto de $1,101 que captura valor sin distorsionar la liquidez. La posición se alinea con la tendencia de Fernandez en pista dura, donde su historial reciente muestra un 68% de victorias como favorita bajo presión. Riesgo: el volumen del mercado es bajo, lo que puede amplificar el desvío si hay una entrada grande de dinero."
+   "razon": "Trade de compra por $1,122 en 'Sentinels'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ly-sen-2026-08-16-game2",
+   "titulo_es": "LoL: LYON vs Sentinels - Ganador del Juego 2",
+   "narrativa": "La compra en Sentinels para el Juego 2 contra LYON muestra un edge positivo del 8.2% frente al consenso externo (62% vs 53.8%), respaldado por un monto de $1,121.51 que refleja convicción direccional. El volumen de mercado no reportado sugiere que la posición puede moverse con mayor sensibilidad, pero el diferencial de probabilidad justifica la entrada. Riesgo: posible ajuste de cuotas si el mercado detecta la acumulación."
   }
  ],
  "edges": [
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 40.63
+ "db_size_mb": 40.7
 }
