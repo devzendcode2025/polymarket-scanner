@@ -1,49 +1,49 @@
 {
- "ts": 1786912528,
- "stamp": "20260816_203528",
+ "ts": 1786912588,
+ "stamp": "20260816_203628",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xfc4f9697c6fcab77a0e47435eab23fefbb6f30b5ebc4cd751769f6056a5ab06e",
-   "titulo": "Indiana Fever vs. Atlanta Dream",
-   "slug": "wnba-ind-atl-2026-08-16",
-   "outcome": "Indiana Fever",
+   "market_id": "0x9ebf2fd1d701b9f075ac5016ad094ab97a3096f4464c2b2d8d883ec79190dff5",
+   "titulo": "Will CR Vasco da Gama win on 2026-08-16?",
+   "slug": "bra-vas-san-2026-08-16-vas",
+   "outcome": "No",
    "side": "BUY",
-   "size": 35403.47,
-   "price": 0.5141391253,
-   "usd": 18202.31,
-   "ts": 1786912071,
+   "size": 3325.75,
+   "price": 0.92,
+   "usd": 3059.69,
+   "ts": 1786912372,
    "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
+   "prob": 56,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $18,202 en 'Indiana Fever'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-ind-atl-2026-08-16",
-   "titulo_es": "Indiana Fever vs. Atlanta Dream",
-   "narrativa": "La entrada de USD 18,202 en Indiana Fever refleja una apuesta institucional significativa que, por su tamaño, puede mover la liquidez del mercado y ajustar las probabilidades a favor de la victoria local. Este flujo de capital concentrado sugiere que los grandes operadores están posicionándose con información o confianza superior al consenso actual, creando una ventana de oportunidad para seguir la tendencia antes de que el mercado se reequilibre. El volumen de mercado no está disponible, lo que limita el análisis de profundidad, pero el monto en sí es un indicador de convicción fuerte. Riesgo: posible reacción adversa si el mercado ya había descontado este movimiento."
+   "razon": "Trade de compra por $3,060 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bra-vas-san-2026-08-16-vas",
+   "titulo_es": "¿Ganará el CR Vasco da Gama el 2026-08-16?",
+   "narrativa": "Se detectaron dos compras significativas de 'No' por USD 3,059 y USD 2,423 en el mismo evento, lo que sugiere convicción direccional. El flujo acumulado de USD 5,483 contra la victoria de Vasco da Gama, en ausencia de volumen de mercado reportado, indica que los grandes operadores están posicionándose con anticipación ante una posible sorpresa. Riesgo: liquidez limitada podría amplificar el deslizamiento de precios."
   },
   {
    "tipo": "ballena",
-   "market_id": "0xf0bf950271fa7d3ff102f76abfd873c9ad6b6ed8c1e879cbb891b1009f11ed73",
-   "titulo": "Cincinnati Open: Arthur Rinderknech vs Juan Manuel Cerundolo",
-   "slug": "atp-rinderk-cerund-2026-08-16",
-   "outcome": "Juan Manuel Cerundolo",
-   "side": "SELL",
-   "size": 2430.21,
-   "price": 0.99,
-   "usd": 2405.91,
-   "ts": 1786912078,
-   "categoria": "Deportes",
+   "market_id": "0x9ebf2fd1d701b9f075ac5016ad094ab97a3096f4464c2b2d8d883ec79190dff5",
+   "titulo": "Will CR Vasco da Gama win on 2026-08-16?",
+   "slug": "bra-vas-san-2026-08-16-vas",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2634.0,
+   "price": 0.92,
+   "usd": 2423.28,
+   "ts": 1786912371,
+   "categoria": "Otros",
    "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,406 en 'Juan Manuel Cerundolo'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-rinderk-cerund-2026-08-16",
-   "titulo_es": "Cincinnati Open: Arthur Rinderknech vs Juan Manuel Cerundolo",
-   "narrativa": "La venta de USD 2,405 sobre Juan Manuel Cerundolo indica que un operador relevante busca reducir exposición a este jugador, probablemente anticipando un desempeño inferior al que reflejan las cuotas actuales del Cincinnati Open. Este movimiento, aunque de menor tamaño absoluto, es una señal direccional clara en un mercado de tenis donde los ajustes de precios suelen ser rápidos y sensibles a flujos de este tipo. La falta de volumen de mercado reportado añade incertidumbre, pero la acción de venta sugiere que el consenso externo podría estar sobrevalorando a Cerundolo en este enfrentamiento. Riesgo: el mercado puede carecer de liquidez suficiente para ejecutar la estrategia completa sin deslizamiento."
+   "razon": "Trade de compra por $2,423 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bra-vas-san-2026-08-16-vas",
+   "titulo_es": "¿Ganará el CR Vasco da Gama el 2026-08-16?",
+   "narrativa": "La segunda orden de compra por USD 2,423 refuerza la presión vendedora sobre el 'Sí', creando un desequilibrio de flujo que los operadores minoristas suelen seguir. Al repetirse el mismo lado y resultado, el edge se acumula en el 'No', especialmente si el consenso externo favorece al rival. Riesgo: la falta de volumen de mercado reportado reduce la certeza sobre la profundidad real de la contraparte."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will Matt Dunn win the 2026 PLL Defensive Player of the Year?",
+     "_poly_question": "Will Kenny Brower win the 2026 PLL Defensive Player of the Year?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 38.4
+ "db_size_mb": 38.46
 }
