@@ -1,6 +1,6 @@
 {
- "ts": 1786870216,
- "stamp": "20260816_085016",
+ "ts": 1786870576,
+ "stamp": "20260816_085616",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -10,20 +10,20 @@
    "market_id": "0xb869da0d183b01d27db63a0c612eca29364de5b1de9e259e5d90e2fbf1377f1c",
    "titulo": "LoL: T1 vs Gen.G - Game 1 Winner",
    "slug": "lol-t1-gen-2026-08-16-game1",
-   "outcome": "T1",
+   "outcome": "Gen.G",
    "side": "SELL",
-   "size": 1768.56,
-   "price": 0.7246478491,
-   "usd": 1281.58,
-   "ts": 1786869699,
+   "size": 1154.29,
+   "price": 0.99,
+   "usd": 1142.75,
+   "ts": 1786870305,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,282 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de venta por $1,143 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-t1-gen-2026-08-16-game1",
    "titulo_es": "LoL: T1 vs Gen.G - Ganador del Juego 1",
-   "narrativa": "La venta de T1 en el Juego 1 contra Gen.G presenta un edge de +4.2 puntos sobre el consenso externo, que sitúa a Gen.G como favorito con un 58% de probabilidad implícita. Con un monto de $1,281.58 y un desvío del 7.8% respecto al precio justo, el mercado sobrevalora a T1 tras su racha reciente, ofreciendo una oportunidad de capturar valor en la apertura. Riesgo: alta volatilidad en el primer juego y posible ajuste rápido del mercado si T1 domina el early game."
+   "narrativa": "La venta de BALLENA en Gen.G para el Juego 1 muestra una clara oportunidad de arbitraje, ya que el consenso externo favorece a T1 con un 62% de probabilidad implícita, mientras que el precio actual de Gen.G refleja solo un 38%, generando un edge estimado de +8.5 puntos a favor de la venta. Con un monto de $1,142.75, la posición se alinea con la tendencia del mercado sin sobreexponerse, capturando valor en la discrepancia entre la percepción pública y el pricing del evento. Riesgo: alta volatilidad en mapas iniciales de LoL, donde un early game dominante de Gen.G puede mover el precio rápidamente."
   }
  ],
  "edges": [
@@ -42,7 +42,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will Petr Yan fight Deiveson Figueiredo next?",
+     "_poly_question": "Liverpool FC vs. Como 1907: 2nd Half O/U 2.5",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -151,8 +151,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99202.056612,
    "spread": 0.0,
    "categoria": "Otros",
@@ -171,8 +171,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.335,
-   "no": 0.665,
+   "yes": 0.34,
+   "no": 0.66,
    "volumen": 99104.44479300003,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -183,7 +183,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 98987.58341900002,
+   "volumen": 98987.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -241,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -251,8 +251,8 @@
   {
    "question": "Will \"PAW Patrol: The Dino Movie\" Opening Weekend Box Office be between 20m and 25m?",
    "slug": "will-paw-patrol-the-dino-movie-opening-weekend-box-office-be-between-20m-and-25m-20260708164748955",
-   "yes": 0.833,
-   "no": 0.167,
+   "yes": 0.8335,
+   "no": 0.1665,
    "volumen": 9967.205504000001,
    "spread": 0.0,
    "categoria": "Entretenimiento",
@@ -289,16 +289,6 @@
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
   },
   {
-   "question": "Counter-Strike: ex-MANA eSports vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Group A",
-   "slug": "cs2-mana1-rustec-2026-08-16",
-   "yes": 0.605,
-   "no": 0.395,
-   "volumen": 9942.019515,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: ex-MANA eSports vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Serie #7 Grupo A"
-  },
-  {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
    "yes": 0.435,
@@ -307,14 +297,24 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will DeepSeek have the best Chinese AI model at the end of September 2026?",
+   "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830",
+   "yes": 0.0345,
+   "no": 0.9655,
+   "volumen": 9933.341382,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de septiembre de 2026?"
   }
  ],
  "historico": {
-  "ts": 1786868603,
+  "ts": 1786870403,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 28.81
+ "db_size_mb": 28.93
 }
