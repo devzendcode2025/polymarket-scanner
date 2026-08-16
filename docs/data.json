@@ -1,49 +1,29 @@
 {
- "ts": 1786863314,
- "stamp": "20260816_065514",
+ "ts": 1786863374,
+ "stamp": "20260816_065614",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xae564cd0f9fa44c4d475bcfabcdfdd5396e36ad29ca883fbe04065813d1994cf",
-   "titulo": "Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round",
-   "slug": "dota2-ts8-tr7-2026-08-16",
-   "outcome": "Team Spirit",
+   "market_id": "0xd0137d13f99315833e5052d865de7f7631aa41e41bd28bc9f052a148d702a2f3",
+   "titulo": "Cincinnati Open: Ugo Humbert vs Michael Zheng",
+   "slug": "atp-humbert-zheng-2026-08-16",
+   "outcome": "Ugo Humbert",
    "side": "BUY",
-   "size": 10144.927535,
-   "price": 0.69,
-   "usd": 7000.0,
-   "ts": 1786862788,
-   "categoria": "Otros",
-   "prob": 62,
-   "confianza": "alta",
+   "size": 3826.41,
+   "price": 0.5226831416,
+   "usd": 2000.0,
+   "ts": 1786863075,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $7,000 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ts8-tr7-2026-08-16",
-   "titulo_es": "Dota 2: Team Spirit vs Team Resilience (BO3) - Ronda de Eliminación de The International",
-   "narrativa": "La compra de $7,000 en Team Spirit refleja una apuesta agresiva contra el consenso del mercado en una ronda de eliminación de The International, donde el precio implícito de la victoria suele estar distorsionado por el ruido de los equipos. El tamaño del trade, en ausencia de volumen reportado, sugiere que un operador con información privilegiada o un modelo avanzado detectó un edge significativo en el mapa BO3, donde la preparación estratégica pesa más que el historial reciente. Esta inyección de capital puede mover la línea a favor del equipo, pero el riesgo es alto por la volatilidad inherente a los playoffs y la posible falta de liquidez en mercados de nicho."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2609ec8beb0c41b11f7ba871624c2ea57791ab961ab32f33c5ce5875af29c2d5",
-   "titulo": "Will Amanda Green be the FL-02 Democratic nominee?",
-   "slug": "will-amanda-green-be-the-fl-02-democratic-nominee-20260724183800475",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 3600.0,
-   "price": 0.2778465556,
-   "usd": 1000.25,
-   "ts": 1786862788,
-   "categoria": "Política",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,000 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-amanda-green-be-the-fl-02-democratic-nominee-20260724183800475",
-   "titulo_es": "¿Será Amanda Green la nominada demócrata por FL-02?",
-   "narrativa": "La compra de $1,000.25 en 'Yes' para Amanda Green en FL-02 indica que un operador ve un desajuste entre la percepción pública y las probabilidades reales de nominación, posiblemente basado en encuestas internas o dinámicas de financiamiento de campaña no reflejadas en el consenso externo. El monto, aunque moderado, es suficiente para capturar un edge si el precio actual subestima la probabilidad de que Green asegure el respaldo del partido, especialmente en un distrito donde la maquinaria demócrata puede consolidar rápidamente. El riesgo principal es la baja liquidez en mercados políticos de distritos específicos, lo que puede amplificar el slippage al salir."
+   "razon": "Trade de compra por $2,000 en 'Ugo Humbert'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-humbert-zheng-2026-08-16",
+   "titulo_es": "Cincinnati Open: Ugo Humbert contra Michael Zheng",
+   "narrativa": "La compra de Ugo Humbert en el Cincinnati Open muestra una clara asimetría a favor del jugador francés, dado que su experiencia en pista dura y ranking superior frente al invitado Zheng generan un edge estimado de +8.2 puntos sobre el consenso externo. El monto de $2,000 representa una posición moderada que capitaliza la brecha de habilidad sin sobreexponer el bankroll, mientras el volumen de mercado aún no revela una corrección de precios. Riesgo: posible falta de liquidez en mercados de tenis de primera ronda, lo que podría afectar la ejecución de salida."
   }
  ],
  "edges": [],
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 27.22
+ "db_size_mb": 27.28
 }
