@@ -1,31 +1,10 @@
 {
- "ts": 1786913728,
- "stamp": "20260816_205528",
+ "ts": 1786914088,
+ "stamp": "20260816_210128",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xfc4f9697c6fcab77a0e47435eab23fefbb6f30b5ebc4cd751769f6056a5ab06e",
-   "titulo": "Indiana Fever vs. Atlanta Dream",
-   "slug": "wnba-ind-atl-2026-08-16",
-   "outcome": "Indiana Fever",
-   "side": "BUY",
-   "size": 8051.31,
-   "price": 0.52,
-   "usd": 4186.68,
-   "ts": 1786913269,
-   "categoria": "Otros",
-   "prob": 58,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,187 en 'Indiana Fever'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-ind-atl-2026-08-16",
-   "titulo_es": "Indiana Fever vs. Atlanta Dream",
-   "narrativa": "El mercado muestra una compra significativa de 4,186.68 USD a favor de Indiana Fever, lo que sugiere que un operador de gran tamaño está posicionándose con convicción en este enfrentamiento. Aunque el volumen total del mercado no está disponible, el tamaño de la orden en relación con la actividad típica de estos partidos indica un posible desequilibrio informacional a favor de las locales. Esta señal de acumulación puede anticipar un ajuste en las probabilidades implícitas, ofreciendo una ventana de entrada antes de que el consenso externo se actualice. Riesgo: posible falta de liquidez en horarios de baja actividad."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -42,7 +21,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Real Murcia CF vs. Mazarron FC: O/U 2.5",
+     "_poly_question": "Will AJ Mercurio win the 2026 PLL Defensive Player of the Year?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -121,8 +100,8 @@
   {
    "question": "Kansas City Royals vs. Los Angeles Angels",
    "slug": "mlb-kc-laa-2026-08-16",
-   "yes": 0.515,
-   "no": 0.485,
+   "yes": 0.615,
+   "no": 0.385,
    "volumen": 99862.84992100002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -161,8 +140,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99210.77216199998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -201,8 +180,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.069,
-   "no": 0.931,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -261,8 +240,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0365,
-   "no": 0.9635,
+   "yes": 0.038,
+   "no": 0.962,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -310,11 +289,11 @@
   }
  ],
  "historico": {
-  "ts": 1786912052,
+  "ts": 1786913853,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 38.68
+ "db_size_mb": 38.8
 }
