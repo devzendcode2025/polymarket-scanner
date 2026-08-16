@@ -1,6 +1,6 @@
 {
- "ts": 1786909287,
- "stamp": "20260816_194127",
+ "ts": 1786909347,
+ "stamp": "20260816_194227",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -181,8 +181,8 @@
   {
    "question": "Will Beşiktaş JK win on 2026-08-16?",
    "slug": "tur-bes-eyu-2026-08-16-bes",
-   "yes": 0.905,
-   "no": 0.095,
+   "yes": 0.92,
+   "no": 0.08,
    "volumen": 99666.82792599997,
    "spread": 0.0,
    "categoria": "Otros",
@@ -321,8 +321,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.375,
-   "no": 0.625,
+   "yes": 0.38,
+   "no": 0.62,
    "volumen": 9950.113178000001,
    "spread": 0.0,
    "categoria": "Tecnología",
