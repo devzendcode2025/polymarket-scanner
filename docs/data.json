@@ -1,6 +1,6 @@
 {
- "ts": 1786908087,
- "stamp": "20260816_192127",
+ "ts": 1786908147,
+ "stamp": "20260816_192227",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -151,8 +151,8 @@
   {
    "question": "Texas Rangers vs. Athletics",
    "slug": "mlb-tex-oak-2026-08-16",
-   "yes": 0.545,
-   "no": 0.455,
+   "yes": 0.535,
+   "no": 0.465,
    "volumen": 99354.796086,
    "spread": 0.0,
    "categoria": "Otros",
@@ -161,8 +161,8 @@
   {
    "question": "Will Beşiktaş JK win on 2026-08-16?",
    "slug": "tur-bes-eyu-2026-08-16-bes",
-   "yes": 0.915,
-   "no": 0.085,
+   "yes": 0.905,
+   "no": 0.095,
    "volumen": 99324.32767199998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -311,8 +311,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.38,
-   "no": 0.62,
+   "yes": 0.365,
+   "no": 0.635,
    "volumen": 9950.113178000001,
    "spread": 0.0,
    "categoria": "Tecnología",
