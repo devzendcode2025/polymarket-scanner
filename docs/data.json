@@ -1,6 +1,6 @@
 {
- "ts": 1786904786,
- "stamp": "20260816_182626",
+ "ts": 1786904846,
+ "stamp": "20260816_182726",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -309,8 +309,8 @@
   {
    "question": "Will Moreirense FC win on 2026-08-16?",
    "slug": "por-aro-mor-2026-08-16-mor",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.0075,
+   "no": 0.9925,
    "volumen": 9999.930857,
    "spread": 0.0,
    "categoria": "Otros",
@@ -389,8 +389,8 @@
   {
    "question": "Will Google be the third-best AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.365,
-   "no": 0.635,
+   "yes": 0.38,
+   "no": 0.62,
    "volumen": 9950.113178000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -408,11 +408,11 @@
   }
  ],
  "historico": {
-  "ts": 1786903050,
+  "ts": 1786904850,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 36.67
+ "db_size_mb": 36.68
 }
