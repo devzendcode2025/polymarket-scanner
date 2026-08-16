@@ -1,6 +1,6 @@
 {
- "ts": 1786877478,
- "stamp": "20260816_105118",
+ "ts": 1786877538,
+ "stamp": "20260816_105218",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -210,8 +210,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99202.056612,
    "spread": 0.0,
    "categoria": "Otros",
@@ -270,8 +270,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.0765,
-   "no": 0.9235,
+   "yes": 0.077,
+   "no": 0.923,
    "volumen": 98803.82621699997,
    "spread": 0.0,
    "categoria": "Política",
@@ -298,10 +298,20 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
+   "question": "Tom Holland as Spider-Man?",
+   "slug": "tom-holland-as-spider-man",
+   "yes": 0.49,
+   "no": 0.51,
+   "volumen": 9975.000677000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Tom Holland como Spider-Man?"
+  },
+  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.042,
-   "no": 0.958,
+   "yes": 0.0385,
+   "no": 0.9615,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -328,11 +338,21 @@
    "question_es": "¿Será la temperatura máxima en Qingdao de 33°C el 16 de agosto?"
   },
   {
+   "question": "ADO Den Haag vs. FC Groningen: 1st Half O/U 2.5",
+   "slug": "ere-ado-gro-2026-08-16-first-half-total-2pt5",
+   "yes": 0.355,
+   "no": 0.645,
+   "volumen": 9947.584903000004,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "ADO Den Haag vs. FC Groningen: 1er Tiempo Más/Menos 2.5"
+  },
+  {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.0465,
    "no": 0.9535,
-   "volumen": 9947.125083000003,
+   "volumen": 9947.125082999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
@@ -366,26 +386,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Tom Holland as Spider-Man?",
-   "slug": "tom-holland-as-spider-man",
-   "yes": 0.495,
-   "no": 0.505,
-   "volumen": 9925.000677000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Tom Holland como Spider-Man?"
-  },
-  {
-   "question": "USMCA extended in 2026?",
-   "slug": "usmca-extended-in-2026-20260701162719768",
-   "yes": 0.205,
-   "no": 0.795,
-   "volumen": 9923.915998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Se extenderá el T-MEC en 2026?"
   }
  ],
  "historico": {
@@ -395,5 +395,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 30.49
+ "db_size_mb": 30.5
 }
