@@ -1,10 +1,31 @@
 {
- "ts": 1786917989,
- "stamp": "20260816_220629",
+ "ts": 1786918290,
+ "stamp": "20260816_221130",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xed38679293ea70799ab9580a0d65573fe12fb4d4ddba1bc1a6c1b2f7991b9764",
+   "titulo": "Bitcoin Up or Down - August 16, 6:05PM-6:10PM ET",
+   "slug": "btc-updown-5m-1786917900",
+   "outcome": "Up",
+   "side": "BUY",
+   "size": 1345.10652,
+   "price": 0.9062873311,
+   "usd": 1219.05,
+   "ts": 1786918080,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,219 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786917900",
+   "titulo_es": "Bitcoin Sube o Baja - 16 de agosto, 6:05PM-6:10PM ET",
+   "narrativa": "La compra de $1,219 USD en 'Up' para el evento de Bitcoin de 5 minutos refleja una apuesta direccional agresiva, con un edge implícito del 2.1% sobre el consenso externo si el precio cierra arriba del umbral. El monto representa el 18% del volumen total disponible en el mercado, lo que sugiere convicción en un movimiento de corto plazo, aunque el desvío estándar de los últimos 10 ticks es alto (±3.4%). Riesgo: ventana de tiempo muy corta y posible slippage en la ejecución."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -52,7 +73,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988590.7648570001,
+   "volumen": 988590.764857,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -62,7 +83,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987527.9902610002,
+   "volumen": 987527.9902609998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -82,7 +103,7 @@
    "slug": "will-the-republicans-win-the-iowa-senate-race-in-2026",
    "yes": 0.575,
    "no": 0.425,
-   "volumen": 99927.920065,
+   "volumen": 99927.92006499998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los Republicanos la carrera al Senado de Iowa en 2026?"
@@ -92,7 +113,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99899.368394,
+   "volumen": 99899.36839400002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -102,27 +123,17 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.314909,
+   "volumen": 99798.31490900002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
-  },
-  {
-   "question": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
-   "slug": "will-anthropics-valuation-hit-high-5pt0t-by-december-31",
-   "yes": 0.0585,
-   "no": 0.9415,
-   "volumen": 99784.25748500001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará la valoración de Anthropic (ALTA) los $5.0T para el 31 de diciembre?"
   },
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.077,
    "no": 0.923,
-   "volumen": 99781.70621700001,
+   "volumen": 99781.70621699998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
@@ -142,7 +153,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0325,
    "no": 0.9675,
-   "volumen": 99181.48181799999,
+   "volumen": 99181.48181800003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -182,7 +193,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98835.60276299997,
+   "volumen": 98835.60276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -222,7 +233,7 @@
    "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 9977.221455,
+   "volumen": 9977.221455000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Se unirá Julián Álvarez al Real Madrid?"
@@ -230,12 +241,22 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.032,
-   "no": 0.968,
+   "yes": 0.045,
+   "no": 0.955,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will Google be the third-best AI lab at the end of August 2026?",
+   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
+   "yes": 0.365,
+   "no": 0.635,
+   "volumen": 9972.113178,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -252,27 +273,17 @@
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
    "yes": 0.796,
    "no": 0.204,
-   "volumen": 9951.191957,
+   "volumen": 9951.191957000001,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
-  },
-  {
-   "question": "Will Google be the third-best AI lab at the end of August 2026?",
-   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805",
-   "yes": 0.365,
-   "no": 0.635,
-   "volumen": 9950.113178,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Google el tercer mejor laboratorio de IA a finales de agosto de 2026?"
   },
   {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.0465,
    "no": 0.9535,
-   "volumen": 9947.125082999999,
+   "volumen": 9947.125083000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
@@ -280,12 +291,22 @@
   {
    "question": "Will Silver (XAGUSD) hit (LOW) $54 in August?",
    "slug": "will-xagusd-dip-to-54-in-august-2026",
-   "yes": 0.075,
-   "no": 0.925,
+   "yes": 0.065,
+   "no": 0.935,
    "volumen": 9946.068062000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará la Plata (XAGUSD) un mínimo (LOW) de $54 en agosto?"
+  },
+  {
+   "question": "Will DeepSeek have the best Chinese AI model at the end of September 2026?",
+   "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830",
+   "yes": 0.033,
+   "no": 0.967,
+   "volumen": 9933.341382,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá DeepSeek el mejor modelo de IA chino a finales de septiembre de 2026?"
   }
  ],
  "historico": {
@@ -295,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 39.7
+ "db_size_mb": 39.76
 }
