@@ -1,6 +1,6 @@
 {
- "ts": 1786892482,
- "stamp": "20260816_150122",
+ "ts": 1786892542,
+ "stamp": "20260816_150222",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -191,8 +191,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.325,
-   "no": 0.675,
+   "yes": 0.33,
+   "no": 0.67,
    "volumen": 99104.44479299997,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -261,8 +261,8 @@
   {
    "question": "Tom Holland as Spider-Man?",
    "slug": "tom-holland-as-spider-man",
-   "yes": 0.505,
-   "no": 0.495,
+   "yes": 0.5,
+   "no": 0.5,
    "volumen": 9995.100677000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -291,8 +291,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0305,
-   "no": 0.9695,
+   "yes": 0.0415,
+   "no": 0.9585,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -301,8 +301,8 @@
   {
    "question": "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 45% or higher?",
    "slug": "will-the-highest-score-achieved-by-a-spacexai-grok-model-on-humanitys-last-exam-in-2026-be-45-or-higher-20260723191456650",
-   "yes": 0.716,
-   "no": 0.284,
+   "yes": 0.7175,
+   "no": 0.2825,
    "volumen": 9967.655697,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -321,8 +321,8 @@
   {
    "question": "Will Colonel Busnello win the Governor of Rio de Janeiro election?",
    "slug": "will-candidate-d-win-the-governor-of-rio-de-janeiro-election-20260608202950333",
-   "yes": 0.0045,
-   "no": 0.9955,
+   "yes": 0.0035,
+   "no": 0.9965,
    "volumen": 9958.600267,
    "spread": 0.0,
    "categoria": "Política",
@@ -356,5 +356,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 33.92
+ "db_size_mb": 33.93
 }
