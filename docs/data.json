@@ -1,6 +1,6 @@
 {
- "ts": 1786865475,
- "stamp": "20260816_073115",
+ "ts": 1786865535,
+ "stamp": "20260816_073215",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -241,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0335,
-   "no": 0.9665,
+   "yes": 0.0425,
+   "no": 0.9575,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -261,8 +261,8 @@
   {
    "question": "Will \"PAW Patrol: The Dino Movie\" Opening Weekend Box Office be between 20m and 25m?",
    "slug": "will-paw-patrol-the-dino-movie-opening-weekend-box-office-be-between-20m-and-25m-20260708164748955",
-   "yes": 0.8285,
-   "no": 0.1715,
+   "yes": 0.8335,
+   "no": 0.1665,
    "volumen": 9967.205504000001,
    "spread": 0.0,
    "categoria": "Entretenimiento",
