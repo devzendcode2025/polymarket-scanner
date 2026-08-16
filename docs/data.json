@@ -1,6 +1,6 @@
 {
- "ts": 1786877538,
- "stamp": "20260816_105218",
+ "ts": 1786877598,
+ "stamp": "20260816_105318",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -121,7 +121,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "SC Freiburg vs. Crystal Palace: 2nd Half O/U 2.5",
+     "_poly_question": "Will the highest temperature in Wuhan be 31°C on August 16?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -389,7 +389,7 @@
   }
  ],
  "historico": {
-  "ts": 1786875806,
+  "ts": 1786877607,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
