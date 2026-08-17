@@ -1,6 +1,6 @@
 {
- "ts": 1786955861,
- "stamp": "20260817_083741",
+ "ts": 1786955921,
+ "stamp": "20260817_083841",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -62,7 +62,7 @@
      "titulo": "Will Byron Donalds get 50.000% or more of the vote in the Florida Republican Primary for Governor?",
      "prob": 84.99999999999999,
      "url": "https://manifold.markets/Jack1/will-byron-donalds-get-50000-or-mor",
-     "_poly_question": "Will the Democratic Party candidate win the 2026 Tennessee Senate election?",
+     "_poly_question": "Will Jack Reed be the Democratic nominee for Senate in Rhode Island?",
      "titulo_es": "¿Obtendrá Byron Donalds el 50.000% o más de los votos en las primarias republicanas para gobernador de Florida?"
     }
    ],
