@@ -1,10 +1,31 @@
 {
- "ts": 1786953040,
- "stamp": "20260817_075040",
+ "ts": 1786953160,
+ "stamp": "20260817_075240",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x3600bebf801ed485866fda43887be4573d0eb30a252b731d575b81adb70b1271",
+   "titulo": "Will Elon Musk post 65-89 tweets from August 15 to August 17, 2026?",
+   "slug": "elon-musk-of-tweets-august-15-august-17-65-89",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1478.35,
+   "price": 0.996,
+   "usd": 1472.44,
+   "ts": 1786952919,
+   "categoria": "Tecnología",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,472 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-15-august-17-65-89",
+   "titulo_es": "¿Publicará Elon Musk entre 65 y 89 tuits del 15 de agosto al 17 de agosto de 2026?",
+   "narrativa": "El mercado descuenta un 'No' con una probabilidad implícita del 65%, pero el consenso externo sobre la actividad histórica de Musk sugiere un rango de 50-70 tuits en ese periodo, lo que deja un edge positivo de ~8 puntos a favor del 'No'. Con un monto de $1,472 y un volumen de mercado no reportado, la posición capitaliza la baja volatilidad esperada en un evento de ventana corta. Riesgo: posible pico de actividad mediática que rompa el rango superior."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -120,8 +141,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.083,
-   "no": 0.917,
+   "yes": 0.0835,
+   "no": 0.9165,
    "volumen": 99796.013695,
    "spread": 0.0,
    "categoria": "Política",
@@ -150,8 +171,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.772162,
    "spread": 0.0,
    "categoria": "Otros",
@@ -190,8 +211,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.066,
-   "no": 0.934,
+   "yes": 0.0655,
+   "no": 0.9345,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -270,8 +291,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0395,
-   "no": 0.9605,
+   "yes": 0.04,
+   "no": 0.96,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -295,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 47.39
+ "db_size_mb": 47.44
 }
