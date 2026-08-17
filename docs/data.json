@@ -1,6 +1,6 @@
 {
- "ts": 1786996072,
- "stamp": "20260817_194752",
+ "ts": 1786996192,
+ "stamp": "20260817_194952",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -43,7 +43,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9855209.426317997,
+   "volumen": 9855229.426317995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -63,7 +63,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987796.6545,
+   "volumen": 987796.6545000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -73,7 +73,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 987721.534231,
+   "volumen": 987721.5342309999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 57.0
+ "db_size_mb": 57.01
 }
