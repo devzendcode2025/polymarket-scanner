@@ -1,69 +1,29 @@
 {
- "ts": 1786994211,
- "stamp": "20260817_191651",
+ "ts": 1786994271,
+ "stamp": "20260817_191751",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "outcome": "Yes",
+   "market_id": "0xa50ccad0b6e8635efef7ce9cc701ad6cc918fdc443ea897560fc22826e9cec4b",
+   "titulo": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
+   "slug": "wta-shnaide-chwalin-2026-08-17",
+   "outcome": "Diana Shnaider",
    "side": "BUY",
-   "size": 3521.126758,
-   "price": 0.7099999999,
-   "usd": 2500.0,
-   "ts": 1786993791,
-   "categoria": "Economía",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,500 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?",
-   "narrativa": "Dos órdenes de compra consecutivas por un total de $3,801.39 sobre el mismo resultado 'Yes' en tasas de la Fed para septiembre de 2026 reflejan una acumulación coordinada de capital, lo que sugiere convicción direccional en un mercado de baja liquidez. El tamaño promedio de $1,900 por operación supera el ticket típico minorista, indicando un posicionamiento institucional que puede mover el precio. Riesgo: mercado con volumen no reportado, lo que amplifica el impacto de la orden pero también el deslizamiento."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 1859.13,
-   "price": 0.7,
-   "usd": 1301.39,
-   "ts": 1786993785,
-   "categoria": "Economía",
+   "size": 1420.25,
+   "price": 0.79,
+   "usd": 1122.0,
+   "ts": 1786994089,
+   "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,301 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?",
-   "narrativa": "La segunda compra de $1,301.39, aunque menor, confirma la tesis de la primera señal: no es un evento aislado sino una escalera de acumulación en el mismo contrato 'Yes'. Este patrón de órdenes sucesivas en un evento a 18 meses de distancia sugiere que el comprador percibe un error de precio en el consenso externo, que probablemente asigna baja probabilidad a una pausa de la Fed. Riesgo: la falta de volumen de mercado puede exagerar el movimiento pero también dificultar la salida."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x48b11f06cedb8f44220b86509dc0ab2dc30f9facbed360aee990e407c2858922",
-   "titulo": "Will AA Estudiantes vs. CA Tucumán end in a draw?",
-   "slug": "arg-aae-cat-2026-08-17-draw",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 1750.0,
-   "price": 0.65,
-   "usd": 1137.5,
-   "ts": 1786993789,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,138 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/arg-aae-cat-2026-08-17-draw",
-   "titulo_es": "¿Terminará en empate AA Estudiantes vs. CA Tucumán?",
-   "narrativa": "La compra de $1,137.50 sobre un empate en un partido de fútbol argentino representa una apuesta de valor en un mercado de nicho donde el consenso externo suele sobrevalorar a los favoritos. El monto es considerable para un evento deportivo de baja liquidez, lo que indica que el operador tiene información o modelo propio que difiere del precio implícito. Riesgo: alta volatilidad intrapartido y posible manipulación de cuotas en mercados pequeños."
+   "razon": "Trade de compra por $1,122 en 'Diana Shnaider'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-shnaide-chwalin-2026-08-17",
+   "titulo_es": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
+   "narrativa": "La compra de Diana Shnaider a 1122 USD refleja una fuerte convicción del mercado ante una rival (Chwalinska) con menor ranking y experiencia en pista dura, lo que amplía el edge a favor de la favorita. El monto concentrado sugiere que los operadores institucionales están posicionándose antes de que el consenso externo ajuste las probabilidades, capturando valor en el precio actual. Riesgo: posible falta de liquidez en mercados secundarios si el volumen total es bajo, lo que podría distorsionar la salida."
   }
  ],
  "edges": [],
@@ -73,7 +33,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0395,
    "no": 0.9605,
-   "volumen": 9926398.163294004,
+   "volumen": 9928238.163293995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -97,16 +57,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
-  },
-  {
-   "question": "Will Josh Stein win the 2028 Democratic presidential nomination?",
-   "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 991312.1319920004,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
   },
   {
    "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -159,11 +109,21 @@
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
   },
   {
+   "question": "Will Elon Musk post 80-99 tweets from August 14 to August 21, 2026?",
+   "slug": "elon-musk-of-tweets-august-14-august-21-80-99",
+   "yes": 0.0075,
+   "no": 0.9925,
+   "volumen": 99657.474989,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 80 y 99 tuits del 14 de agosto al 21 de agosto de 2026?"
+  },
+  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181800001,
+   "volumen": 99359.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -173,7 +133,7 @@
    "slug": "will-astralis-win-the-cs2-ewc-2026-20260810160005090",
    "yes": 0.0135,
    "no": 0.9865,
-   "volumen": 99218.64437500002,
+   "volumen": 99218.644375,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará Astralis el CS2 EWC 2026?"
@@ -203,7 +163,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99127.701934,
+   "volumen": 99127.70193399998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -273,7 +233,7 @@
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632000002,
+   "volumen": 9973.414632,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -281,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0345,
-   "no": 0.9655,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -293,7 +253,7 @@
    "slug": "another-nato-article-4-invocation-by-october-31-2026-20260726214511853",
    "yes": 0.23,
    "no": 0.77,
-   "volumen": 9973.130335000002,
+   "volumen": 9973.130335,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Otra invocación del Artículo 4 de la OTAN para el 31 de octubre de 2026?"
@@ -313,7 +273,7 @@
    "slug": "will-the-arizona-diamondbacks-clinch-a-spot-in-the-2026-mlb-postseason",
    "yes": 0.465,
    "no": 0.535,
-   "volumen": 9960.186949,
+   "volumen": 9960.186948999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Lograrán los Arizona Diamondbacks asegurar un lugar en la Postemporada de la MLB 2026?"
@@ -326,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 56.53
+ "db_size_mb": 56.59
 }
