@@ -1,6 +1,6 @@
 {
- "ts": 1786933415,
- "stamp": "20260817_022335",
+ "ts": 1786933775,
+ "stamp": "20260817_022935",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -120,8 +120,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.772162,
    "spread": 0.0,
    "categoria": "Otros",
@@ -160,8 +160,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.069,
+   "no": 0.931,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -230,8 +230,8 @@
   {
    "question": "Club Santos Laguna vs. CD Guadalajara: O/U 1.5",
    "slug": "mex-san-gua-2026-08-16-total-1pt5",
-   "yes": 0.47,
-   "no": 0.53,
+   "yes": 0.42,
+   "no": 0.58,
    "volumen": 9978.063446999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -250,8 +250,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.045,
-   "no": 0.955,
+   "yes": 0.0455,
+   "no": 0.9545,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -259,11 +259,11 @@
   }
  ],
  "historico": {
-  "ts": 1786931919,
+  "ts": 1786933719,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 43.05
+ "db_size_mb": 43.12
 }
