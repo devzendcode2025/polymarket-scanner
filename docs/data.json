@@ -1,6 +1,6 @@
 {
- "ts": 1786933895,
- "stamp": "20260817_023135",
+ "ts": 1786933955,
+ "stamp": "20260817_023235",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -53,7 +53,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988676.4248570001,
+   "volumen": 988676.4248569999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -63,7 +63,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987542.6902610001,
+   "volumen": 987542.6902610002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -83,7 +83,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 982952.2849380001,
+   "volumen": 982952.284938,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -181,8 +181,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.069,
-   "no": 0.931,
+   "yes": 0.0665,
+   "no": 0.9335,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -213,7 +213,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 98429.944934,
+   "volumen": 98429.94493399998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -251,8 +251,8 @@
   {
    "question": "Club Santos Laguna vs. CD Guadalajara: O/U 1.5",
    "slug": "mex-san-gua-2026-08-16-total-1pt5",
-   "yes": 0.42,
-   "no": 0.58,
+   "yes": 0.405,
+   "no": 0.595,
    "volumen": 9978.063446999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -271,8 +271,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0455,
-   "no": 0.9545,
+   "yes": 0.041,
+   "no": 0.959,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
