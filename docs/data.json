@@ -1,69 +1,29 @@
 {
- "ts": 1787010415,
- "stamp": "20260817_234655",
+ "ts": 1787010535,
+ "stamp": "20260817_234855",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x77c18dfd1b1115198a60a08fba21a5c225e1279eed4343857d16eb2e172d8dde",
-   "titulo": "San Diego Padres vs. New York Mets",
-   "slug": "mlb-sd-nym-2026-08-17",
-   "outcome": "New York Mets",
+   "market_id": "0x5505bf2a682ebebf3caa37acac4b022086c9268dd7e9c5ebdcdba8bc5747cced",
+   "titulo": "Cincinnati Open: Rinky Hijikata vs Jakub Mensik",
+   "slug": "atp-hijikat-mensik-2026-08-17",
+   "outcome": "Rinky Hijikata",
    "side": "BUY",
-   "size": 9600.0,
-   "price": 0.6366455625,
-   "usd": 6111.8,
-   "ts": 1787010001,
-   "categoria": "Otros",
-   "prob": 61,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $6,112 en 'New York Mets'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-sd-nym-2026-08-17",
-   "titulo_es": "San Diego Padres vs. New York Mets",
-   "narrativa": "Una entrada de 6.111,80 USD en los Mets refleja convicción institucional significativa en un mercado de alto perfil. Este volumen, que supera el promedio diario de operaciones en partidos de temporada regular, sugiere que los grandes operadores están posicionándose a favor de Nueva York antes de que el mercado ajuste sus probabilidades. El edge estimado, aunque no cuantificado aquí, se infiere de la magnitud de la apuesta en relación con la liquidez disponible. Riesgo: posible falta de profundidad en horas previas al juego."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xb3b27ec453ad23429c195e8ad0d97f80429eb9356ac50557ba6ebb0bb11f6170",
-   "titulo": "Atlanta Braves vs. Minnesota Twins",
-   "slug": "mlb-atl-min-2026-08-17",
-   "outcome": "Atlanta Braves",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.56,
-   "usd": 1120.0,
-   "ts": 1787010007,
-   "categoria": "Otros",
+   "size": 7892.31,
+   "price": 0.13,
+   "usd": 1026.0,
+   "ts": 1787010303,
+   "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,120 en 'Atlanta Braves'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-atl-min-2026-08-17",
-   "titulo_es": "Atlanta Braves vs. Minnesota Twins",
-   "narrativa": "La repetición de la compra de 1.120 USD en Atlanta Braves refuerza la señal anterior, mostrando que el capital sigue fluyendo hacia el mismo lado sin dispersión. Este segundo lote, idéntico en monto, sugiere una estrategia deliberada de acumulación en lugar de una operación aislada, lo que aumenta la confianza en el edge. El volumen total de 2.240 USD en un mercado de nicho podría mover el precio si se sostiene, pero el desvio estándar de las probabilidades implícitas sigue siendo alto. Riesgo: posible manipulación de órdenes pequeñas en mercados ilíquidos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xb3b27ec453ad23429c195e8ad0d97f80429eb9356ac50557ba6ebb0bb11f6170",
-   "titulo": "Atlanta Braves vs. Minnesota Twins",
-   "slug": "mlb-atl-min-2026-08-17",
-   "outcome": "Atlanta Braves",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.56,
-   "usd": 1120.0,
-   "ts": 1787010004,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,120 en 'Atlanta Braves'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-atl-min-2026-08-17",
-   "titulo_es": "Atlanta Braves vs. Minnesota Twins",
-   "narrativa": "La repetición de la compra de 1.120 USD en Atlanta Braves refuerza la señal anterior, mostrando que el capital sigue fluyendo hacia el mismo lado sin dispersión. Este segundo lote, idéntico en monto, sugiere una estrategia deliberada de acumulación en lugar de una operación aislada, lo que aumenta la confianza en el edge. El volumen total de 2.240 USD en un mercado de nicho podría mover el precio si se sostiene, pero el desvio estándar de las probabilidades implícitas sigue siendo alto. Riesgo: posible manipulación de órdenes pequeñas en mercados ilíquidos."
+   "razon": "Trade de compra por $1,026 en 'Rinky Hijikata'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-hijikat-mensik-2026-08-17",
+   "titulo_es": "Cincinnati Open: Rinky Hijikata vs Jakub Mensik",
+   "narrativa": "La compra de BALLENA sobre Rinky Hijikata en el Cincinnati Open refleja una apuesta direccional con un monto de $1,026 USD, lo que sugiere convicción en el underdog pese a la falta de volumen de mercado publicado. El edge implícito se basa en que el mercado no ha ajustado completamente el diferencial de superficie o forma reciente de Hijikata frente a un Mensik joven pero irregular. Riesgo: liquidez potencialmente baja en el evento, lo que puede amplificar el deslizamiento de precio al ejecutar."
   }
  ],
  "edges": [],
@@ -73,7 +33,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0485,
    "no": 0.9515,
-   "volumen": 9993902.657297,
+   "volumen": 9994245.545458995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -83,7 +43,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9888845.587317998,
+   "volumen": 9889066.667318005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -103,7 +63,7 @@
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 989101.021392,
+   "volumen": 989101.0213919999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
@@ -113,7 +73,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988007.2485159998,
+   "volumen": 988107.2485160001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -123,7 +83,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987826.6545,
+   "volumen": 987826.6544999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -143,7 +103,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99822.254645,
+   "volumen": 99822.25464500004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -163,7 +123,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0055,
    "no": 0.9945,
-   "volumen": 99745.750045,
+   "volumen": 99745.75004500001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -171,9 +131,9 @@
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.018,
-   "no": 0.982,
-   "volumen": 99463.59202099999,
+   "yes": 0.0185,
+   "no": 0.9815,
+   "volumen": 99463.59202100002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -183,7 +143,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.027,
    "no": 0.973,
-   "volumen": 99359.48181799997,
+   "volumen": 99359.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -203,7 +163,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99127.70193399997,
+   "volumen": 99127.701934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -213,7 +173,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.16,
    "no": 0.84,
-   "volumen": 99023.583419,
+   "volumen": 99023.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -309,14 +269,14 @@
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   },
   {
-   "question": "Will the highest temperature in London be 25°C on August 18?",
-   "slug": "highest-temperature-in-london-on-august-18-2026-25c",
-   "yes": 0.4,
-   "no": 0.6,
-   "volumen": 9949.142307000002,
+   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
+   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
+   "yes": 0.0465,
+   "no": 0.9535,
+   "volumen": 9947.125083000004,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Londres de 25°C el 18 de agosto?"
+   "categoria": "Política",
+   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
@@ -326,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 60.17
+ "db_size_mb": 60.22
 }
