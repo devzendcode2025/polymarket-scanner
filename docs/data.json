@@ -1,10 +1,51 @@
 {
- "ts": 1786924651,
- "stamp": "20260816_235731",
+ "ts": 1786924891,
+ "stamp": "20260817_000131",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x6d4f9a39224abab912be21db04f93064db32a58a9ea8e2a36518f3eb60054c97",
+   "titulo": "Spread: AEK (-2.5)",
+   "slug": "ucl-pls-aek1-2026-08-18-spread-away-2pt5",
+   "outcome": "PFK Levski Sofia",
+   "side": "BUY",
+   "size": 5200.313795,
+   "price": 0.956,
+   "usd": 4971.5,
+   "ts": 1786924686,
+   "categoria": "Otros",
+   "prob": 59,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $4,972 en 'PFK Levski Sofia'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-pls-aek1-2026-08-18-spread-away-2pt5",
+   "titulo_es": "Spread: AEK (-2.5)",
+   "narrativa": "Se detecta una compra significativa de 4,971.5 USD sobre PFK Levski Sofia con un spread de -2.5 puntos, lo que sugiere que el mercado está valorando un margen favorable para el equipo local. El tamaño de la operación, en ausencia de un volumen de mercado reportado, indica una apuesta direccional fuerte que podría aprovechar una discrepancia entre el precio implícito y el consenso externo. Riesgo: posible falta de liquidez en el mercado de este evento."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x542ea9fe1a48c357b45072ba9408b7e1eebee1252fe04882c3f50218ccd297fc",
+   "titulo": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
+   "slug": "atp-sonego-tiafoe-2026-08-16",
+   "outcome": "Lorenzo Sonego",
+   "side": "BUY",
+   "size": 3151.05,
+   "price": 0.39,
+   "usd": 1228.91,
+   "ts": 1786924689,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,229 en 'Lorenzo Sonego'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-sonego-tiafoe-2026-08-16",
+   "titulo_es": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
+   "narrativa": "La compra de 1,228.91 USD sobre Lorenzo Sonego en el Cincinnati Open refleja una convicción alcista, probablemente respaldada por una ventaja de edge en el punto de entrada frente al consenso externo. El monto moderado sugiere una gestión de riesgo prudente, pero el desvío respecto a las probabilidades implícitas podría ofrecer valor si el rendimiento en pista dura justifica la posición. Riesgo: alta volatilidad en tenis por factores físicos y condiciones de cancha."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -295,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 41.15
+ "db_size_mb": 41.21
 }
