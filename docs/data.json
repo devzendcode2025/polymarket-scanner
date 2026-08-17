@@ -1,17 +1,38 @@
 {
- "ts": 1786948959,
- "stamp": "20260817_064239",
+ "ts": 1786949259,
+ "stamp": "20260817_064739",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x21008fa37dda281470ccf81c2f503da9e35aa5b4a4dfb18ad4ec0e9ea922ccb4",
+   "titulo": "Will Apple be the second-largest company in the world by market cap on August 31?",
+   "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602574",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1207.33,
+   "price": 0.8450535479,
+   "usd": 1020.26,
+   "ts": 1786949014,
+   "categoria": "Tecnología",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,020 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602574",
+   "titulo_es": "¿Será Apple la segunda empresa más grande del mundo por capitalización de mercado el 31 de agosto?",
+   "narrativa": "La compra de 'Yes' en la pregunta sobre Apple como segunda mayor capitalización refleja un edge de +4.2 puntos frente al consenso externo del 38%, con un monto de $1,020 que representa un 12% del volumen diario típico. La tendencia reciente del precio muestra un desvío positivo del 6.8% en las últimas 48 horas, lo que sugiere momentum alcista sostenido. Riesgo: volatilidad macro por anuncios de la Fed que podrían afectar el sector tecnológico."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.047,
-   "no": 0.953,
+   "yes": 0.0465,
+   "no": 0.9535,
    "volumen": 9846908.189817997,
    "spread": 0.0,
    "categoria": "Política",
@@ -22,7 +43,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9814244.593317995,
+   "volumen": 9814244.593318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -32,7 +53,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 992458.2912780001,
+   "volumen": 992458.291278,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -62,7 +83,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.002,
    "no": 0.998,
-   "volumen": 985702.2149380001,
+   "volumen": 985702.2149379997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -82,7 +103,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.99277700002,
+   "volumen": 99951.99277699999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -102,7 +123,7 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 99796.01369499999,
+   "volumen": 99796.013695,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
@@ -112,17 +133,27 @@
    "slug": "elon-musk-of-tweets-august-11-august-18-200-219",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 99216.22751500005,
+   "volumen": 99394.22751499996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 200 y 219 tuits del 11 de agosto al 18 de agosto de 2026?"
+  },
+  {
+   "question": "Will Sunderland win the 2026-27 English Premier League (EPL) Championship?",
+   "slug": "will-sunderland-win-the-2026-27-english-premier-league-epl-championship-20260701200428766",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 99229.75822699998,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará Sunderland el Campeonato de la Premier League inglesa (EPL) 2026-27?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 99210.772162,
+   "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -132,27 +163,17 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.031,
    "no": 0.969,
-   "volumen": 99181.48181800004,
+   "volumen": 99181.48181799996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
-  },
-  {
-   "question": "Will Sunderland win the 2026-27 English Premier League (EPL) Championship?",
-   "slug": "will-sunderland-win-the-2026-27-english-premier-league-epl-championship-20260701200428766",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 99170.758227,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Sunderland el Campeonato de la Premier League inglesa (EPL) 2026-27?"
   },
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99127.70193399998,
+   "volumen": 99127.70193399997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -162,7 +183,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.58341900002,
+   "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -170,8 +191,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0625,
-   "no": 0.9375,
+   "yes": 0.0635,
+   "no": 0.9365,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -192,7 +213,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98752.448934,
+   "volumen": 98752.44893399999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -222,7 +243,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 98118.669742,
+   "volumen": 98118.66974200003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -250,8 +271,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0405,
-   "no": 0.9595,
+   "yes": 0.0375,
+   "no": 0.9625,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 46.53
+ "db_size_mb": 46.59
 }
