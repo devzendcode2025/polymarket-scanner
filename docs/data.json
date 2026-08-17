@@ -1,39 +1,18 @@
 {
- "ts": 1787007415,
- "stamp": "20260817_225655",
+ "ts": 1787007775,
+ "stamp": "20260817_230255",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xa50ccad0b6e8635efef7ce9cc701ad6cc918fdc443ea897560fc22826e9cec4b",
-   "titulo": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
-   "slug": "wta-shnaide-chwalin-2026-08-17",
-   "outcome": "Diana Shnaider",
-   "side": "BUY",
-   "size": 10000.0,
-   "price": 0.977,
-   "usd": 9770.0,
-   "ts": 1787007000,
-   "categoria": "Deportes",
-   "prob": 66,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $9,770 en 'Diana Shnaider'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-shnaide-chwalin-2026-08-17",
-   "titulo_es": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
-   "narrativa": "El mercado está descontando una victoria de Shnaider con un consenso externo que no refleja plenamente su ventaja de ranking y forma reciente en pista dura, generando un edge positivo de 2.3 puntos respecto al precio implícito. Con una posición de $9,770, la compra captura una discrepancia entre la probabilidad real y la cotizada, aprovechando la baja liquidez del mercado para entrar antes de que el precio se ajuste. Riesgo: el mercado es de nicho y puede tener spreads amplios, lo que limita la salida rápida si el partido cambia de dinámica."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0435,
-   "no": 0.9565,
-   "volumen": 9989513.963759998,
+   "yes": 0.046,
+   "no": 0.954,
+   "volumen": 9989613.343760004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -99,21 +78,11 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "Will Cardiff City FC win on 2026-08-17?",
-   "slug": "elc-car-wre-2026-08-17-car",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99913.69351,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Cardiff City FC el 2026-08-17?"
-  },
-  {
    "question": "Will the Democrats win the Ohio Senate race in 2026?",
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99822.25464499998,
+   "volumen": 99822.25464500001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -129,6 +98,16 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
+   "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
+   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
+   "yes": 0.0055,
+   "no": 0.9945,
+   "volumen": 99584.640045,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
+  },
+  {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.0185,
@@ -139,21 +118,11 @@
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
   },
   {
-   "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
-   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
-   "yes": 0.0055,
-   "no": 0.9945,
-   "volumen": 99446.31004499999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
-  },
-  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.027,
    "no": 0.973,
-   "volumen": 99359.48181799997,
+   "volumen": 99359.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -173,7 +142,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99127.70193399998,
+   "volumen": 99127.701934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -183,7 +152,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99023.583419,
+   "volumen": 99023.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -229,6 +198,16 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
+   "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
+   "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
+   "yes": 0.0835,
+   "no": 0.9165,
+   "volumen": 9987.01834,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
+  },
+  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
    "yes": 0.0315,
@@ -243,7 +222,7 @@
    "slug": "will-the-arizona-diamondbacks-clinch-a-spot-in-the-2026-mlb-postseason",
    "yes": 0.465,
    "no": 0.535,
-   "volumen": 9967.956949,
+   "volumen": 9967.956949000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Lograrán los Arizona Diamondbacks asegurar un lugar en la Postemporada de la MLB 2026?"
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 59.46
+ "db_size_mb": 59.59
 }
