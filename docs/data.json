@@ -1,6 +1,6 @@
 {
- "ts": 1786930894,
- "stamp": "20260817_014134",
+ "ts": 1786930954,
+ "stamp": "20260817_014234",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -281,8 +281,8 @@
   {
    "question": "Set Handicap: Shelton (-1.5) vs Faria (+1.5)",
    "slug": "atp-shelton-faria-2026-08-16-set-handicap-home-1pt5",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.0015,
+   "no": 0.9985,
    "volumen": 9980.615199000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -301,8 +301,8 @@
   {
    "question": "Club Santos Laguna vs. CD Guadalajara: O/U 2.5",
    "slug": "mex-san-gua-2026-08-16-total-2pt5",
-   "yes": 0.465,
-   "no": 0.535,
+   "yes": 0.43,
+   "no": 0.57,
    "volumen": 9973.301481,
    "spread": 0.0,
    "categoria": "Otros",
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 42.5
+ "db_size_mb": 42.51
 }
