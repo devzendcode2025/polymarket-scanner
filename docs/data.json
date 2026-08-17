@@ -1,6 +1,6 @@
 {
- "ts": 1786985209,
- "stamp": "20260817_164649",
+ "ts": 1786985269,
+ "stamp": "20260817_164749",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -12,18 +12,38 @@
    "slug": "atp-blockx-cobolli-2026-08-17",
    "outcome": "Flavio Cobolli",
    "side": "BUY",
-   "size": 26819.82,
+   "size": 2525.01,
    "price": 0.64,
-   "usd": 17164.68,
-   "ts": 1786984767,
+   "usd": 1616.01,
+   "ts": 1786985077,
    "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $17,165 en 'Flavio Cobolli'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,616 en 'Flavio Cobolli'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/atp-blockx-cobolli-2026-08-17",
    "titulo_es": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
-   "narrativa": "La compra sobre Flavio Cobolli en su duelo ante Blockx presenta un edge favorable alineado con el consenso externo, que lo sitúa como claro favorito pese a que el mercado aún no ha ajustado totalmente el precio. El monto de 17,164 USD refleja una posición de tamaño considerable, lo que sugiere convicción en la ventaja de experiencia y ranking del italiano en pista dura. El volumen de mercado no está disponible, por lo que la ejecución podría enfrentar spreads amplios en momentos de baja liquidez."
+   "narrativa": "La segunda orden de $1,616 en el mismo resultado refuerza la señal de acumulación en Flavio Cobolli, elevando la presión de compra sobre un activo que probablemente cotiza con descuento frente al consenso externo. La estructura de dos transacciones idénticas en rápida sucesión sugiere una estrategia de entrada escalonada, típica de operadores que buscan capturar un edge de al menos 5-7 puntos sin mover el precio en su contra. Este patrón de compra repetitiva en un no favorito es una señal de que el mercado está subestimando las probabilidades de Cobolli en el Cincinnati Open. Riesgo: la falta de volumen de mercado reportado puede generar dificultades para salir de la posición en momentos de alta volatilidad."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xd4eee5db908a943598d8d6bb8409f716c429c6d1bbd5be07567741904428c025",
+   "titulo": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
+   "slug": "atp-blockx-cobolli-2026-08-17",
+   "outcome": "Flavio Cobolli",
+   "side": "BUY",
+   "size": 2565.079364,
+   "price": 0.6299999999,
+   "usd": 1616.0,
+   "ts": 1786985077,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,616 en 'Flavio Cobolli'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-blockx-cobolli-2026-08-17",
+   "titulo_es": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
+   "narrativa": "La segunda orden de $1,616 en el mismo resultado refuerza la señal de acumulación en Flavio Cobolli, elevando la presión de compra sobre un activo que probablemente cotiza con descuento frente al consenso externo. La estructura de dos transacciones idénticas en rápida sucesión sugiere una estrategia de entrada escalonada, típica de operadores que buscan capturar un edge de al menos 5-7 puntos sin mover el precio en su contra. Este patrón de compra repetitiva en un no favorito es una señal de que el mercado está subestimando las probabilidades de Cobolli en el Cincinnati Open. Riesgo: la falta de volumen de mercado reportado puede generar dificultades para salir de la posición en momentos de alta volatilidad."
   }
  ],
  "edges": [],
@@ -31,9 +51,9 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.041,
-   "no": 0.959,
-   "volumen": 9911261.160178,
+   "yes": 0.0435,
+   "no": 0.9565,
+   "volumen": 9913119.74507,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -53,7 +73,7 @@
    "slug": "lol-t1-dnf-2026-08-17-game1",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 997835.0259970007,
+   "volumen": 997835.0259970005,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 1"
@@ -119,21 +139,11 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
-   "question": "Fed rate cut by October 2026 meeting?",
-   "slug": "fed-rate-cut-by-october-2026-meeting-199-747",
-   "yes": 0.057,
-   "no": 0.943,
-   "volumen": 99618.12100699997,
-   "spread": 0.0,
-   "categoria": "Economía",
-   "question_es": "¿Recorte de tasas de la Fed para la reunión de octubre de 2026?"
-  },
-  {
    "question": "Will the Democrats win the Ohio Senate race in 2026?",
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99590.36785400001,
+   "volumen": 99590.367854,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -143,7 +153,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181800001,
+   "volumen": 99359.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -151,8 +161,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -163,7 +173,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99127.70193400001,
+   "volumen": 99127.70193400003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -173,7 +183,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99023.58341900003,
+   "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -233,7 +243,7 @@
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632,
+   "volumen": 9973.414632000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -253,10 +263,20 @@
    "slug": "another-nato-article-4-invocation-by-october-31-2026-20260726214511853",
    "yes": 0.23,
    "no": 0.77,
-   "volumen": 9973.130335000002,
+   "volumen": 9973.130335,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Otra invocación del Artículo 4 de la OTAN para el 31 de octubre de 2026?"
+  },
+  {
+   "question": "Set Handicap: Minaur (-1.5) vs Fery (+1.5)",
+   "slug": "atp-fery-minaur-2026-08-17-set-handicap-away-1pt5",
+   "yes": 0.54,
+   "no": 0.46,
+   "volumen": 9968.661994000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Hándicap de sets: Minaur (-1.5) vs Fery (+1.5)"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 54.53
+ "db_size_mb": 54.59
 }
