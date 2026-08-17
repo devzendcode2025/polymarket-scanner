@@ -1,49 +1,29 @@
 {
- "ts": 1786932034,
- "stamp": "20260817_020034",
+ "ts": 1786932094,
+ "stamp": "20260817_020134",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b",
-   "titulo": "Cincinnati Open: Ben Shelton vs Jaime Faria",
-   "slug": "atp-shelton-faria-2026-08-16",
-   "outcome": "Jaime Faria",
+   "market_id": "0xf13284a9605afe362c0ca146dd8e998ac3e4d411625ced4a92f39706bc673a6b",
+   "titulo": "Will Bitcoin reach $65,000 in August?",
+   "slug": "will-bitcoin-reach-65k-in-august-2026-from-august-10",
+   "outcome": "No",
    "side": "SELL",
-   "size": 8163.26,
-   "price": 0.999,
-   "usd": 8155.1,
-   "ts": 1786931596,
-   "categoria": "Deportes",
-   "prob": 64,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $8,155 en 'Jaime Faria'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-shelton-faria-2026-08-16",
-   "titulo_es": "Cincinnati Open: Ben Shelton vs Jaime Faria",
-   "narrativa": "La venta de 8,155 USD sobre Jaime Faria en el duelo ante Ben Shelton refleja una fuerte convicción bajista, probablemente por la brecha de ranking y la superficie rápida que favorece al estadounidense. Este movimiento de ballena, al carecer de volumen de mercado reportado, sugiere una posición direccional agresiva que busca capitalizar el desajuste de expectativas. Riesgo: posible limitación de liquidez para ejecutar la salida si el mercado se mueve en contra."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x542ea9fe1a48c357b45072ba9408b7e1eebee1252fe04882c3f50218ccd297fc",
-   "titulo": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
-   "slug": "atp-sonego-tiafoe-2026-08-16",
-   "outcome": "Lorenzo Sonego",
-   "side": "BUY",
-   "size": 5000.0,
+   "size": 2964.93,
    "price": 0.4,
-   "usd": 2000.0,
-   "ts": 1786931586,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Lorenzo Sonego'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-sonego-tiafoe-2026-08-16",
-   "titulo_es": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
-   "narrativa": "La compra de 2,000 USD sobre Lorenzo Sonego contra Frances Tiafoe indica una apuesta por el underdog, aprovechando el historial reciente y la posible fatiga de Tiafoe en un torneo exigente. El monto, aunque menor, muestra una selección calculada donde el edge podría venir de un consenso externo que subestima la consistencia de Sonego en canchas rápidas. Riesgo: la variabilidad del rendimiento de Tiafoe en partidos de alta presión."
+   "usd": 1185.97,
+   "ts": 1786931895,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,186 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-bitcoin-reach-65k-in-august-2026-from-august-10",
+   "titulo_es": "¿Alcanzará Bitcoin los $65,000 en agosto?",
+   "narrativa": "La posición de venta en 'Bitcoin a $65,000 en agosto' presenta un edge de +4.2 puntos frente al consenso externo del 38% de probabilidad implícita, con un monto de $1,185.97 que capitaliza la sobrevaloración del 'Sí' en mercados secundarios. El desvío del 12% respecto al precio justo sugiere una corrección favorable, aunque el volumen de mercado nulo eleva el riesgo de ejecución en ventanas de baja liquidez. Riesgo: posible squeeze corto si el activo subyacente repunta por noticias macro."
   }
  ],
  "edges": [],
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 42.72
+ "db_size_mb": 42.78
 }
