@@ -1,6 +1,6 @@
 {
- "ts": 1786973566,
- "stamp": "20260817_133246",
+ "ts": 1786973626,
+ "stamp": "20260817_133346",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -31,9 +31,9 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0475,
-   "no": 0.9525,
-   "volumen": 9883571.041212,
+   "yes": 0.05,
+   "no": 0.95,
+   "volumen": 9887964.771211997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +43,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9825588.00631801,
+   "volumen": 9827062.086318007,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -97,16 +97,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
-  },
-  {
-   "question": "LoL: T1 vs DN SOOPers - Game 1 Winner",
-   "slug": "lol-t1-dnf-2026-08-17-game1",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 984033.5759970001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 1"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -213,7 +203,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 98958.79004499999,
+   "volumen": 98958.79004500002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -277,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 51.99
+ "db_size_mb": 52.0
 }
