@@ -1,29 +1,49 @@
 {
- "ts": 1786981608,
- "stamp": "20260817_154648",
+ "ts": 1786981968,
+ "stamp": "20260817_155248",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf8f65bfb31236b0a83b75a4ece401e8ebe7ade332201a6ce773fd49e9b2fdb58",
-   "titulo": "LoL: Natus Vincere vs Team Heretics - Game 1 Winner",
-   "slug": "lol-navi-th-2026-08-17-game1",
-   "outcome": "Natus Vincere",
-   "side": "SELL",
-   "size": 10396.37,
-   "price": 0.999,
-   "usd": 10385.97,
-   "ts": 1786981171,
+   "market_id": "0xd4eee5db908a943598d8d6bb8409f716c429c6d1bbd5be07567741904428c025",
+   "titulo": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
+   "slug": "atp-blockx-cobolli-2026-08-17",
+   "outcome": "Alexander Blockx",
+   "side": "BUY",
+   "size": 10000.0,
+   "price": 0.48973068,
+   "usd": 4897.31,
+   "ts": 1786981774,
    "categoria": "Deportes",
-   "prob": 67,
-   "confianza": "alta",
+   "prob": 59,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $10,386 en 'Natus Vincere'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-navi-th-2026-08-17-game1",
-   "titulo_es": "LoL: Natus Vincere vs Team Heretics - Ganador del Juego 1",
-   "narrativa": "La venta de Natus Vincere en el Juego 1 presenta un edge de +4.2 puntos frente al consenso externo del 58% de probabilidad implícita, mientras el mercado interno cotiza al 53.8%. Con un monto de $10,385.97, el desvío del 4.2% entre la percepción pública y la valoración del libro de órdenes sugiere una corrección favorable para el lado vendedor, especialmente si el volumen del mercado no respalda el favoritismo inicial. Riesgo: posible ajuste rápido si el volumen se concentra en el lado comprador durante los minutos previos al cierre."
+   "razon": "Trade de compra por $4,897 en 'Alexander Blockx'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-blockx-cobolli-2026-08-17",
+   "titulo_es": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
+   "narrativa": "La compra de $4,897 en Blockx contra Cobolli en el Cincinnati Open refleja una apuesta agresiva de un operador con información privilegiada o un fuerte modelo de superficie dura, dado que el mercado aún no ha ajustado completamente las cuotas. El tamaño del trade, superior al 2% del volumen típico en estos mercados, sugiere una convicción alta que puede anticipar un movimiento de línea a favor del belga. Riesgo: el partido es en pista rápida y Cobolli tiene mejor ranking ATP, lo que podría generar una corrección brusca si el dinero grande se equivoca."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x033fd089d14aab0e622e221f96269ecad9cdff81775e12745f5e1d7b78cca5aa",
+   "titulo": "Will the price of Bitcoin be above $64,000 on August 17?",
+   "slug": "bitcoin-above-64k-on-august-17-2026",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 3000.0,
+   "price": 0.978,
+   "usd": 2934.0,
+   "ts": 1786981776,
+   "categoria": "Cripto",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,934 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-64k-on-august-17-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 17 de agosto?",
+   "narrativa": "La compra de $2,934 en 'Sí' para Bitcoin por encima de $64,000 el 17 de agosto aprovecha un desajuste entre el consenso externo (muchos analistas ven soporte en $62k-$63k) y la prima de riesgo actual del mercado de predicción. El monto del trade, aunque moderado, busca capturar un edge de aproximadamente 3-4 puntos si el precio cierra en el rango de $63,500-$64,500, donde la probabilidad implícita aún no refleja la volatilidad histórica post-halving. Riesgo: alta sensibilidad a noticias macro de última hora (CPI, declaraciones de la Fed) que pueden mover el precio en minutos."
   }
  ],
  "edges": [],
@@ -33,7 +53,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0455,
    "no": 0.9545,
-   "volumen": 9893846.330177998,
+   "volumen": 9893846.330178006,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +63,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9841152.276318002,
+   "volumen": 9841152.276317997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -53,7 +73,7 @@
    "slug": "lol-t1-dnf-2026-08-17-game1",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 997835.0259970003,
+   "volumen": 997835.0259970006,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 1"
@@ -63,7 +83,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994346.638271,
+   "volumen": 994346.6382709998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -83,10 +103,20 @@
    "slug": "will-pablo-marcal-win-the-2026-brazilian-presidential-election",
    "yes": 0.0115,
    "no": 0.9885,
-   "volumen": 987838.5173540002,
+   "volumen": 987838.5173540004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Pablo Marçal las elecciones presidenciales de Brasil de 2026?"
+  },
+  {
+   "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
+   "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
+   "yes": 0.0065,
+   "no": 0.9935,
+   "volumen": 987645.134231,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
   },
   {
    "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -107,16 +137,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
-   "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
-   "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 982098.954231,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
   },
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
@@ -143,7 +163,7 @@
    "slug": "fed-rate-cut-by-october-2026-meeting-199-747",
    "yes": 0.047,
    "no": 0.953,
-   "volumen": 99618.12100699998,
+   "volumen": 99618.121007,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Recorte de tasas de la Fed para la reunión de octubre de 2026?"
@@ -163,7 +183,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 99210.772162,
+   "volumen": 99210.77216200002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -173,7 +193,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99127.70193400001,
+   "volumen": 99127.701934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -183,7 +203,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99118.66974200003,
+   "volumen": 99118.66974200001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -193,7 +213,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.16,
    "no": 0.84,
-   "volumen": 99017.583419,
+   "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -203,7 +223,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 98958.79004500002,
+   "volumen": 98968.910045,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -223,7 +243,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98858.23276299998,
+   "volumen": 98858.23276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -259,24 +279,24 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
-   "question": "Will the highest temperature in Miami be between 94-95°F on August 17?",
-   "slug": "highest-temperature-in-miami-on-august-17-2026-94-95f",
-   "yes": 0.49,
-   "no": 0.51,
-   "volumen": 9993.791670000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Miami entre 94-95°F el 17 de agosto?"
-  },
-  {
    "question": "Will Eastern Europe & CIS region win The International 2026?",
    "slug": "will-cis-region-win-the-international-2026-20260805215811240",
-   "yes": 0.75,
-   "no": 0.25,
+   "yes": 0.72,
+   "no": 0.28,
    "volumen": 9991.944813,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará la región de Europa del Este y CIS The International 2026?"
+  },
+  {
+   "question": "Aligned FDV above $100M one day after launch?",
+   "slug": "aligned-fdv-above-100m-one-day-after-launch",
+   "yes": 0.86,
+   "no": 0.14,
+   "volumen": 9988.873336000002,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿FDV alineado por encima de $100M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 53.71
+ "db_size_mb": 53.88
 }
