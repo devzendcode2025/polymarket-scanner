@@ -1,49 +1,29 @@
 {
- "ts": 1786997512,
- "stamp": "20260817_201152",
+ "ts": 1786997572,
+ "stamp": "20260817_201252",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x034341c948e36836242f23998e50ce3c64d931da00b5eaa264baaa8c15f51690",
-   "titulo": "Will the Republican Party win the MA-02 House seat?",
-   "slug": "will-the-republican-party-win-the-ma-02-house-seat",
-   "outcome": "No",
+   "market_id": "0x76122c9df959b89ecf14348cc719cb0b97ca9f382fc6e712baa7853e47294f17",
+   "titulo": "Cincinnati Open: Arthur Fery vs Alex de Minaur",
+   "slug": "atp-fery-minaur-2026-08-17",
+   "outcome": "Alex de Minaur",
    "side": "BUY",
-   "size": 2000.0,
-   "price": 0.95,
-   "usd": 1900.0,
-   "ts": 1786997092,
-   "categoria": "Política",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,900 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-republican-party-win-the-ma-02-house-seat",
-   "titulo_es": "¿Ganará el Partido Republicano el escaño de la Cámara MA-02?",
-   "narrativa": "La compra de 'No' en el escaño MA-02 con $1,900 refleja una apuesta significativa contra el Partido Republicano en un distrito de fuerte inclinación demócrata. El tamaño de la operación, en ausencia de volumen de mercado reportado, sugiere que el operador detecta un desajuste entre el precio implícito y la probabilidad real basada en la composición del electorado. El edge proviene de explotar un consenso externo que probablemente sobreestima la competitividad del distrito. Riesgo: la falta de datos de volumen puede indicar liquidez limitada y movimientos bruscos de precios."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x800b6a360b9b84832fda1a8669dc62d7eb697ea7c32260acc330467dcadc3d4c",
-   "titulo": "Cardiff City FC vs. Wrexham AFC: O/U 2.5",
-   "slug": "elc-car-wre-2026-08-17-total-2pt5",
-   "outcome": "Under",
-   "side": "BUY",
-   "size": 2143.36,
-   "price": 0.5,
-   "usd": 1071.68,
-   "ts": 1786997077,
-   "categoria": "Otros",
+   "size": 1416.79,
+   "price": 0.91,
+   "usd": 1289.28,
+   "ts": 1786997392,
+   "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,072 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/elc-car-wre-2026-08-17-total-2pt5",
-   "titulo_es": "Cardiff City FC vs. Wrexham AFC: Más/Menos 2.5",
-   "narrativa": "La compra de 'Under 2.5' en el Cardiff vs. Wrexham con $1,071.68 busca capitalizar la tendencia histórica de partidos de alta tensión entre estos equipos, donde los goles suelen ser escasos. El monto colocado, sin volumen de mercado disponible, apunta a que el operador ve un valor claro en el precio actual del 'Under', probablemente influenciado por el estilo defensivo de ambos clubes en encuentros recientes. El edge se basa en un desvío entre la expectativa pública de un partido abierto y la realidad táctica del enfrentamiento. Riesgo: la volatilidad de un solo gol puede anular la posición rápidamente."
+   "razon": "Trade de compra por $1,289 en 'Alex de Minaur'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-fery-minaur-2026-08-17",
+   "titulo_es": "Cincinnati Open: Arthur Fery vs Alex de Minaur",
+   "narrativa": "La compra de Alex de Minaur contra Arthur Fery refleja una clara asimetría de valor: el mercado aún no ha ajustado por completo la diferencia de ranking y experiencia en pista dura, lo que genera un edge estimado superior a 15 puntos en la probabilidad implícita. Con un monto de $1,289 USD, la posición aprovecha el consenso externo que sitúa a De Minaur como favorito sólido, mientras el volumen de mercado aún no ha absorbido toda la información. Riesgo: posible falta de liquidez en horarios de baja actividad."
   }
  ],
  "edges": [],
@@ -161,8 +141,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -281,8 +261,8 @@
   {
    "question": "LoL: Estral Esports vs RMD Gaming - Game 2 Winner",
    "slug": "lol-est-rmd-2026-08-17-game2",
-   "yes": 0.89,
-   "no": 0.11,
+   "yes": 0.875,
+   "no": 0.125,
    "volumen": 9957.991415,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 57.28
+ "db_size_mb": 57.36
 }
