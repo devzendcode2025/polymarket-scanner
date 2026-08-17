@@ -1,31 +1,10 @@
 {
- "ts": 1786932635,
- "stamp": "20260817_021035",
+ "ts": 1786932995,
+ "stamp": "20260817_021635",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xe58d3573b814dd8499184991b7505e810303b3d8ebebca8281a674b4bee692a9",
-   "titulo": "Will Club Santos Laguna win on 2026-08-16?",
-   "slug": "mex-san-gua-2026-08-16-san",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1445.783129,
-   "price": 0.83,
-   "usd": 1200.0,
-   "ts": 1786932192,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,200 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mex-san-gua-2026-08-16-san",
-   "titulo_es": "¿Ganará el Club Santos Laguna el 2026-08-16?",
-   "narrativa": "El mercado muestra una clara asimetría a favor del 'No' para Santos Laguna, con una operación de $1,200 USD que busca capitalizar la falta de consenso externo sobre su victoria. El edge estimado en puntos supera el umbral de rentabilidad ajustado por el spread, y el volumen aún no revela una presión compradora que justifique el precio actual. Riesgo: posible ajuste brusco si el volumen se dispara antes del cierre."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -181,8 +160,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0675,
-   "no": 0.9325,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -201,8 +180,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.008,
-   "no": 0.992,
+   "yes": 0.0075,
+   "no": 0.9925,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 42.84
+ "db_size_mb": 42.98
 }
