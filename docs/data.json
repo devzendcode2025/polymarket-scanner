@@ -1,10 +1,31 @@
 {
- "ts": 1786965344,
- "stamp": "20260817_111544",
+ "ts": 1786965464,
+ "stamp": "20260817_111744",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xa08a5ce99e14ce0b22767af6f16c08a2ab012249444c20887193a9a3e98e11fc",
+   "titulo": "Strait of Hormuz traffic returns to normal by September 30?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2777.77777,
+   "price": 0.9,
+   "usd": 2500.0,
+   "ts": 1786965244,
+   "categoria": "Tecnología",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,500 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad para el 30 de septiembre?",
+   "narrativa": "El mercado descuenta una resolución del tráfico en Ormuz antes del 30 de septiembre, pero la señal de compra sobre 'No' sugiere que el consenso externo subestima la persistencia de las tensiones geopolíticas. Con un monto de $2,500, el edge implícito se amplía si la volatilidad del crudo se mantiene elevada, ya que cualquier retraso logístico revaloriza el resultado negativo. Riesgo: el evento es binario y depende de factores políticos impredecibles, lo que puede generar oscilaciones bruscas de precio."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -22,7 +43,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 998820.1542699998,
+   "volumen": 998820.1542699996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -72,7 +93,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.992777,
+   "volumen": 99951.99277700002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -102,7 +123,7 @@
    "slug": "will-trump-and-putin-not-meet-432",
    "yes": 0.615,
    "no": 0.385,
-   "volumen": 99461.75602300002,
+   "volumen": 99461.75602300001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿No se reunirán Trump y Putin?"
@@ -112,7 +133,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181799997,
+   "volumen": 99359.48181799996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -208,21 +229,11 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
-   "question": "Will the highest temperature in Madrid be 38°C on August 17?",
-   "slug": "highest-temperature-in-madrid-on-august-17-2026-38c",
-   "yes": 0.59,
-   "no": 0.41,
-   "volumen": 9979.240063000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Madrid de 38°C el 17 de agosto?"
-  },
-  {
    "question": "Will Bruce Walden win the 2026 Alaska governor election?",
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632,
+   "volumen": 9973.414632000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -256,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
+  },
+  {
+   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
+   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
+   "yes": 0.0465,
+   "no": 0.9535,
+   "volumen": 9947.125083000004,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 50.11
+ "db_size_mb": 50.18
 }
