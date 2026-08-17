@@ -1,6 +1,6 @@
 {
- "ts": 1786981368,
- "stamp": "20260817_154248",
+ "ts": 1786981488,
+ "stamp": "20260817_154448",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -191,8 +191,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.425,
-   "no": 0.575,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -201,8 +201,8 @@
   {
    "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
-   "yes": 0.0065,
-   "no": 0.9935,
+   "yes": 0.006,
+   "no": 0.994,
    "volumen": 98958.79004500002,
    "spread": 0.0,
    "categoria": "Otros",
