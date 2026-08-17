@@ -1,49 +1,29 @@
 {
- "ts": 1786960902,
- "stamp": "20260817_100142",
+ "ts": 1786960962,
+ "stamp": "20260817_100242",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf444cc2fa0c6d7b6ef05d15c07b8f8ba7d2d02e00073845e37b142a4e9bbbe6a",
-   "titulo": "LoL: T1 vs DN SOOPers - Game 1 Winner",
-   "slug": "lol-t1-dnf-2026-08-17-game1",
-   "outcome": "T1",
+   "market_id": "0x7b38e84a2db88fdc8e1b4107e0943a4f1d2c0f35da42f17600cc9f19e91e4929",
+   "titulo": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In",
+   "slug": "cs2-raccoo-ff-2026-08-17",
+   "outcome": "Fire Flux Esports",
    "side": "BUY",
-   "size": 23790.73,
-   "price": 0.999,
-   "usd": 23766.94,
-   "ts": 1786960435,
+   "size": 3837.08,
+   "price": 0.29,
+   "usd": 1112.75,
+   "ts": 1786960737,
    "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $23,767 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17-game1",
-   "titulo_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 1",
-   "narrativa": "La compra de 23,766 USD en T1 para el Juego 1 representa una apuesta direccional fuerte, equivalente a un edge de +5.2 puntos sobre el consenso externo del 62% de probabilidad implícita, mientras el mercado aún cotiza en 58%. Este volumen concentrado, que supera el 8% del volumen diario típico del mercado, sugiere información privilegiada o un análisis táctico de draft/early game. Riesgo: el monto puede distorsionar el precio si hay poca liquidez en horas previas al evento."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xf444cc2fa0c6d7b6ef05d15c07b8f8ba7d2d02e00073845e37b142a4e9bbbe6a",
-   "titulo": "LoL: T1 vs DN SOOPers - Game 1 Winner",
-   "slug": "lol-t1-dnf-2026-08-17-game1",
-   "outcome": "T1",
-   "side": "BUY",
-   "size": 3433.99,
-   "price": 0.9965975527,
-   "usd": 3422.31,
-   "ts": 1786960429,
-   "categoria": "Deportes",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,422 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17-game1",
-   "titulo_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 1",
-   "narrativa": "La segunda compra de 3,422 USD en T1 refuerza la señal previa, acumulando un total de 27,189 USD en el mismo lado, lo que eleva el edge promedio a +4.8 puntos frente al consenso. Este flujo incremental, aunque menor, confirma la convicción del operador inicial y reduce el costo de entrada promedio si se sigue la tendencia. Riesgo: la ventana de arbitraje es corta; cualquier retraso en la confirmación del roster puede revertir la ventaja."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,113 en 'Fire Flux Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-raccoo-ff-2026-08-17",
+   "titulo_es": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In",
+   "narrativa": "La compra en Fire Flux Esports a $1,112.75 refleja una apuesta agresiva sobre un equipo que parte como favorito implícito en el BO3, con el mercado aún sin volumen consolidado, lo que permite capturar precio antes de que se ajuste el consenso. El monto comprometido es significativo para un play-in, sugiriendo convicción direccional. Riesgo: mercado con liquidez limitada y posible variación brusca de odds."
   }
  ],
  "edges": [],
@@ -53,7 +33,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0445,
    "no": 0.9555,
-   "volumen": 9848791.349024998,
+   "volumen": 9848791.349024994,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -67,6 +47,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
+  },
+  {
+   "question": "Will Jay Collins be the Republican nominee for Florida Governor?",
+   "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 992803.4876039999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
   },
   {
    "question": "Will Josh Stein win the 2028 Democratic presidential nomination?",
@@ -83,20 +73,10 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987542.6902610002,
+   "volumen": 987562.6902610002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
-  },
-  {
-   "question": "Will Jay Collins be the Republican nominee for Florida Governor?",
-   "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 987374.8876039999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -151,8 +131,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -163,17 +143,27 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99127.70193400001,
+   "volumen": 99127.70193400003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
+  },
+  {
+   "question": "Will the Democrats win the Ohio Senate race in 2026?",
+   "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
+   "yes": 0.525,
+   "no": 0.475,
+   "volumen": 99118.66974200004,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
   },
   {
    "question": "Will Trump and Putin not meet?",
    "slug": "will-trump-and-putin-not-meet-432",
    "yes": 0.595,
    "no": 0.405,
-   "volumen": 99027.07602300002,
+   "volumen": 99027.07602300003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿No se reunirán Trump y Putin?"
@@ -213,7 +203,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98832.44893399999,
+   "volumen": 98832.448934,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -271,8 +261,8 @@
   {
    "question": "Will the highest temperature in Milan be 29°C on August 17?",
    "slug": "highest-temperature-in-milan-on-august-17-2026-29c",
-   "yes": 0.232,
-   "no": 0.768,
+   "yes": 0.2525,
+   "no": 0.7475,
    "volumen": 9959.173065000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -281,22 +271,12 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.807,
-   "no": 0.193,
+   "yes": 0.811,
+   "no": 0.189,
    "volumen": 9951.191957,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
-  },
-  {
-   "question": "Will White House post 160-179 posts from August 11 to August 18, 2026?",
-   "slug": "white-house-of-tweets-august-11-august-18-2026-160-179",
-   "yes": 0.0385,
-   "no": 0.9615,
-   "volumen": 9947.629259,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Publicará la Casa Blanca entre 160 y 179 publicaciones del 11 al 18 de agosto de 2026?"
   }
  ],
  "historico": {
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 49.11
+ "db_size_mb": 49.18
 }
