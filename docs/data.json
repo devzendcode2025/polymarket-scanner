@@ -1,51 +1,10 @@
 {
- "ts": 1786926032,
- "stamp": "20260817_002032",
+ "ts": 1786926392,
+ "stamp": "20260817_002632",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x1abbce6cf2344b2f8c8cc5723f00cf41d0f1ca9e0e611f68945a0faa8be0b905",
-   "titulo": "Will CF América win on 2026-08-16?",
-   "slug": "mex-ame-asl-2026-08-16-ame",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 8705.75,
-   "price": 0.954718169,
-   "usd": 8311.54,
-   "ts": 1786925587,
-   "categoria": "Otros",
-   "prob": 64,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $8,312 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mex-ame-asl-2026-08-16-ame",
-   "titulo_es": "¿Ganará el CF América el 2026-08-16?",
-   "narrativa": "La entrada de 8,311 USD en 'Yes' para el CF América el 2026-08-16 refleja una apuesta direccional fuerte, con un monto que supera el ticket promedio del mercado y sugiere convicción institucional. El edge estimado es de +3.2 puntos frente al consenso externo del 58%, lo que implica una probabilidad implícita del 61.2% en el precio de compra. Riesgo: posible falta de liquidez en el tramo final del mercado, lo que puede ampliar el desvío entre el precio de salida y el valor justo."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x1abbce6cf2344b2f8c8cc5723f00cf41d0f1ca9e0e611f68945a0faa8be0b905",
-   "titulo": "Will CF América win on 2026-08-16?",
-   "slug": "mex-ame-asl-2026-08-16-ame",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 3397.51,
-   "price": 0.95,
-   "usd": 3227.63,
-   "ts": 1786925584,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,228 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mex-ame-asl-2026-08-16-ame",
-   "titulo_es": "¿Ganará el CF América el 2026-08-16?",
-   "narrativa": "La segunda compra de 3,227 USD en el mismo evento consolida la tendencia alcista, con un edge de +2.8 puntos sobre el consenso del 58%, y el monto acumulado (11,539 USD) representa un 0.9% del volumen total estimado, lo que indica posicionamiento escalonado. El cambio porcentual en el precio de 'Yes' es de +1.5% en la última hora, confirmando momentum. Riesgo: alta sensibilidad a noticias de último minuto sobre alineación o lesiones, que puede revertir el precio rápidamente."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +21,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will Jay Collins be the Republican nominee for Florida Governor?",
+     "_poly_question": "Will the Democrats win the Ohio Senate race in 2026?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -241,8 +200,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0695,
-   "no": 0.9305,
+   "yes": 0.0705,
+   "no": 0.9295,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -311,8 +270,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.045,
-   "no": 0.955,
+   "yes": 0.0455,
+   "no": 0.9545,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -336,5 +295,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 41.42
+ "db_size_mb": 41.53
 }
