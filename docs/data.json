@@ -1,6 +1,6 @@
 {
- "ts": 1786996672,
- "stamp": "20260817_195752",
+ "ts": 1786996792,
+ "stamp": "20260817_195952",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -300,11 +300,11 @@
   }
  ],
  "historico": {
-  "ts": 1786994996,
+  "ts": 1786996796,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 57.15
+ "db_size_mb": 57.16
 }
