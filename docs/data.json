@@ -1,6 +1,6 @@
 {
- "ts": 1786947159,
- "stamp": "20260817_061239",
+ "ts": 1786947519,
+ "stamp": "20260817_061839",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -12,7 +12,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.047,
    "no": 0.953,
-   "volumen": 9846908.189818,
+   "volumen": 9846908.189817995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -22,10 +22,20 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9814244.593318002,
+   "volumen": 9814244.59331801,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
+  },
+  {
+   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
+   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
+   "yes": 0.0165,
+   "no": 0.9835,
+   "volumen": 992458.291278,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
    "question": "Will Josh Stein win the 2028 Democratic presidential nomination?",
@@ -36,16 +46,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
-  },
-  {
-   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
-   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
-   "yes": 0.0165,
-   "no": 0.9835,
-   "volumen": 988681.4248569999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
    "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -62,7 +62,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.002,
    "no": 0.998,
-   "volumen": 984753.9549379997,
+   "volumen": 985702.214938,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -82,7 +82,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.99277700002,
+   "volumen": 99951.992777,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -100,8 +100,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.077,
-   "no": 0.923,
+   "yes": 0.078,
+   "no": 0.922,
    "volumen": 99781.706217,
    "spread": 0.0,
    "categoria": "Política",
@@ -122,7 +122,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.031,
    "no": 0.969,
-   "volumen": 99181.48181799996,
+   "volumen": 99181.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -142,7 +142,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99127.70193400001,
+   "volumen": 99127.70193400003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -152,7 +152,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.58341899999,
+   "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -182,7 +182,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98722.44893400001,
+   "volumen": 98722.448934,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -192,7 +192,7 @@
    "slug": "will-trump-and-putin-not-meet-432",
    "yes": 0.6,
    "no": 0.4,
-   "volumen": 98647.606023,
+   "volumen": 98647.60602300003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿No se reunirán Trump y Putin?"
@@ -208,11 +208,21 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Will Elon Musk post 200-219 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-200-219",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 98140.432155,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 200 y 219 tuits del 11 de agosto al 18 de agosto de 2026?"
+  },
+  {
    "question": "Will the Democrats win the Ohio Senate race in 2026?",
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 98118.66974200001,
+   "volumen": 98118.66974200004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -228,34 +238,24 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
+   "question": "Will Bruce Walden win the 2026 Alaska governor election?",
+   "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9973.414632,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
+  },
+  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0415,
-   "no": 0.9585,
+   "yes": 0.038,
+   "no": 0.962,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
-  },
-  {
-   "question": "Will the Republican Party win the NC-09 House seat?",
-   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
-   "yes": 0.8,
-   "no": 0.2,
-   "volumen": 9966.137666999999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "APYX FDV above $50M one day after launch?",
-   "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.8215,
-   "no": 0.1785,
-   "volumen": 9951.191957,
-   "spread": 0.0,
-   "categoria": "Ciencia y espacio",
-   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -265,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 46.16
+ "db_size_mb": 46.21
 }
