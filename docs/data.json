@@ -1,49 +1,49 @@
 {
- "ts": 1786925131,
- "stamp": "20260817_000531",
+ "ts": 1786925191,
+ "stamp": "20260817_000631",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x6d4f9a39224abab912be21db04f93064db32a58a9ea8e2a36518f3eb60054c97",
-   "titulo": "Spread: AEK (-2.5)",
-   "slug": "ucl-pls-aek1-2026-08-18-spread-away-2pt5",
-   "outcome": "PFK Levski Sofia",
+   "market_id": "0xd13d55aab6744a0711f4666abe5226e6260349fa439cbe49c6547940e64177c1",
+   "titulo": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season",
+   "slug": "lol-ly-sen-2026-08-16",
+   "outcome": "Sentinels",
    "side": "BUY",
-   "size": 5200.313795,
-   "price": 0.956,
-   "usd": 4971.5,
-   "ts": 1786924686,
-   "categoria": "Otros",
-   "prob": 59,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,972 en 'PFK Levski Sofia'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ucl-pls-aek1-2026-08-18-spread-away-2pt5",
-   "titulo_es": "Spread: AEK (-2.5)",
-   "narrativa": "Se detecta una compra significativa de 4,971.5 USD sobre PFK Levski Sofia con un spread de -2.5 puntos, lo que sugiere que el mercado está valorando un margen favorable para el equipo local. El tamaño de la operación, en ausencia de un volumen de mercado reportado, indica una apuesta direccional fuerte que podría aprovechar una discrepancia entre el precio implícito y el consenso externo. Riesgo: posible falta de liquidez en el mercado de este evento."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x542ea9fe1a48c357b45072ba9408b7e1eebee1252fe04882c3f50218ccd297fc",
-   "titulo": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
-   "slug": "atp-sonego-tiafoe-2026-08-16",
-   "outcome": "Lorenzo Sonego",
-   "side": "BUY",
-   "size": 3151.05,
-   "price": 0.39,
-   "usd": 1228.91,
-   "ts": 1786924689,
+   "size": 5000.0,
+   "price": 0.26,
+   "usd": 1300.0,
+   "ts": 1786924987,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,229 en 'Lorenzo Sonego'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-sonego-tiafoe-2026-08-16",
-   "titulo_es": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
-   "narrativa": "La compra de 1,228.91 USD sobre Lorenzo Sonego en el Cincinnati Open refleja una convicción alcista, probablemente respaldada por una ventaja de edge en el punto de entrada frente al consenso externo. El monto moderado sugiere una gestión de riesgo prudente, pero el desvío respecto a las probabilidades implícitas podría ofrecer valor si el rendimiento en pista dura justifica la posición. Riesgo: alta volatilidad en tenis por factores físicos y condiciones de cancha."
+   "razon": "Trade de compra por $1,300 en 'Sentinels'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ly-sen-2026-08-16",
+   "titulo_es": "LoL: LYON vs Sentinels (BO3) - Temporada Regular de la LCS",
+   "narrativa": "La compra de $1,300 en Sentinels refleja una apuesta agresiva de una ballena que, pese a no contar con volumen de mercado reportado, busca capitalizar el desequilibrio competitivo esperado en el BO3 contra LYON. El monto elevado sugiere una convicción fuerte en el favoritismo del roster, aunque la ausencia de datos de liquidez obliga a monitorear el spread. Riesgo: posible falta de profundidad en el libro de órdenes."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b",
+   "titulo": "Cincinnati Open: Ben Shelton vs Jaime Faria",
+   "slug": "atp-shelton-faria-2026-08-16",
+   "outcome": "Ben Shelton",
+   "side": "BUY",
+   "size": 1637.43,
+   "price": 0.68,
+   "usd": 1113.45,
+   "ts": 1786924986,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,113 en 'Ben Shelton'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-shelton-faria-2026-08-16",
+   "titulo_es": "Cincinnati Open: Ben Shelton vs Jaime Faria",
+   "narrativa": "La inversión de $1,113.45 en Ben Shelton aprovecha su ventaja de ranking y forma reciente frente a Jaime Faria, un rival con menor exposición en canchas duras. El tamaño del trade indica una confianza moderada-alta en la consistencia del servicio y movilidad de Shelton, pero el margen de error es amplio si Faria eleva su nivel. Riesgo: variabilidad en partidos de primera ronda con jugadores en ascenso."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will Ink launch a token by September 30, 2026?",
+     "_poly_question": "Will the Democrats win the Ohio Senate race in 2026?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 41.21
+ "db_size_mb": 41.27
 }
