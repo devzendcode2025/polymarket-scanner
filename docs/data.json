@@ -1,10 +1,51 @@
 {
- "ts": 1786928493,
- "stamp": "20260817_010133",
+ "ts": 1786928793,
+ "stamp": "20260817_010633",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b",
+   "titulo": "Cincinnati Open: Ben Shelton vs Jaime Faria",
+   "slug": "atp-shelton-faria-2026-08-16",
+   "outcome": "Ben Shelton",
+   "side": "BUY",
+   "size": 16125.55,
+   "price": 0.8,
+   "usd": 12900.44,
+   "ts": 1786928586,
+   "categoria": "Deportes",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $12,900 en 'Ben Shelton'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-shelton-faria-2026-08-16",
+   "titulo_es": "Cincinnati Open: Ben Shelton vs Jaime Faria",
+   "narrativa": "La compra de $12,900 en Ben Shelton refleja una apuesta significativa contra el consenso externo, que probablemente favorece a Faria en términos de valor percibido. Este monto, al ser inusualmente alto para el mercado del Cincinnati Open, sugiere que el comprador identifica un edge de precios en la línea actual, potencialmente por una ventaja de forma o superficie que no está totalmente descontada. El volumen de mercado no especificado añade incertidumbre, pero la magnitud del trade indica convicción. Riesgo: posible falta de liquidez en mercados de tenis de rondas tempranas."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x0c6d03f0b479bfe5dedd2b0a90495dbb206928cec815a9ac5ce1c740de32b9fc",
+   "titulo": "Bitcoin Up or Down - August 16, 9:00PM-9:05PM ET",
+   "slug": "btc-updown-5m-1786928400",
+   "outcome": "Up",
+   "side": "BUY",
+   "size": 2500.0,
+   "price": 0.999,
+   "usd": 2497.5,
+   "ts": 1786928595,
+   "categoria": "Cripto",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,498 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786928400",
+   "titulo_es": "Bitcoin Sube o Baja - 16 de agosto, 9:00PM-9:05PM ET",
+   "narrativa": "La compra de $2,497.5 en 'Up' para el movimiento de Bitcoin en la ventana de 5 minutos del 16 de agosto busca capitalizar un desvío típico de alta volatilidad intradía, donde el consenso externo suele estar dividido. Este monto, aunque moderado, es suficiente para mover la aguja en un mercado de corto plazo, sugiriendo que el comprador espera un edge basado en momentum o noticias programadas. El cambio porcentual implícito en la oferta actual puede estar rezagado respecto a la probabilidad real de un movimiento alcista en ese lapso. Riesgo: alta sensibilidad a eventos de último minuto y spreads amplios en ventanas cortas."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -21,7 +62,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "BNB Up or Down - August 16, 10:30PM-10:45PM ET",
+     "_poly_question": "Bitcoin Up or Down - August 16, 9:15PM-9:30PM ET",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -42,7 +83,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0515,
    "no": 0.9485,
-   "volumen": 9829253.145179998,
+   "volumen": 9830094.866220005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -190,8 +231,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.069,
+   "no": 0.931,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -232,7 +273,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 98118.66974200003,
+   "volumen": 98118.669742,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -260,8 +301,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.04,
-   "no": 0.96,
+   "yes": 0.036,
+   "no": 0.964,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -280,8 +321,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.821,
-   "no": 0.179,
+   "yes": 0.8205,
+   "no": 0.1795,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -295,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 42.0
+ "db_size_mb": 42.06
 }
