@@ -1,6 +1,6 @@
 {
- "ts": 1786991571,
- "stamp": "20260817_183251",
+ "ts": 1786991691,
+ "stamp": "20260817_183451",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -63,7 +63,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9843112.196317997,
+   "volumen": 9843402.196317999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -93,7 +93,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987796.6545000003,
+   "volumen": 987796.6544999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -103,7 +103,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 987645.134231,
+   "volumen": 987721.5342309999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -193,7 +193,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99023.58341900002,
+   "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -201,9 +201,9 @@
   {
    "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
-   "yes": 0.006,
-   "no": 0.994,
-   "volumen": 98968.910045,
+   "yes": 0.0055,
+   "no": 0.9945,
+   "volumen": 98968.91004499997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -223,20 +223,20 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98858.232763,
+   "volumen": 98858.23276299998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Game Handicap: KC (-1.5) vs GIANTX (+1.5)",
-   "slug": "lol-gx-kc-2026-08-17-game-handicap-home-1pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 98756.837036,
+   "question": "Will Elon Musk post 80-99 tweets from August 14 to August 21, 2026?",
+   "slug": "elon-musk-of-tweets-august-14-august-21-80-99",
+   "yes": 0.0095,
+   "no": 0.9905,
+   "volumen": 98464.56498899999,
    "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Hándicap del juego: KC (-1.5) vs GIANTX (+1.5)"
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 80 y 99 tuits del 14 de agosto al 21 de agosto de 2026?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -247,26 +247,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
-  },
-  {
-   "question": "Will Elon Musk post 80-99 tweets from August 14 to August 21, 2026?",
-   "slug": "elon-musk-of-tweets-august-14-august-21-80-99",
-   "yes": 0.0095,
-   "no": 0.9905,
-   "volumen": 98224.564989,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 80 y 99 tuits del 14 de agosto al 21 de agosto de 2026?"
-  },
-  {
-   "question": "Will Astralis Win the CS2 EWC 2026?",
-   "slug": "will-astralis-win-the-cs2-ewc-2026-20260810160005090",
-   "yes": 0.0135,
-   "no": 0.9865,
-   "volumen": 98141.72437500002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará Astralis el CS2 EWC 2026?"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -297,6 +277,26 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Another NATO Article 4 invocation by October 31, 2026?",
+   "slug": "another-nato-article-4-invocation-by-october-31-2026-20260726214511853",
+   "yes": 0.23,
+   "no": 0.77,
+   "volumen": 9973.130335000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Otra invocación del Artículo 4 de la OTAN para el 31 de octubre de 2026?"
+  },
+  {
+   "question": "Exact Score: Casa Pia AC 1 - 2 Sport Lisboa e Benfica?",
+   "slug": "por-cas-ben-2026-08-16-exact-score-1-2",
+   "yes": 0.095,
+   "no": 0.905,
+   "volumen": 9966.199999999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Marcador Exacto: ¿Casa Pia AC 1 - 2 Sport Lisboa e Benfica?"
   }
  ],
  "historico": {
