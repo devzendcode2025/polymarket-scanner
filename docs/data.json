@@ -1,10 +1,51 @@
 {
- "ts": 1786926392,
- "stamp": "20260817_002632",
+ "ts": 1786926693,
+ "stamp": "20260817_003133",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xf7c023d77ce263bc8f44d8602d550f5c0496a44ed806906a0dfb5c04f03968cc",
+   "titulo": "Will Cruzeiro EC win on 2026-08-16?",
+   "slug": "bra-cor1-cru-2026-08-16-cru",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 2424.23,
+   "price": 0.99,
+   "usd": 2399.99,
+   "ts": 1786926490,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,400 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bra-cor1-cru-2026-08-16-cru",
+   "titulo_es": "¿Ganará Cruzeiro EC el 2026-08-16?",
+   "narrativa": "Se detecta una orden de venta por USD 2,399.99 en el mercado de '¿Ganará Cruzeiro EC el 2026-08-16?', lo que sugiere que un operador de gran tamaño está tomando ganancias o cubriendo una posición larga. Esta presión vendedora, en ausencia de un volumen de mercado reportado, puede generar un retroceso temporal en el precio del 'Yes', ofreciendo una posible entrada en contra de la tendencia si el consenso externo sigue siendo alcista. Riesgo: la falta de datos de volumen limita la confirmación de la profundidad del movimiento."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xf7c023d77ce263bc8f44d8602d550f5c0496a44ed806906a0dfb5c04f03968cc",
+   "titulo": "Will Cruzeiro EC win on 2026-08-16?",
+   "slug": "bra-cor1-cru-2026-08-16-cru",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 2350.0,
+   "price": 0.99,
+   "usd": 2326.5,
+   "ts": 1786926481,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,326 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bra-cor1-cru-2026-08-16-cru",
+   "titulo_es": "¿Ganará Cruzeiro EC el 2026-08-16?",
+   "narrativa": "Una orden de compra por USD 2,326.5 en el mismo evento indica acumulación de capital en el lado del 'Yes', lo que refuerza la confianza de un grupo selecto de inversores en la victoria de Cruzeiro EC. Este flujo de entrada, combinado con la ausencia de un volumen de mercado definido, sugiere que el precio podría estar infravalorado frente a la demanda institucional, creando un desbalance aprovechable. Riesgo: la liquidez reducida podría amplificar la volatilidad intradía."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -40,8 +81,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.05,
-   "no": 0.95,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9825448.968670001,
    "spread": 0.0,
    "categoria": "Política",
@@ -150,8 +191,8 @@
   {
    "question": "Will Elon Musk post 180-199 tweets from August 11 to August 18, 2026?",
    "slug": "elon-musk-of-tweets-august-11-august-18-180-199",
-   "yes": 0.305,
-   "no": 0.695,
+   "yes": 0.295,
+   "no": 0.705,
    "volumen": 99310.2228760001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -270,8 +311,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0455,
-   "no": 0.9545,
+   "yes": 0.0365,
+   "no": 0.9635,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -289,11 +330,11 @@
   }
  ],
  "historico": {
-  "ts": 1786924656,
+  "ts": 1786926461,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 41.53
+ "db_size_mb": 41.59
 }
