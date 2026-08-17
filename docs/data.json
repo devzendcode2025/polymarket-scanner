@@ -1,6 +1,6 @@
 {
- "ts": 1786994571,
- "stamp": "20260817_192251",
+ "ts": 1786994691,
+ "stamp": "20260817_192451",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -171,8 +171,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.315,
-   "no": 0.685,
+   "yes": 0.325,
+   "no": 0.675,
    "volumen": 99023.58341900003,
    "spread": 0.0,
    "categoria": "Cripto",
