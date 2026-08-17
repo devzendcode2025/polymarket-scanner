@@ -1,29 +1,29 @@
 {
- "ts": 1786984909,
- "stamp": "20260817_164149",
+ "ts": 1786984969,
+ "stamp": "20260817_164249",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xcb9b6dea81e9016b8aaa6af65903fb7327e04340aaef506eb586273fd1b1bd08",
-   "titulo": "LoL: Natus Vincere vs Team Heretics - Game 2 Winner",
-   "slug": "lol-navi-th-2026-08-17-game2",
-   "outcome": "Natus Vincere",
-   "side": "SELL",
-   "size": 2108.98,
-   "price": 0.999,
-   "usd": 2106.87,
-   "ts": 1786984461,
+   "market_id": "0xd4eee5db908a943598d8d6bb8409f716c429c6d1bbd5be07567741904428c025",
+   "titulo": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
+   "slug": "atp-blockx-cobolli-2026-08-17",
+   "outcome": "Flavio Cobolli",
+   "side": "BUY",
+   "size": 26819.82,
+   "price": 0.64,
+   "usd": 17164.68,
+   "ts": 1786984767,
    "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
+   "prob": 70,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,107 en 'Natus Vincere'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-navi-th-2026-08-17-game2",
-   "titulo_es": "LoL: Natus Vincere vs Team Heretics - Ganador del Juego 2",
-   "narrativa": "El mercado sobrevalora a Natus Vincere en el Juego 2, y la venta de 2,106.87 USD refleja una posición contraria con base en el desajuste entre el precio implícito y el desempeño reciente del equipo. Aunque el volumen total no está disponible, el tamaño del trade sugiere que un operador relevante detectó un edge negativo en la probabilidad de victoria, lo que abre una ventana para capturar valor si el mercado corrige. Riesgo: posible falta de liquidez en momentos de alta volatilidad entre mapas."
+   "razon": "Trade de compra por $17,165 en 'Flavio Cobolli'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-blockx-cobolli-2026-08-17",
+   "titulo_es": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
+   "narrativa": "La compra sobre Flavio Cobolli en su duelo ante Blockx presenta un edge favorable alineado con el consenso externo, que lo sitúa como claro favorito pese a que el mercado aún no ha ajustado totalmente el precio. El monto de 17,164 USD refleja una posición de tamaño considerable, lo que sugiere convicción en la ventaja de experiencia y ranking del italiano en pista dura. El volumen de mercado no está disponible, por lo que la ejecución podría enfrentar spreads amplios en momentos de baja liquidez."
   }
  ],
  "edges": [],
@@ -271,8 +271,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.785,
-   "no": 0.215,
+   "yes": 0.7845,
+   "no": 0.2155,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 54.44
+ "db_size_mb": 54.52
 }
