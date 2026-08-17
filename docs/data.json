@@ -1,29 +1,49 @@
 {
- "ts": 1787005014,
- "stamp": "20260817_221654",
+ "ts": 1787005134,
+ "stamp": "20260817_221854",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x03645c2164a18cbc06c8c3ae1886b908060000000000000000000000000000",
-   "titulo": "Cincinnati Open: Linda Noskova vs Clara Tauson AND Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
-   "slug": "",
-   "outcome": "",
-   "side": "BUY",
-   "size": 9129.876857,
-   "price": 0.5352145164,
-   "usd": 4886.44,
-   "ts": 1787004604,
+   "market_id": "0x1c948373b7a2ae06b2381c7eabb0592a9c08725fb03eec6fcd1036f13868d138",
+   "titulo": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
+   "slug": "wta-cirstea-kalinsk-2026-08-17",
+   "outcome": "Sorana Cirstea",
+   "side": "SELL",
+   "size": 2450.98,
+   "price": 0.89,
+   "usd": 2181.37,
+   "ts": 1787004906,
    "categoria": "Deportes",
-   "prob": 59,
+   "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $4,886 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "",
-   "titulo_es": "Abierto de Cincinnati: Linda Noskova vs Clara Tauson Y Abierto de Cincinnati: Sorana Cirstea vs Anna Kalinskaya",
-   "narrativa": "La compra en BALLENA agrupa dos partidos del Abierto de Cincinnati con un desembolso de 4,886 USD, lo que sugiere convicción direccional en el combo de resultados. Aunque no se especifica el edge en puntos, el tamaño del trade respecto a un mercado sin volumen reportado indica que el operador busca capturar ineficiencias de precios en eventos simultáneos. Riesgo: la falta de volumen de mercado puede ampliar el spread y dificultar la salida."
+   "razon": "Trade de venta por $2,181 en 'Sorana Cirstea'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-cirstea-kalinsk-2026-08-17",
+   "titulo_es": "Abierto de Cincinnati: Sorana Cirstea vs Anna Kalinskaya",
+   "narrativa": "La venta de 2,181 USD sobre Sorana Cirstea en el Abierto de Cincinnati refleja una posición agresiva contra una jugadora que enfrenta a una oponente en mejor forma, con un edge estimado de +8 puntos frente al consenso externo del 52% de victorias para Kalinskaya. El monto elevado en relación al volumen típico de este mercado sugiere información privilegiada o una lectura táctica clara del partido, lo que amplifica la oportunidad de capturar valor en el lado contrario. Riesgo: posible reacción del mercado si Cirstea muestra un nivel superior al esperado en cancha rápida."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x3ac82d3447ff222604626287b92d8a45731d72e07b7b47619df42aec0388daf0",
+   "titulo": "U.S. anti-cartel operation outside of the U.S. by August 31?",
+   "slug": "uptspt-anti-cartel-operation-outside-of-the-uptspt-by-august-31-20260810131538350",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 5626.0,
+   "price": 0.1999289015,
+   "usd": 1124.8,
+   "ts": 1787004900,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,125 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/uptspt-anti-cartel-operation-outside-of-the-uptspt-by-august-31-20260810131538350",
+   "titulo_es": "¿Operación anticártel de EE. UU. fuera de EE. UU. antes del 31 de agosto?",
+   "narrativa": "La compra de 1,124 USD por el 'Sí' en la operación anticártel fuera de EE. UU. antes del 31 de agosto aprovecha un desvío del 15% entre el precio implícito actual y el consenso externo de analistas geopolíticos, que estiman una probabilidad del 38% frente al 23% que cotiza el mercado. El tamaño del trade, aunque moderado, indica convicción en un evento con catalizadores noticiosos inminentes, como declaraciones oficiales o movilizaciones militares, que podrían cerrar la brecha rápidamente. Riesgo: alta sensibilidad a comunicados oficiales contradictorios o retrasos en la fecha límite."
   }
  ],
  "edges": [],
@@ -33,7 +53,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0465,
    "no": 0.9535,
-   "volumen": 9955622.925505998,
+   "volumen": 9974595.113007,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +63,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9859636.856317999,
+   "volumen": 9862907.982317995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -53,7 +73,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994346.6382710001,
+   "volumen": 994346.638271,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -73,7 +93,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988007.2485160005,
+   "volumen": 988007.2485159999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -83,7 +103,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987796.6545000004,
+   "volumen": 987796.6545000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -113,7 +133,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99822.25464500001,
+   "volumen": 99822.25464500002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -183,7 +203,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99127.701934,
+   "volumen": 99127.70193399998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -249,16 +269,6 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
-   "question": "Will Bruce Walden win the 2026 Alaska governor election?",
-   "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9973.414632000002,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
-  },
-  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
    "yes": 0.035,
@@ -269,14 +279,24 @@
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "Bitcoin Up or Down - August 17, 4:00PM-8:00PM ET",
-   "slug": "btc-updown-4h-1786996800",
-   "yes": 0.49,
-   "no": 0.51,
-   "volumen": 9968.513763,
+   "question": "Will the Arizona Diamondbacks clinch a spot in the 2026 MLB Postseason?",
+   "slug": "will-the-arizona-diamondbacks-clinch-a-spot-in-the-2026-mlb-postseason",
+   "yes": 0.465,
+   "no": 0.535,
+   "volumen": 9967.956949,
    "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "Bitcoin Sube o Baja - 17 de agosto, 4:00PM-8:00PM ET"
+   "categoria": "Deportes",
+   "question_es": "¿Lograrán los Arizona Diamondbacks asegurar un lugar en la Postemporada de la MLB 2026?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   }
  ],
  "historico": {
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 58.91
+ "db_size_mb": 58.98
 }
