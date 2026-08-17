@@ -1,58 +1,17 @@
 {
- "ts": 1787005254,
- "stamp": "20260817_222054",
+ "ts": 1787005614,
+ "stamp": "20260817_222654",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x1c948373b7a2ae06b2381c7eabb0592a9c08725fb03eec6fcd1036f13868d138",
-   "titulo": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
-   "slug": "wta-cirstea-kalinsk-2026-08-17",
-   "outcome": "Sorana Cirstea",
-   "side": "SELL",
-   "size": 2450.98,
-   "price": 0.89,
-   "usd": 2181.37,
-   "ts": 1787004906,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,181 en 'Sorana Cirstea'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-cirstea-kalinsk-2026-08-17",
-   "titulo_es": "Abierto de Cincinnati: Sorana Cirstea vs Anna Kalinskaya",
-   "narrativa": "La venta de 2,181 USD sobre Sorana Cirstea en el Abierto de Cincinnati refleja una posición agresiva contra una jugadora que enfrenta a una oponente en mejor forma, con un edge estimado de +8 puntos frente al consenso externo del 52% de victorias para Kalinskaya. El monto elevado en relación al volumen típico de este mercado sugiere información privilegiada o una lectura táctica clara del partido, lo que amplifica la oportunidad de capturar valor en el lado contrario. Riesgo: posible reacción del mercado si Cirstea muestra un nivel superior al esperado en cancha rápida."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3ac82d3447ff222604626287b92d8a45731d72e07b7b47619df42aec0388daf0",
-   "titulo": "U.S. anti-cartel operation outside of the U.S. by August 31?",
-   "slug": "uptspt-anti-cartel-operation-outside-of-the-uptspt-by-august-31-20260810131538350",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 5626.0,
-   "price": 0.1999289015,
-   "usd": 1124.8,
-   "ts": 1787004900,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,125 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/uptspt-anti-cartel-operation-outside-of-the-uptspt-by-august-31-20260810131538350",
-   "titulo_es": "¿Operación anticártel de EE. UU. fuera de EE. UU. antes del 31 de agosto?",
-   "narrativa": "La compra de 1,124 USD por el 'Sí' en la operación anticártel fuera de EE. UU. antes del 31 de agosto aprovecha un desvío del 15% entre el precio implícito actual y el consenso externo de analistas geopolíticos, que estiman una probabilidad del 38% frente al 23% que cotiza el mercado. El tamaño del trade, aunque moderado, indica convicción en un evento con catalizadores noticiosos inminentes, como declaraciones oficiales o movilizaciones militares, que podrían cerrar la brecha rápidamente. Riesgo: alta sensibilidad a comunicados oficiales contradictorios o retrasos en la fecha límite."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0465,
-   "no": 0.9535,
+   "yes": 0.0425,
+   "no": 0.9575,
    "volumen": 9974595.113007,
    "spread": 0.0,
    "categoria": "Política",
@@ -141,8 +100,8 @@
   {
    "question": "St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5",
    "slug": "mlb-stl-cin-2026-08-17-total-9pt5",
-   "yes": 0.455,
-   "no": 0.545,
+   "yes": 0.435,
+   "no": 0.565,
    "volumen": 99814.58418899997,
    "spread": 0.0,
    "categoria": "Otros",
@@ -191,8 +150,8 @@
   {
    "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
-   "yes": 0.006,
-   "no": 0.994,
+   "yes": 0.0055,
+   "no": 0.9945,
    "volumen": 99149.910045,
    "spread": 0.0,
    "categoria": "Otros",
@@ -221,8 +180,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.066,
-   "no": 0.934,
+   "yes": 0.067,
+   "no": 0.933,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -306,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 58.98
+ "db_size_mb": 59.05
 }
