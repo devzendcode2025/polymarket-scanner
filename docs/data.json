@@ -1,31 +1,10 @@
 {
- "ts": 1786946798,
- "stamp": "20260817_060638",
+ "ts": 1786947159,
+ "stamp": "20260817_061239",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xfcdd3c3c0b496d86b67f302333ca2bcf80fa5258c1b8d85922907815be7ea3b6",
-   "titulo": "Will Dan Bilzerian be the Republican nominee for FL-06?",
-   "slug": "will-dan-bilzerian-be-the-republican-nominee-for-fl-06",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1333.2,
-   "price": 0.99,
-   "usd": 1319.87,
-   "ts": 1786946305,
-   "categoria": "Política",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,320 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-dan-bilzerian-be-the-republican-nominee-for-fl-06",
-   "titulo_es": "¿Será Dan Bilzerian el nominado republicano para FL-06?",
-   "narrativa": "La compra de 'No' en la pregunta sobre Dan Bilzerian como nominado republicano en FL-06 ofrece un edge claro si el consenso externo (encuestas y estructura del partido) favorece a un candidato tradicional. Con $1,319.87 en juego, el movimiento capitaliza la baja probabilidad implícita de que una figura mediática sin historial político gane la nominación, especialmente en un distrito con maquinaria partidista establecida. El desvío entre el precio de mercado y la probabilidad real estimada por modelos de primarias sugiere una oportunidad de valor, aunque el volumen bajo puede amplificar la volatilidad. Riesgo: liquidez limitada y eventos noticiosos impredecibles del candidato."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -61,8 +40,8 @@
   {
    "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
-   "yes": 0.0185,
-   "no": 0.9815,
+   "yes": 0.0165,
+   "no": 0.9835,
    "volumen": 988681.4248569999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -81,8 +60,8 @@
   {
    "question": "Will Jay Collins be the Republican nominee for Florida Governor?",
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
-   "yes": 0.0015,
-   "no": 0.9985,
+   "yes": 0.002,
+   "no": 0.998,
    "volumen": 984753.9549379997,
    "spread": 0.0,
    "categoria": "Política",
@@ -103,7 +82,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.992777,
+   "volumen": 99951.99277700002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -121,8 +100,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.078,
-   "no": 0.922,
+   "yes": 0.077,
+   "no": 0.923,
    "volumen": 99781.706217,
    "spread": 0.0,
    "categoria": "Política",
@@ -133,7 +112,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 99210.772162,
+   "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -141,9 +120,9 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
-   "volumen": 99181.48181800001,
+   "yes": 0.031,
+   "no": 0.969,
+   "volumen": 99181.48181799996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -251,8 +230,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0425,
-   "no": 0.9575,
+   "yes": 0.0415,
+   "no": 0.9585,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -271,8 +250,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.8145,
-   "no": 0.1855,
+   "yes": 0.8215,
+   "no": 0.1785,
    "volumen": 9951.191957,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 46.02
+ "db_size_mb": 46.16
 }
