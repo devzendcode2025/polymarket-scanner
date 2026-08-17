@@ -1,10 +1,31 @@
 {
- "ts": 1786933775,
- "stamp": "20260817_022935",
+ "ts": 1786933895,
+ "stamp": "20260817_023135",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x518df6d694ad4658fe6c284850c029c6f00c9b3609cf05f7757d1fecba1641f8",
+   "titulo": "US-Iran 60 day negotiation period extended?",
+   "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 5596.88,
+   "price": 0.954,
+   "usd": 5339.42,
+   "ts": 1786933695,
+   "categoria": "Otros",
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $5,339 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/us-iran-60-day-negotiation-period-extended-20260624044855448",
+   "titulo_es": "¿Se extiende el período de negociación de 60 días entre EE. UU. e Irán?",
+   "narrativa": "La señal de venta en 'No' para la extensión del período de negociación entre EE. UU. e Irán refleja un consenso externo que descuenta un estancamiento diplomático, con un monto de 5,339 USD que sugiere convicción institucional. El edge se sustenta en la falta de avances verificables en el plazo, lo que incrementa la probabilidad de que el evento no se materialice. Riesgo: volatilidad por noticias de última hora que podrían revertir la tendencia."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 43.12
+ "db_size_mb": 43.18
 }
