@@ -1,51 +1,10 @@
 {
- "ts": 1786976507,
- "stamp": "20260817_142147",
+ "ts": 1786976867,
+ "stamp": "20260817_142747",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xee91aeab63497ce5bc5bf1e44a0a3e201ec403edbfe8c21045a7d778ddfd7698",
-   "titulo": "Game Handicap: DNS (-1.5) vs T1 (+1.5)",
-   "slug": "lol-t1-dnf-2026-08-17-game-handicap-home-1pt5",
-   "outcome": "DN SOOPers",
-   "side": "SELL",
-   "size": 2857.14,
-   "price": 0.999,
-   "usd": 2854.28,
-   "ts": 1786976055,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,854 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17-game-handicap-home-1pt5",
-   "titulo_es": "Handicap del juego: DNS (-1.5) vs T1 (+1.5)",
-   "narrativa": "La venta de DNS (-1.5) frente a T1 (+1.5) refleja un edge de +8.2 puntos sobre el consenso externo, con un monto de $2,854 que sugiere convicción direccional. El mercado aún no ha ajustado completamente la probabilidad de que DN SOOPers cubra el handicap, lo que abre una ventana de valor. Riesgo: posible iliquidez en horas de baja actividad."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x4309301a91299029ad86c47a79f96580e4082eaae05562829e2939439b49c00b",
-   "titulo": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
-   "slug": "lol-t1-dnf-2026-08-17",
-   "outcome": "DN SOOPers",
-   "side": "SELL",
-   "size": 1800.0,
-   "price": 0.999,
-   "usd": 1798.2,
-   "ts": 1786976061,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,798 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17",
-   "titulo_es": "LoL: T1 vs DN SOOPers (BO5) - Playoffs de la Copa KeSPA",
-   "narrativa": "La venta de DN SOOPers en el BO5 de la Copa KeSPA muestra un desvío de +12.4% respecto al modelo de probabilidad implícita, con un trade de $1,798 que capitaliza el sobreprecio del lado perdedor. El volumen de mercado es moderado, pero el edge de 15.3 puntos justifica la posición. Riesgo: alta volatilidad en partidas decisivas."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -211,8 +170,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -281,8 +240,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.032,
-   "no": 0.968,
+   "yes": 0.0415,
+   "no": 0.9585,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -291,8 +250,8 @@
   {
    "question": "Will the highest temperature in Amsterdam be 21°C on August 17?",
    "slug": "highest-temperature-in-amsterdam-on-august-17-2026-21c",
-   "yes": 0.175,
-   "no": 0.825,
+   "yes": 0.17,
+   "no": 0.83,
    "volumen": 9971.690492000005,
    "spread": 0.0,
    "categoria": "Otros",
@@ -306,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 52.59
+ "db_size_mb": 52.71
 }
