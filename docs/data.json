@@ -1,6 +1,6 @@
 {
- "ts": 1786924891,
- "stamp": "20260817_000131",
+ "ts": 1786924951,
+ "stamp": "20260817_000231",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -133,7 +133,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 981482.6549379999,
+   "volumen": 981482.6549380001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -241,8 +241,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.069,
-   "no": 0.931,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
