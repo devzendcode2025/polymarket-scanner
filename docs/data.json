@@ -1,6 +1,6 @@
 {
- "ts": 1786935395,
- "stamp": "20260817_025635",
+ "ts": 1786935455,
+ "stamp": "20260817_025735",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -151,8 +151,8 @@
   {
    "question": "Will the Bank of Japan announce a 25 bps increase at the September 2026 meeting?",
    "slug": "will-the-bank-of-japan-announce-a-25-bps-increase-at-the-september-2026-meeting-20260616223724870",
-   "yes": 0.72,
-   "no": 0.28,
+   "yes": 0.725,
+   "no": 0.275,
    "volumen": 99855.33565999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -181,8 +181,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99210.772162,
    "spread": 0.0,
    "categoria": "Otros",
@@ -291,8 +291,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0455,
-   "no": 0.9545,
+   "yes": 0.0395,
+   "no": 0.9605,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
