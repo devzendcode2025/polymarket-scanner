@@ -1,29 +1,29 @@
 {
- "ts": 1786953400,
- "stamp": "20260817_075640",
+ "ts": 1786953460,
+ "stamp": "20260817_075740",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3600bebf801ed485866fda43887be4573d0eb30a252b731d575b81adb70b1271",
-   "titulo": "Will Elon Musk post 65-89 tweets from August 15 to August 17, 2026?",
-   "slug": "elon-musk-of-tweets-august-15-august-17-65-89",
+   "market_id": "0xf5ee4b6bd7d585c0e12e530074d0324493c302b82e127c832d15c89a610c0453",
+   "titulo": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
+   "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia",
    "outcome": "No",
    "side": "BUY",
-   "size": 1478.35,
+   "size": 5117.0,
    "price": 0.996,
-   "usd": 1472.44,
-   "ts": 1786952919,
-   "categoria": "Tecnología",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,472 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-15-august-17-65-89",
-   "titulo_es": "¿Publicará Elon Musk entre 65 y 89 tuits del 15 de agosto al 17 de agosto de 2026?",
-   "narrativa": "El mercado descuenta un 'No' con una probabilidad implícita del 65%, pero el consenso externo sobre la actividad histórica de Musk sugiere un rango de 50-70 tuits en ese periodo, lo que deja un edge positivo de ~8 puntos a favor del 'No'. Con un monto de $1,472 y un volumen de mercado no reportado, la posición capitaliza la baja volatilidad esperada en un evento de ventana corta. Riesgo: posible pico de actividad mediática que rompa el rango superior."
+   "usd": 5096.53,
+   "ts": 1786953213,
+   "categoria": "Cripto",
+   "prob": 59,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,097 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia",
+   "titulo_es": "¿Será Demeke Mekonnen el próximo Primer Ministro de Etiopía?",
+   "narrativa": "La compra de 'No' en la pregunta sobre Demeke Mekonnen acumula $5,096 en una sola operación, lo que sugiere que un operador con información relevante está apostando contra su nombramiento. Este flujo de capital concentrado, en un mercado de baja liquidez, puede mover el precio de forma desproporcionada, ofreciendo una ventana de entrada antes de que el consenso externo se ajuste. Riesgo: el volumen total del mercado es desconocido, lo que implica posible dificultad para salir de la posición sin afectar el precio."
   }
  ],
  "edges": [
@@ -211,8 +211,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0655,
-   "no": 0.9345,
+   "yes": 0.067,
+   "no": 0.933,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -291,8 +291,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.04,
-   "no": 0.96,
+   "yes": 0.0315,
+   "no": 0.9685,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 47.45
+ "db_size_mb": 47.51
 }
