@@ -1,10 +1,31 @@
 {
- "ts": 1786929694,
- "stamp": "20260817_012134",
+ "ts": 1786929994,
+ "stamp": "20260817_012634",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x90c48bf5ca6ec352bb489646d1541b9c53c16a82165ab70369d95cccb0f3351b",
+   "titulo": "Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner",
+   "slug": "val-c9-eg2-2026-08-16-game2",
+   "outcome": "Cloud9",
+   "side": "BUY",
+   "size": 4877.64,
+   "price": 0.5966079497,
+   "usd": 2910.04,
+   "ts": 1786929795,
+   "categoria": "Otros",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,910 en 'Cloud9'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-c9-eg2-2026-08-16-game2",
+   "titulo_es": "Valorant: Cloud9 vs Evil Geniuses - Ganador del Mapa 2",
+   "narrativa": "La compra en Cloud9 para el Mapa 2 presenta un edge positivo de +4.2 puntos frente al consenso externo del 52%, con un monto de $2,910 que refleja una posición significativa pero proporcionada al flujo de información reciente. El mercado muestra una ligera infravaloración del equipo, lo que sugiere una oportunidad de captura de valor antes de que el precio se ajuste. Riesgo: volatilidad intrapartido y posible falta de liquidez en momentos de alta actividad."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -180,8 +201,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.305,
-   "no": 0.695,
+   "yes": 0.315,
+   "no": 0.685,
    "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -200,8 +221,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.0665,
+   "no": 0.9335,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -295,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 42.28
+ "db_size_mb": 42.32
 }
