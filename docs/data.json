@@ -1,6 +1,6 @@
 {
- "ts": 1786937196,
- "stamp": "20260817_032636",
+ "ts": 1786937256,
+ "stamp": "20260817_032736",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -51,8 +51,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0485,
-   "no": 0.9515,
+   "yes": 0.0475,
+   "no": 0.9525,
    "volumen": 9841598.792196998,
    "spread": 0.0,
    "categoria": "Política",
@@ -161,8 +161,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.772162,
    "spread": 0.0,
    "categoria": "Otros",
@@ -241,8 +241,8 @@
   {
    "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.004,
+   "no": 0.996,
    "volumen": 98429.94493400001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -271,8 +271,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.045,
-   "no": 0.955,
+   "yes": 0.0445,
+   "no": 0.9555,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
