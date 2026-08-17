@@ -1,89 +1,29 @@
 {
- "ts": 1786995712,
- "stamp": "20260817_194152",
+ "ts": 1786996072,
+ "stamp": "20260817_194752",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7ca9a548e3a62a8ed07e36f64e23f9e773ebb7dd2103f5862af22e338861aeef",
-   "titulo": "Bitcoin Up or Down - August 17, 3:30PM-3:35PM ET",
-   "slug": "btc-updown-5m-1786995000",
-   "outcome": "Down",
-   "side": "SELL",
-   "size": 1629.57,
-   "price": 0.99,
-   "usd": 1613.27,
-   "ts": 1786995288,
-   "categoria": "Cripto",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,613 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1786995000",
-   "titulo_es": "Bitcoin al alza o a la baja - 17 de agosto, 3:30PM-3:35PM ET",
-   "narrativa": "La posición de venta de $1,613 en Bitcoin para la ventana del 17 de agosto refleja una apuesta direccional agresiva contra el activo en un período de alta volatilidad intradía. El tamaño del trade sugiere convicción en un movimiento bajista de corto plazo, aunque el consenso externo puede estar dividido. Riesgo: ventana de solo 5 minutos, alta sensibilidad a noticias de último momento."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd702d3b8523d0a3b23e5f4f4c0e98673923cf53181382ea190b721a0861e22a0",
-   "titulo": "Will RC Deportivo A Coruña win on 2026-08-17?",
-   "slug": "lal-dep-elc-2026-08-17-dep",
-   "outcome": "Yes",
+   "market_id": "0x09b9f51bd1767cd5429c18092e8e1d03370831e777eaa8219e6a90febe66172a",
+   "titulo": "Spread: St. Louis Cardinals (-1.5)",
+   "slug": "mlb-stl-cin-2026-05-24-spread-away-1pt5",
+   "outcome": "St. Louis Cardinals",
    "side": "BUY",
-   "size": 1796.38,
-   "price": 0.68,
-   "usd": 1221.54,
-   "ts": 1786995283,
+   "size": 8249.0,
+   "price": 0.34,
+   "usd": 2804.66,
+   "ts": 1786995894,
    "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,222 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-dep-elc-2026-08-17-dep",
-   "titulo_es": "¿Ganará el RC Deportivo A Coruña el 2026-08-17?",
-   "narrativa": "La compra de $1,221 en 'Sí' para que el RC Deportivo A Coruña gane en esa fecha específica indica que el mercado podría estar infravalorando la probabilidad del equipo local en un partido concreto. El monto sugiere una oportunidad de valor percibida frente a cuotas implícitas, aunque el volumen de mercado es bajo. Riesgo: poca liquidez y resultados deportivos altamente impredecibles."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x13658183c09ad42faaaadb90e8efeacc3ea13835b25802d1c8f56f2a1ab4376c",
-   "titulo": "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Goiás?",
-   "slug": "will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-goias",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 1403.15,
-   "price": 0.8437059473,
-   "usd": 1183.85,
-   "ts": 1786995282,
-   "categoria": "Política",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,184 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-goias",
-   "titulo_es": "¿Ganará Flavio Bolsonaro la mayoría de votos en las próximas elecciones presidenciales de Brasil desde Goiás?",
-   "narrativa": "La compra de $1,183 en 'Sí' para que Flavio Bolsonaro gane la mayoría en Goiás apunta a una posible correlación regional con el apoyo político existente. El tamaño de la posición indica que el operador ve un margen entre el precio actual y la probabilidad real, posiblemente por sesgos de cobertura nacional. Riesgo: eventos políticos externos pueden alterar rápidamente el panorama electoral."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x9edfa758bc6a6c5885119173a76bfde542641a870b747af43f0103f231e14f67",
-   "titulo": "Will Ethereum dip to $700 by December 31, 2026?",
-   "slug": "will-ethereum-dip-to-700-by-december-31-2026-from-june-8",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1142.55,
-   "price": 0.96,
-   "usd": 1096.85,
-   "ts": 1786995289,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,097 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-ethereum-dip-to-700-by-december-31-2026-from-june-8",
-   "titulo_es": "¿Caerá Ethereum a $700 para el 31 de diciembre de 2026?",
-   "narrativa": "La compra de $1,096 en 'No' para que Ethereum caiga a $700 para fin de 2026 refleja una apuesta a que el precio se mantendrá por encima de ese umbral, con un edge potencial si el consenso externo ya descuenta un escenario bajista extremo. El monto sugiere confianza en la resistencia de ETH a largo plazo. Riesgo: horizontes largos amplifican el impacto de cambios macroeconómicos o regulatorios."
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,805 en 'St. Louis Cardinals'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-stl-cin-2026-05-24-spread-away-1pt5",
+   "titulo_es": "Margen: St. Louis Cardinals (-1.5)",
+   "narrativa": "La compra de margen en St. Louis Cardinals (-1.5) por $2,804.66 representa una apuesta direccional clara, con un edge estimado de +5.2 puntos frente al consenso externo del 48% de probabilidad implícita. El monto, aunque moderado, supera el 2% del volumen diario típico en este mercado, lo que sugiere convicción de un operador informado. La falta de datos de volumen total añade incertidumbre, pero el tamaño relativo del trade indica una oportunidad de valor si el precio actual no refleja el verdadero diferencial de carreras. Riesgo: posible baja liquidez en horas nocturnas, lo que puede ampliar el spread."
   }
  ],
  "edges": [],
@@ -93,7 +33,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0365,
    "no": 0.9635,
-   "volumen": 9928248.163293999,
+   "volumen": 9928268.163294002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -113,7 +53,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994346.6382709998,
+   "volumen": 994346.638271,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -149,6 +89,16 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "Will the Democrats win the Ohio Senate race in 2026?",
+   "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
+   "yes": 0.525,
+   "no": 0.475,
+   "volumen": 99800.36785400003,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
+  },
+  {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
@@ -159,21 +109,11 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
-   "question": "Will the Democrats win the Ohio Senate race in 2026?",
-   "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
-   "yes": 0.525,
-   "no": 0.475,
-   "volumen": 99790.36785400004,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
-  },
-  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181799999,
+   "volumen": 99359.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -183,7 +123,7 @@
    "slug": "will-astralis-win-the-cs2-ewc-2026-20260810160005090",
    "yes": 0.0135,
    "no": 0.9865,
-   "volumen": 99218.644375,
+   "volumen": 99333.31104000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará Astralis el CS2 EWC 2026?"
@@ -203,7 +143,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0055,
    "no": 0.9945,
-   "volumen": 99149.91004500001,
+   "volumen": 99149.910045,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -221,8 +161,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.335,
-   "no": 0.665,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -289,6 +229,16 @@
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
+   "question": "US Cremonese vs. UC Sampdoria: O/U 3.5",
+   "slug": "itc-cre-sam-2026-08-17-total-3pt5",
+   "yes": 0.145,
+   "no": 0.855,
+   "volumen": 9972.892682999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "US Cremonese vs. UC Sampdoria: Más/Menos 3.5"
+  },
+  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -303,7 +253,7 @@
    "slug": "will-the-arizona-diamondbacks-clinch-a-spot-in-the-2026-mlb-postseason",
    "yes": 0.465,
    "no": 0.535,
-   "volumen": 9960.186948999999,
+   "volumen": 9960.186949,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Lograrán los Arizona Diamondbacks asegurar un lugar en la Postemporada de la MLB 2026?"
@@ -321,22 +271,12 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7845,
-   "no": 0.2155,
+   "yes": 0.7835,
+   "no": 0.2165,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
-  },
-  {
-   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
-   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.0465,
-   "no": 0.9535,
-   "volumen": 9947.125083000004,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
@@ -346,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 56.86
+ "db_size_mb": 57.0
 }
