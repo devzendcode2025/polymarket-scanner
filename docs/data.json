@@ -1,33 +1,104 @@
 {
- "ts": 1786982508,
- "stamp": "20260817_160148",
+ "ts": 1786982568,
+ "stamp": "20260817_160248",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "3326631",
+   "question": "Spread: Al Anwar Saudi Club (-2.5)",
+   "slug": "skc-anw-ahl-2026-08-17-spread-home-2pt5",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.5,
+   "yes_ahora": 0.019,
+   "cambio_pct": -96.1,
+   "direccion": "BAJADA",
+   "volumen": 9.8989,
+   "prob": 72,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Yes bajada 96.1% vs el scan anterior (0.5 → 0.019) en un mercado con $10 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/skc-anw-ahl-2026-08-17-spread-home-2pt5",
+   "question_es": "Margen: Al Anwar Saudi Club (-2.5)",
+   "narrativa": "El mercado ha desplomado la probabilidad de 'Al Anwar Saudi Club (-2.5)' de 0.50 a 0.019 (-96.1%), reflejando un consenso extremo en contra. Con un volumen de solo $9.90, el precio actual puede estar distorsionado por falta de liquidez, ofreciendo una oportunidad de compra especulativa si el consenso externo se corrige. Riesgo: alta iliquidez y posible spread amplio."
+  }
+ ],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x1aeb392f4e0e96215fc360b9dc09ca664fe1d02fe09ec7bc3c47cb2afe0a68b1",
-   "titulo": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce",
-   "slug": "atp-tirante-landalu-2026-08-17",
-   "outcome": "Thiago Agustin Tirante",
+   "market_id": "0x033fd089d14aab0e622e221f96269ecad9cdff81775e12745f5e1d7b78cca5aa",
+   "titulo": "Will the price of Bitcoin be above $64,000 on August 17?",
+   "slug": "bitcoin-above-64k-on-august-17-2026",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 3886.45,
-   "price": 0.57,
-   "usd": 2215.28,
-   "ts": 1786982073,
-   "categoria": "Deportes",
+   "size": 4370.0,
+   "price": 0.999,
+   "usd": 4365.63,
+   "ts": 1786982361,
+   "categoria": "Cripto",
+   "prob": 58,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $4,366 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-64k-on-august-17-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 17 de agosto?",
+   "narrativa": "Una ballena ha comprado $4,365.63 en 'Yes' para Bitcoin por encima de $64,000 el 17 de agosto, señalando una convicción fuerte a pesar de que el mercado no muestra volumen claro. Si el precio de BTC se acerca a ese nivel, el edge puede materializarse rápidamente, pero la falta de volumen de mercado sugiere cautela en la ejecución. Riesgo: baja liquidez en el mercado de predicción."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x0b298ab2b2cad3308d486c804985c1ede7ea949bde363f44784a3b2a460be788",
+   "titulo": "Will Élisabeth Borne win the 2027 French presidential election?",
+   "slug": "will-lisabeth-borne-win-the-2027-french-presidential-election",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 2114.11,
+   "price": 0.998,
+   "usd": 2109.88,
+   "ts": 1786982365,
+   "categoria": "Cripto",
    "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,215 en 'Thiago Agustin Tirante'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-tirante-landalu-2026-08-17",
-   "titulo_es": "Cincinnati Open: Thiago Agustín Tirante vs Martin Landaluce",
-   "narrativa": "El mercado para el Cincinnati Open muestra una oportunidad de compra en Thiago Agustín Tirante, con un monto de $2,215 USD que refleja una posición significativa frente al volumen disponible. La operación busca capturar un edge positivo basado en el desajuste entre el consenso externo y la probabilidad implícita del precio actual, lo que sugiere un valor esperado favorable. Riesgo: la baja liquidez del mercado puede amplificar el impacto de las fluctuaciones de precio durante el partido."
+   "razon": "Trade de venta por $2,110 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-lisabeth-borne-win-the-2027-french-presidential-election",
+   "titulo_es": "¿Ganará Élisabeth Borne las elecciones presidenciales francesas de 2027?",
+   "narrativa": "La venta de $2,109.88 en 'No' para que Élisabeth Borne gane en 2027 refleja una apuesta direccional contra su candidatura, alineada con el escepticismo general sobre su viabilidad a largo plazo. El monto significativo indica que el consenso externo ya descuenta una baja probabilidad, pero el trade busca capitalizar un ajuste adicional si las encuestas no mejoran. Riesgo: horizonte largo y eventos políticos impredecibles."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x5a84f759cc706f148f1e38988346e483286f41468fbabecd5a5c077945d3fa70",
+   "titulo": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
+   "slug": "wta-swiatek-sakkari-2026-08-17",
+   "outcome": "Iga Swiatek",
+   "side": "BUY",
+   "size": 1994.301885,
+   "price": 0.53,
+   "usd": 1056.98,
+   "ts": 1786982370,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,057 en 'Iga Swiatek'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-swiatek-sakkari-2026-08-17",
+   "titulo_es": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
+   "narrativa": "La compra de $1,056.98 en 'Iga Swiatek' para el Cincinnati Open sugiere que una ballena ve valor en la favorita, probablemente con un edge basado en el rendimiento reciente y el historial frente a Sakkari. El monto moderado indica una convicción clara, pero el volumen de mercado nulo implica que el precio puede no reflejar toda la información. Riesgo: lesiones o condiciones de cancha que alteren el resultado."
   }
  ],
  "edges": [],
  "top_volumen": [
+  {
+   "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
+   "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
+   "yes": 0.0445,
+   "no": 0.9555,
+   "volumen": 9910962.610178003,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
+  },
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
@@ -53,7 +124,7 @@
    "slug": "lol-t1-dnf-2026-08-17-game1",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 997835.0259970006,
+   "volumen": 997835.0259970007,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 1"
@@ -119,16 +190,6 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "NATO x Russia military clash by October 31, 2026?",
-   "slug": "nato-x-russia-military-clash-by-october-31-2026",
-   "yes": 0.09,
-   "no": 0.91,
-   "volumen": 99951.992777,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
-  },
-  {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
@@ -143,7 +204,7 @@
    "slug": "fed-rate-cut-by-october-2026-meeting-199-747",
    "yes": 0.047,
    "no": 0.953,
-   "volumen": 99618.121007,
+   "volumen": 99618.12100699997,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Recorte de tasas de la Fed para la reunión de octubre de 2026?"
@@ -153,7 +214,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.481818,
+   "volumen": 99359.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -173,7 +234,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99127.701934,
+   "volumen": 99127.70193400003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -183,10 +244,20 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99118.66974200001,
+   "volumen": 99118.66974200004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
+  },
+  {
+   "question": "Will Loopscale launch a token by December 31, 2026?",
+   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
+   "yes": 0.155,
+   "no": 0.845,
+   "volumen": 99023.583419,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
@@ -239,16 +310,6 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will Google be the third-best Math AI lab at the end of August 2026?",
-   "slug": "will-google-be-the-third-best-math-ai-lab-at-the-end-of-august-2026-20260720230105164",
-   "yes": 0.284,
-   "no": 0.716,
-   "volumen": 9998.368852000001,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Google el tercer mejor laboratorio de IA matemática a finales de agosto de 2026?"
-  },
-  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -259,16 +320,6 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
-   "question": "Will Eastern Europe & CIS region win The International 2026?",
-   "slug": "will-cis-region-win-the-international-2026-20260805215811240",
-   "yes": 0.715,
-   "no": 0.285,
-   "volumen": 9991.944813,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará la región de Europa del Este y CIS The International 2026?"
-  },
-  {
    "question": "Aligned FDV above $100M one day after launch?",
    "slug": "aligned-fdv-above-100m-one-day-after-launch",
    "yes": 0.86,
@@ -277,6 +328,16 @@
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿FDV alineado por encima de $100M un día después del lanzamiento?"
+  },
+  {
+   "question": "Exact Score: Pisa SC 2 - 1 Empoli FC?",
+   "slug": "itc-pis-emp-2026-08-17-exact-score-2-1",
+   "yes": 0.095,
+   "no": 0.905,
+   "volumen": 9985.442124,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Marcador exacto: ¿Pisa SC 2 - 1 Empoli FC?"
   }
  ],
  "historico": {
@@ -286,5 +347,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 53.93
+ "db_size_mb": 53.98
 }
