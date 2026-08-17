@@ -1,29 +1,49 @@
 {
- "ts": 1786988510,
- "stamp": "20260817_174150",
+ "ts": 1786988570,
+ "stamp": "20260817_174250",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x131927e6dd9239abd54a0bca31df2bc8333597f190238ff34bc70f99fd614290",
-   "titulo": "Cincinnati Open: Diane Parry vs Lois Boisson",
-   "slug": "wta-parry-boisson-2026-08-17",
-   "outcome": "Diane Parry",
+   "market_id": "0x1aeb392f4e0e96215fc360b9dc09ca664fe1d02fe09ec7bc3c47cb2afe0a68b1",
+   "titulo": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce",
+   "slug": "atp-tirante-landalu-2026-08-17",
+   "outcome": "Thiago Agustin Tirante",
+   "side": "SELL",
+   "size": 7410.71,
+   "price": 0.999,
+   "usd": 7403.3,
+   "ts": 1786988383,
+   "categoria": "Deportes",
+   "prob": 63,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $7,403 en 'Thiago Agustin Tirante'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-tirante-landalu-2026-08-17",
+   "titulo_es": "Cincinnati Open: Thiago Agustín Tirante vs Martin Landaluce",
+   "narrativa": "Se detectó una venta de $7,403 en el mercado de Tirante, lo que sugiere que un operador de gran tamaño está reduciendo exposición antes del partido. Este flujo bajista, en ausencia de un volumen de mercado de referencia, puede indicar una corrección en el precio implícito, ofreciendo una oportunidad de entrar en contra del movimiento si se espera una reacción del mercado. Riesgo: la señal puede ser una cobertura y no una convicción direccional."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x03831e6b27daab45dd765bda7ddeafa9370000000000000000000000000000",
+   "titulo": "Cincinnati Open: Arthur Fery vs Alex de Minaur AND Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya AND Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
+   "slug": "",
+   "outcome": "",
    "side": "BUY",
-   "size": 1362.0,
-   "price": 0.9,
-   "usd": 1225.8,
-   "ts": 1786988070,
+   "size": 3731.682127,
+   "price": 0.31638403,
+   "usd": 1180.64,
+   "ts": 1786988386,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,226 en 'Diane Parry'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-parry-boisson-2026-08-17",
-   "titulo_es": "Abierto de Cincinnati: Diane Parry vs Lois Boisson",
-   "narrativa": "El mercado descuenta a Diane Parry como favorita clara, y la compra de 1,225.8 USD refleja una convicción institucional que busca capturar el edge en el precio actual. Aunque el volumen de mercado no está disponible, la magnitud del trade sugiere que el consenso externo ya posiciona a Parry por encima de su probabilidad implícita, ofreciendo un margen de valor en el punto de entrada. Riesgo: posible ajuste de cuotas si el mercado reacciona a datos de rendimiento recientes."
+   "razon": "Trade de compra por $1,181 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Cincinnati Open: Arthur Fery vs Alex de Minaur Y Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya Y Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
+   "narrativa": "Una compra combinada de $1,180.64 en tres mercados distintos (Fery vs de Minaur, Cirstea vs Kalinskaya, y Shnaider vs Chwalinska) sugiere una apuesta coordinada a un resultado cruzado, probablemente basada en un edge de correlación entre los partidos. La falta de un outcome específico indica que el operador busca diversificar el riesgo en un paquete, lo que puede ofrecer un valor relativo si los precios individuales no reflejan la dependencia estadística. Riesgo: la liquidez fragmentada en múltiples mercados puede ampliar el deslizamiento."
   }
  ],
  "edges": [],
@@ -31,8 +51,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0425,
-   "no": 0.9575,
+   "yes": 0.0405,
+   "no": 0.9595,
    "volumen": 9913587.05507,
    "spread": 0.0,
    "categoria": "Política",
@@ -241,8 +261,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.0405,
+   "no": 0.9595,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 55.27
+ "db_size_mb": 55.33
 }
