@@ -1,71 +1,10 @@
 {
- "ts": 1786968104,
- "stamp": "20260817_120144",
+ "ts": 1786968464,
+ "stamp": "20260817_120744",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xa08a5ce99e14ce0b22767af6f16c08a2ab012249444c20887193a9a3e98e11fc",
-   "titulo": "Strait of Hormuz traffic returns to normal by September 30?",
-   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 11494.25,
-   "price": 0.89,
-   "usd": 10229.88,
-   "ts": 1786967637,
-   "categoria": "Tecnología",
-   "prob": 67,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $10,230 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
-   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad para el 30 de septiembre?",
-   "narrativa": "La venta de 'No' capitaliza el consenso de que el tráfico en Ormuz no se normalizará antes de fin de mes, con una posición de $10,229 que busca capturar el desvío entre el precio implícito y la probabilidad real de resolución geopolítica. El tamaño del trade sugiere convicción institucional en que las tensiones persisten, ofreciendo un edge si el mercado sobreestima una pronta recuperación. Riesgo: eventos de última hora pueden revertir la tendencia abruptamente."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x4309301a91299029ad86c47a79f96580e4082eaae05562829e2939439b49c00b",
-   "titulo": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
-   "slug": "lol-t1-dnf-2026-08-17",
-   "outcome": "T1",
-   "side": "SELL",
-   "size": 3999.98,
-   "price": 0.36,
-   "usd": 1439.99,
-   "ts": 1786967631,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,440 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17",
-   "titulo_es": "LoL: T1 vs DN SOOPers (BO5) - Playoffs de la Copa KeSPA",
-   "narrativa": "Vender a T1 en un BO5 de playoffs aprovecha la sobrevaloración del favorito en un formato donde los equipos coreanos suelen mostrar volatilidad inicial; el monto de $1,440 indica una apuesta moderada contra el consenso público. El edge proviene de que el mercado descuenta la forma reciente de DN SOOPers en partidos de alta presión, lo que podría generar una corrección si el primer juego no sale según lo esperado. Riesgo: T1 tiene historial de remontadas en series largas."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x142d2f1b31d2ebb28fb2e62d883ece12b672e05e6510ebf68e37876959f1d516",
-   "titulo": "LoL: T1 vs DN SOOPers - Game 3 Winner",
-   "slug": "lol-t1-dnf-2026-08-17-game3",
-   "outcome": "T1",
-   "side": "BUY",
-   "size": 3000.0,
-   "price": 0.36,
-   "usd": 1080.0,
-   "ts": 1786967631,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,080 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17-game3",
-   "titulo_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 3",
-   "narrativa": "Comprar a T1 en el Juego 3 con $1,080 busca explotar la tendencia de ajuste tras un posible split de juegos, donde el equipo favorito suele reaccionar con un draft más sólido; el precio de compra refleja una oportunidad si el mercado castigó en exceso la derrota del juego anterior. El edge se basa en que T1 tiene un win rate superior en juegos decisivos de medio set, y el monto es proporcional al riesgo de una serie corta. Riesgo: si DN SOOPers gana 2-0, el juego 3 no se disputa y la posición se liquida."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -73,7 +12,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0485,
    "no": 0.9515,
-   "volumen": 9872103.625331,
+   "volumen": 9872966.631211996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -113,7 +52,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987562.690261,
+   "volumen": 987562.6902610002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -133,7 +72,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.99277699999,
+   "volumen": 99951.992777,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -163,7 +102,7 @@
    "slug": "will-trump-and-putin-not-meet-432",
    "yes": 0.615,
    "no": 0.385,
-   "volumen": 99461.75602300001,
+   "volumen": 99464.981828,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿No se reunirán Trump y Putin?"
@@ -173,7 +112,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181799994,
+   "volumen": 99359.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -193,7 +132,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99127.70193399997,
+   "volumen": 99127.70193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -203,7 +142,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99118.66974200004,
+   "volumen": 99118.66974200003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -223,7 +162,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 98958.790045,
+   "volumen": 98958.79004499999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -231,8 +170,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.068,
-   "no": 0.932,
+   "yes": 0.0675,
+   "no": 0.9325,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -269,11 +208,21 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
+   "question": "ITF W35 Krakow Women: Salma Drugdova vs Darya Velikova",
+   "slug": "itf-drugdov-velikov-2026-08-17",
+   "yes": 0.1505,
+   "no": 0.8495,
+   "volumen": 9980.430621,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "ITF W35 Cracovia Femenino: Salma Drugdova vs Darya Velikova"
+  },
+  {
    "question": "Will Natural Gas (NG) hit (LOW) $2.60 in August?",
    "slug": "will-ng-dip-to-2-60-in-august-2026",
-   "yes": 0.755,
-   "no": 0.245,
-   "volumen": 9975.202587000002,
+   "yes": 0.75,
+   "no": 0.25,
+   "volumen": 9975.202587,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Gas Natural (NG) un mínimo (LOW) de $2.60 en agosto?"
@@ -291,8 +240,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.045,
+   "no": 0.955,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -307,16 +256,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "APYX FDV above $50M one day after launch?",
-   "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.8155,
-   "no": 0.1845,
-   "volumen": 9951.191957,
-   "spread": 0.0,
-   "categoria": "Ciencia y espacio",
-   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -326,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 50.79
+ "db_size_mb": 50.91
 }
