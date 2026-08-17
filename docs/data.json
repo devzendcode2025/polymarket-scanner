@@ -1,6 +1,6 @@
 {
- "ts": 1786957661,
- "stamp": "20260817_090741",
+ "ts": 1786957721,
+ "stamp": "20260817_090841",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -26,37 +26,7 @@
    "narrativa": "La compra de DN SOOPers a 2005 USD refleja una apuesta agresiva contra T1 en un BO5 de playoffs, donde el mercado suele sobrevalorar a los favoritos históricos. El monto colocado sugiere convicción interna, y si el consenso externo (modelos de rating) da a DN un edge de al menos 5-7 puntos en mapas, la oportunidad está en explotar el sesgo de marca. Riesgo: volatilidad alta por el formato BO5 y posible falta de liquidez en mercados de esports secundarios."
   }
  ],
- "edges": [
-  {
-   "tipo": "edge",
-   "question": "Will Byron Donalds win the Florida Republican Governor primary by at least 40%?",
-   "slug": "will-byron-donalds-win-the-florida-republican-governor-primary-by-at-least-40-20260812190226839",
-   "url": "https://polymarket.com/market/will-byron-donalds-win-the-florida-republican-governor-primary-by-at-least-40-20260812190226839",
-   "prob_poly": 44.0,
-   "consenso": 85.0,
-   "edge": 41.0,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "Manifold",
-     "titulo": "Will Byron Donalds get 50.000% or more of the vote in the Florida Republican Primary for Governor?",
-     "prob": 84.99999999999999,
-     "url": "https://manifold.markets/Jack1/will-byron-donalds-get-50000-or-mor",
-     "_poly_question": "Will the name of the first hurricane in the Atlantic for the 2026 Hurricane Season be Hanna?",
-     "titulo_es": "¿Obtendrá Byron Donalds el 50.000% o más de los votos en las primarias republicanas para gobernador de Florida?"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Política",
-   "prob": 85,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 44.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 85.0%: diferencia de 41.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará Byron Donalds las primarias republicanas para gobernador de Florida por al menos un 40%?",
-   "narrativa": "La plataforma cotiza el 'Sí' a 44 centavos, mientras el consenso externo de Manifold lo sitúa en 85, generando un edge de 41 puntos a favor de la compra. Esta brecha es inusualmente amplia y sugiere que el mercado aún no ha descontado plenamente la ventaja estructural de Donalds en unas primarias republicanas de Florida, donde el respaldo de base y el reconocimiento de nombre son determinantes. El monto implícito del trade (44c) ofrece una relación asimétrica de riesgo/recompensa si el consenso externo resulta más preciso. Riesgo: la liquidez en este mercado puede ser limitada, lo que podría afectar la ejecución de órdenes grandes."
-  }
- ],
+ "edges": [],
  "top_volumen": [
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
