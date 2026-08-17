@@ -1,6 +1,6 @@
 {
- "ts": 1786970265,
- "stamp": "20260817_123745",
+ "ts": 1786970385,
+ "stamp": "20260817_123945",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -91,8 +91,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0475,
-   "no": 0.9525,
+   "yes": 0.048,
+   "no": 0.952,
    "volumen": 9875311.291211998,
    "spread": 0.0,
    "categoria": "Política",
@@ -281,8 +281,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.008,
-   "no": 0.992,
+   "yes": 0.0075,
+   "no": 0.9925,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
