@@ -1,10 +1,31 @@
 {
- "ts": 1786955081,
- "stamp": "20260817_082441",
+ "ts": 1786955261,
+ "stamp": "20260817_082741",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x6851b5caa77cb7e71ece1652a991d84c84640ec54cf58a2be940b0c40b410aae",
+   "titulo": "Will the highest temperature in Munich be 23°C on August 17?",
+   "slug": "highest-temperature-in-munich-on-august-17-2026-23c",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 5809.13,
+   "price": 0.9981316445,
+   "usd": 5798.28,
+   "ts": 1786955020,
+   "categoria": "Otros",
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,798 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/highest-temperature-in-munich-on-august-17-2026-23c",
+   "titulo_es": "¿Será la temperatura máxima en Múnich de 23°C el 17 de agosto?",
+   "narrativa": "La señal de compra en 'No' para la temperatura máxima en Múnich refleja un consenso externo que anticipa condiciones más frescas, con un desvío histórico que favorece este escenario. El monto de 5,798 USD inyecta liquidez direccional, lo que sugiere que el mercado está absorbiendo posiciones contrarias al pronóstico cálido. Con un edge estimado en puntos que supera el umbral de rentabilidad ajustado por comisiones, la relación riesgo-recompensa es favorable en el corto plazo. Riesgo: posible volatilidad por actualizaciones meteorológicas de última hora."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -250,8 +271,8 @@
   {
    "question": "Will Kevin Steele be the FL-14 Republican nominee?",
    "slug": "will-kevin-steele-be-the-fl-14-republican-nominee-20260723180614392",
-   "yes": 0.455,
-   "no": 0.545,
+   "yes": 0.45,
+   "no": 0.55,
    "volumen": 9992.553908,
    "spread": 0.0,
    "categoria": "Política",
@@ -270,8 +291,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.04,
-   "no": 0.96,
+   "yes": 0.0345,
+   "no": 0.9655,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -295,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 47.84
+ "db_size_mb": 47.9
 }
