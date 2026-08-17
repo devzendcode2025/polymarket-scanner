@@ -1,6 +1,6 @@
 {
- "ts": 1786981308,
- "stamp": "20260817_154148",
+ "ts": 1786981368,
+ "stamp": "20260817_154248",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -11,39 +11,19 @@
    "titulo": "LoL: Natus Vincere vs Team Heretics - Game 1 Winner",
    "slug": "lol-navi-th-2026-08-17-game1",
    "outcome": "Natus Vincere",
-   "side": "BUY",
-   "size": 3186.93314,
-   "price": 0.9413438724,
-   "usd": 3000.0,
-   "ts": 1786980868,
+   "side": "SELL",
+   "size": 10396.37,
+   "price": 0.999,
+   "usd": 10385.97,
+   "ts": 1786981171,
    "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
+   "prob": 67,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,000 en 'Natus Vincere'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de venta por $10,386 en 'Natus Vincere'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-navi-th-2026-08-17-game1",
    "titulo_es": "LoL: Natus Vincere vs Team Heretics - Ganador del Juego 1",
-   "narrativa": "La compra de $3,000 en Natus Vincere para el Juego 1 refleja una fuerte convicción direccional, con un edge estimado de +5.2 puntos frente al consenso externo del 58% de probabilidad implícita. El monto representa una posición significativa que sugiere información privilegiada o modelo propio con ventaja, aunque el volumen de mercado no está disponible, lo que limita el análisis de liquidez. Riesgo: posible iliquidez en mercados de esports de nicho."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x47107a03aa638c1788a79626cf787830a395149b325f684a4517bdc3e9b3c755",
-   "titulo": "Elche CF to score first vs. RC Deportivo A Coruña?",
-   "slug": "lal-dep-elc-2026-08-17-first-to-score-away",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1737.66,
-   "price": 0.6766276487,
-   "usd": 1175.75,
-   "ts": 1786980870,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,176 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-dep-elc-2026-08-17-first-to-score-away",
-   "titulo_es": "¿Elche CF marcará primero contra el RC Deportivo A Coruña?",
-   "narrativa": "La apuesta de $1,175.75 a que Elche CF no marcará primero contra el RC Deportivo A Coruña se basa en un desvío de +3.8 puntos respecto al consenso externo del 45% de probabilidad de 'No', indicando que el mercado sobrevalora la opción contraria. El monto es moderado y sugiere una oportunidad de valor con un edge positivo esperado, aunque la falta de volumen de mercado podría afectar la ejecución. Riesgo: posible movimiento tardío de precios por noticias de última hora."
+   "narrativa": "La venta de Natus Vincere en el Juego 1 presenta un edge de +4.2 puntos frente al consenso externo del 58% de probabilidad implícita, mientras el mercado interno cotiza al 53.8%. Con un monto de $10,385.97, el desvío del 4.2% entre la percepción pública y la valoración del libro de órdenes sugiere una corrección favorable para el lado vendedor, especialmente si el volumen del mercado no respalda el favoritismo inicial. Riesgo: posible ajuste rápido si el volumen se concentra en el lado comprador durante los minutos previos al cierre."
   }
  ],
  "edges": [],
@@ -281,8 +261,8 @@
   {
    "question": "Will the highest temperature in Miami be between 94-95°F on August 17?",
    "slug": "highest-temperature-in-miami-on-august-17-2026-94-95f",
-   "yes": 0.48,
-   "no": 0.52,
+   "yes": 0.49,
+   "no": 0.51,
    "volumen": 9993.791670000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 53.66
+ "db_size_mb": 53.71
 }
