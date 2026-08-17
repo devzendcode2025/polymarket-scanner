@@ -1,71 +1,29 @@
 {
- "ts": 1786984309,
- "stamp": "20260817_163149",
+ "ts": 1786984669,
+ "stamp": "20260817_163749",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x5ec416a4b14bf8170b7386c5e5fcc0e60c43488f73b4fcb1e0bb6b4019dae545",
-   "titulo": "Will the price of Ethereum be above $1,700 on August 18?",
-   "slug": "ethereum-above-1700-on-august-18-2026",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 6508.6,
+   "market_id": "0xcb9b6dea81e9016b8aaa6af65903fb7327e04340aaef506eb586273fd1b1bd08",
+   "titulo": "LoL: Natus Vincere vs Team Heretics - Game 2 Winner",
+   "slug": "lol-navi-th-2026-08-17-game2",
+   "outcome": "Natus Vincere",
+   "side": "SELL",
+   "size": 2108.98,
    "price": 0.999,
-   "usd": 6502.09,
-   "ts": 1786983873,
-   "volumen_mercado": 9864.756415,
-   "tags": [],
-   "categoria": "Cripto",
-   "prob": 80,
-   "confianza": "alta",
+   "usd": 2106.87,
+   "ts": 1786984461,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $6,502 en 'Yes' = 65.9% del volumen del mercado ($9,865). Órdenes de este tamaño relativo suelen mover el precio en el corto plazo.",
-   "url": "https://polymarket.com/market/ethereum-above-1700-on-august-18-2026",
-   "titulo_es": "¿Estará el precio de Ethereum por encima de $1,700 el 18 de agosto?",
-   "narrativa": "La compra de $6,502 en 'Yes' para Ethereum por encima de $1,700 el 18 de agosto representa una apuesta direccional fuerte, con un volumen de mercado de $9,864 que sugiere liquidez moderada. El edge se basa en la diferencia entre el precio implícito del mercado y la probabilidad real estimada por consenso externo, que favorece un cierre alcista. Riesgo: alta volatilidad intradía de criptoactivos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd7cd87e13735386f462ccda185d1ada1051d5b27f273299328c04240006f85eb",
-   "titulo": "Will Team Spirit Win The International 2026?",
-   "slug": "will-team-spirit-win-the-international-2026-20260629212053621",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.86,
-   "usd": 1720.0,
-   "ts": 1786983876,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,720 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-team-spirit-win-the-international-2026-20260629212053621",
-   "titulo_es": "¿Ganará Team Spirit The International 2026?",
-   "narrativa": "La compra de $1,720 en 'No' para Team Spirit en The International 2026 aprovecha el sobreprecio del 'Yes' en mercados con baja liquidez (volumen nulo), lo que crea un edge por corrección de probabilidad. El consenso externo de equipos Dota 2 sugiere que Team Spirit no es favorito absoluto, y el 'No' ofrece valor asimétrico. Riesgo: falta de liquidez y posible manipulación de precios."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xb7da3878391b4ed1f1a4a4d6c11afd740b2730e3251c4ffddaf910f56348b6d5",
-   "titulo": "Will Team Falcons Win The International 2026?",
-   "slug": "will-team-falcons-win-the-international-2026-20260629212053616",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1164.73,
-   "price": 0.86,
-   "usd": 1001.67,
-   "ts": 1786983876,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,002 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-team-falcons-win-the-international-2026-20260629212053616",
-   "titulo_es": "¿Ganará Team Falcons The International 2026?",
-   "narrativa": "La compra de $1,001 en 'No' para Team Falcons en The International 2026 se apoya en la sobrevaloración del 'Yes' en un mercado sin volumen reportado, donde el precio no refleja la probabilidad real. El edge proviene de la discrepancia entre el consenso externo (Team Falcons no es contendiente principal) y el precio implícito del 'No'. Riesgo: mercado ilíquido y eventos impredecibles en torneos."
+   "razon": "Trade de venta por $2,107 en 'Natus Vincere'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-navi-th-2026-08-17-game2",
+   "titulo_es": "LoL: Natus Vincere vs Team Heretics - Ganador del Juego 2",
+   "narrativa": "El mercado sobrevalora a Natus Vincere en el Juego 2, y la venta de 2,106.87 USD refleja una posición contraria con base en el desajuste entre el precio implícito y el desempeño reciente del equipo. Aunque el volumen total no está disponible, el tamaño del trade sugiere que un operador relevante detectó un edge negativo en la probabilidad de victoria, lo que abre una ventana para capturar valor si el mercado corrige. Riesgo: posible falta de liquidez en momentos de alta volatilidad entre mapas."
   }
  ],
  "edges": [],
@@ -73,9 +31,9 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0435,
-   "no": 0.9565,
-   "volumen": 9911198.210177997,
+   "yes": 0.041,
+   "no": 0.959,
+   "volumen": 9911261.160178,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -85,7 +43,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9841606.296317996,
+   "volumen": 9841669.246318003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -95,7 +53,7 @@
    "slug": "lol-t1-dnf-2026-08-17-game1",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 997835.0259970006,
+   "volumen": 997835.0259970007,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 1"
@@ -125,7 +83,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 987645.1342310003,
+   "volumen": 987645.1342310001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -135,7 +93,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987567.2402610005,
+   "volumen": 987567.2402609998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -163,12 +121,22 @@
   {
    "question": "Fed rate cut by October 2026 meeting?",
    "slug": "fed-rate-cut-by-october-2026-meeting-199-747",
-   "yes": 0.047,
-   "no": 0.953,
-   "volumen": 99618.12100700001,
+   "yes": 0.057,
+   "no": 0.943,
+   "volumen": 99618.12100699997,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Recorte de tasas de la Fed para la reunión de octubre de 2026?"
+  },
+  {
+   "question": "Will the Democrats win the Ohio Senate race in 2026?",
+   "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
+   "yes": 0.525,
+   "no": 0.475,
+   "volumen": 99590.36785400001,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
   },
   {
    "question": "Will MicroStrategy be margin called in 2026?",
@@ -185,7 +153,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 99210.77216200001,
+   "volumen": 99210.77216200002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -201,21 +169,11 @@
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
   },
   {
-   "question": "Will the Democrats win the Ohio Senate race in 2026?",
-   "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
-   "yes": 0.525,
-   "no": 0.475,
-   "volumen": 99118.66974200003,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
-  },
-  {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99023.58341900002,
+   "volumen": 99023.58341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -225,7 +183,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 98968.910045,
+   "volumen": 98968.91004500004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -245,7 +203,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98858.23276299998,
+   "volumen": 98858.23276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -275,7 +233,7 @@
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632000004,
+   "volumen": 9973.414632,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -283,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.0325,
+   "no": 0.9675,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -295,7 +253,7 @@
    "slug": "another-nato-article-4-invocation-by-october-31-2026-20260726214511853",
    "yes": 0.23,
    "no": 0.77,
-   "volumen": 9973.130335,
+   "volumen": 9973.130335000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Otra invocación del Artículo 4 de la OTAN para el 31 de octubre de 2026?"
@@ -313,8 +271,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7855,
-   "no": 0.2145,
+   "yes": 0.785,
+   "no": 0.215,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -328,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 54.32
+ "db_size_mb": 54.44
 }
