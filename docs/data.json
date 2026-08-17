@@ -1,6 +1,6 @@
 {
- "ts": 1786974526,
- "stamp": "20260817_134846",
+ "ts": 1786974886,
+ "stamp": "20260817_135446",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -10,8 +10,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.0485,
+   "no": 0.9515,
    "volumen": 9892140.131211998,
    "spread": 0.0,
    "categoria": "Política",
@@ -110,8 +110,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.0835,
-   "no": 0.9165,
+   "yes": 0.083,
+   "no": 0.917,
    "volumen": 99796.013695,
    "spread": 0.0,
    "categoria": "Política",
@@ -250,8 +250,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.041,
-   "no": 0.959,
+   "yes": 0.035,
+   "no": 0.965,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -265,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 52.18
+ "db_size_mb": 52.25
 }
