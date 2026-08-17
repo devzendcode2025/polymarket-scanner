@@ -1,6 +1,6 @@
 {
- "ts": 1786966964,
- "stamp": "20260817_114244",
+ "ts": 1786967024,
+ "stamp": "20260817_114344",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -31,8 +31,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0485,
-   "no": 0.9515,
+   "yes": 0.0495,
+   "no": 0.9505,
    "volumen": 9859888.892975997,
    "spread": 0.0,
    "categoria": "Política",
@@ -201,8 +201,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.067,
-   "no": 0.933,
+   "yes": 0.0675,
+   "no": 0.9325,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 50.57
+ "db_size_mb": 50.58
 }
