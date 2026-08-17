@@ -1,29 +1,49 @@
 {
- "ts": 1786980408,
- "stamp": "20260817_152648",
+ "ts": 1786980768,
+ "stamp": "20260817_153248",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xcdd8c1c70c32085630497dff3ce53ef7309061c4437ea2bf1aad9543a1c3abc5",
-   "titulo": "LoL: T1 vs DN SOOPers - Game 4 Winner",
-   "slug": "lol-t1-dnf-2026-08-17-game4",
-   "outcome": "DN SOOPers",
+   "market_id": "0x4284537fc00a8be5de5b7a76608a85e4a31db83ca4af430105acad7da68bea16",
+   "titulo": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season",
+   "slug": "lol-navi-th-2026-08-17",
+   "outcome": "Natus Vincere",
+   "side": "BUY",
+   "size": 1804.94,
+   "price": 0.75,
+   "usd": 1353.7,
+   "ts": 1786980573,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,354 en 'Natus Vincere'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-navi-th-2026-08-17",
+   "titulo_es": "LoL: Natus Vincere vs Team Heretics (BO3) - Temporada Regular de la LEC",
+   "narrativa": "La compra de Natus Vincere en el BO3 contra Team Heretics muestra una apuesta clara de 1,353.7 USD, lo que sugiere una fuerte convicción en el resultado a pesar de no contar con volumen de mercado reportado. Este monto, en un evento de esports de temporada regular, puede generar un edge si el consenso externo infravalora la forma reciente del equipo. Riesgo: posible iliquidez en el mercado de apuestas para este evento."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x033fd089d14aab0e622e221f96269ecad9cdff81775e12745f5e1d7b78cca5aa",
+   "titulo": "Will the price of Bitcoin be above $64,000 on August 17?",
+   "slug": "bitcoin-above-64k-on-august-17-2026",
+   "outcome": "Yes",
    "side": "SELL",
-   "size": 14219.06,
-   "price": 0.999,
-   "usd": 14204.84,
-   "ts": 1786979967,
-   "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $14,205 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17-game4",
-   "titulo_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 4",
-   "narrativa": "La venta de DN SOOPers en el Juego 4 contra T1 muestra un desbalance claro: el mercado está pagando una prima por el lado perdedor histórico, y con $14,204 en juego, el edge proviene de explotar la sobrevaloración del underdog en un mapa donde T1 tiene un historial de cierre dominante. El consenso externo favorece a T1 en un ~70% de los escenarios, pero el precio implícito de DN SOOPers sugiere una probabilidad mayor, lo que genera un margen negativo para el comprador y positivo para el vendedor. Riesgo: posible corrección brusca si T1 rota su alineación o el draft favorece una composición de late game para DN SOOPers."
+   "size": 1608.9,
+   "price": 0.6254905153,
+   "usd": 1006.35,
+   "ts": 1786980565,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,006 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-64k-on-august-17-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 17 de agosto?",
+   "narrativa": "La venta de 'Yes' en el mercado de Bitcoin por encima de $64,000 el 17 de agosto, con una posición de 1,006.35 USD, refleja una expectativa bajista o de consolidación en el corto plazo. Dado que el precio actual de Bitcoin ronda los $60,000-$63,000, el desvío necesario para alcanzar el umbral es significativo, lo que otorga una ventaja probabilística a la posición vendedora si el consenso externo espera una corrección. Riesgo: alta volatilidad del activo subyacente."
   }
  ],
  "edges": [],
@@ -47,16 +67,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
-  },
-  {
-   "question": "Will Jay Collins be the Republican nominee for Florida Governor?",
-   "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 999724.3072699996,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
   },
   {
    "question": "LoL: T1 vs DN SOOPers - Game 1 Winner",
@@ -129,16 +139,6 @@
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
   },
   {
-   "question": "Will RC Deportivo A Coruña win on 2026-08-17?",
-   "slug": "lal-dep-elc-2026-08-17-dep",
-   "yes": 0.435,
-   "no": 0.565,
-   "volumen": 99868.466904,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el RC Deportivo A Coruña el 2026-08-17?"
-  },
-  {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
@@ -163,7 +163,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181799996,
+   "volumen": 99359.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -277,14 +277,34 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
+  },
+  {
+   "question": "Will Eastern Europe & CIS region win The International 2026?",
+   "slug": "will-cis-region-win-the-international-2026-20260805215811240",
+   "yes": 0.755,
+   "no": 0.245,
+   "volumen": 9991.944813,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará la región de Europa del Este y CIS The International 2026?"
+  },
+  {
+   "question": "Aligned FDV above $100M one day after launch?",
+   "slug": "aligned-fdv-above-100m-one-day-after-launch",
+   "yes": 0.86,
+   "no": 0.14,
+   "volumen": 9988.873336,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿FDV alineado por encima de $100M un día después del lanzamiento?"
   }
  ],
  "historico": {
-  "ts": 1786978792,
+  "ts": 1786980592,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 53.45
+ "db_size_mb": 53.59
 }
