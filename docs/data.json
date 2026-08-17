@@ -1,6 +1,6 @@
 {
- "ts": 1786943377,
- "stamp": "20260817_050937",
+ "ts": 1786943738,
+ "stamp": "20260817_051538",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -250,8 +250,8 @@
   {
    "question": "Will the highest temperature in Shenzhen be 33°C on August 17?",
    "slug": "highest-temperature-in-shenzhen-on-august-17-2026-33c",
-   "yes": 0.004,
-   "no": 0.996,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 9957.101316000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -265,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 45.26
+ "db_size_mb": 45.32
 }
