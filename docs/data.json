@@ -1,29 +1,49 @@
 {
- "ts": 1786985749,
- "stamp": "20260817_165549",
+ "ts": 1786985869,
+ "stamp": "20260817_165749",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf7167d1a2989a6f41a183a4a1ca91001a3c023bee7c0250574f9f632227546de",
-   "titulo": "Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5",
-   "slug": "mlb-ari-bos-2026-08-17-total-8pt5",
-   "outcome": "Under",
+   "market_id": "0x5a84f759cc706f148f1e38988346e483286f41468fbabecd5a5c077945d3fa70",
+   "titulo": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
+   "slug": "wta-swiatek-sakkari-2026-08-17",
+   "outcome": "Iga Swiatek",
    "side": "BUY",
-   "size": 3192.936169,
-   "price": 0.4699999999,
-   "usd": 1500.68,
-   "ts": 1786985365,
-   "categoria": "Otros",
+   "size": 1802.0,
+   "price": 0.98,
+   "usd": 1765.96,
+   "ts": 1786985679,
+   "categoria": "Deportes",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,501 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-ari-bos-2026-08-17-total-8pt5",
-   "titulo_es": "Arizona Diamondbacks vs. Boston Red Sox: Más/Menos 8.5",
-   "narrativa": "El mercado de totales para Arizona-Boston muestra un consenso externo que favorece el Under, y la compra de $1,500.68 en este lado refleja una posición significativa que busca capitalizar la tendencia de baja anotación en los últimos enfrentamientos. El edge implícito se amplía si el volumen de mercado es reducido, lo que permite una mejor entrada sin deslizamiento. Riesgo: posible volatilidad si los equipos activan su ofensiva en estadio favorable al bateo."
+   "razon": "Trade de compra por $1,766 en 'Iga Swiatek'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-swiatek-sakkari-2026-08-17",
+   "titulo_es": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
+   "narrativa": "La compra de 1,765.96 USD sobre Iga Swiatek refleja una apuesta clara a favor de la favorita en el Cincinnati Open, con un edge implícito que supera el consenso externo del mercado. El monto significativo sugiere que el operador identifica una discrepancia entre el precio actual y la probabilidad real de victoria, aprovechando la solidez de Swiatek en superficie dura. Riesgo: posible volatilidad si Sakkari eleva su nivel en momentos clave."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x79290f7038f36e1a1c63b9e387760a5c6ffd9ffc3d4091cde82d8e1d7bd7edeb",
+   "titulo": "LoL: GIANTX vs Karmine Corp - Game 1 Winner",
+   "slug": "lol-gx-kc-2026-08-17-game1",
+   "outcome": "GIANTX",
+   "side": "BUY",
+   "size": 6252.85,
+   "price": 0.24,
+   "usd": 1500.68,
+   "ts": 1786985667,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,501 en 'GIANTX'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-gx-kc-2026-08-17-game1",
+   "titulo_es": "LoL: GIANTX vs Karmine Corp - Ganador del Juego 1",
+   "narrativa": "La compra de 1,500.68 USD sobre GIANTX en el Juego 1 indica una convicción fuerte en una victoria temprana, con un edge calculado que se desvía del consenso externo que favorece a Karmine Corp. Este movimiento aprovecha la posible infravaloración de GIANTX en un mapa inicial, donde suelen tener mayor control de objetivos. Riesgo: alta dependencia del draft y de la fase de líneas, con margen de error reducido en un Bo1."
   }
  ],
  "edges": [],
@@ -161,8 +181,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -231,8 +251,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.045,
+   "no": 0.955,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 54.67
+ "db_size_mb": 54.73
 }
