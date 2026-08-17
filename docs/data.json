@@ -1,49 +1,70 @@
 {
- "ts": 1786996912,
- "stamp": "20260817_200152",
+ "ts": 1786996972,
+ "stamp": "20260817_200252",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "3621009",
+   "question": "Will the highest temperature in Dallas be between 102-103°F on August 17?",
+   "slug": "highest-temperature-in-dallas-on-august-17-2026-102-103f",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.001,
+   "yes_ahora": 0.005,
+   "cambio_pct": 900.0,
+   "direccion": "SUBIDA",
+   "volumen": 9862.363491999999,
+   "prob": 72,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Yes subida 900.0% vs el scan anterior (0.001 → 0.005) en un mercado con $9,862 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/highest-temperature-in-dallas-on-august-17-2026-102-103f",
+   "question_es": "¿Será la temperatura más alta en Dallas entre 102-103°F el 17 de agosto?",
+   "narrativa": "La probabilidad implícita del evento climático en Dallas se quintuplicó, pasando de 0.1% a 0.5%, lo que representa un salto del 900% en la valoración. Este movimiento refleja una actualización agresiva del mercado ante nuevos modelos meteorológicos, y aunque el volumen de $9,862 sugiere interés, el precio aún está lejos de un consenso externo que podría estar subestimando el riesgo de calor extremo. Riesgo: alta volatilidad en la recta final y posible reversión si los modelos se ajustan."
+  }
+ ],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x36fc2020db287a9af339df0cd043afbe27c045ea29a6191c11051341149c8d9c",
-   "titulo": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo",
-   "slug": "atp-jodar-tabilo-2026-08-17",
-   "outcome": "Rafael Jodar",
+   "market_id": "0xce1899ae27cd5e291865bf5811c9fcef5f0da4154a9db8a2f85d1f69a898f341",
+   "titulo": "Kingston: Garrett Johns vs Timo Legout",
+   "slug": "atp-johns-legout-2026-08-17",
+   "outcome": "Garrett Johns",
    "side": "BUY",
-   "size": 57777.69,
-   "price": 0.67,
-   "usd": 38711.05,
-   "ts": 1786996476,
-   "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $38,711 en 'Rafael Jodar'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-jodar-tabilo-2026-08-17",
-   "titulo_es": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo",
-   "narrativa": "La compra de 38,711 USD sobre Rafael Jodar frente a Alejandro Tabilo en el Cincinnati Open refleja una fuerte convicción de un operador de gran tamaño, lo que sugiere que el mercado podría estar subvalorando sus opciones en un contexto de poca liquidez. Este movimiento, al ser de alta magnitud, puede generar un repunte en el precio del contrato si otros participantes siguen la señal, aunque el volumen de mercado no está disponible, lo que limita el análisis de profundidad. Riesgo: posible falta de liquidez para salir de la posición sin afectar el precio."
+   "size": 1890.37,
+   "price": 0.98,
+   "usd": 1852.56,
+   "ts": 1786996783,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,853 en 'Garrett Johns'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-johns-legout-2026-08-17",
+   "titulo_es": "Kingston: Garrett Johns contra Timo Legout",
+   "narrativa": "Una orden de compra por $1,852 en Garrett Johns, con un volumen de mercado no reportado, indica que un operador grande está dispuesto a tomar una posición significativa en un partido de tenis de bajo perfil. Este flujo de capital concentrado puede distorsionar la oferta/demanda y ofrecer una ventana de entrada antes de que el mercado ajuste, aunque la falta de datos de liquidez aumenta la incertidumbre sobre la ejecución. Riesgo: mercado ilíquido y spreads amplios."
   },
   {
    "tipo": "ballena",
-   "market_id": "0xe55b9bb98ccc11b609d0a4fe143192b7a98ef817e34b9cb2020f1c5c47d3f049",
-   "titulo": "Casa Pia AC vs. Sport Lisboa e Benfica: 1st Half O/U 1.5",
-   "slug": "por-cas-ben-2026-08-16-first-half-total-1pt5",
-   "outcome": "Over",
-   "side": "SELL",
-   "size": 1195.3,
-   "price": 0.999,
-   "usd": 1194.1,
-   "ts": 1786996485,
-   "categoria": "Otros",
+   "market_id": "0xf35b472bf13b41d0d3e179bab9e9256ee645b94bac6ac768fa073532a6a4186e",
+   "titulo": "Cancun: Lloyd Harris vs Abdullah Shelbayh",
+   "slug": "atp-harri-shelba-2026-08-17",
+   "outcome": "Abdullah Shelbayh",
+   "side": "BUY",
+   "size": 2841.84,
+   "price": 0.4,
+   "usd": 1136.74,
+   "ts": 1786996791,
+   "categoria": "Política",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,194 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/por-cas-ben-2026-08-16-first-half-total-1pt5",
-   "titulo_es": "Casa Pia AC vs. Sport Lisboa e Benfica: 1er Tiempo Más/Menos 1.5",
-   "narrativa": "La venta de 1,194 USD en el mercado de Más/Menos 1.5 goles del primer tiempo entre Casa Pia y Benfica indica una apuesta clara a que el primer tiempo no superará esa línea, probablemente basada en el bajo ritmo esperado del partido y la solidez defensiva del equipo local. El monto, aunque moderado, muestra una convicción direccional que puede aprovecharse si el consenso externo (no proporcionado) respalda la tendencia a pocos goles en los primeros 45 minutos. Riesgo: la volatilidad temprana de Benfica en ataque podría romper la expectativa."
+   "razon": "Trade de compra por $1,137 en 'Abdullah Shelbayh'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-harri-shelba-2026-08-17",
+   "titulo_es": "Cancún: Lloyd Harris vs Abdullah Shelbayh",
+   "narrativa": "La compra de $1,136 en Abdullah Shelbayh sugiere que un inversor relevante percibe una ventaja informacional o de valor en un enfrentamiento donde el consenso público podría favorecer al rival. La ausencia de volumen de mercado reportado hace que este movimiento sea difícil de contextualizar, pero el tamaño de la apuesta en un evento secundario puede anticipar una corrección de precios. Riesgo: baja profundidad de mercado y posible manipulación de precios."
   }
  ],
  "edges": [],
@@ -53,7 +74,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 9928268.163294002,
+   "volumen": 9928573.611823004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -133,7 +154,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181800001,
+   "volumen": 99359.48181800003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -143,7 +164,7 @@
    "slug": "will-astralis-win-the-cs2-ewc-2026-20260810160005090",
    "yes": 0.0135,
    "no": 0.9865,
-   "volumen": 99333.31104000003,
+   "volumen": 99333.31104000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará Astralis el CS2 EWC 2026?"
@@ -151,8 +172,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -163,7 +184,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0055,
    "no": 0.9945,
-   "volumen": 99149.910045,
+   "volumen": 99149.91004499998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -249,16 +270,6 @@
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "US Cremonese vs. UC Sampdoria: O/U 3.5",
-   "slug": "itc-cre-sam-2026-08-17-total-3pt5",
-   "yes": 0.105,
-   "no": 0.895,
-   "volumen": 9972.892682999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "US Cremonese vs. UC Sampdoria: Más/Menos 3.5"
-  },
-  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -273,10 +284,20 @@
    "slug": "will-the-arizona-diamondbacks-clinch-a-spot-in-the-2026-mlb-postseason",
    "yes": 0.465,
    "no": 0.535,
-   "volumen": 9960.186949,
+   "volumen": 9960.186948999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Lograrán los Arizona Diamondbacks asegurar un lugar en la Postemporada de la MLB 2026?"
+  },
+  {
+   "question": "LoL: Estral Esports vs RMD Gaming - Game 2 Winner",
+   "slug": "lol-est-rmd-2026-08-17-game2",
+   "yes": 0.86,
+   "no": 0.14,
+   "volumen": 9957.991415,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: Estral Esports contra RMD Gaming - Ganador del Juego 2"
   },
   {
    "question": "Set Handicap: Mensik (-1.5) vs Hijikata (+1.5)",
@@ -291,8 +312,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7835,
-   "no": 0.2165,
+   "yes": 0.7845,
+   "no": 0.2155,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -306,5 +327,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 57.16
+ "db_size_mb": 57.21
 }
