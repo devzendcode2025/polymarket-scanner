@@ -1,6 +1,6 @@
 {
- "ts": 1786929094,
- "stamp": "20260817_011134",
+ "ts": 1786929154,
+ "stamp": "20260817_011234",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -61,8 +61,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.049,
+   "no": 0.951,
    "volumen": 9830094.866220005,
    "spread": 0.0,
    "categoria": "Política",
@@ -211,8 +211,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.069,
-   "no": 0.931,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -261,8 +261,8 @@
   {
    "question": "Will the price of Bitcoin be above $62,000 on August 17?",
    "slug": "bitcoin-above-62k-on-august-17-2026",
-   "yes": 0.941,
-   "no": 0.059,
+   "yes": 0.9405,
+   "no": 0.0595,
    "volumen": 98086.73558099994,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 42.13
+ "db_size_mb": 42.14
 }
