@@ -1,6 +1,6 @@
 {
- "ts": 1786932394,
- "stamp": "20260817_020634",
+ "ts": 1786932454,
+ "stamp": "20260817_020734",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -33,20 +33,10 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.049,
    "no": 0.951,
-   "volumen": 9839181.957986,
+   "volumen": 9839183.481094003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
-  },
-  {
-   "question": "Will Michelle Bolsonaro win the 2026 Brazilian presidential election?",
-   "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9813138.072317999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
   },
   {
    "question": "Will Josh Stein win the 2028 Democratic presidential nomination?",
@@ -63,7 +53,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988676.424857,
+   "volumen": 988676.4248569998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -99,21 +89,11 @@
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
   },
   {
-   "question": "Valorant: Cloud9 vs Evil Geniuses - Map 1 Winner",
-   "slug": "val-c9-eg2-2026-08-16-game1",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 99983.797002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Valorant: Cloud9 vs Evil Geniuses - Ganador del Mapa 1"
-  },
-  {
    "question": "NATO x Russia military clash by October 31, 2026?",
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.99277700002,
+   "volumen": 99951.992777,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -123,7 +103,7 @@
    "slug": "will-the-republicans-win-the-iowa-senate-race-in-2026",
    "yes": 0.575,
    "no": 0.425,
-   "volumen": 99927.920065,
+   "volumen": 99927.92006500003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los Republicanos la carrera al Senado de Iowa en 2026?"
@@ -133,7 +113,7 @@
    "slug": "bitcoin-above-66k-on-august-17-2026",
    "yes": 0.002,
    "no": 0.998,
-   "volumen": 99852.45365000001,
+   "volumen": 99852.45364999998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Bitcoin por encima de $66,000 el 17 de agosto?"
@@ -143,7 +123,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900002,
+   "volumen": 99798.31490900004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -161,8 +141,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216199998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -173,7 +153,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0315,
    "no": 0.9685,
-   "volumen": 99181.48181799999,
+   "volumen": 99181.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -201,8 +181,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.067,
-   "no": 0.933,
+   "yes": 0.0675,
+   "no": 0.9325,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -221,8 +201,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0075,
-   "no": 0.9925,
+   "yes": 0.008,
+   "no": 0.992,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -233,20 +213,20 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 98429.94493400001,
+   "volumen": 98429.944934,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
   },
   {
-   "question": "Will the Democrats win the Ohio Senate race in 2026?",
-   "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
-   "yes": 0.525,
-   "no": 0.475,
-   "volumen": 98118.66974200001,
+   "question": "Will Trump and Putin not meet?",
+   "slug": "will-trump-and-putin-not-meet-432",
+   "yes": 0.605,
+   "no": 0.395,
+   "volumen": 98216.08894400002,
    "spread": 0.0,
    "categoria": "Política",
-   "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
+   "question_es": "¿No se reunirán Trump y Putin?"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -259,11 +239,21 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
+   "question": "Will the price of Bitcoin be above $68,000 on August 18?",
+   "slug": "bitcoin-above-68k-on-august-18-2026",
+   "yes": 0.0035,
+   "no": 0.9965,
+   "volumen": 9979.919771,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin por encima de $68,000 el 18 de agosto?"
+  },
+  {
    "question": "Will Julian Alvarez join Real Madrid?",
    "slug": "will-julian-alvarez-join-real-madrid-20260612230229111",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 9977.221455,
+   "volumen": 9977.221455000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Se unirá Julián Álvarez al Real Madrid?"
@@ -277,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   }
  ],
  "historico": {
