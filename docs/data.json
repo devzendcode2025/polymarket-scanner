@@ -1,6 +1,6 @@
 {
- "ts": 1786972666,
- "stamp": "20260817_131746",
+ "ts": 1786972726,
+ "stamp": "20260817_131846",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -53,7 +53,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.047,
    "no": 0.953,
-   "volumen": 9880412.831211993,
+   "volumen": 9883571.041212,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -63,7 +63,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9825480.256318005,
+   "volumen": 9825588.00631801,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -103,10 +103,20 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987562.6902610002,
+   "volumen": 987567.2402610001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
+  },
+  {
+   "question": "LoL: T1 vs DN SOOPers - Game 1 Winner",
+   "slug": "lol-t1-dnf-2026-08-17-game1",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 984033.5759970001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 1"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -213,7 +223,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 98958.790045,
+   "volumen": 98958.79004499999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -221,8 +231,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0665,
-   "no": 0.9335,
+   "yes": 0.067,
+   "no": 0.933,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -287,16 +297,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
-  },
-  {
-   "question": "Will the Republican Party win the NC-09 House seat?",
-   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
-   "yes": 0.8,
-   "no": 0.2,
-   "volumen": 9966.137666999999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   }
  ],
  "historico": {
@@ -306,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 51.78
+ "db_size_mb": 51.79
 }
