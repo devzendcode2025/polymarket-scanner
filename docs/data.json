@@ -1,10 +1,51 @@
 {
- "ts": 1786974886,
- "stamp": "20260817_135446",
+ "ts": 1786975066,
+ "stamp": "20260817_135746",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x6c1057b154b46e853829fea991b39cc1e657446d060464973b6b8e2fa3115cc6",
+   "titulo": "ITF W35 Verbier Women: Micol Salvadori vs Alexandra Biot",
+   "slug": "itf-salvado-biot-2026-08-17",
+   "outcome": "Alexandra Biot",
+   "side": "SELL",
+   "size": 3013.0,
+   "price": 0.9102309658,
+   "usd": 2742.53,
+   "ts": 1786974861,
+   "categoria": "Otros",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,743 en 'Alexandra Biot'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/itf-salvado-biot-2026-08-17",
+   "titulo_es": "ITF W35 Verbier Femenino: Micol Salvadori vs Alexandra Biot",
+   "narrativa": "La venta de 2,742 USD sobre Biot en el W35 de Verbier refleja una apuesta agresiva contra la tenista, probablemente por una ventaja de forma o superficie de la rival. El tamaño del trade, muy superior al volumen típico del mercado, sugiere que un operador con información relevante está dispuesto a asumir el riesgo de iliquidez. Riesgo: mercado de nicho con poca profundidad y spreads amplios."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x4309301a91299029ad86c47a79f96580e4082eaae05562829e2939439b49c00b",
+   "titulo": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "slug": "lol-t1-dnf-2026-08-17",
+   "outcome": "T1",
+   "side": "SELL",
+   "size": 15483.2,
+   "price": 0.0723159037,
+   "usd": 1119.68,
+   "ts": 1786974861,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,120 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17",
+   "titulo_es": "LoL: T1 vs DN SOOPers (BO5) - Playoffs de la Copa KeSPA",
+   "narrativa": "La venta de 1,119 USD sobre T1 en el BO5 de la Copa KeSPA indica que el mercado descuenta una posible sorpresa del equipo DN, a pesar del favoritismo histórico de T1. El monto, aunque moderado, es significativo para un evento de esports y puede reflejar una corrección de odds basada en el rendimiento reciente de los equipos. Riesgo: alta volatilidad en partidos BO5 y posible sesgo por el factor 'home crowd'."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -110,8 +151,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.083,
-   "no": 0.917,
+   "yes": 0.0835,
+   "no": 0.9165,
    "volumen": 99796.013695,
    "spread": 0.0,
    "categoria": "Política",
@@ -230,8 +271,8 @@
   {
    "question": "Will the highest temperature in New York City be between 84-85°F on August 17?",
    "slug": "highest-temperature-in-nyc-on-august-17-2026-84-85f",
-   "yes": 0.27,
-   "no": 0.73,
+   "yes": 0.285,
+   "no": 0.715,
    "volumen": 9979.198909999997,
    "spread": 0.0,
    "categoria": "Otros",
@@ -265,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 52.25
+ "db_size_mb": 52.3
 }
