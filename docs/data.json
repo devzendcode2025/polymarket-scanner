@@ -1,10 +1,51 @@
 {
- "ts": 1786936896,
- "stamp": "20260817_032136",
+ "ts": 1786937196,
+ "stamp": "20260817_032636",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x544a75cdda60d64948acf4fe00f0db75d84b95c8ec979d2ef2c54675043bb65e",
+   "titulo": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In",
+   "slug": "val-c9-eg2-2026-08-16",
+   "outcome": "Evil Geniuses",
+   "side": "SELL",
+   "size": 4882.8,
+   "price": 0.999,
+   "usd": 4877.92,
+   "ts": 1786936987,
+   "categoria": "Otros",
+   "prob": 59,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $4,878 en 'Evil Geniuses'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-c9-eg2-2026-08-16",
+   "titulo_es": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In",
+   "narrativa": "La venta de Evil Geniuses frente a Cloud9 en este BO3 de Valorant refleja una operación de 4.877,92 USD que busca capitalizar la debilidad percibida del equipo en el Play-In, donde el consenso externo favorece a Cloud9 por su mejor forma reciente. El tamaño de la posición sugiere una convicción alta en el desajuste de valoración, aunque el volumen de mercado no está disponible, lo que limita la confirmación de liquidez. Riesgo: la falta de datos de volumen puede amplificar el impacto de movimientos bruscos en el precio."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x8db706b23a24ae07be441d240e3168e55c2ad8b6dd32a1341198122b58be3df0",
+   "titulo": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
+   "slug": "wta-valento-svitoli-2026-08-16",
+   "outcome": "Tereza Valentova",
+   "side": "BUY",
+   "size": 2222.222221,
+   "price": 0.6299999999,
+   "usd": 1400.0,
+   "ts": 1786936996,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,400 en 'Tereza Valentova'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-valento-svitoli-2026-08-16",
+   "titulo_es": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
+   "narrativa": "La compra de Tereza Valentova ante Elina Svitolina en el Cincinnati Open representa una apuesta de 1.400 USD por una jugadora en ascenso que ha mostrado un rendimiento sólido en pista dura, mientras que Svitolina arrastra un historial irregular en torneos WTA 1000 esta temporada. El edge se basa en la diferencia de ritmo y frescura física, aunque el consenso externo aún favorece a la ucraniana por su experiencia, lo que genera un precio atractivo en el mercado. Riesgo: la variabilidad en el nivel de juego de Valentova en partidos de alta presión puede reducir el margen esperado."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -265,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 43.83
+ "db_size_mb": 43.91
 }
