@@ -1,29 +1,29 @@
 {
- "ts": 1786980108,
- "stamp": "20260817_152148",
+ "ts": 1786980168,
+ "stamp": "20260817_152248",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf8f65bfb31236b0a83b75a4ece401e8ebe7ade332201a6ce773fd49e9b2fdb58",
-   "titulo": "LoL: Natus Vincere vs Team Heretics - Game 1 Winner",
-   "slug": "lol-navi-th-2026-08-17-game1",
-   "outcome": "Team Heretics",
-   "side": "BUY",
-   "size": 5824.48,
-   "price": 0.32,
-   "usd": 1863.83,
-   "ts": 1786979671,
+   "market_id": "0xcdd8c1c70c32085630497dff3ce53ef7309061c4437ea2bf1aad9543a1c3abc5",
+   "titulo": "LoL: T1 vs DN SOOPers - Game 4 Winner",
+   "slug": "lol-t1-dnf-2026-08-17-game4",
+   "outcome": "DN SOOPers",
+   "side": "SELL",
+   "size": 14219.06,
+   "price": 0.999,
+   "usd": 14204.84,
+   "ts": 1786979967,
    "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,864 en 'Team Heretics'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-navi-th-2026-08-17-game1",
-   "titulo_es": "LoL: Natus Vincere vs Team Heretics - Ganador del Juego 1",
-   "narrativa": "La ballena ha entrado con $1,863 en Team Heretics para el Juego 1, un monto significativo que sugiere información privilegiada o convicción fuerte. Aunque el volumen de mercado no está disponible, la magnitud de la apuesta en un lado claro (compra) indica que el mercado podría estar infravalorando a este equipo. El edge potencial radica en seguir el flujo de dinero institucional, que históricamente tiende a tener mayor precisión en esports. Riesgo: posible manipulación de mercado o falta de liquidez en el evento."
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $14,205 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17-game4",
+   "titulo_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 4",
+   "narrativa": "La venta de DN SOOPers en el Juego 4 contra T1 muestra un desbalance claro: el mercado está pagando una prima por el lado perdedor histórico, y con $14,204 en juego, el edge proviene de explotar la sobrevaloración del underdog en un mapa donde T1 tiene un historial de cierre dominante. El consenso externo favorece a T1 en un ~70% de los escenarios, pero el precio implícito de DN SOOPers sugiere una probabilidad mayor, lo que genera un margen negativo para el comprador y positivo para el vendedor. Riesgo: posible corrección brusca si T1 rota su alineación o el draft favorece una composición de late game para DN SOOPers."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 53.38
+ "db_size_mb": 53.45
 }
