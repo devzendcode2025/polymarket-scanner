@@ -1,6 +1,6 @@
 {
- "ts": 1786999673,
- "stamp": "20260817_204753",
+ "ts": 1786999793,
+ "stamp": "20260817_204953",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -83,7 +83,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9856814.596318,
+   "volumen": 9858015.806317998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -103,7 +103,7 @@
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 988930.9213919996,
+   "volumen": 988939.7013919996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
@@ -113,7 +113,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987796.6545,
+   "volumen": 987796.6544999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -123,7 +123,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 987721.5342310001,
+   "volumen": 987721.534231,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -259,6 +259,16 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "US Cremonese vs. UC Sampdoria: O/U 2.5",
+   "slug": "itc-cre-sam-2026-08-17-total-2pt5",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 98341.146959,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "US Cremonese vs. UC Sampdoria: Más/Menos 2.5"
+  },
+  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -307,16 +317,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Lograrán los Arizona Diamondbacks asegurar un lugar en la Postemporada de la MLB 2026?"
-  },
-  {
-   "question": "APYX FDV above $50M one day after launch?",
-   "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7835,
-   "no": 0.2165,
-   "volumen": 9951.191957000003,
-   "spread": 0.0,
-   "categoria": "Ciencia y espacio",
-   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -326,5 +326,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 57.8
+ "db_size_mb": 57.81
 }
