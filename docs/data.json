@@ -1,6 +1,6 @@
 {
- "ts": 1786965464,
- "stamp": "20260817_111744",
+ "ts": 1786965524,
+ "stamp": "20260817_111844",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -31,9 +31,9 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0485,
-   "no": 0.9515,
-   "volumen": 9855795.177850993,
+   "yes": 0.047,
+   "no": 0.953,
+   "volumen": 9859436.602975998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -73,7 +73,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987562.6902610002,
+   "volumen": 987562.690261,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -183,7 +183,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 98958.79004499999,
+   "volumen": 98958.790045,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -191,8 +191,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0665,
-   "no": 0.9335,
+   "yes": 0.067,
+   "no": 0.933,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
