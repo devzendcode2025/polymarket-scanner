@@ -1,29 +1,29 @@
 {
- "ts": 1786994511,
- "stamp": "20260817_192151",
+ "ts": 1786994571,
+ "stamp": "20260817_192251",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa50ccad0b6e8635efef7ce9cc701ad6cc918fdc443ea897560fc22826e9cec4b",
-   "titulo": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
-   "slug": "wta-shnaide-chwalin-2026-08-17",
-   "outcome": "Diana Shnaider",
+   "market_id": "0x8c3a2f56da375106f7052f1021a520fe250afec5556b3344a4a48b8854f6df67",
+   "titulo": "Will the Republican Party win the OH-11 House seat?",
+   "slug": "will-the-republican-party-win-the-oh-11-house-seat",
+   "outcome": "No",
    "side": "BUY",
-   "size": 1420.25,
-   "price": 0.79,
-   "usd": 1122.0,
-   "ts": 1786994089,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,122 en 'Diana Shnaider'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-shnaide-chwalin-2026-08-17",
-   "titulo_es": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
-   "narrativa": "La compra de Diana Shnaider a 1122 USD refleja una fuerte convicción del mercado ante una rival (Chwalinska) con menor ranking y experiencia en pista dura, lo que amplía el edge a favor de la favorita. El monto concentrado sugiere que los operadores institucionales están posicionándose antes de que el consenso externo ajuste las probabilidades, capturando valor en el precio actual. Riesgo: posible falta de liquidez en mercados secundarios si el volumen total es bajo, lo que podría distorsionar la salida."
+   "size": 2169.99,
+   "price": 0.9567327084,
+   "usd": 2076.1,
+   "ts": 1786994391,
+   "categoria": "Política",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,076 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-the-republican-party-win-the-oh-11-house-seat",
+   "titulo_es": "¿Ganará el Partido Republicano el escaño de la Cámara OH-11?",
+   "narrativa": "La compra de 'No' en OH-11 refleja una apuesta contraria al consenso implícito en el precio actual, con un desembolso de $2,076 que busca capitalizar una posible corrección si el mercado sobreestima las probabilidades republicanas. El edge estimado proviene de la diferencia entre el precio de compra y el valor justo calculado por modelos de fundamentos electorales, aunque el volumen de mercado no reportado limita la confirmación de liquidez. Riesgo: baja liquidez podría ampliar el diferencial de ejecución."
   }
  ],
  "edges": [],
@@ -31,8 +31,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0395,
-   "no": 0.9605,
+   "yes": 0.037,
+   "no": 0.963,
    "volumen": 9928238.163293995,
    "spread": 0.0,
    "categoria": "Política",
@@ -231,8 +231,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.0435,
+   "no": 0.9565,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 56.59
+ "db_size_mb": 56.64
 }
