@@ -1,31 +1,10 @@
 {
- "ts": 1786951600,
- "stamp": "20260817_072640",
+ "ts": 1786951960,
+ "stamp": "20260817_073240",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x4309301a91299029ad86c47a79f96580e4082eaae05562829e2939439b49c00b",
-   "titulo": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
-   "slug": "lol-t1-dnf-2026-08-17",
-   "outcome": "DN SOOPers",
-   "side": "BUY",
-   "size": 2408.0,
-   "price": 0.48,
-   "usd": 1155.84,
-   "ts": 1786951122,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,156 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17",
-   "titulo_es": "LoL: T1 vs DN SOOPers (BO5) - Playoffs de la Copa KeSPA",
-   "narrativa": "La compra en DN SOOPers refleja una apuesta contraria al favoritismo inicial de T1, con un monto de $1,155.84 que sugiere convicción institucional en una sorpresa en el BO5. El edge proviene de la posible fatiga de T1 tras una temporada larga y el historial de DN en partidos de eliminación, aunque el consenso externo aún no se ha ajustado por completo. Riesgo: volumen de mercado no reportado, lo que puede amplificar la volatilidad del precio en caso de movimientos bruscos."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -33,7 +12,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0465,
    "no": 0.9535,
-   "volumen": 9846931.250612998,
+   "volumen": 9846931.250612995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -73,7 +52,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987542.6902610002,
+   "volumen": 987542.6902609997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -83,7 +62,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.002,
    "no": 0.998,
-   "volumen": 987368.8816040001,
+   "volumen": 987368.881604,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -141,8 +120,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.772162,
    "spread": 0.0,
    "categoria": "Otros",
@@ -181,8 +160,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.067,
-   "no": 0.933,
+   "yes": 0.066,
+   "no": 0.934,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -203,7 +182,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98752.448934,
+   "volumen": 98752.44893400001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -229,16 +208,6 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will the Democrats win the Ohio Senate race in 2026?",
-   "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
-   "yes": 0.525,
-   "no": 0.475,
-   "volumen": 98118.66974200003,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
-  },
-  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -261,8 +230,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0375,
-   "no": 0.9625,
+   "yes": 0.0315,
+   "no": 0.9685,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -277,14 +246,24 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "APYX FDV above $50M one day after launch?",
+   "slug": "apyx-fdv-above-50m-one-day-after-launch",
+   "yes": 0.8135,
+   "no": 0.1865,
+   "volumen": 9951.191957000005,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
-  "ts": 1786949924,
+  "ts": 1786951724,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 47.06
+ "db_size_mb": 47.18
 }
