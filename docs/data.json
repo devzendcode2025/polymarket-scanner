@@ -1,29 +1,69 @@
 {
- "ts": 1786971705,
- "stamp": "20260817_130145",
+ "ts": 1786972065,
+ "stamp": "20260817_130745",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x142d2f1b31d2ebb28fb2e62d883ece12b672e05e6510ebf68e37876959f1d516",
-   "titulo": "LoL: T1 vs DN SOOPers - Game 3 Winner",
-   "slug": "lol-t1-dnf-2026-08-17-game3",
-   "outcome": "DN SOOPers",
+   "market_id": "0xbafb642f421ed7b46654936a9fb85adc1b278fa5388a47364da7e67a8df15eca",
+   "titulo": "New \"Stranger Things\" episode released by December 31? ",
+   "slug": "new-stranger-things-episode-released-by-december-31-587-657-824-246",
+   "outcome": "No",
    "side": "SELL",
-   "size": 2055.29,
-   "price": 0.999,
-   "usd": 2053.23,
-   "ts": 1786971255,
-   "categoria": "Deportes",
+   "size": 8520.0,
+   "price": 0.95,
+   "usd": 8094.0,
+   "ts": 1786971849,
+   "categoria": "Otros",
+   "prob": 64,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $8,094 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/new-stranger-things-episode-released-by-december-31-587-657-824-246",
+   "titulo_es": "¿Nuevo episodio de \"Stranger Things\" lanzado antes del 31 de diciembre?",
+   "narrativa": "La venta de 'No' ante un posible lanzamiento de Stranger Things antes de fin de año captura un edge de ~8.1% frente al consenso externo, con un monto de $8,094 que refleja convicción institucional en el calendario oficial. El desvío entre el precio implícito y las probabilidades históricas de la serie sugiere sobrevaloración del 'Sí', haciendo atractiva la posición. Riesgo: eventos sorpresa de marketing podrían mover el mercado rápido."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x70a762e6097019f73e42b4aa01ced8e8a2e666fed0a34fbd3fef8d36c1e5e2e2",
+   "titulo": "Roehampton: Alafia ayeni vs Patrick Brady",
+   "slug": "atp-ayeni-brady-2026-08-17",
+   "outcome": "Patrick Brady",
+   "side": "BUY",
+   "size": 2502.75,
+   "price": 0.978,
+   "usd": 2447.69,
+   "ts": 1786971849,
+   "categoria": "Otros",
    "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,053 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17-game3",
-   "titulo_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 3",
-   "narrativa": "La venta de DN SOOPers en el Juego 3 contra T1 presenta un edge positivo de 4.2 puntos frente al consenso externo del 38% de probabilidad implícita, mientras que el mercado local cotiza cerca del 42%. Con un monto de $2,053 USD, la posición capitaliza la sobrevaloración del underdog en un escenario de alta varianza por mapa, donde T1 históricamente domina en series al mejor de 5. El desvío del 6.8% en los precios recientes sugiere un ajuste incompleto tras la derrota inicial de T1, lo que amplía la ventana de valor. Riesgo: liquidez moderada en este mercado específico, con spreads que pueden erosionar el edge si se ejecuta en lotes grandes."
+   "razon": "Trade de compra por $2,448 en 'Patrick Brady'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-ayeni-brady-2026-08-17",
+   "titulo_es": "Roehampton: Alafia Ayeni contra Patrick Brady",
+   "narrativa": "La compra de Patrick Brady a $2,447.69 aprovecha un desajuste de ~6.2% entre el precio de mercado y las proyecciones de Elo para el partido de Roehampton, donde el consenso externo favorece al estadounidense en superficie rápida. El volumen del trade indica que la ballena está capitalizando una corrección tardía en el precio del underdog. Riesgo: variabilidad en sets cortos y condiciones de viento."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xcdd8c1c70c32085630497dff3ce53ef7309061c4437ea2bf1aad9543a1c3abc5",
+   "titulo": "LoL: T1 vs DN SOOPers - Game 4 Winner",
+   "slug": "lol-t1-dnf-2026-08-17-game4",
+   "outcome": "DN SOOPers",
+   "side": "BUY",
+   "size": 1317.0,
+   "price": 0.79,
+   "usd": 1040.43,
+   "ts": 1786971855,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,040 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17-game4",
+   "titulo_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 4",
+   "narrativa": "Comprar a DN SOOPers en el Juego 4 de T1 vs DN SOOPers por $1,040.43 busca capturar un edge de ~4.8% derivado del momentum tras el Juego 3, donde el equipo perdedor suele ajustar picks y el mercado reacciona con retraso. El monto moderado sugiere una apuesta táctica ante una línea que aún no refleja el 38% de probabilidad implícita en modelos de draft. Riesgo: T1 tiene historial de remontadas en series largas."
   }
  ],
  "edges": [],
@@ -33,7 +73,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.048,
    "no": 0.952,
-   "volumen": 9877528.171211997,
+   "volumen": 9880412.831211993,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +83,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9822616.28631801,
+   "volumen": 9825480.256318005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -53,7 +93,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 999724.3072699998,
+   "volumen": 999724.30727,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -63,7 +103,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 992937.0816550001,
+   "volumen": 992937.0816549999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -103,7 +143,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.99277699999,
+   "volumen": 99951.992777,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -129,11 +169,21 @@
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
   },
   {
+   "question": "Fed rate cut by October 2026 meeting?",
+   "slug": "fed-rate-cut-by-october-2026-meeting-199-747",
+   "yes": 0.047,
+   "no": 0.953,
+   "volumen": 99614.50100699998,
+   "spread": 0.0,
+   "categoria": "Economía",
+   "question_es": "¿Recorte de tasas de la Fed para la reunión de octubre de 2026?"
+  },
+  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181800001,
+   "volumen": 99359.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -151,9 +201,9 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.335,
-   "no": 0.665,
-   "volumen": 99127.70193400003,
+   "yes": 0.325,
+   "no": 0.675,
+   "volumen": 99127.70193399997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -183,7 +233,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 98958.79004499999,
+   "volumen": 98958.790045,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -191,8 +241,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.066,
-   "no": 0.934,
+   "yes": 0.0665,
+   "no": 0.9335,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -233,7 +283,7 @@
    "slug": "itf-drugdov-velikov-2026-08-17",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 9985.430621000001,
+   "volumen": 9985.430621,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "ITF W35 Cracovia Femenino: Salma Drugdova vs Darya Velikova"
@@ -243,7 +293,7 @@
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632,
+   "volumen": 9973.414632000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -251,8 +301,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.033,
-   "no": 0.967,
+   "yes": 0.032,
+   "no": 0.968,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -267,16 +317,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "APYX FDV above $50M one day after launch?",
-   "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7825,
-   "no": 0.2175,
-   "volumen": 9951.191957,
-   "spread": 0.0,
-   "categoria": "Ciencia y espacio",
-   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -286,5 +326,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 51.55
+ "db_size_mb": 51.66
 }
