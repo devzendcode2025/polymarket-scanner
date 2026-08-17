@@ -1,29 +1,29 @@
 {
- "ts": 1786937736,
- "stamp": "20260817_033536",
+ "ts": 1786937796,
+ "stamp": "20260817_033636",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x542ea9fe1a48c357b45072ba9408b7e1eebee1252fe04882c3f50218ccd297fc",
-   "titulo": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
-   "slug": "atp-sonego-tiafoe-2026-08-16",
-   "outcome": "Frances Tiafoe",
-   "side": "SELL",
-   "size": 5894.73,
-   "price": 0.999,
-   "usd": 5888.84,
-   "ts": 1786937304,
+   "market_id": "0x8db706b23a24ae07be441d240e3168e55c2ad8b6dd32a1341198122b58be3df0",
+   "titulo": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
+   "slug": "wta-valento-svitoli-2026-08-16",
+   "outcome": "Elina Svitolina",
+   "side": "BUY",
+   "size": 4071.42857,
+   "price": 0.2799999999,
+   "usd": 1140.0,
+   "ts": 1786937601,
    "categoria": "Deportes",
-   "prob": 60,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $5,889 en 'Frances Tiafoe'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-sonego-tiafoe-2026-08-16",
-   "titulo_es": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
-   "narrativa": "El mercado muestra una posición de venta de 5,888 USD sobre Tiafoe, lo que sugiere que un operador grande está tomando beneficios o cubriendo una posición previa, creando una posible presión bajista en el precio de su victoria. Este flujo de salida, en un contexto de volumen no especificado, puede ofrecer una oportunidad de compra si el consenso externo favorece a Tiafoe como favorito, generando un edge positivo al entrar en contra del movimiento de la ballena. El cambio porcentual implícito en la probabilidad aún no se materializa, pero la dirección del flujo es señal de alerta para ajustar la posición antes de que el mercado se reajuste. Riesgo: posible ruido táctico si la venta es parte de una estrategia de cobertura más amplia."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,140 en 'Elina Svitolina'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-valento-svitoli-2026-08-16",
+   "titulo_es": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
+   "narrativa": "La compra de 1,140 USD sobre Elina Svitolina refleja una apuesta clara por la favorita del mercado, cuya experiencia en superficies rápidas como Cincinnati le da una ventaja técnica frente a una rival en ascenso pero menos consistente. El flujo de capital concentrado en este lado sugiere que los operadores grandes ven un desajuste en la probabilidad implícita, con un edge estimado de 5-8 puntos sobre el consenso externo. Riesgo: posible falta de liquidez en mercados de tenis menores, lo que puede ampliar el spread en momentos de alta volatilidad."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 43.96
+ "db_size_mb": 44.03
 }
