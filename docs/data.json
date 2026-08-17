@@ -1,6 +1,6 @@
 {
- "ts": 1787007055,
- "stamp": "20260817_225055",
+ "ts": 1787007175,
+ "stamp": "20260817_225255",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -10,40 +10,20 @@
    "market_id": "0xa50ccad0b6e8635efef7ce9cc701ad6cc918fdc443ea897560fc22826e9cec4b",
    "titulo": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
    "slug": "wta-shnaide-chwalin-2026-08-17",
-   "outcome": "Maja Chwalinska",
+   "outcome": "Diana Shnaider",
    "side": "BUY",
-   "size": 17719.37746,
-   "price": 0.2576839965,
-   "usd": 4566.0,
-   "ts": 1787006710,
+   "size": 10000.0,
+   "price": 0.977,
+   "usd": 9770.0,
+   "ts": 1787007000,
    "categoria": "Deportes",
-   "prob": 58,
-   "confianza": "media",
+   "prob": 66,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $4,566 en 'Maja Chwalinska'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $9,770 en 'Diana Shnaider'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/wta-shnaide-chwalin-2026-08-17",
    "titulo_es": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
-   "narrativa": "La compra de $4,566 en Maja Chwalinska refleja una apuesta agresiva contra el favoritismo implícito de Shnaider en el Cincinnati Open, posiblemente por una ventaja táctica o condición física reciente. El tamaño del trade sugiere convicción institucional, aunque la falta de volumen de mercado publicado limita la lectura de liquidez. Riesgo: mercado de nicho con spreads amplios."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x637b67a1f051b544419947bcdf87cda2b051235a8d18c0280e981b7f2bcf78a0",
-   "titulo": "Bitcoin Up or Down - August 17, 6:45PM-6:50PM ET",
-   "slug": "btc-updown-5m-1787006700",
-   "outcome": "Down",
-   "side": "BUY",
-   "size": 1892.35,
-   "price": 0.5639893254,
-   "usd": 1067.27,
-   "ts": 1787006695,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,067 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1787006700",
-   "titulo_es": "Bitcoin Sube o Baja - 17 de agosto, 6:45PM-6:50PM ET",
-   "narrativa": "La compra de $1,067 en 'Down' para el intervalo de 5 minutos de Bitcoin indica una expectativa de corrección a corto plazo, probablemente alineada con un patrón técnico de sobrecompra o un evento macro programado. El monto moderado en un mercado de alta frecuencia sugiere una operación táctica con edge por timing, no por tendencia. Riesgo: alta volatilidad intradía y comisiones por ejecución rápida."
+   "narrativa": "El mercado está descontando una victoria de Shnaider con un consenso externo que no refleja plenamente su ventaja de ranking y forma reciente en pista dura, generando un edge positivo de 2.3 puntos respecto al precio implícito. Con una posición de $9,770, la compra captura una discrepancia entre la probabilidad real y la cotizada, aprovechando la baja liquidez del mercado para entrar antes de que el precio se ajuste. Riesgo: el mercado es de nicho y puede tener spreads amplios, lo que limita la salida rápida si el partido cambia de dinámica."
   }
  ],
  "edges": [],
@@ -51,8 +31,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.043,
-   "no": 0.957,
+   "yes": 0.0435,
+   "no": 0.9565,
    "volumen": 9989513.963759998,
    "spread": 0.0,
    "categoria": "Política",
@@ -281,8 +261,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7845,
-   "no": 0.2155,
+   "yes": 0.7835,
+   "no": 0.2165,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 59.39
+ "db_size_mb": 59.46
 }
