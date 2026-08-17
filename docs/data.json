@@ -1,31 +1,10 @@
 {
- "ts": 1786929334,
- "stamp": "20260817_011534",
+ "ts": 1786929694,
+ "stamp": "20260817_012134",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xd0d5047962cda3915425e89c2786e599fcc1b14af67632d5c2b76d4e967251d0",
-   "titulo": "Cincinnati Open: Coco Gauff vs Liudmila Samsonova",
-   "slug": "wta-gauff-samsono-2026-08-16",
-   "outcome": "Coco Gauff",
-   "side": "BUY",
-   "size": 14295.6,
-   "price": 0.79,
-   "usd": 11293.52,
-   "ts": 1786928893,
-   "categoria": "Deportes",
-   "prob": 68,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $11,294 en 'Coco Gauff'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-gauff-samsono-2026-08-16",
-   "titulo_es": "Cincinnati Open: Coco Gauff vs Liudmila Samsonova",
-   "narrativa": "El mercado descuenta una ventaja clara para Coco Gauff, y la compra de 11,293 USD refleja una convicción institucional que busca capturar el diferencial de probabilidad implícita frente al consenso externo. El edge en puntos, aunque no se detalla, se infiere de la magnitud del monto en relación al volumen de mercado, sugiriendo una oportunidad de valor cuando el precio aún no ha ajustado por completo la brecha de rendimiento. Riesgo: posible corrección rápida si el mercado absorbe la liquidez en una sola dirección."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -42,7 +21,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Bitcoin Up or Down - August 16, 9:15PM-9:30PM ET",
+     "_poly_question": "Kyōto Sanga FC vs. FC Mito Holly Hock: Both Teams to Score",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -63,7 +42,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.049,
    "no": 0.951,
-   "volumen": 9830094.866220005,
+   "volumen": 9832451.046503996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -73,7 +52,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9809023.166318003,
+   "volumen": 9811434.151318002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -93,7 +72,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988676.4248569999,
+   "volumen": 988676.424857,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -123,7 +102,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 981482.6549380001,
+   "volumen": 981482.654938,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -133,7 +112,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.99277699999,
+   "volumen": 99951.99277700002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -143,17 +122,27 @@
    "slug": "will-the-republicans-win-the-iowa-senate-race-in-2026",
    "yes": 0.575,
    "no": 0.425,
-   "volumen": 99927.920065,
+   "volumen": 99927.92006499997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los Republicanos la carrera al Senado de Iowa en 2026?"
+  },
+  {
+   "question": "Will the price of Bitcoin be above $66,000 on August 17?",
+   "slug": "bitcoin-above-66k-on-august-17-2026",
+   "yes": 0.002,
+   "no": 0.998,
+   "volumen": 99852.45365,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin por encima de $66,000 el 17 de agosto?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900001,
+   "volumen": 99798.31490900004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -163,7 +152,7 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.077,
    "no": 0.923,
-   "volumen": 99781.706217,
+   "volumen": 99781.70621699998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
@@ -173,7 +162,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 99210.77216199998,
+   "volumen": 99210.772162,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -181,9 +170,9 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.032,
-   "no": 0.968,
-   "volumen": 99181.481818,
+   "yes": 0.0315,
+   "no": 0.9685,
+   "volumen": 99181.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -203,7 +192,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.583419,
+   "volumen": 99017.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -211,8 +200,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.068,
-   "no": 0.932,
+   "yes": 0.0685,
+   "no": 0.9315,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -223,7 +212,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98835.60276299999,
+   "volumen": 98858.23276299998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -253,20 +242,10 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 98118.669742,
+   "volumen": 98118.66974200001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
-  },
-  {
-   "question": "Will the price of Bitcoin be above $62,000 on August 17?",
-   "slug": "bitcoin-above-62k-on-august-17-2026",
-   "yes": 0.9405,
-   "no": 0.0595,
-   "volumen": 98086.73558099994,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Bitcoin por encima de $62,000 el 17 de agosto?"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -316,5 +295,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 42.14
+ "db_size_mb": 42.28
 }
