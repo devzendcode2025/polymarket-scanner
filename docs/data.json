@@ -1,6 +1,6 @@
 {
- "ts": 1786942237,
- "stamp": "20260817_045037",
+ "ts": 1786942597,
+ "stamp": "20260817_045637",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -220,8 +220,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0435,
-   "no": 0.9565,
+   "yes": 0.0395,
+   "no": 0.9605,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -265,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 44.97
+ "db_size_mb": 45.04
 }
