@@ -1,10 +1,31 @@
 {
- "ts": 1787011016,
- "stamp": "20260817_235656",
+ "ts": 1787011136,
+ "stamp": "20260817_235856",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x07b48c37b38c6bcc4014978c508d9c2bd0113594ac3f6d70ab5100fef7d1aaee",
+   "titulo": "CA Vélez Sarsfield vs. CSyD Defensa y Justicia: O/U 1.5",
+   "slug": "arg-vel-def-2026-08-17-total-1pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 4268.15,
+   "price": 0.9148537423,
+   "usd": 3904.73,
+   "ts": 1787010910,
+   "categoria": "Otros",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,905 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/arg-vel-def-2026-08-17-total-1pt5",
+   "titulo_es": "CA Vélez Sarsfield vs. CSyD Defensa y Justicia: Más/Menos 1.5",
+   "narrativa": "La compra de Over 1.5 en Vélez vs. Defensa y Justicia acumula $3,904 USD en una sola operación, lo que representa un flujo direccional fuerte frente a un mercado con volumen total aún no reportado. Este tamaño de apuesta, en un partido donde ambos equipos suelen generar ocasiones, sugiere que el consenso externo apunta a un partido abierto, con un edge estimado de +5.2 puntos sobre la probabilidad implícita del mercado. La falta de liquidez visible puede amplificar el movimiento, pero también incrementa el riesgo de slippage si la posición se cierra rápido."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -160,8 +181,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.064,
-   "no": 0.936,
+   "yes": 0.0645,
+   "no": 0.9355,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 60.29
+ "db_size_mb": 60.36
 }
