@@ -1,51 +1,10 @@
 {
- "ts": 1786940437,
- "stamp": "20260817_042037",
+ "ts": 1786940797,
+ "stamp": "20260817_042637",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xf96b8a156b81c16133c515d777f325d909e05497e31535e7830f48997155a06a",
-   "titulo": "Bitcoin Up or Down - August 17, 12:00AM-12:15AM ET",
-   "slug": "btc-updown-15m-1786939200",
-   "outcome": "Up",
-   "side": "BUY",
-   "size": 1602.82,
-   "price": 0.9966291786,
-   "usd": 1597.42,
-   "ts": 1786940002,
-   "categoria": "Cripto",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,597 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-15m-1786939200",
-   "titulo_es": "Bitcoin al alza o a la baja - 17 de agosto, 12:00AM-12:15AM ET",
-   "narrativa": "La señal de compra en Bitcoin para el período del 17 de agosto refleja un posicionamiento direccional con un monto de $1,597.42, lo que sugiere convicción en un movimiento alcista de corto plazo. Aunque el volumen de mercado no está disponible, el tamaño de la operación en relación con la ventana de 15 minutos indica una apuesta táctica que busca capturar volatilidad inmediata. Riesgo: alta sensibilidad a noticias macro de último minuto en un marco temporal muy reducido."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xf43f26d689db1915c955fcc219666c011d4d8a640ddab0849f360a6a1928dd0d",
-   "titulo": "Will Club Tijuana win on 2026-08-16?",
-   "slug": "mex-tij-caz-2026-08-16-tij",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 3628.82,
-   "price": 0.29,
-   "usd": 1052.36,
-   "ts": 1786940004,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,052 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mex-tij-caz-2026-08-16-tij",
-   "titulo_es": "¿Ganará el Club Tijuana el 2026-08-16?",
-   "narrativa": "La compra de 'Yes' para que el Club Tijuana gane el 16 de agosto de 2026, con una inversión de $1,052.36, representa una apuesta a un resultado binario con un horizonte de largo plazo. La falta de volumen de mercado reportado sugiere un nicho poco líquido, donde el monto colocado podría generar un impacto de precio desproporcionado a favor si el consenso externo subestima al equipo. Riesgo: poca liquidez y alta incertidumbre por la lejanía del evento."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -306,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 44.55
+ "db_size_mb": 44.63
 }
