@@ -1,6 +1,6 @@
 {
- "ts": 1786930594,
- "stamp": "20260817_013634",
+ "ts": 1786930654,
+ "stamp": "20260817_013734",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -73,7 +73,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9811434.151318002,
+   "volumen": 9812814.071318002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -93,7 +93,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988676.424857,
+   "volumen": 988676.4248569998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -123,7 +123,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 981482.654938,
+   "volumen": 981952.2849380001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -133,7 +133,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.99277700002,
+   "volumen": 99951.992777,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -143,7 +143,7 @@
    "slug": "will-the-republicans-win-the-iowa-senate-race-in-2026",
    "yes": 0.575,
    "no": 0.425,
-   "volumen": 99927.92006499997,
+   "volumen": 99927.92006500001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los Republicanos la carrera al Senado de Iowa en 2026?"
@@ -163,7 +163,7 @@
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99798.31490900004,
+   "volumen": 99798.31490900002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
@@ -173,7 +173,7 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.077,
    "no": 0.923,
-   "volumen": 99781.70621699998,
+   "volumen": 99781.706217,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
@@ -183,7 +183,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 99210.772162,
+   "volumen": 99210.77216199998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -193,7 +193,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0315,
    "no": 0.9685,
-   "volumen": 99181.48181800001,
+   "volumen": 99181.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -201,8 +201,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.315,
-   "no": 0.685,
+   "yes": 0.3,
+   "no": 0.7,
    "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -213,17 +213,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.58341900002,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will Loopscale launch a token by December 31, 2026?",
-   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 99017.58341900002,
+   "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -239,11 +229,21 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
+   "question": "Valorant: Cloud9 vs Evil Geniuses - Map 1 Winner",
+   "slug": "val-c9-eg2-2026-08-16-game1",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 98922.86700200001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Valorant: Cloud9 vs Evil Geniuses - Ganador del Mapa 1"
+  },
+  {
    "question": "US charges Hormuz fees by December 31, 2026?",
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98858.23276299998,
+   "volumen": 98858.23276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -269,16 +269,6 @@
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
   },
   {
-   "question": "Will the Democrats win the Ohio Senate race in 2026?",
-   "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
-   "yes": 0.525,
-   "no": 0.475,
-   "volumen": 98118.66974200001,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
-  },
-  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -287,6 +277,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
+  },
+  {
+   "question": "Set Handicap: Shelton (-1.5) vs Faria (+1.5)",
+   "slug": "atp-shelton-faria-2026-08-16-set-handicap-home-1pt5",
+   "yes": 0.0035,
+   "no": 0.9965,
+   "volumen": 9980.615199000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Hándicap de Sets: Shelton (-1.5) vs Faria (+1.5)"
   },
   {
    "question": "Will Julian Alvarez join Real Madrid?",
@@ -299,14 +299,14 @@
    "question_es": "¿Se unirá Julián Álvarez al Real Madrid?"
   },
   {
-   "question": "Will Truist fail by end of 2026?",
-   "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.036,
-   "no": 0.964,
-   "volumen": 9973.222389999999,
+   "question": "Club Santos Laguna vs. CD Guadalajara: O/U 2.5",
+   "slug": "mex-san-gua-2026-08-16-total-2pt5",
+   "yes": 0.465,
+   "no": 0.535,
+   "volumen": 9973.301481,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Quebrará Truist para finales de 2026?"
+   "categoria": "Otros",
+   "question_es": "Club Santos Laguna vs. CD Guadalajara: Más/Menos 2.5"
   }
  ],
  "historico": {
