@@ -1,6 +1,6 @@
 {
- "ts": 1786952680,
- "stamp": "20260817_074440",
+ "ts": 1786953040,
+ "stamp": "20260817_075040",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -11,9 +11,9 @@
    "question": "Will Byron Donalds win the Florida Republican Governor primary by at least 40%?",
    "slug": "will-byron-donalds-win-the-florida-republican-governor-primary-by-at-least-40-20260812190226839",
    "url": "https://polymarket.com/market/will-byron-donalds-win-the-florida-republican-governor-primary-by-at-least-40-20260812190226839",
-   "prob_poly": 39.5,
+   "prob_poly": 39.0,
    "consenso": 85.0,
-   "edge": 45.5,
+   "edge": 46.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -21,7 +21,7 @@
      "titulo": "Will Byron Donalds get 50.000% or more of the vote in the Florida Republican Primary for Governor?",
      "prob": 84.99999999999999,
      "url": "https://manifold.markets/Jack1/will-byron-donalds-get-50000-or-mor",
-     "_poly_question": "Will Cristiano Ronaldo be the #1 searched person on Google this year?",
+     "_poly_question": "Will Jack Reed be the Democratic nominee for Senate in Rhode Island?",
      "titulo_es": "¿Obtendrá Byron Donalds el 50.000% o más de los votos en las primarias republicanas para gobernador de Florida?"
     }
    ],
@@ -31,9 +31,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 39.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 85.0%: diferencia de 45.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 39.0% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 85.0%: diferencia de 46.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará Byron Donalds las primarias republicanas para gobernador de Florida por al menos un 40%?",
-   "narrativa": "El mercado de Polymarket valora en 39.5% la opción de que Byron Donalds supere el 40% en las primarias, mientras que el consenso externo de Manifold lo sitúa en 85%, generando un edge de 45.5 puntos a favor de comprar el 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real del evento, ofreciendo una oportunidad de valor significativo. Riesgo: la liquidez puede ser limitada y el consenso externo podría estar sesgado por muestras pequeñas."
+   "narrativa": "La plataforma paga 39.0 por el 'Sí', mientras que el consenso externo de Manifold lo sitúa en 85.0, lo que arroja un edge de 46 puntos a favor de comprar barato. Este diferencial sugiere que el mercado de Polymarket aún no ha absorbido plenamente la información de fuentes alternativas, ofreciendo una entrada con alta probabilidad implícita de corrección. Con un monto sugerido acorde a la liquidez disponible, la relación riesgo-retorno es favorable para capturar la convergencia de precios. Riesgo: posible falta de profundidad en la orden para salir rápido si el mercado se mueve en contra."
   }
  ],
  "top_volumen": [
@@ -42,27 +42,17 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0465,
    "no": 0.9535,
-   "volumen": 9846931.250612995,
+   "volumen": 9846931.250612998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
-  },
-  {
-   "question": "Will Michelle Bolsonaro win the 2026 Brazilian presidential election?",
-   "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9814308.593317997,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
   },
   {
    "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 992488.6977809999,
+   "volumen": 992551.4010310001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -82,7 +72,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987542.6902609997,
+   "volumen": 987542.6902610002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -112,7 +102,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.99277700004,
+   "volumen": 99951.992777,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -130,8 +120,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.0835,
-   "no": 0.9165,
+   "yes": 0.083,
+   "no": 0.917,
    "volumen": 99796.013695,
    "spread": 0.0,
    "categoria": "Política",
@@ -142,7 +132,7 @@
    "slug": "elon-musk-of-tweets-august-11-august-18-260-279",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 99337.91370800001,
+   "volumen": 99337.91370799998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 260 y 279 tuits del 11 de agosto al 18 de agosto de 2026?"
@@ -152,7 +142,7 @@
    "slug": "will-sunderland-win-the-2026-27-english-premier-league-epl-championship-20260701200428766",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 99229.758227,
+   "volumen": 99244.572227,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Sunderland el Campeonato de la Premier League inglesa (EPL) 2026-27?"
@@ -162,7 +152,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.12,
    "no": 0.88,
-   "volumen": 99210.77216200001,
+   "volumen": 99210.772162,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -172,7 +162,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.031,
    "no": 0.969,
-   "volumen": 99181.48181800004,
+   "volumen": 99181.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -192,7 +182,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.58341900002,
+   "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -222,7 +212,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98752.44893400001,
+   "volumen": 98752.448934,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -258,11 +248,21 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
+   "question": "Solana Up or Down - August 17, 12:00AM-4:00AM ET",
+   "slug": "sol-updown-4h-1786939200",
+   "yes": 0.93,
+   "no": 0.07,
+   "volumen": 9979.479215,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "Solana Sube o Baja - 17 de agosto, 12:00AM-4:00AM ET"
+  },
+  {
    "question": "Will Bruce Walden win the 2026 Alaska governor election?",
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632,
+   "volumen": 9973.414632000004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -295,5 +295,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 47.32
+ "db_size_mb": 47.39
 }
