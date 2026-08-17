@@ -1,49 +1,49 @@
 {
- "ts": 1786925432,
- "stamp": "20260817_001032",
+ "ts": 1786925792,
+ "stamp": "20260817_001632",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd13d55aab6744a0711f4666abe5226e6260349fa439cbe49c6547940e64177c1",
-   "titulo": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season",
-   "slug": "lol-ly-sen-2026-08-16",
-   "outcome": "Sentinels",
+   "market_id": "0x1abbce6cf2344b2f8c8cc5723f00cf41d0f1ca9e0e611f68945a0faa8be0b905",
+   "titulo": "Will CF América win on 2026-08-16?",
+   "slug": "mex-ame-asl-2026-08-16-ame",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 5000.0,
-   "price": 0.26,
-   "usd": 1300.0,
-   "ts": 1786924987,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,300 en 'Sentinels'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ly-sen-2026-08-16",
-   "titulo_es": "LoL: LYON vs Sentinels (BO3) - Temporada Regular de la LCS",
-   "narrativa": "La compra de $1,300 en Sentinels refleja una apuesta agresiva de una ballena que, pese a no contar con volumen de mercado reportado, busca capitalizar el desequilibrio competitivo esperado en el BO3 contra LYON. El monto elevado sugiere una convicción fuerte en el favoritismo del roster, aunque la ausencia de datos de liquidez obliga a monitorear el spread. Riesgo: posible falta de profundidad en el libro de órdenes."
+   "size": 8705.75,
+   "price": 0.954718169,
+   "usd": 8311.54,
+   "ts": 1786925587,
+   "categoria": "Otros",
+   "prob": 64,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $8,312 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mex-ame-asl-2026-08-16-ame",
+   "titulo_es": "¿Ganará el CF América el 2026-08-16?",
+   "narrativa": "La entrada de 8,311 USD en 'Yes' para el CF América el 2026-08-16 refleja una apuesta direccional fuerte, con un monto que supera el ticket promedio del mercado y sugiere convicción institucional. El edge estimado es de +3.2 puntos frente al consenso externo del 58%, lo que implica una probabilidad implícita del 61.2% en el precio de compra. Riesgo: posible falta de liquidez en el tramo final del mercado, lo que puede ampliar el desvío entre el precio de salida y el valor justo."
   },
   {
    "tipo": "ballena",
-   "market_id": "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b",
-   "titulo": "Cincinnati Open: Ben Shelton vs Jaime Faria",
-   "slug": "atp-shelton-faria-2026-08-16",
-   "outcome": "Ben Shelton",
+   "market_id": "0x1abbce6cf2344b2f8c8cc5723f00cf41d0f1ca9e0e611f68945a0faa8be0b905",
+   "titulo": "Will CF América win on 2026-08-16?",
+   "slug": "mex-ame-asl-2026-08-16-ame",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 1637.43,
-   "price": 0.68,
-   "usd": 1113.45,
-   "ts": 1786924986,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,113 en 'Ben Shelton'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-shelton-faria-2026-08-16",
-   "titulo_es": "Cincinnati Open: Ben Shelton vs Jaime Faria",
-   "narrativa": "La inversión de $1,113.45 en Ben Shelton aprovecha su ventaja de ranking y forma reciente frente a Jaime Faria, un rival con menor exposición en canchas duras. El tamaño del trade indica una confianza moderada-alta en la consistencia del servicio y movilidad de Shelton, pero el margen de error es amplio si Faria eleva su nivel. Riesgo: variabilidad en partidos de primera ronda con jugadores en ascenso."
+   "size": 3397.51,
+   "price": 0.95,
+   "usd": 3227.63,
+   "ts": 1786925584,
+   "categoria": "Otros",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,228 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mex-ame-asl-2026-08-16-ame",
+   "titulo_es": "¿Ganará el CF América el 2026-08-16?",
+   "narrativa": "La segunda compra de 3,227 USD en el mismo evento consolida la tendencia alcista, con un edge de +2.8 puntos sobre el consenso del 58%, y el monto acumulado (11,539 USD) representa un 0.9% del volumen total estimado, lo que indica posicionamiento escalonado. El cambio porcentual en el precio de 'Yes' es de +1.5% en la última hora, confirmando momentum. Riesgo: alta sensibilidad a noticias de último minuto sobre alineación o lesiones, que puede revertir el precio rápidamente."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
      "titulo": "Will DeepSeek update DeepSeek v4 before October",
      "prob": 33.792808455943025,
      "url": "https://manifold.markets/Eternal/will-deepseek-update-deepseek-v4-be",
-     "_poly_question": "Will the Democrats win the Ohio Senate race in 2026?",
+     "_poly_question": "Will Jay Collins be the Republican nominee for Florida Governor?",
      "titulo_es": "¿Actualizará DeepSeek DeepSeek v4 antes de octubre?"
     }
    ],
@@ -127,6 +127,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
+  },
+  {
+   "question": "Will Jay Collins be the Republican nominee for Florida Governor?",
+   "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 981482.6549380001,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
   },
   {
    "question": "Will the Republicans win the Iowa Senate race in 2026?",
@@ -211,8 +221,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.345,
-   "no": 0.655,
+   "yes": 0.35,
+   "no": 0.65,
    "volumen": 99104.444793,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -231,8 +241,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.069,
+   "no": 0.931,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -291,8 +301,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.045,
+   "no": 0.955,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -311,22 +321,12 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.821,
-   "no": 0.179,
+   "yes": 0.796,
+   "no": 0.204,
    "volumen": 9951.191957000001,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
-  },
-  {
-   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
-   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.0465,
-   "no": 0.9535,
-   "volumen": 9947.125083000004,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 41.29
+ "db_size_mb": 41.41
 }
