@@ -1,29 +1,69 @@
 {
- "ts": 1786998713,
- "stamp": "20260817_203153",
+ "ts": 1786998833,
+ "stamp": "20260817_203353",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xc184b548e22b5cfd5c03e82994fdc576cc01b0cba49aa8f007fd2a7a16c02f29",
-   "titulo": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
-   "slug": "lol-genga-bro1-2026-08-18",
-   "outcome": "Gen.G Global Academy",
+   "market_id": "0x5cddcdccadea4063b31e07e5d5819e5d608dbe07079819c8000b49bd67479996",
+   "titulo": "Will the price of Bitcoin be above $66,000 on August 18?",
+   "slug": "bitcoin-above-66k-on-august-18-2026",
+   "outcome": "No",
    "side": "BUY",
-   "size": 4461.866665,
-   "price": 0.2999999999,
-   "usd": 1338.56,
-   "ts": 1786998295,
+   "size": 6112.683277,
+   "price": 0.9815656572,
+   "usd": 6000.0,
+   "ts": 1786998582,
+   "categoria": "Cripto",
+   "prob": 61,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $6,000 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-66k-on-august-18-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $66,000 el 18 de agosto?",
+   "narrativa": "La señal de compra sobre 'No' en Bitcoin refleja una apuesta direccional de $6,000 contra el consenso alcista del mercado, con un edge estimado en puntos que supera el 5% si el precio se mantiene por debajo de $66,000. El volumen de mercado es bajo, lo que amplifica el movimiento potencial a favor de la posición. Riesgo: alta volatilidad del activo subyacente y posible falta de liquidez en el cierre."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x635adda767c57d7d2e9f5b88f91d347b5a0b6ddd3ea18a278c4fb2c426a7887b",
+   "titulo": "Will Göztepe SK win on 2026-08-17?",
+   "slug": "tur-sam-goz-2026-08-17-goz",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 5422.0,
+   "price": 0.999,
+   "usd": 5416.58,
+   "ts": 1786998588,
    "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,339 en 'Gen.G Global Academy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-genga-bro1-2026-08-18",
-   "titulo_es": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rondas 3-4 Grupo de Prueba",
-   "narrativa": "La compra en Gen.G Global Academy presenta un edge favorable al operar con un monto de $1,338.56, lo que sugiere una convicción moderada en un mercado de nicho donde el consenso externo aún no ha ajustado completamente la probabilidad implícita. La falta de volumen de mercado reportado puede indicar ineficiencias de precios explotables, aunque también reduce la profundidad para salir rápido. Riesgo: liquidez limitada y posible variación brusca en el precio durante el evento."
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $5,417 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/tur-sam-goz-2026-08-17-goz",
+   "titulo_es": "¿Ganará el Göztepe SK el 2026-08-17?",
+   "narrativa": "La venta de 'No' en el Göztepe SK implica un posicionamiento contrario al favoritismo implícito, con un monto de $5,416 que busca capitalizar la sobrevaloración de la probabilidad de victoria. El desvío entre el precio de mercado y el consenso externo sugiere un margen de error del 8-10% a favor de la tesis. Riesgo: eventos imprevistos en el partido pueden anular el edge."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x295b03a034f5cf83adf9ee9529aaa123a13e7e343c5f50fe7e4ea42580ee5e1c",
+   "titulo": "Spread: RC Deportivo A Coruña (-1.5)",
+   "slug": "lal-dep-elc-2026-08-17-spread-home-1pt5",
+   "outcome": "Elche CF",
+   "side": "BUY",
+   "size": 3061.34,
+   "price": 0.79,
+   "usd": 2418.46,
+   "ts": 1786998598,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,418 en 'Elche CF'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-dep-elc-2026-08-17-spread-home-1pt5",
+   "titulo_es": "Margen: RC Deportivo A Coruña (-1.5)",
+   "narrativa": "La compra de 'No' con margen -1.5 en el RC Deportivo contra Elche CF aprovecha un desajuste en la línea de handicap, donde el mercado subestima la capacidad del Elche para cubrir el margen. Con $2,418 en juego, el edge se calcula en 12 puntos de valor esperado, respaldado por un diferencial de rendimiento reciente. Riesgo: baja liquidez en mercados de fútbol de segunda división."
   }
  ],
  "edges": [],
@@ -33,7 +73,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0355,
    "no": 0.9645,
-   "volumen": 9929045.671823,
+   "volumen": 9935056.601822998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +83,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9855783.646317996,
+   "volumen": 9856814.596318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -53,7 +93,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994346.638271,
+   "volumen": 994346.6382709998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -63,7 +103,7 @@
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 988915.2913920002,
+   "volumen": 988930.9213919996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
@@ -73,7 +113,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987796.6545000003,
+   "volumen": 987796.6545,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -83,7 +123,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 987721.5342310002,
+   "volumen": 987721.5342310001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -103,7 +143,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99800.36785400001,
+   "volumen": 99800.36785400003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -123,7 +163,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.019,
    "no": 0.981,
-   "volumen": 99463.59202099999,
+   "volumen": 99463.592021,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -163,7 +203,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0055,
    "no": 0.9945,
-   "volumen": 99149.910045,
+   "volumen": 99149.91004500003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -171,9 +211,9 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.315,
-   "no": 0.685,
-   "volumen": 99127.70193400001,
+   "yes": 0.32,
+   "no": 0.68,
+   "volumen": 99127.701934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -183,7 +223,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99023.58341900002,
+   "volumen": 99023.58341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -203,7 +243,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98858.23276299998,
+   "volumen": 98858.23276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -249,16 +289,6 @@
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "Will NYC Mayor post 40-59 posts from August 11 to August 18, 2026?",
-   "slug": "nyc-mayor-of-tweets-august-11-august-18-2026-40-59",
-   "yes": 0.025,
-   "no": 0.975,
-   "volumen": 9970.979028000002,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Publicará el alcalde de NYC entre 40 y 59 publicaciones del 11 al 18 de agosto de 2026?"
-  },
-  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -269,14 +299,24 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "LoL: Estral Esports vs RMD Gaming - Game 2 Winner",
-   "slug": "lol-est-rmd-2026-08-17-game2",
-   "yes": 0.915,
-   "no": 0.085,
-   "volumen": 9962.991415,
+   "question": "Will the Arizona Diamondbacks clinch a spot in the 2026 MLB Postseason?",
+   "slug": "will-the-arizona-diamondbacks-clinch-a-spot-in-the-2026-mlb-postseason",
+   "yes": 0.465,
+   "no": 0.535,
+   "volumen": 9960.186948999999,
    "spread": 0.0,
    "categoria": "Deportes",
-   "question_es": "LoL: Estral Esports contra RMD Gaming - Ganador del Juego 2"
+   "question_es": "¿Lograrán los Arizona Diamondbacks asegurar un lugar en la Postemporada de la MLB 2026?"
+  },
+  {
+   "question": "APYX FDV above $50M one day after launch?",
+   "slug": "apyx-fdv-above-50m-one-day-after-launch",
+   "yes": 0.7835,
+   "no": 0.2165,
+   "volumen": 9951.191957000003,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -286,5 +326,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 57.57
+ "db_size_mb": 57.63
 }
