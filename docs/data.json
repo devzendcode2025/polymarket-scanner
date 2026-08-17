@@ -1,31 +1,10 @@
 {
- "ts": 1786961202,
- "stamp": "20260817_100642",
+ "ts": 1786961563,
+ "stamp": "20260817_101243",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x7b38e84a2db88fdc8e1b4107e0943a4f1d2c0f35da42f17600cc9f19e91e4929",
-   "titulo": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In",
-   "slug": "cs2-raccoo-ff-2026-08-17",
-   "outcome": "Fire Flux Esports",
-   "side": "BUY",
-   "size": 3837.08,
-   "price": 0.29,
-   "usd": 1112.75,
-   "ts": 1786960737,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,113 en 'Fire Flux Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-raccoo-ff-2026-08-17",
-   "titulo_es": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In",
-   "narrativa": "La compra en Fire Flux Esports a $1,112.75 refleja una apuesta agresiva sobre un equipo que parte como favorito implícito en el BO3, con el mercado aún sin volumen consolidado, lo que permite capturar precio antes de que se ajuste el consenso. El monto comprometido es significativo para un play-in, sugiriendo convicción direccional. Riesgo: mercado con liquidez limitada y posible variación brusca de odds."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -43,7 +22,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 992902.6116549999,
+   "volumen": 992937.0816549999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -93,7 +72,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.992777,
+   "volumen": 99951.99277699999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -123,7 +102,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99270.481818,
+   "volumen": 99359.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -131,8 +110,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -241,8 +220,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.045,
-   "no": 0.955,
+   "yes": 0.0415,
+   "no": 0.9585,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -259,24 +238,24 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the highest temperature in Milan be 29°C on August 17?",
-   "slug": "highest-temperature-in-milan-on-august-17-2026-29c",
-   "yes": 0.2525,
-   "no": 0.7475,
-   "volumen": 9959.173065000004,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Milán de 29°C el 17 de agosto?"
-  },
-  {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.811,
-   "no": 0.189,
+   "yes": 0.818,
+   "no": 0.182,
    "volumen": 9951.191957,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
+  },
+  {
+   "question": "Will White House post 160-179 posts from August 11 to August 18, 2026?",
+   "slug": "white-house-of-tweets-august-11-august-18-2026-160-179",
+   "yes": 0.0465,
+   "no": 0.9535,
+   "volumen": 9947.629259,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Publicará la Casa Blanca entre 160 y 179 publicaciones del 11 al 18 de agosto de 2026?"
   }
  ],
  "historico": {
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 49.19
+ "db_size_mb": 49.33
 }
