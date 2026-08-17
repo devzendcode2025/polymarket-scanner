@@ -1,6 +1,6 @@
 {
- "ts": 1786990370,
- "stamp": "20260817_181250",
+ "ts": 1786990490,
+ "stamp": "20260817_181450",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -251,8 +251,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.008,
-   "no": 0.992,
+   "yes": 0.0075,
+   "no": 0.9925,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -261,8 +261,8 @@
   {
    "question": "Will Astralis Win the CS2 EWC 2026?",
    "slug": "will-astralis-win-the-cs2-ewc-2026-20260810160005090",
-   "yes": 0.015,
-   "no": 0.985,
+   "yes": 0.0135,
+   "no": 0.9865,
    "volumen": 98141.724375,
    "spread": 0.0,
    "categoria": "Otros",
