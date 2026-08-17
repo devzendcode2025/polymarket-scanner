@@ -1,29 +1,29 @@
 {
- "ts": 1787006454,
- "stamp": "20260817_224054",
+ "ts": 1787006574,
+ "stamp": "20260817_224254",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7e6718fd1675f06b536283230079f89ab4807a59829796063f8903b9be17da28",
-   "titulo": "Dallas Wings vs. Golden State Valkyries",
-   "slug": "wnba-dal-gsv-2026-08-17",
-   "outcome": "Dallas Wings",
-   "side": "BUY",
-   "size": 35000.0,
-   "price": 0.3,
-   "usd": 10500.0,
-   "ts": 1787006107,
-   "categoria": "Otros",
-   "prob": 67,
-   "confianza": "alta",
+   "market_id": "0x36fc2020db287a9af339df0cd043afbe27c045ea29a6191c11051341149c8d9c",
+   "titulo": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo",
+   "slug": "atp-jodar-tabilo-2026-08-17",
+   "outcome": "Alejandro Tabilo",
+   "side": "SELL",
+   "size": 21325.53,
+   "price": 0.1010086408,
+   "usd": 2154.06,
+   "ts": 1787006406,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $10,500 en 'Dallas Wings'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-dal-gsv-2026-08-17",
-   "titulo_es": "Dallas Wings vs. Golden State Valkyries",
-   "narrativa": "La compra de 10,500 USD en Dallas Wings refleja una apuesta institucional clara, con un flujo que representa una fracción significativa del volumen esperado en un mercado de WNBA con liquidez moderada. El consenso externo favorece a Golden State, pero este movimiento contrario sugiere que los grandes operadores ven valor en el precio actual de las Wings, probablemente por una corrección excesiva en sus probabilidades implícitas. El edge estimado ronda los 4-6 puntos porcentuales frente al mercado, justificando el tamaño de la posición. Riesgo: el volumen de mercado no reportado podría amplificar el impacto de noticias de última hora."
+   "razon": "Trade de venta por $2,154 en 'Alejandro Tabilo'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-jodar-tabilo-2026-08-17",
+   "titulo_es": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo",
+   "narrativa": "El mercado descuenta a Alejandro Tabilo como favorito, pero el consenso externo (odds de casas de apuestas) sugiere una probabilidad de victoria aún mayor que la implícita en el precio de venta, generando un edge positivo de +4.2 puntos. Con un monto de $2,154 USD, la posición aprovecha la discrepancia entre la percepción del mercado y el modelo predictivo, ofreciendo una oportunidad de capturar valor en un evento de tenis con alta volatilidad. Riesgo: el partido es en pista rápida, donde Jodar ha mostrado solidez en sets cortos, lo que podría reducir el margen de error."
   }
  ],
  "edges": [],
@@ -31,8 +31,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.044,
-   "no": 0.956,
+   "yes": 0.0435,
+   "no": 0.9565,
    "volumen": 9975431.403006995,
    "spread": 0.0,
    "categoria": "Política",
@@ -131,8 +131,8 @@
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.018,
-   "no": 0.982,
+   "yes": 0.0185,
+   "no": 0.9815,
    "volumen": 99463.59202099999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -161,8 +161,8 @@
   {
    "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
-   "yes": 0.0055,
-   "no": 0.9945,
+   "yes": 0.005,
+   "no": 0.995,
    "volumen": 99149.91004500001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -241,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0355,
-   "no": 0.9645,
+   "yes": 0.0315,
+   "no": 0.9685,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 59.24
+ "db_size_mb": 59.33
 }
