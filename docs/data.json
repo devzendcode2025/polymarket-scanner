@@ -1,31 +1,10 @@
 {
- "ts": 1786944098,
- "stamp": "20260817_052138",
+ "ts": 1786944458,
+ "stamp": "20260817_052738",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xf43f26d689db1915c955fcc219666c011d4d8a640ddab0849f360a6a1928dd0d",
-   "titulo": "Will Club Tijuana win on 2026-08-16?",
-   "slug": "mex-tij-caz-2026-08-16-tij",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 1093.0,
-   "price": 0.96,
-   "usd": 1049.28,
-   "ts": 1786943605,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,049 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mex-tij-caz-2026-08-16-tij",
-   "titulo_es": "¿Ganará el Club Tijuana el 2026-08-16?",
-   "narrativa": "La venta de 'Yes' en el mercado de Tijuana ofrece un edge de +4.2 puntos frente al consenso externo del 38%, con un monto de $1,049 USD que captura liquidez suficiente para posicionarse sin distorsionar el precio. El desvío del 7.8% respecto a la media de los últimos 30 días sugiere una sobrevaloración temporal del optimismo local, que el mercado aún no ha corregido. Riesgo: baja profundidad en horas nocturnas, lo que podría ampliar el spread si se busca salir rápido."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -261,8 +240,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.039,
-   "no": 0.961,
+   "yes": 0.04,
+   "no": 0.96,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 45.39
+ "db_size_mb": 45.54
 }
