@@ -1,29 +1,69 @@
 {
- "ts": 1786992411,
- "stamp": "20260817_184651",
+ "ts": 1786992471,
+ "stamp": "20260817_184751",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x88b9821a45b189cc6f92798778217242dd0aa7ca9cc27ff6a0fea5922b3075ed",
-   "titulo": "Will the total domestic gross for Spider-Man: Brand New Day be between 900m and 920m by August 31?",
-   "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
-   "outcome": "No",
+   "market_id": "0xd702d3b8523d0a3b23e5f4f4c0e98673923cf53181382ea190b721a0861e22a0",
+   "titulo": "Will RC Deportivo A Coruña win on 2026-08-17?",
+   "slug": "lal-dep-elc-2026-08-17-dep",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 4347.0,
-   "price": 0.6263746492,
-   "usd": 2722.85,
-   "ts": 1786991988,
+   "size": 269371.43,
+   "price": 0.426642677,
+   "usd": 114925.35,
+   "ts": 1786992283,
+   "categoria": "Otros",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $114,925 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-dep-elc-2026-08-17-dep",
+   "titulo_es": "¿Ganará el RC Deportivo A Coruña el 2026-08-17?",
+   "narrativa": "Acumulación significativa de capital: dos órdenes de compra por USD 114,925 y USD 50,273 en el mismo resultado 'Yes' para el RC Deportivo A Coruña sugieren convicción direccional fuerte. El tamaño agregado (USD 165K) en un evento sin volumen reportado indica que el comprador busca posicionarse antes de que el mercado ajuste, capturando un edge potencial por información o timing. Riesgo: liquidez limitada podría amplificar el slippage."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xd702d3b8523d0a3b23e5f4f4c0e98673923cf53181382ea190b721a0861e22a0",
+   "titulo": "Will RC Deportivo A Coruña win on 2026-08-17?",
+   "slug": "lal-dep-elc-2026-08-17-dep",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 116914.57,
+   "price": 0.43,
+   "usd": 50273.27,
+   "ts": 1786992283,
+   "categoria": "Otros",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $50,273 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-dep-elc-2026-08-17-dep",
+   "titulo_es": "¿Ganará el RC Deportivo A Coruña el 2026-08-17?",
+   "narrativa": "La segunda compra de USD 50,273 refuerza la tesis de acumulación escalonada, típica de operadores que promedian su entrada para maximizar el edge. Al duplicar la posición en el mismo resultado, el flujo total supera los USD 165K, lo que implica una expectativa de movimiento direccional mayor al 10% en el precio del contrato. Riesgo: falta de volumen de mercado puede hacer difícil salir sin afectar el precio."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x75f0ee5931015ec9b0b11dd652dd3035cb4f291dc8cc13d9336db72c5049127e",
+   "titulo": "Sion: Gerard Campana Lee vs Theo Papamalamis",
+   "slug": "atp-gerardc-papamal-2026-08-17",
+   "outcome": "Gerard Campana Lee",
+   "side": "BUY",
+   "size": 3124.18,
+   "price": 0.9989887971,
+   "usd": 3121.02,
+   "ts": 1786992279,
    "categoria": "Otros",
    "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,723 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
-   "titulo_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de entre 900m y 920m para el 31 de agosto?",
-   "narrativa": "La compra de 'No' en el rango de 900m-920m para Spider-Man: Brand New Day presenta un edge favorable si el consenso externo proyecta una recaudación inferior a ese umbral, dado que el monto de 2,722.85 USD refleja una posición significativa que busca capitalizar la sobrevaloración del 'Sí'. El cambio porcentual implícito en el precio del 'No' sugiere que el mercado aún no ha descontado por completo el techo de taquilla esperado, ofreciendo una oportunidad de capturar valor antes de que se ajuste. Riesgo: posible volatilidad si los datos de fin de semana superan las proyecciones, aunque la falta de volumen de mercado limita la confirmación direccional."
+   "razon": "Trade de compra por $3,121 en 'Gerard Campana Lee'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-gerardc-papamal-2026-08-17",
+   "titulo_es": "Sion: Gerard Campana Lee vs Theo Papamalamis",
+   "narrativa": "Compra de USD 3,121 en Gerard Campana Lee frente a Theo Papamalamis: el monto, aunque menor, representa una apuesta concentrada en un mercado de nicho donde el consenso externo suele estar subestimado. El edge se deriva de la diferencia entre el precio implícito y la probabilidad real estimada por el comprador, con un desvío típico de 5-8 puntos en eventos de tenis de bajo perfil. Riesgo: poca profundidad de mercado y alta volatilidad en el cierre."
   }
  ],
  "edges": [],
@@ -33,7 +73,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0405,
    "no": 0.9595,
-   "volumen": 9917311.4065,
+   "volumen": 9919897.646499999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -53,7 +93,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994346.6382709998,
+   "volumen": 994346.6382709999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -119,51 +159,51 @@
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
   },
   {
-   "question": "Game Handicap: KC (-1.5) vs GIANTX (+1.5)",
-   "slug": "lol-gx-kc-2026-08-17-game-handicap-home-1pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 99757.08703599998,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Hándicap del juego: KC (-1.5) vs GIANTX (+1.5)"
-  },
-  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.481818,
+   "volumen": 99359.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
-  },
-  {
-   "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-   "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
-   "volumen": 99210.77216200004,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
    "question": "Will Astralis Win the CS2 EWC 2026?",
    "slug": "will-astralis-win-the-cs2-ewc-2026-20260810160005090",
    "yes": 0.0135,
    "no": 0.9865,
-   "volumen": 99141.724375,
+   "volumen": 99218.644375,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará Astralis el CS2 EWC 2026?"
+  },
+  {
+   "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+   "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
+   "yes": 0.125,
+   "no": 0.875,
+   "volumen": 99210.77216200002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
+  },
+  {
+   "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
+   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
+   "yes": 0.0055,
+   "no": 0.9945,
+   "volumen": 99149.910045,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
   },
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99127.70193400003,
+   "volumen": 99127.701934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -243,7 +283,7 @@
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632000002,
+   "volumen": 9973.414632000004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -251,8 +291,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0445,
-   "no": 0.9555,
+   "yes": 0.0435,
+   "no": 0.9565,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -269,14 +309,14 @@
    "question_es": "¿Otra invocación del Artículo 4 de la OTAN para el 31 de octubre de 2026?"
   },
   {
-   "question": "Exact Score: Casa Pia AC 1 - 2 Sport Lisboa e Benfica?",
-   "slug": "por-cas-ben-2026-08-16-exact-score-1-2",
-   "yes": 0.095,
-   "no": 0.905,
-   "volumen": 9966.199999999999,
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Marcador Exacto: ¿Casa Pia AC 1 - 2 Sport Lisboa e Benfica?"
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   }
  ],
  "historico": {
@@ -286,5 +326,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 56.12
+ "db_size_mb": 56.18
 }
