@@ -1,49 +1,29 @@
 {
- "ts": 1786929034,
- "stamp": "20260817_011034",
+ "ts": 1786929094,
+ "stamp": "20260817_011134",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b",
-   "titulo": "Cincinnati Open: Ben Shelton vs Jaime Faria",
-   "slug": "atp-shelton-faria-2026-08-16",
-   "outcome": "Ben Shelton",
+   "market_id": "0xd0d5047962cda3915425e89c2786e599fcc1b14af67632d5c2b76d4e967251d0",
+   "titulo": "Cincinnati Open: Coco Gauff vs Liudmila Samsonova",
+   "slug": "wta-gauff-samsono-2026-08-16",
+   "outcome": "Coco Gauff",
    "side": "BUY",
-   "size": 16125.55,
-   "price": 0.8,
-   "usd": 12900.44,
-   "ts": 1786928586,
+   "size": 14295.6,
+   "price": 0.79,
+   "usd": 11293.52,
+   "ts": 1786928893,
    "categoria": "Deportes",
-   "prob": 70,
+   "prob": 68,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $12,900 en 'Ben Shelton'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-shelton-faria-2026-08-16",
-   "titulo_es": "Cincinnati Open: Ben Shelton vs Jaime Faria",
-   "narrativa": "La compra de $12,900 en Ben Shelton refleja una apuesta significativa contra el consenso externo, que probablemente favorece a Faria en términos de valor percibido. Este monto, al ser inusualmente alto para el mercado del Cincinnati Open, sugiere que el comprador identifica un edge de precios en la línea actual, potencialmente por una ventaja de forma o superficie que no está totalmente descontada. El volumen de mercado no especificado añade incertidumbre, pero la magnitud del trade indica convicción. Riesgo: posible falta de liquidez en mercados de tenis de rondas tempranas."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x0c6d03f0b479bfe5dedd2b0a90495dbb206928cec815a9ac5ce1c740de32b9fc",
-   "titulo": "Bitcoin Up or Down - August 16, 9:00PM-9:05PM ET",
-   "slug": "btc-updown-5m-1786928400",
-   "outcome": "Up",
-   "side": "BUY",
-   "size": 2500.0,
-   "price": 0.999,
-   "usd": 2497.5,
-   "ts": 1786928595,
-   "categoria": "Cripto",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,498 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1786928400",
-   "titulo_es": "Bitcoin Sube o Baja - 16 de agosto, 9:00PM-9:05PM ET",
-   "narrativa": "La compra de $2,497.5 en 'Up' para el movimiento de Bitcoin en la ventana de 5 minutos del 16 de agosto busca capitalizar un desvío típico de alta volatilidad intradía, donde el consenso externo suele estar dividido. Este monto, aunque moderado, es suficiente para mover la aguja en un mercado de corto plazo, sugiriendo que el comprador espera un edge basado en momentum o noticias programadas. El cambio porcentual implícito en la oferta actual puede estar rezagado respecto a la probabilidad real de un movimiento alcista en ese lapso. Riesgo: alta sensibilidad a eventos de último minuto y spreads amplios en ventanas cortas."
+   "razon": "Trade de compra por $11,294 en 'Coco Gauff'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-gauff-samsono-2026-08-16",
+   "titulo_es": "Cincinnati Open: Coco Gauff vs Liudmila Samsonova",
+   "narrativa": "El mercado descuenta una ventaja clara para Coco Gauff, y la compra de 11,293 USD refleja una convicción institucional que busca capturar el diferencial de probabilidad implícita frente al consenso externo. El edge en puntos, aunque no se detalla, se infiere de la magnitud del monto en relación al volumen de mercado, sugiriendo una oportunidad de valor cuando el precio aún no ha ajustado por completo la brecha de rendimiento. Riesgo: posible corrección rápida si el mercado absorbe la liquidez en una sola dirección."
   }
  ],
  "edges": [
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 42.07
+ "db_size_mb": 42.13
 }
