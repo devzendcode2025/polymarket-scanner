@@ -1,29 +1,49 @@
 {
- "ts": 1786955501,
- "stamp": "20260817_083141",
+ "ts": 1786955561,
+ "stamp": "20260817_083241",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x6851b5caa77cb7e71ece1652a991d84c84640ec54cf58a2be940b0c40b410aae",
-   "titulo": "Will the highest temperature in Munich be 23°C on August 17?",
-   "slug": "highest-temperature-in-munich-on-august-17-2026-23c",
+   "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+   "titulo": "US announces end of Iranian blockade by August 31, 2026?",
+   "slug": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
    "outcome": "No",
    "side": "BUY",
-   "size": 5809.13,
-   "price": 0.9981316445,
-   "usd": 5798.28,
-   "ts": 1786955020,
+   "size": 3500.0,
+   "price": 0.87,
+   "usd": 3045.0,
+   "ts": 1786955322,
    "categoria": "Otros",
-   "prob": 60,
-   "confianza": "alta",
+   "prob": 56,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $5,798 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/highest-temperature-in-munich-on-august-17-2026-23c",
-   "titulo_es": "¿Será la temperatura máxima en Múnich de 23°C el 17 de agosto?",
-   "narrativa": "La señal de compra en 'No' para la temperatura máxima en Múnich refleja un consenso externo que anticipa condiciones más frescas, con un desvío histórico que favorece este escenario. El monto de 5,798 USD inyecta liquidez direccional, lo que sugiere que el mercado está absorbiendo posiciones contrarias al pronóstico cálido. Con un edge estimado en puntos que supera el umbral de rentabilidad ajustado por comisiones, la relación riesgo-recompensa es favorable en el corto plazo. Riesgo: posible volatilidad por actualizaciones meteorológicas de última hora."
+   "razon": "Trade de compra por $3,045 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
+   "titulo_es": "¿EE. UU. anuncia el fin del bloqueo iraní antes del 31 de agosto de 2026?",
+   "narrativa": "La compra de 'No' capitaliza un consenso externo que ve improbable un cambio de política tan drástico en ese plazo, con un edge estimado que supera el 5% sobre la probabilidad implícita del mercado. El monto de $3,045 refleja una posición moderada que busca capturar la convergencia hacia el precio justo antes de que el mercado ajuste. Riesgo: eventos geopolíticos de última hora pueden mover el precio abruptamente."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x4309301a91299029ad86c47a79f96580e4082eaae05562829e2939439b49c00b",
+   "titulo": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "slug": "lol-t1-dnf-2026-08-17",
+   "outcome": "DN SOOPers",
+   "side": "BUY",
+   "size": 3628.21,
+   "price": 0.73,
+   "usd": 2648.59,
+   "ts": 1786955328,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,649 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17",
+   "titulo_es": "LoL: T1 vs DN SOOPers (BO5) - Playoffs de la Copa KeSPA",
+   "narrativa": "La compra de DN SOOPers en un BO5 aprovecha un desajuste entre la percepción pública y el rendimiento reciente del equipo, con un edge proyectado de 8-10 puntos sobre el consenso externo. El monto de $2,648.59 indica una apuesta calculada a que la ventaja de mapa y el meta actual favorecen al underdog en una serie larga. Riesgo: la varianza de un BO5 puede diluir la ventaja teórica si T1 ajusta su draft."
   }
  ],
  "edges": [
@@ -63,7 +83,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0465,
    "no": 0.9535,
-   "volumen": 9846931.250613,
+   "volumen": 9847036.140613005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -101,9 +121,9 @@
   {
    "question": "Will Jay Collins be the Republican nominee for Florida Governor?",
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
-   "yes": 0.002,
-   "no": 0.998,
-   "volumen": 987374.8876039999,
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 987374.8876039998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -117,6 +137,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
+  },
+  {
+   "question": "Will Elon Musk post 260-279 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-260-279",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 99989.79370799998,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 260 y 279 tuits del 11 de agosto al 18 de agosto de 2026?"
   },
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
@@ -147,16 +177,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
-  },
-  {
-   "question": "Will Elon Musk post 260-279 tweets from August 11 to August 18, 2026?",
-   "slug": "elon-musk-of-tweets-august-11-august-18-260-279",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 99629.793708,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 260 y 279 tuits del 11 de agosto al 18 de agosto de 2026?"
   },
   {
    "question": "Will Sunderland win the 2026-27 English Premier League (EPL) Championship?",
@@ -193,7 +213,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99127.70193400006,
+   "volumen": 99127.70193400004,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -223,7 +243,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98858.23276299998,
+   "volumen": 98858.23276299996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -233,7 +253,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98752.448934,
+   "volumen": 98832.44893399999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -243,7 +263,7 @@
    "slug": "will-trump-and-putin-not-meet-432",
    "yes": 0.605,
    "no": 0.395,
-   "volumen": 98647.60602299999,
+   "volumen": 98647.60602300001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿No se reunirán Trump y Putin?"
@@ -291,8 +311,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0345,
-   "no": 0.9655,
+   "yes": 0.0475,
+   "no": 0.9525,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -316,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 47.9
+ "db_size_mb": 47.96
 }
