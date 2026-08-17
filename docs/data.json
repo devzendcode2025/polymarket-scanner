@@ -1,29 +1,49 @@
 {
- "ts": 1786991211,
- "stamp": "20260817_182651",
+ "ts": 1786991571,
+ "stamp": "20260817_183251",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "market_id": "0x99f7be5ed2c5df9fe042dc1f3563cf959df4abf2e1b97d925a6d054200690f3f",
+   "titulo": "Will Samsunspor vs. Göztepe SK end in a draw?",
+   "slug": "tur-sam-goz-2026-08-17-draw",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 5438.0,
+   "price": 0.3,
+   "usd": 1631.4,
+   "ts": 1786991385,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,631 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/tur-sam-goz-2026-08-17-draw",
+   "titulo_es": "¿Terminará en empate Samsunspor vs. Göztepe SK?",
+   "narrativa": "La compra de 'Yes' al empate en Samsunspor vs. Göztepe SK refleja una apuesta direccional de $1,631 USD, lo que sugiere que el operador identifica un desajuste entre el precio implícito del mercado y la probabilidad real de un empate, un resultado históricamente infravalorado en partidos de ligas menores. Si el consenso externo (modelos de cuotas) sitúa el empate por encima del precio actual, el edge puede ser de varios puntos porcentuales, justificando el tamaño de la posición. Riesgo: la liquidez en estos mercados puede ser limitada, amplificando el slippage en caso de movimientos bruscos."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+   "titulo": "Will the U.S. invade Iran before 2027?",
+   "slug": "will-the-us-invade-iran-before-2027",
    "outcome": "No",
    "side": "BUY",
-   "size": 10000.0,
-   "price": 0.28,
-   "usd": 2800.0,
-   "ts": 1786990779,
-   "categoria": "Economía",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,800 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?",
-   "narrativa": "La señal de compra en 'No' para cambios en tasas de la Fed en septiembre 2026 se apoya en un consenso externo que descuenta una pausa prolongada, con un edge estimado de +4.2 puntos sobre el precio implícito actual. El monto asignado de $2,800 representa una posición moderada que capitaliza la baja volatilidad esperada en el calendario de la Fed, sin sobrecargar el riesgo direccional. Riesgo: el mercado puede repreciar rápidamente si los datos de inflación sorprenden al alza antes de la reunión."
+   "size": 1787.0,
+   "price": 0.83,
+   "usd": 1483.21,
+   "ts": 1786991379,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,483 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-the-us-invade-iran-before-2027",
+   "titulo_es": "¿Invadirá EE. UU. a Irán antes de 2027?",
+   "narrativa": "La compra de 'No' a una invasión de EE. UU. a Irán antes de 2027, con $1,483 USD, capitaliza un sesgo de aversión al riesgo que suele inflar los precios de eventos geopolíticos extremos. El consenso externo de analistas y modelos de riesgo sitúa la probabilidad de invasión en un rango muy bajo (típicamente <10%), por lo que si el mercado cotiza ese escenario a un 15-20%, el edge a favor del 'No' es sustancial. La magnitud del trade indica convicción en que el precio actual sobreestima el riesgo de conflicto directo. Riesgo: eventos de cola (escalada imprevista) pueden causar pérdidas rápidas, aunque la posición es acotada."
   }
  ],
  "edges": [],
@@ -31,9 +51,9 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0425,
-   "no": 0.9575,
-   "volumen": 9916244.246499998,
+   "yes": 0.0405,
+   "no": 0.9595,
+   "volumen": 9917311.4065,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -53,7 +73,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994346.638271,
+   "volumen": 994346.6382709998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -113,17 +133,27 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99590.36785400001,
+   "volumen": 99790.36785400003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
+  },
+  {
+   "question": "Game Handicap: KC (-1.5) vs GIANTX (+1.5)",
+   "slug": "lol-gx-kc-2026-08-17-game-handicap-home-1pt5",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 99757.08703599998,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Hándicap del juego: KC (-1.5) vs GIANTX (+1.5)"
   },
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181800001,
+   "volumen": 99359.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -133,17 +163,27 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.12,
    "no": 0.88,
-   "volumen": 99210.77216200001,
+   "volumen": 99210.77216200004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
+  },
+  {
+   "question": "Will Astralis Win the CS2 EWC 2026?",
+   "slug": "will-astralis-win-the-cs2-ewc-2026-20260810160005090",
+   "yes": 0.0135,
+   "no": 0.9865,
+   "volumen": 99141.724375,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará Astralis el CS2 EWC 2026?"
   },
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99127.70193400001,
+   "volumen": 99127.70193400003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -211,8 +251,8 @@
   {
    "question": "Will Elon Musk post 80-99 tweets from August 14 to August 21, 2026?",
    "slug": "elon-musk-of-tweets-august-14-august-21-80-99",
-   "yes": 0.0115,
-   "no": 0.9885,
+   "yes": 0.0095,
+   "no": 0.9905,
    "volumen": 98224.564989,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -243,7 +283,7 @@
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632,
+   "volumen": 9973.414632000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -251,40 +291,20 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.032,
-   "no": 0.968,
+   "yes": 0.0395,
+   "no": 0.9605,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
-  },
-  {
-   "question": "Another NATO Article 4 invocation by October 31, 2026?",
-   "slug": "another-nato-article-4-invocation-by-october-31-2026-20260726214511853",
-   "yes": 0.23,
-   "no": 0.77,
-   "volumen": 9973.130335,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Otra invocación del Artículo 4 de la OTAN para el 31 de octubre de 2026?"
-  },
-  {
-   "question": "Exact Score: Casa Pia AC 1 - 2 Sport Lisboa e Benfica?",
-   "slug": "por-cas-ben-2026-08-16-exact-score-1-2",
-   "yes": 0.095,
-   "no": 0.905,
-   "volumen": 9966.199999999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Marcador Exacto: ¿Casa Pia AC 1 - 2 Sport Lisboa e Benfica?"
   }
  ],
  "historico": {
-  "ts": 1786989595,
+  "ts": 1786991395,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 55.88
+ "db_size_mb": 56.0
 }
