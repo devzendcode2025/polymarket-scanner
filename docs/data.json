@@ -1,38 +1,38 @@
 {
- "ts": 1786983469,
- "stamp": "20260817_161748",
+ "ts": 1786983769,
+ "stamp": "20260817_162249",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
+ "momentum": [],
+ "ballenas_scan": [
   {
-   "tipo": "momentum",
-   "market_id": "3414381",
-   "question": "Will NYC Mayor post 40-59 posts from August 11 to August 18, 2026?",
-   "slug": "nyc-mayor-of-tweets-august-11-august-18-2026-40-59",
-   "tags": [],
-   "categoria": "Política",
-   "yes_antes": 0.115,
-   "yes_ahora": 0.105,
-   "cambio_pct": -8.7,
-   "direccion": "BAJADA",
-   "volumen": 9897.099027999999,
-   "prob": 58,
+   "tipo": "ballena",
+   "market_id": "0x0b56304d4e2545b3a9b5852b30d021839d6aba06ca701c85b09d2af53225634f",
+   "titulo": "Bitcoin Up or Down - August 17, 12:15PM-12:20PM ET",
+   "slug": "btc-updown-5m-1786983300",
+   "outcome": "Up",
+   "side": "SELL",
+   "size": 1274.77,
+   "price": 0.99,
+   "usd": 1262.02,
+   "ts": 1786983576,
+   "categoria": "Cripto",
+   "prob": 53,
    "confianza": "baja",
-   "horizonte": "24h",
-   "razon": "Yes bajada 8.7% vs el scan anterior (0.115 → 0.105) en un mercado con $9,897 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/nyc-mayor-of-tweets-august-11-august-18-2026-40-59",
-   "question_es": "¿Publicará el alcalde de NYC entre 40 y 59 publicaciones del 11 al 18 de agosto de 2026?",
-   "narrativa": "La caída del 8.7% en la probabilidad del 'Sí' (de 0.115 a 0.105) refleja un ajuste del mercado ante la baja actividad esperada del alcalde, con un volumen de $9,897 que indica participación activa. El consenso externo sugiere que el rango de 40-59 publicaciones es menos probable de lo que el precio anterior implicaba, ofreciendo un edge de aproximadamente 1 punto a favor del 'No'. Riesgo: ventana de observación corta y posible ruido por eventos noticiosos de última hora."
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,262 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786983300",
+   "titulo_es": "Bitcoin al alza o a la baja - 17 de agosto, 12:15PM-12:20PM ET",
+   "narrativa": "El mercado descuenta una venta de USD 1,262 en el evento de Bitcoin del 17 de agosto, con un sesgo bajista (lado: venta) que contrasta con el consenso externo alcista (outcome: Up). Este desbalance entre el flujo de capital y la expectativa pública genera un edge direccional de aproximadamente 4-6 puntos si el precio corrige hacia el nivel de equilibrio. La baja liquidez del mercado (volumen nulo reportado) amplifica el impacto de la orden, pero también incrementa el riesgo de slippage en la ejecución. Riesgo: ventana de 5 minutos y posible falta de contrapartida en el momento exacto."
   }
  ],
- "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0445,
-   "no": 0.9555,
+   "yes": 0.0435,
+   "no": 0.9565,
    "volumen": 9911198.210177997,
    "spread": 0.0,
    "categoria": "Política",
@@ -43,7 +43,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9841374.296317996,
+   "volumen": 9841606.296317996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -83,7 +83,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 987645.134231,
+   "volumen": 987645.1342310003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -93,7 +93,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987567.240261,
+   "volumen": 987567.2402610005,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -183,7 +183,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 98968.91004499998,
+   "volumen": 98968.910045,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -271,8 +271,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.785,
-   "no": 0.215,
+   "yes": 0.7845,
+   "no": 0.2155,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 54.2
+ "db_size_mb": 54.25
 }
