@@ -1,6 +1,6 @@
 {
- "ts": 1786926693,
- "stamp": "20260817_003133",
+ "ts": 1786926753,
+ "stamp": "20260817_003233",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -81,9 +81,9 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0515,
-   "no": 0.9485,
-   "volumen": 9825448.968670001,
+   "yes": 0.0525,
+   "no": 0.9475,
+   "volumen": 9827318.848669996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -103,7 +103,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 988676.4248569998,
+   "volumen": 988676.424857,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -133,7 +133,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 981482.654938,
+   "volumen": 981482.6549379997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -191,8 +191,8 @@
   {
    "question": "Will Elon Musk post 180-199 tweets from August 11 to August 18, 2026?",
    "slug": "elon-musk-of-tweets-august-11-august-18-180-199",
-   "yes": 0.295,
-   "no": 0.705,
+   "yes": 0.31,
+   "no": 0.69,
    "volumen": 99310.2228760001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -241,8 +241,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0705,
-   "no": 0.9295,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -283,7 +283,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 98118.66974199998,
+   "volumen": 98118.66974200004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -311,8 +311,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0365,
-   "no": 0.9635,
+   "yes": 0.036,
+   "no": 0.964,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -336,5 +336,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 41.59
+ "db_size_mb": 41.6
 }
