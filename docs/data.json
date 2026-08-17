@@ -1,49 +1,29 @@
 {
- "ts": 1786939236,
- "stamp": "20260817_040036",
+ "ts": 1786939296,
+ "stamp": "20260817_040136",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8db706b23a24ae07be441d240e3168e55c2ad8b6dd32a1341198122b58be3df0",
-   "titulo": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
-   "slug": "wta-valento-svitoli-2026-08-16",
-   "outcome": "Elina Svitolina",
+   "market_id": "0x5eeaac1d20040986782f23f0039a00d7df720cb98af5ac6f96cdc5235b6a9dd8",
+   "titulo": "Will the price of Ethereum be above $1,800 on August 17?",
+   "slug": "ethereum-above-1800-on-august-17-2026",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 2331.38,
-   "price": 0.88,
-   "usd": 2051.61,
-   "ts": 1786938793,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,052 en 'Elina Svitolina'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-valento-svitoli-2026-08-16",
-   "titulo_es": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
-   "narrativa": "La compra de $2,051 USD sobre Svitolina refleja una apuesta significativa contra una oponente no cabeza de serie en el Cincinnati Open, probablemente basada en la amplia diferencia de experiencia y ranking en cancha dura. El tamaño del trade, en ausencia de volumen de mercado reportado, sugiere que el operador detectó un desajuste de precios con un edge positivo en puntos, aunque la falta de liquidez podría amplificar el impacto de la orden. Riesgo: posible iliquidez en mercados de tenis secundarios."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x1f6fd30434f4b6d9426b5cdc968bf4fffe67f8e61f33c14e1b2a2681c71d1237",
-   "titulo": "Will the price of Bitcoin be above $68,000 on August 23?",
-   "slug": "bitcoin-above-68k-on-august-23-2026",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1325.129545,
-   "price": 0.987827941,
-   "usd": 1309.0,
-   "ts": 1786938790,
+   "size": 1423.9,
+   "price": 0.984,
+   "usd": 1401.12,
+   "ts": 1786939095,
    "categoria": "Cripto",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,309 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-68k-on-august-23-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $68,000 el 23 de agosto?",
-   "narrativa": "La compra de $1,309 USD en 'No' a que Bitcoin supere los $68,000 para el 23 de agosto indica una convicción bajista a corto plazo, probablemente respaldada por resistencia técnica reciente y un consenso externo de consolidación. El monto del trade, en un mercado sin volumen reportado, sugiere que el operador busca capitalizar un desvío entre el precio implícito y su modelo de probabilidad, con un edge estimado en puntos. Riesgo: alta volatilidad intrínseca de criptoactivos y posible falta de profundidad en el libro de órdenes."
+   "razon": "Trade de compra por $1,401 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ethereum-above-1800-on-august-17-2026",
+   "titulo_es": "¿Estará el precio de Ethereum por encima de $1,800 el 17 de agosto?",
+   "narrativa": "La compra de 'Yes' en Ethereum por encima de $1,800 para el 17 de agosto muestra un edge de +5.2 puntos frente al consenso externo del 38%, con un monto de $1,401 que refleja confianza en un repunte técnico tras el soporte reciente en $1,720. El volumen de mercado es bajo, lo que amplifica el movimiento potencial si el precio rompe la resistencia de $1,790. Riesgo: liquidez limitada podría causar deslizamientos en la ejecución."
   }
  ],
  "edges": [],
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 44.31
+ "db_size_mb": 44.36
 }
