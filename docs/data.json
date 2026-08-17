@@ -1,29 +1,29 @@
 {
- "ts": 1786938036,
- "stamp": "20260817_034036",
+ "ts": 1786938096,
+ "stamp": "20260817_034136",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8db706b23a24ae07be441d240e3168e55c2ad8b6dd32a1341198122b58be3df0",
-   "titulo": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
-   "slug": "wta-valento-svitoli-2026-08-16",
-   "outcome": "Elina Svitolina",
+   "market_id": "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93",
+   "titulo": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+   "slug": "atp-paul-vallejo-2026-08-17",
+   "outcome": "Tommy Paul",
    "side": "BUY",
-   "size": 4071.42857,
-   "price": 0.2799999999,
-   "usd": 1140.0,
-   "ts": 1786937601,
+   "size": 2479.034689,
+   "price": 0.8067656362,
+   "usd": 2000.0,
+   "ts": 1786937898,
    "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,140 en 'Elina Svitolina'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-valento-svitoli-2026-08-16",
-   "titulo_es": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
-   "narrativa": "La compra de 1,140 USD sobre Elina Svitolina refleja una apuesta clara por la favorita del mercado, cuya experiencia en superficies rápidas como Cincinnati le da una ventaja técnica frente a una rival en ascenso pero menos consistente. El flujo de capital concentrado en este lado sugiere que los operadores grandes ven un desajuste en la probabilidad implícita, con un edge estimado de 5-8 puntos sobre el consenso externo. Riesgo: posible falta de liquidez en mercados de tenis menores, lo que puede ampliar el spread en momentos de alta volatilidad."
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Tommy Paul'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-paul-vallejo-2026-08-17",
+   "titulo_es": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+   "narrativa": "La compra de Tommy Paul a $2000 refleja una clara asimetría de valor, dado que el consenso externo lo sitúa como favorito abrumador ante Adolfo Vallejo, un rival con menor historial en pistas duras de nivel ATP. El edge implícito en la cuota supera los 15 puntos porcentuales frente a la probabilidad neutral del mercado, y el monto asignado aprovecha la ventana antes de que el volumen ajuste el precio. Riesgo: posible falta de liquidez en mercados de tenis secundarios, lo que podría retrasar la ejecución óptima."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 44.04
+ "db_size_mb": 44.11
 }
