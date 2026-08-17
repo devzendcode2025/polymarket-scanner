@@ -1,6 +1,6 @@
 {
- "ts": 1786997872,
- "stamp": "20260817_201752",
+ "ts": 1786997992,
+ "stamp": "20260817_201952",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -83,7 +83,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9855389.426317995,
+   "volumen": 9855783.646317996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -103,7 +103,7 @@
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 988915.2913919999,
+   "volumen": 988915.2913920002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
@@ -113,7 +113,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987796.6545,
+   "volumen": 987796.6545000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -123,7 +123,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 987721.5342310001,
+   "volumen": 987721.5342310002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -229,16 +229,6 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Loopscale launch a token by December 31, 2026?",
-   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 99023.583419,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.066,
@@ -253,7 +243,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98858.23276299999,
+   "volumen": 98858.23276299998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -317,6 +307,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "LoL: Estral Esports vs RMD Gaming - Game 2 Winner",
+   "slug": "lol-est-rmd-2026-08-17-game2",
+   "yes": 0.89,
+   "no": 0.11,
+   "volumen": 9962.991415,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: Estral Esports contra RMD Gaming - Ganador del Juego 2"
   }
  ],
  "historico": {
