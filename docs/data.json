@@ -1,6 +1,6 @@
 {
- "ts": 1786966364,
- "stamp": "20260817_113244",
+ "ts": 1786966424,
+ "stamp": "20260817_113344",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -33,10 +33,20 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0465,
    "no": 0.9535,
-   "volumen": 9859436.602975998,
+   "volumen": 9859888.892975997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
+  },
+  {
+   "question": "Will Michelle Bolsonaro win the 2026 Brazilian presidential election?",
+   "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9815207.943318002,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
   },
   {
    "question": "Will Jay Collins be the Republican nominee for Florida Governor?",
@@ -73,7 +83,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987562.690261,
+   "volumen": 987562.6902610001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -267,16 +277,6 @@
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
-  },
-  {
-   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
-   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.0465,
-   "no": 0.9535,
-   "volumen": 9947.125083000004,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
