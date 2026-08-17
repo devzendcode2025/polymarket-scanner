@@ -1,29 +1,29 @@
 {
- "ts": 1787006214,
- "stamp": "20260817_223654",
+ "ts": 1787006334,
+ "stamp": "20260817_223854",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x1cd0dc75c3a4b485b6f75314457c9a69bca292e7763b10675f20baddfe76f0cb",
-   "titulo": "Will CSyD Defensa y Justicia win on 2026-08-17?",
-   "slug": "arg-vel-def-2026-08-17-def",
-   "outcome": "No",
+   "market_id": "0x7e6718fd1675f06b536283230079f89ab4807a59829796063f8903b9be17da28",
+   "titulo": "Dallas Wings vs. Golden State Valkyries",
+   "slug": "wnba-dal-gsv-2026-08-17",
+   "outcome": "Dallas Wings",
    "side": "BUY",
-   "size": 1688.0,
-   "price": 0.93,
-   "usd": 1569.84,
-   "ts": 1787005801,
+   "size": 35000.0,
+   "price": 0.3,
+   "usd": 10500.0,
+   "ts": 1787006107,
    "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,570 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/arg-vel-def-2026-08-17-def",
-   "titulo_es": "¿Ganará CSyD Defensa y Justicia el 2026-08-17?",
-   "narrativa": "La compra de 'No' en Defensa y Justicia muestra una clara apuesta contra el equipo local, con un monto de $1,569.84 que sugiere convicción institucional. El edge implícito se apoya en que el consenso externo no favorece al club para esa fecha, y el desvío entre el precio actual y el valor justo estimado justifica la entrada. Riesgo: el volumen de mercado es bajo, lo que puede amplificar el slippage en la salida."
+   "prob": 67,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $10,500 en 'Dallas Wings'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wnba-dal-gsv-2026-08-17",
+   "titulo_es": "Dallas Wings vs. Golden State Valkyries",
+   "narrativa": "La compra de 10,500 USD en Dallas Wings refleja una apuesta institucional clara, con un flujo que representa una fracción significativa del volumen esperado en un mercado de WNBA con liquidez moderada. El consenso externo favorece a Golden State, pero este movimiento contrario sugiere que los grandes operadores ven valor en el precio actual de las Wings, probablemente por una corrección excesiva en sus probabilidades implícitas. El edge estimado ronda los 4-6 puntos porcentuales frente al mercado, justificando el tamaño de la posición. Riesgo: el volumen de mercado no reportado podría amplificar el impacto de noticias de última hora."
   }
  ],
  "edges": [],
@@ -31,8 +31,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0425,
-   "no": 0.9575,
+   "yes": 0.044,
+   "no": 0.956,
    "volumen": 9975431.403006995,
    "spread": 0.0,
    "categoria": "Política",
@@ -131,8 +131,8 @@
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.0185,
-   "no": 0.9815,
+   "yes": 0.018,
+   "no": 0.982,
    "volumen": 99463.59202099999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -171,8 +171,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.315,
-   "no": 0.685,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 99127.70193399998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -191,8 +191,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0655,
-   "no": 0.9345,
+   "yes": 0.0685,
+   "no": 0.9315,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 59.19
+ "db_size_mb": 59.24
 }
