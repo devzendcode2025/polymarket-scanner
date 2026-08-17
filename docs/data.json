@@ -1,6 +1,6 @@
 {
- "ts": 1786993371,
- "stamp": "20260817_190251",
+ "ts": 1786993491,
+ "stamp": "20260817_190451",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -43,7 +43,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9843485.096317995,
+   "volumen": 9854973.666317998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -83,7 +83,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 987721.5342309999,
+   "volumen": 987721.5342310002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -201,9 +201,9 @@
   {
    "question": "Will Elon Musk post 80-99 tweets from August 14 to August 21, 2026?",
    "slug": "elon-musk-of-tweets-august-14-august-21-80-99",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 98634.56498899999,
+   "yes": 0.0085,
+   "no": 0.9915,
+   "volumen": 98759.564989,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 80 y 99 tuits del 14 de agosto al 21 de agosto de 2026?"
