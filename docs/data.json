@@ -1,6 +1,6 @@
 {
- "ts": 1786980768,
- "stamp": "20260817_153248",
+ "ts": 1786980888,
+ "stamp": "20260817_153448",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -53,7 +53,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0455,
    "no": 0.9545,
-   "volumen": 9893846.330178,
+   "volumen": 9893846.330177998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -63,7 +63,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9840582.276318006,
+   "volumen": 9841152.276318002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -99,6 +99,16 @@
    "question_es": "¿Ganará Josh Stein la nominación presidencial demócrata de 2028?"
   },
   {
+   "question": "Will Pablo Marçal win the 2026 Brazilian presidential election?",
+   "slug": "will-pablo-marcal-win-the-2026-brazilian-presidential-election",
+   "yes": 0.0115,
+   "no": 0.9885,
+   "volumen": 987838.5173540002,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Pablo Marçal las elecciones presidenciales de Brasil de 2026?"
+  },
+  {
    "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
@@ -109,16 +119,6 @@
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
-   "question": "Will Pablo Marçal win the 2026 Brazilian presidential election?",
-   "slug": "will-pablo-marcal-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0115,
-   "no": 0.9885,
-   "volumen": 987268.6173539998,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Pablo Marçal las elecciones presidenciales de Brasil de 2026?"
-  },
-  {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
@@ -127,6 +127,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
+  },
+  {
+   "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
+   "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
+   "yes": 0.0065,
+   "no": 0.9935,
+   "volumen": 982098.954231,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
   },
   {
    "question": "NATO x Russia military clash by October 31, 2026?",
@@ -201,8 +211,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.33,
-   "no": 0.67,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -213,7 +223,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 98958.79004499999,
+   "volumen": 98958.79004500002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -241,22 +251,12 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.008,
-   "no": 0.992,
+   "yes": 0.0075,
+   "no": 0.9925,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
-  },
-  {
-   "question": "Will Pisa SC win on 2026-08-17?",
-   "slug": "itc-pis-emp-2026-08-17-pis",
-   "yes": 0.595,
-   "no": 0.405,
-   "volumen": 98252.25034400001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará Pisa SC el 17 de agosto de 2026?"
   },
   {
    "question": "Will Google be the third-best Math AI lab at the end of August 2026?",
