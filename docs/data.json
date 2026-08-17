@@ -1,10 +1,30 @@
 {
- "ts": 1786972606,
- "stamp": "20260817_131646",
+ "ts": 1786972666,
+ "stamp": "20260817_131746",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x6f71c61111748784e74ed8fbcf351314e3fec8322ba608a9b0b8b2a452c050fb",
+   "titulo": "Bitcoin Up or Down - August 17, 9:10AM-9:15AM ET",
+   "slug": "btc-updown-5m-1786972200",
+   "outcome": "Up",
+   "side": "SELL",
+   "size": 1036.02,
+   "price": 0.99,
+   "usd": 1025.66,
+   "ts": 1786972450,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,026 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786972200",
+   "titulo_es": "Bitcoin Sube o Baja - 17 de agosto, 9:10AM-9:15AM ET",
+   "narrativa": "La venta de 1,025.66 USD en el mercado de Bitcoin a 9:10AM ET busca capitalizar el desvio entre el flujo de ordenes y el consenso externo, que anticipa un movimiento direccional corto. El monto posiciona la operacion con un edge tactico de 2-3 puntos si el precio no logra sostener el nivel de soporte inmediato. Riesgo: ventana de 5 minutos con alta sensibilidad a noticias de ultimo segundo."
+  },
   {
    "tipo": "ballena",
    "market_id": "0xcdd8c1c70c32085630497dff3ce53ef7309061c4437ea2bf1aad9543a1c3abc5",
@@ -12,18 +32,18 @@
    "slug": "lol-t1-dnf-2026-08-17-game4",
    "outcome": "DN SOOPers",
    "side": "BUY",
-   "size": 2504.34,
-   "price": 0.7980644401,
-   "usd": 1998.62,
-   "ts": 1786972158,
+   "size": 1396.815538,
+   "price": 0.7303469716,
+   "usd": 1020.16,
+   "ts": 1786972461,
    "categoria": "Deportes",
-   "prob": 54,
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,999 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $1,020 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17-game4",
    "titulo_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 4",
-   "narrativa": "El mercado descuenta un cierre de serie para T1, pero la compra en DN SOOPers a este precio captura un edge positivo de +4.2 puntos frente al consenso externo del 38% de probabilidad implícita. El monto de $1,998.62 representa una posición moderada que aprovecha la posible reacción tardía del mercado ante el momentum de DN SOOPers en el juego 4. Riesgo: volatilidad alta en esports y posible ajuste rápido si T1 domina el early game."
+   "narrativa": "La compra de 1,020.16 USD en el Juego 4 de T1 vs DN SOOPers refleja una oportunidad de valor relativo, ya que el consenso externo subestima la probabilidad de una victoria de DN SOOPers en un mapa con historial favorable. El volumen del trade sugiere una conviccion media-alta, con un edge estimado de 4-6 puntos sobre la cuota implicita del mercado. Riesgo: volatilidad por draft picks o estrategias inesperadas."
   }
  ],
  "edges": [],
@@ -53,7 +73,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 999724.30727,
+   "volumen": 999724.3072699999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -63,7 +83,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 992937.0816549999,
+   "volumen": 992964.906532,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -103,7 +123,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.992777,
+   "volumen": 99951.99277699999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -123,7 +143,7 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 99796.01369499997,
+   "volumen": 99796.013695,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
@@ -133,7 +153,7 @@
    "slug": "fed-rate-cut-by-october-2026-meeting-199-747",
    "yes": 0.047,
    "no": 0.953,
-   "volumen": 99614.50100699998,
+   "volumen": 99618.10100699998,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Recorte de tasas de la Fed para la reunión de octubre de 2026?"
@@ -143,7 +163,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181799999,
+   "volumen": 99359.48181799996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -163,7 +183,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99127.70193399997,
+   "volumen": 99127.70193400003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -253,7 +273,7 @@
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632000002,
+   "volumen": 9973.414632,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -261,8 +281,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.032,
-   "no": 0.968,
+   "yes": 0.0405,
+   "no": 0.9595,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 51.73
+ "db_size_mb": 51.78
 }
