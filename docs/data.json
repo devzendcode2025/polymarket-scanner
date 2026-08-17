@@ -1,69 +1,29 @@
 {
- "ts": 1786960002,
- "stamp": "20260817_094642",
+ "ts": 1786960062,
+ "stamp": "20260817_094742",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x4309301a91299029ad86c47a79f96580e4082eaae05562829e2939439b49c00b",
-   "titulo": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
-   "slug": "lol-t1-dnf-2026-08-17",
-   "outcome": "T1",
+   "market_id": "0x7b38e84a2db88fdc8e1b4107e0943a4f1d2c0f35da42f17600cc9f19e91e4929",
+   "titulo": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In",
+   "slug": "cs2-raccoo-ff-2026-08-17",
+   "outcome": "Fire Flux Esports",
    "side": "BUY",
-   "size": 3000.0,
-   "price": 0.47,
-   "usd": 1410.0,
-   "ts": 1786959538,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,410 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17",
-   "titulo_es": "LoL: T1 vs DN SOOPers (BO5) - Playoffs de la Copa KeSPA",
-   "narrativa": "La entrada de 1.410 USD en T1 refleja una fuerte convicción direccional en un BO5 de playoffs, donde el favoritismo de T1 suele estar respaldado por un historial superior en partidos decisivos. El tamaño de la orden, frente a un volumen de mercado no reportado, sugiere que el operador busca capitalizar un posible desajuste en las probabilidades implícitas, con un edge estimado que justifica la exposición. Riesgo: la volatilidad en series cortas puede anular la ventaja teórica."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
-   "titulo": "US announces end of Iranian blockade by August 31, 2026?",
-   "slug": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 1500.0,
-   "price": 0.86,
-   "usd": 1290.0,
-   "ts": 1786959523,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,290 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
-   "titulo_es": "¿EE. UU. anuncia el fin del bloqueo iraní antes del 31 de agosto de 2026?",
-   "narrativa": "La venta de 1.290 USD en 'No' apuesta contra un cambio de política exterior de EE. UU. en un plazo prolongado, donde el consenso externo de analistas geopolíticos asigna una probabilidad baja a un levantamiento total del bloqueo antes de 2026. El monto refleja una posición de tamaño moderado que busca aprovechar un posible sobreprecio del 'Sí' en mercados con poca profundidad. Riesgo: eventos geopolíticos imprevistos pueden generar movimientos bruscos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x4309301a91299029ad86c47a79f96580e4082eaae05562829e2939439b49c00b",
-   "titulo": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
-   "slug": "lol-t1-dnf-2026-08-17",
-   "outcome": "T1",
-   "side": "BUY",
-   "size": 2234.59,
-   "price": 0.47,
-   "usd": 1050.26,
-   "ts": 1786959538,
+   "size": 3821.93,
+   "price": 0.29,
+   "usd": 1108.36,
+   "ts": 1786959828,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,050 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17",
-   "titulo_es": "LoL: T1 vs DN SOOPers (BO5) - Playoffs de la Copa KeSPA",
-   "narrativa": "Una segunda compra de 1.050 USD en T1, acumulando más de 2.460 USD en el mismo resultado, indica una convicción creciente y posiblemente información privilegiada sobre alineaciones o preparación. El hecho de que la orden se ejecute en un mercado con liquidez limitada sugiere que el operador espera un ajuste de precios a su favor, con un edge calculado en puntos de probabilidad. Riesgo: la falta de volumen puede dificultar la salida en el momento óptimo."
+   "razon": "Trade de compra por $1,108 en 'Fire Flux Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-raccoo-ff-2026-08-17",
+   "titulo_es": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In",
+   "narrativa": "La compra de Fire Flux Esports a $1,108.36 captura un edge positivo frente al consenso externo, que aún no descuenta del todo su solidez en BO3 contra un rival de menor ritmo. El monto posicionado es significativo para el volumen disponible, lo que sugiere que el mercado aún no ha ajustado el precio a la probabilidad real del equipo. Riesgo: liquidez limitada en horarios de baja actividad, lo que puede ampliar el spread."
   }
  ],
  "edges": [],
@@ -71,9 +31,9 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0435,
-   "no": 0.9565,
-   "volumen": 9848334.330612995,
+   "yes": 0.0445,
+   "no": 0.9555,
+   "volumen": 9848791.349024998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -83,7 +43,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 992897.611655,
+   "volumen": 992902.6116549999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -103,7 +63,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987542.6902610001,
+   "volumen": 987542.6902610002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -113,7 +73,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 987374.887604,
+   "volumen": 987374.8876039999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -133,7 +93,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.99277700002,
+   "volumen": 99951.992777,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -163,7 +123,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99270.48181800001,
+   "volumen": 99270.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -173,7 +133,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.12,
    "no": 0.88,
-   "volumen": 99210.772162,
+   "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -183,7 +143,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99127.70193399998,
+   "volumen": 99127.70193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -203,7 +163,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.58341900005,
+   "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -233,7 +193,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98832.44893400001,
+   "volumen": 98832.44893399999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -263,7 +223,7 @@
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632000002,
+   "volumen": 9973.414632,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -271,8 +231,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0375,
-   "no": 0.9625,
+   "yes": 0.0345,
+   "no": 0.9655,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -289,34 +249,34 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will the highest temperature in Milan be 29°C on August 17?",
+   "slug": "highest-temperature-in-milan-on-august-17-2026-29c",
+   "yes": 0.296,
+   "no": 0.704,
+   "volumen": 9959.173065000004,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Milán de 29°C el 17 de agosto?"
+  },
+  {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.8135,
-   "no": 0.1865,
-   "volumen": 9951.191957000001,
+   "yes": 0.815,
+   "no": 0.185,
+   "volumen": 9951.191957,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   },
   {
-   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
-   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
-   "yes": 0.0465,
-   "no": 0.9535,
-   "volumen": 9947.125083000004,
+   "question": "Will White House post 160-179 posts from August 11 to August 18, 2026?",
+   "slug": "white-house-of-tweets-august-11-august-18-2026-160-179",
+   "yes": 0.04,
+   "no": 0.96,
+   "volumen": 9947.629259,
    "spread": 0.0,
    "categoria": "Política",
-   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
-  },
-  {
-   "question": "Will Belinda Keiser be the FL-22 Republican nominee?",
-   "slug": "will-belinda-keiser-be-the-fl-22-republican-nominee-20260723181248787",
-   "yes": 0.39,
-   "no": 0.61,
-   "volumen": 9937.787338,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Será Belinda Keiser la nominada republicana por FL-22?"
+   "question_es": "¿Publicará la Casa Blanca entre 160 y 179 publicaciones del 11 al 18 de agosto de 2026?"
   }
  ],
  "historico": {
@@ -326,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 48.92
+ "db_size_mb": 48.99
 }
