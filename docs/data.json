@@ -1,29 +1,29 @@
 {
- "ts": 1786953700,
- "stamp": "20260817_080140",
+ "ts": 1786953760,
+ "stamp": "20260817_080240",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf5ee4b6bd7d585c0e12e530074d0324493c302b82e127c832d15c89a610c0453",
-   "titulo": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
-   "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia",
+   "market_id": "0x1086eaea76c9c8c15e09994da22f62f2d9584b06b3d9bb766ed43a2927982684",
+   "titulo": "Will the price of Bitcoin be above $72,000 on August 19?",
+   "slug": "bitcoin-above-72k-on-august-19-2026",
    "outcome": "No",
    "side": "BUY",
-   "size": 5117.0,
-   "price": 0.996,
-   "usd": 5096.53,
-   "ts": 1786953213,
+   "size": 1218.61,
+   "price": 0.999,
+   "usd": 1217.39,
+   "ts": 1786953523,
    "categoria": "Cripto",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,097 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia",
-   "titulo_es": "¿Será Demeke Mekonnen el próximo Primer Ministro de Etiopía?",
-   "narrativa": "La compra de 'No' en la pregunta sobre Demeke Mekonnen acumula $5,096 en una sola operación, lo que sugiere que un operador con información relevante está apostando contra su nombramiento. Este flujo de capital concentrado, en un mercado de baja liquidez, puede mover el precio de forma desproporcionada, ofreciendo una ventana de entrada antes de que el consenso externo se ajuste. Riesgo: el volumen total del mercado es desconocido, lo que implica posible dificultad para salir de la posición sin afectar el precio."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,217 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-72k-on-august-19-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $72,000 el 19 de agosto?",
+   "narrativa": "La señal de compra en 'No' para Bitcoin por encima de $72,000 el 19 de agosto ofrece un edge de 4.2 puntos frente al consenso externo del 58% de probabilidad implícita, con un monto de $1,217 que representa una posición moderada. El precio actual del mercado (55.8%) está por debajo de la estimación racional, lo que sugiere una oportunidad de capturar valor si el activo no alcanza el umbral. Riesgo: volatilidad de eventos macroeconómicos que podrían impulsar el precio."
   }
  ],
  "edges": [
@@ -69,6 +69,16 @@
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
   },
   {
+   "question": "Will Michelle Bolsonaro win the 2026 Brazilian presidential election?",
+   "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9814308.593318,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
+  },
+  {
    "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0165,
@@ -93,7 +103,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987542.6902610002,
+   "volumen": 987542.6902609998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -143,7 +153,7 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 99796.013695,
+   "volumen": 99796.01369499999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
@@ -199,16 +209,6 @@
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
   },
   {
-   "question": "Will Loopscale launch a token by December 31, 2026?",
-   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 99017.583419,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.067,
@@ -233,7 +233,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98752.448934,
+   "volumen": 98752.44893400001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -243,7 +243,7 @@
    "slug": "will-trump-and-putin-not-meet-432",
    "yes": 0.605,
    "no": 0.395,
-   "volumen": 98647.606023,
+   "volumen": 98647.60602300001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿No se reunirán Trump y Putin?"
@@ -259,6 +259,16 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Will the Democrats win the Ohio Senate race in 2026?",
+   "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
+   "yes": 0.525,
+   "no": 0.475,
+   "volumen": 98118.66974199998,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
+  },
+  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -267,16 +277,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
-  },
-  {
-   "question": "Solana Up or Down - August 17, 12:00AM-4:00AM ET",
-   "slug": "sol-updown-4h-1786939200",
-   "yes": 0.93,
-   "no": 0.07,
-   "volumen": 9979.479215,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "Solana Sube o Baja - 17 de agosto, 12:00AM-4:00AM ET"
   },
   {
    "question": "Will Bruce Walden win the 2026 Alaska governor election?",
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 47.51
+ "db_size_mb": 47.58
 }
