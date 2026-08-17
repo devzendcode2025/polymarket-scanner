@@ -1,10 +1,31 @@
 {
- "ts": 1786927653,
- "stamp": "20260817_004733",
+ "ts": 1786927893,
+ "stamp": "20260817_005133",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xda98bd53d0171ee52f8686abeca76dfaf1c4b7928096e00a1eb15a03dc20e08d",
+   "titulo": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season",
+   "slug": "lol-bld-leo-2026-08-17",
+   "outcome": "Bulldog Esports",
+   "side": "SELL",
+   "size": 2115.0,
+   "price": 0.8196690307,
+   "usd": 1733.6,
+   "ts": 1786927692,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,734 en 'Bulldog Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-bld-leo-2026-08-17",
+   "titulo_es": "LoL: Bulldog Esports vs LEO (BO3) - Temporada Regular de la NLC",
+   "narrativa": "La venta de Bulldog Esports en este BO3 de la NLC concentra una posición de $1,733 USD, lo que refleja una convicción direccional clara en un mercado con volumen aún no reportado. Este flujo sugiere que el consenso externo podría estar sobrevalorando al equipo, y el edge se materializa si el precio de la cuota se comprime hacia el lado comprador. La falta de datos de volumen total añade incertidumbre, pero la magnitud del trade en relación al tamaño típico de estos mercados apunta a una oportunidad de valor en el lado vendedor. Riesgo: posible iliquidez si el volumen es bajo, lo que puede ampliar el spread."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -295,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 41.82
+ "db_size_mb": 41.89
 }
