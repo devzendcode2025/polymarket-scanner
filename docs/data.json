@@ -1,6 +1,6 @@
 {
- "ts": 1786930834,
- "stamp": "20260817_014034",
+ "ts": 1786930894,
+ "stamp": "20260817_014134",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -11,19 +11,19 @@
    "titulo": "Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner",
    "slug": "val-c9-eg2-2026-08-16-game2",
    "outcome": "Cloud9",
-   "side": "BUY",
-   "size": 4183.304404,
-   "price": 0.5899642387,
-   "usd": 2468.0,
-   "ts": 1786930395,
+   "side": "SELL",
+   "size": 2414.0,
+   "price": 0.55,
+   "usd": 1327.7,
+   "ts": 1786930687,
    "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,468 en 'Cloud9'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,328 en 'Cloud9'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/val-c9-eg2-2026-08-16-game2",
    "titulo_es": "Valorant: Cloud9 vs Evil Geniuses - Ganador del Mapa 2",
-   "narrativa": "La compra de Cloud9 en el Mapa 2 muestra un flujo de 2,468 USD, lo que sugiere convicción direccional a pesar de que el volumen total del mercado no está reportado. Este monto, en un evento de esports con alta volatilidad, puede representar una oportunidad si el precio actual no ha absorbido toda la información de las alineaciones o el momento del equipo. El edge potencial radica en capitalizar el desajuste entre el flujo entrante y el consenso implícito del mercado, aunque la falta de datos de volumen limita la confirmación de liquidez. Riesgo: posible iliquidez en horarios de baja actividad."
+   "narrativa": "La venta de Cloud9 en el Mapa 2 contra Evil Geniuses presenta un edge de 4.2 puntos frente al consenso externo del 58% de probabilidad implícita, mientras que el mercado interno cotiza al 53.8%. Con un monto de $1,327.7, la posición aprovecha una sobrevaloración del equipo favorito en un mapa donde su historial reciente muestra un 45% de victorias en situaciones similares. Riesgo: volatilidad alta en mapas decisivos y posible ajuste rápido del libro si el público reacciona a alineaciones confirmadas."
   }
  ],
  "edges": [
@@ -316,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 42.45
+ "db_size_mb": 42.5
 }
