@@ -1,49 +1,29 @@
 {
- "ts": 1786956101,
- "stamp": "20260817_084141",
+ "ts": 1786956461,
+ "stamp": "20260817_084741",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-   "titulo": "Putin out as President of Russia by December 31, 2026?",
-   "slug": "putin-out-before-2027-346",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 5500.0,
-   "price": 0.92,
-   "usd": 5060.0,
-   "ts": 1786955626,
-   "categoria": "Política",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $5,060 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/putin-out-before-2027-346",
-   "titulo_es": "¿Putin fuera como Presidente de Rusia para el 31 de diciembre de 2026?",
-   "narrativa": "La posición de venta sobre 'Putin fuera para 2026' refleja un consenso geopolítico robusto, con una apuesta de $5,060 que capitaliza la baja probabilidad implícita de un cambio de régimen en ese plazo. El edge proviene de la discrepancia entre el precio de mercado y las expectativas de los analistas internacionales, que ven la continuidad como el escenario base. Riesgo: eventos extraordinarios de alta volatilidad política podrían mover el precio abruptamente."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x0e97c993d4a6b18a8449acf860897cb43dcbde3b88c6fd584cb66457a8163618",
-   "titulo": "ITF W50 Prague Women: Alena Kovackova vs Eva Marie Voracek",
-   "slug": "itf-kovack-voracek-2026-08-17",
-   "outcome": "Alena Kovackova",
+   "market_id": "0x90b47ffa8462dbbe6356e3b9fe878e2316dfa8661013b1f97ef5b30d53dcf13f",
+   "titulo": "Bitcoin Up or Down - August 17, 4:40AM-4:45AM ET",
+   "slug": "btc-updown-5m-1786956000",
+   "outcome": "Down",
    "side": "BUY",
-   "size": 4000.0,
-   "price": 0.746429375,
-   "usd": 2985.72,
-   "ts": 1786955622,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,986 en 'Alena Kovackova'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/itf-kovack-voracek-2026-08-17",
-   "titulo_es": "ITF W50 Praga Femenino: Alena Kovackova vs Eva Marie Voracek",
-   "narrativa": "La compra de Alena Kovackova en el ITF W50 de Praga aprovecha una ventaja de forma y superficie, con un monto de $2,985 que busca capturar el valor de la jugadora local en condiciones rápidas. El mercado puede estar subestimando su rendimiento reciente en pista dura, lo que genera un desvío favorable frente al consenso externo. Riesgo: la juventud de la rival puede producir un parcial inesperado, aunque el volumen del mercado es limitado."
+   "size": 1130.06,
+   "price": 0.99,
+   "usd": 1118.76,
+   "ts": 1786956223,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,119 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1786956000",
+   "titulo_es": "Bitcoin Sube o Baja - 17 de agosto, 4:40AM-4:45AM ET",
+   "narrativa": "El mercado de Bitcoin muestra una presión vendedora sostenida en el microevento del 17 de agosto, y la posición de compra en 'Down' capitaliza esa inercia con un monto de $1,118.76, lo que sugiere convicción direccional. El edge implícito se amplía si el consenso externo (análisis técnico de corto plazo) coincide con la tendencia bajista de 5 minutos, aunque el volumen de mercado no está disponible para confirmar liquidez. Riesgo: ventana de tiempo muy corta (5 minutos) y posible rebote brusco si hay noticias de último momento."
   }
  ],
  "edges": [
@@ -83,7 +63,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0465,
    "no": 0.9535,
-   "volumen": 9847036.140613005,
+   "volumen": 9847036.140612999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -93,7 +73,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 992742.989281,
+   "volumen": 992742.9892809999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -113,7 +93,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987542.6902610001,
+   "volumen": 987542.6902610002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -123,7 +103,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 987374.8876039998,
+   "volumen": 987374.8876039999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -143,7 +123,7 @@
    "slug": "elon-musk-of-tweets-august-11-august-18-260-279",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 99989.79370799998,
+   "volumen": 99989.793708,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 260 y 279 tuits del 11 de agosto al 18 de agosto de 2026?"
@@ -173,27 +153,17 @@
    "slug": "will-trump-visit-north-korea-by-december-31",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 99796.01369499999,
+   "volumen": 99796.013695,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
-  },
-  {
-   "question": "Will Sunderland win the 2026-27 English Premier League (EPL) Championship?",
-   "slug": "will-sunderland-win-the-2026-27-english-premier-league-epl-championship-20260701200428766",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 99303.69122699999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Sunderland el Campeonato de la Premier League inglesa (EPL) 2026-27?"
   },
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99270.481818,
+   "volumen": 99270.48181799996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -203,7 +173,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 99210.772162,
+   "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -223,16 +193,26 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99017.583419,
+   "volumen": 99017.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
+   "question": "Will Trump and Putin not meet?",
+   "slug": "will-trump-and-putin-not-meet-432",
+   "yes": 0.6,
+   "no": 0.4,
+   "volumen": 98927.076023,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿No se reunirán Trump y Putin?"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0655,
-   "no": 0.9345,
+   "yes": 0.066,
+   "no": 0.934,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -243,7 +223,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 98858.23276299996,
+   "volumen": 98858.23276299998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -253,20 +233,10 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98832.44893399999,
+   "volumen": 98832.448934,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
-  },
-  {
-   "question": "Will Trump and Putin not meet?",
-   "slug": "will-trump-and-putin-not-meet-432",
-   "yes": 0.605,
-   "no": 0.395,
-   "volumen": 98647.60602300001,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿No se reunirán Trump y Putin?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -291,8 +261,8 @@
   {
    "question": "Will Kevin Steele be the FL-14 Republican nominee?",
    "slug": "will-kevin-steele-be-the-fl-14-republican-nominee-20260723180614392",
-   "yes": 0.455,
-   "no": 0.545,
+   "yes": 0.445,
+   "no": 0.555,
    "volumen": 9992.553908,
    "spread": 0.0,
    "categoria": "Política",
@@ -311,8 +281,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0385,
-   "no": 0.9615,
+   "yes": 0.0435,
+   "no": 0.9565,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -327,6 +297,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "APYX FDV above $50M one day after launch?",
+   "slug": "apyx-fdv-above-50m-one-day-after-launch",
+   "yes": 0.8145,
+   "no": 0.1855,
+   "volumen": 9951.191957,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -336,5 +316,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 48.04
+ "db_size_mb": 48.18
 }
