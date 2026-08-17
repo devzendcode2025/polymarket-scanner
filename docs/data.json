@@ -1,29 +1,29 @@
 {
- "ts": 1786962703,
- "stamp": "20260817_103143",
+ "ts": 1786962763,
+ "stamp": "20260817_103243",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd6e29406fc0d2546dd460e9639c6f03bb75768f3262b0652618bc50bd2afd6e0",
-   "titulo": "LoL: T1 vs DN SOOPers - Game 2 Winner",
-   "slug": "lol-t1-dnf-2026-08-17-game2",
-   "outcome": "DN SOOPers",
+   "market_id": "0x1239389645c8a73b170b78ef3a83d69b6cf1d2711d412829ea8836660b08fc93",
+   "titulo": "Will Bitcoin reach $85,000 by December 31, 2026?",
+   "slug": "will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
+   "outcome": "No",
    "side": "BUY",
-   "size": 1710.952948,
-   "price": 0.6003028892,
-   "usd": 1027.09,
-   "ts": 1786962243,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,027 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17-game2",
-   "titulo_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 2",
-   "narrativa": "El mercado muestra una oportunidad de compra en DN SOOPers para el Juego 2, con un monto de $1,027 USD que refleja una posición significativa frente al volumen disponible. La ausencia de un consenso externo claro sugiere que el precio aún no ha absorbido toda la información, lo que deja un margen de edge positivo si el equipo mantiene su ritmo inicial. El cambio porcentual implícito en la oferta indica una corrección pendiente que podría materializarse antes del cierre de la apuesta. Riesgo: volatilidad alta por partidos cortos y posible falta de liquidez en momentos de picos de demanda."
+   "size": 4767.39,
+   "price": 0.83,
+   "usd": 3956.93,
+   "ts": 1786962531,
+   "categoria": "Cripto",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,957 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
+   "titulo_es": "¿Alcanzará Bitcoin los $85,000 para el 31 de diciembre de 2026?",
+   "narrativa": "El mercado descuenta un 'No' con un volumen de $3,956.93, lo que refleja una apuesta concentrada pero sin consenso externo claro. El edge se materializa si el precio de Bitcoin se mantiene por debajo de $85K a finales de 2026, dado que la volatilidad actual y los ciclos de mercado sugieren una probabilidad implícita favorable al vendedor. Riesgo: baja liquidez relativa y horizonte temporal extenso que amplifica la incertidumbre macro."
   }
  ],
  "edges": [],
@@ -31,9 +31,9 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.044,
-   "no": 0.956,
-   "volumen": 9849127.269024998,
+   "yes": 0.0455,
+   "no": 0.9545,
+   "volumen": 9855795.177850995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +43,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.002,
    "no": 0.998,
-   "volumen": 996153.4876039997,
+   "volumen": 996153.487604,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -73,7 +73,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987562.6902610002,
+   "volumen": 987562.6902609998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -143,7 +143,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99127.70193400001,
+   "volumen": 99127.701934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -171,9 +171,9 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 99017.583419,
+   "yes": 0.16,
+   "no": 0.84,
+   "volumen": 99017.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -241,8 +241,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0375,
-   "no": 0.9625,
+   "yes": 0.0325,
+   "no": 0.9675,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -261,9 +261,9 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.8215,
-   "no": 0.1785,
-   "volumen": 9951.191957,
+   "yes": 0.821,
+   "no": 0.179,
+   "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 49.52
+ "db_size_mb": 49.58
 }
