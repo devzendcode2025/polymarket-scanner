@@ -1,29 +1,49 @@
 {
- "ts": 1786966604,
- "stamp": "20260817_113644",
+ "ts": 1786966664,
+ "stamp": "20260817_113744",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb74c6b1762901197efb56a9a7427018c166ddfe52fd5be460911c2512cbecfb3",
-   "titulo": "Prague: Andrej Martin vs Javier Barranco Cosano",
-   "slug": "atp-mar-cosano-2026-08-17",
-   "outcome": "Javier Barranco Cosano",
+   "market_id": "0xcaeb056d020d087940ebd76e3d5e045a9173809d49b838cff59a92c8feea2bb7",
+   "titulo": "Counter-Strike: Atreides vs ex-Sashi Academy (BO3) - CCT Europe Challengers Series Playoffs",
+   "slug": "cs2-atreid-sashia1-2026-08-17",
+   "outcome": "ex-Sashi Academy",
    "side": "SELL",
-   "size": 3999.99,
-   "price": 0.999,
-   "usd": 3995.99,
-   "ts": 1786966141,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,996 en 'Javier Barranco Cosano'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-mar-cosano-2026-08-17",
-   "titulo_es": "Praga: Andrej Martin vs Javier Barranco Cosano",
-   "narrativa": "La venta de Javier Barranco Cosano en Praga muestra un desbalance de mercado con un monto de $3,995.99, lo que sugiere que el consenso externo favorece al rival, Andrej Martin, en términos de forma y superficie. Este trade busca capturar valor en la diferencia entre el precio implícito y la probabilidad real del evento, con un edge estimado que justifica la posición. Riesgo: posible ajuste rápido si el mercado corrige la cuota antes del inicio."
+   "size": 2676.0,
+   "price": 0.5,
+   "usd": 1338.0,
+   "ts": 1786966446,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,338 en 'ex-Sashi Academy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-atreid-sashia1-2026-08-17",
+   "titulo_es": "Counter-Strike: Atreides vs ex-Sashi Academy (BO3) - Playoffs de la Serie de Retadores de CCT Europa",
+   "narrativa": "La venta de ex-Sashi Academy a 1338 USD refleja una conviction institucional de que Atreides está sobrevalorada en los playoffs de CCT Europa, pese a que el consenso externo podría inclinarse hacia el favoritismo del rival. El edge proviene de capitalizar la diferencia entre el precio implícito del mercado y la probabilidad real estimada por el modelo, con un tamaño de posición que sugiere una alta confianza en el desenlace. Riesgo: volatilidad alta en mapas decisivos y posible falta de liquidez en mercados de nicho."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x4bed7e741d834fd6086487c0cdf7390fb4e9386e9d0d6bdb00ba67474eb869e0",
+   "titulo": "Will Elon Musk post 200-219 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-200-219",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 1055.79,
+   "price": 0.9630964302,
+   "usd": 1016.83,
+   "ts": 1786966443,
+   "categoria": "Tecnología",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,017 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-11-august-18-200-219",
+   "titulo_es": "¿Publicará Elon Musk entre 200 y 219 tuits del 11 de agosto al 18 de agosto de 2026?",
+   "narrativa": "La venta de 'No' en el rango de 200-219 tuits de Elon Musk por 1016.83 USD aprovecha un desvío estadístico respecto al consenso externo, que suele sobreestimar la actividad tuitera del personaje en ventanas específicas. El edge se materializa al comparar la frecuencia histórica de tuits diarios con el rango propuesto, donde la probabilidad de caer exactamente en ese intervalo es menor a la que sugiere el precio de mercado. Riesgo: eventos noticiosos imprevistos pueden disparar la actividad tuitera, y el mercado depende de la precisión del conteo."
   }
  ],
  "edges": [],
@@ -53,7 +73,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 998820.1542699996,
+   "volumen": 998820.1542699999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -153,7 +173,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 99210.77216200001,
+   "volumen": 99210.772162,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -243,7 +263,7 @@
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632000002,
+   "volumen": 9973.414632,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -251,8 +271,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0365,
-   "no": 0.9635,
+   "yes": 0.037,
+   "no": 0.963,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -271,9 +291,9 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.8165,
-   "no": 0.1835,
-   "volumen": 9951.191957,
+   "yes": 0.814,
+   "no": 0.186,
+   "volumen": 9951.191957000005,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 50.42
+ "db_size_mb": 50.49
 }
