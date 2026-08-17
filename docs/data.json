@@ -1,30 +1,9 @@
 {
- "ts": 1786979868,
- "stamp": "20260817_151748",
+ "ts": 1786979928,
+ "stamp": "20260817_151848",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
-  {
-   "tipo": "momentum",
-   "market_id": "3621031",
-   "question": "Will the highest temperature in Miami be between 94-95°F on August 17?",
-   "slug": "highest-temperature-in-miami-on-august-17-2026-94-95f",
-   "tags": [],
-   "categoria": "Otros",
-   "yes_antes": 0.49,
-   "yes_ahora": 0.46,
-   "cambio_pct": -6.1,
-   "direccion": "BAJADA",
-   "volumen": 9875.387567000002,
-   "prob": 56,
-   "confianza": "baja",
-   "horizonte": "24h",
-   "razon": "Yes bajada 6.1% vs el scan anterior (0.49 → 0.46) en un mercado con $9,875 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/highest-temperature-in-miami-on-august-17-2026-94-95f",
-   "question_es": "¿Será la temperatura máxima en Miami entre 94-95°F el 17 de agosto?",
-   "narrativa": "La probabilidad de que la temperatura máxima en Miami alcance 94-95°F ha caído un 6.1%, pasando de 0.49 a 0.46, con un volumen de $9,875 que respalda la tendencia bajista. Este movimiento refleja un ajuste del consenso externo hacia condiciones meteorológicas más frescas, probablemente por actualizaciones de modelos. El edge está en vender el 'sí' a 0.46, ya que el mercado aún no ha descontado completamente la nueva información. Riesgo: volatilidad por pronósticos de última hora."
-  }
- ],
+ "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
@@ -54,7 +33,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0455,
    "no": 0.9545,
-   "volumen": 9893846.330177993,
+   "volumen": 9893846.330178,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -114,10 +93,20 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987567.2402610001,
+   "volumen": 987567.2402610002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
+  },
+  {
+   "question": "Will Pablo Marçal win the 2026 Brazilian presidential election?",
+   "slug": "will-pablo-marcal-win-the-2026-brazilian-presidential-election",
+   "yes": 0.011,
+   "no": 0.989,
+   "volumen": 987268.6173539998,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Pablo Marçal las elecciones presidenciales de Brasil de 2026?"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -212,8 +201,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.42,
-   "no": 0.58,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -224,7 +213,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 98958.790045,
+   "volumen": 98958.79004499999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -260,6 +249,16 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Will Pisa SC win on 2026-08-17?",
+   "slug": "itc-pis-emp-2026-08-17-pis",
+   "yes": 0.585,
+   "no": 0.415,
+   "volumen": 98252.25034400001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará Pisa SC el 17 de agosto de 2026?"
+  },
+  {
    "question": "Will Google be the third-best Math AI lab at the end of August 2026?",
    "slug": "will-google-be-the-third-best-math-ai-lab-at-the-end-of-august-2026-20260720230105164",
    "yes": 0.284,
@@ -278,26 +277,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
-  },
-  {
-   "question": "Will Eastern Europe & CIS region win The International 2026?",
-   "slug": "will-cis-region-win-the-international-2026-20260805215811240",
-   "yes": 0.75,
-   "no": 0.25,
-   "volumen": 9991.944813,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará la región de Europa del Este y CIS The International 2026?"
-  },
-  {
-   "question": "Valorant: G2 Gozen vs Habos Babos (BO3) - VCT Game Changers EMEA Playoffs",
-   "slug": "val-g2-hbs-2026-08-17",
-   "yes": 0.745,
-   "no": 0.255,
-   "volumen": 9985.174412,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Valorant: G2 Gozen vs Habos Babos (BO3) - VCT Game Changers EMEA Playoffs"
   }
  ],
  "historico": {
