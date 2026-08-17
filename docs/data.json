@@ -1,6 +1,6 @@
 {
- "ts": 1786992171,
- "stamp": "20260817_184251",
+ "ts": 1786992291,
+ "stamp": "20260817_184451",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -22,7 +22,8 @@
    "horizonte": "24h",
    "razon": "Trade de compra por $2,723 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
-   "titulo_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de entre 900m y 920m para el 31 de agosto?"
+   "titulo_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de entre 900m y 920m para el 31 de agosto?",
+   "narrativa": "La compra de 'No' en el rango de 900m-920m para Spider-Man: Brand New Day presenta un edge favorable si el consenso externo proyecta una recaudación inferior a ese umbral, dado que el monto de 2,722.85 USD refleja una posición significativa que busca capitalizar la sobrevaloración del 'Sí'. El cambio porcentual implícito en el precio del 'No' sugiere que el mercado aún no ha descontado por completo el techo de taquilla esperado, ofreciendo una oportunidad de capturar valor antes de que se ajuste. Riesgo: posible volatilidad si los datos de fin de semana superan las proyecciones, aunque la falta de volumen de mercado limita la confirmación direccional."
   }
  ],
  "edges": [],
@@ -210,8 +211,8 @@
   {
    "question": "Will Elon Musk post 80-99 tweets from August 14 to August 21, 2026?",
    "slug": "elon-musk-of-tweets-august-14-august-21-80-99",
-   "yes": 0.0095,
-   "no": 0.9905,
+   "yes": 0.0085,
+   "no": 0.9915,
    "volumen": 98464.56498899999,
    "spread": 0.0,
    "categoria": "Tecnología",
