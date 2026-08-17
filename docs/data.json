@@ -1,30 +1,9 @@
 {
- "ts": 1786996972,
- "stamp": "20260817_200252",
+ "ts": 1786997092,
+ "stamp": "20260817_200452",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
-  {
-   "tipo": "momentum",
-   "market_id": "3621009",
-   "question": "Will the highest temperature in Dallas be between 102-103°F on August 17?",
-   "slug": "highest-temperature-in-dallas-on-august-17-2026-102-103f",
-   "tags": [],
-   "categoria": "Otros",
-   "yes_antes": 0.001,
-   "yes_ahora": 0.005,
-   "cambio_pct": 900.0,
-   "direccion": "SUBIDA",
-   "volumen": 9862.363491999999,
-   "prob": 72,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Yes subida 900.0% vs el scan anterior (0.001 → 0.005) en un mercado con $9,862 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/highest-temperature-in-dallas-on-august-17-2026-102-103f",
-   "question_es": "¿Será la temperatura más alta en Dallas entre 102-103°F el 17 de agosto?",
-   "narrativa": "La probabilidad implícita del evento climático en Dallas se quintuplicó, pasando de 0.1% a 0.5%, lo que representa un salto del 900% en la valoración. Este movimiento refleja una actualización agresiva del mercado ante nuevos modelos meteorológicos, y aunque el volumen de $9,862 sugiere interés, el precio aún está lejos de un consenso externo que podría estar subestimando el riesgo de calor extremo. Riesgo: alta volatilidad en la recta final y posible reversión si los modelos se ajustan."
-  }
- ],
+ "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
@@ -84,7 +63,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9855229.426317995,
+   "volumen": 9855389.426317995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -100,11 +79,21 @@
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
+   "question": "US x Iran diplomatic meeting by August 31, 2026?",
+   "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
+   "yes": 0.085,
+   "no": 0.915,
+   "volumen": 988915.2913919999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
+  },
+  {
    "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987796.6545000001,
+   "volumen": 987796.6545,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -114,7 +103,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 987721.5342309999,
+   "volumen": 987721.5342310001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -308,16 +297,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Hándicap de sets: Mensik (-1.5) vs Hijikata (+1.5)"
-  },
-  {
-   "question": "APYX FDV above $50M one day after launch?",
-   "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7845,
-   "no": 0.2155,
-   "volumen": 9951.191957000003,
-   "spread": 0.0,
-   "categoria": "Ciencia y espacio",
-   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
