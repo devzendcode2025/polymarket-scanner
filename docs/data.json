@@ -1,6 +1,6 @@
 {
- "ts": 1786981968,
- "stamp": "20260817_155248",
+ "ts": 1786982088,
+ "stamp": "20260817_155448",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -51,8 +51,8 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0455,
-   "no": 0.9545,
+   "yes": 0.044,
+   "no": 0.956,
    "volumen": 9893846.330178006,
    "spread": 0.0,
    "categoria": "Política",
@@ -101,8 +101,8 @@
   {
    "question": "Will Pablo Marçal win the 2026 Brazilian presidential election?",
    "slug": "will-pablo-marcal-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0115,
-   "no": 0.9885,
+   "yes": 0.0145,
+   "no": 0.9855,
    "volumen": 987838.5173540004,
    "spread": 0.0,
    "categoria": "Política",
@@ -211,8 +211,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -251,8 +251,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0075,
-   "no": 0.9925,
+   "yes": 0.008,
+   "no": 0.992,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
