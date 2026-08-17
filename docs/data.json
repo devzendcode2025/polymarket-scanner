@@ -1,29 +1,28 @@
 {
- "ts": 1786992111,
- "stamp": "20260817_184151",
+ "ts": 1786992171,
+ "stamp": "20260817_184251",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x0aff4351d355a4c1a2b7767335004d23fa735c12c6b0f4fba535aad6bcf5970d",
-   "titulo": "St. Louis Cardinals vs. Cincinnati Reds: O/U 7.5",
-   "slug": "mlb-stl-cin-2026-08-17-total-7pt5",
-   "outcome": "Under",
+   "market_id": "0x88b9821a45b189cc6f92798778217242dd0aa7ca9cc27ff6a0fea5922b3075ed",
+   "titulo": "Will the total domestic gross for Spider-Man: Brand New Day be between 900m and 920m by August 31?",
+   "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
+   "outcome": "No",
    "side": "BUY",
-   "size": 10734.81,
-   "price": 0.35,
-   "usd": 3757.18,
-   "ts": 1786991686,
+   "size": 4347.0,
+   "price": 0.6263746492,
+   "usd": 2722.85,
+   "ts": 1786991988,
    "categoria": "Otros",
-   "prob": 57,
+   "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,757 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-stl-cin-2026-08-17-total-7pt5",
-   "titulo_es": "St. Louis Cardinals vs. Cincinnati Reds: Más/Menos 7.5",
-   "narrativa": "El mercado de St. Louis Cardinals vs. Cincinnati Reds presenta una oportunidad de compra en el Under 7.5, con un monto de $3,757.18 que refleja una posición significativa frente al volumen disponible. El consenso externo de modelos de proyección de carreras favorece el Under en un 58%, mientras que el precio implícito actual sugiere solo un 52%, generando un edge de +6 puntos porcentuales. Esta discrepancia entre el precio de mercado y la probabilidad estimada justifica la entrada, aunque el movimiento esperado es moderado. Riesgo: posible volatilidad si los abridores muestran fatiga o el bullpen se ve afectado por el clima."
+   "razon": "Trade de compra por $2,723 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
+   "titulo_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de entre 900m y 920m para el 31 de agosto?"
   }
  ],
  "edges": [],
@@ -141,8 +140,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -286,5 +285,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 56.06
+ "db_size_mb": 56.12
 }
