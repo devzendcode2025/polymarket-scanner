@@ -1,49 +1,29 @@
 {
- "ts": 1786993011,
- "stamp": "20260817_185651",
+ "ts": 1786993371,
+ "stamp": "20260817_190251",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x1c816ebdfdfa37b3667374e0403f76d65c48f2167ad4c93ed0d4e43f84501446",
-   "titulo": "Will Elche CF win on 2026-08-17?",
-   "slug": "lal-dep-elc-2026-08-17-elc",
-   "outcome": "No",
+   "market_id": "0xbe7533a898481cca669cb31c0e1206493e524d90e180c5e82cb905eb5ccdedde",
+   "titulo": "Spread: UD Almería (-1.5)",
+   "slug": "es2-alm-eld-2026-08-17-spread-home-1pt5",
+   "outcome": "UD Almería",
    "side": "BUY",
-   "size": 12952.38,
-   "price": 0.74,
-   "usd": 9584.76,
-   "ts": 1786992588,
+   "size": 3721.130464,
+   "price": 0.4299768617,
+   "usd": 1600.0,
+   "ts": 1786993179,
    "categoria": "Otros",
-   "prob": 66,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $9,585 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-dep-elc-2026-08-17-elc",
-   "titulo_es": "¿Ganará el Elche CF el 2026-08-17?",
-   "narrativa": "Se detecta una compra significativa de 9,584 USD en la opción 'No' para el partido del Elche CF, lo que refleja una fuerte convicción direccional. Este monto, al ser inusualmente alto para un mercado de fútbol, sugiere que un operador con información o análisis profundo está apostando contra el equipo local, generando una oportunidad de seguir el flujo de dinero. El consenso externo probablemente esté dividido, pero el tamaño de la operación indica un edge potencial en la probabilidad implícita del mercado. Riesgo: liquidez potencialmente baja en mercados de eventos deportivos lejanos, lo que puede ampliar el desvío entre precio y valor real."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x1c816ebdfdfa37b3667374e0403f76d65c48f2167ad4c93ed0d4e43f84501446",
-   "titulo": "Will Elche CF win on 2026-08-17?",
-   "slug": "lal-dep-elc-2026-08-17-elc",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 4099.662161,
-   "price": 0.74,
-   "usd": 3033.75,
-   "ts": 1786992577,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,034 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-dep-elc-2026-08-17-elc",
-   "titulo_es": "¿Ganará el Elche CF el 2026-08-17?",
-   "narrativa": "Una segunda compra de 3,033 USD en el mismo resultado 'No' refuerza la señal previa, acumulando un total de 12,618 USD en contra del Elche CF. Este patrón de acumulación consecutiva sugiere que no es una operación aislada, sino una estrategia coordinada que busca aprovechar un posible error de fijación de precios. El cambio porcentual en el volumen de compra indica un interés creciente, lo que podría anticipar un movimiento en el precio del activo. Riesgo: la falta de volumen de mercado reportado (null) implica que la ejecución de órdenes grandes podría afectar el precio desfavorablemente."
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,600 en 'UD Almería'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/es2-alm-eld-2026-08-17-spread-home-1pt5",
+   "titulo_es": "Margen: UD Almería (-1.5)",
+   "narrativa": "El mercado muestra un desbalance claro a favor de UD Almería con un margen de -1.5, y la entrada de 1,600 USD en la compra sugiere convicción direccional. Aunque no hay volumen de mercado reportado, el tamaño del trade en relación al evento indica que el precio podría ajustarse hacia el resultado esperado si la liquidez acompaña. Riesgo: posible falta de profundidad en el libro de órdenes, lo que podría amplificar el slippage."
   }
  ],
  "edges": [],
@@ -51,9 +31,9 @@
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.04,
-   "no": 0.96,
-   "volumen": 9919897.646499999,
+   "yes": 0.0395,
+   "no": 0.9605,
+   "volumen": 9926398.163294004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -73,7 +53,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994346.6382709999,
+   "volumen": 994346.6382709998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -133,7 +113,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99790.36785400003,
+   "volumen": 99790.36785399998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -143,7 +123,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181799997,
+   "volumen": 99359.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -153,7 +133,7 @@
    "slug": "will-astralis-win-the-cs2-ewc-2026-20260810160005090",
    "yes": 0.0135,
    "no": 0.9865,
-   "volumen": 99218.644375,
+   "volumen": 99218.64437500002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará Astralis el CS2 EWC 2026?"
@@ -161,9 +141,9 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
-   "volumen": 99210.77216200002,
+   "yes": 0.125,
+   "no": 0.875,
+   "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -253,7 +233,7 @@
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632000004,
+   "volumen": 9973.414632000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
@@ -293,18 +273,18 @@
    "slug": "will-the-arizona-diamondbacks-clinch-a-spot-in-the-2026-mlb-postseason",
    "yes": 0.465,
    "no": 0.535,
-   "volumen": 9960.186948999999,
+   "volumen": 9960.186949,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Lograrán los Arizona Diamondbacks asegurar un lugar en la Postemporada de la MLB 2026?"
   }
  ],
  "historico": {
-  "ts": 1786991395,
+  "ts": 1786993195,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 56.25
+ "db_size_mb": 56.39
 }
