@@ -1,49 +1,29 @@
 {
- "ts": 1787000813,
- "stamp": "20260817_210653",
+ "ts": 1787000933,
+ "stamp": "20260817_210853",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x62ec4554a7ec627fdec1d0fbac29458efd41b48e7ad2f851b399235dbc1bfefe",
-   "titulo": "Will RC Deportivo A Coruña vs. Elche CF end in a draw?",
-   "slug": "lal-dep-elc-2026-08-17-draw",
-   "outcome": "Yes",
+   "market_id": "0x850e66aaf30b1e45cb0ac1f6009e770901b05354be12e43dca16b698264f55b2",
+   "titulo": "Will Wrexham AFC win on 2026-08-17?",
+   "slug": "elc-car-wre-2026-08-17-wre",
+   "outcome": "No",
    "side": "SELL",
-   "size": 4079.63,
+   "size": 2127.64,
    "price": 0.999,
-   "usd": 4075.55,
-   "ts": 1787000389,
+   "usd": 2125.51,
+   "ts": 1787000695,
    "categoria": "Otros",
-   "prob": 58,
+   "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $4,076 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-dep-elc-2026-08-17-draw",
-   "titulo_es": "¿Terminarán en empate RC Deportivo A Coruña vs. Elche CF?",
-   "narrativa": "La venta de 'Yes' en el empate entre Deportivo A Coruña y Elche CF, con una posición de $4,075, sugiere una fuerte convicción bajista contra el resultado de empate. El monto elevado en relación al volumen de mercado (no especificado) indica una posible sobrevaloración del 'Yes', generando un edge favorable para el vendedor si el consenso externo apunta a un resultado más definido. Riesgo: la falta de volumen de mercado podría amplificar la volatilidad del precio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xce8b6c3643e426a100c48f8ecefb946aee5236866eb29a67e0dcbea9cc74acc9",
-   "titulo": "Sion: Dimitris Sakellaridis vs Oleksandr Ovcharenko",
-   "slug": "atp-sakell-ovchare-2026-08-17",
-   "outcome": "Oleksandr Ovcharenko",
-   "side": "BUY",
-   "size": 1336.51,
-   "price": 0.9362289844,
-   "usd": 1251.28,
-   "ts": 1787000394,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,251 en 'Oleksandr Ovcharenko'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-sakell-ovchare-2026-08-17",
-   "titulo_es": "Sion: Dimitris Sakellaridis vs Oleksandr Ovcharenko",
-   "narrativa": "La compra de 'Oleksandr Ovcharenko' en el partido de Sion, con una inversión de $1,251, refleja una apuesta direccional basada en un posible desajuste entre el precio actual y las probabilidades reales del jugador. El monto, aunque moderado, sugiere una oportunidad de valor si el consenso externo subestima su forma reciente o su historial frente a Sakellaridis. Riesgo: la liquidez limitada podría dificultar la salida de la posición en momentos de alta volatilidad."
+   "razon": "Trade de venta por $2,126 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elc-car-wre-2026-08-17-wre",
+   "titulo_es": "¿Ganará el Wrexham AFC el 2026-08-17?",
+   "narrativa": "La venta de 'No' en Wrexham AFC capitaliza un consenso externo que otorga baja probabilidad al ascenso en esa fecha, con un monto de $2,125 que busca capturar el edge negativo implícito en el precio actual. El desvío entre la oferta y el valor justo estimado sugiere una oportunidad de arbitraje estadístico, aunque el volumen de mercado no reportado limita la confirmación de profundidad. Riesgo: posible iliquidez en caso de movimientos bruscos de noticias del club."
   }
  ],
  "edges": [],
@@ -139,11 +119,21 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
+   "question": "Will Cardiff City FC win on 2026-08-17?",
+   "slug": "elc-car-wre-2026-08-17-car",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99630.39351,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará el Cardiff City FC el 2026-08-17?"
+  },
+  {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.019,
    "no": 0.981,
-   "volumen": 99463.592021,
+   "volumen": 99463.59202099999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -287,16 +277,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Lograrán los Arizona Diamondbacks asegurar un lugar en la Postemporada de la MLB 2026?"
-  },
-  {
-   "question": "Will the Republican Party win the NC-09 House seat?",
-   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
-   "yes": 0.8,
-   "no": 0.2,
-   "volumen": 9966.137666999999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   }
  ],
  "historico": {
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 58.0
+ "db_size_mb": 58.05
 }
