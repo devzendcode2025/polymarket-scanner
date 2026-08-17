@@ -1,10 +1,51 @@
 {
- "ts": 1786961563,
- "stamp": "20260817_101243",
+ "ts": 1786961863,
+ "stamp": "20260817_101743",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xb0d5edeb0b4088db674594ae54f3fa3820f978408e20ca33ce6aa44ef96c32f6",
+   "titulo": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 1 Winner",
+   "slug": "lol-drxc-hle-2026-08-17-game1",
+   "outcome": "Kiwoom DRX Challengers",
+   "side": "BUY",
+   "size": 5139.4,
+   "price": 0.6107539985,
+   "usd": 3138.91,
+   "ts": 1786961632,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,139 en 'Kiwoom DRX Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-drxc-hle-2026-08-17-game1",
+   "titulo_es": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Ganador del Juego 1",
+   "narrativa": "La compra de $3,138.91 en Kiwoom DRX Challengers refleja una fuerte convicción direccional, posicionándose como la apuesta dominante en este mercado. El tamaño del trade, significativamente mayor al promedio, sugiere que un operador con información privilegiada o un análisis profundo ve una ventaja clara en este lado, lo que podría indicar un desajuste en las probabilidades implícitas actuales. Riesgo: mercado con liquidez limitada, lo que puede amplificar la volatilidad del precio."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xb0d5edeb0b4088db674594ae54f3fa3820f978408e20ca33ce6aa44ef96c32f6",
+   "titulo": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 1 Winner",
+   "slug": "lol-drxc-hle-2026-08-17-game1",
+   "outcome": "Hanwha Life Esports Challengers",
+   "side": "BUY",
+   "size": 3861.0,
+   "price": 0.37,
+   "usd": 1428.57,
+   "ts": 1786961643,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,429 en 'Hanwha Life Esports Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-drxc-hle-2026-08-17-game1",
+   "titulo_es": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Ganador del Juego 1",
+   "narrativa": "La entrada de $1,428.57 en Hanwha Life Esports Challengers, aunque menor en monto, representa una cobertura o una apuesta contraria calculada contra el flujo principal. Este movimiento equilibra el libro, sugiriendo que el operador busca capturar valor si el consenso externo (que favorece al otro lado) se equivoca, aprovechando un posible sobreprecio en el favorito. Riesgo: la falta de volumen de mercado puede dificultar la salida a precios óptimos."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -12,30 +53,30 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0445,
    "no": 0.9555,
-   "volumen": 9848791.349024994,
+   "volumen": 9849127.269024998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
-  },
-  {
-   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
-   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
-   "yes": 0.0165,
-   "no": 0.9835,
-   "volumen": 992937.0816549999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
    "question": "Will Jay Collins be the Republican nominee for Florida Governor?",
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 992803.4876039999,
+   "volumen": 996153.4876039997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
+  },
+  {
+   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
+   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
+   "yes": 0.0165,
+   "no": 0.9835,
+   "volumen": 992937.0816550001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
    "question": "Will Josh Stein win the 2028 Democratic presidential nomination?",
@@ -102,7 +143,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181799999,
+   "volumen": 99359.48181799997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -122,7 +163,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.335,
    "no": 0.665,
-   "volumen": 99127.70193400003,
+   "volumen": 99127.70193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -132,7 +173,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99118.66974200004,
+   "volumen": 99118.669742,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -142,7 +183,7 @@
    "slug": "will-trump-and-putin-not-meet-432",
    "yes": 0.595,
    "no": 0.405,
-   "volumen": 99027.07602300003,
+   "volumen": 99027.07602300002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿No se reunirán Trump y Putin?"
@@ -220,8 +261,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0415,
-   "no": 0.9585,
+   "yes": 0.035,
+   "no": 0.965,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -240,8 +281,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.818,
-   "no": 0.182,
+   "yes": 0.8175,
+   "no": 0.1825,
    "volumen": 9951.191957,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -265,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 49.33
+ "db_size_mb": 49.39
 }
