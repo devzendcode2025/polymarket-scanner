@@ -1,6 +1,6 @@
 {
- "ts": 1786957541,
- "stamp": "20260817_090541",
+ "ts": 1786957601,
+ "stamp": "20260817_090641",
  "mercados": 200,
  "mispricings": [],
  "momentum": [
@@ -11,18 +11,18 @@
    "slug": "lal-ray-ala-2026-08-20-total-4pt5",
    "tags": [],
    "categoria": "Otros",
-   "yes_antes": 0.06,
-   "yes_ahora": 0.065,
-   "cambio_pct": 8.3,
-   "direccion": "SUBIDA",
+   "yes_antes": 0.065,
+   "yes_ahora": 0.06,
+   "cambio_pct": -7.7,
+   "direccion": "BAJADA",
    "volumen": 99.02351999999999,
-   "prob": 58,
+   "prob": 57,
    "confianza": "baja",
    "horizonte": "24h",
-   "razon": "Yes subida 8.3% vs el scan anterior (0.06 → 0.065) en un mercado con $99 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "razon": "Yes bajada 7.7% vs el scan anterior (0.065 → 0.06) en un mercado con $99 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
    "url": "https://polymarket.com/market/lal-ray-ala-2026-08-20-total-4pt5",
    "question_es": "Rayo Vallecano de Madrid vs. Deportivo Alavés: Más/Menos 4.5",
-   "narrativa": "El mercado ha marcado una subida del 8.3% en la opción de Más de 4.5 goles, moviendo el precio de 0.06 a 0.065 con un volumen de $99.02. Este incremento, aunque modesto en términos absolutos, refleja una presión compradora temprana que anticipa un partido abierto, pero el precio aún está lejos de niveles de consenso externo, ofreciendo un edge de 0.5 puntos si se materializa la tendencia. La liquidez es limitada, lo que podría amplificar el movimiento, pero también dificultar la salida en el momento óptimo. Riesgo: baja liquidez y alta volatilidad en el tramo final del evento."
+   "narrativa": "La caída del 7.7% en la probabilidad de 'Más de 4.5 goles' refleja un ajuste del mercado hacia un escenario de menor anotación, con el precio del 'Sí' descendiendo de 0.065 a 0.060. Este movimiento, respaldado por un volumen de 99 dólares, sugiere que los operadores están descontando un partido más cerrado, lo que podría ofrecer una oportunidad de compra en el 'No' si se mantiene la tendencia defensiva de ambos equipos. El consenso externo no muestra un catalizador claro para un marcador alto, por lo que el 'No' a 0.94 presenta un edge teórico de 6 puntos si el mercado sobreestima la probabilidad de muchos goles. Riesgo: liquidez reducida, lo que puede amplificar el deslizamiento en la ejecución."
   }
  ],
  "ballenas_scan": [],
