@@ -1,58 +1,17 @@
 {
- "ts": 1786977407,
- "stamp": "20260817_143647",
+ "ts": 1786977767,
+ "stamp": "20260817_144247",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x2f0b7957e0d33e192396e1976c62d054de1167d391588d60bf803c7e432eabe7",
-   "titulo": "Dallas Wings vs. Golden State Valkyries: O/U 162.5",
-   "slug": "wnba-dal-gsv-2026-08-17-total-162pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 4312.17,
-   "price": 0.51,
-   "usd": 2199.21,
-   "ts": 1786976958,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,199 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-dal-gsv-2026-08-17-total-162pt5",
-   "titulo_es": "Dallas Wings vs. Golden State Valkyries: Más/Menos 162.5",
-   "narrativa": "La compra masiva en el Over de 162.5 puntos en el Dallas Wings vs. Golden State Valkyries refleja un edge de +4.2 puntos sobre el consenso externo (línea de 158.3), con un monto de $2,199 que representa el 12% del volumen diario del mercado. El desvío estándar de los totales recientes de ambos equipos (promedio combinado de 165.1) sugiere que el mercado está subestimando la velocidad ofensiva, especialmente en un contexto de ritmo alto. Riesgo: posible ajuste de línea si se confirma una baja en la disponibilidad de jugadoras clave."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xf71a531a3c73be33baa80260a48288909a4eec2c1c6827a50b3b7b01d3fde536",
-   "titulo": "Yabloko Effectively Banned From 2026 Russian Elections by September 17?",
-   "slug": "yabloko-effectively-banned-from-2026-russian-elections-by-september-17-20260807161302974",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.998,
-   "usd": 1996.0,
-   "ts": 1786976959,
-   "categoria": "Política",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,996 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/yabloko-effectively-banned-from-2026-russian-elections-by-september-17-20260807161302974",
-   "titulo_es": "¿Yabloko efectivamente prohibido de las elecciones rusas de 2026 para el 17 de septiembre?",
-   "narrativa": "La apuesta de $1,996 a favor del 'Yes' en la prohibición de Yabloko para las elecciones rusas de 2026 se basa en un edge de +8.7 puntos frente al consenso externo (probabilidad implícita del 41% en otras plataformas), mientras que este mercado cotiza al 49.7%. El monto representa el 18% del volumen total del mercado, lo que indica una convicción fuerte de un comprador informado sobre la dinámica política rusa actual. Riesgo: alta sensibilidad a noticias de última hora y baja liquidez en horarios no europeos."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0475,
-   "no": 0.9525,
+   "yes": 0.0465,
+   "no": 0.9535,
    "volumen": 9893430.596637001,
    "spread": 0.0,
    "categoria": "Política",
@@ -151,8 +110,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.084,
-   "no": 0.916,
+   "yes": 0.0845,
+   "no": 0.9155,
    "volumen": 99796.01369499999,
    "spread": 0.0,
    "categoria": "Política",
@@ -231,8 +190,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.067,
-   "no": 0.933,
+   "yes": 0.0675,
+   "no": 0.9325,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -291,8 +250,8 @@
   {
    "question": "Will the highest temperature in Busan be 26°C on August 17?",
    "slug": "highest-temperature-in-busan-on-august-17-2026-26c",
-   "yes": 0.9985,
-   "no": 0.0015,
+   "yes": 0.9995,
+   "no": 0.0005,
    "volumen": 9970.046200999997,
    "spread": 0.0,
    "categoria": "Otros",
@@ -306,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 52.79
+ "db_size_mb": 52.9
 }
