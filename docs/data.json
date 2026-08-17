@@ -1,38 +1,38 @@
 {
- "ts": 1787004474,
- "stamp": "20260817_220754",
+ "ts": 1787004774,
+ "stamp": "20260817_221254",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
+ "momentum": [],
+ "ballenas_scan": [
   {
-   "tipo": "momentum",
-   "market_id": "1038643",
-   "question": "Will Loopscale launch a token by December 31, 2026?",
-   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "tags": [],
-   "categoria": "Cripto",
-   "yes_antes": 0.155,
-   "yes_ahora": 0.165,
-   "cambio_pct": 6.5,
-   "direccion": "SUBIDA",
-   "volumen": 99023.58341900002,
-   "prob": 56,
-   "confianza": "baja",
+   "tipo": "ballena",
+   "market_id": "0x03645c2164a18cbc06c8c3ae1886b908060000000000000000000000000000",
+   "titulo": "Cincinnati Open: Linda Noskova vs Clara Tauson AND Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 9129.876857,
+   "price": 0.5352145164,
+   "usd": 4886.44,
+   "ts": 1787004604,
+   "categoria": "Deportes",
+   "prob": 59,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Yes subida 6.5% vs el scan anterior (0.155 → 0.165) en un mercado con $99,024 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/will-loopscale-launch-a-token-by-december-31-2026",
-   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?",
-   "narrativa": "El precio del SÍ ha subido un 6.5% en la sesión, moviéndose de 0.155 a 0.165, lo que refleja un claro impulso comprador respaldado por un volumen acumulado de $99,023. Este movimiento sugiere que el mercado está reaccionando a información o rumores recientes sobre el proyecto, y el edge de 1 punto porcentual (0.01) en la dirección alcista indica una oportunidad táctica para capturar el momentum antes de que se consolide. Riesgo: la liquidez puede ser limitada en rangos de precio estrechos, lo que podría amplificar la volatilidad intradía."
+   "razon": "Trade de compra por $4,886 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Abierto de Cincinnati: Linda Noskova vs Clara Tauson Y Abierto de Cincinnati: Sorana Cirstea vs Anna Kalinskaya",
+   "narrativa": "La compra en BALLENA agrupa dos partidos del Abierto de Cincinnati con un desembolso de 4,886 USD, lo que sugiere convicción direccional en el combo de resultados. Aunque no se especifica el edge en puntos, el tamaño del trade respecto a un mercado sin volumen reportado indica que el operador busca capturar ineficiencias de precios en eventos simultáneos. Riesgo: la falta de volumen de mercado puede ampliar el spread y dificultar la salida."
   }
  ],
- "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.041,
-   "no": 0.959,
+   "yes": 0.0465,
+   "no": 0.9535,
    "volumen": 9955622.925505998,
    "spread": 0.0,
    "categoria": "Política",
@@ -199,16 +199,6 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Loopscale launch a token by December 31, 2026?",
-   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.165,
-   "no": 0.835,
-   "volumen": 99023.58341900002,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.066,
@@ -271,12 +261,22 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.036,
-   "no": 0.964,
+   "yes": 0.035,
+   "no": 0.965,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Bitcoin Up or Down - August 17, 4:00PM-8:00PM ET",
+   "slug": "btc-updown-4h-1786996800",
+   "yes": 0.49,
+   "no": 0.51,
+   "volumen": 9968.513763,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "Bitcoin Sube o Baja - 17 de agosto, 4:00PM-8:00PM ET"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 58.84
+ "db_size_mb": 58.91
 }
