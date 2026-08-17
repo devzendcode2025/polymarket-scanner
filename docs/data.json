@@ -1,10 +1,31 @@
 {
- "ts": 1786978667,
- "stamp": "20260817_145747",
+ "ts": 1786978967,
+ "stamp": "20260817_150247",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x94ffc785f73c9d70c0c9550b2412842d025d20d02f9e9e20a18cc4598944cbc5",
+   "titulo": "Will United Russia (ER) win the most seats in the next Russian parliamentary election?",
+   "slug": "will-united-russia-er-win-the-most-seats-in-the-next-russian-parliamentary-election",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 2426.03,
+   "price": 0.9849917561,
+   "usd": 2389.62,
+   "ts": 1786978771,
+   "categoria": "Política",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,390 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-united-russia-er-win-the-most-seats-in-the-next-russian-parliamentary-election",
+   "titulo_es": "¿Ganará Rusia Unida (ER) la mayoría de los escaños en las próximas elecciones parlamentarias rusas?",
+   "narrativa": "La compra de 'Yes' en este mercado refleja una apuesta alineada con el consenso político actual, donde el control institucional y la ausencia de oposición realista favorecen históricamente a Rusia Unida. El monto de 2,389 USD sugiere una convicción moderada que busca capturar valor en un escenario de baja volatilidad esperada, aunque el volumen de mercado no reportado limita la confirmación de liquidez. Riesgo: la falta de datos de volumen puede amplificar el deslizamiento en caso de movimientos bruscos."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -32,7 +53,7 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 999724.3072700001,
+   "volumen": 999724.3072699996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
@@ -92,7 +113,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.992777,
+   "volumen": 99951.99277699999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -108,31 +129,31 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
-   "question": "Will Trump visit North Korea by December 31?",
-   "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.0845,
-   "no": 0.9155,
-   "volumen": 99796.013695,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Visitará Trump Corea del Norte antes del 31 de diciembre?"
-  },
-  {
    "question": "Fed rate cut by October 2026 meeting?",
    "slug": "fed-rate-cut-by-october-2026-meeting-199-747",
    "yes": 0.047,
    "no": 0.953,
-   "volumen": 99618.12100699995,
+   "volumen": 99618.12100699997,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Recorte de tasas de la Fed para la reunión de octubre de 2026?"
+  },
+  {
+   "question": "Will RC Deportivo A Coruña win on 2026-08-17?",
+   "slug": "lal-dep-elc-2026-08-17-dep",
+   "yes": 0.435,
+   "no": 0.565,
+   "volumen": 99505.84366199996,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará el RC Deportivo A Coruña el 2026-08-17?"
   },
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0275,
    "no": 0.9725,
-   "volumen": 99359.48181799997,
+   "volumen": 99359.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -140,8 +161,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -152,7 +173,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99127.70193400004,
+   "volumen": 99127.70193400003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -162,7 +183,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99118.66974200001,
+   "volumen": 99118.66974200004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -170,8 +191,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.27,
-   "no": 0.73,
+   "yes": 0.315,
+   "no": 0.685,
    "volumen": 99017.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -190,8 +211,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.0675,
+   "no": 0.9325,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -228,6 +249,16 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Will Google be the third-best Math AI lab at the end of August 2026?",
+   "slug": "will-google-be-the-third-best-math-ai-lab-at-the-end-of-august-2026-20260720230105164",
+   "yes": 0.283,
+   "no": 0.717,
+   "volumen": 9998.368852000001,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será Google el tercer mejor laboratorio de IA matemática a finales de agosto de 2026?"
+  },
+  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -238,32 +269,22 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
-   "question": "Will Google be the third-best Math AI lab at the end of August 2026?",
-   "slug": "will-google-be-the-third-best-math-ai-lab-at-the-end-of-august-2026-20260720230105164",
-   "yes": 0.2825,
-   "no": 0.7175,
-   "volumen": 9979.368852000003,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Google el tercer mejor laboratorio de IA matemática a finales de agosto de 2026?"
-  },
-  {
    "question": "Will Bruce Walden win the 2026 Alaska governor election?",
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632,
+   "volumen": 9973.414632000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
   }
  ],
  "historico": {
-  "ts": 1786976991,
+  "ts": 1786978792,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 53.11
+ "db_size_mb": 53.16
 }
