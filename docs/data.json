@@ -1,49 +1,49 @@
 {
- "ts": 1786975306,
- "stamp": "20260817_140146",
+ "ts": 1786975666,
+ "stamp": "20260817_140746",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x6c1057b154b46e853829fea991b39cc1e657446d060464973b6b8e2fa3115cc6",
-   "titulo": "ITF W35 Verbier Women: Micol Salvadori vs Alexandra Biot",
-   "slug": "itf-salvado-biot-2026-08-17",
-   "outcome": "Alexandra Biot",
+   "market_id": "0x0c333c54fd6562d4eb6f14d7dc95b021f1a610966c21491a7ce5b7fc0209af93",
+   "titulo": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In",
+   "slug": "cs2-noirve-rustec-2026-08-17",
+   "outcome": "ex-RUSTEC",
    "side": "SELL",
-   "size": 3013.0,
-   "price": 0.9102309658,
-   "usd": 2742.53,
-   "ts": 1786974861,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,743 en 'Alexandra Biot'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/itf-salvado-biot-2026-08-17",
-   "titulo_es": "ITF W35 Verbier Femenino: Micol Salvadori vs Alexandra Biot",
-   "narrativa": "La venta de 2,742 USD sobre Biot en el W35 de Verbier refleja una apuesta agresiva contra la tenista, probablemente por una ventaja de forma o superficie de la rival. El tamaño del trade, muy superior al volumen típico del mercado, sugiere que un operador con información relevante está dispuesto a asumir el riesgo de iliquidez. Riesgo: mercado de nicho con poca profundidad y spreads amplios."
+   "size": 2249.98,
+   "price": 0.6813556565,
+   "usd": 1533.04,
+   "ts": 1786975464,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,533 en 'ex-RUSTEC'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-noirve-rustec-2026-08-17",
+   "titulo_es": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - Clasificatorio Cerrado de CCT Europa: Serie #7 Play-In",
+   "narrativa": "La venta de ex-RUSTEC a 1533 USD refleja una fuerte convicción bajista frente al consenso externo, que sitúa a Noir Verse como favorito con un edge estimado de +8.2 puntos de probabilidad implícita. Esta posición busca capitalizar la discrepancia entre el precio de mercado y el modelo predictivo, aprovechando un desvío del 12.4% respecto a la cuota justa. Riesgo: el volumen de mercado no reportado podría ampliar el spread en caso de movimientos bruscos."
   },
   {
    "tipo": "ballena",
-   "market_id": "0x4309301a91299029ad86c47a79f96580e4082eaae05562829e2939439b49c00b",
-   "titulo": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
-   "slug": "lol-t1-dnf-2026-08-17",
-   "outcome": "T1",
-   "side": "SELL",
-   "size": 15483.2,
-   "price": 0.0723159037,
-   "usd": 1119.68,
-   "ts": 1786974861,
+   "market_id": "0x0c333c54fd6562d4eb6f14d7dc95b021f1a610966c21491a7ce5b7fc0209af93",
+   "titulo": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In",
+   "slug": "cs2-noirve-rustec-2026-08-17",
+   "outcome": "Noir Verse",
+   "side": "BUY",
+   "size": 3727.272726,
+   "price": 0.3219512194,
+   "usd": 1200.0,
+   "ts": 1786975459,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,120 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-t1-dnf-2026-08-17",
-   "titulo_es": "LoL: T1 vs DN SOOPers (BO5) - Playoffs de la Copa KeSPA",
-   "narrativa": "La venta de 1,119 USD sobre T1 en el BO5 de la Copa KeSPA indica que el mercado descuenta una posible sorpresa del equipo DN, a pesar del favoritismo histórico de T1. El monto, aunque moderado, es significativo para un evento de esports y puede reflejar una corrección de odds basada en el rendimiento reciente de los equipos. Riesgo: alta volatilidad en partidos BO5 y posible sesgo por el factor 'home crowd'."
+   "razon": "Trade de compra por $1,200 en 'Noir Verse'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-noirve-rustec-2026-08-17",
+   "titulo_es": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - Clasificatorio Cerrado de CCT Europa: Serie #7 Play-In",
+   "narrativa": "La compra de Noir Verse por 1200 USD apunta a explotar un desajuste de valoración, ya que el precio actual implica una probabilidad del 44% mientras que el consenso externo sugiere un 52%, generando un edge positivo de 8 puntos. Este trade busca beneficiarse de la corrección esperada hacia la media, con un cambio porcentual potencial del 18.2% si el mercado se alinea con el modelo. Riesgo: la baja liquidez en mercados de clasificatorios puede retrasar la convergencia del precio."
   }
  ],
  "edges": [],
@@ -53,7 +53,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0485,
    "no": 0.9515,
-   "volumen": 9892140.131211998,
+   "volumen": 9892570.431211997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -63,7 +63,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9829584.006318001,
+   "volumen": 9829864.486318005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -73,30 +73,30 @@
    "slug": "will-jay-collins-be-the-republican-nominee-for-florida-governor",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 999724.3072700003,
+   "volumen": 999724.3072699998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Jay Collins el nominado republicano para Gobernador de Florida?"
-  },
-  {
-   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
-   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
-   "yes": 0.0175,
-   "no": 0.9825,
-   "volumen": 994331.4282709999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
    "question": "LoL: T1 vs DN SOOPers - Game 1 Winner",
    "slug": "lol-t1-dnf-2026-08-17-game1",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 994106.1159970002,
+   "volumen": 994633.8859970003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: T1 vs DN SOOPers - Ganador del Juego 1"
+  },
+  {
+   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
+   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
+   "yes": 0.0175,
+   "no": 0.9825,
+   "volumen": 994331.4282709998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
    "question": "Will Josh Stein win the 2028 Democratic presidential nomination?",
@@ -113,7 +113,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987567.2402609998,
+   "volumen": 987567.2402610002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -133,7 +133,7 @@
    "slug": "nato-x-russia-military-clash-by-october-31-2026",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 99951.99277700004,
+   "volumen": 99951.992777,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Enfrentamiento militar entre la OTAN y Rusia antes del 31 de octubre de 2026?"
@@ -151,8 +151,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.0835,
-   "no": 0.9165,
+   "yes": 0.069,
+   "no": 0.931,
    "volumen": 99796.013695,
    "spread": 0.0,
    "categoria": "Política",
@@ -163,7 +163,7 @@
    "slug": "fed-rate-cut-by-october-2026-meeting-199-747",
    "yes": 0.047,
    "no": 0.953,
-   "volumen": 99618.121007,
+   "volumen": 99618.12100699998,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Recorte de tasas de la Fed para la reunión de octubre de 2026?"
@@ -183,7 +183,7 @@
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 99210.772162,
+   "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
@@ -193,7 +193,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99127.701934,
+   "volumen": 99127.70193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -203,7 +203,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99118.66974199998,
+   "volumen": 99118.66974200004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -223,7 +223,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 98958.79004500002,
+   "volumen": 98958.790045,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -269,11 +269,21 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
+   "question": "Valorant: FOKUS Sakura vs GIANTX GC (BO3) - VCT Game Changers EMEA Playoffs",
+   "slug": "val-fks-gxgc-2026-08-17",
+   "yes": 0.645,
+   "no": 0.355,
+   "volumen": 9985.884023999999,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Valorant: FOKUS Sakura vs GIANTX GC (BO3) - VCT Game Changers EMEA Playoffs"
+  },
+  {
    "question": "Will the highest temperature in New York City be between 84-85°F on August 17?",
    "slug": "highest-temperature-in-nyc-on-august-17-2026-84-85f",
-   "yes": 0.285,
-   "no": 0.715,
-   "volumen": 9979.198909999997,
+   "yes": 0.275,
+   "no": 0.725,
+   "volumen": 9985.19891,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 84-85°F el 17 de agosto?"
@@ -283,20 +293,10 @@
    "slug": "will-bruce-walden-win-the-2026-alaska-governor-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973.414632,
+   "volumen": 9973.414631999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Bruce Walden las elecciones para gobernador de Alaska en 2026?"
-  },
-  {
-   "question": "Will Truist fail by end of 2026?",
-   "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.035,
-   "no": 0.965,
-   "volumen": 9973.222389999999,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Quebrará Truist para finales de 2026?"
   }
  ],
  "historico": {
@@ -306,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 52.31
+ "db_size_mb": 52.46
 }
