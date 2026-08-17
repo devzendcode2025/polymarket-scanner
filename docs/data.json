@@ -1,29 +1,29 @@
 {
- "ts": 1786973806,
- "stamp": "20260817_133646",
+ "ts": 1786973866,
+ "stamp": "20260817_133746",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x6994aef62f609643a20aa84a214c6e70992e27e5632b6195c31c9f518bbccaba",
-   "titulo": "Bitcoin Up or Down - August 17, 9:25AM-9:30AM ET",
-   "slug": "btc-updown-5m-1786973100",
-   "outcome": "Up",
+   "market_id": "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253",
+   "titulo": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+   "slug": "wta-eala-anisimo-2026-08-17",
+   "outcome": "Amanda Anisimova",
    "side": "BUY",
-   "size": 1350.35,
-   "price": 0.99,
-   "usd": 1336.85,
-   "ts": 1786973352,
-   "categoria": "Cripto",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,337 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1786973100",
-   "titulo_es": "Bitcoin al alza o a la baja - 17 de agosto, 9:25AM-9:30AM ET",
-   "narrativa": "La señal de compra en 'Bitcoin al alza o a la baja' para el 17 de agosto a las 9:25-9:30AM ET presenta un monto de $1,336.85, lo que indica una posición moderada que busca capitalizar la volatilidad intradía de Bitcoin. El consenso externo favorece el resultado 'Up', y aunque no se especifica el volumen de mercado, la ventana de 5 minutos sugiere una oportunidad de alta frecuencia con un edge potencial basado en el momentum previo al evento. Riesgo: alta sensibilidad a noticias de último minuto y posible spread amplio en ventanas cortas."
+   "size": 13977.14,
+   "price": 0.54,
+   "usd": 7547.66,
+   "ts": 1786973658,
+   "categoria": "Deportes",
+   "prob": 63,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $7,548 en 'Amanda Anisimova'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-eala-anisimo-2026-08-17",
+   "titulo_es": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+   "narrativa": "La compra de 7,547.66 USD en Amanda Anisimova refleja una apuesta concentrada por la favorita del mercado, cuyo consenso externo la sitúa como clara dominante en el duelo ante Eala. El monto del trade, al ser significativo frente a la liquidez disponible, sugiere que el operador busca capitalizar un edge de probabilidad implícita a su favor antes de que el mercado ajuste el precio. Esta entrada anticipa una corrección del diferencial de cuotas hacia el valor real de la tenista estadounidense. Riesgo: posible volatilidad por condiciones climáticas o lesiones no reportadas."
   }
  ],
  "edges": [],
@@ -73,7 +73,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 992964.906532,
+   "volumen": 993316.4633589999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -131,8 +131,8 @@
   {
    "question": "Will Trump visit North Korea by December 31?",
    "slug": "will-trump-visit-north-korea-by-december-31",
-   "yes": 0.083,
-   "no": 0.917,
+   "yes": 0.0835,
+   "no": 0.9165,
    "volumen": 99796.01369499997,
    "spread": 0.0,
    "categoria": "Política",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 52.0
+ "db_size_mb": 52.04
 }
