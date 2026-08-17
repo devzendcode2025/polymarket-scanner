@@ -1,6 +1,6 @@
 {
- "ts": 1786954661,
- "stamp": "20260817_081741",
+ "ts": 1786955081,
+ "stamp": "20260817_082441",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -21,7 +21,7 @@
      "titulo": "Will Byron Donalds get 50.000% or more of the vote in the Florida Republican Primary for Governor?",
      "prob": 84.99999999999999,
      "url": "https://manifold.markets/Jack1/will-byron-donalds-get-50000-or-mor",
-     "_poly_question": "Will Ink launch a token by September 30, 2026?",
+     "_poly_question": "Will the Democratic Party candidate win the 2026 Tennessee Senate election?",
      "titulo_es": "¿Obtendrá Byron Donalds el 50.000% o más de los votos en las primarias republicanas para gobernador de Florida?"
     }
    ],
@@ -160,8 +160,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.772162,
    "spread": 0.0,
    "categoria": "Otros",
@@ -190,8 +190,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0655,
-   "no": 0.9345,
+   "yes": 0.066,
+   "no": 0.934,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -270,8 +270,8 @@
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0415,
-   "no": 0.9585,
+   "yes": 0.04,
+   "no": 0.96,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -295,5 +295,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 47.77
+ "db_size_mb": 47.84
 }
