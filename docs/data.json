@@ -1,39 +1,18 @@
 {
- "ts": 1787008315,
- "stamp": "20260817_231155",
+ "ts": 1787008675,
+ "stamp": "20260817_231755",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x68cc1b71e7e9e74836cb3ec75c739889f6ec2ff91efab1ecc117e505a5661ff1",
-   "titulo": "Will CD Universidad Catolica del Ecuador win on 2026-08-17?",
-   "slug": "ecu1-mac-uni-2026-08-17-uni",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2879.93,
-   "price": 0.5,
-   "usd": 1439.96,
-   "ts": 1787007904,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,440 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ecu1-mac-uni-2026-08-17-uni",
-   "titulo_es": "¿Ganará CD Universidad Católica del Ecuador el 2026-08-17?",
-   "narrativa": "La señal de compra sobre el 'No' en la pregunta de la Universidad Católica refleja un edge de +4.2 puntos frente al consenso externo del 58% de probabilidad implícita, con un monto operado de $1,439.96 que sugiere convicción direccional. El volumen de mercado no reportado limita el análisis de profundidad, pero el precio actual del 'No' a 0.62 ofrece un margen del 6.5% sobre el valor justo estimado. Riesgo: posible falta de liquidez en el tramo final del mercado."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0465,
-   "no": 0.9535,
-   "volumen": 9989613.343760004,
+   "yes": 0.0475,
+   "no": 0.9525,
+   "volumen": 9990036.063964998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -53,7 +32,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994346.638271,
+   "volumen": 994346.6382709999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -123,7 +102,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0055,
    "no": 0.9945,
-   "volumen": 99584.640045,
+   "volumen": 99655.750045,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -133,7 +112,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.018,
    "no": 0.982,
-   "volumen": 99463.59202100002,
+   "volumen": 99463.59202099999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -143,7 +122,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.027,
    "no": 0.973,
-   "volumen": 99359.48181799999,
+   "volumen": 99359.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -163,7 +142,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99127.701934,
+   "volumen": 99127.70193399995,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -171,8 +150,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99023.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -243,7 +222,7 @@
    "slug": "will-the-arizona-diamondbacks-clinch-a-spot-in-the-2026-mlb-postseason",
    "yes": 0.465,
    "no": 0.535,
-   "volumen": 9967.956949000001,
+   "volumen": 9967.956948999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Lograrán los Arizona Diamondbacks asegurar un lugar en la Postemporada de la MLB 2026?"
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 59.67
+ "db_size_mb": 59.81
 }
