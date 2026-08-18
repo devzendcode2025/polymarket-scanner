@@ -1,10 +1,31 @@
 {
- "ts": 1787080094,
- "stamp": "20260818_190814",
+ "ts": 1787080454,
+ "stamp": "20260818_191414",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x50ac7b056a7d87548323bfe7d6a36257216673876f6cd4ae8c069e9603555e26",
+   "titulo": "LoL: Galions vs Karmine Corp Blue - Game 2 Winner",
+   "slug": "lol-gal-kcb-2026-08-18-game2",
+   "outcome": "Galions",
+   "side": "BUY",
+   "size": 1272.069764,
+   "price": 0.86,
+   "usd": 1093.98,
+   "ts": 1787080296,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,094 en 'Galions'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-gal-kcb-2026-08-18-game2",
+   "titulo_es": "LoL: Galions vs Karmine Corp Blue - Ganador del Juego 2",
+   "narrativa": "La compra en Galions para el Juego 2 muestra un edge de +4.2 puntos frente al consenso externo del 38% de probabilidad implícita, con un monto de $1,094 que representa el 12% del volumen diario del mercado. La línea se ha movido 3.1% a favor de Galions en las últimas 2 horas, sugiriendo flujo de dinero informado. Riesgo: liquidez moderada, posible derrape en ejecuciones grandes."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -21,7 +42,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 8:15AM-8:30AM ET",
+     "_poly_question": "BNB Up or Down - August 19, 2:00PM-2:15PM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -50,7 +71,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 8:15AM-8:30AM ET",
+     "_poly_question": "BNB Up or Down - August 19, 2:00PM-2:15PM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -219,8 +240,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.058,
-   "no": 0.942,
+   "yes": 0.036,
+   "no": 0.964,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -259,8 +280,8 @@
   {
    "question": "Will Georgia Tree win the 2026 Secret Harbour state by-election?",
    "slug": "will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800",
-   "yes": 0.825,
-   "no": 0.175,
+   "yes": 0.83,
+   "no": 0.17,
    "volumen": 9970.273105,
    "spread": 0.0,
    "categoria": "Política",
@@ -318,11 +339,11 @@
   }
  ],
  "historico": {
-  "ts": 1787078658,
+  "ts": 1787080459,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 75.8
+ "db_size_mb": 75.88
 }
