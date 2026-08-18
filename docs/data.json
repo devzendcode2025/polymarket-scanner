@@ -1,29 +1,29 @@
 {
- "ts": 1787050026,
- "stamp": "20260818_104705",
+ "ts": 1787050086,
+ "stamp": "20260818_104806",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xfdf7ce6641582c2cb06e2100b6bc193925aec139921db25d9329a82d45c87528",
-   "titulo": "LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
-   "slug": "lol-ns-dnf-2026-08-18-game2",
+   "market_id": "0x634a39ac345ff54a655468b3027719c9de9275ad7b5dafad5f5295ec1143575e",
+   "titulo": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
+   "slug": "lol-bro2-dnf-2026-08-19",
    "outcome": "DN SOOPers",
    "side": "BUY",
-   "size": 3069.91,
-   "price": 0.48,
-   "usd": 1473.56,
-   "ts": 1787049655,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,474 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ns-dnf-2026-08-18-game2",
-   "titulo_es": "LoL: Nongshim Red Force vs DN SOOPers - Ganador del Juego 2",
-   "narrativa": "La compra en DN SOOPers para el Juego 2 muestra una clara ventaja de edge frente al consenso del mercado, con un monto de $1,473.56 que refleja una posición significativa para capturar el desvío en la probabilidad implícita. El volumen de mercado no disponible sugiere que el precio aún no ha absorbido toda la información, lo que amplifica la oportunidad direccional. Riesgo: posible falta de liquidez en el mercado de apuestas en vivo."
+   "size": 5168.593927,
+   "price": 0.5527867036,
+   "usd": 2857.13,
+   "ts": 1787049957,
+   "categoria": "Otros",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,857 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-bro2-dnf-2026-08-19",
+   "titulo_es": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Ronda 3-4 Grupo Rise",
+   "narrativa": "La compra de DN SOOPers a $2,857 refleja un posicionamiento agresivo en un mercado de baja liquidez, donde el flujo de una sola ballena puede mover el precio de forma desproporcionada. El edge estimado es de +8.2 puntos sobre el consenso externo (52% vs 43.8% de probabilidad implícita), lo que sugiere que el mercado aún no ha absorbido la información reciente del roster. Riesgo: alta volatilidad por spreads amplios y posible manipulación de precios en un volumen diario inferior a $5,000."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 68.95
+ "db_size_mb": 69.02
 }
