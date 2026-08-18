@@ -1,6 +1,6 @@
 {
- "ts": 1787047685,
- "stamp": "20260818_100805",
+ "ts": 1787047745,
+ "stamp": "20260818_100905",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -231,8 +231,8 @@
   {
    "question": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers - Game 2 Winner",
    "slug": "lol-genga-bro1-2026-08-18-game2",
-   "yes": 0.375,
-   "no": 0.625,
+   "yes": 0.385,
+   "no": 0.615,
    "volumen": 9995.597947999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -251,8 +251,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0185,
-   "no": 0.9815,
+   "yes": 0.0165,
+   "no": 0.9835,
    "volumen": 9990.673867,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -311,8 +311,8 @@
   {
    "question": "Will the highest temperature in Chengdu be 25°C on August 18?",
    "slug": "highest-temperature-in-chengdu-on-august-18-2026-25c",
-   "yes": 0.0015,
-   "no": 0.9985,
+   "yes": 0.002,
+   "no": 0.998,
    "volumen": 9939.188982,
    "spread": 0.0,
    "categoria": "Otros",
