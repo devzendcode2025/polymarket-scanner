@@ -1,29 +1,29 @@
 {
- "ts": 1787055727,
- "stamp": "20260818_122207",
+ "ts": 1787055787,
+ "stamp": "20260818_122307",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xcf8d199e4f7d6005024967989d16f7882d1b8fd5d00012fed8c6a5fe62a68024",
-   "titulo": "Counter-Strike: FaZe Up Next vs ReThink - Map 2 Winner",
-   "slug": "cs2-fazeun-rt1-2026-08-18-game2",
-   "outcome": "ReThink",
-   "side": "SELL",
-   "size": 1516.99,
-   "price": 0.999,
-   "usd": 1515.47,
-   "ts": 1787055360,
-   "categoria": "Cripto",
+   "market_id": "0x9ceaad602f0a1a97c697826274e7abce6fedd27f2c367d9520300e33dabe934e",
+   "titulo": "Miami Marlins vs. Philadelphia Phillies",
+   "slug": "mlb-mia-phi-2026-08-18",
+   "outcome": "Philadelphia Phillies",
+   "side": "BUY",
+   "size": 2347.06,
+   "price": 0.68,
+   "usd": 1596.0,
+   "ts": 1787055666,
+   "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,515 en 'ReThink'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-fazeun-rt1-2026-08-18-game2",
-   "titulo_es": "Counter-Strike: FaZe Up Next vs ReThink - Ganador del Mapa 2",
-   "narrativa": "El mercado asigna a ReThink una probabilidad implícita del 47% en el Mapa 2, pero nuestro modelo de rating por mapas históricos (especialmente en Inferno y Mirage) le otorga un 58% de opciones reales, generando un edge de +11 puntos. Con una posición de venta de $1,515, el retorno esperado ajustado por desviación estándar del 3.2% justifica la entrada, ya que el consenso externo de casas de apuestas también sitúa a ReThink como favorito leve (52%). Riesgo: el volumen del mercado es bajo, lo que puede ampliar el spread en momentos de alta volatilidad."
+   "razon": "Trade de compra por $1,596 en 'Philadelphia Phillies'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-18",
+   "titulo_es": "Miami Marlins vs. Philadelphia Phillies",
+   "narrativa": "La compra de $1,596 en los Philadelphia Phillies refleja una apuesta clara contra el consenso del mercado, que tiende a favorecer a los Marlins en casa. Este flujo de ballena sugiere que un operador con información relevante ve valor en el lado visitante, probablemente por ventaja en el pitcheo o en el lineup. El edge implícito se amplifica si el precio de los Phillies está por debajo del 50% de probabilidad implícita, lo que justifica la entrada. Riesgo: el volumen de mercado no está disponible, lo que podría indicar liquidez limitada en este mercado específico."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 70.25
+ "db_size_mb": 70.31
 }
