@@ -1,49 +1,49 @@
 {
- "ts": 1787082375,
- "stamp": "20260818_194615",
+ "ts": 1787082735,
+ "stamp": "20260818_195215",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x419b8aebc24af493100eeb4202d6df21215522643cbf37f81aaad3ea4bc33d1e",
-   "titulo": "Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5",
-   "slug": "ucl-fen-lyo-2026-08-18-total-0pt5",
-   "outcome": "Over",
+   "market_id": "0x948dbd90451838bc88978f9c68312d52812f7b54574fc337075d40db373bb145",
+   "titulo": "Will India win?",
+   "slug": "crint-lka-ind-2026-08-15-ind",
+   "outcome": "Yes",
    "side": "SELL",
-   "size": 72179.09,
-   "price": 0.999,
-   "usd": 72106.91,
-   "ts": 1787082103,
-   "categoria": "Tecnología",
-   "prob": 70,
-   "confianza": "alta",
+   "size": 5104.24,
+   "price": 0.92,
+   "usd": 4695.9,
+   "ts": 1787082400,
+   "categoria": "Otros",
+   "prob": 59,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $72,107 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ucl-fen-lyo-2026-08-18-total-0pt5",
-   "titulo_es": "Fenerbahçe SK vs. Olympique Lyonnais: Más/Menos 0.5",
-   "narrativa": "La venta de Over 0.5 en Fenerbahçe vs. Olympique Lyonnais con $72,106.91 en juego sugiere una fuerte convicción de que el partido no tendrá goles en la primera mitad, probablemente por un enfoque defensivo de ambos equipos. Aunque el volumen de mercado no está disponible, el tamaño de la operación indica una clara percepción de valor en el lado Under, con un edge potencial si el consenso externo favorece un inicio lento. Riesgo: la volatilidad temprana del partido podría generar un gol rápido, lo que haría perder la posición."
+   "razon": "Trade de venta por $4,696 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/crint-lka-ind-2026-08-15-ind",
+   "titulo_es": "¿Ganará India?",
+   "narrativa": "Se detectó una venta de 4,695.9 USD en el mercado de '¿Ganará India?' sobre el resultado 'Yes', lo que refleja una postura direccional agresiva en contra de la probabilidad implícita actual. Este flujo de capital, al ser de gran tamaño relativo, sugiere que un operador institucional está cubriendo o especulando con una caída en la probabilidad, generando una posible oportunidad de seguir el momentum vendedor si el consenso externo no respalda el resultado. Riesgo: el volumen de mercado es bajo, lo que puede amplificar el deslizamiento de precios."
   },
   {
    "tipo": "ballena",
-   "market_id": "0x457871979fd34d510133cbaf33f8508fceae492940bcb78f5a0de584d8996701",
-   "titulo": "Quebec City: Stefanos Sakellaridis vs Tristan Schoolkate",
-   "slug": "atp-sakella-schoolk-2026-08-18",
-   "outcome": "Stefanos Sakellaridis",
+   "market_id": "0xfb6aebc7096dd036681802e29b2f28ff6d6c675eda504b672966047ff41cb5c3",
+   "titulo": "Will Fenerbahçe SK win on 2026-08-18?",
+   "slug": "ucl-fen-lyo-2026-08-18-fen",
+   "outcome": "No",
    "side": "BUY",
-   "size": 7498.44,
-   "price": 0.9820534271,
-   "usd": 7363.87,
-   "ts": 1787082102,
+   "size": 2666.05,
+   "price": 0.81,
+   "usd": 2159.5,
+   "ts": 1787082402,
    "categoria": "Otros",
-   "prob": 63,
-   "confianza": "alta",
+   "prob": 55,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $7,364 en 'Stefanos Sakellaridis'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-sakella-schoolk-2026-08-18",
-   "titulo_es": "Ciudad de Quebec: Stefanos Sakellaridis vs Tristan Schoolkate",
-   "narrativa": "La compra de Stefanos Sakellaridis con $7,363.87 en juego refleja una apuesta por la superioridad del jugador griego en cancha dura, donde su servicio y agresividad suelen marcar diferencias. El monto, aunque moderado, sugiere una ventaja estadística frente a un oponente como Schoolkate, que podría tener menos experiencia en torneos de este nivel. Riesgo: la superficie y el momento del partido pueden nivelar las condiciones, y la falta de volumen de mercado limita la referencia de consenso."
+   "razon": "Trade de compra por $2,160 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-fen-lyo-2026-08-18-fen",
+   "titulo_es": "¿Ganará el Fenerbahçe SK el 2026-08-18?",
+   "narrativa": "La compra de 2,159.5 USD en el mercado de '¿Ganará el Fenerbahçe SK el 2026-08-18?' sobre el resultado 'No' indica una apuesta significativa contra el favoritismo del equipo, probablemente basada en un análisis de cuotas externas que muestran un desvío entre el precio de mercado y la probabilidad real estimada. Este movimiento de ballena, al ser direccional y de monto considerable, sugiere que el operador percibe un edge positivo al comprar 'No' a un precio que considera infravalorado, lo que podría corregirse a medida que se acerque la fecha del evento. Riesgo: la liquidez es limitada y el evento está lejano, lo que puede generar alta volatilidad en el spread."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Bitcoin Up or Down - August 20, 12PM ET",
+     "_poly_question": "Bitcoin Up or Down - August 19, 9:55AM-10:00AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -91,7 +91,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Bitcoin Up or Down - August 20, 12PM ET",
+     "_poly_question": "Bitcoin Up or Down - August 19, 9:55AM-10:00AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -112,7 +112,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9966469.600318002,
+   "volumen": 9966469.600318003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -122,7 +122,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 991039.0585159999,
+   "volumen": 991039.058516,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -132,7 +132,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 988310.5144999999,
+   "volumen": 988310.5145000002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -142,7 +142,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955090001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -162,7 +162,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94703000001,
+   "volumen": 99768.94702999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -172,10 +172,20 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299999,
+   "volumen": 99588.02526299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
+  },
+  {
+   "question": "Kingston: Valentin Royer vs Luis Guto Miguel",
+   "slug": "atp-royer-miguel-2026-08-17",
+   "yes": 0.8565,
+   "no": 0.1435,
+   "volumen": 99385.41836100003,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Kingston: Valentin Royer contra Luis Guto Miguel"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -192,7 +202,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.76193399998,
+   "volumen": 99153.76193399997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -212,7 +222,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98946.18276299999,
+   "volumen": 98946.182763,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -238,16 +248,6 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will AEK win on 2026-08-18?",
-   "slug": "ucl-pls-aek1-2026-08-18-aek1",
-   "yes": 0.345,
-   "no": 0.655,
-   "volumen": 98425.80454699998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el AEK el 2026-08-18?"
-  },
-  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -260,8 +260,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.032,
+   "no": 0.968,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -272,7 +272,7 @@
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 9987.018340000002,
+   "volumen": 9987.01834,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
@@ -282,10 +282,30 @@
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.825,
    "no": 0.175,
-   "volumen": 9985.785599,
+   "volumen": 9985.785598999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
+  },
+  {
+   "question": "Counter-Strike: Lavked vs HAVU - Map 2 Winner",
+   "slug": "cs2-lavked-havu-2026-08-18-game2",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9981.909061999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Counter-Strike: Lavked vs HAVU - Ganador del Mapa 2"
+  },
+  {
+   "question": "Will Georgia Tree win the 2026 Secret Harbour state by-election?",
+   "slug": "will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800",
+   "yes": 0.835,
+   "no": 0.165,
+   "volumen": 9975.273105,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Georgia Tree la elección parcial estatal de Secret Harbour de 2026?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -298,26 +318,6 @@
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "Will Georgia Tree win the 2026 Secret Harbour state by-election?",
-   "slug": "will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800",
-   "yes": 0.835,
-   "no": 0.165,
-   "volumen": 9970.273105,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Georgia Tree la elección parcial estatal de Secret Harbour de 2026?"
-  },
-  {
-   "question": "Fenerbahçe SK vs. Olympique Lyonnais: 1st Half O/U 0.5",
-   "slug": "ucl-fen-lyo-2026-08-18-first-half-total-0pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9966.945484999998,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "Fenerbahçe SK vs. Olympique Lyonnais: 1er Tiempo Más/Menos 0.5"
-  },
-  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -326,16 +326,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will the highest temperature in Paris be 29°C or higher on August 19?",
-   "slug": "highest-temperature-in-paris-on-august-19-2026-29corhigher",
-   "yes": 0.013,
-   "no": 0.987,
-   "volumen": 9949.772631000003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en París de 29°C o más el 19 de agosto?"
   },
   {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
@@ -352,10 +342,20 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 9941.898180000004,
+   "volumen": 9941.89818,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
+  },
+  {
+   "question": "Will Łukasz Gibała win the 2026 Kraków mayoral election?",
+   "slug": "will-ukasz-gibaa-win-the-2026-krakow-mayoral-election-20260806121025556",
+   "yes": 0.7,
+   "no": 0.3,
+   "volumen": 9927.822481999998,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Łukasz Gibała las elecciones a la alcaldía de Cracovia en 2026?"
   }
  ],
  "historico": {
@@ -365,5 +365,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 76.28
+ "db_size_mb": 76.34
 }
