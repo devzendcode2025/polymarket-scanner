@@ -1,73 +1,10 @@
 {
- "ts": 1787075593,
- "stamp": "20260818_175313",
+ "ts": 1787076013,
+ "stamp": "20260818_180013",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x419b8aebc24af493100eeb4202d6df21215522643cbf37f81aaad3ea4bc33d1e",
-   "titulo": "Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5",
-   "slug": "ucl-fen-lyo-2026-08-18-total-0pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 10668.02,
-   "price": 0.94,
-   "usd": 10027.94,
-   "ts": 1787075497,
-   "categoria": "Tecnología",
-   "prob": 67,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $10,028 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ucl-fen-lyo-2026-08-18-total-0pt5",
-   "titulo_es": "Fenerbahçe SK vs. Olympique Lyonnais: Más/Menos 0.5",
-   "narrativa": "La compra de $10,027 en Over 0.5 en Fenerbahçe vs. Lyon refleja una apuesta agresiva a que el partido no terminará sin goles, un escenario históricamente poco frecuente en competiciones europeas de alto nivel. El tamaño del trade, más de 4 veces el promedio de las otras señales, sugiere una convicción fuerte basada en el diferencial de calidad entre ambas plantillas y la necesidad de sumar puntos. Riesgo: posible baja liquidez en mercados de totales bajos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x419b8aebc24af493100eeb4202d6df21215522643cbf37f81aaad3ea4bc33d1e",
-   "titulo": "Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5",
-   "slug": "ucl-fen-lyo-2026-08-18-total-0pt5",
-   "outcome": "Under",
-   "side": "BUY",
-   "size": 45143.0,
-   "price": 0.06,
-   "usd": 2708.58,
-   "ts": 1787075496,
-   "categoria": "Tecnología",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,709 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ucl-fen-lyo-2026-08-18-total-0pt5",
-   "titulo_es": "Fenerbahçe SK vs. Olympique Lyonnais: Más/Menos 0.5",
-   "narrativa": "La compra de $2,708 en Under 0.5 en el mismo partido Fenerbahçe vs. Lyon contrasta con la señal Over de mayor monto, lo que podría indicar una cobertura o una visión contraria basada en el bajo promedio de goles en enfrentamientos defensivos. El trade, aunque menor en tamaño, busca capturar un desajuste en las probabilidades implícitas si el mercado sobreestima la probabilidad de gol. Riesgo: escenarios de gol temprano pueden liquidar la posición rápidamente."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x80c661734b23ae07062eb6401df33c4d1219aace4a4abd3d908a016620018c94",
-   "titulo": "Game Handicap: GAL (-1.5) vs Karmine Corp Blue (+1.5)",
-   "slug": "lol-gal-kcb-2026-08-18-game-handicap-away-1pt5",
-   "outcome": "Galions",
-   "side": "BUY",
-   "size": 4086.73,
-   "price": 0.5,
-   "usd": 2043.37,
-   "ts": 1787075496,
-   "volumen_mercado": 9934.145367000001,
-   "tags": [],
-   "categoria": "Deportes",
-   "prob": 80,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,043 en 'Galions' = 20.6% del volumen del mercado ($9,934). Órdenes de este tamaño relativo suelen mover el precio en el corto plazo.",
-   "url": "https://polymarket.com/market/lol-gal-kcb-2026-08-18-game-handicap-away-1pt5",
-   "titulo_es": "Hándicap del juego: GAL (-1.5) vs Karmine Corp Blue (+1.5)",
-   "narrativa": "La compra de $2,043 en Galions -1.5 contra Karmine Corp Blue presenta un edge atractivo si el consenso externo favorece a Galions por más de 1.5 mapas, y el volumen de $9,934 indica suficiente profundidad para ejecutar sin deslizamiento significativo. El monto representa el 20.5% del volumen total, lo que sugiere que el mercado aún no ha absorbido toda la información disponible. Riesgo: alta volatilidad en esports por factores de forma inesperados."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -84,7 +21,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 1:45AM-2:00AM ET",
+     "_poly_question": "Will Esoteric Ebb win Best Narrative at the 2026 Game Awards?",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -113,7 +50,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 1:45AM-2:00AM ET",
+     "_poly_question": "Will Esoteric Ebb win Best Narrative at the 2026 Game Awards?",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -222,8 +159,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -232,8 +169,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.32,
-   "no": 0.68,
+   "yes": 0.315,
+   "no": 0.685,
    "volumen": 99153.76193399998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -292,8 +229,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0175,
-   "no": 0.9825,
+   "yes": 0.0155,
+   "no": 0.9845,
    "volumen": 9995.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -312,8 +249,8 @@
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
-   "yes": 0.0835,
-   "no": 0.9165,
+   "yes": 0.0825,
+   "no": 0.9175,
    "volumen": 9987.01834,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -387,5 +324,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 74.8
+ "db_size_mb": 74.89
 }
