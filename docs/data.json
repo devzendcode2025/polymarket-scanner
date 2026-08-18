@@ -1,29 +1,29 @@
 {
- "ts": 1787049425,
- "stamp": "20260818_103705",
+ "ts": 1787049485,
+ "stamp": "20260818_103805",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x49479ffa88e2897569b1d413e3bc558003e21912edee09d080ca6bac6eb20805",
-   "titulo": "Strait of Hormuz traffic returns to normal by August 15?",
-   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 5000.0,
-   "price": 0.999,
-   "usd": 4995.0,
-   "ts": 1787049061,
-   "categoria": "Tecnología",
-   "prob": 59,
+   "market_id": "0x819a8392acd00ada07a213b558837dd03cc4b24fc360a7c6e7bdef9f838dc66c",
+   "titulo": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "slug": "lol-ns-dnf-2026-08-18",
+   "outcome": "Nongshim Red Force",
+   "side": "BUY",
+   "size": 6382.978722,
+   "price": 0.4699999999,
+   "usd": 3000.0,
+   "ts": 1787049355,
+   "categoria": "Deportes",
+   "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $4,995 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148",
-   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad antes del 15 de agosto?",
-   "narrativa": "El mercado descuenta una probabilidad implícita del 63% de que el tráfico no se normalice, pero el consenso externo de analistas geopolíticos sitúa ese escenario en torno al 72%, lo que otorga un edge de +9 puntos a favor de la venta. Con un monto de $4,995, la posición capitaliza la brecha entre la percepción del mercado y la evaluación experta, ofreciendo un retorno ajustado por riesgo atractivo si el evento se resuelve antes de la fecha límite. Riesgo: la volatilidad mediática podría comprimir el edge si hay anuncios diplomáticos sorpresivos."
+   "razon": "Trade de compra por $3,000 en 'Nongshim Red Force'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ns-dnf-2026-08-18",
+   "titulo_es": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - Playoffs de la KeSPA Cup",
+   "narrativa": "La KeSPA Cup es un torneo de alto riesgo donde los equipos suelen probar alineaciones, pero la compra en Nongshim Red Force a 3000 USD refleja una apuesta agresiva por el lado con mayor consistencia histórica en BO5. El edge se sustenta en que el mercado no ha ajustado completamente el diferencial de experiencia en playoffs entre ambos roster, pese a que el volumen actual no muestra un consenso externo claro. Riesgo: la volatilidad de alineaciones en pretemporada puede distorsionar el valor esperado."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 68.79
+ "db_size_mb": 68.87
 }
