@@ -1,10 +1,31 @@
 {
- "ts": 1787096479,
- "stamp": "20260818_234119",
+ "ts": 1787096839,
+ "stamp": "20260818_234719",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xb73f32c2884c65f5dae192c33bef3f7ce3faeec4ad313d2d3a6ad62ea2c95caf",
+   "titulo": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
+   "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 3206.46,
+   "price": 0.9966466758,
+   "usd": 3195.71,
+   "ts": 1787096511,
+   "categoria": "Política",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,196 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
+   "titulo_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?",
+   "narrativa": "La compra de 'No' a $0.31 refleja un edge de +0.08 puntos frente al consenso externo del 39% de probabilidad implícita, con un monto de $3,195 que representa una posición significativa para un mercado de nicho. El desvío entre el precio actual y el valor justo estimado sugiere que el mercado aún no ha descontado por completo el bajo perfil de Vindman en la política estatal de Florida, lo que crea una asimetría favorable. Riesgo: volumen de mercado no reportado, posible iliquidez en horas de baja actividad."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -257,8 +278,8 @@
   {
    "question": "Will the highest temperature in Paris be 27°C on August 19?",
    "slug": "highest-temperature-in-paris-on-august-19-2026-27c",
-   "yes": 0.315,
-   "no": 0.685,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 9994.560418,
    "spread": 0.0,
    "categoria": "Otros",
@@ -316,11 +337,11 @@
   }
  ],
  "historico": {
-  "ts": 1787094863,
+  "ts": 1787096664,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 79.42
+ "db_size_mb": 79.48
 }
