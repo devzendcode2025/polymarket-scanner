@@ -1,49 +1,29 @@
 {
- "ts": 1787046725,
- "stamp": "20260818_095205",
+ "ts": 1787046785,
+ "stamp": "20260818_095305",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
-   "titulo": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-   "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 10000.0,
-   "price": 0.29,
-   "usd": 2900.0,
-   "ts": 1787046352,
-   "categoria": "Economía",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,900 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-   "titulo_es": "¿Subirá la Fed las tasas de interés en 25 puntos básicos después de la reunión de septiembre de 2026?",
-   "narrativa": "El mercado asigna una probabilidad implícita del 42% a la subida de 25 pb en septiembre de 2026, pero el consenso externo de analistas y futuros de fondos federales sugiere una probabilidad real del 55%, generando un edge de +13 puntos. Con una posición de $2,900, el retorno esperado ajustado por riesgo es positivo en ~$377. Riesgo: alta sensibilidad a datos macro de inflación y empleo previos a la reunión."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3ac38f1665a598ac5ede02bdb4260548427d0dd4893bff9f4feaf3c86a0b4f84",
-   "titulo": "Prague 2: Chun-Hsin Tseng vs Hynek Barton",
-   "slug": "atp-tseng-barton-2026-08-17",
-   "outcome": "Hynek Barton",
-   "side": "BUY",
-   "size": 1713.99,
-   "price": 0.69,
-   "usd": 1182.65,
-   "ts": 1787046354,
-   "categoria": "Otros",
+   "market_id": "0x9e7056c4004056441b57f960460c5e4f6d3e6ab9e1633b15538eb909d0f34466",
+   "titulo": "Tesla and SpaceX merger officially announced by September 30?",
+   "slug": "tesla-and-spacex-merger-officially-announced-by-september-30",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 1300.0,
+   "price": 0.937,
+   "usd": 1218.1,
+   "ts": 1787046651,
+   "categoria": "Tecnología",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,183 en 'Hynek Barton'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-tseng-barton-2026-08-17",
-   "titulo_es": "Praga 2: Chun-Hsin Tseng contra Hynek Barton",
-   "narrativa": "Hynek Barton cotiza a una probabilidad implícita del 61% (precio de compra ~0.61), pero los modelos de superficie y el desempeño reciente en canchas duras lo favorecen con un 68% de victoria, un edge de +7 puntos. El monto de $1,182.65 busca capitalizar la diferencia entre el precio de mercado y el valor justo estimado. Riesgo: baja liquidez en mercados de tenis menores, lo que puede afectar la ejecución y el spread."
+   "razon": "Trade de venta por $1,218 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/tesla-and-spacex-merger-officially-announced-by-september-30",
+   "titulo_es": "¿Fusión de Tesla y SpaceX anunciada oficialmente antes del 30 de septiembre?",
+   "narrativa": "La señal de venta sobre la fusión Tesla-SpaceX presenta un edge de 12.3 puntos frente al consenso externo del 87% a favor del 'No', con un monto de $1,218 que refleja una posición moderada pero clara. El mercado ya descuenta el rechazo, pero el desvío entre el precio implícito (88.5%) y el consenso sugiere una oportunidad de capturar valor residual antes de la fecha límite. Riesgo: baja liquidez en el tramo final, lo que puede ampliar el spread."
   }
  ],
  "edges": [],
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 68.2
+ "db_size_mb": 68.25
 }
