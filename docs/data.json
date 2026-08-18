@@ -1,51 +1,10 @@
 {
- "ts": 1787088317,
- "stamp": "20260818_212517",
+ "ts": 1787088677,
+ "stamp": "20260818_213117",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x95cfd737e6138fc583b75396282d70d773c18789294a7b92b4daf91dd5771dee",
-   "titulo": "Quebec City: Andrea Pellegrino vs Nishesh Basavareddy",
-   "slug": "atp-pellegr-basavar-2026-08-18",
-   "outcome": "Andrea Pellegrino",
-   "side": "SELL",
-   "size": 9800.25,
-   "price": 0.999,
-   "usd": 9790.45,
-   "ts": 1787088103,
-   "categoria": "Otros",
-   "prob": 66,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $9,790 en 'Andrea Pellegrino'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-pellegr-basavar-2026-08-18",
-   "titulo_es": "Ciudad de Quebec: Andrea Pellegrino vs Nishesh Basavareddy",
-   "narrativa": "La venta de 9,790 USD sobre Pellegrino refleja una apuesta institucional contra su victoria, probablemente basada en la brecha de nivel frente a Basavareddy y en el bajo volumen del mercado, que amplifica el impacto de la orden. Este movimiento sugiere que el consenso externo favorece al rival, y el tamaño del trade en relación con la liquidez disponible crea un desbalance que puede presionar el precio a la baja. Riesgo: mercado con liquidez limitada, lo que puede exagerar los movimientos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18",
-   "titulo": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-   "slug": "atp-nakashi-medvede-2026-08-18",
-   "outcome": "Daniil Medvedev",
-   "side": "SELL",
-   "size": 1923.07,
-   "price": 0.553,
-   "usd": 1063.46,
-   "ts": 1787088102,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,063 en 'Daniil Medvedev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-nakashi-medvede-2026-08-18",
-   "titulo_es": "Abierto de Cincinnati: Brandon Nakashima vs Daniil Medvedev",
-   "narrativa": "La venta de 1,063 USD sobre Medvedev, a pesar de su mayor renombre, indica que el mercado está descontando una posible sorpresa de Nakashima, quizás por el historial reciente o condiciones de la pista. El monto, aunque menor, es significativo para un mercado de nicho y sugiere que los operadores con información buscan corregir el precio, ofreciendo un edge potencial si el consenso externo se alinea con esta visión. Riesgo: la volatilidad de un jugador top como Medvedev puede revertir la tendencia rápidamente."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +21,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 3:15AM-3:30AM ET",
+     "_poly_question": "Ethereum Up or Down - August 19, 8:15AM-8:30AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -91,7 +50,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 3:15AM-3:30AM ET",
+     "_poly_question": "Ethereum Up or Down - August 19, 8:15AM-8:30AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -260,8 +219,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0725,
-   "no": 0.9275,
+   "yes": 0.0215,
+   "no": 0.9785,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -365,5 +324,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 77.59
+ "db_size_mb": 77.66
 }
