@@ -1,49 +1,29 @@
 {
- "ts": 1787089037,
- "stamp": "20260818_213717",
+ "ts": 1787089397,
+ "stamp": "20260818_214317",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18",
-   "titulo": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-   "slug": "atp-nakashi-medvede-2026-08-18",
-   "outcome": "Brandon Nakashima",
+   "market_id": "0xd4a3de1964b1f3fa1edeca40dbc3ef6663a56fda84e804066c23096b615904f9",
+   "titulo": "Will Byron Donalds be the Republican nominee for Florida Governor?",
+   "slug": "will-byron-donalds-be-the-republican-nominee-for-florida-governor",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 8612.74,
-   "price": 0.7856504841,
-   "usd": 6766.6,
-   "ts": 1787088714,
-   "categoria": "Deportes",
-   "prob": 62,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $6,767 en 'Brandon Nakashima'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-nakashi-medvede-2026-08-18",
-   "titulo_es": "Abierto de Cincinnati: Brandon Nakashima vs Daniil Medvedev",
-   "narrativa": "La compra de $6,766 en Nakashima contra Medvedev refleja una apuesta agresiva a que el mercado está subestimando su forma actual en pista dura, un edge que se sustenta en la diferencia de ritmo y movilidad frente a un Medvedev que viene de una gira irregular. El tamaño del trade, muy por encima del ticket promedio, sugiere convicción direccional en un escenario donde el consenso externo favorece al ruso, lo que amplifica el valor esperado de la posición. Riesgo: volatilidad alta en el primer set si Medvedev ajusta su servicio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18",
-   "titulo": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-   "slug": "atp-nakashi-medvede-2026-08-18",
-   "outcome": "Brandon Nakashima",
-   "side": "SELL",
-   "size": 3339.0,
-   "price": 0.603065885,
-   "usd": 2013.64,
-   "ts": 1787088700,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,014 en 'Brandon Nakashima'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-nakashi-medvede-2026-08-18",
-   "titulo_es": "Abierto de Cincinnati: Brandon Nakashima vs Daniil Medvedev",
-   "narrativa": "La venta de $2,013 en Nakashima, aunque menor en monto, complementa la señal de compra al cubrir parcialmente el riesgo de reversión, indicando que el operador busca capturar el downside si el mercado sobreajusta las probabilidades tras el impulso inicial. Este movimiento apalanca el desvío entre el precio actual y el consenso externo, que aún no descuenta la fatiga acumulada de Nakashima en torneos previos. Riesgo: posible falta de liquidez en momentos de quiebre de servicio, lo que puede ampliar el spread."
+   "size": 1900.0,
+   "price": 0.99,
+   "usd": 1881.0,
+   "ts": 1787089311,
+   "categoria": "Política",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,881 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-byron-donalds-be-the-republican-nominee-for-florida-governor",
+   "titulo_es": "¿Será Byron Donalds el nominado republicano para Gobernador de Florida?",
+   "narrativa": "La compra de $1,881 en 'Yes' para Byron Donalds refleja una apuesta temprana sobre su consolidación como favorito, a pesar de que el volumen de mercado aún no se ha materializado. El edge positivo se sustenta en el momentum de su perfil nacional y el vacío de consenso externo claro, lo que permite entrar antes de que el precio se ajuste a las encuestas. Riesgo: mercado con liquidez limitada y posible volatilidad por anuncios de última hora."
   }
  ],
  "edges": [
@@ -62,7 +42,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 8:15AM-8:30AM ET",
+     "_poly_question": "BNB Up or Down - August 19, 12:15AM-12:30AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -91,7 +71,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 8:15AM-8:30AM ET",
+     "_poly_question": "BNB Up or Down - August 19, 12:15AM-12:30AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -280,8 +260,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.083,
-   "no": 0.917,
+   "yes": 0.0765,
+   "no": 0.9235,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -365,5 +345,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 77.73
+ "db_size_mb": 77.88
 }
