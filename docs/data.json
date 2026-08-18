@@ -1,6 +1,6 @@
 {
- "ts": 1787026679,
- "stamp": "20260818_041759",
+ "ts": 1787026799,
+ "stamp": "20260818_041959",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -33,7 +33,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9936533.957318002,
+   "volumen": 9945508.496317996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +43,7 @@
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 995525.6958390002,
+   "volumen": 996753.1858389999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
@@ -53,7 +53,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994356.26007,
+   "volumen": 994356.2600700001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -63,7 +63,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988107.2485160001,
+   "volumen": 988107.2485159998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -73,7 +73,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987862.6545000001,
+   "volumen": 987862.6545,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -89,11 +89,21 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "Will TEAM VISION Win The International 2026?",
+   "slug": "will-team-vision-win-the-international-2026-20260629212053622",
+   "yes": 0.44,
+   "no": 0.56,
+   "volumen": 99913.505656,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará TEAM VISION The International 2026?"
+  },
+  {
    "question": "Will the Democrats win the Ohio Senate race in 2026?",
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19804,
+   "volumen": 99840.19804000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -131,8 +141,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -143,7 +153,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99140.96193400002,
+   "volumen": 99153.76193400002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -153,7 +163,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.16,
    "no": 0.84,
-   "volumen": 99023.583419,
+   "volumen": 99023.58341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -161,8 +171,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0665,
-   "no": 0.9335,
+   "yes": 0.0615,
+   "no": 0.9385,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -177,16 +187,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will TEAM VISION Win The International 2026?",
-   "slug": "will-team-vision-win-the-international-2026-20260629212053622",
-   "yes": 0.44,
-   "no": 0.56,
-   "volumen": 98613.555656,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará TEAM VISION The International 2026?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -241,8 +241,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.778,
-   "no": 0.222,
+   "yes": 0.7815,
+   "no": 0.2185,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -259,24 +259,24 @@
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
+   "question": "Will the highest temperature in Singapore be 32°C on August 18?",
+   "slug": "highest-temperature-in-singapore-on-august-18-2026-32c",
+   "yes": 0.14,
+   "no": 0.86,
+   "volumen": 9936.476777999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Singapur de 32°C el 18 de agosto?"
+  },
+  {
    "question": "Will Unitree be removed from Chinese Military Companies list by June 30, 2027?",
    "slug": "will-unitree-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230560",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 9933.464820000001,
+   "volumen": 9933.46482,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será Unitree eliminado de la lista de Empresas Militares Chinas antes del 30 de junio de 2027?"
-  },
-  {
-   "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
-   "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
-   "yes": 0.24,
-   "no": 0.76,
-   "volumen": 9915.455293,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
   }
  ],
  "historico": {
