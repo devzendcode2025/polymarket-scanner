@@ -1,31 +1,10 @@
 {
- "ts": 1787023018,
- "stamp": "20260818_031658",
+ "ts": 1787023378,
+ "stamp": "20260818_032258",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x12aa595f4883b1a856dcf8155b87e89a8d098b5ad8a7781c75804fd13d166718",
-   "titulo": "Israel closes its airspace by August 31?",
-   "slug": "israel-closes-its-airspace-by-august-31-389",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.955,
-   "usd": 1910.0,
-   "ts": 1787022630,
-   "categoria": "Tecnología",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,910 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/israel-closes-its-airspace-by-august-31-389",
-   "titulo_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?",
-   "narrativa": "La señal de compra sobre 'No' en el cierre del espacio aéreo israelí antes del 31 de agosto muestra un edge de +3.2 puntos frente al consenso externo del 68%, con un precio de entrada en 0.71 y un desvío de 0.05 que sugiere una valoración aún no ajustada. El monto de $1,910 representa una posición moderada que capitaliza la baja probabilidad implícita del evento, respaldada por la falta de catalizadores inmediatos en la agenda diplomática. Riesgo: volatilidad geopolítica repentina podría comprimir el edge en horas."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -33,30 +12,30 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9933174.429318,
+   "volumen": 9933189.439317996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
-  },
-  {
-   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
-   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
-   "yes": 0.0175,
-   "no": 0.9825,
-   "volumen": 994356.2600699998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
    "question": "US x Iran diplomatic meeting by August 31, 2026?",
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 991472.1552289999,
+   "volumen": 995053.190468,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
+  },
+  {
+   "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
+   "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
+   "yes": 0.0175,
+   "no": 0.9825,
+   "volumen": 994356.26007,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
    "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
@@ -93,7 +72,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 99860.27004499998,
+   "volumen": 99860.27004500001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -103,7 +82,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19804000003,
+   "volumen": 99840.19804000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -123,7 +102,7 @@
    "slug": "bra-int-cre-2026-08-17-total-3pt5",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99641.46544699998,
+   "volumen": 99641.465447,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "SC Internacional vs. Clube do Remo: Más/Menos 3.5"
@@ -143,7 +122,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.027,
    "no": 0.973,
-   "volumen": 99359.48181800003,
+   "volumen": 99359.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -151,8 +130,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -161,9 +140,9 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.24,
-   "no": 0.76,
-   "volumen": 99130.96193399996,
+   "yes": 0.25,
+   "no": 0.75,
+   "volumen": 99130.96193399999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -203,7 +182,7 @@
    "slug": "will-ethereum-reach-2300-in-august-2026",
    "yes": 0.0335,
    "no": 0.9665,
-   "volumen": 98762.57911600001,
+   "volumen": 98762.57911599998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $2,300 en agosto?"
@@ -211,8 +190,8 @@
   {
    "question": "Will TEAM VISION Win The International 2026?",
    "slug": "will-team-vision-win-the-international-2026-20260629212053622",
-   "yes": 0.435,
-   "no": 0.565,
+   "yes": 0.44,
+   "no": 0.56,
    "volumen": 98588.61565600001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -243,7 +222,7 @@
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 9987.01834,
+   "volumen": 9987.018339999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
@@ -269,14 +248,14 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "APYX FDV above $50M one day after launch?",
-   "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.775,
-   "no": 0.225,
-   "volumen": 9951.191957000003,
+   "question": "Chicago White Sox vs. Chicago Cubs: O/U 9.5",
+   "slug": "mlb-cws-chc-2026-08-17-total-9pt5",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9965.885031999998,
    "spread": 0.0,
-   "categoria": "Ciencia y espacio",
-   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
+   "categoria": "Otros",
+   "question_es": "Chicago White Sox vs. Chicago Cubs: Más/Menos 9.5"
   }
  ],
  "historico": {
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 63.03
+ "db_size_mb": 63.16
 }
