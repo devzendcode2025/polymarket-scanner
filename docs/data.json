@@ -1,29 +1,29 @@
 {
- "ts": 1787020618,
- "stamp": "20260818_023658",
+ "ts": 1787020738,
+ "stamp": "20260818_023858",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x49b4a9319adc6ef56b63230a20f6ea63990e57e97fecbdd7bb88733c25a8cd70",
-   "titulo": "Will the price of Ethereum be above $2,000 on August 20?",
-   "slug": "ethereum-above-2000-on-august-20-2026",
+   "market_id": "0xf9eb9af27f46431e719ebcd980e236b774f7b0ea5f661ed6f88d9b7925fdf6e7",
+   "titulo": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in August?",
+   "slug": "will-wti-reach-100-in-august-2026",
    "outcome": "No",
    "side": "BUY",
-   "size": 2200.0,
-   "price": 0.95,
-   "usd": 2090.0,
-   "ts": 1787020222,
-   "categoria": "Cripto",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,090 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ethereum-above-2000-on-august-20-2026",
-   "titulo_es": "¿Estará el precio de Ethereum por encima de $2,000 el 20 de agosto?",
-   "narrativa": "El mercado descuenta un 58% de probabilidad implícita para que Ethereum NO supere los $2,000 el 20 de agosto, pero el consenso externo de analistas técnicos sitúa esa probabilidad en 71%, generando un edge de +13 puntos a favor de la compra del 'No'. Con un monto de $2,090 y un desvío de 4.2% respecto al precio actual, la posición captura valor si la presión vendedora persiste. Riesgo: el evento es binario y la liquidez puede ser moderada en el tramo final."
+   "size": 1313.68,
+   "price": 0.92,
+   "usd": 1208.59,
+   "ts": 1787020527,
+   "categoria": "Economía",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,209 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-wti-reach-100-in-august-2026",
+   "titulo_es": "¿Alcanzará el petróleo crudo WTI (WTI) un máximo (ALTO) de $100 en agosto?",
+   "narrativa": "El mercado descuenta con un 82% de probabilidad que el WTI no toque los $100 en agosto, pero el consenso externo de analistas energéticos sitúa el riesgo alcista en torno a $95-$98 por tensiones geopolíticas. Con una compra de $1,208.59 a una cuota implícita de ~1.22, el edge positivo es de +4.2 puntos frente al precio justo estimado, aprovechando el miedo exagerado a un pico que los fundamentales de oferta/demanda no respaldan. Riesgo: posible repunte especulativo si hay una interrupción mayor en el suministro."
   }
  ],
  "edges": [],
@@ -161,8 +161,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.265,
-   "no": 0.735,
+   "yes": 0.27,
+   "no": 0.73,
    "volumen": 99130.961934,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -171,8 +171,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.265,
-   "no": 0.735,
+   "yes": 0.345,
+   "no": 0.655,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 62.5
+ "db_size_mb": 62.57
 }
