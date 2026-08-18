@@ -1,31 +1,10 @@
 {
- "ts": 1787058488,
- "stamp": "20260818_130808",
+ "ts": 1787058848,
+ "stamp": "20260818_131408",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x25f8c5fb2d15dc9e0e27f32f5b23031be54cd12d767be87e2a723fb38f2db7fe",
-   "titulo": "Prague 2: Petr Brunclik vs Jan Kumstat",
-   "slug": "atp-bruncli-kumstat-2026-08-17",
-   "outcome": "Petr Brunclik",
-   "side": "BUY",
-   "size": 2117.04912,
-   "price": 0.5668267149,
-   "usd": 1200.0,
-   "ts": 1787058375,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,200 en 'Petr Brunclik'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-bruncli-kumstat-2026-08-17",
-   "titulo_es": "Praga 2: Petr Brunclik vs Jan Kumstat",
-   "narrativa": "La compra en Petr Brunclik contra Jan Kumstat muestra una clara asimetría a favor del favorito, con una posición de $1,200 que busca capitalizar la brecha de habilidad percibida en el mercado de Praga 2. El edge se sustenta en la consistencia histórica de Brunclik en superficies rápidas, que compensa la falta de volumen de mercado con un margen de valor implícito. Riesgo: mercado con liquidez limitada, lo que puede ampliar el spread en momentos de alta volatilidad."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -201,8 +180,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.017,
-   "no": 0.983,
+   "yes": 0.015,
+   "no": 0.985,
    "volumen": 9990.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -271,8 +250,8 @@
   {
    "question": "Will the Democratic Party win the AR-01 House seat?",
    "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.016,
-   "no": 0.984,
+   "yes": 0.015,
+   "no": 0.985,
    "volumen": 9914.337593,
    "spread": 0.0,
    "categoria": "Política",
@@ -280,11 +259,11 @@
   }
  ],
  "historico": {
-  "ts": 1787057052,
+  "ts": 1787058852,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 70.96
+ "db_size_mb": 71.03
 }
