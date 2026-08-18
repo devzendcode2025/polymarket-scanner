@@ -1,10 +1,51 @@
 {
- "ts": 1787041023,
- "stamp": "20260818_081703",
+ "ts": 1787041083,
+ "stamp": "20260818_081803",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x819a8392acd00ada07a213b558837dd03cc4b24fc360a7c6e7bdef9f838dc66c",
+   "titulo": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "slug": "lol-ns-dnf-2026-08-18",
+   "outcome": "DN SOOPers",
+   "side": "BUY",
+   "size": 9337.058822,
+   "price": 0.51,
+   "usd": 4761.9,
+   "ts": 1787040948,
+   "categoria": "Deportes",
+   "prob": 59,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $4,762 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ns-dnf-2026-08-18",
+   "titulo_es": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - Playoffs de la KeSPA Cup",
+   "narrativa": "La compra en DN SOOPers para la KeSPA Cup refleja una apuesta significativa de 4,761.90 USD, lo que sugiere que el mercado está valorando una ventaja competitiva clara tras su desempeño reciente en playoffs. El monto elevado indica convicción en el resultado, aunque el volumen de mercado no está disponible para calibrar el consenso externo. Riesgo: posible falta de liquidez en mercados de nicho de esports."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x735303df281fe6b94f3b875c833902d590bfa1782fc349fdcb6394f6008ab748",
+   "titulo": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+   "slug": "lol-dnsc-nsea-2026-08-18",
+   "outcome": "DN SOOPers Challengers",
+   "side": "BUY",
+   "size": 4064.52,
+   "price": 0.4599384921,
+   "usd": 1869.43,
+   "ts": 1787040952,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,869 en 'DN SOOPers Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-dnsc-nsea-2026-08-18",
+   "titulo_es": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío",
+   "narrativa": "La posición de 1,869.43 USD en DN SOOPers Challengers apunta a una oportunidad de valor en un enfrentamiento BO3 donde el equipo ha mostrado consistencia en rondas previas del grupo desafío. El edge se basa en la diferencia de nivel entre academias, pero sin datos de volumen externo, la señal depende del flujo interno. Riesgo: mercados de ligas menores pueden tener spreads amplios."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -265,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 66.92
+ "db_size_mb": 66.98
 }
