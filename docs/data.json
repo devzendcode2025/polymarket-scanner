@@ -1,6 +1,6 @@
 {
- "ts": 1787036882,
- "stamp": "20260818_070802",
+ "ts": 1787037242,
+ "stamp": "20260818_071402",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -100,8 +100,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -170,8 +170,8 @@
   {
    "question": "Will the highest temperature in London be 23°C on August 18?",
    "slug": "highest-temperature-in-london-on-august-18-2026-23c",
-   "yes": 0.085,
-   "no": 0.915,
+   "yes": 0.095,
+   "no": 0.905,
    "volumen": 9993.874856999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -210,8 +210,8 @@
   {
    "question": "Will the highest temperature in Seoul (Incheon) be 33°C or higher on August 18?",
    "slug": "highest-temperature-in-seoul-on-august-18-2026-33corhigher",
-   "yes": 0.0015,
-   "no": 0.9985,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 9960.596656,
    "spread": 0.0,
    "categoria": "Otros",
@@ -220,8 +220,8 @@
   {
    "question": "Will valve announce Arjun as the new hero at The International 2026?",
    "slug": "will-valve-announce-arjun-as-the-new-hero-at-the-international-2026-20260805195759850",
-   "yes": 0.26,
-   "no": 0.74,
+   "yes": 0.24,
+   "no": 0.76,
    "volumen": 9960.358341999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -259,11 +259,11 @@
   }
  ],
  "historico": {
-  "ts": 1787035386,
+  "ts": 1787037186,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 66.12
+ "db_size_mb": 66.18
 }
