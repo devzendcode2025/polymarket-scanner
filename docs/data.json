@@ -1,6 +1,6 @@
 {
- "ts": 1787020378,
- "stamp": "20260818_023258",
+ "ts": 1787020498,
+ "stamp": "20260818_023458",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -33,7 +33,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9931741.929318007,
+   "volumen": 9932248.199318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +43,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994356.2600699998,
+   "volumen": 994356.2600700001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -53,7 +53,7 @@
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 991271.4039789999,
+   "volumen": 991282.5150890001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
@@ -63,7 +63,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988107.2485160001,
+   "volumen": 988107.248516,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -73,7 +73,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987826.6544999997,
+   "volumen": 987826.6545000002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -89,11 +89,21 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
+   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
+   "yes": 0.0045,
+   "no": 0.9955,
+   "volumen": 99860.27004500001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
+  },
+  {
    "question": "Will the Democrats win the Ohio Senate race in 2026?",
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19804,
+   "volumen": 99840.19804000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -107,16 +117,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
-  },
-  {
-   "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
-   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
-   "yes": 0.0045,
-   "no": 0.9955,
-   "volumen": 99795.27004500003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
   },
   {
    "question": "SC Internacional vs. Clube do Remo: O/U 3.5",
@@ -133,27 +133,17 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 99463.592021,
+   "volumen": 99463.59202099999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
-  },
-  {
-   "question": "Will James Fishback win less than 10% of votes in the Florida Republican Governor primary?",
-   "slug": "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340",
-   "yes": 0.555,
-   "no": 0.445,
-   "volumen": 99439.10599000001,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará James Fishback menos del 10% de los votos en las primarias republicanas para gobernador de Florida?"
   },
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.027,
    "no": 0.973,
-   "volumen": 99359.48181800001,
+   "volumen": 99359.48181799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -171,8 +161,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.285,
-   "no": 0.715,
+   "yes": 0.265,
+   "no": 0.735,
    "volumen": 99130.961934,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -181,9 +171,9 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
-   "volumen": 99023.58341900003,
+   "yes": 0.265,
+   "no": 0.735,
+   "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -209,11 +199,21 @@
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
   },
   {
+   "question": "Will Ethereum reach $2,300 in August?",
+   "slug": "will-ethereum-reach-2300-in-august-2026",
+   "yes": 0.034,
+   "no": 0.966,
+   "volumen": 98762.57911599998,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Ethereum los $2,300 en agosto?"
+  },
+  {
    "question": "Will TEAM VISION Win The International 2026?",
    "slug": "will-team-vision-win-the-international-2026-20260629212053622",
    "yes": 0.435,
    "no": 0.565,
-   "volumen": 98582.215656,
+   "volumen": 98582.21565599997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará TEAM VISION The International 2026?"
@@ -227,6 +227,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
+  },
+  {
+   "question": "Cincinnati Open: Joao Fonseca vs Christopher O'Connell",
+   "slug": "atp-fonseca-oconnel-2026-08-18",
+   "yes": 0.505,
+   "no": 0.495,
+   "volumen": 98267.854348,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Cincinnati Open: Joao Fonseca vs Christopher O'Connell"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -267,16 +277,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "APYX FDV above $50M one day after launch?",
-   "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.778,
-   "no": 0.222,
-   "volumen": 9951.191957000003,
-   "spread": 0.0,
-   "categoria": "Ciencia y espacio",
-   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 62.49
+ "db_size_mb": 62.5
 }
