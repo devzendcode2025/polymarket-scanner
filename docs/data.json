@@ -1,31 +1,10 @@
 {
- "ts": 1787025359,
- "stamp": "20260818_035559",
+ "ts": 1787025719,
+ "stamp": "20260818_040159",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x83530b2d5ecd3353c2baec1e9fff522eef1b6cc525cafa671bc83172d26314d4",
-   "titulo": "Will the total domestic gross for The Odyssey be between 550m and 570m by August 31?",
-   "slug": "will-the-total-domestic-gross-for-the-odyssey-be-between-550m-and-570m-by-august-31-20260724150841341",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 1339.0,
-   "price": 0.89,
-   "usd": 1191.71,
-   "ts": 1787025034,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,192 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-total-domestic-gross-for-the-odyssey-be-between-550m-and-570m-by-august-31-20260724150841341",
-   "titulo_es": "¿Será la recaudación nacional total de The Odyssey de entre 550m y 570m para el 31 de agosto?",
-   "narrativa": "La compra de 'Yes' en The Odyssey refleja un consenso externo que sitúa la recaudación en el rango de 550m-570m, con un edge positivo de aproximadamente 3.2 puntos sobre el precio de mercado actual. El monto de $1,191.71 sugiere una posición moderada que busca capturar la convergencia hacia el punto medio del rango antes del cierre de agosto. Riesgo: posible revisión a la baja de estimaciones si el ritmo de taquilla se desacelera en los últimos días."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -61,8 +40,8 @@
   {
    "question": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
    "slug": "wta-eala-anisimo-2026-08-17",
-   "yes": 0.745,
-   "no": 0.255,
+   "yes": 0.715,
+   "no": 0.285,
    "volumen": 989386.7603839999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -121,8 +100,8 @@
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.018,
-   "no": 0.982,
+   "yes": 0.0185,
+   "no": 0.9815,
    "volumen": 99463.592021,
    "spread": 0.0,
    "categoria": "Otros",
@@ -151,8 +130,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.25,
-   "no": 0.75,
+   "yes": 0.245,
+   "no": 0.755,
    "volumen": 99130.96193400002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -171,8 +150,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.067,
-   "no": 0.933,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -251,8 +230,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7745,
-   "no": 0.2255,
+   "yes": 0.7785,
+   "no": 0.2215,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 63.57
+ "db_size_mb": 63.63
 }
