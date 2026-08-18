@@ -1,90 +1,10 @@
 {
- "ts": 1787079734,
- "stamp": "20260818_190214",
+ "ts": 1787080094,
+ "stamp": "20260818_190814",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x68ddaa27bfaebab436a8edb5dcddf168b8816e47d23a29d4138aeca7620c0da0",
-   "titulo": "LoL: Galions vs Karmine Corp Blue (BO3) - LFL Playoffs",
-   "slug": "lol-gal-kcb-2026-08-18",
-   "outcome": "Galions",
-   "side": "BUY",
-   "size": 2387.0,
-   "price": 0.87,
-   "usd": 2076.69,
-   "ts": 1787079396,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,077 en 'Galions'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-gal-kcb-2026-08-18",
-   "titulo_es": "LoL: Galions vs Karmine Corp Blue (BO3) - Playoffs de la LFL",
-   "narrativa": "La compra de $2,076.69 en Galions refleja una fuerte convicción direccional en un BO3 de playoffs, donde el edge suele concentrarse en equipos con mejor forma reciente. El monto supera el ticket promedio del mercado, lo que sugiere información privilegiada o un modelo con alta probabilidad implícita. Riesgo: volatilidad alta en partidos cortos y posible underdog con mapas favorables."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd95d9a1003e720f38e158d1797a1b61d3e7bf6e556b3c0f145a48d1857567d89",
-   "titulo": "Los Angeles Sparks vs. Connecticut Sun",
-   "slug": "wnba-la-conn-2026-08-18",
-   "outcome": "Los Angeles Sparks",
-   "side": "BUY",
-   "size": 3000.0,
-   "price": 0.57,
-   "usd": 1710.0,
-   "ts": 1787079393,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,710 en 'Los Angeles Sparks'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-la-conn-2026-08-18",
-   "titulo_es": "Los Angeles Sparks vs. Connecticut Sun",
-   "narrativa": "La apuesta de $1,710 en Los Angeles Sparks indica una corrección de precio frente al consenso externo, que probablemente subestima el factor local o el descanso del rival. El desvío entre la probabilidad implícita y la estimada justifica el tamaño de la posición. Riesgo: lesiones de última hora o mal rendimiento en la segunda mitad de la temporada."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x51f624dbbf14f9edb575fef1be6f7a303751de70783fa144fce27b957452c803",
-   "titulo": "Zelenskyy out as Ukraine president by end of 2026?",
-   "slug": "zelenskyy-out-as-ukraine-president-before-2027",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 1408.55,
-   "price": 0.94,
-   "usd": 1324.04,
-   "ts": 1787079403,
-   "categoria": "Política",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,324 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/zelenskyy-out-as-ukraine-president-before-2027",
-   "titulo_es": "¿Zelenskyy fuera como presidente de Ucrania para finales de 2026?",
-   "narrativa": "La venta de 'No' a $1,324 en el mercado de Zelenskyy fuera para 2026 captura un edge por la estabilidad política actual y el apoyo institucional, que el consenso externo no descuenta completamente. La posición es moderada, lo que sugiere confianza sin sobreexposición a un evento geopolítico de cola gruesa. Riesgo: cambios imprevistos en el escenario bélico o presión interna."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2547606b0defa595ad3e14c7c1b08cf65e4251fb6264056e5ca09511a394debc",
-   "titulo": "ITF M25 Idanha-a-Nova 2 Men: Tiago Silva vs Rocco Piatti",
-   "slug": "itf-sil-piatti-2026-08-19",
-   "outcome": "Tiago Silva",
-   "side": "BUY",
-   "size": 2200.0,
-   "price": 0.4797727273,
-   "usd": 1055.5,
-   "ts": 1787079397,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,056 en 'Tiago Silva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/itf-sil-piatti-2026-08-19",
-   "titulo_es": "ITF M25 Idanha-a-Nova 2 Masculino: Tiago Silva vs Rocco Piatti"
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -151,7 +71,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9956469.600317998,
+   "volumen": 9966469.600318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -171,7 +91,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 991039.0585159998,
+   "volumen": 991039.0585159999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -181,7 +101,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 988281.5145,
+   "volumen": 988281.5144999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -191,20 +111,10 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955089999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
-   "question": "Will the Democrats win the Ohio Senate race in 2026?",
-   "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
-   "yes": 0.525,
-   "no": 0.475,
-   "volumen": 99940.19803999999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -221,7 +131,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94702999998,
+   "volumen": 99768.94703,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -231,7 +141,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526300002,
+   "volumen": 99588.025263,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -251,7 +161,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.76193400001,
+   "volumen": 99153.76193399997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -307,30 +217,10 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
-   "question": "Will PFK Levski Sofia vs. AEK end in a draw?",
-   "slug": "ucl-pls-aek1-2026-08-18-draw",
-   "yes": 0.315,
-   "no": 0.685,
-   "volumen": 9995.835063,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Terminará en empate PFK Levski Sofia vs. AEK?"
-  },
-  {
-   "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
-   "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0135,
-   "no": 0.9865,
-   "volumen": 9995.673866999994,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Estará la capitalización de mercado de OpenAI entre $500B y $750B al cierre del mercado el día de su IPO antes del 31 de diciembre de 2027?"
-  },
-  {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.032,
-   "no": 0.968,
+   "yes": 0.058,
+   "no": 0.942,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -351,7 +241,7 @@
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.825,
    "no": 0.175,
-   "volumen": 9985.785599,
+   "volumen": 9985.785598999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
@@ -387,14 +277,44 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will Elon Musk post 520-539 tweets in August 2026?",
-   "slug": "elon-musk-of-tweets-august-2026-520-539",
-   "yes": 0.0025,
-   "no": 0.9975,
-   "volumen": 9962.784083,
+   "question": "Counter-Strike: Misa Esports vs Strael-Bora (BO3) - ESL Challenger League Europe Cup #4 Group B",
+   "slug": "cs2-mis-strael-2026-08-18",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9960.716092999995,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 520 y 539 tuits en agosto de 2026?"
+   "categoria": "Deportes",
+   "question_es": "Counter-Strike: Misa Esports vs Strael-Bora (BO3) - ESL Challenger League Europe Cup #4 Grupo B"
+  },
+  {
+   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
+   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
+   "yes": 0.0465,
+   "no": 0.9535,
+   "volumen": 9947.125083000004,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
+  },
+  {
+   "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
+   "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
+   "yes": 0.28,
+   "no": 0.72,
+   "volumen": 9941.898180000002,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
+  },
+  {
+   "question": "Will Łukasz Gibała win the 2026 Kraków mayoral election?",
+   "slug": "will-ukasz-gibaa-win-the-2026-krakow-mayoral-election-20260806121025556",
+   "yes": 0.7,
+   "no": 0.3,
+   "volumen": 9927.822481999998,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Łukasz Gibała las elecciones a la alcaldía de Cracovia en 2026?"
   }
  ],
  "historico": {
@@ -404,5 +324,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 75.66
+ "db_size_mb": 75.8
 }
