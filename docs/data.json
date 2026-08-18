@@ -1,10 +1,31 @@
 {
- "ts": 1787042463,
- "stamp": "20260818_084103",
+ "ts": 1787042583,
+ "stamp": "20260818_084303",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x819a8392acd00ada07a213b558837dd03cc4b24fc360a7c6e7bdef9f838dc66c",
+   "titulo": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "slug": "lol-ns-dnf-2026-08-18",
+   "outcome": "Nongshim Red Force",
+   "side": "BUY",
+   "size": 18674.117646,
+   "price": 0.51,
+   "usd": 9523.8,
+   "ts": 1787042452,
+   "categoria": "Deportes",
+   "prob": 66,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $9,524 en 'Nongshim Red Force'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ns-dnf-2026-08-18",
+   "titulo_es": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - Playoffs de la KeSPA Cup",
+   "narrativa": "El mercado descuenta un margen estrecho para Nongshim Red Force, pero la compra de 9,523 USD en un solo bloque sugiere que un operador con información relevante está apostando fuerte a su favor. Este flujo de capital concentrado, en un evento de playoffs con alta visibilidad, puede anticipar un ajuste en las probabilidades implícitas si el consenso externo no ha incorporado aún el momento de forma del equipo. Riesgo: volatilidad alta por el formato BO5 y posible falta de liquidez en horas de baja actividad."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -259,11 +280,11 @@
   }
  ],
  "historico": {
-  "ts": 1787040787,
+  "ts": 1787042590,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 67.24
+ "db_size_mb": 67.3
 }
