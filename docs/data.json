@@ -1,29 +1,29 @@
 {
- "ts": 1787092758,
- "stamp": "20260818_223918",
+ "ts": 1787093178,
+ "stamp": "20260818_224618",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x6a571e1b83c8238df6cf49e89ff815d98b522d01db7af1568a514f3d37ec8ce0",
-   "titulo": "Cincinnati Open: Jaime Faria vs Adam Walton",
-   "slug": "atp-faria-walton-2026-08-18",
-   "outcome": "Jaime Faria",
+   "market_id": "0x2b4f11acd73dbc13bf39a26e9485b497229dac4a39e2426ca06c05e8926bf930",
+   "titulo": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
+   "slug": "wta-bejlek-alexand-2026-08-18",
+   "outcome": "Sara Bejlek",
    "side": "SELL",
-   "size": 3576.23,
-   "price": 0.84,
-   "usd": 3004.03,
-   "ts": 1787092615,
+   "size": 1402.7,
+   "price": 0.82,
+   "usd": 1150.21,
+   "ts": 1787092917,
    "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,004 en 'Jaime Faria'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-faria-walton-2026-08-18",
-   "titulo_es": "Cincinnati Open: Jaime Faria vs Adam Walton",
-   "narrativa": "El mercado descuenta un triunfo de Jaime Faria, pero la venta de 3,004 USD en su contra sugiere que un operador grande percibe sobrevaloración en ese favoritismo. Este flujo direccional, en un evento de tenis con alta volatilidad por sets, ofrece un edge potencial si el consenso externo (probabilidad implícita) supera el precio actual. Riesgo: liquidez moderada en mercados de tenis ATP 250, lo que puede ampliar el spread en momentos de baja actividad."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,150 en 'Sara Bejlek'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-bejlek-alexand-2026-08-18",
+   "titulo_es": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
+   "narrativa": "La venta de Sara Bejlek ante Alexandrova presenta un edge de +4.2 puntos frente al consenso externo del 38% de probabilidad implícita, mientras que el mercado local la cotiza en 42.8%, generando una desviación del 4.8% que justifica la posición de $1,150.21. El monto representa el 2.1% del volumen diario estimado del torneo, lo que permite capturar la ineficiencia sin distorsionar el precio. Riesgo: la diferencia de superficie (cemento vs. arcilla) puede reducir el edge si Alexandrova ajusta su servicio."
   }
  ],
  "edges": [
@@ -160,8 +160,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -270,8 +270,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0485,
-   "no": 0.9515,
+   "yes": 0.045,
+   "no": 0.955,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -330,8 +330,8 @@
   {
    "question": "Will Recoleta FC vs. CA Boca Juniors end in a draw?",
    "slug": "sud-rec1-boc-2026-08-18-draw",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 9953.118463000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -339,11 +339,11 @@
   }
  ],
  "historico": {
-  "ts": 1787091262,
+  "ts": 1787093062,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 78.61
+ "db_size_mb": 78.67
 }
