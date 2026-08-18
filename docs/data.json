@@ -1,29 +1,29 @@
 {
- "ts": 1787043424,
- "stamp": "20260818_085704",
+ "ts": 1787043484,
+ "stamp": "20260818_085804",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9291dc03fc5e0cc589700da68ed840c2c10bc4de08547d151a85bcc69ace9081",
-   "titulo": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang",
-   "slug": "itf-schunk-jang-2026-08-18",
-   "outcome": "Gaeul Jang",
-   "side": "SELL",
-   "size": 4745.35,
-   "price": 0.5721798814,
-   "usd": 2715.19,
-   "ts": 1787043057,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,715 en 'Gaeul Jang'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/itf-schunk-jang-2026-08-18",
-   "titulo_es": "ITF W50 Praga Femenino: Nastasja Schunk vs Gaeul Jang",
-   "narrativa": "La venta de Nastasja Schunk contra Gaeul Jang en el ITF W50 de Praga refleja una oportunidad con un monto de 2,715 USD, lo que indica una posición significativa frente a un mercado sin volumen reportado. El edge se concentra en la asimetría de información o en la valoración del momento de forma de Schunk, que no se traduce en el precio actual. Riesgo: mercado con liquidez potencialmente baja, lo que puede amplificar el impacto de la orden."
+   "market_id": "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18",
+   "titulo": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+   "slug": "atp-nakashi-medvede-2026-08-18",
+   "outcome": "Daniil Medvedev",
+   "side": "BUY",
+   "size": 3401.35714,
+   "price": 0.5599999999,
+   "usd": 1904.76,
+   "ts": 1787043358,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,905 en 'Daniil Medvedev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-nakashi-medvede-2026-08-18",
+   "titulo_es": "Abierto de Cincinnati: Brandon Nakashima vs Daniil Medvedev",
+   "narrativa": "El mercado descuenta a Medvedev como favorito, pero la compra a 1904 USD sugiere que aún hay margen para capturar valor si el consenso externo subestima su solidez en pista dura frente a Nakashima. El edge en puntos no se especifica, pero el volumen de la operación indica convicción institucional en un cruce donde la diferencia de ranking y experiencia es amplia. Riesgo: posible falta de liquidez en mercados de tenis de segunda ronda."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 67.44
+ "db_size_mb": 67.51
 }
