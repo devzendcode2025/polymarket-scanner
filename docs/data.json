@@ -1,31 +1,10 @@
 {
- "ts": 1787085736,
- "stamp": "20260818_204216",
+ "ts": 1787086096,
+ "stamp": "20260818_204816",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x0080d713f1f5a0fb730e7a2cf7e64d583594a35ef95bdab366cb14fff3a3cd1f",
-   "titulo": "Indiana Fever vs. Toronto Tempo",
-   "slug": "wnba-ind-tor-2026-08-18",
-   "outcome": "Indiana Fever",
-   "side": "BUY",
-   "size": 42875.0,
-   "price": 0.82,
-   "usd": 35157.5,
-   "ts": 1787085406,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $35,158 en 'Indiana Fever'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-ind-tor-2026-08-18",
-   "titulo_es": "Indiana Fever vs. Toronto Tempo",
-   "narrativa": "La compra de $35,157 en Indiana Fever destaca por su tamaño relativo frente a un mercado sin volumen reportado, lo que sugiere que un operador grande está posicionándose con convicción antes de que el precio se ajuste. Este flujo de capital puede anticipar una corrección alcista si el consenso externo aún no refleja la probabilidad implícita del trade. El edge no se cuantifica directamente por falta de datos de consenso, pero el monto en sí mismo indica una apuesta direccional fuerte. Riesgo: liquidez potencialmente baja en el mercado de la WNBA, lo que podría amplificar el impacto del trade."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -160,8 +139,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -250,8 +229,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.023,
-   "no": 0.977,
+   "yes": 0.02,
+   "no": 0.98,
    "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -300,8 +279,8 @@
   {
    "question": "Game Handicap: WE (-1.5) vs EDward Gaming (+1.5)",
    "slug": "lol-we-edg-2026-08-19-game-handicap-away-1pt5",
-   "yes": 0.545,
-   "no": 0.455,
+   "yes": 0.535,
+   "no": 0.465,
    "volumen": 9966.716911,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -339,11 +318,11 @@
   }
  ],
  "historico": {
-  "ts": 1787084060,
+  "ts": 1787085860,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 77.01
+ "db_size_mb": 77.13
 }
