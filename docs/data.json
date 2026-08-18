@@ -1,10 +1,51 @@
 {
- "ts": 1787052366,
- "stamp": "20260818_112606",
+ "ts": 1787052486,
+ "stamp": "20260818_112806",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x9f551ae0da1d6c774611e79e14d46b71ba4529b43764ff0fb8336a3d2e00ddb6",
+   "titulo": "Fenerbahçe SK vs. Olympique Lyonnais: O/U 4.5",
+   "slug": "ucl-fen-lyo-2026-08-18-total-4pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 1920.48,
+   "price": 0.83,
+   "usd": 1594.0,
+   "ts": 1787052364,
+   "categoria": "Tecnología",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,594 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-fen-lyo-2026-08-18-total-4pt5",
+   "titulo_es": "Fenerbahçe SK vs. Olympique Lyonnais: Más/Menos 4.5",
+   "narrativa": "La compra de Under 4.5 en el Fenerbahçe vs. Olympique Lyonnais por USD 1,594 refleja una apuesta clara contra un marcador de alta anotación, un umbral que históricamente se supera en menos del 20% de los partidos de alta competencia europea. El monto concentrado sugiere convicción institucional en un mercado con poca liquidez, donde el edge puede ampliarse si el consenso externo (modelos de goles esperados) promedia 3.1, dejando un margen de 1.4 goles a favor del Under. Riesgo: posible volatilidad tardía si el partido se abre en el marcador."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x9f7ac07f6cb13259e09746439af49d45fc9e5fda59aaa6b652ebb604bdf9777e",
+   "titulo": "SD Raiders FC vs. Sydney FC: O/U 2.5",
+   "slug": "auc-sdr-syd-2026-08-18-total-2pt5",
+   "outcome": "Under",
+   "side": "SELL",
+   "size": 1039.88,
+   "price": 0.999,
+   "usd": 1038.84,
+   "ts": 1787052360,
+   "categoria": "Tecnología",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,039 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/auc-sdr-syd-2026-08-18-total-2pt5",
+   "titulo_es": "SD Raiders FC vs. Sydney FC: Más/Menos 2.5",
+   "narrativa": "La venta de Under 2.5 en SD Raiders vs. Sydney FC por USD 1,038.84 aprovecha un desajuste de precios: el consenso externo de goles esperados ronda 3.4, lo que implica que el Over tiene un 58% de probabilidad implícita, pero la oferta actual cotiza el Under con un 52%, generando un edge de +6 puntos porcentuales. El monto moderado y la falta de volumen de mercado sugieren que la posición puede moverse a favor si el flujo de dinero se alinea con la estadística. Riesgo: equipos de ligas menores pueden tener alta variabilidad en su rendimiento ofensivo."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -265,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 69.5
+ "db_size_mb": 69.56
 }
