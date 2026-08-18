@@ -1,6 +1,6 @@
 {
- "ts": 1787055187,
- "stamp": "20260818_121307",
+ "ts": 1787055247,
+ "stamp": "20260818_121407",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -201,8 +201,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.018,
-   "no": 0.982,
+   "yes": 0.0195,
+   "no": 0.9805,
    "volumen": 9990.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -251,8 +251,8 @@
   {
    "question": "Will the highest temperature in Milan be 31°C on August 18?",
    "slug": "highest-temperature-in-milan-on-august-18-2026-31c",
-   "yes": 0.225,
-   "no": 0.775,
+   "yes": 0.23,
+   "no": 0.77,
    "volumen": 9963.649519999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -280,7 +280,7 @@
   }
  ],
  "historico": {
-  "ts": 1787053451,
+  "ts": 1787055251,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
