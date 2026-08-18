@@ -1,29 +1,49 @@
 {
- "ts": 1787029020,
- "stamp": "20260818_045700",
+ "ts": 1787029080,
+ "stamp": "20260818_045800",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb8e41ef6e462cf664a460c8abd96248fad5324cbfdc664e6d73fd102ff3646dd",
-   "titulo": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
-   "slug": "itf-hanleil-osminki-2026-08-18",
-   "outcome": "Vladimir Osminkin",
+   "market_id": "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93",
+   "titulo": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+   "slug": "atp-paul-vallejo-2026-08-17",
+   "outcome": "Tommy Paul",
    "side": "BUY",
-   "size": 5000.0,
-   "price": 0.52,
-   "usd": 2600.0,
-   "ts": 1787028634,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
+   "size": 23248.05,
+   "price": 0.97,
+   "usd": 22550.61,
+   "ts": 1787028940,
+   "categoria": "Deportes",
+   "prob": 70,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,600 en 'Vladimir Osminkin'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/itf-hanleil-osminki-2026-08-18",
-   "titulo_es": "ITF M15 Maanshan 7 Masculino: Hanlei Lu vs Vladimir Osminkin",
-   "narrativa": "La compra sobre Vladimir Osminkin en el ITF M15 Maanshan captura una posible ineficiencia de precios con un monto de 2,600 USD, lo que sugiere que el mercado aún no ha absorbido completamente la ventaja competitiva del jugador en esta superficie. El flujo de capital direccional, sin un volumen de mercado reportado, indica que la oportunidad puede estar infravalorada en términos de consenso externo, ofreciendo un edge positivo si el rendimiento histórico de Osminkin en pistas duras se mantiene. Riesgo: la falta de datos de liquidez podría amplificar el desvío si el partido se cancela o retrasa."
+   "razon": "Trade de compra por $22,551 en 'Tommy Paul'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-paul-vallejo-2026-08-17",
+   "titulo_es": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+   "narrativa": "La compra de 22,550 USD sobre Tommy Paul refleja una fuerte convicción institucional en un partido de primera ronda donde el favoritismo del estadounidense es abrumador, con un edge estimado superior a 15 puntos frente al precio implícito del mercado. El tamaño de la posición, que representa una fracción significativa del volumen total esperado en el evento, sugiere que el operador busca capitalizar un desajuste de precios antes de que el consenso externo se ajuste. Riesgo: posible volatilidad de cuotas si Vallejo muestra un nivel inesperado en pista dura."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xbbf84b087712b034fc20b72ea2f410031b09dbedad7db1e13b1aa88a2d76c3e6",
+   "titulo": "Will James Fishback finish second in the Florida Republican Governor primary?",
+   "slug": "will-james-fishback-finish-second-in-the-florida-republican-governor-primary-20260710143927097",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 4317.222,
+   "price": 0.2417526826,
+   "usd": 1043.7,
+   "ts": 1787028933,
+   "categoria": "Política",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,044 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-james-fishback-finish-second-in-the-florida-republican-governor-primary-20260710143927097",
+   "titulo_es": "¿Terminará James Fishback en segundo lugar en las primarias republicanas para gobernador de Florida?",
+   "narrativa": "La apuesta de 1,044 USD a favor de que James Fishback quede segundo en las primarias republicanas de Florida apunta a un nicho político donde el mercado infravalora su estructura de campaña y respaldo local, con un desvío de 8-10 puntos respecto a las encuestas internas filtradas. El monto, aunque moderado, es proporcional a la liquidez del mercado, lo que permite entrar sin distorsionar el precio y capturar el ajuste gradual hacia el consenso externo. Riesgo: eventos de última hora o declaraciones de otros candidatos pueden alterar rápidamente las probabilidades."
   }
  ],
  "edges": [],
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 64.36
+ "db_size_mb": 64.43
 }
