@@ -1,29 +1,49 @@
 {
- "ts": 1787029620,
- "stamp": "20260818_050700",
+ "ts": 1787029680,
+ "stamp": "20260818_050800",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93",
-   "titulo": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-   "slug": "atp-paul-vallejo-2026-08-17",
-   "outcome": "Tommy Paul",
+   "market_id": "0x6b1efd6b676f421ee9efffa6858d3e5ce95fe94fb27731cd03f6ea595cac737c",
+   "titulo": "CF Pachuca vs. Club Puebla: O/U 5.5",
+   "slug": "mex-pac-pue-2026-08-17-total-5pt5",
+   "outcome": "Under",
    "side": "SELL",
-   "size": 1350.0,
+   "size": 1658.24,
    "price": 0.999,
-   "usd": 1348.65,
-   "ts": 1787029233,
-   "categoria": "Deportes",
+   "usd": 1656.58,
+   "ts": 1787029531,
+   "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,349 en 'Tommy Paul'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-paul-vallejo-2026-08-17",
-   "titulo_es": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-   "narrativa": "La venta de Tommy Paul en el Cincinnati Open refleja un edge de +4.2 puntos frente al consenso externo del 78% de probabilidad implícita, mientras que el mercado local solo asigna un 62%. Con un monto de $1,348.65 y un desvío del 16% respecto al precio justo, esta posición captura una corrección esperada sin necesidad de apalancamiento. Riesgo: el volumen de mercado es bajo, lo que puede ampliar el spread en caso de salida anticipada."
+   "razon": "Trade de venta por $1,657 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mex-pac-pue-2026-08-17-total-5pt5",
+   "titulo_es": "CF Pachuca vs. Club Puebla: Más/Menos 5.5",
+   "narrativa": "La venta de Under 5.5 en el partido Pachuca vs. Puebla, con un monto de $1,656.58, refleja una apuesta agresiva contra un marcador de alta anotación. Este tipo de operación suele aprovechar un desajuste en la percepción del mercado, donde el consenso externo probablemente favorece el Over, generando un edge positivo al tomar el lado contrario con un precio que aún no se ha ajustado. El tamaño del trade sugiere convicción en un juego de ritmo controlado o con defensas sólidas, lo que incrementa la probabilidad implícita de un resultado bajo. Riesgo: posible corrección rápida del precio si el volumen de mercado es bajo o si llegan noticias de última hora sobre alineaciones ofensivas."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x65411079bc4158d0819877f627e7c750ff4848793a6a6f0b4d4f6c31a67bf61a",
+   "titulo": "Will the highest temperature in Tokyo be 30°C on August 18?",
+   "slug": "highest-temperature-in-tokyo-on-august-18-2026-30c",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1054.72,
+   "price": 0.999,
+   "usd": 1053.67,
+   "ts": 1787029531,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,054 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/highest-temperature-in-tokyo-on-august-18-2026-30c",
+   "titulo_es": "¿Será la temperatura máxima en Tokio de 30°C el 18 de agosto?",
+   "narrativa": "La compra de 'No' para la temperatura máxima de 30°C en Tokio el 18 de agosto, con $1,053.67, capitaliza un sesgo estacional o climático que el mercado podría estar sobrevalorando. Si el consenso externo de pronósticos meteorológicos indica una alta probabilidad de que la temperatura no alcance ese umbral, el precio de 'Sí' estaría inflado, ofreciendo un edge claro al comprar el lado contrario con una relación riesgo/beneficio favorable. El monto del trade indica una posición moderada que busca explotar la diferencia entre la probabilidad real y la implícita en el mercado. Riesgo: alta sensibilidad a cambios de última hora en el clima, lo que puede generar volatilidad en el precio del activo."
   }
  ],
  "edges": [],
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 64.52
+ "db_size_mb": 64.57
 }
