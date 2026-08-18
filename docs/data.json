@@ -1,31 +1,10 @@
 {
- "ts": 1787027759,
- "stamp": "20260818_043559",
+ "ts": 1787028119,
+ "stamp": "20260818_044159",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xb8e41ef6e462cf664a460c8abd96248fad5324cbfdc664e6d73fd102ff3646dd",
-   "titulo": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
-   "slug": "itf-hanleil-osminki-2026-08-18",
-   "outcome": "Vladimir Osminkin",
-   "side": "BUY",
-   "size": 32555.3,
-   "price": 0.38,
-   "usd": 12371.01,
-   "ts": 1787027433,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $12,371 en 'Vladimir Osminkin'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/itf-hanleil-osminki-2026-08-18",
-   "titulo_es": "ITF M15 Maanshan 7 Masculino: Hanlei Lu vs Vladimir Osminkin",
-   "narrativa": "El mercado muestra una fuerte convicción compradora hacia Osminkin, con una apuesta de $12,371 que representa un flujo significativo para un evento M15, sugiriendo que los operadores grandes detectan una ventaja en el precio actual frente al consenso externo. Este volumen concentrado puede indicar información privilegiada o una lectura táctica del partido que aún no se ha reflejado plenamente en las cuotas. Riesgo: liquidez limitada en estos torneos menores, lo que puede amplificar la volatilidad del precio."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -141,8 +120,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -161,8 +140,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -171,8 +150,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0615,
-   "no": 0.9385,
+   "yes": 0.061,
+   "no": 0.939,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -251,8 +230,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7815,
-   "no": 0.2185,
+   "yes": 0.7825,
+   "no": 0.2175,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -271,8 +250,8 @@
   {
    "question": "Will the highest temperature in Seoul (Incheon) be 30°C on August 18?",
    "slug": "highest-temperature-in-seoul-on-august-18-2026-30c",
-   "yes": 0.625,
-   "no": 0.375,
+   "yes": 0.635,
+   "no": 0.365,
    "volumen": 9936.963751000003,
    "spread": 0.0,
    "categoria": "Otros",
@@ -280,11 +259,11 @@
   }
  ],
  "historico": {
-  "ts": 1787026323,
+  "ts": 1787028124,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 64.1
+ "db_size_mb": 64.16
 }
