@@ -1,10 +1,51 @@
 {
- "ts": 1787088677,
- "stamp": "20260818_213117",
+ "ts": 1787089037,
+ "stamp": "20260818_213717",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18",
+   "titulo": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+   "slug": "atp-nakashi-medvede-2026-08-18",
+   "outcome": "Brandon Nakashima",
+   "side": "BUY",
+   "size": 8612.74,
+   "price": 0.7856504841,
+   "usd": 6766.6,
+   "ts": 1787088714,
+   "categoria": "Deportes",
+   "prob": 62,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $6,767 en 'Brandon Nakashima'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-nakashi-medvede-2026-08-18",
+   "titulo_es": "Abierto de Cincinnati: Brandon Nakashima vs Daniil Medvedev",
+   "narrativa": "La compra de $6,766 en Nakashima contra Medvedev refleja una apuesta agresiva a que el mercado está subestimando su forma actual en pista dura, un edge que se sustenta en la diferencia de ritmo y movilidad frente a un Medvedev que viene de una gira irregular. El tamaño del trade, muy por encima del ticket promedio, sugiere convicción direccional en un escenario donde el consenso externo favorece al ruso, lo que amplifica el valor esperado de la posición. Riesgo: volatilidad alta en el primer set si Medvedev ajusta su servicio."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18",
+   "titulo": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+   "slug": "atp-nakashi-medvede-2026-08-18",
+   "outcome": "Brandon Nakashima",
+   "side": "SELL",
+   "size": 3339.0,
+   "price": 0.603065885,
+   "usd": 2013.64,
+   "ts": 1787088700,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,014 en 'Brandon Nakashima'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-nakashi-medvede-2026-08-18",
+   "titulo_es": "Abierto de Cincinnati: Brandon Nakashima vs Daniil Medvedev",
+   "narrativa": "La venta de $2,013 en Nakashima, aunque menor en monto, complementa la señal de compra al cubrir parcialmente el riesgo de reversión, indicando que el operador busca capturar el downside si el mercado sobreajusta las probabilidades tras el impulso inicial. Este movimiento apalanca el desvío entre el precio actual y el consenso externo, que aún no descuenta la fatiga acumulada de Nakashima en torneos previos. Riesgo: posible falta de liquidez en momentos de quiebre de servicio, lo que puede ampliar el spread."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -71,7 +112,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9966792.590318,
+   "volumen": 9967998.190317996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -91,7 +132,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 988310.5145,
+   "volumen": 988310.5144999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -101,7 +142,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955089999,
+   "volumen": 983750.9955090001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -121,7 +162,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94703000001,
+   "volumen": 99768.94702999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -131,7 +172,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.025263,
+   "volumen": 99588.02526300002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -187,11 +228,31 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
+   "question": "Will Elon Musk post <40 tweets from August 17 to August 19, 2026?",
+   "slug": "elon-musk-of-tweets-august-17-august-19-0-39",
+   "yes": 0.001,
+   "no": 0.999,
+   "volumen": 98755.40880200002,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk menos de 40 tuits del 17 de agosto al 19 de agosto de 2026?"
+  },
+  {
+   "question": "Israel x Iran ceasefire continues through October 31?",
+   "slug": "israel-x-iran-ceasefire-continues-through-october-31",
+   "yes": 0.745,
+   "no": 0.255,
+   "volumen": 98713.25017200001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Continúa el alto el fuego entre Israel e Irán hasta el 31 de octubre?"
+  },
+  {
    "question": "Counter-Strike: FORZE Reload vs 300FPS (BO3) - CCT Europe Contenders #8 Playoffs",
    "slug": "cs2-forzer-300fps-2026-08-18",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 98615.38985699999,
+   "volumen": 98615.389857,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Counter-Strike: FORZE Reload vs 300FPS (BO3) - CCT Europe Contenders #8 Playoffs"
@@ -219,8 +280,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0215,
-   "no": 0.9785,
+   "yes": 0.083,
+   "no": 0.917,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -231,7 +292,7 @@
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 9987.01834,
+   "volumen": 9987.018340000002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
@@ -241,7 +302,7 @@
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 9985.785598999999,
+   "volumen": 9985.785599,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
@@ -291,30 +352,10 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 9941.898180000002,
+   "volumen": 9941.898179999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
-  },
-  {
-   "question": "Will Raphael Glucksmann win the Socialist Party nomination to contest the 2027 French presidential elections?",
-   "slug": "will-raphael-glucksman-win-the-socialist-party-nomination-to-contest-the-2027-french-presidential-elections-20260710182042071",
-   "yes": 0.56,
-   "no": 0.44,
-   "volumen": 9937.185969999999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Raphael Glucksmann la nominación del Partido Socialista para disputar las elecciones presidenciales francesas de 2027?"
-  },
-  {
-   "question": "Will Łukasz Gibała win the 2026 Kraków mayoral election?",
-   "slug": "will-ukasz-gibaa-win-the-2026-krakow-mayoral-election-20260806121025556",
-   "yes": 0.7,
-   "no": 0.3,
-   "volumen": 9927.822481999998,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Łukasz Gibała las elecciones a la alcaldía de Cracovia en 2026?"
   }
  ],
  "historico": {
@@ -324,5 +365,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 77.66
+ "db_size_mb": 77.73
 }
