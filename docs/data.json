@@ -1,6 +1,6 @@
 {
- "ts": 1787094979,
- "stamp": "20260818_231619",
+ "ts": 1787095339,
+ "stamp": "20260818_232219",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -11,9 +11,9 @@
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 8.0,
+   "prob_poly": 9.0,
    "consenso": 50.0,
-   "edge": 42.0,
+   "edge": 41.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -31,18 +31,18 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 8.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 42.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 41.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket cotiza esta opción al 8%, mientras que el consenso externo de PredictIt la sitúa en 50 puntos, generando un edge de 42 puntos a favor de la compra del 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real estimada por fuentes alternativas, ofreciendo una oportunidad de valor relativo significativa. El monto del trade debe calibrarse considerando que un movimiento hacia el consenso implicaría una revalorización sustancial, aunque la materialización depende de la dinámica electoral final. Riesgo: el consenso externo podría estar desactualizado o reflejar un escenario distinto al de Polymarket."
+   "narrativa": "La probabilidad implícita de Polymarket es de solo 11.1% (paga 9.0), mientras que el consenso externo de PredictIt se sitúa en 50%, generando un edge de 41 puntos a favor de comprar el 'Sí'. Este diferencial extremo sugiere que el mercado de Polymarket aún no ha incorporado plenamente las métricas de consenso, ofreciendo una oportunidad de valor relativo con un monto de trade que puede escalarse según la liquidez disponible. Riesgo: el evento es a largo plazo (2026) y la liquidez en mercados de nicho puede ser limitada, lo que podría afectar la ejecución de salida."
   },
   {
    "tipo": "edge",
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 13.0,
+   "prob_poly": 10.5,
    "consenso": 50.0,
-   "edge": 37.0,
+   "edge": 39.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -60,9 +60,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 13.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 37.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 10.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 39.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a solo 13.0, mientras que el consenso externo de PredictIt lo sitúa en 50.0, generando un edge de 37 puntos a favor de la compra. Esta brecha sugiere una posible infravaloración significativa de la probabilidad real del resultado, ofreciendo una entrada atractiva para capturar valor a largo plazo. Riesgo: el evento es a 2026 y la liquidez puede ser limitada, lo que podría afectar la salida de la posición."
+   "narrativa": "El mercado de Polymarket cotiza el Sí al 10.5%, frente a un consenso externo del 50% (PredictIt), lo que arroja un edge de +39.5 puntos a favor de la compra. Esta brecha extrema sugiere una posible fijación errónea de precios, ya que el margen del 9%-12% es un rango plausible en una contienda estatal competitiva. Con un desvío tan amplio, la oportunidad de capturar valor es significativa si el resultado se acerca a las probabilidades del consenso. Riesgo: la liquidez puede ser limitada en mercados de elecciones locales a largo plazo, lo que podría afectar la ejecución de la entrada o salida."
   }
  ],
  "top_volumen": [
@@ -71,7 +71,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9969926.860318001,
+   "volumen": 9969936.860317996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -81,7 +81,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 993148.4585160002,
+   "volumen": 993148.4585159998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -91,7 +91,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 988310.5145,
+   "volumen": 988310.5144999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -121,7 +121,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94702999998,
+   "volumen": 99768.94703000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -131,7 +131,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526300002,
+   "volumen": 99588.02526300003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -151,7 +151,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99153.76193400002,
+   "volumen": 99153.761934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -171,7 +171,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98946.18276299999,
+   "volumen": 98946.18276299998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -191,27 +191,17 @@
    "slug": "israel-x-iran-ceasefire-continues-through-october-31",
    "yes": 0.745,
    "no": 0.255,
-   "volumen": 98713.25017200003,
+   "volumen": 98713.25017200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Continúa el alto el fuego entre Israel e Irán hasta el 31 de octubre?"
-  },
-  {
-   "question": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime",
-   "slug": "atp-cerund-augeral-2026-08-18",
-   "yes": 0.19,
-   "no": 0.81,
-   "volumen": 98686.10293500003,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Abierto de Cincinnati: Juan Manuel Cerundolo vs Felix Auger-Aliassime"
   },
   {
    "question": "Counter-Strike: FORZE Reload vs 300FPS (BO3) - CCT Europe Contenders #8 Playoffs",
    "slug": "cs2-forzer-300fps-2026-08-18",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 98641.99985699999,
+   "volumen": 98641.999857,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Counter-Strike: FORZE Reload vs 300FPS (BO3) - CCT Europe Contenders #8 Playoffs"
@@ -219,9 +209,9 @@
   {
    "question": "Will B8 Win the CS2 EWC 2026?",
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
-   "yes": 0.016,
-   "no": 0.984,
-   "volumen": 98451.045404,
+   "yes": 0.0165,
+   "no": 0.9835,
+   "volumen": 98451.04540399999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -249,8 +239,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.034,
-   "no": 0.966,
+   "yes": 0.0495,
+   "no": 0.9505,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -289,8 +279,8 @@
   {
    "question": "Will Georgia Tree win the 2026 Secret Harbour state by-election?",
    "slug": "will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800",
-   "yes": 0.835,
-   "no": 0.165,
+   "yes": 0.86,
+   "no": 0.14,
    "volumen": 9975.273105,
    "spread": 0.0,
    "categoria": "Política",
@@ -305,6 +295,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will the highest temperature in Munich be 29°C on August 19?",
+   "slug": "highest-temperature-in-munich-on-august-19-2026-29c",
+   "yes": 0.465,
+   "no": 0.535,
+   "volumen": 9972.797767,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Múnich de 29°C el 19 de agosto?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -324,5 +324,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 79.06
+ "db_size_mb": 79.12
 }
