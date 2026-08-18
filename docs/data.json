@@ -1,31 +1,10 @@
 {
- "ts": 1787065930,
- "stamp": "20260818_151210",
+ "ts": 1787066290,
+ "stamp": "20260818_151810",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xabe0e41540b70f3535b0d9325a19bc6f8c6bcce0ce27c28636a2e1d5c0c4eda8",
-   "titulo": "Will GPT-6 be released by August 31, 2026?",
-   "slug": "will-gpt-6-be-released-by-august-31-2026-778",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1720.0,
-   "price": 0.94,
-   "usd": 1616.8,
-   "ts": 1787065581,
-   "categoria": "Tecnología",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,617 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-gpt-6-be-released-by-august-31-2026-778",
-   "titulo_es": "¿Será lanzado GPT-6 antes del 31 de agosto de 2026?",
-   "narrativa": "La compra de 'No' a GPT-6 antes de agosto de 2026 presenta un edge de +8.2 puntos frente al consenso externo del 62% de probabilidad implícita, mientras que el mercado cotiza solo al 48%. Con un monto de $1,616.8, la posición aprovecha el escepticismo del ciclo de desarrollo de OpenAI, que históricamente ha retrasado lanzamientos mayores. Riesgo: ventana temporal amplia que podría absorber noticias anticipadas."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -171,8 +150,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0665,
-   "no": 0.9335,
+   "yes": 0.065,
+   "no": 0.935,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -201,8 +180,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0135,
-   "no": 0.9865,
+   "yes": 0.012,
+   "no": 0.988,
    "volumen": 9995.673867,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -280,11 +259,11 @@
   }
  ],
  "historico": {
-  "ts": 1787064254,
+  "ts": 1787066054,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 72.57
+ "db_size_mb": 72.68
 }
