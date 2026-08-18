@@ -1,32 +1,70 @@
 {
- "ts": 1787069171,
- "stamp": "20260818_160611",
+ "ts": 1787069591,
+ "stamp": "20260818_161311",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
+ "ballenas_scan": [],
+ "edges": [
   {
-   "tipo": "ballena",
-   "market_id": "0x0a061d09daa5ac4221fa7ea0d7abf84ab2ac42af0817a001d4c0dd3262be2cd8",
-   "titulo": "Will Bitcoin reach $67,500 in August?",
-   "slug": "will-bitcoin-reach-67pt5k-in-august-2026",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 11362.691716,
-   "price": 0.6160512115,
-   "usd": 7000.0,
-   "ts": 1787068882,
-   "categoria": "Cripto",
-   "prob": 62,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $7,000 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-bitcoin-reach-67pt5k-in-august-2026",
-   "titulo_es": "¿Alcanzará Bitcoin los $67,500 en agosto?",
-   "narrativa": "El mercado descuenta un 58% de probabilidad implícita para el 'No', pero el consenso externo de analistas y la tendencia histórica de consolidación de BTC en rangos estrechos antes de movimientos direccionales sugieren un sesgo adicional a favor del 'No'. Con una posición de $7,000 y un edge estimado de +4.2 puntos sobre la probabilidad justa, la relación riesgo/beneficio es atractiva para capturar la prima por la baja volatilidad esperada en agosto. Riesgo: posible repunte alcista por noticias macro o flujos de ETF que compriman el spread."
+   "tipo": "edge",
+   "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+   "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
+   "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
+   "prob_poly": 6.5,
+   "consenso": 49.5,
+   "edge": 43.0,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "PredictIt",
+     "titulo": "New Hampshire",
+     "prob": 49.5,
+     "url": "https://www.predictit.org/markets/detail/8939",
+     "_poly_question": "Ethereum Up or Down - August 19, 3:15AM-3:30AM ET",
+     "titulo_es": "Nuevo Hampshire"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Política",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "PredictIt",
+   "razon": "Polymarket paga este mercado a 6.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 43.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
+   "narrativa": "El consenso externo de PredictIt sitúa la probabilidad de que el demócrata gane por 3%-6% en 49.5%, mientras Polymarket solo paga 6.5%, generando un edge de 43 puntos a favor de comprar el 'Sí'. Esta brecha extrema sugiere que el mercado de Polymarket no ha ajustado el precio a la información disponible, ofreciendo una oportunidad de valor relativo. Riesgo: la diferencia puede deberse a liquidez limitada o a criterios de resolución distintos entre plataformas."
+  },
+  {
+   "tipo": "edge",
+   "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
+   "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
+   "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
+   "prob_poly": 15.5,
+   "consenso": 49.5,
+   "edge": 34.0,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "PredictIt",
+     "titulo": "New Hampshire",
+     "prob": 49.5,
+     "url": "https://www.predictit.org/markets/detail/8939",
+     "_poly_question": "Ethereum Up or Down - August 19, 3:15AM-3:30AM ET",
+     "titulo_es": "Nuevo Hampshire"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Política",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "PredictIt",
+   "razon": "Polymarket paga este mercado a 15.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 34.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
+   "narrativa": "Con un consenso externo de 49.5% en PredictIt para que el republicano gane por 9%-12%, Polymarket cotiza a 15.5%, lo que implica un edge de 34 puntos a favor de comprar el 'Sí'. Esta discrepancia es inusualmente alta y sugiere que el mercado de Polymarket está rezagado respecto a la información de otras fuentes. Riesgo: la probabilidad real puede ser menor si el consenso externo no refleja correctamente las condiciones locales."
   }
  ],
- "edges": [],
  "top_volumen": [
   {
    "question": "Will Michelle Bolsonaro win the 2026 Brazilian presidential election?",
@@ -121,8 +159,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.32,
-   "no": 0.68,
+   "yes": 0.315,
+   "no": 0.685,
    "volumen": 99153.761934,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -161,8 +199,8 @@
   {
    "question": "Cincinnati Open: Katerina Siniakova vs Madison Keys",
    "slug": "wta-siniako-keys-2026-08-18",
-   "yes": 0.0355,
-   "no": 0.9645,
+   "yes": 0.0315,
+   "no": 0.9685,
    "volumen": 98829.15462699994,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -241,8 +279,8 @@
   {
    "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
-   "yes": 0.805,
-   "no": 0.195,
+   "yes": 0.81,
+   "no": 0.19,
    "volumen": 9965.733740000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -286,5 +324,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 73.34
+ "db_size_mb": 73.49
 }
