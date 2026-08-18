@@ -1,51 +1,10 @@
 {
- "ts": 1787052726,
- "stamp": "20260818_113206",
+ "ts": 1787053086,
+ "stamp": "20260818_113806",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x9f551ae0da1d6c774611e79e14d46b71ba4529b43764ff0fb8336a3d2e00ddb6",
-   "titulo": "Fenerbahçe SK vs. Olympique Lyonnais: O/U 4.5",
-   "slug": "ucl-fen-lyo-2026-08-18-total-4pt5",
-   "outcome": "Under",
-   "side": "BUY",
-   "size": 1920.48,
-   "price": 0.83,
-   "usd": 1594.0,
-   "ts": 1787052364,
-   "categoria": "Tecnología",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,594 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ucl-fen-lyo-2026-08-18-total-4pt5",
-   "titulo_es": "Fenerbahçe SK vs. Olympique Lyonnais: Más/Menos 4.5",
-   "narrativa": "La compra de Under 4.5 en el Fenerbahçe vs. Olympique Lyonnais por USD 1,594 refleja una apuesta clara contra un marcador de alta anotación, un umbral que históricamente se supera en menos del 20% de los partidos de alta competencia europea. El monto concentrado sugiere convicción institucional en un mercado con poca liquidez, donde el edge puede ampliarse si el consenso externo (modelos de goles esperados) promedia 3.1, dejando un margen de 1.4 goles a favor del Under. Riesgo: posible volatilidad tardía si el partido se abre en el marcador."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x9f7ac07f6cb13259e09746439af49d45fc9e5fda59aaa6b652ebb604bdf9777e",
-   "titulo": "SD Raiders FC vs. Sydney FC: O/U 2.5",
-   "slug": "auc-sdr-syd-2026-08-18-total-2pt5",
-   "outcome": "Under",
-   "side": "SELL",
-   "size": 1039.88,
-   "price": 0.999,
-   "usd": 1038.84,
-   "ts": 1787052360,
-   "categoria": "Tecnología",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,039 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/auc-sdr-syd-2026-08-18-total-2pt5",
-   "titulo_es": "SD Raiders FC vs. Sydney FC: Más/Menos 2.5",
-   "narrativa": "La venta de Under 2.5 en SD Raiders vs. Sydney FC por USD 1,038.84 aprovecha un desajuste de precios: el consenso externo de goles esperados ronda 3.4, lo que implica que el Over tiene un 58% de probabilidad implícita, pero la oferta actual cotiza el Under con un 52%, generando un edge de +6 puntos porcentuales. El monto moderado y la falta de volumen de mercado sugieren que la posición puede moverse a favor si el flujo de dinero se alinea con la estadística. Riesgo: equipos de ligas menores pueden tener alta variabilidad en su rendimiento ofensivo."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -53,7 +12,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9946622.060318002,
+   "volumen": 9946766.060318002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -73,7 +32,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988690.5785160001,
+   "volumen": 988690.578516,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -103,7 +62,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19804000002,
+   "volumen": 99840.19804000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -123,7 +82,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 99600.41020100002,
+   "volumen": 99600.41020099999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -137,6 +96,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
+  },
+  {
+   "question": "Prague 2: Petr Brunclik vs Jan Kumstat",
+   "slug": "atp-bruncli-kumstat-2026-08-17",
+   "yes": 0.405,
+   "no": 0.595,
+   "volumen": 99424.567021,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Praga 2: Petr Brunclik vs Jan Kumstat"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -153,7 +122,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.761934,
+   "volumen": 99153.76193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -223,7 +192,7 @@
    "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
    "yes": 0.23,
    "no": 0.77,
-   "volumen": 9987.572938999998,
+   "volumen": 9987.572939,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
@@ -279,21 +248,11 @@
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
-   "question": "Will the highest temperature in Munich be 23°C on August 18?",
-   "slug": "highest-temperature-in-munich-on-august-18-2026-23c",
-   "yes": 0.0045,
-   "no": 0.9955,
-   "volumen": 9923.285823000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Múnich de 23°C el 18 de agosto?"
-  },
-  {
    "question": "Spread: Sydney FC (-1.5)",
    "slug": "auc-sdr-syd-2026-08-18-spread-away-1pt5",
-   "yes": 0.005,
-   "no": 0.995,
-   "volumen": 9916.153093,
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9941.153093,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Margen: Sídney FC (-1.5)"
@@ -306,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 69.57
+ "db_size_mb": 69.68
 }
