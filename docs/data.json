@@ -1,6 +1,6 @@
 {
- "ts": 1787095339,
- "stamp": "20260818_232219",
+ "ts": 1787095699,
+ "stamp": "20260818_232819",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -239,8 +239,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0495,
-   "no": 0.9505,
+   "yes": 0.0465,
+   "no": 0.9535,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -279,8 +279,8 @@
   {
    "question": "Will Georgia Tree win the 2026 Secret Harbour state by-election?",
    "slug": "will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800",
-   "yes": 0.86,
-   "no": 0.14,
+   "yes": 0.865,
+   "no": 0.135,
    "volumen": 9975.273105,
    "spread": 0.0,
    "categoria": "Política",
@@ -299,8 +299,8 @@
   {
    "question": "Will the highest temperature in Munich be 29°C on August 19?",
    "slug": "highest-temperature-in-munich-on-august-19-2026-29c",
-   "yes": 0.465,
-   "no": 0.535,
+   "yes": 0.43,
+   "no": 0.57,
    "volumen": 9972.797767,
    "spread": 0.0,
    "categoria": "Otros",
@@ -324,5 +324,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 79.12
+ "db_size_mb": 79.24
 }
