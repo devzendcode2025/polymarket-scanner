@@ -1,10 +1,31 @@
 {
- "ts": 1787057828,
- "stamp": "20260818_125708",
+ "ts": 1787057888,
+ "stamp": "20260818_125808",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xfb6aebc7096dd036681802e29b2f28ff6d6c675eda504b672966047ff41cb5c3",
+   "titulo": "Will Fenerbahçe SK win on 2026-08-18?",
+   "slug": "ucl-fen-lyo-2026-08-18-fen",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2401.38,
+   "price": 0.52,
+   "usd": 1248.72,
+   "ts": 1787057775,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,249 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-fen-lyo-2026-08-18-fen",
+   "titulo_es": "¿Ganará el Fenerbahçe SK el 2026-08-18?",
+   "narrativa": "La compra de 'No' en Fenerbahçe refleja una clara apuesta contraria al optimismo del mercado, con un monto de $1,248.72 que sugiere convicción institucional. El edge se materializa si el consenso externo (probabilidad implícita del 'Sí' en casas de apuestas) supera el 60%, mientras que el precio actual del 'No' aún no descuenta la volatilidad de un partido a 18 meses vista. Riesgo: evento de largo plazo con alta incertidumbre táctica y posible falta de liquidez en el cierre."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 70.73
+ "db_size_mb": 70.81
 }
