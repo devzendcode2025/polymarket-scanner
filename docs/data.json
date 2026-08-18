@@ -1,31 +1,31 @@
 {
- "ts": 1787051346,
- "stamp": "20260818_110906",
+ "ts": 1787051586,
+ "stamp": "20260818_111306",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
+ "momentum": [],
+ "ballenas_scan": [
   {
-   "tipo": "momentum",
-   "market_id": "2672658",
-   "question": "Will Peyton Watson play for the New Orleans Pelicans in 2026-27?",
-   "slug": "will-peyton-watson-play-for-the-new-orleans-pelicans-in-2026-27-20260622172741898",
-   "tags": [],
-   "categoria": "Otros",
-   "yes_antes": 0.05,
-   "yes_ahora": 0.052,
-   "cambio_pct": 5.1,
-   "direccion": "SUBIDA",
-   "volumen": 99.0,
-   "prob": 55,
+   "tipo": "ballena",
+   "market_id": "0x735303df281fe6b94f3b875c833902d590bfa1782fc349fdcb6394f6008ab748",
+   "titulo": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+   "slug": "lol-dnsc-nsea-2026-08-18",
+   "outcome": "DN SOOPers Challengers",
+   "side": "SELL",
+   "size": 1405.39,
+   "price": 0.999,
+   "usd": 1403.98,
+   "ts": 1787051458,
+   "categoria": "Deportes",
+   "prob": 54,
    "confianza": "baja",
-   "horizonte": "24h",
-   "razon": "Yes subida 5.1% vs el scan anterior (0.05 → 0.052) en un mercado con $99 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/will-peyton-watson-play-for-the-new-orleans-pelicans-in-2026-27-20260622172741898",
-   "question_es": "¿Jugará Peyton Watson para los New Orleans Pelicans en 2026-27?",
-   "narrativa": "La confianza en que Peyton Watson vista la camiseta de New Orleans en 2026-27 ha subido un 5.1%, aunque el precio del 'Sí' sigue siendo marginal (de 0.05 a 0.052). Este movimiento, respaldado por un volumen de 99 USD, sugiere que algunos operadores están posicionándose temprano ante posibles rumores de traspaso, pero el edge real es mínimo en términos absolutos. La oportunidad radica en que el consenso externo aún no ha reaccionado, por lo que cualquier noticia concreta podría generar un repunte mayor desde una base muy baja. Riesgo: liquidez extremadamente baja, lo que amplifica la volatilidad y dificulta la salida."
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,404 en 'DN SOOPers Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-dnsc-nsea-2026-08-18",
+   "titulo_es": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío",
+   "narrativa": "La venta de DN SOOPers Challengers a $1,403.98 captura un edge positivo frente al consenso externo, que proyecta una mayor probabilidad de victoria para Nongshim Esports Academy en este BO3 de rondas 3-4. El monto del trade refleja una posición moderada que aprovecha la discrepancia entre el precio implícito del mercado y el modelo de valoración, con un desvío que sugiere una corrección favorable en el corto plazo. Esta oportunidad se materializa en un escenario de baja liquidez, donde los movimientos de precio pueden amplificar el retorno esperado sin requerir un gran capital. Riesgo: volatilidad alta en partidas de ligas menores, con posible cierre temprano del mercado."
   }
  ],
- "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 69.29
+ "db_size_mb": 69.36
 }
