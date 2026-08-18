@@ -1,6 +1,6 @@
 {
- "ts": 1787093898,
- "stamp": "20260818_225818",
+ "ts": 1787094258,
+ "stamp": "20260818_230418",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -21,7 +21,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 1:45AM-2:00AM ET",
+     "_poly_question": "XRP Up or Down - August 19, 12:50AM-12:55AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -50,7 +50,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 1:45AM-2:00AM ET",
+     "_poly_question": "XRP Up or Down - August 19, 12:50AM-12:55AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -71,7 +71,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9969876.860318,
+   "volumen": 9969926.860318001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -81,7 +81,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 993148.4585159998,
+   "volumen": 993148.4585160002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -105,16 +105,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
-   "question": "Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5",
-   "slug": "mlb-det-pit-2026-08-18-total-7pt5",
-   "yes": 0.455,
-   "no": 0.545,
-   "volumen": 99940.939645,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Detroit Tigers vs. Pittsburgh Pirates: Más/Menos 7.5"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -259,9 +249,9 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.048,
-   "no": 0.952,
-   "volumen": 9991.036522000004,
+   "yes": 0.047,
+   "no": 0.953,
+   "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -269,8 +259,8 @@
   {
    "question": "Will Alexander Zverev Win the Cincinnati Open?",
    "slug": "will-alexander-zverev-win-the-cincinnati-open-20260729185627688",
-   "yes": 0.23,
-   "no": 0.77,
+   "yes": 0.235,
+   "no": 0.765,
    "volumen": 9989.119507,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -291,7 +281,7 @@
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 9985.785599,
+   "volumen": 9985.785598999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
@@ -315,6 +305,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   }
  ],
  "historico": {
@@ -324,5 +324,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 78.86
+ "db_size_mb": 78.93
 }
