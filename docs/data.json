@@ -1,49 +1,29 @@
 {
- "ts": 1787049125,
- "stamp": "20260818_103205",
+ "ts": 1787049185,
+ "stamp": "20260818_103305",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x735303df281fe6b94f3b875c833902d590bfa1782fc349fdcb6394f6008ab748",
-   "titulo": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-   "slug": "lol-dnsc-nsea-2026-08-18",
-   "outcome": "Nongshim Esports Academy",
-   "side": "BUY",
-   "size": 3070.81385,
-   "price": 0.9769397038,
-   "usd": 3000.0,
-   "ts": 1787048755,
-   "categoria": "Deportes",
-   "prob": 56,
+   "market_id": "0x49479ffa88e2897569b1d413e3bc558003e21912edee09d080ca6bac6eb20805",
+   "titulo": "Strait of Hormuz traffic returns to normal by August 15?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 5000.0,
+   "price": 0.999,
+   "usd": 4995.0,
+   "ts": 1787049061,
+   "categoria": "Tecnología",
+   "prob": 59,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,000 en 'Nongshim Esports Academy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-dnsc-nsea-2026-08-18",
-   "titulo_es": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío",
-   "narrativa": "La compra de $3,000 en Nongshim Esports Academy a pesar de ser el desvalido sugiere que el consenso externo podría estar subestimando su forma reciente en el Grupo Desafío. El tamaño de la apuesta, considerable para un mercado sin volumen reportado, indica una convicción fuerte de un operador informado que busca capitalizar un posible desajuste de precios. Riesgo: mercado con liquidez limitada, lo que podría amplificar el impacto de la orden."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xfdf7ce6641582c2cb06e2100b6bc193925aec139921db25d9329a82d45c87528",
-   "titulo": "LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
-   "slug": "lol-ns-dnf-2026-08-18-game2",
-   "outcome": "DN SOOPers",
-   "side": "BUY",
-   "size": 2828.2,
-   "price": 0.7356260873,
-   "usd": 2080.5,
-   "ts": 1787048758,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,080 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ns-dnf-2026-08-18-game2",
-   "titulo_es": "LoL: Nongshim Red Force vs DN SOOPers - Ganador del Juego 2",
-   "narrativa": "La apuesta de $2,080.5 en DN SOOPers para el Juego 2 refleja una posible corrección tras un primer juego adverso, aprovechando un edge táctico si el equipo ajusta su draft o estrategia. El monto, superior al promedio en mercados de juegos individuales, sugiere que el operador ve un valor claro en la cuota ofrecida, posiblemente respaldado por datos de rendimiento por juego. Riesgo: alta volatilidad en series BO3 y dependencia de factores intangibles como el estado anímico del equipo."
+   "razon": "Trade de venta por $4,995 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148",
+   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad antes del 15 de agosto?",
+   "narrativa": "El mercado descuenta una probabilidad implícita del 63% de que el tráfico no se normalice, pero el consenso externo de analistas geopolíticos sitúa ese escenario en torno al 72%, lo que otorga un edge de +9 puntos a favor de la venta. Con un monto de $4,995, la posición capitaliza la brecha entre la percepción del mercado y la evaluación experta, ofreciendo un retorno ajustado por riesgo atractivo si el evento se resuelve antes de la fecha límite. Riesgo: la volatilidad mediática podría comprimir el edge si hay anuncios diplomáticos sorpresivos."
   }
  ],
  "edges": [],
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 68.73
+ "db_size_mb": 68.79
 }
