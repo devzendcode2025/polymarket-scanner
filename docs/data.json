@@ -1,10 +1,31 @@
 {
- "ts": 1787021338,
- "stamp": "20260818_024858",
+ "ts": 1787021578,
+ "stamp": "20260818_025258",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xf89140ee70d026d9430f90e24e566e5b8aa1513fd032ab01be45505309a397d8",
+   "titulo": "Spread: Golden State Valkyries (-7.5)",
+   "slug": "wnba-dal-gsv-2026-08-17-spread-home-7pt5",
+   "outcome": "Dallas Wings",
+   "side": "BUY",
+   "size": 2776.425318,
+   "price": 0.4575883928,
+   "usd": 1270.46,
+   "ts": 1787021428,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,270 en 'Dallas Wings'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wnba-dal-gsv-2026-08-17-spread-home-7pt5",
+   "titulo_es": "Spread: Golden State Valkyries (-7.5)",
+   "narrativa": "El mercado fija un spread de -7.5 puntos para Golden State, pero la compra de 1,270 USD sobre Dallas Wings sugiere que el consenso externo subestima la capacidad competitiva de las visitantes. Este flujo de capital, aunque moderado, busca explotar un posible desajuste en la línea, con un edge implícito si el margen real se acerca a la cobertura. La operación se apoya en la ausencia de volumen reportado, lo que podría indicar una ventana de oportunidad antes de que el mercado ajuste el precio. Riesgo: liquidez limitada podría amplificar el deslizamiento en la ejecución."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 62.7
+ "db_size_mb": 62.77
 }
