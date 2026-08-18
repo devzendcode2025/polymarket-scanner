@@ -1,31 +1,31 @@
 {
- "ts": 1787011256,
- "stamp": "20260818_000056",
+ "ts": 1787011376,
+ "stamp": "20260818_000256",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
- "ballenas_scan": [
+ "momentum": [
   {
-   "tipo": "ballena",
-   "market_id": "0x07b48c37b38c6bcc4014978c508d9c2bd0113594ac3f6d70ab5100fef7d1aaee",
-   "titulo": "CA Vélez Sarsfield vs. CSyD Defensa y Justicia: O/U 1.5",
-   "slug": "arg-vel-def-2026-08-17-total-1pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 4268.15,
-   "price": 0.9148537423,
-   "usd": 3904.73,
-   "ts": 1787010910,
+   "tipo": "momentum",
+   "market_id": "3621011",
+   "question": "Will the highest temperature in Dallas be between 106-107°F on August 17?",
+   "slug": "highest-temperature-in-dallas-on-august-17-2026-106-107f",
+   "tags": [],
    "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
+   "yes_antes": 0.005,
+   "yes_ahora": 0.005,
+   "cambio_pct": -9.1,
+   "direccion": "BAJADA",
+   "volumen": 9880.409341999999,
+   "prob": 59,
+   "confianza": "baja",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,905 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/arg-vel-def-2026-08-17-total-1pt5",
-   "titulo_es": "CA Vélez Sarsfield vs. CSyD Defensa y Justicia: Más/Menos 1.5",
-   "narrativa": "La compra de Over 1.5 en Vélez vs. Defensa y Justicia acumula $3,904 USD en una sola operación, lo que representa un flujo direccional fuerte frente a un mercado con volumen total aún no reportado. Este tamaño de apuesta, en un partido donde ambos equipos suelen generar ocasiones, sugiere que el consenso externo apunta a un partido abierto, con un edge estimado de +5.2 puntos sobre la probabilidad implícita del mercado. La falta de liquidez visible puede amplificar el movimiento, pero también incrementa el riesgo de slippage si la posición se cierra rápido."
+   "razon": "Yes bajada 9.1% vs el scan anterior (0.005 → 0.005) en un mercado con $9,880 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/highest-temperature-in-dallas-on-august-17-2026-106-107f",
+   "question_es": "¿Será la temperatura más alta en Dallas entre 106-107°F el 17 de agosto?",
+   "narrativa": "La probabilidad implícita se mantiene en 0.5% pese a una caída del 9.1% en el precio, lo que sugiere que el mercado ya descuenta el escenario extremo y el consenso externo apunta a una temperatura más moderada. Con un volumen de $9,880, la liquidez es suficiente para capturar el pequeño edge de 0.0 puntos si el evento no se materializa, aunque el margen es mínimo. Riesgo: alta sensibilidad a datos meteorológicos de última hora y spread amplio."
   }
  ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -33,7 +33,7 @@
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
    "yes": 0.0485,
    "no": 0.9515,
-   "volumen": 9994245.545458995,
+   "volumen": 9994402.475459,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Renan Santos las elecciones presidenciales brasileñas de 2026?"
@@ -53,20 +53,10 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994346.6382709998,
+   "volumen": 994346.6382709999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
-  },
-  {
-   "question": "US x Iran diplomatic meeting by August 31, 2026?",
-   "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
-   "yes": 0.085,
-   "no": 0.915,
-   "volumen": 989101.0213919999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
   },
   {
    "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
@@ -103,7 +93,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99822.25464500004,
+   "volumen": 99822.25464500002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -123,7 +113,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0055,
    "no": 0.9945,
-   "volumen": 99745.75004500001,
+   "volumen": 99745.75004500002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -133,7 +123,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 99463.59202100002,
+   "volumen": 99463.592021,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -143,7 +133,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.027,
    "no": 0.973,
-   "volumen": 99359.481818,
+   "volumen": 99359.48181800003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -163,7 +153,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99127.701934,
+   "volumen": 99127.70193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -181,8 +171,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0645,
-   "no": 0.9355,
+   "yes": 0.061,
+   "no": 0.939,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -277,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
+  },
+  {
+   "question": "Exact Score: SC Internacional 3 - 0 Clube do Remo?",
+   "slug": "bra-int-cre-2026-08-17-exact-score-3-0",
+   "yes": 0.12,
+   "no": 0.88,
+   "volumen": 9929.861233,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Marcador exacto: SC Internacional 3 - 0 Clube do Remo?"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 60.36
+ "db_size_mb": 60.43
 }
