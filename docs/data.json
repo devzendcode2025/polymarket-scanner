@@ -1,10 +1,72 @@
 {
- "ts": 1787069591,
- "stamp": "20260818_161311",
+ "ts": 1787069951,
+ "stamp": "20260818_161911",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
- "ballenas_scan": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "3672479",
+   "question": "ITF W35 Krakow Women: Karolina Mrazikova vs Sofia Shapatava",
+   "slug": "itf-mraziko-shapata-2026-08-18",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.009,
+   "yes_ahora": 0.01,
+   "cambio_pct": 17.6,
+   "direccion": "SUBIDA",
+   "volumen": 9861.171602000011,
+   "prob": 67,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Yes subida 17.6% vs el scan anterior (0.009 → 0.01) en un mercado con $9,861 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/itf-mraziko-shapata-2026-08-18",
+   "question_es": "ITF W35 Cracovia Femenino: Karolina Mrazikova vs Sofia Shapatava",
+   "narrativa": "El mercado descuenta una ligera pero consistente subida del 17.6% en la probabilidad de victoria de Karolina Mrazikova, pasando de 0.009 a 0.01, lo que refleja un ajuste fino tras la publicación de cuotas externas o noticias de última hora. Aunque el monto operado es reducido (aproximadamente $9,861 USD), el movimiento direccional es claro y sugiere que los primeros tomadores de posición están entrando antes de que el consenso general se actualice, generando un edge de entrada en niveles de precio aún bajos. Riesgo: el volumen es escaso y el precio puede revertir bruscamente ante cualquier anuncio oficial del torneo."
+  }
+ ],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xc77cb99dd8ce305d50f9910432cfc42db3d66e8d51e0e7086f0db90d0a50f1f6",
+   "titulo": "Sion: Geoffrey Blancaneaux vs Juan Estevez",
+   "slug": "atp-blancan-estevez-2026-08-17",
+   "outcome": "Geoffrey Blancaneaux",
+   "side": "BUY",
+   "size": 27634.895404,
+   "price": 0.3618613298,
+   "usd": 10000.0,
+   "ts": 1787069785,
+   "categoria": "Otros",
+   "prob": 67,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $10,000 en 'Geoffrey Blancaneaux'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-blancan-estevez-2026-08-17",
+   "titulo_es": "Sion: Geoffrey Blancaneaux vs Juan Estévez",
+   "narrativa": "La compra de $10,000 en Blancaneaux sugiere una fuerte convicción en su victoria sobre Estévez, posiblemente basada en una ventaja de ranking o forma reciente. El monto elevado en un mercado de tenis de nicho puede indicar información privilegiada o una clara asimetría de valor. Riesgo: liquidez limitada en mercados de tenis menores."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x2de3e9b742f4d579cee36e36bc31ba9734053cda716f8d7ec408e968a1cec32d",
+   "titulo": "Will the price of Bitcoin be above $58,000 on August 20?",
+   "slug": "bitcoin-above-58k-on-august-20-2026",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 3997.55,
+   "price": 0.9981112056,
+   "usd": 3990.0,
+   "ts": 1787069785,
+   "categoria": "Cripto",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,990 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-58k-on-august-20-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $58,000 el 20 de agosto?",
+   "narrativa": "La compra de $3,990 en 'Yes' para Bitcoin por encima de $58,000 el 20 de agosto refleja una apuesta alcista, probablemente respaldada por un análisis técnico o de flujo de fondos. El monto es significativo para un mercado binario, lo que sugiere una oportunidad percibida con un edge concreto. Riesgo: alta volatilidad del cripto y eventos macro de última hora."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -21,7 +83,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 3:15AM-3:30AM ET",
+     "_poly_question": "Bitcoin Up or Down - August 18, 1:00PM-1:15PM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -50,7 +112,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 3:15AM-3:30AM ET",
+     "_poly_question": "Bitcoin Up or Down - August 18, 1:00PM-1:15PM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -71,7 +133,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9949013.280317998,
+   "volumen": 9949013.280318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -81,20 +143,10 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 995505.4300700004,
+   "volumen": 995505.43007,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
-  },
-  {
-   "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
-   "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 989703.0685159998,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
   },
   {
    "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -121,7 +173,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99940.19803999999,
+   "volumen": 99940.19804000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -141,7 +193,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526300002,
+   "volumen": 99588.025263,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -149,8 +201,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -159,9 +211,9 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.315,
-   "no": 0.685,
-   "volumen": 99153.761934,
+   "yes": 0.32,
+   "no": 0.68,
+   "volumen": 99153.76193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -199,8 +251,8 @@
   {
    "question": "Cincinnati Open: Katerina Siniakova vs Madison Keys",
    "slug": "wta-siniako-keys-2026-08-18",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.042,
+   "no": 0.958,
    "volumen": 98829.15462699994,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -215,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
+  },
+  {
+   "question": "Will there be Houthi military action against Saudi Arabia by August 15, 2026?",
+   "slug": "will-there-be-houthi-military-action-against-saudi-arabia-by-august-15-2026-20260807172323133",
+   "yes": 0.434,
+   "no": 0.566,
+   "volumen": 9997.676786000002,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Habrá acción militar hutí contra Arabia Saudita antes del 15 de agosto de 2026?"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -281,7 +343,7 @@
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.81,
    "no": 0.19,
-   "volumen": 9965.733740000001,
+   "volumen": 9965.73374,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
@@ -291,7 +353,7 @@
    "slug": "cs2-navi-lgc-2026-08-20",
    "yes": 0.705,
    "no": 0.295,
-   "volumen": 9952.012653,
+   "volumen": 9952.012653000002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Playoffs de la Copa Mundial de Esports"
@@ -318,11 +380,11 @@
   }
  ],
  "historico": {
-  "ts": 1787067855,
+  "ts": 1787069656,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 73.49
+ "db_size_mb": 73.56
 }
