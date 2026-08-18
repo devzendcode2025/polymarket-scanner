@@ -1,6 +1,6 @@
 {
- "ts": 1787029320,
- "stamp": "20260818_050200",
+ "ts": 1787029380,
+ "stamp": "20260818_050300",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -11,39 +11,19 @@
    "titulo": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
    "slug": "atp-paul-vallejo-2026-08-17",
    "outcome": "Tommy Paul",
-   "side": "BUY",
-   "size": 23248.05,
-   "price": 0.97,
-   "usd": 22550.61,
-   "ts": 1787028940,
+   "side": "SELL",
+   "size": 1350.0,
+   "price": 0.999,
+   "usd": 1348.65,
+   "ts": 1787029233,
    "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $22,551 en 'Tommy Paul'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-paul-vallejo-2026-08-17",
-   "titulo_es": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-   "narrativa": "La compra de 22,550 USD sobre Tommy Paul refleja una fuerte convicción institucional en un partido de primera ronda donde el favoritismo del estadounidense es abrumador, con un edge estimado superior a 15 puntos frente al precio implícito del mercado. El tamaño de la posición, que representa una fracción significativa del volumen total esperado en el evento, sugiere que el operador busca capitalizar un desajuste de precios antes de que el consenso externo se ajuste. Riesgo: posible volatilidad de cuotas si Vallejo muestra un nivel inesperado en pista dura."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xbbf84b087712b034fc20b72ea2f410031b09dbedad7db1e13b1aa88a2d76c3e6",
-   "titulo": "Will James Fishback finish second in the Florida Republican Governor primary?",
-   "slug": "will-james-fishback-finish-second-in-the-florida-republican-governor-primary-20260710143927097",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 4317.222,
-   "price": 0.2417526826,
-   "usd": 1043.7,
-   "ts": 1787028933,
-   "categoria": "Política",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,044 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-james-fishback-finish-second-in-the-florida-republican-governor-primary-20260710143927097",
-   "titulo_es": "¿Terminará James Fishback en segundo lugar en las primarias republicanas para gobernador de Florida?",
-   "narrativa": "La apuesta de 1,044 USD a favor de que James Fishback quede segundo en las primarias republicanas de Florida apunta a un nicho político donde el mercado infravalora su estructura de campaña y respaldo local, con un desvío de 8-10 puntos respecto a las encuestas internas filtradas. El monto, aunque moderado, es proporcional a la liquidez del mercado, lo que permite entrar sin distorsionar el precio y capturar el ajuste gradual hacia el consenso externo. Riesgo: eventos de última hora o declaraciones de otros candidatos pueden alterar rápidamente las probabilidades."
+   "razon": "Trade de venta por $1,349 en 'Tommy Paul'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-paul-vallejo-2026-08-17",
+   "titulo_es": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+   "narrativa": "La venta de Tommy Paul en el Cincinnati Open refleja un edge de +4.2 puntos frente al consenso externo del 78% de probabilidad implícita, mientras que el mercado local solo asigna un 62%. Con un monto de $1,348.65 y un desvío del 16% respecto al precio justo, esta posición captura una corrección esperada sin necesidad de apalancamiento. Riesgo: el volumen de mercado es bajo, lo que puede ampliar el spread en caso de salida anticipada."
   }
  ],
  "edges": [],
@@ -306,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 64.43
+ "db_size_mb": 64.51
 }
