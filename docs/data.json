@@ -1,31 +1,10 @@
 {
- "ts": 1787067790,
- "stamp": "20260818_154310",
+ "ts": 1787068211,
+ "stamp": "20260818_155011",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-   "titulo": "Will the U.S. invade Iran before 2027?",
-   "slug": "will-the-us-invade-iran-before-2027",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 3500.0,
-   "price": 0.83,
-   "usd": 2905.0,
-   "ts": 1787067685,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,905 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-us-invade-iran-before-2027",
-   "titulo_es": "¿Invadirá EE. UU. a Irán antes de 2027?",
-   "narrativa": "La señal de compra sobre 'No' a una invasión de EE. UU. a Irán antes de 2027 se apoya en un consenso externo amplio que descarta una escalada militar directa en el corto plazo, con el precio actual reflejando solo un 15% de probabilidad implícita. El monto de 2,905 USD en una posición a favor del status quo captura un edge de aproximadamente 8 puntos sobre el modelo base, aprovechando la aversión del mercado a eventos de baja probabilidad pero alto impacto. Riesgo: posible volatilidad por titulares geopolíticos repentinos que pueden mover el precio sin relación con fundamentos."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -33,7 +12,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9947807.890317997,
+   "volumen": 9948239.890317997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -53,7 +32,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 989690.5785160001,
+   "volumen": 989703.0685159999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -63,7 +42,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987984.5144999999,
+   "volumen": 987984.5145,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -73,7 +52,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955090001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -103,7 +82,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526300002,
+   "volumen": 99588.025263,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -111,8 +90,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -123,7 +102,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.76193400002,
+   "volumen": 99153.76193400004,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -163,7 +142,7 @@
    "slug": "ethereum-above-2000-on-august-18-2026",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98552.09752499996,
+   "volumen": 98653.09752499996,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Ethereum por encima de $2,000 el 18 de agosto?"
@@ -179,6 +158,16 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Will Russia capture Lyman by September 30, 2026?",
+   "slug": "will-russia-capture-lyman-by-september-30-2026",
+   "yes": 0.09,
+   "no": 0.91,
+   "volumen": 98089.162317,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Capturará Rusia Lyman para el 30 de septiembre de 2026?"
+  },
+  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -191,9 +180,9 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.015,
-   "no": 0.985,
-   "volumen": 9995.673866999996,
+   "yes": 0.016,
+   "no": 0.984,
+   "volumen": 9995.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Estará la capitalización de mercado de OpenAI entre $500B y $750B al cierre del mercado el día de su IPO antes del 31 de diciembre de 2027?"
@@ -251,8 +240,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7725,
-   "no": 0.2275,
+   "yes": 0.7715,
+   "no": 0.2285,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -267,24 +256,14 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
-  },
-  {
-   "question": "Miami Marlins vs. Philadelphia Phillies: O/U 8.5",
-   "slug": "mlb-mia-phi-2026-08-18-total-8pt5",
-   "yes": 0.475,
-   "no": 0.525,
-   "volumen": 9931.775636999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Miami Marlins vs. Philadelphia Phillies: Más/Menos 8.5"
   }
  ],
  "historico": {
-  "ts": 1787066054,
+  "ts": 1787067855,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 73.04
+ "db_size_mb": 73.11
 }
