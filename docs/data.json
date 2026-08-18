@@ -1,6 +1,6 @@
 {
- "ts": 1787029080,
- "stamp": "20260818_045800",
+ "ts": 1787029140,
+ "stamp": "20260818_045900",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -161,8 +161,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
