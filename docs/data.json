@@ -1,6 +1,6 @@
 {
- "ts": 1787049485,
- "stamp": "20260818_103805",
+ "ts": 1787049545,
+ "stamp": "20260818_103905",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -191,8 +191,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.016,
-   "no": 0.984,
+   "yes": 0.0155,
+   "no": 0.9845,
    "volumen": 9990.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -231,8 +231,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7785,
-   "no": 0.2215,
+   "yes": 0.7775,
+   "no": 0.2225,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
