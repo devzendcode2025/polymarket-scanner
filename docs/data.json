@@ -1,6 +1,6 @@
 {
- "ts": 1787055547,
- "stamp": "20260818_121907",
+ "ts": 1787055607,
+ "stamp": "20260818_122007",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -53,7 +53,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 989290.578516,
+   "volumen": 989290.5785160001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -63,7 +63,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987984.5144999999,
+   "volumen": 987984.5144999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -73,7 +73,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955089999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -83,7 +83,7 @@
    "slug": "lol-ns-dnf-2026-08-18-game2",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 982837.0515709997,
+   "volumen": 982935.0315710007,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: Nongshim Red Force vs DN SOOPers - Ganador del Juego 2"
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 70.24
+ "db_size_mb": 70.25
 }
