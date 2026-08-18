@@ -1,49 +1,69 @@
 {
- "ts": 1787019417,
- "stamp": "20260818_021657",
+ "ts": 1787019537,
+ "stamp": "20260818_021857",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd6e0429f56be9935e665b0837b4e26651747f0b8915bab90a597eb91c5fa5829",
-   "titulo": "St. Louis Cardinals vs. Cincinnati Reds",
-   "slug": "mlb-stl-cin-2026-08-17",
-   "outcome": "Cincinnati Reds",
-   "side": "SELL",
-   "size": 1672.58,
-   "price": 0.999,
-   "usd": 1670.91,
-   "ts": 1787019018,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,671 en 'Cincinnati Reds'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-stl-cin-2026-08-17",
-   "titulo_es": "St. Louis Cardinals vs. Cincinnati Reds",
-   "narrativa": "La venta de 1,670.91 USD sobre los Cincinnati Reds en el partido contra St. Louis Cardinals refleja una apuesta direccional contraria al consenso del mercado, buscando capitalizar una posible corrección en el precio del equipo visitante. Este movimiento de ballena, al ser de tamaño considerable, podría indicar información privilegiada o un análisis de valor que no está totalmente descontado en las probabilidades actuales. Riesgo: la falta de datos de volumen de mercado limita la confirmación de la profundidad de la operación."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3f4cac1fa6abc4194f1f923cd0a189fba3db4e79067a01a7936cfd135e44bd0d",
-   "titulo": "Club Necaxa vs. Club León FC: O/U 4.5",
-   "slug": "mex-nec-leo-2026-08-17-total-4pt5",
+   "market_id": "0x0fd918bdf7b4eaa7ae30a0bb1501d52b41bb518e2c7cbfcfb1fc56c285b65875",
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: O/U 4.5",
+   "slug": "arg-gye-tal-2026-08-17-total-4pt5",
    "outcome": "Under",
    "side": "BUY",
-   "size": 1088.3,
-   "price": 0.94,
-   "usd": 1023.0,
-   "ts": 1787019019,
+   "size": 1767.426665,
+   "price": 0.7499999996,
+   "usd": 1325.57,
+   "ts": 1787019318,
    "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,023 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mex-nec-leo-2026-08-17-total-4pt5",
-   "titulo_es": "Club Necaxa vs. Club León FC: Más/Menos 4.5",
-   "narrativa": "La compra de 1,023.00 USD en el Under 4.5 para el partido entre Club Necaxa y Club León FC sugiere una expectativa de partido cerrado, con baja generación de ocasiones de gol, lo que podría estar infravalorado si el mercado sobreestima el ritmo ofensivo de ambos equipos. Este monto, aunque moderado, indica una convicción clara en un escenario de pocos goles, aprovechando un posible desvío en las cuotas de los totales. Riesgo: la volatilidad de los mercados de apuestas en ligas menos líquidas puede generar movimientos bruscos de precio."
+   "razon": "Trade de compra por $1,326 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/arg-gye-tal-2026-08-17-total-4pt5",
+   "titulo_es": "CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: Más/Menos 4.5",
+   "narrativa": "Se detecta una compra significativa de 1,325 USD en el Under 4.5 para el partido entre Gimnasia y Talleres, lo que sugiere que un operador de gran tamaño anticipa un encuentro de baja anotación. Esta posición, al carecer de volumen de mercado reportado, podría indicar una apuesta direccional basada en un análisis táctico o de alineaciones. Riesgo: posible falta de liquidez en caso de querer salir rápido de la posición."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xd8380ad93814ee41b4dc3fd87520453e1bf1953e7b352c236d953b9f5bb3b446",
+   "titulo": "Cincinnati Open: Joao Fonseca vs Christopher O'Connell",
+   "slug": "atp-fonseca-oconnel-2026-08-18",
+   "outcome": "Joao Fonseca",
+   "side": "BUY",
+   "size": 2195.980391,
+   "price": 0.5099999998,
+   "usd": 1119.95,
+   "ts": 1787019322,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,120 en 'Joao Fonseca'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-fonseca-oconnel-2026-08-18",
+   "titulo_es": "Cincinnati Open: Joao Fonseca vs Christopher O'Connell",
+   "narrativa": "La compra de 1,120 USD a favor de Joao Fonseca en el Cincinnati Open refleja una convicción clara en el joven brasileño para superar a O'Connell. Este monto, aunque moderado, puede señalar una ventaja percibida en el estado de forma o en el historial reciente entre ambos. Riesgo: los partidos de tenis tienen alta varianza por factores como el saque o lesiones menores."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x1af38f6df567bdbb6e47c65da982f3d08320f38a4ea880236d432d17cb170b69",
+   "titulo": "Detroit Tigers vs. Pittsburgh Pirates",
+   "slug": "mlb-det-pit-2026-08-17",
+   "outcome": "Detroit Tigers",
+   "side": "BUY",
+   "size": 1111.87,
+   "price": 0.9719434556,
+   "usd": 1080.67,
+   "ts": 1787019316,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,081 en 'Detroit Tigers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-det-pit-2026-08-17",
+   "titulo_es": "Detroit Tigers vs. Pittsburgh Pirates",
+   "narrativa": "Una apuesta de 1,081 USD a los Detroit Tigers indica que un inversor relevante ve valor en la victoria del equipo local frente a los Pirates. La ausencia de volumen de mercado sugiere que la oportunidad podría estar en el precio actual, posiblemente influenciado por el rendimiento reciente de los abridores o el factor campo. Riesgo: los enfrentamientos entre equipos de nivel similar suelen tener resultados ajustados."
   }
  ],
  "edges": [],
@@ -53,7 +73,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9931634.562317997,
+   "volumen": 9931741.929318007,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -63,7 +83,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994356.26007,
+   "volumen": 994356.2600699998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -73,7 +93,7 @@
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 991271.4039789997,
+   "volumen": 991271.4039789999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
@@ -83,7 +103,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988107.2485159999,
+   "volumen": 988107.2485160001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -93,7 +113,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987826.6545000001,
+   "volumen": 987826.6544999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -113,7 +133,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19804000002,
+   "volumen": 99840.19804,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -133,7 +153,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 99795.27004500001,
+   "volumen": 99795.27004500003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -143,7 +163,7 @@
    "slug": "bra-int-cre-2026-08-17-total-3pt5",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99558.465447,
+   "volumen": 99641.46544699998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "SC Internacional vs. Clube do Remo: Más/Menos 3.5"
@@ -153,7 +173,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 99463.59202099999,
+   "volumen": 99463.592021,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -163,7 +183,7 @@
    "slug": "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340",
    "yes": 0.545,
    "no": 0.455,
-   "volumen": 99439.10599,
+   "volumen": 99439.10599000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará James Fishback menos del 10% de los votos en las primarias republicanas para gobernador de Florida?"
@@ -173,7 +193,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.027,
    "no": 0.973,
-   "volumen": 99359.481818,
+   "volumen": 99359.48181800001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -193,7 +213,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.285,
    "no": 0.715,
-   "volumen": 99127.701934,
+   "volumen": 99130.961934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -203,7 +223,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.16,
    "no": 0.84,
-   "volumen": 99023.583419,
+   "volumen": 99023.58341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -233,7 +253,7 @@
    "slug": "will-team-vision-win-the-international-2026-20260629212053622",
    "yes": 0.435,
    "no": 0.565,
-   "volumen": 98582.21565600001,
+   "volumen": 98582.215656,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará TEAM VISION The International 2026?"
@@ -241,8 +261,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0075,
-   "no": 0.9925,
+   "yes": 0.008,
+   "no": 0.992,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -257,16 +277,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
-  },
-  {
-   "question": "Bitcoin Up or Down - August 17, 8:00PM-12:00AM ET",
-   "slug": "btc-updown-4h-1787011200",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 9991.797588000003,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "Bitcoin al alza o a la baja - 17 de agosto, 8:00PM-12:00AM ET"
   },
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
@@ -297,6 +307,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "APYX FDV above $50M one day after launch?",
+   "slug": "apyx-fdv-above-50m-one-day-after-launch",
+   "yes": 0.778,
+   "no": 0.222,
+   "volumen": 9951.191957000003,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -306,5 +326,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 62.24
+ "db_size_mb": 62.31
 }
