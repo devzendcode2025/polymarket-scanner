@@ -1,10 +1,31 @@
 {
- "ts": 1787038982,
- "stamp": "20260818_074302",
+ "ts": 1787039282,
+ "stamp": "20260818_074802",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x67e10fbd9298d5038c67a254afc4911824e318b080d82c74e26e3f1ea63a9b65",
+   "titulo": "ITF W75 Kursumlijska Banja 3 Women: Haruka Kaji vs Sakura Hosogi",
+   "slug": "itf-kaji-hosogi-2026-08-18",
+   "outcome": "Haruka Kaji",
+   "side": "BUY",
+   "size": 1903.0,
+   "price": 0.56,
+   "usd": 1065.68,
+   "ts": 1787039146,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,066 en 'Haruka Kaji'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/itf-kaji-hosogi-2026-08-18",
+   "titulo_es": "ITF W75 Kursumlijska Banja 3 Femenino: Haruka Kaji vs Sakura Hosogi",
+   "narrativa": "El mercado muestra una clara asimetría a favor de Haruka Kaji, con una posición de compra de $1,065.68 que representa una apuesta significativa frente a un volumen de mercado aún no consolidado. El edge estimado en puntos favorece a la jugadora japonesa, respaldado por un consenso externo que la sitúa como favorita en un partido de superficie lenta donde su juego de fondo es más consistente. La entrada anticipada permite capturar valor antes de que el mercado ajuste las probabilidades hacia el cierre. Riesgo: liquidez limitada en torneos ITF de baja categoría, lo que puede amplificar la volatilidad del precio."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 66.54
+ "db_size_mb": 66.61
 }
