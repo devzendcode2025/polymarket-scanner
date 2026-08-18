@@ -1,31 +1,10 @@
 {
- "ts": 1787064129,
- "stamp": "20260818_144209",
+ "ts": 1787064489,
+ "stamp": "20260818_144809",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x426b4b5f08b290626af10cfd3a9e4630cba0bb82dc65faa056bde5d8cc36d984",
-   "titulo": "Will the highest temperature in Miami be between 96-97°F on August 19?",
-   "slug": "highest-temperature-in-miami-on-august-19-2026-96-97f",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 2149.72,
-   "price": 0.5593334016,
-   "usd": 1202.41,
-   "ts": 1787063778,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,202 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/highest-temperature-in-miami-on-august-19-2026-96-97f",
-   "titulo_es": "¿Será la temperatura más alta en Miami entre 96-97°F el 19 de agosto?",
-   "narrativa": "La compra de 'Yes' a 96-97°F en Miami para el 19 de agosto presenta un edge de 5.2 puntos frente al consenso externo del 62%, con un monto de $1,202 que refleja convicción institucional en un desvío de +3.1°F sobre la media histórica. El volumen de mercado no reportado sugiere que la posición puede moverse sin fricción, pero el cambio porcentual implícito del 8.4% en la probabilidad indica que el mercado aún no ha ajustado completamente el escenario de calor extremo. Riesgo: posible corrección rápida si los modelos meteorológicos de última hora cambian."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -131,8 +110,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 18?",
    "slug": "bitcoin-above-64k-on-august-18-2026",
-   "yes": 0.9805,
-   "no": 0.0195,
+   "yes": 0.9755,
+   "no": 0.0245,
    "volumen": 99457.66471099995,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -211,8 +190,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0135,
-   "no": 0.9865,
+   "yes": 0.0125,
+   "no": 0.9875,
    "volumen": 9990.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -280,11 +259,11 @@
   }
  ],
  "historico": {
-  "ts": 1787062453,
+  "ts": 1787064254,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 72.17
+ "db_size_mb": 72.33
 }
