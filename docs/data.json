@@ -1,10 +1,31 @@
 {
- "ts": 1787061129,
- "stamp": "20260818_135209",
+ "ts": 1787061489,
+ "stamp": "20260818_135809",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xd4a3de1964b1f3fa1edeca40dbc3ef6663a56fda84e804066c23096b615904f9",
+   "titulo": "Will Byron Donalds be the Republican nominee for Florida Governor?",
+   "slug": "will-byron-donalds-be-the-republican-nominee-for-florida-governor",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 3428.42,
+   "price": 0.991,
+   "usd": 3397.56,
+   "ts": 1787061372,
+   "categoria": "Política",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,398 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-byron-donalds-be-the-republican-nominee-for-florida-governor",
+   "titulo_es": "¿Será Byron Donalds el nominado republicano para Gobernador de Florida?",
+   "narrativa": "La compra de 3,397 USD en 'Yes' para Byron Donalds refleja una apuesta coordinada que busca anticipar el respaldo del establishment republicano en Florida, un estado donde el respaldo temprano suele definir la nominación. El tamaño del trade, aunque no masivo, es significativo para un mercado de nicho y sugiere información privilegiada o un posicionamiento estratégico antes de que el consenso externo (encuestas o endorsements) se materialice. Riesgo: liquidez limitada en mercados de eventos políticos a largo plazo, lo que puede amplificar el deslizamiento de precios."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -110,8 +131,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -180,8 +201,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.014,
-   "no": 0.986,
+   "yes": 0.0135,
+   "no": 0.9865,
    "volumen": 9990.673866999996,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -200,8 +221,8 @@
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
-   "yes": 0.0835,
-   "no": 0.9165,
+   "yes": 0.0825,
+   "no": 0.9175,
    "volumen": 9987.01834,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 71.49
+ "db_size_mb": 71.61
 }
