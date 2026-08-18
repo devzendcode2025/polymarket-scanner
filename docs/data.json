@@ -1,30 +1,9 @@
 {
- "ts": 1787014976,
- "stamp": "20260818_010256",
+ "ts": 1787015096,
+ "stamp": "20260818_010456",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
-  {
-   "tipo": "momentum",
-   "market_id": "3513920",
-   "question": "Baltimore Orioles vs. Tampa Bay Rays",
-   "slug": "mlb-bal-tb-2026-08-17",
-   "tags": [],
-   "categoria": "Otros",
-   "yes_antes": 0.065,
-   "yes_ahora": 0.057,
-   "cambio_pct": -13.1,
-   "direccion": "BAJADA",
-   "volumen": 994693.3122279999,
-   "prob": 63,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Yes bajada 13.1% vs el scan anterior (0.065 → 0.057) en un mercado con $994,693 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/mlb-bal-tb-2026-08-17",
-   "question_es": "Baltimore Orioles vs. Tampa Bay Rays",
-   "narrativa": "La caída del 13.1% en el precio del 'Sí' para los Orioles (de 0.065 a 0.057) indica un fuerte momentum bajista, con un volumen de casi 1M USD que confirma la presión vendedora. Este movimiento brusco sugiere que el mercado está descontando nueva información (posible lesión o alineación) que aún no se refleja en el consenso externo, creando una oportunidad de seguir la tendencia. Riesgo: posible rebote si la noticia es exagerada."
-  }
- ],
+ "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
@@ -94,7 +73,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988107.2485160001,
+   "volumen": 988107.2485159999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -118,16 +97,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
-   "question": "Baltimore Orioles vs. Tampa Bay Rays",
-   "slug": "mlb-bal-tb-2026-08-17",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 982903.8806559996,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Baltimore Orioles vs. Tampa Bay Rays"
   },
   {
    "question": "Will the Democrats win the Ohio Senate race in 2026?",
@@ -232,8 +201,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0645,
-   "no": 0.9355,
+   "yes": 0.064,
+   "no": 0.936,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -254,7 +223,7 @@
    "slug": "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340",
    "yes": 0.535,
    "no": 0.465,
-   "volumen": 98578.06936600001,
+   "volumen": 98578.069366,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará James Fishback menos del 10% de los votos en las primarias republicanas para gobernador de Florida?"
@@ -268,16 +237,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
-  },
-  {
-   "question": "SC Internacional vs. Clube do Remo: O/U 3.5",
-   "slug": "bra-int-cre-2026-08-17-total-3pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 98267.795447,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "SC Internacional vs. Clube do Remo: Más/Menos 3.5"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -298,6 +257,26 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Will Truist fail by end of 2026?",
+   "slug": "will-truist-fail-by-end-of-2026",
+   "yes": 0.0315,
+   "no": 0.9685,
+   "volumen": 9973.222389999999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   }
  ],
  "historico": {
