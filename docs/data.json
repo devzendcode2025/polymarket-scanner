@@ -1,29 +1,29 @@
 {
- "ts": 1787043124,
- "stamp": "20260818_085204",
+ "ts": 1787043184,
+ "stamp": "20260818_085304",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xe20a3c09a1922682933df5f53ab84ed46e0ed49896a7dec679f6c4f9646b77df",
-   "titulo": "Bitcoin Up or Down - August 18, 4:40AM-4:45AM ET",
-   "slug": "btc-updown-5m-1787042400",
-   "outcome": "Down",
+   "market_id": "0x9291dc03fc5e0cc589700da68ed840c2c10bc4de08547d151a85bcc69ace9081",
+   "titulo": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang",
+   "slug": "itf-schunk-jang-2026-08-18",
+   "outcome": "Gaeul Jang",
    "side": "SELL",
-   "size": 2166.86,
-   "price": 0.999,
-   "usd": 2164.69,
-   "ts": 1787042751,
-   "categoria": "Cripto",
-   "prob": 55,
+   "size": 4745.35,
+   "price": 0.5721798814,
+   "usd": 2715.19,
+   "ts": 1787043057,
+   "categoria": "Otros",
+   "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,165 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1787042400",
-   "titulo_es": "Bitcoin Sube o Baja - 18 de agosto, 4:40AM-4:45AM ET",
-   "narrativa": "El mercado asigna una probabilidad implícita del 52% a 'Down', pero el consenso externo de analistas técnicos sugiere un 58% de probabilidad de caída en esa ventana de 5 minutos, generando un edge de +6 puntos. Con un monto de $2,164.69 en la posición de venta, el retorno ajustado por riesgo es atractivo si el precio reacciona a la resistencia de corto plazo identificada en los flujos de órdenes. Riesgo: ventana de tiempo muy corta y posible volatilidad errática por noticias de último minuto."
+   "razon": "Trade de venta por $2,715 en 'Gaeul Jang'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/itf-schunk-jang-2026-08-18",
+   "titulo_es": "ITF W50 Praga Femenino: Nastasja Schunk vs Gaeul Jang",
+   "narrativa": "La venta de Nastasja Schunk contra Gaeul Jang en el ITF W50 de Praga refleja una oportunidad con un monto de 2,715 USD, lo que indica una posición significativa frente a un mercado sin volumen reportado. El edge se concentra en la asimetría de información o en la valoración del momento de forma de Schunk, que no se traduce en el precio actual. Riesgo: mercado con liquidez potencialmente baja, lo que puede amplificar el impacto de la orden."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 67.38
+ "db_size_mb": 67.44
 }
