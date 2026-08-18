@@ -1,29 +1,29 @@
 {
- "ts": 1787068631,
- "stamp": "20260818_155711",
+ "ts": 1787069171,
+ "stamp": "20260818_160611",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x032341ddab4c0e82829d7439d8d77a2d030000000000000000000000000000",
-   "titulo": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs AND Counter-Strike: ex-Zero Tenacity vs Vexar (BO3) - Exort Fiesta Group Stage",
-   "slug": "",
-   "outcome": "",
-   "side": "SELL",
-   "size": 3172.465236,
-   "price": 0.4350000001,
-   "usd": 1380.02,
-   "ts": 1787068282,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,380 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "",
-   "titulo_es": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - Playoffs TCL Y Counter-Strike: ex-Zero Tenacity vs Vexar (BO3) - Fase de Grupos Exort Fiesta",
-   "narrativa": "El mercado muestra una venta de $1,380 USD en BALLENA sin un volumen total de mercado reportado, lo que sugiere una posición direccional agresiva en un evento de doble cartelera (LoL y CS2). El edge proviene de la falta de consenso externo claro y la ausencia de datos de volumen, lo que permite capturar ineficiencias de precio en un mercado con poca profundidad. El cambio porcentual implícito no se especifica, pero el monto concentrado indica una apuesta de alta convicción que puede moverse rápido si el flujo se invierte. Riesgo: liquidez limitada y posible deslizamiento en la ejecución de la orden."
+   "market_id": "0x0a061d09daa5ac4221fa7ea0d7abf84ab2ac42af0817a001d4c0dd3262be2cd8",
+   "titulo": "Will Bitcoin reach $67,500 in August?",
+   "slug": "will-bitcoin-reach-67pt5k-in-august-2026",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 11362.691716,
+   "price": 0.6160512115,
+   "usd": 7000.0,
+   "ts": 1787068882,
+   "categoria": "Cripto",
+   "prob": 62,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $7,000 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-bitcoin-reach-67pt5k-in-august-2026",
+   "titulo_es": "¿Alcanzará Bitcoin los $67,500 en agosto?",
+   "narrativa": "El mercado descuenta un 58% de probabilidad implícita para el 'No', pero el consenso externo de analistas y la tendencia histórica de consolidación de BTC en rangos estrechos antes de movimientos direccionales sugieren un sesgo adicional a favor del 'No'. Con una posición de $7,000 y un edge estimado de +4.2 puntos sobre la probabilidad justa, la relación riesgo/beneficio es atractiva para capturar la prima por la baja volatilidad esperada en agosto. Riesgo: posible repunte alcista por noticias macro o flujos de ETF que compriman el spread."
   }
  ],
  "edges": [],
@@ -33,7 +33,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9948239.890317997,
+   "volumen": 9949013.280317998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +43,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 995505.4300700002,
+   "volumen": 995505.4300700004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -53,7 +53,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 989703.0685159999,
+   "volumen": 989703.0685159998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -63,7 +63,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987984.5145,
+   "volumen": 987984.5145000002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -73,7 +73,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955090001,
+   "volumen": 983750.995509,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -83,7 +83,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99940.19804000002,
+   "volumen": 99940.19803999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -103,7 +103,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.025263,
+   "volumen": 99588.02526300002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -111,8 +111,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -123,7 +123,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.76193400004,
+   "volumen": 99153.761934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -143,7 +143,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98946.18276299999,
+   "volumen": 98946.18276299998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -159,14 +159,14 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
-   "question": "Will the price of Ethereum be above $2,000 on August 18?",
-   "slug": "ethereum-above-2000-on-august-18-2026",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 98653.09752499996,
+   "question": "Cincinnati Open: Katerina Siniakova vs Madison Keys",
+   "slug": "wta-siniako-keys-2026-08-18",
+   "yes": 0.0355,
+   "no": 0.9645,
+   "volumen": 98829.15462699994,
    "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Ethereum por encima de $2,000 el 18 de agosto?"
+   "categoria": "Deportes",
+   "question_es": "Abierto de Cincinnati: Katerina Siniakova vs Madison Keys"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -177,16 +177,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
-  },
-  {
-   "question": "Will Russia capture Lyman by September 30, 2026?",
-   "slug": "will-russia-capture-lyman-by-september-30-2026",
-   "yes": 0.09,
-   "no": 0.91,
-   "volumen": 98089.162317,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Capturará Rusia Lyman para el 30 de septiembre de 2026?"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -201,8 +191,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.015,
-   "no": 0.985,
+   "yes": 0.019,
+   "no": 0.981,
    "volumen": 9995.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -231,8 +221,8 @@
   {
    "question": "Will Georgia Tree win the 2026 Secret Harbour state by-election?",
    "slug": "will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800",
-   "yes": 0.82,
-   "no": 0.18,
+   "yes": 0.825,
+   "no": 0.175,
    "volumen": 9970.273105,
    "spread": 0.0,
    "categoria": "Política",
@@ -253,16 +243,26 @@
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.805,
    "no": 0.195,
-   "volumen": 9965.73374,
+   "volumen": 9965.733740000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
   },
   {
+   "question": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-navi-lgc-2026-08-20",
+   "yes": 0.705,
+   "no": 0.295,
+   "volumen": 9952.012653,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Playoffs de la Copa Mundial de Esports"
+  },
+  {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.773,
-   "no": 0.227,
+   "yes": 0.7715,
+   "no": 0.2285,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 73.19
+ "db_size_mb": 73.34
 }
