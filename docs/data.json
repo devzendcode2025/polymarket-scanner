@@ -1,29 +1,29 @@
 {
- "ts": 1787026319,
- "stamp": "20260818_041159",
+ "ts": 1787026679,
+ "stamp": "20260818_041759",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xcb747bff4747d6e0130f66cb77e0849fd2ec795be7705f94c4dc48dbf3b0fec0",
-   "titulo": "Will the highest temperature in Hong Kong be 29°C on August 18?",
-   "slug": "highest-temperature-in-hong-kong-on-august-18-2026-29c",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 1072.56,
-   "price": 0.999,
-   "usd": 1071.49,
-   "ts": 1787025933,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,071 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/highest-temperature-in-hong-kong-on-august-18-2026-29c",
-   "titulo_es": "¿Será la temperatura máxima en Hong Kong de 29°C el 18 de agosto?",
-   "narrativa": "La venta de 'No' en este mercado de temperatura ofrece un edge claro si el consenso meteorológico se mantiene por debajo de 29°C, ya que el precio implícito actual no refleja plenamente la probabilidad histórica de máximas en esa fecha. Con un monto de $1,071 USD, la posición es lo suficientemente líquida para capturar el diferencial sin distorsionar el mercado, aunque el volumen total no está disponible, lo que exige cautela en la ejecución. Riesgo: posible volatilidad si un cambio climático puntual altera los pronósticos a corto plazo."
+   "market_id": "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93",
+   "titulo": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+   "slug": "atp-paul-vallejo-2026-08-17",
+   "outcome": "Adolfo Vallejo",
+   "side": "BUY",
+   "size": 10744.802665,
+   "price": 0.2885115805,
+   "usd": 3100.0,
+   "ts": 1787026530,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,100 en 'Adolfo Vallejo'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-paul-vallejo-2026-08-17",
+   "titulo_es": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+   "narrativa": "El mercado descuenta a Adolfo Vallejo como claro favorito, y la compra de 3,100 USD en este escenario sugiere que los operadores institucionales están aprovechando un posible desajuste en la probabilidad implícita frente al consenso externo. Aunque el volumen de mercado no está disponible, la magnitud del monto en relación con la liquidez típica de este tipo de eventos indica una convicción direccional alta. El edge se materializa si el precio actual de la cuota está por debajo del verdadero rendimiento esperado de Vallejo en pista dura. Riesgo: posible falta de profundidad en el libro de órdenes si el volumen es bajo."
   }
  ],
  "edges": [],
@@ -41,8 +41,8 @@
   {
    "question": "US x Iran diplomatic meeting by August 31, 2026?",
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
-   "yes": 0.075,
-   "no": 0.925,
+   "yes": 0.065,
+   "no": 0.935,
    "volumen": 995525.6958390002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -141,8 +141,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.315,
-   "no": 0.685,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 99140.96193400002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -161,8 +161,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.066,
-   "no": 0.934,
+   "yes": 0.0665,
+   "no": 0.9335,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -241,8 +241,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7765,
-   "no": 0.2235,
+   "yes": 0.778,
+   "no": 0.222,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 63.76
+ "db_size_mb": 63.89
 }
