@@ -1,10 +1,31 @@
 {
- "ts": 1787068211,
- "stamp": "20260818_155011",
+ "ts": 1787068631,
+ "stamp": "20260818_155711",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x032341ddab4c0e82829d7439d8d77a2d030000000000000000000000000000",
+   "titulo": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs AND Counter-Strike: ex-Zero Tenacity vs Vexar (BO3) - Exort Fiesta Group Stage",
+   "slug": "",
+   "outcome": "",
+   "side": "SELL",
+   "size": 3172.465236,
+   "price": 0.4350000001,
+   "usd": 1380.02,
+   "ts": 1787068282,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,380 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - Playoffs TCL Y Counter-Strike: ex-Zero Tenacity vs Vexar (BO3) - Fase de Grupos Exort Fiesta",
+   "narrativa": "El mercado muestra una venta de $1,380 USD en BALLENA sin un volumen total de mercado reportado, lo que sugiere una posición direccional agresiva en un evento de doble cartelera (LoL y CS2). El edge proviene de la falta de consenso externo claro y la ausencia de datos de volumen, lo que permite capturar ineficiencias de precio en un mercado con poca profundidad. El cambio porcentual implícito no se especifica, pero el monto concentrado indica una apuesta de alta convicción que puede moverse rápido si el flujo se invierte. Riesgo: liquidez limitada y posible deslizamiento en la ejecución de la orden."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -90,8 +111,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -180,8 +201,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.016,
-   "no": 0.984,
+   "yes": 0.015,
+   "no": 0.985,
    "volumen": 9995.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -210,8 +231,8 @@
   {
    "question": "Will Georgia Tree win the 2026 Secret Harbour state by-election?",
    "slug": "will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800",
-   "yes": 0.815,
-   "no": 0.185,
+   "yes": 0.82,
+   "no": 0.18,
    "volumen": 9970.273105,
    "spread": 0.0,
    "categoria": "Política",
@@ -240,8 +261,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7715,
-   "no": 0.2285,
+   "yes": 0.773,
+   "no": 0.227,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 73.11
+ "db_size_mb": 73.19
 }
