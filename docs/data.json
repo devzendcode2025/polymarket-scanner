@@ -1,6 +1,6 @@
 {
- "ts": 1787036282,
- "stamp": "20260818_065802",
+ "ts": 1787036342,
+ "stamp": "20260818_065902",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -131,8 +131,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.325,
-   "no": 0.675,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 99153.761934,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -151,8 +151,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0605,
-   "no": 0.9395,
+   "yes": 0.061,
+   "no": 0.939,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -231,8 +231,8 @@
   {
    "question": "Will the highest temperature in Paris be 28°C on August 18?",
    "slug": "highest-temperature-in-paris-on-august-18-2026-28c",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 9971.699601,
    "spread": 0.0,
    "categoria": "Otros",
@@ -271,8 +271,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7815,
-   "no": 0.2185,
+   "yes": 0.782,
+   "no": 0.218,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
