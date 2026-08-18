@@ -1,6 +1,6 @@
 {
- "ts": 1787055787,
- "stamp": "20260818_122307",
+ "ts": 1787055847,
+ "stamp": "20260818_122407",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -141,8 +141,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -221,8 +221,8 @@
   {
    "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
    "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
-   "yes": 0.23,
-   "no": 0.77,
+   "yes": 0.24,
+   "no": 0.76,
    "volumen": 9987.572938999998,
    "spread": 0.0,
    "categoria": "Otros",
