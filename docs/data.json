@@ -1,29 +1,29 @@
 {
- "ts": 1787015817,
- "stamp": "20260818_011657",
+ "ts": 1787015937,
+ "stamp": "20260818_011857",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x42b0ae98ebf26bc27f996105bf49ff2d05d8ef9d88b54578dc9b76b8b6be6a37",
-   "titulo": "Miami Marlins vs. Philadelphia Phillies",
-   "slug": "mlb-mia-phi-2026-08-17",
+   "market_id": "0x68ddcddbacd34c0d8a61d6913222887f93b22db207a606a92e80a02969d6f1d8",
+   "titulo": "Spread: Philadelphia Phillies (-2.5)",
+   "slug": "mlb-mia-phi-2026-08-17-spread-home-2pt5",
    "outcome": "Miami Marlins",
    "side": "BUY",
-   "size": 6773.019375,
-   "price": 0.1501501684,
-   "usd": 1016.97,
-   "ts": 1787015409,
+   "size": 2480.0,
+   "price": 0.7,
+   "usd": 1736.0,
+   "ts": 1787015719,
    "categoria": "Otros",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,017 en 'Miami Marlins'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-17",
-   "titulo_es": "Miami Marlins vs. Philadelphia Phillies",
-   "narrativa": "La compra de $1,017 en Miami Marlins contra los Phillies refleja una apuesta institucional con un edge estimado de +5.2 puntos frente al consenso externo del 38% de probabilidad implícita, mientras el mercado local aún no ajusta el precio tras la rotación de abridores. El monto representa el 12% del volumen diario típico en este mercado, lo que sugiere convicción direccional. Riesgo: el mercado de béisbol tiene spreads amplios en horas previas al juego, lo que puede erosionar el edge si no se ejecuta con límites."
+   "razon": "Trade de compra por $1,736 en 'Miami Marlins'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-17-spread-home-2pt5",
+   "titulo_es": "Diferencial: Philadelphia Phillies (-2.5)",
+   "narrativa": "El mercado muestra un desbalance significativo hacia Philadelphia Phillies (-2.5), pero la compra de 1,736 USD en Miami Marlins sugiere que un operador grande está apostando contra el consenso, buscando capturar valor en un diferencial que podría estar sobrevalorado. Este flujo contrario, aunque arriesgado, ofrece un edge potencial si el mercado ajusta su percepción del margen de victoria. Riesgo: volumen de mercado no reportado, lo que limita el análisis de liquidez."
   }
  ],
  "edges": [],
@@ -33,20 +33,10 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9930487.597317997,
+   "volumen": 9930490.987318002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
-  },
-  {
-   "question": "Baltimore Orioles vs. Tampa Bay Rays",
-   "slug": "mlb-bal-tb-2026-08-17",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 994693.3122279999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Baltimore Orioles vs. Tampa Bay Rays"
   },
   {
    "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
@@ -63,7 +53,7 @@
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 991266.413979,
+   "volumen": 991266.4139789997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
@@ -73,7 +63,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988107.2485159999,
+   "volumen": 988107.2485160001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -83,7 +73,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987826.6545000001,
+   "volumen": 987826.6544999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -103,7 +93,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99822.25464499998,
+   "volumen": 99822.25464500002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -123,7 +113,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0055,
    "no": 0.9945,
-   "volumen": 99745.750045,
+   "volumen": 99795.27004500001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -133,7 +123,7 @@
    "slug": "mlb-bal-tb-2026-08-17-spread-home-1pt5",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99740.56777899999,
+   "volumen": 99765.567779,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Margen: Tampa Bay Rays (-1.5)"
@@ -141,9 +131,9 @@
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.0185,
-   "no": 0.9815,
-   "volumen": 99463.59202099999,
+   "yes": 0.018,
+   "no": 0.982,
+   "volumen": 99463.592021,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -153,16 +143,26 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.027,
    "no": 0.973,
-   "volumen": 99359.481818,
+   "volumen": 99359.48181800003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
+   "question": "SC Internacional vs. Clube do Remo: O/U 3.5",
+   "slug": "bra-int-cre-2026-08-17-total-3pt5",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99214.37544699998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "SC Internacional vs. Clube do Remo: Más/Menos 3.5"
+  },
+  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -171,29 +171,19 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.315,
-   "no": 0.685,
-   "volumen": 99127.70193400003,
+   "yes": 0.32,
+   "no": 0.68,
+   "volumen": 99127.701934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
-  },
-  {
-   "question": "SC Internacional vs. Clube do Remo: O/U 3.5",
-   "slug": "bra-int-cre-2026-08-17-total-3pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99123.95544699997,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "SC Internacional vs. Clube do Remo: Más/Menos 3.5"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.16,
    "no": 0.84,
-   "volumen": 99023.583419,
+   "volumen": 99023.58341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -223,7 +213,7 @@
    "slug": "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340",
    "yes": 0.535,
    "no": 0.465,
-   "volumen": 98578.069366,
+   "volumen": 98578.06936600001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará James Fishback menos del 10% de los votos en las primarias republicanas para gobernador de Florida?"
@@ -277,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "APYX FDV above $50M one day after launch?",
+   "slug": "apyx-fdv-above-50m-one-day-after-launch",
+   "yes": 0.78,
+   "no": 0.22,
+   "volumen": 9951.191957000003,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 61.39
+ "db_size_mb": 61.45
 }
