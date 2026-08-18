@@ -1,30 +1,9 @@
 {
- "ts": 1787049245,
- "stamp": "20260818_103405",
+ "ts": 1787049305,
+ "stamp": "20260818_103505",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
-  {
-   "tipo": "momentum",
-   "market_id": "1830064",
-   "question": "Will Sport win Brazil Série B?",
-   "slug": "2026-soccer-brazil-srie-b-winner-sport",
-   "tags": [],
-   "categoria": "Otros",
-   "yes_antes": 0.469,
-   "yes_ahora": 0.445,
-   "cambio_pct": -5.3,
-   "direccion": "BAJADA",
-   "volumen": 98.97,
-   "prob": 55,
-   "confianza": "baja",
-   "horizonte": "24h",
-   "razon": "Yes bajada 5.3% vs el scan anterior (0.469 → 0.445) en un mercado con $99 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/2026-soccer-brazil-srie-b-winner-sport",
-   "question_es": "¿Ganará Sport la Serie B de Brasil?",
-   "narrativa": "La caída del 5.3% en la probabilidad de que Sport gane la Serie B, de 46.9% a 44.5%, refleja un ajuste del mercado ante un posible revés en su forma reciente. Con un volumen de solo $98.97, el movimiento es amplificado por la baja liquidez, lo que crea una ventana para capturar valor si el consenso externo (que aún ve al equipo como contendiente) no ha asimilado plenamente el cambio. El edge de 2.4 puntos porcentuales entre el precio actual y la valoración previa sugiere una oportunidad de compra en el 'No' si se espera que la tendencia continúe. Riesgo: poca liquidez puede distorsionar el precio y dificultar la salida."
-  }
- ],
+ "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
@@ -74,7 +53,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988690.578516,
+   "volumen": 988690.5785159998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -94,7 +73,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955090001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -174,7 +153,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98946.18276299999,
+   "volumen": 98946.182763,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -182,8 +161,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.064,
-   "no": 0.936,
+   "yes": 0.0645,
+   "no": 0.9355,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -192,8 +171,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0075,
-   "no": 0.9925,
+   "yes": 0.008,
+   "no": 0.992,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
