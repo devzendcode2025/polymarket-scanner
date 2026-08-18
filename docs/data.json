@@ -1,29 +1,29 @@
 {
- "ts": 1787092398,
- "stamp": "20260818_223318",
+ "ts": 1787092758,
+ "stamp": "20260818_223918",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x19903e0dce5c228fc3596aee7f5fcbcc41879eb8308a74035896decfec07ac99",
-   "titulo": "Recoleta FC vs. CA Boca Juniors: O/U 0.5",
-   "slug": "sud-rec1-boc-2026-08-18-total-0pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 1024.994995,
-   "price": 0.999,
-   "usd": 1023.97,
-   "ts": 1787092306,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,024 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/sud-rec1-boc-2026-08-18-total-0pt5",
-   "titulo_es": "Recoleta FC vs. CA Boca Juniors: Más/Menos 0.5",
-   "narrativa": "La compra de Over 0.5 en el partido entre Recoleta FC y Boca Juniors presenta un edge atractivo de 3.2 puntos frente al consenso externo del 85%, con un monto de $1,023.97 que refleja una convicción moderada. El desvío del 4.1% respecto al precio justo sugiere que el mercado aún no ha absorbido completamente la probabilidad implícita de al menos un gol, lo que genera una ventana de valor. Riesgo: posible baja liquidez en mercados de equipos menores, lo que podría ampliar el spread de ejecución."
+   "market_id": "0x6a571e1b83c8238df6cf49e89ff815d98b522d01db7af1568a514f3d37ec8ce0",
+   "titulo": "Cincinnati Open: Jaime Faria vs Adam Walton",
+   "slug": "atp-faria-walton-2026-08-18",
+   "outcome": "Jaime Faria",
+   "side": "SELL",
+   "size": 3576.23,
+   "price": 0.84,
+   "usd": 3004.03,
+   "ts": 1787092615,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $3,004 en 'Jaime Faria'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-faria-walton-2026-08-18",
+   "titulo_es": "Cincinnati Open: Jaime Faria vs Adam Walton",
+   "narrativa": "El mercado descuenta un triunfo de Jaime Faria, pero la venta de 3,004 USD en su contra sugiere que un operador grande percibe sobrevaloración en ese favoritismo. Este flujo direccional, en un evento de tenis con alta volatilidad por sets, ofrece un edge potencial si el consenso externo (probabilidad implícita) supera el precio actual. Riesgo: liquidez moderada en mercados de tenis ATP 250, lo que puede ampliar el spread en momentos de baja actividad."
   }
  ],
  "edges": [
@@ -61,9 +61,9 @@
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 12.0,
+   "prob_poly": 13.0,
    "consenso": 50.0,
-   "edge": 38.0,
+   "edge": 37.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -81,9 +81,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 12.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 38.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 13.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 37.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "La probabilidad implícita en Polymarket es de apenas 8.3% (paga 12.0), frente a un consenso externo del 50%, lo que genera un edge de 38 puntos a favor de comprar el 'Sí'. Este diferencial es notable y sugiere que el mercado no ha incorporado plenamente las métricas de PredictIt, ofreciendo una entrada con alta asimetría a un costo de 8.3 centavos por contrato. Riesgo: el evento es a largo plazo (2026) y la liquidez puede ser limitada en este rango de margen específico."
+   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a solo 13.0, mientras que el consenso externo de PredictIt lo sitúa en 50.0, generando un edge de 37 puntos a favor de la compra. Esta brecha sugiere una posible infravaloración significativa de la probabilidad real del resultado, ofreciendo una entrada atractiva para capturar valor a largo plazo. Riesgo: el evento es a 2026 y la liquidez puede ser limitada, lo que podría afectar la salida de la posición."
   }
  ],
  "top_volumen": [
@@ -92,7 +92,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9969467.860318,
+   "volumen": 9969676.860318003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -102,7 +102,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 992148.4585159998,
+   "volumen": 993148.4585159996,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -112,7 +112,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 988310.5145,
+   "volumen": 988310.5145000002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -122,7 +122,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955090001,
+   "volumen": 983750.9955089998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -142,7 +142,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94703000001,
+   "volumen": 99768.94703,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -152,7 +152,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526300002,
+   "volumen": 99588.02526299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -160,8 +160,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -172,7 +172,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99153.76193400001,
+   "volumen": 99153.76193399997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -192,7 +192,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98946.18276299998,
+   "volumen": 98946.18276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -212,7 +212,7 @@
    "slug": "israel-x-iran-ceasefire-continues-through-october-31",
    "yes": 0.745,
    "no": 0.255,
-   "volumen": 98713.25017199999,
+   "volumen": 98713.250172,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Continúa el alto el fuego entre Israel e Irán hasta el 31 de octubre?"
@@ -232,7 +232,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.016,
    "no": 0.984,
-   "volumen": 98451.04540399999,
+   "volumen": 98451.045404,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -252,7 +252,7 @@
    "slug": "atp-cerund-augeral-2026-08-18",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 98050.81992800003,
+   "volumen": 98073.54135600002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Abierto de Cincinnati: Juan Manuel Cerundolo vs Felix Auger-Aliassime"
@@ -270,8 +270,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0185,
-   "no": 0.9815,
+   "yes": 0.0485,
+   "no": 0.9515,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -292,7 +292,7 @@
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 9985.785598999999,
+   "volumen": 9985.785599,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
@@ -302,7 +302,7 @@
    "slug": "will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 9975.273104999998,
+   "volumen": 9975.273105,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Georgia Tree la elección parcial estatal de Secret Harbour de 2026?"
@@ -328,14 +328,14 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.43,
-   "no": 0.57,
-   "volumen": 9952.114907000001,
+   "question": "Will Recoleta FC vs. CA Boca Juniors end in a draw?",
+   "slug": "sud-rec1-boc-2026-08-18-draw",
+   "yes": 0.14,
+   "no": 0.86,
+   "volumen": 9953.118463000004,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
+   "question_es": "¿Terminará en empate Recoleta FC vs. CA Boca Juniors?"
   }
  ],
  "historico": {
@@ -345,5 +345,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 78.53
+ "db_size_mb": 78.61
 }
