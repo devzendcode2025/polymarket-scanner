@@ -1,49 +1,29 @@
 {
- "ts": 1787060408,
- "stamp": "20260818_134008",
+ "ts": 1787060768,
+ "stamp": "20260818_134608",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd7ad31810c96d59143b82d8d4610168fc41feea426a99a221ba8ab43e522c4dc",
-   "titulo": "Roehampton: Michael Geerts vs Billy Blaydes",
-   "slug": "atp-geerts-blaydes-2026-08-18",
-   "outcome": "Michael Geerts",
+   "market_id": "0xcfe1dc82b8014341ac9813c5a1a1cd918b77b660e0f7e9d83fe65d43202ddb34",
+   "titulo": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "slug": "lol-gen-kt-2026-08-19",
+   "outcome": "Gen.G",
    "side": "BUY",
-   "size": 3000.0,
-   "price": 0.9779583333,
-   "usd": 2933.87,
-   "ts": 1787060173,
+   "size": 1278.53,
+   "price": 0.82,
+   "usd": 1048.39,
+   "ts": 1787060475,
    "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,934 en 'Michael Geerts'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-geerts-blaydes-2026-08-18",
-   "titulo_es": "Roehampton: Michael Geerts vs Billy Blaydes",
-   "narrativa": "La compra de 2,933 USD sobre Michael Geerts refleja una apuesta clara de un operador con información o convicción fuerte, dado que el volumen del mercado no está reportado y el monto es significativo para un evento de nicho. Este tipo de movimientos unilaterales suelen anticipar una corrección en el precio si el consenso externo favorece al rival, pero aquí el flujo sugiere que el mercado está subestimando la probabilidad real de Geerts. Riesgo: liquidez limitada en mercados de tenis menores, lo que puede amplificar la volatilidad del precio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xcf25ccc8360f3952139fb5e3f14cb9bb0636cb53d0e30e947321ceccab7e9780",
-   "titulo": "Will Ethereum dip to $1,500 by December 31, 2026?",
-   "slug": "will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 5496.22,
-   "price": 0.404,
-   "usd": 2220.47,
-   "ts": 1787060172,
-   "categoria": "Cripto",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,220 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-   "titulo_es": "¿Caerá Ethereum a $1,500 para el 31 de diciembre de 2026?",
-   "narrativa": "La compra de 2,220 USD en 'Yes' para que Ethereum caiga a 1,500 USD para fines de 2026 aprovecha un desvío entre el precio implícito del mercado y el consenso externo de analistas, que ven una probabilidad mayor de caída por el ciclo bajista de criptoactivos. El monto del trade es relevante frente a la falta de volumen reportado, lo que indica que el operador busca capturar un edge de valor esperado positivo a largo plazo. Riesgo: alta incertidumbre macro y posible manipulación de precios en mercados con poca profundidad."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,048 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-gen-kt-2026-08-19",
+   "titulo_es": "LoL: Gen.G vs KT Rolster (BO3) - LCK Ronda 3-4 Grupo Leyenda",
+   "narrativa": "La compra de Gen.G a $1048.39 refleja una apuesta concentrada en el favorito del BO3, con un edge implícito del 12.4% frente al consenso externo del 62% de victoria, lo que sugiere que el mercado aún no ha ajustado completamente el dominio histórico de Gen.G en la LCK. El monto, aunque moderado, indica convicción direccional sin distorsionar el precio, ideal para capturar valor antes de que el flujo de información cierre la brecha. Riesgo: la varianza en BO3 de KT Rolster en playoffs puede reducir el margen esperado."
   }
  ],
  "edges": [],
@@ -131,8 +111,8 @@
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.0165,
-   "no": 0.9835,
+   "yes": 0.018,
+   "no": 0.982,
    "volumen": 99666.124485,
    "spread": 0.0,
    "categoria": "Otros",
@@ -191,8 +171,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.066,
-   "no": 0.934,
+   "yes": 0.0655,
+   "no": 0.9345,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -231,8 +211,8 @@
   {
    "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
    "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
-   "yes": 0.23,
-   "no": 0.77,
+   "yes": 0.24,
+   "no": 0.76,
    "volumen": 9987.572939000001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -300,11 +280,11 @@
   }
  ],
  "historico": {
-  "ts": 1787058852,
+  "ts": 1787060653,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 71.36
+ "db_size_mb": 71.43
 }
