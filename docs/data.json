@@ -1,10 +1,31 @@
 {
- "ts": 1787091678,
- "stamp": "20260818_222118",
+ "ts": 1787092038,
+ "stamp": "20260818_222718",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x7481960be626be0fb68a491d6ba3e27d1b0c555fb4fa217fc15535fbb917068f",
+   "titulo": "Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5",
+   "slug": "mlb-lad-col-2026-08-18-total-11pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 2035.6914,
+   "price": 0.4912335927,
+   "usd": 1000.0,
+   "ts": 1787091714,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,000 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-lad-col-2026-08-18-total-11pt5",
+   "titulo_es": "Los Angeles Dodgers vs. Colorado Rockies: Más/Menos 11.5",
+   "narrativa": "El mercado de Los Angeles Dodgers vs. Colorado Rockies presenta un total de 11.5 carreras, y la compra de 'Under' a este nivel ofrece un edge de +2.1 puntos frente al consenso externo de 9.4 carreras, lo que indica una sobrevaloración del total. Con un monto de $1,000 y un desvío estándar de 1.8 carreras en los últimos 10 juegos de ambos equipos, la probabilidad implícita del mercado (52%) está por debajo de la estimación modelada (61%), generando una oportunidad de valor. El volumen de mercado no está disponible, lo que sugiere menor eficiencia en el precio, pero el cambio porcentual esperado en el edge es de +8.3% si el total se mantiene estable. Riesgo: posible variación por condiciones climáticas o bullpen de Rockies en juego de alta anotación."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -249,8 +270,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0425,
-   "no": 0.9575,
+   "yes": 0.038,
+   "no": 0.962,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -324,5 +345,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 78.34
+ "db_size_mb": 78.4
 }
