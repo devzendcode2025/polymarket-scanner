@@ -1,6 +1,6 @@
 {
- "ts": 1787053987,
- "stamp": "20260818_115307",
+ "ts": 1787054047,
+ "stamp": "20260818_115407",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -271,8 +271,8 @@
   {
    "question": "Will the Democratic Party win the AR-01 House seat?",
    "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.0155,
-   "no": 0.9845,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 9914.337593,
    "spread": 0.0,
    "categoria": "Política",
