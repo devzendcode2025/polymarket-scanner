@@ -1,10 +1,90 @@
 {
- "ts": 1787077873,
- "stamp": "20260818_183113",
+ "ts": 1787078233,
+ "stamp": "20260818_183713",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xda5264f94273f591b930c93e9abdd9f1605638c7ebe2e131bd47e021312000fb",
+   "titulo": "Counter-Strike: Fire Flux Esports vs WRAITH PCIFIC - Map 2 Winner",
+   "slug": "cs2-ff-wraith-2026-08-18-game2",
+   "outcome": "WRAITH PCIFIC",
+   "side": "BUY",
+   "size": 4274.04,
+   "price": 0.9048128235,
+   "usd": 3867.21,
+   "ts": 1787077893,
+   "categoria": "Deportes",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,867 en 'WRAITH PCIFIC'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-ff-wraith-2026-08-18-game2",
+   "titulo_es": "Counter-Strike: Fire Flux Esports vs WRAITH PCIFIC - Ganador del Mapa 2",
+   "narrativa": "La compra masiva de $3,867 en WRAITH PCIFIC para el Mapa 2 sugiere que el dinero fuerte detecta una ventaja en el mapa inicial, posiblemente por un mejor rendimiento en el lado CT/T o en el historial reciente del equipo. El tamaño de la posición, en ausencia de volumen de mercado publicado, indica una convicción alta que puede mover la línea, ofreciendo un edge de entrada si se confirma la tendencia del flujo. Riesgo: liquidez limitada en mercados de esports menores."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x297e02244aec4becd47b4e8c608d738d44e92c0288fab8615003f1719ff7f52c",
+   "titulo": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
+   "slug": "wta-tjen-andreev-2026-08-18",
+   "outcome": "Mirra Andreeva",
+   "side": "SELL",
+   "size": 2761.85,
+   "price": 0.999,
+   "usd": 2759.09,
+   "ts": 1787077896,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,759 en 'Mirra Andreeva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-tjen-andreev-2026-08-18",
+   "titulo_es": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
+   "narrativa": "La venta de $2,759 sobre Mirra Andreeva refleja que el consenso externo la ve como favorita clara, pero el operador grande percibe que el precio ya descuenta demasiado margen, generando un edge negativo en la cuota. Este movimiento contrario busca capitalizar una posible sobrevaloración por el ruido mediático del torneo, con un desvío esperado en la probabilidad implícita. Riesgo: la juventud de Andreeva y su forma física pueden invalidar la tesis rápidamente."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x030720c52342945acc41c059b0b6e79d3a0000000000000000000000000000",
+   "titulo": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti AND Set Handicap: Fritz (-1.5) vs Aguilar (+1.5) AND Set Handicap: Andreeva (-1.5) vs Tjen (+1.5)",
+   "slug": "",
+   "outcome": "",
+   "side": "SELL",
+   "size": 2458.281305,
+   "price": 0.9970000004,
+   "usd": 2450.91,
+   "ts": 1787077897,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,451 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Abierto de Cincinnati: Michael Zheng vs Lorenzo Musetti Y Hándicap de sets: Fritz (-1.5) vs Aguilar (+1.5) Y Hándicap de sets: Andreeva (-1.5) vs Tjen (+1.5)",
+   "narrativa": "La venta combinada de $2,451 en un paquete de tres mercados (Zheng vs Musetti, y dos hándicaps de sets) sugiere que el operador ve una correlación entre los resultados, apostando a que los favoritos no cubrirán los spreads, posiblemente por fatiga o condiciones de la cancha. El monto diversificado en varios outcomes reduce el riesgo unitario, pero el edge proviene de la suma de probabilidades implícitas que el mercado no ha ajustado. Riesgo: la dependencia de múltiples variables aumenta la varianza del resultado final."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x7e50b661a2bedc670bcf32fc9ece12616f6fc4fba5dbe8526292bf3447374009",
+   "titulo": "Will Russia capture Kostyantynivka by December 31, 2026?",
+   "slug": "will-russia-capture-kostyantynivka-by-december-31-2026-936-942-271-276-578-687-312-238-912",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 1652.34,
+   "price": 0.985,
+   "usd": 1627.55,
+   "ts": 1787077899,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,628 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-russia-capture-kostyantynivka-by-december-31-2026-936-942-271-276-578-687-312-238-912",
+   "titulo_es": "¿Capturará Rusia Kostyantynivka antes del 31 de diciembre de 2026?"
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -71,7 +151,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9956469.600318005,
+   "volumen": 9956469.600318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -81,7 +161,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 995505.4300700001,
+   "volumen": 995505.4300700005,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -91,7 +171,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 989915.5585160003,
+   "volumen": 989915.5585159998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -111,7 +191,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955089999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -121,7 +201,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99940.19804000003,
+   "volumen": 99940.19803999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -151,7 +231,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299999,
+   "volumen": 99588.025263,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -171,7 +251,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.761934,
+   "volumen": 99153.76193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -191,7 +271,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98946.18276299999,
+   "volumen": 98946.18276299998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -231,7 +311,7 @@
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 9995.673866999998,
+   "volumen": 9995.673866999996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Estará la capitalización de mercado de OpenAI entre $500B y $750B al cierre del mercado el día de su IPO antes del 31 de diciembre de 2027?"
@@ -239,8 +319,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.046,
-   "no": 0.954,
+   "yes": 0.0405,
+   "no": 0.9595,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -257,16 +337,6 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
-   "question": "Exact Score: Fenerbahçe SK 1 - 3 Olympique Lyonnais?",
-   "slug": "ucl-fen-lyo-2026-08-18-exact-score-1-3",
-   "yes": 0.0265,
-   "no": 0.9735,
-   "volumen": 9986.191823000001,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "Marcador Exacto: ¿Fenerbahçe SK 1 - 3 Olympique Lyonnais?"
-  },
-  {
    "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.825,
@@ -275,6 +345,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
+  },
+  {
+   "question": "Valorant: FOKUS Sakura vs G2 Gozen (BO3) - VCT Game Changers EMEA Playoffs",
+   "slug": "val-fks-g2-2026-08-18",
+   "yes": 0.55,
+   "no": 0.45,
+   "volumen": 9983.766604000002,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Valorant: FOKUS Sakura vs G2 Gozen (BO3) - VCT Game Changers EMEA Playoffs"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -324,5 +404,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 75.26
+ "db_size_mb": 75.33
 }
