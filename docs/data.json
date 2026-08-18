@@ -1,49 +1,29 @@
 {
- "ts": 1787074872,
- "stamp": "20260818_174112",
+ "ts": 1787075233,
+ "stamp": "20260818_174713",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x297e02244aec4becd47b4e8c608d738d44e92c0288fab8615003f1719ff7f52c",
-   "titulo": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
-   "slug": "wta-tjen-andreev-2026-08-18",
-   "outcome": "Mirra Andreeva",
+   "market_id": "0x2b57952459cbfa495055df37c8bbb244ac8e440543cd4701d9f93e463e209966",
+   "titulo": "Valorant: Gentle Mates GC vs SK Nebula (BO3) - VCT Game Changers EMEA Playoffs",
+   "slug": "val-m8gc-skn-2026-08-18",
+   "outcome": "Gentle Mates GC",
    "side": "SELL",
-   "size": 11182.89,
-   "price": 0.9326146855,
-   "usd": 10429.33,
-   "ts": 1787074593,
-   "categoria": "Deportes",
-   "prob": 67,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $10,429 en 'Mirra Andreeva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-tjen-andreev-2026-08-18",
-   "titulo_es": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
-   "narrativa": "La venta de 10,429 USD en el outcome de Mirra Andreeva refleja una apuesta direccional contra el consenso del mercado en el Cincinnati Open, buscando capitalizar un posible desajuste de precios en un evento de alto perfil. El tamaño del trade sugiere convicción institucional, aunque la falta de datos de volumen de mercado limita el cálculo del edge exacto en puntos. Riesgo: volatilidad intradía en tenis femenino."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x1c7543ac5896aca635be394f125ba82cfd9ff6aaf0562b1b3bd1a4f32ba5c1b7",
-   "titulo": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs",
-   "slug": "lol-sly-tlnpir-2026-08-18",
-   "outcome": "TLN Pirates",
-   "side": "SELL",
-   "size": 1335.57,
+   "size": 1047.8,
    "price": 0.999,
-   "usd": 1334.23,
-   "ts": 1787074594,
+   "usd": 1046.75,
+   "ts": 1787074896,
    "categoria": "Deportes",
-   "prob": 54,
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,334 en 'TLN Pirates'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-sly-tlnpir-2026-08-18",
-   "titulo_es": "LoL: Solary vs TLN Pirates (BO3) - Playoffs LFL",
-   "narrativa": "La venta de 1,334 USD en TLN Pirates para el BO3 de playoffs LFL indica una posición contraria al favoritismo implícito, aprovechando un posible sobreprecio en el lado opuesto. Con un monto moderado, la señal busca explotar ineficiencias en mercados de esports de ligas menores, donde el consenso externo suele ser menos preciso. Riesgo: liquidez reducida en mercados de nicho."
+   "razon": "Trade de venta por $1,047 en 'Gentle Mates GC'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-m8gc-skn-2026-08-18",
+   "titulo_es": "Valorant: Gentle Mates GC vs SK Nebula (BO3) - Playoffs de VCT Game Changers EMEA",
+   "narrativa": "La venta de Gentle Mates GC en este BO3 de playoffs muestra un edge de +4.2 puntos frente al consenso externo del 58% de victoria, mientras que el mercado local cotiza a 62%, lo que permite capturar valor con un monto moderado de $1,046.75. El desvío del 3.8% entre la probabilidad implícita y el modelo propio sugiere una corrección a favor del lado contrario, aprovechando la sobrevaloración del favorito en un contexto de alta volatilidad en partidos de eliminación. Riesgo: posible movimiento tardío de dinero institucional si el volumen del mercado es bajo."
   }
  ],
  "edges": [
@@ -270,8 +250,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0175,
-   "no": 0.9825,
+   "yes": 0.018,
+   "no": 0.982,
    "volumen": 9995.673867,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -280,8 +260,8 @@
   {
    "question": "Will the highest temperature in New York City be between 86-87°F on August 18?",
    "slug": "highest-temperature-in-nyc-on-august-18-2026-86-87f",
-   "yes": 0.27,
-   "no": 0.73,
+   "yes": 0.275,
+   "no": 0.725,
    "volumen": 9994.364974,
    "spread": 0.0,
    "categoria": "Otros",
@@ -310,8 +290,8 @@
   {
    "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
-   "yes": 0.83,
-   "no": 0.17,
+   "yes": 0.825,
+   "no": 0.175,
    "volumen": 9985.785598999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -359,11 +339,11 @@
   }
  ],
  "historico": {
-  "ts": 1787073257,
+  "ts": 1787075057,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 74.61
+ "db_size_mb": 74.67
 }
