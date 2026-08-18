@@ -1,10 +1,111 @@
 {
- "ts": 1787064489,
- "stamp": "20260818_144809",
+ "ts": 1787064850,
+ "stamp": "20260818_145410",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x1ec8d1cb89a36ce994eea996e5f80dccb432ddb77a3004fccf1cd4134ed39853",
+   "titulo": "Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-140-159",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 11549.78,
+   "price": 0.9972594967,
+   "usd": 11518.13,
+   "ts": 1787064681,
+   "categoria": "Tecnología",
+   "prob": 69,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $11,518 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-11-august-18-140-159",
+   "titulo_es": "¿Publicará Elon Musk entre 140 y 159 tuits del 11 al 18 de agosto de 2026?",
+   "narrativa": "Flujo acumulado de $21,111 en apuestas al 'No' en el rango de 140-159 tuits sugiere convicción direccional, con un edge estimado de +8.2 puntos frente al consenso externo del 58% de probabilidad implícita. La concentración de capital en un solo lado indica que el mercado aún no ha absorbido toda la información, dejando margen para capturar valor antes del cierre. Riesgo: ventana de evento estrecha y posible reacción tardía del mercado."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x1ec8d1cb89a36ce994eea996e5f80dccb432ddb77a3004fccf1cd4134ed39853",
+   "titulo": "Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-140-159",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 9602.98,
+   "price": 0.9989489763,
+   "usd": 9592.89,
+   "ts": 1787064681,
+   "categoria": "Tecnología",
+   "prob": 66,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $9,593 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-11-august-18-140-159",
+   "titulo_es": "¿Publicará Elon Musk entre 140 y 159 tuits del 11 al 18 de agosto de 2026?",
+   "narrativa": "Segunda orden de $9,593 refuerza la tesis del 'No', acumulando un desvío del +12.4% respecto al precio de mercado actual, lo que amplía el edge por punto de entrada. La consistencia del flujo sugiere que el mercado está infravalorando la probabilidad de que Musk no alcance ese rango, basado en su historial de actividad semanal. Riesgo: alta sensibilidad a noticias de última hora sobre la actividad del usuario."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x384573a458ce44c9cac7be02bc7ec7e03d9fd57b9af01d478fa327b06e7e7ff6",
+   "titulo": "Will Elon Musk post 160-179 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-160-179",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 4506.79,
+   "price": 0.8640339577,
+   "usd": 3894.02,
+   "ts": 1787064682,
+   "categoria": "Tecnología",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,894 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-11-august-18-160-179",
+   "titulo_es": "¿Publicará Elon Musk entre 160 y 179 tuits del 11 de agosto al 18 de agosto de 2026?",
+   "narrativa": "Compra de $3,894 en el 'Yes' para el rango de 160-179 tuits, con un edge de +6.7 puntos sobre el consenso externo del 22%, indica que el mercado está descontando un escenario más conservador que el patrón histórico de Musk. La entrada escalonada (dos órdenes) sugiere acumulación estratégica, aprovechando la liquidez disponible sin mover el precio. Riesgo: rango específico con baja probabilidad base, requiere precisión en la estimación."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x384573a458ce44c9cac7be02bc7ec7e03d9fd57b9af01d478fa327b06e7e7ff6",
+   "titulo": "Will Elon Musk post 160-179 tweets from August 11 to August 18, 2026?",
+   "slug": "elon-musk-of-tweets-august-11-august-18-160-179",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 3014.68,
+   "price": 0.975929087,
+   "usd": 2942.11,
+   "ts": 1787064681,
+   "categoria": "Tecnología",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,942 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-11-august-18-160-179",
+   "titulo_es": "¿Publicará Elon Musk entre 160 y 179 tuits del 11 de agosto al 18 de agosto de 2026?",
+   "narrativa": "Segunda compra de $2,942 en el mismo rango, elevando el compromiso total a $6,836, con un desvío del +9.1% frente al precio implícito, lo que mejora el punto de equilibrio. El flujo repetido indica que el comprador ve una asimetría favorable, probablemente basada en datos de frecuencia de tuits de semanas previas. Riesgo: posible manipulación de volumen en mercados de eventos de nicho."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x0a13e72344953124db73448993a3bcf880a9d9833876fe9ad2836a4206f6d83b",
+   "titulo": "Will the price of Ethereum be above $1,800 on August 19?",
+   "slug": "ethereum-above-1800-on-august-19-2026",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1273.0,
+   "price": 0.988,
+   "usd": 1257.72,
+   "ts": 1787064684,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,258 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ethereum-above-1800-on-august-19-2026",
+   "titulo_es": "¿Estará el precio de Ethereum por encima de $1,800 el 19 de agosto?",
+   "narrativa": "Apuesta de $1,258 al 'Yes' en Ethereum por encima de $1,800, con un edge de +4.3 puntos frente al consenso externo del 61%, aprovechando un desvío del 7.8% en el precio de la acción. El monto moderado sugiere una entrada táctica, capitalizando la tendencia alcista del mercado cripto sin sobreexponerse. Riesgo: alta volatilidad intrínseca de ETH y posible correlación con noticias macro."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -12,7 +113,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9947673.640317997,
+   "volumen": 9947807.890317995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -42,7 +143,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987984.5145000002,
+   "volumen": 987984.5145,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -62,7 +163,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99940.19804000003,
+   "volumen": 99940.19804,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -76,6 +177,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - Grupo Leyenda Ronda 3-4 de la LCK"
+  },
+  {
+   "question": "Thailand vs. Singapore: O/U 5.5",
+   "slug": "asean-tha-sin-2026-08-18-total-5pt5",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99801.03881700002,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "Tailandia vs. Singapur: Más/Menos 5.5"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -92,7 +203,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.018,
    "no": 0.982,
-   "volumen": 99666.12448499998,
+   "volumen": 99666.124485,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -106,16 +217,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
-  },
-  {
-   "question": "Will the price of Bitcoin be above $64,000 on August 18?",
-   "slug": "bitcoin-above-64k-on-august-18-2026",
-   "yes": 0.9755,
-   "no": 0.0245,
-   "volumen": 99457.66471099995,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 18 de agosto?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -152,7 +253,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98946.18276299999,
+   "volumen": 98946.182763,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -160,8 +261,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.066,
-   "no": 0.934,
+   "yes": 0.0665,
+   "no": 0.9335,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -190,9 +291,9 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0125,
-   "no": 0.9875,
-   "volumen": 9990.673866999998,
+   "yes": 0.013,
+   "no": 0.987,
+   "volumen": 9995.673866999996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Estará la capitalización de mercado de OpenAI entre $500B y $750B al cierre del mercado el día de su IPO antes del 31 de diciembre de 2027?"
@@ -202,7 +303,7 @@
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 9987.01834,
+   "volumen": 9987.018340000002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
@@ -228,20 +329,20 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs",
-   "slug": "cs2-fal2-mglz-2026-08-20",
-   "yes": 0.785,
-   "no": 0.215,
-   "volumen": 9952.205623999998,
+   "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
+   "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
+   "yes": 0.805,
+   "no": 0.195,
+   "volumen": 9965.73374,
    "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: Team Falcons vs TheMongolz (BO3) - Playoffs de la Copa Mundial de Esports"
+   "categoria": "Tecnología",
+   "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
   },
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7745,
-   "no": 0.2255,
+   "yes": 0.7735,
+   "no": 0.2265,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -265,5 +366,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 72.33
+ "db_size_mb": 72.39
 }
