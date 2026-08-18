@@ -1,29 +1,29 @@
 {
- "ts": 1787090897,
- "stamp": "20260818_220817",
+ "ts": 1787091317,
+ "stamp": "20260818_221517",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x65dba70f1ce2e78bdc1c82ae6325d32b2ffbe2fe0eaec0e39e70c3dadfa44f94",
-   "titulo": "Will Russia capture Kostyantynivka by August 31?",
-   "slug": "will-russia-capture-kostyantynivka-by-august-31-1-893-748",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 1018.7,
-   "price": 0.9899816433,
-   "usd": 1008.49,
-   "ts": 1787090805,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,008 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-russia-capture-kostyantynivka-by-august-31-1-893-748",
-   "titulo_es": "¿Capturará Rusia Kostyantynivka para el 31 de agosto?",
-   "narrativa": "La compra de 1,008 USD en 'Yes' para la captura rusa de Kostyantynivka refleja una apuesta agresiva contra el consenso externo, que probablemente sitúa el evento como improbable a corto plazo. Este flujo de capital, al ser el único movimiento relevante del día, sugiere información privilegiada o un catalizador táctico inminente, generando un edge potencial si el precio actual descuenta menos del 40% de probabilidad. El monto, aunque moderado, es significativo para un mercado de nicho, lo que amplifica el impacto en el bid-ask spread. Riesgo: liquidez extremadamente baja, con spreads que pueden erosionar el 20% del edge en la entrada y salida."
+   "market_id": "0x6a571e1b83c8238df6cf49e89ff815d98b522d01db7af1568a514f3d37ec8ce0",
+   "titulo": "Cincinnati Open: Jaime Faria vs Adam Walton",
+   "slug": "atp-faria-walton-2026-08-18",
+   "outcome": "Adam Walton",
+   "side": "SELL",
+   "size": 10818.12,
+   "price": 0.73,
+   "usd": 7897.23,
+   "ts": 1787091117,
+   "categoria": "Deportes",
+   "prob": 63,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $7,897 en 'Adam Walton'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-faria-walton-2026-08-18",
+   "titulo_es": "Cincinnati Open: Jaime Faria vs Adam Walton",
+   "narrativa": "La venta de 'Adam Walton' a 7,897 USD refleja una apuesta clara contra el consenso del mercado en el Cincinnati Open, donde el volumen de operaciones sugiere un desequilibrio direccional. El edge se materializa en la diferencia entre el precio implícito y la probabilidad real estimada, que supera los 5 puntos porcentuales en este matchup. Riesgo: el mercado puede carecer de profundidad suficiente para ejecutar la salida sin deslizamiento."
   }
  ],
  "edges": [
@@ -42,7 +42,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "BNB Up or Down - August 19, 12:15AM-12:30AM ET",
+     "_poly_question": "Ethereum Up or Down - August 19, 8:15AM-8:30AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -71,7 +71,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "BNB Up or Down - August 19, 12:15AM-12:30AM ET",
+     "_poly_question": "Ethereum Up or Down - August 19, 8:15AM-8:30AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -240,8 +240,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0075,
-   "no": 0.9925,
+   "yes": 0.008,
+   "no": 0.992,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -260,8 +260,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.0495,
+   "no": 0.9505,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -320,8 +320,8 @@
   {
    "question": "Will USD/JPY hit 165 (High) in 2026?",
    "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.425,
-   "no": 0.575,
+   "yes": 0.43,
+   "no": 0.57,
    "volumen": 9952.114907000003,
    "spread": 0.0,
    "categoria": "Otros",
@@ -339,11 +339,11 @@
   }
  ],
  "historico": {
-  "ts": 1787089461,
+  "ts": 1787091262,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 78.21
+ "db_size_mb": 78.27
 }
