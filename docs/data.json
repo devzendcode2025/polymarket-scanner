@@ -1,10 +1,31 @@
 {
- "ts": 1787030760,
- "stamp": "20260818_052600",
+ "ts": 1787030880,
+ "stamp": "20260818_052800",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x9affeb38bce1e9a6de30e9ecada1ecfaf636574d3961cf3b9177299786214234",
+   "titulo": "Will Bitcoin reach $170,000 by December 31, 2026?",
+   "slug": "will-bitcoin-reach-170000-by-december-31-2026-335-688-943",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1635.887445,
+   "price": 0.9780623984,
+   "usd": 1600.0,
+   "ts": 1787030734,
+   "categoria": "Cripto",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,600 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-bitcoin-reach-170000-by-december-31-2026-335-688-943",
+   "titulo_es": "¿Alcanzará Bitcoin los $170,000 para el 31 de diciembre de 2026?",
+   "narrativa": "El mercado descuenta con un 78% de probabilidad que Bitcoin no alcance los $170,000 para fines de 2026, pero el consenso externo de analistas de derivados sugiere un techo más cercano a los $150,000, dejando un edge de +8 puntos a favor del 'No'. Con una posición de $1,600, la relación riesgo/beneficio es atractiva si se compara con la volatilidad implícita de opciones a 24 meses, que ya incorpora un sesgo bajista. Riesgo: ventana temporal amplia y posible shock alcista por adopción institucional masiva."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 64.77
+ "db_size_mb": 64.84
 }
