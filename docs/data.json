@@ -1,6 +1,6 @@
 {
- "ts": 1787039282,
- "stamp": "20260818_074802",
+ "ts": 1787039342,
+ "stamp": "20260818_074902",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -33,7 +33,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9946112.698317992,
+   "volumen": 9946377.818317998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -53,7 +53,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988107.2485159998,
+   "volumen": 988107.2485160001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -63,7 +63,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987962.6545000002,
+   "volumen": 987976.5144999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -83,7 +83,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19804000002,
+   "volumen": 99840.19804000005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -103,7 +103,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 99503.59202100002,
+   "volumen": 99503.59202099999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -113,7 +113,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.0305,
    "no": 0.9695,
-   "volumen": 99479.44526299999,
+   "volumen": 99479.44526300003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -133,7 +133,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.76193400004,
+   "volumen": 99153.76193400002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -231,8 +231,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.78,
-   "no": 0.22,
+   "yes": 0.7795,
+   "no": 0.2205,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -249,34 +249,34 @@
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
+   "question": "Will the highest temperature in Paris be 25°C or below on August 18?",
+   "slug": "highest-temperature-in-paris-on-august-18-2026-25corbelow",
+   "yes": 0.205,
+   "no": 0.795,
+   "volumen": 9941.941225999997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en París de 25°C o inferior el 18 de agosto?"
+  },
+  {
+   "question": "Will the highest temperature in Taipei be 33°C on August 18?",
+   "slug": "highest-temperature-in-taipei-on-august-18-2026-33c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9938.000947,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será la temperatura máxima en Taipéi de 33°C el 18 de agosto?"
+  },
+  {
    "question": "Will Unitree be removed from Chinese Military Companies list by June 30, 2027?",
    "slug": "will-unitree-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230560",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 9933.464820000001,
+   "volumen": 9933.46482,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será Unitree eliminado de la lista de Empresas Militares Chinas antes del 30 de junio de 2027?"
-  },
-  {
-   "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
-   "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
-   "yes": 0.24,
-   "no": 0.76,
-   "volumen": 9915.455293,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
-  },
-  {
-   "question": "Will the Democratic Party win the AR-01 House seat?",
-   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.016,
-   "no": 0.984,
-   "volumen": 9914.337593,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 66.61
+ "db_size_mb": 66.62
 }
