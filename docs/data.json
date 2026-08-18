@@ -1,29 +1,49 @@
 {
- "ts": 1787056027,
- "stamp": "20260818_122707",
+ "ts": 1787056387,
+ "stamp": "20260818_123307",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9ceaad602f0a1a97c697826274e7abce6fedd27f2c367d9520300e33dabe934e",
-   "titulo": "Miami Marlins vs. Philadelphia Phillies",
-   "slug": "mlb-mia-phi-2026-08-18",
-   "outcome": "Philadelphia Phillies",
+   "market_id": "0x2b09b06bef8a7cdf0eb87bbfcb6a941f8b968c0386f2f7fc41c813e61d91e3c1",
+   "titulo": "Miami Marlins vs. Philadelphia Phillies: O/U 7.5",
+   "slug": "mlb-mia-phi-2026-08-18-total-7pt5",
+   "outcome": "Over",
    "side": "BUY",
-   "size": 2347.06,
-   "price": 0.68,
-   "usd": 1596.0,
-   "ts": 1787055666,
+   "size": 2337.5,
+   "price": 0.56,
+   "usd": 1309.0,
+   "ts": 1787056266,
    "categoria": "Otros",
-   "prob": 54,
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,596 en 'Philadelphia Phillies'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-18",
-   "titulo_es": "Miami Marlins vs. Philadelphia Phillies",
-   "narrativa": "La compra de $1,596 en los Philadelphia Phillies refleja una apuesta clara contra el consenso del mercado, que tiende a favorecer a los Marlins en casa. Este flujo de ballena sugiere que un operador con información relevante ve valor en el lado visitante, probablemente por ventaja en el pitcheo o en el lineup. El edge implícito se amplifica si el precio de los Phillies está por debajo del 50% de probabilidad implícita, lo que justifica la entrada. Riesgo: el volumen de mercado no está disponible, lo que podría indicar liquidez limitada en este mercado específico."
+   "razon": "Trade de compra por $1,309 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-18-total-7pt5",
+   "titulo_es": "Miami Marlins vs. Philadelphia Phillies: Más/Menos 7.5",
+   "narrativa": "Dos compras consecutivas de gran tamaño en el Over 7.5 del juego Marlins-Phillies, por USD 1,309 y USD 1,125, sugieren acumulación direccional de capital institucional. El flujo combinado de USD 2,434 sin volumen de mercado reportado indica que el operador busca posicionarse antes de que el mercado ajuste la línea, aprovechando un posible desajuste en la probabilidad implícita. Riesgo: liquidez no confirmada en el mercado de totales."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x2b09b06bef8a7cdf0eb87bbfcb6a941f8b968c0386f2f7fc41c813e61d91e3c1",
+   "titulo": "Miami Marlins vs. Philadelphia Phillies: O/U 7.5",
+   "slug": "mlb-mia-phi-2026-08-18-total-7pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 2009.12,
+   "price": 0.56,
+   "usd": 1125.11,
+   "ts": 1787056267,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,125 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-18-total-7pt5",
+   "titulo_es": "Miami Marlins vs. Philadelphia Phillies: Más/Menos 7.5",
+   "narrativa": "La segunda señal de ballena refuerza la tesis del Over con un monto de USD 1,125, lo que eleva la presión de compra acumulada y valida la dirección del primer trade. Este patrón de doble entrada en el mismo outcome, con un edge implícito por la consistencia del flujo, sugiere que el consenso externo aún no ha absorbido la información que el operador maneja. Riesgo: posible movimiento de línea posterior que reduzca el valor de la entrada."
   }
  ],
  "edges": [],
@@ -221,8 +241,8 @@
   {
    "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
    "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
-   "yes": 0.24,
-   "no": 0.76,
+   "yes": 0.23,
+   "no": 0.77,
    "volumen": 9987.572938999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 70.32
+ "db_size_mb": 70.44
 }
