@@ -1,6 +1,6 @@
 {
- "ts": 1787051586,
- "stamp": "20260818_111306",
+ "ts": 1787051646,
+ "stamp": "20260818_111406",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -111,8 +111,8 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.032,
-   "no": 0.968,
+   "yes": 0.0325,
+   "no": 0.9675,
    "volumen": 99479.445263,
    "spread": 0.0,
    "categoria": "Otros",
@@ -121,8 +121,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -191,8 +191,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.017,
-   "no": 0.983,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 9990.673866999996,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -280,7 +280,7 @@
   }
  ],
  "historico": {
-  "ts": 1787049850,
+  "ts": 1787051651,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
