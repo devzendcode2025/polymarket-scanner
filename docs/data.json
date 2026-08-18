@@ -1,38 +1,17 @@
 {
- "ts": 1787011376,
- "stamp": "20260818_000256",
+ "ts": 1787011856,
+ "stamp": "20260818_001056",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
-  {
-   "tipo": "momentum",
-   "market_id": "3621011",
-   "question": "Will the highest temperature in Dallas be between 106-107°F on August 17?",
-   "slug": "highest-temperature-in-dallas-on-august-17-2026-106-107f",
-   "tags": [],
-   "categoria": "Otros",
-   "yes_antes": 0.005,
-   "yes_ahora": 0.005,
-   "cambio_pct": -9.1,
-   "direccion": "BAJADA",
-   "volumen": 9880.409341999999,
-   "prob": 59,
-   "confianza": "baja",
-   "horizonte": "24h",
-   "razon": "Yes bajada 9.1% vs el scan anterior (0.005 → 0.005) en un mercado con $9,880 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/highest-temperature-in-dallas-on-august-17-2026-106-107f",
-   "question_es": "¿Será la temperatura más alta en Dallas entre 106-107°F el 17 de agosto?",
-   "narrativa": "La probabilidad implícita se mantiene en 0.5% pese a una caída del 9.1% en el precio, lo que sugiere que el mercado ya descuenta el escenario extremo y el consenso externo apunta a una temperatura más moderada. Con un volumen de $9,880, la liquidez es suficiente para capturar el pequeño edge de 0.0 puntos si el evento no se materializa, aunque el margen es mínimo. Riesgo: alta sensibilidad a datos meteorológicos de última hora y spread amplio."
-  }
- ],
+ "momentum": [],
  "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
    "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
    "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
-   "yes": 0.0485,
-   "no": 0.9515,
+   "yes": 0.0495,
+   "no": 0.9505,
    "volumen": 9994402.475459,
    "spread": 0.0,
    "categoria": "Política",
@@ -43,7 +22,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9889066.667318005,
+   "volumen": 9889223.597318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -59,11 +38,21 @@
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
+   "question": "US x Iran diplomatic meeting by August 31, 2026?",
+   "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
+   "yes": 0.085,
+   "no": 0.915,
+   "volumen": 989144.499642,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
+  },
+  {
    "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988107.2485160001,
+   "volumen": 988107.248516,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -73,7 +62,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987826.6544999997,
+   "volumen": 987826.6544999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -267,24 +256,14 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
-  },
-  {
-   "question": "Exact Score: SC Internacional 3 - 0 Clube do Remo?",
-   "slug": "bra-int-cre-2026-08-17-exact-score-3-0",
-   "yes": 0.12,
-   "no": 0.88,
-   "volumen": 9929.861233,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Marcador exacto: SC Internacional 3 - 0 Clube do Remo?"
   }
  ],
  "historico": {
-  "ts": 1787009824,
+  "ts": 1787011740,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 60.43
+ "db_size_mb": 60.49
 }
