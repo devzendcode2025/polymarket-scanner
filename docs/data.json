@@ -1,71 +1,10 @@
 {
- "ts": 1787071091,
- "stamp": "20260818_163811",
+ "ts": 1787071511,
+ "stamp": "20260818_164511",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xcde6cef0d053c23daec4fd83ae3577c6ba79537494faae8f28eb8ea1c0dedce4",
-   "titulo": "LoL: Solary vs TLN Pirates - Game 1 Winner",
-   "slug": "lol-sly-tlnpir-2026-08-18-game1",
-   "outcome": "TLN Pirates",
-   "side": "BUY",
-   "size": 5570.670425,
-   "price": 0.8975580333,
-   "usd": 5000.0,
-   "ts": 1787070987,
-   "categoria": "Deportes",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,000 en 'TLN Pirates'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-sly-tlnpir-2026-08-18-game1",
-   "titulo_es": "LoL: Solary vs TLN Pirates - Ganador del Juego 1",
-   "narrativa": "Se detecta una apuesta de 5.000 USD a favor de TLN Pirates en el Juego 1, lo que representa una posicion dominante frente a la venta de 1.244,81 USD en el mismo resultado. Esta asimetria sugiere que el capital grande percibe una ventaja informacional o de alineacion de picks, generando un edge potencial si el consenso del mercado no ha ajustado completamente las probabilidades. Riesgo: liquidez limitada en mercados de esports menores, lo que puede amplificar el impacto de la orden."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x038ec813678a5a83123f9b7c9b8d2151820000000000000000000000000000",
-   "titulo": "Cincinnati Open: Coco Gauff vs Ann Li AND Cincinnati Open: Marta Kostyuk vs Sloane Stephens AND Cincinnati Open: Janice Tjen vs Mirra Andreeva AND Cincinnati Open: Xiyu Wang vs Elina Svitolina AND Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime",
-   "slug": "",
-   "outcome": "",
-   "side": "BUY",
-   "size": 11711.202236,
-   "price": 0.4148045634,
-   "usd": 4857.86,
-   "ts": 1787070984,
-   "categoria": "Deportes",
-   "prob": 59,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,858 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "",
-   "titulo_es": "Abierto de Cincinnati: Coco Gauff vs Ann Li Y Abierto de Cincinnati: Marta Kostyuk vs Sloane Stephens Y Abierto de Cincinnati: Janice Tjen vs Mirra Andreeva Y Abierto de Cincinnati: Xiyu Wang vs Elina Svitolina Y Abierto de Cincinnati: Juan Manuel Cerundolo vs Felix Auger-Aliassime",
-   "narrativa": "La compra combinada de 4.857,86 USD abarca multiples partidos de tenis en Cincinnati, diversificando el riesgo entre cinco enfrentamientos distintos. Esta estrategia de cartera busca capturar valor en un conjunto de resultados donde el consenso externo podria estar subestimando la probabilidad de victorias de las favoritas, aprovechando un desvio agregado positivo. Riesgo: la correlacion entre partidos simultaneos puede reducir el beneficio de la diversificacion."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xcde6cef0d053c23daec4fd83ae3577c6ba79537494faae8f28eb8ea1c0dedce4",
-   "titulo": "LoL: Solary vs TLN Pirates - Game 1 Winner",
-   "slug": "lol-sly-tlnpir-2026-08-18-game1",
-   "outcome": "TLN Pirates",
-   "side": "SELL",
-   "size": 1407.33,
-   "price": 0.8845191959,
-   "usd": 1244.81,
-   "ts": 1787070990,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,245 en 'TLN Pirates'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-sly-tlnpir-2026-08-18-game1",
-   "titulo_es": "LoL: Solary vs TLN Pirates - Ganador del Juego 1",
-   "narrativa": "La venta de 1.244,81 USD sobre TLN Pirates contrasta con la compra mayor de 5.000 USD, indicando una posible cobertura o una vision contraria de menor conviccion. Este flujo mixto sugiere que el mercado no esta completamente alineado, y la venta podria capturar un pequeno edge si el precio actual sobreestima las opciones del equipo. Riesgo: la presion compradora dominante podria empujar el precio en contra de la posicion vendedora."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -82,7 +21,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Bitcoin Up or Down - August 20, 12PM ET",
+     "_poly_question": "Will Esoteric Ebb win Best Narrative at the 2026 Game Awards?",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -111,7 +50,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Bitcoin Up or Down - August 20, 12PM ET",
+     "_poly_question": "Will Esoteric Ebb win Best Narrative at the 2026 Game Awards?",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -340,8 +279,8 @@
   {
    "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
-   "yes": 0.825,
-   "no": 0.175,
+   "yes": 0.83,
+   "no": 0.17,
    "volumen": 9965.73374,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -379,11 +318,11 @@
   }
  ],
  "historico": {
-  "ts": 1787069656,
+  "ts": 1787071456,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 73.87
+ "db_size_mb": 73.95
 }
