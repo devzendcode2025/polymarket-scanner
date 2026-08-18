@@ -1,51 +1,10 @@
 {
- "ts": 1787017017,
- "stamp": "20260818_013657",
+ "ts": 1787017377,
+ "stamp": "20260818_014257",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x5cddcdccadea4063b31e07e5d5819e5d608dbe07079819c8000b49bd67479996",
-   "titulo": "Will the price of Bitcoin be above $66,000 on August 18?",
-   "slug": "bitcoin-above-66k-on-august-18-2026",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 4371.48,
-   "price": 0.981,
-   "usd": 4288.42,
-   "ts": 1787016610,
-   "categoria": "Cripto",
-   "prob": 58,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,288 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-66k-on-august-18-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $66,000 el 18 de agosto?",
-   "narrativa": "La compra de 'No' a $66,000 para el 18 de agosto refleja una apuesta de $4,288 con un edge implícito si el consenso externo anticipa que Bitcoin no superará ese nivel; el tamaño del trade sugiere convicción en la resistencia actual. El desvío entre el precio de mercado y tu punto de entrada puede ampliar el margen si la tendencia bajista persiste. Riesgo: alta volatilidad intradía y eventos macro que podrían mover el precio bruscamente."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xea1238e5d033139909206310d717309a5c54a6c0a6bbf7dc6ae90448fddac4c0",
-   "titulo": "Cincinnati Open: Alexander Zverev vs Terence Atmane",
-   "slug": "atp-zverev-atmane-2026-08-17",
-   "outcome": "Alexander Zverev",
-   "side": "BUY",
-   "size": 2197.802196,
-   "price": 0.9099999998,
-   "usd": 2000.0,
-   "ts": 1787016609,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Alexander Zverev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-zverev-atmane-2026-08-17",
-   "titulo_es": "Cincinnati Open: Alexander Zverev vs Terence Atmane",
-   "narrativa": "Respaldar a Zverev con $2,000 en este enfrentamiento aprovecha la brecha de calidad entre un top-10 y un qualifier, con un edge positivo si el consenso externo subestima la consistencia del alemán en pista dura. El cambio porcentual en las cuotas puede ser favorable si el mercado ajusta tras el primer set. Riesgo: lesiones o sorpresas en torneos ATP, aunque la diferencia de ranking reduce el riesgo base."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -141,8 +100,8 @@
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.0185,
-   "no": 0.9815,
+   "yes": 0.018,
+   "no": 0.982,
    "volumen": 99463.59202099999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -281,8 +240,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7805,
-   "no": 0.2195,
+   "yes": 0.7795,
+   "no": 0.2205,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -300,11 +259,11 @@
   }
  ],
  "historico": {
-  "ts": 1787015461,
+  "ts": 1787017261,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 61.66
+ "db_size_mb": 61.8
 }
