@@ -1,29 +1,29 @@
 {
- "ts": 1787043724,
- "stamp": "20260818_090204",
+ "ts": 1787043784,
+ "stamp": "20260818_090304",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18",
-   "titulo": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-   "slug": "atp-nakashi-medvede-2026-08-18",
-   "outcome": "Daniil Medvedev",
+   "market_id": "0x8354996f412fb98c6338f20efcc29c469a08dca04e4aad345da1160bf8e516c9",
+   "titulo": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-g2-ast10-2026-08-19",
+   "outcome": "Astralis",
    "side": "BUY",
-   "size": 3401.35714,
-   "price": 0.5599999999,
-   "usd": 1904.76,
-   "ts": 1787043358,
+   "size": 5431.42857,
+   "price": 0.3499999999,
+   "usd": 1901.0,
+   "ts": 1787043652,
    "categoria": "Deportes",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,905 en 'Daniil Medvedev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-nakashi-medvede-2026-08-18",
-   "titulo_es": "Abierto de Cincinnati: Brandon Nakashima vs Daniil Medvedev",
-   "narrativa": "El mercado descuenta a Medvedev como favorito, pero la compra a 1904 USD sugiere que aún hay margen para capturar valor si el consenso externo subestima su solidez en pista dura frente a Nakashima. El edge en puntos no se especifica, pero el volumen de la operación indica convicción institucional en un cruce donde la diferencia de ranking y experiencia es amplia. Riesgo: posible falta de liquidez en mercados de tenis de segunda ronda."
+   "razon": "Trade de compra por $1,901 en 'Astralis'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-g2-ast10-2026-08-19",
+   "titulo_es": "Counter-Strike: G2 vs Astralis (BO3) - Copa del Mundo de Esports, Playoffs",
+   "narrativa": "La compra de Astralis a 1,901 USD refleja una apuesta agresiva contra el consenso implícito del mercado, que probablemente favorece a G2 por su historial reciente. El edge se materializa si el precio actual de Astralis está por debajo de su probabilidad real estimada (por ejemplo, un 45% de victoria vs. un 38% cotizado), generando un valor esperado positivo de ~7 puntos. La falta de volumen registrado sugiere que el mercado es ineficiente en este tramo, lo que amplifica la oportunidad para posiciones tempranas. Riesgo: posible iliquidez en horas previas al evento, lo que puede dificultar la salida a precios justos."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 67.52
+ "db_size_mb": 67.58
 }
