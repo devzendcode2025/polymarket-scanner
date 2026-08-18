@@ -1,4 +1,13 @@
-# CHAT_RESUMEN — polymarket-scanner
+# CHAT_RESUMEN.md — polymarket-scanner
+
+## Resumen de Conversaciones
+
+### 2026-08-18 — Recall boost de edges (v0.8.1) + verificación de APIs
+- Usuario pidió "haz los edges" (mejorar matching, objetivo 5-15 edges/día).
+- Cambios en crosscheck.py: Kalshi arreglado (API migró a yes_ask_dollars/title + paginación cursor + filtro parlays 596/600 + prob>0), Manifold 500, fuente ESPN NUEVA (19 ligas, moneyline DraftKings → mercados sintéticos "Winner: A vs B" sin vig; 76 mercados), bigramas de nombres propios, top-2 candidatos por fuente, MAX_POLY 400 (top+cola en run_scan), MAX_CANDIDATOS 150, prompt DeepSeek exige mismo tipo de mercado, filtro determinista (Winner: solo vs mercados winner), dedupe por game_id en consenso. Test: 194→261 candidatos; falso edge de draw eliminado; scan completo validado.
+- Pico de 42 edges en un scan = artifact de prueba (parlays Kalshi sin filtrar); corregido, siguiente scan volvió a 2.
+- Usuario preguntó si las APIs de Polymarket estaban mal (ceros en ballenas/momentum): verificado en vivo — Gamma 200, data-api /trades 200 (CLOB /trades da 401 sin key pero el sistema no lo usa). Ceros = normal de madrugada (sin trades ≥$1k, precios quietos, top-400 eficiente).
+- Nota: BD creció a ~79 MB (poda 7d/30d activa; monitorear).
 
 ### 2026-08-18 — Corrección de despliegues masivos de GitHub Pages
 - **Problema:** el cron hacía push cada minuto porque la condición `detecciones > 0 OR 6 minutos` era verdadera casi siempre. GitHub Pages acumuló miles de ejecuciones y cancelaba despliegues solapados, generando correos.

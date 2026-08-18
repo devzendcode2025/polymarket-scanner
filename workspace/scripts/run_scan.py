@@ -126,10 +126,11 @@ def main():
     print(f"  Momentum (>=5% vs scan anterior): {len(momentum)}")
 
     # 3b. Cross-check fuentes externas (F3): edge = "datos ganadores"
+    #     Compara top-200 + cola (hasta 400 mercados) contra Kalshi/Manifold/PredictIt.
     edges = crosscheck.get_edges(conn, [
         {"question": m["question"], "slug": m.get("slug"),
          "yes": m["yes"], "volume": m["volume"]}
-        for m in markets
+        for m in markets + cola
     ])
     print(f"  Edges (consenso externo vs Polymarket): {len(edges)}")
 
