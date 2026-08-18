@@ -1,6 +1,6 @@
 {
- "ts": 1787083935,
- "stamp": "20260818_201215",
+ "ts": 1787084295,
+ "stamp": "20260818_201815",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -139,8 +139,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -199,8 +199,8 @@
   {
    "question": "LoL: BOMBA Team vs Lodis (BO3) - Rift Legends Regular Season",
    "slug": "lol-bombat-lds-2026-08-18",
-   "yes": 0.18,
-   "no": 0.82,
+   "yes": 0.23,
+   "no": 0.77,
    "volumen": 98349.04173400003,
    "spread": 0.0,
    "categoria": "Otros",
@@ -219,8 +219,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.034,
-   "no": 0.966,
+   "yes": 0.032,
+   "no": 0.968,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -318,11 +318,11 @@
   }
  ],
  "historico": {
-  "ts": 1787082259,
+  "ts": 1787084060,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 76.61
+ "db_size_mb": 76.75
 }
