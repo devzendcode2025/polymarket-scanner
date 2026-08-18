@@ -1,31 +1,10 @@
 {
- "ts": 1787020858,
- "stamp": "20260818_024058",
+ "ts": 1787021338,
+ "stamp": "20260818_024858",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xf9eb9af27f46431e719ebcd980e236b774f7b0ea5f661ed6f88d9b7925fdf6e7",
-   "titulo": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in August?",
-   "slug": "will-wti-reach-100-in-august-2026",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1313.68,
-   "price": 0.92,
-   "usd": 1208.59,
-   "ts": 1787020527,
-   "categoria": "Economía",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,209 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-wti-reach-100-in-august-2026",
-   "titulo_es": "¿Alcanzará el petróleo crudo WTI (WTI) un máximo (ALTO) de $100 en agosto?",
-   "narrativa": "El mercado descuenta con un 82% de probabilidad que el WTI no toque los $100 en agosto, pero el consenso externo de analistas energéticos sitúa el riesgo alcista en torno a $95-$98 por tensiones geopolíticas. Con una compra de $1,208.59 a una cuota implícita de ~1.22, el edge positivo es de +4.2 puntos frente al precio justo estimado, aprovechando el miedo exagerado a un pico que los fundamentales de oferta/demanda no respaldan. Riesgo: posible repunte especulativo si hay una interrupción mayor en el suministro."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -33,7 +12,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9932248.199318,
+   "volumen": 9933174.299318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +22,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994356.2600700001,
+   "volumen": 994356.26007,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -53,7 +32,7 @@
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
    "yes": 0.085,
    "no": 0.915,
-   "volumen": 991282.5150890001,
+   "volumen": 991429.277006,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
@@ -73,7 +52,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987826.6545000002,
+   "volumen": 987826.6545000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -93,7 +72,7 @@
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 99860.27004500001,
+   "volumen": 99860.270045,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
@@ -143,7 +122,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.027,
    "no": 0.973,
-   "volumen": 99359.48181799999,
+   "volumen": 99359.481818,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -151,8 +130,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -161,8 +140,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.27,
-   "no": 0.73,
+   "yes": 0.26,
+   "no": 0.74,
    "volumen": 99130.961934,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -171,8 +150,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.345,
-   "no": 0.655,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -201,8 +180,8 @@
   {
    "question": "Will Ethereum reach $2,300 in August?",
    "slug": "will-ethereum-reach-2300-in-august-2026",
-   "yes": 0.034,
-   "no": 0.966,
+   "yes": 0.0335,
+   "no": 0.9665,
    "volumen": 98762.57911599998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -213,7 +192,7 @@
    "slug": "will-team-vision-win-the-international-2026-20260629212053622",
    "yes": 0.435,
    "no": 0.565,
-   "volumen": 98582.21565599997,
+   "volumen": 98582.215656,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará TEAM VISION The International 2026?"
@@ -227,16 +206,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
-  },
-  {
-   "question": "Cincinnati Open: Joao Fonseca vs Christopher O'Connell",
-   "slug": "atp-fonseca-oconnel-2026-08-18",
-   "yes": 0.505,
-   "no": 0.495,
-   "volumen": 98267.854348,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Joao Fonseca vs Christopher O'Connell"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -277,6 +246,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "APYX FDV above $50M one day after launch?",
+   "slug": "apyx-fdv-above-50m-one-day-after-launch",
+   "yes": 0.7775,
+   "no": 0.2225,
+   "volumen": 9951.191957000003,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 62.57
+ "db_size_mb": 62.7
 }
