@@ -1,31 +1,10 @@
 {
- "ts": 1787016057,
- "stamp": "20260818_012057",
+ "ts": 1787016417,
+ "stamp": "20260818_012657",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x68ddcddbacd34c0d8a61d6913222887f93b22db207a606a92e80a02969d6f1d8",
-   "titulo": "Spread: Philadelphia Phillies (-2.5)",
-   "slug": "mlb-mia-phi-2026-08-17-spread-home-2pt5",
-   "outcome": "Miami Marlins",
-   "side": "BUY",
-   "size": 2480.0,
-   "price": 0.7,
-   "usd": 1736.0,
-   "ts": 1787015719,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,736 en 'Miami Marlins'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-17-spread-home-2pt5",
-   "titulo_es": "Diferencial: Philadelphia Phillies (-2.5)",
-   "narrativa": "El mercado muestra un desbalance significativo hacia Philadelphia Phillies (-2.5), pero la compra de 1,736 USD en Miami Marlins sugiere que un operador grande está apostando contra el consenso, buscando capturar valor en un diferencial que podría estar sobrevalorado. Este flujo contrario, aunque arriesgado, ofrece un edge potencial si el mercado ajusta su percepción del margen de victoria. Riesgo: volumen de mercado no reportado, lo que limita el análisis de liquidez."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -119,20 +98,10 @@
    "question_es": "¿Será la próxima reunión diplomática entre EE. UU. e Irán en Irak antes del 30 de septiembre de 2026?"
   },
   {
-   "question": "Spread: Tampa Bay Rays (-1.5)",
-   "slug": "mlb-bal-tb-2026-08-17-spread-home-1pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99765.567779,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Margen: Tampa Bay Rays (-1.5)"
-  },
-  {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.018,
-   "no": 0.982,
+   "yes": 0.0185,
+   "no": 0.9815,
    "volumen": 99463.592021,
    "spread": 0.0,
    "categoria": "Otros",
@@ -271,12 +240,22 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.78,
-   "no": 0.22,
+   "yes": 0.7805,
+   "no": 0.2195,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
+  },
+  {
+   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
+   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
+   "yes": 0.0465,
+   "no": 0.9535,
+   "volumen": 9947.125083000004,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 61.46
+ "db_size_mb": 61.53
 }
