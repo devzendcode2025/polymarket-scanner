@@ -1,29 +1,71 @@
 {
- "ts": 1787075233,
- "stamp": "20260818_174713",
+ "ts": 1787075593,
+ "stamp": "20260818_175313",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x2b57952459cbfa495055df37c8bbb244ac8e440543cd4701d9f93e463e209966",
-   "titulo": "Valorant: Gentle Mates GC vs SK Nebula (BO3) - VCT Game Changers EMEA Playoffs",
-   "slug": "val-m8gc-skn-2026-08-18",
-   "outcome": "Gentle Mates GC",
-   "side": "SELL",
-   "size": 1047.8,
-   "price": 0.999,
-   "usd": 1046.75,
-   "ts": 1787074896,
+   "market_id": "0x419b8aebc24af493100eeb4202d6df21215522643cbf37f81aaad3ea4bc33d1e",
+   "titulo": "Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5",
+   "slug": "ucl-fen-lyo-2026-08-18-total-0pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 10668.02,
+   "price": 0.94,
+   "usd": 10027.94,
+   "ts": 1787075497,
+   "categoria": "Tecnología",
+   "prob": 67,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $10,028 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-fen-lyo-2026-08-18-total-0pt5",
+   "titulo_es": "Fenerbahçe SK vs. Olympique Lyonnais: Más/Menos 0.5",
+   "narrativa": "La compra de $10,027 en Over 0.5 en Fenerbahçe vs. Lyon refleja una apuesta agresiva a que el partido no terminará sin goles, un escenario históricamente poco frecuente en competiciones europeas de alto nivel. El tamaño del trade, más de 4 veces el promedio de las otras señales, sugiere una convicción fuerte basada en el diferencial de calidad entre ambas plantillas y la necesidad de sumar puntos. Riesgo: posible baja liquidez en mercados de totales bajos."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x419b8aebc24af493100eeb4202d6df21215522643cbf37f81aaad3ea4bc33d1e",
+   "titulo": "Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5",
+   "slug": "ucl-fen-lyo-2026-08-18-total-0pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 45143.0,
+   "price": 0.06,
+   "usd": 2708.58,
+   "ts": 1787075496,
+   "categoria": "Tecnología",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,709 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-fen-lyo-2026-08-18-total-0pt5",
+   "titulo_es": "Fenerbahçe SK vs. Olympique Lyonnais: Más/Menos 0.5",
+   "narrativa": "La compra de $2,708 en Under 0.5 en el mismo partido Fenerbahçe vs. Lyon contrasta con la señal Over de mayor monto, lo que podría indicar una cobertura o una visión contraria basada en el bajo promedio de goles en enfrentamientos defensivos. El trade, aunque menor en tamaño, busca capturar un desajuste en las probabilidades implícitas si el mercado sobreestima la probabilidad de gol. Riesgo: escenarios de gol temprano pueden liquidar la posición rápidamente."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x80c661734b23ae07062eb6401df33c4d1219aace4a4abd3d908a016620018c94",
+   "titulo": "Game Handicap: GAL (-1.5) vs Karmine Corp Blue (+1.5)",
+   "slug": "lol-gal-kcb-2026-08-18-game-handicap-away-1pt5",
+   "outcome": "Galions",
+   "side": "BUY",
+   "size": 4086.73,
+   "price": 0.5,
+   "usd": 2043.37,
+   "ts": 1787075496,
+   "volumen_mercado": 9934.145367000001,
+   "tags": [],
    "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,047 en 'Gentle Mates GC'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/val-m8gc-skn-2026-08-18",
-   "titulo_es": "Valorant: Gentle Mates GC vs SK Nebula (BO3) - Playoffs de VCT Game Changers EMEA",
-   "narrativa": "La venta de Gentle Mates GC en este BO3 de playoffs muestra un edge de +4.2 puntos frente al consenso externo del 58% de victoria, mientras que el mercado local cotiza a 62%, lo que permite capturar valor con un monto moderado de $1,046.75. El desvío del 3.8% entre la probabilidad implícita y el modelo propio sugiere una corrección a favor del lado contrario, aprovechando la sobrevaloración del favorito en un contexto de alta volatilidad en partidos de eliminación. Riesgo: posible movimiento tardío de dinero institucional si el volumen del mercado es bajo."
+   "prob": 80,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,043 en 'Galions' = 20.6% del volumen del mercado ($9,934). Órdenes de este tamaño relativo suelen mover el precio en el corto plazo.",
+   "url": "https://polymarket.com/market/lol-gal-kcb-2026-08-18-game-handicap-away-1pt5",
+   "titulo_es": "Hándicap del juego: GAL (-1.5) vs Karmine Corp Blue (+1.5)",
+   "narrativa": "La compra de $2,043 en Galions -1.5 contra Karmine Corp Blue presenta un edge atractivo si el consenso externo favorece a Galions por más de 1.5 mapas, y el volumen de $9,934 indica suficiente profundidad para ejecutar sin deslizamiento significativo. El monto representa el 20.5% del volumen total, lo que sugiere que el mercado aún no ha absorbido toda la información disponible. Riesgo: alta volatilidad en esports por factores de forma inesperados."
   }
  ],
  "edges": [
@@ -42,7 +84,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Bitcoin Up or Down - August 19, 9:55AM-10:00AM ET",
+     "_poly_question": "Ethereum Up or Down - August 19, 1:45AM-2:00AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -71,7 +113,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Bitcoin Up or Down - August 19, 9:55AM-10:00AM ET",
+     "_poly_question": "Ethereum Up or Down - August 19, 1:45AM-2:00AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -92,7 +134,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9956469.600317996,
+   "volumen": 9956469.600318002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -102,7 +144,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 995505.4300700002,
+   "volumen": 995505.4300700001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -112,7 +154,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 989915.5585159999,
+   "volumen": 989915.5585160002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -132,7 +174,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955089999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -142,7 +184,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99940.19804,
+   "volumen": 99940.19804000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -162,7 +204,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94702999997,
+   "volumen": 99768.94703000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -172,7 +214,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.025263,
+   "volumen": 99588.02526299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -180,8 +222,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -192,7 +234,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.761934,
+   "volumen": 99153.76193399998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -250,29 +292,19 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.018,
-   "no": 0.982,
-   "volumen": 9995.673867,
+   "yes": 0.0175,
+   "no": 0.9825,
+   "volumen": 9995.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Estará la capitalización de mercado de OpenAI entre $500B y $750B al cierre del mercado el día de su IPO antes del 31 de diciembre de 2027?"
   },
   {
-   "question": "Will the highest temperature in New York City be between 86-87°F on August 18?",
-   "slug": "highest-temperature-in-nyc-on-august-18-2026-86-87f",
-   "yes": 0.275,
-   "no": 0.725,
-   "volumen": 9994.364974,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Estará la temperatura más alta en la ciudad de Nueva York entre 86-87°F el 18 de agosto?"
-  },
-  {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0445,
-   "no": 0.9555,
-   "volumen": 9991.036522000004,
+   "yes": 0.044,
+   "no": 0.956,
+   "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -282,7 +314,7 @@
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 9987.018340000002,
+   "volumen": 9987.01834,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
@@ -292,7 +324,7 @@
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.825,
    "no": 0.175,
-   "volumen": 9985.785598999999,
+   "volumen": 9985.785599,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
@@ -312,7 +344,7 @@
    "slug": "will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800",
    "yes": 0.825,
    "no": 0.175,
-   "volumen": 9970.273105000002,
+   "volumen": 9970.273105,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Georgia Tree la elección parcial estatal de Secret Harbour de 2026?"
@@ -336,6 +368,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 520 y 539 tuits en agosto de 2026?"
+  },
+  {
+   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
+   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
+   "yes": 0.0465,
+   "no": 0.9535,
+   "volumen": 9947.125083000004,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
@@ -345,5 +387,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 74.67
+ "db_size_mb": 74.8
 }
