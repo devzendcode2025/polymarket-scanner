@@ -1,6 +1,6 @@
 {
- "ts": 1787096359,
- "stamp": "20260818_233919",
+ "ts": 1787096479,
+ "stamp": "20260818_234119",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -77,8 +77,8 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.022,
-   "no": 0.978,
+   "yes": 0.0205,
+   "no": 0.9795,
    "volumen": 9835102.355462996,
    "spread": 0.0,
    "categoria": "Política",
