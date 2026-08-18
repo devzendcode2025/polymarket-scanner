@@ -1,10 +1,51 @@
 {
- "ts": 1787081955,
- "stamp": "20260818_193915",
+ "ts": 1787082375,
+ "stamp": "20260818_194615",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x419b8aebc24af493100eeb4202d6df21215522643cbf37f81aaad3ea4bc33d1e",
+   "titulo": "Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5",
+   "slug": "ucl-fen-lyo-2026-08-18-total-0pt5",
+   "outcome": "Over",
+   "side": "SELL",
+   "size": 72179.09,
+   "price": 0.999,
+   "usd": 72106.91,
+   "ts": 1787082103,
+   "categoria": "Tecnología",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $72,107 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-fen-lyo-2026-08-18-total-0pt5",
+   "titulo_es": "Fenerbahçe SK vs. Olympique Lyonnais: Más/Menos 0.5",
+   "narrativa": "La venta de Over 0.5 en Fenerbahçe vs. Olympique Lyonnais con $72,106.91 en juego sugiere una fuerte convicción de que el partido no tendrá goles en la primera mitad, probablemente por un enfoque defensivo de ambos equipos. Aunque el volumen de mercado no está disponible, el tamaño de la operación indica una clara percepción de valor en el lado Under, con un edge potencial si el consenso externo favorece un inicio lento. Riesgo: la volatilidad temprana del partido podría generar un gol rápido, lo que haría perder la posición."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x457871979fd34d510133cbaf33f8508fceae492940bcb78f5a0de584d8996701",
+   "titulo": "Quebec City: Stefanos Sakellaridis vs Tristan Schoolkate",
+   "slug": "atp-sakella-schoolk-2026-08-18",
+   "outcome": "Stefanos Sakellaridis",
+   "side": "BUY",
+   "size": 7498.44,
+   "price": 0.9820534271,
+   "usd": 7363.87,
+   "ts": 1787082102,
+   "categoria": "Otros",
+   "prob": 63,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $7,364 en 'Stefanos Sakellaridis'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-sakella-schoolk-2026-08-18",
+   "titulo_es": "Ciudad de Quebec: Stefanos Sakellaridis vs Tristan Schoolkate",
+   "narrativa": "La compra de Stefanos Sakellaridis con $7,363.87 en juego refleja una apuesta por la superioridad del jugador griego en cancha dura, donde su servicio y agresividad suelen marcar diferencias. El monto, aunque moderado, sugiere una ventaja estadística frente a un oponente como Schoolkate, que podría tener menos experiencia en torneos de este nivel. Riesgo: la superficie y el momento del partido pueden nivelar las condiciones, y la falta de volumen de mercado limita la referencia de consenso."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -199,8 +240,8 @@
   {
    "question": "Will AEK win on 2026-08-18?",
    "slug": "ucl-pls-aek1-2026-08-18-aek1",
-   "yes": 0.355,
-   "no": 0.645,
+   "yes": 0.345,
+   "no": 0.655,
    "volumen": 98425.80454699998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -219,8 +260,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0655,
-   "no": 0.9345,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -269,8 +310,8 @@
   {
    "question": "Fenerbahçe SK vs. Olympique Lyonnais: 1st Half O/U 0.5",
    "slug": "ucl-fen-lyo-2026-08-18-first-half-total-0pt5",
-   "yes": 0.24,
-   "no": 0.76,
+   "yes": 0.9995,
+   "no": 0.0005,
    "volumen": 9966.945484999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -318,11 +359,11 @@
   }
  ],
  "historico": {
-  "ts": 1787080459,
+  "ts": 1787082259,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 76.22
+ "db_size_mb": 76.28
 }
