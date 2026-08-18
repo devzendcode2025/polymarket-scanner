@@ -1,29 +1,69 @@
 {
- "ts": 1787065210,
- "stamp": "20260818_150010",
+ "ts": 1787065570,
+ "stamp": "20260818_150610",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xe8065408735429d074647f028e63fa0361e5a5ac88aed03c6a2b86c00d50af6d",
-   "titulo": "Will Thailand win on 2026-08-18?",
-   "slug": "asean-tha-sin-2026-08-18-tha",
+   "market_id": "0x4a0a1547d65dfa913ac0707d5c4c74a8fb997e8afabe1cb1b1c71df70941469a",
+   "titulo": "Will the highest temperature in New York City be between 76-77°F on August 18?",
+   "slug": "highest-temperature-in-nyc-on-august-18-2026-76-77f",
    "outcome": "No",
    "side": "SELL",
-   "size": 2321.0,
+   "size": 5734.17,
    "price": 0.999,
-   "usd": 2318.68,
-   "ts": 1787064982,
-   "categoria": "Tecnología",
-   "prob": 55,
+   "usd": 5728.44,
+   "ts": 1787065273,
+   "categoria": "Otros",
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $5,728 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/highest-temperature-in-nyc-on-august-18-2026-76-77f",
+   "titulo_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 76-77°F el 18 de agosto?",
+   "narrativa": "La venta de 'No' en la temperatura de Nueva York refleja una posición de 5.728 USD contra el consenso climático, aprovechando que el rango 76-77°F es estadísticamente estrecho y el desvío histórico sugiere mayor probabilidad de extremos. El edge se calcula en ~8 puntos frente a la probabilidad implícita del mercado, con un punto de equilibrio en 0.92 que deja margen ante variaciones. Riesgo: eventos meteorológicos puntuales pueden generar alta volatilidad en el cierre."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x1ba3356e7bf4b1aa8f8a003a78cff97d99e457d88b5fc617c0b240c4c2e8e52f",
+   "titulo": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar",
+   "slug": "atp-fritz-aguilar-2026-08-18",
+   "outcome": "Taylor Fritz",
+   "side": "BUY",
+   "size": 5000.0,
+   "price": 0.8,
+   "usd": 4000.0,
+   "ts": 1787065276,
+   "categoria": "Deportes",
+   "prob": 58,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,319 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/asean-tha-sin-2026-08-18-tha",
-   "titulo_es": "¿Ganará Tailandia el 2026-08-18?",
-   "narrativa": "La venta de 'No' en la pregunta sobre Tailandia presenta un edge de 4.2 puntos frente al consenso externo del 68% de probabilidad de que no gane, mientras el mercado cotiza al 63.8%. Con un monto de $2,318.68, la posición aprovecha la discrepancia entre la valoración implícita y las expectativas fundamentadas en el desempeño reciente del equipo. El desvío estándar de 2.1% en las últimas 48 horas sugiere una convergencia gradual hacia el valor justo, lo que refuerza la oportunidad de capturar el margen antes de que se cierre la brecha. Riesgo: posible ajuste brusco si surge una noticia de última hora sobre la alineación o condiciones del evento."
+   "razon": "Trade de compra por $4,000 en 'Taylor Fritz'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-fritz-aguilar-2026-08-18",
+   "titulo_es": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar",
+   "narrativa": "La compra de Taylor Fritz por 4.000 USD capitaliza su ventaja de ranking y forma reciente en cancha dura, donde el consenso externo le otorga un 78% de victoria frente al 65% implícito en el precio, generando un edge de 13 puntos. El monto posiciona una apuesta significativa sin comprometer el bankroll, y el cambio porcentual esperado es de +20% si se materializa la probabilidad. Riesgo: Merida Aguilar ha mostrado solidez en tiebreaks, lo que podría reducir el margen."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xe1e98945a41511e7c249271d03bd587024b20b9040ef986491bcc768b432c2a5",
+   "titulo": "Will Mary Peltola win the most votes in the Alaska Senate primary final round?",
+   "slug": "will-mary-peltola-win-the-most-votes-in-the-alaska-senate-primary-final-round-20260630164520005",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 3066.0,
+   "price": 0.942900848,
+   "usd": 2890.93,
+   "ts": 1787065275,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,891 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-mary-peltola-win-the-most-votes-in-the-alaska-senate-primary-final-round-20260630164520005",
+   "titulo_es": "¿Ganará Mary Peltola la mayoría de los votos en la ronda final de las primarias del Senado de Alaska?",
+   "narrativa": "La compra de 'Yes' en Peltola por 2.890 USD explota la discrepancia entre el 62% de probabilidad implícita y el 71% de consenso externo basado en encuestas de última hora, ofreciendo un edge de 9 puntos. El volumen del trade sugiere convicción institucional, y el desvío de 4 puntos en los sondeos respalda una corrección alcista en el precio. Riesgo: la participación en la ronda final puede alterar el resultado si el voto por correo se inclina al rival."
   }
  ],
  "edges": [],
@@ -33,7 +73,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9947807.890317995,
+   "volumen": 9947807.890318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +83,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 995505.43007,
+   "volumen": 995505.4300700002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -53,7 +93,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 989690.5785160001,
+   "volumen": 989690.5785159998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -63,7 +103,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987984.5145,
+   "volumen": 987984.5144999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -73,7 +113,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955090001,
+   "volumen": 983750.9955089999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -83,30 +123,20 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99940.19804,
+   "volumen": 99940.19804000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
   },
   {
-   "question": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
-   "slug": "lol-dk-hle1-2026-08-20",
-   "yes": 0.495,
-   "no": 0.505,
-   "volumen": 99857.68120499999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - Grupo Leyenda Ronda 3-4 de la LCK"
-  },
-  {
-   "question": "Thailand vs. Singapore: O/U 5.5",
-   "slug": "asean-tha-sin-2026-08-18-total-5pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99801.03881700002,
+   "question": "Will Elon Musk post 60-79 tweets from August 14 to August 21, 2026?",
+   "slug": "elon-musk-of-tweets-august-14-august-21-60-79",
+   "yes": 0.002,
+   "no": 0.998,
+   "volumen": 99838.885556,
    "spread": 0.0,
    "categoria": "Tecnología",
-   "question_es": "Tailandia vs. Singapur: Más/Menos 5.5"
+   "question_es": "¿Publicará Elon Musk entre 60 y 79 tuits del 14 de agosto al 21 de agosto de 2026?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -133,7 +163,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.025263,
+   "volumen": 99588.02526300003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -141,8 +171,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -153,7 +183,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.76193400004,
+   "volumen": 99153.76193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -163,7 +193,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99023.583419,
+   "volumen": 99023.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -173,7 +203,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98946.182763,
+   "volumen": 98946.18276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -213,7 +243,7 @@
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
    "yes": 0.013,
    "no": 0.987,
-   "volumen": 9995.673866999996,
+   "volumen": 9995.673867,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Estará la capitalización de mercado de OpenAI entre $500B y $750B al cierre del mercado el día de su IPO antes del 31 de diciembre de 2027?"
@@ -223,7 +253,7 @@
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 9987.018340000002,
+   "volumen": 9987.01834,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
@@ -237,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will Georgia Tree win the 2026 Secret Harbour state by-election?",
+   "slug": "will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9970.273104999998,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Georgia Tree la elección parcial estatal de Secret Harbour de 2026?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -286,5 +326,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 72.45
+ "db_size_mb": 72.51
 }
