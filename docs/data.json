@@ -1,6 +1,6 @@
 {
- "ts": 1787059268,
- "stamp": "20260818_132108",
+ "ts": 1787059628,
+ "stamp": "20260818_132708",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -100,8 +100,8 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.032,
-   "no": 0.968,
+   "yes": 0.0325,
+   "no": 0.9675,
    "volumen": 99479.44526300003,
    "spread": 0.0,
    "categoria": "Otros",
@@ -180,8 +180,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0145,
-   "no": 0.9855,
+   "yes": 0.015,
+   "no": 0.985,
    "volumen": 9990.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -210,8 +210,8 @@
   {
    "question": "Will the highest temperature in Madrid be 40°C on August 18?",
    "slug": "highest-temperature-in-madrid-on-august-18-2026-40c",
-   "yes": 0.19,
-   "no": 0.81,
+   "yes": 0.285,
+   "no": 0.715,
    "volumen": 9977.600179,
    "spread": 0.0,
    "categoria": "Otros",
@@ -265,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 71.09
+ "db_size_mb": 71.16
 }
