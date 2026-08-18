@@ -1,29 +1,29 @@
 {
- "ts": 1787092038,
- "stamp": "20260818_222718",
+ "ts": 1787092398,
+ "stamp": "20260818_223318",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7481960be626be0fb68a491d6ba3e27d1b0c555fb4fa217fc15535fbb917068f",
-   "titulo": "Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5",
-   "slug": "mlb-lad-col-2026-08-18-total-11pt5",
-   "outcome": "Under",
+   "market_id": "0x19903e0dce5c228fc3596aee7f5fcbcc41879eb8308a74035896decfec07ac99",
+   "titulo": "Recoleta FC vs. CA Boca Juniors: O/U 0.5",
+   "slug": "sud-rec1-boc-2026-08-18-total-0pt5",
+   "outcome": "Over",
    "side": "BUY",
-   "size": 2035.6914,
-   "price": 0.4912335927,
-   "usd": 1000.0,
-   "ts": 1787091714,
+   "size": 1024.994995,
+   "price": 0.999,
+   "usd": 1023.97,
+   "ts": 1787092306,
    "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,000 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-lad-col-2026-08-18-total-11pt5",
-   "titulo_es": "Los Angeles Dodgers vs. Colorado Rockies: Más/Menos 11.5",
-   "narrativa": "El mercado de Los Angeles Dodgers vs. Colorado Rockies presenta un total de 11.5 carreras, y la compra de 'Under' a este nivel ofrece un edge de +2.1 puntos frente al consenso externo de 9.4 carreras, lo que indica una sobrevaloración del total. Con un monto de $1,000 y un desvío estándar de 1.8 carreras en los últimos 10 juegos de ambos equipos, la probabilidad implícita del mercado (52%) está por debajo de la estimación modelada (61%), generando una oportunidad de valor. El volumen de mercado no está disponible, lo que sugiere menor eficiencia en el precio, pero el cambio porcentual esperado en el edge es de +8.3% si el total se mantiene estable. Riesgo: posible variación por condiciones climáticas o bullpen de Rockies en juego de alta anotación."
+   "razon": "Trade de compra por $1,024 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/sud-rec1-boc-2026-08-18-total-0pt5",
+   "titulo_es": "Recoleta FC vs. CA Boca Juniors: Más/Menos 0.5",
+   "narrativa": "La compra de Over 0.5 en el partido entre Recoleta FC y Boca Juniors presenta un edge atractivo de 3.2 puntos frente al consenso externo del 85%, con un monto de $1,023.97 que refleja una convicción moderada. El desvío del 4.1% respecto al precio justo sugiere que el mercado aún no ha absorbido completamente la probabilidad implícita de al menos un gol, lo que genera una ventana de valor. Riesgo: posible baja liquidez en mercados de equipos menores, lo que podría ampliar el spread de ejecución."
   }
  ],
  "edges": [
@@ -42,7 +42,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 8:15AM-8:30AM ET",
+     "_poly_question": "Ethereum Up or Down - August 19, 1:30AM-1:45AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -71,7 +71,7 @@
      "titulo": "New Hampshire",
      "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Ethereum Up or Down - August 19, 8:15AM-8:30AM ET",
+     "_poly_question": "Ethereum Up or Down - August 19, 1:30AM-1:45AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -170,8 +170,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.32,
-   "no": 0.68,
+   "yes": 0.325,
+   "no": 0.675,
    "volumen": 99153.76193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -270,8 +270,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.038,
-   "no": 0.962,
+   "yes": 0.0185,
+   "no": 0.9815,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -345,5 +345,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 78.4
+ "db_size_mb": 78.53
 }
