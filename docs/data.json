@@ -1,70 +1,29 @@
 {
- "ts": 1787069951,
- "stamp": "20260818_161911",
+ "ts": 1787070371,
+ "stamp": "20260818_162611",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
-  {
-   "tipo": "momentum",
-   "market_id": "3672479",
-   "question": "ITF W35 Krakow Women: Karolina Mrazikova vs Sofia Shapatava",
-   "slug": "itf-mraziko-shapata-2026-08-18",
-   "tags": [],
-   "categoria": "Otros",
-   "yes_antes": 0.009,
-   "yes_ahora": 0.01,
-   "cambio_pct": 17.6,
-   "direccion": "SUBIDA",
-   "volumen": 9861.171602000011,
-   "prob": 67,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Yes subida 17.6% vs el scan anterior (0.009 → 0.01) en un mercado con $9,861 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/itf-mraziko-shapata-2026-08-18",
-   "question_es": "ITF W35 Cracovia Femenino: Karolina Mrazikova vs Sofia Shapatava",
-   "narrativa": "El mercado descuenta una ligera pero consistente subida del 17.6% en la probabilidad de victoria de Karolina Mrazikova, pasando de 0.009 a 0.01, lo que refleja un ajuste fino tras la publicación de cuotas externas o noticias de última hora. Aunque el monto operado es reducido (aproximadamente $9,861 USD), el movimiento direccional es claro y sugiere que los primeros tomadores de posición están entrando antes de que el consenso general se actualice, generando un edge de entrada en niveles de precio aún bajos. Riesgo: el volumen es escaso y el precio puede revertir bruscamente ante cualquier anuncio oficial del torneo."
-  }
- ],
+ "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xc77cb99dd8ce305d50f9910432cfc42db3d66e8d51e0e7086f0db90d0a50f1f6",
-   "titulo": "Sion: Geoffrey Blancaneaux vs Juan Estevez",
-   "slug": "atp-blancan-estevez-2026-08-17",
-   "outcome": "Geoffrey Blancaneaux",
+   "market_id": "0xdb179416eb8c1ef9b0becb127775427b133efb7a5a0c568c2d5bfdbbf98773bc",
+   "titulo": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
+   "slug": "atp-rublev-borges-2026-08-18",
+   "outcome": "Nuno Borges",
    "side": "BUY",
-   "size": 27634.895404,
-   "price": 0.3618613298,
-   "usd": 10000.0,
-   "ts": 1787069785,
-   "categoria": "Otros",
-   "prob": 67,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $10,000 en 'Geoffrey Blancaneaux'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-blancan-estevez-2026-08-17",
-   "titulo_es": "Sion: Geoffrey Blancaneaux vs Juan Estévez",
-   "narrativa": "La compra de $10,000 en Blancaneaux sugiere una fuerte convicción en su victoria sobre Estévez, posiblemente basada en una ventaja de ranking o forma reciente. El monto elevado en un mercado de tenis de nicho puede indicar información privilegiada o una clara asimetría de valor. Riesgo: liquidez limitada en mercados de tenis menores."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2de3e9b742f4d579cee36e36bc31ba9734053cda716f8d7ec408e968a1cec32d",
-   "titulo": "Will the price of Bitcoin be above $58,000 on August 20?",
-   "slug": "bitcoin-above-58k-on-august-20-2026",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 3997.55,
-   "price": 0.9981112056,
-   "usd": 3990.0,
-   "ts": 1787069785,
-   "categoria": "Cripto",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,990 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-58k-on-august-20-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $58,000 el 20 de agosto?",
-   "narrativa": "La compra de $3,990 en 'Yes' para Bitcoin por encima de $58,000 el 20 de agosto refleja una apuesta alcista, probablemente respaldada por un análisis técnico o de flujo de fondos. El monto es significativo para un mercado binario, lo que sugiere una oportunidad percibida con un edge concreto. Riesgo: alta volatilidad del cripto y eventos macro de última hora."
+   "size": 1132.0,
+   "price": 0.92,
+   "usd": 1041.44,
+   "ts": 1787070088,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,041 en 'Nuno Borges'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-rublev-borges-2026-08-18",
+   "titulo_es": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
+   "narrativa": "La compra de Nuno Borges a 1041 USD en el partido contra Rublev refleja una apuesta contraria al consenso, donde el mercado probablemente sobrevalora al favorito por su ranking. Si el edge real proviene de la forma reciente de Borges en pista dura y el desgaste de Rublev, este monto busca capitalizar una corrección de precios en un evento de tenis de alto perfil. Riesgo: el volumen de mercado no está disponible, lo que sugiere liquidez limitada y posible slippage en la entrada."
   }
  ],
  "edges": [
@@ -149,11 +108,21 @@
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
   },
   {
+   "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
+   "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
+   "yes": 0.0065,
+   "no": 0.9935,
+   "volumen": 989703.0685159998,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
+  },
+  {
    "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987984.5145000002,
+   "volumen": 987984.5144999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -211,8 +180,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.32,
-   "no": 0.68,
+   "yes": 0.315,
+   "no": 0.685,
    "volumen": 99153.76193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -233,7 +202,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98946.18276299998,
+   "volumen": 98946.18276299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -247,16 +216,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
-  },
-  {
-   "question": "Cincinnati Open: Katerina Siniakova vs Madison Keys",
-   "slug": "wta-siniako-keys-2026-08-18",
-   "yes": 0.042,
-   "no": 0.958,
-   "volumen": 98829.15462699994,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Abierto de Cincinnati: Katerina Siniakova vs Madison Keys"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -341,8 +300,8 @@
   {
    "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
-   "yes": 0.81,
-   "no": 0.19,
+   "yes": 0.815,
+   "no": 0.185,
    "volumen": 9965.73374,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -361,8 +320,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7715,
-   "no": 0.2285,
+   "yes": 0.7705,
+   "no": 0.2295,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -386,5 +345,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 73.56
+ "db_size_mb": 73.63
 }
