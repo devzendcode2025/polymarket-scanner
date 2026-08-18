@@ -1,6 +1,6 @@
 {
- "ts": 1787057468,
- "stamp": "20260818_125108",
+ "ts": 1787057828,
+ "stamp": "20260818_125708",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -110,8 +110,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -120,8 +120,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.315,
-   "no": 0.685,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 99153.76193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -180,8 +180,8 @@
   {
    "question": "Will the highest temperature in Munich be 20°C on August 18?",
    "slug": "highest-temperature-in-munich-on-august-18-2026-20c",
-   "yes": 0.21,
-   "no": 0.79,
+   "yes": 0.2,
+   "no": 0.8,
    "volumen": 9991.555879000001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -190,8 +190,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0175,
-   "no": 0.9825,
+   "yes": 0.018,
+   "no": 0.982,
    "volumen": 9990.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -265,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 70.65
+ "db_size_mb": 70.73
 }
