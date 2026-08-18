@@ -1,31 +1,10 @@
 {
- "ts": 1787033221,
- "stamp": "20260818_060701",
+ "ts": 1787033581,
+ "stamp": "20260818_061301",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-   "titulo": "Strait of Hormuz traffic returns to normal by August 31?",
-   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 4975.0,
-   "price": 0.989,
-   "usd": 4920.27,
-   "ts": 1787032836,
-   "categoria": "Tecnología",
-   "prob": 59,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,920 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
-   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad para el 31 de agosto?",
-   "narrativa": "El mercado descuenta un retorno a la normalidad en Ormuz con solo un 38% de probabilidad implícita, pero el consenso externo de analistas geopolíticos sitúa ese escenario en un 52%, generando un edge de +14 puntos a favor de 'No'. Con una posición de $4,920, la compra capitaliza la brecha entre la percepción del trader y la realidad logística, aunque el volumen de mercado no reportado sugiere cautela en la ejecución. Riesgo: posible evento noticioso de última hora que reacomode las probabilidades rápidamente."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -201,8 +180,8 @@
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
-   "yes": 0.0825,
-   "no": 0.9175,
+   "yes": 0.0835,
+   "no": 0.9165,
    "volumen": 9987.018339999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -271,8 +250,8 @@
   {
    "question": "Will valve announce Arjun as the new hero at The International 2026?",
    "slug": "will-valve-announce-arjun-as-the-new-hero-at-the-international-2026-20260805195759850",
-   "yes": 0.395,
-   "no": 0.605,
+   "yes": 0.405,
+   "no": 0.595,
    "volumen": 9915.358342,
    "spread": 0.0,
    "categoria": "Otros",
@@ -280,11 +259,11 @@
   }
  ],
  "historico": {
-  "ts": 1787031725,
+  "ts": 1787033527,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 65.26
+ "db_size_mb": 65.39
 }
