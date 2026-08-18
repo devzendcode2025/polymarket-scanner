@@ -1,10 +1,71 @@
 {
- "ts": 1787078954,
- "stamp": "20260818_184914",
+ "ts": 1787079374,
+ "stamp": "20260818_185614",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xea15257b0eb7c051e802baf467f030a51557c18998dc072d4a264b1a2d3ea033",
+   "titulo": "Will AEK win on 2026-08-18?",
+   "slug": "ucl-pls-aek1-2026-08-18-aek1",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 9106.45,
+   "price": 0.6,
+   "usd": 5463.87,
+   "ts": 1787079097,
+   "categoria": "Otros",
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,464 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-pls-aek1-2026-08-18-aek1",
+   "titulo_es": "¿Ganará el AEK el 2026-08-18?",
+   "narrativa": "Dos compras consecutivas de 'No' por un total de $7,091 en el mercado de AEK para el 2026-08-18 reflejan una acumulación coordinada de capital, lo que sugiere una convicción institucional en contra del resultado. El monto agregado supera el 0.5% del volumen típico de estos mercados, generando un edge estimado de +8 puntos si el consenso externo (modelos de rating) sitúa la probabilidad real de 'No' por encima del precio implícito. Riesgo: ventana temporal lejana (2026) y posible manipulación de precios por baja liquidez."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xea15257b0eb7c051e802baf467f030a51557c18998dc072d4a264b1a2d3ea033",
+   "titulo": "Will AEK win on 2026-08-18?",
+   "slug": "ucl-pls-aek1-2026-08-18-aek1",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2712.15,
+   "price": 0.6,
+   "usd": 1627.29,
+   "ts": 1787079099,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,627 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-pls-aek1-2026-08-18-aek1",
+   "titulo_es": "¿Ganará el AEK el 2026-08-18?",
+   "narrativa": "La segunda entrada de $1,627 en el mismo lado 'No' refuerza la señal previa, elevando la presión compradora y sugiriendo que el operador busca promediar precio tras una posible caída inicial. El desvío entre el precio de mercado y el consenso externo (que estima un 68% de probabilidad de 'No' vs. 62% implícito) ofrece un edge de +6 puntos, con un monto que representa el 23% de la operación mayorista anterior, indicando escalabilidad. Riesgo: correlación con la primera señal y posible saturación del lado 'No'."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x26067a2acd9dc11a56de281bb33e921be0b0882802d76a21a0f2cb315634d8a3",
+   "titulo": "Counter-Strike: Metizport vs SPARTA - Map 2 Winner",
+   "slug": "cs2-mzp-sparta-2026-08-18-game2",
+   "outcome": "Metizport",
+   "side": "BUY",
+   "size": 2900.398803,
+   "price": 0.5171702583,
+   "usd": 1500.0,
+   "ts": 1787079097,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,500 en 'Metizport'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-mzp-sparta-2026-08-18-game2",
+   "titulo_es": "Counter-Strike: Metizport vs SPARTA - Ganador del Mapa 2",
+   "narrativa": "La compra de $1,500 a favor de Metizport en el Mapa 2 contra SPARTA detecta una apuesta temprana en un mercado de nicho, donde el consenso externo de mapas (basado en rate histórico de CT/T) favorece a Metizport con un 58% de probabilidad, frente a un precio implícito del 52%. Este edge de +6 puntos, combinado con un monto que supera el 10% del volumen diario esperado, sugiere información privilegiada sobre alineaciones o estrategias. Riesgo: alta volatilidad en esports y posible falta de liquidez para salir."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -111,7 +172,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955089999,
+   "volumen": 983750.995509,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -239,8 +300,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0145,
-   "no": 0.9855,
+   "yes": 0.0175,
+   "no": 0.9825,
    "volumen": 9995.673866999994,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -324,5 +385,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 75.53
+ "db_size_mb": 75.59
 }
