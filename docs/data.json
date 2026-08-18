@@ -1,10 +1,31 @@
 {
- "ts": 1787053867,
- "stamp": "20260818_115107",
+ "ts": 1787053987,
+ "stamp": "20260818_115307",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+   "titulo": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+   "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1553.287635,
+   "price": 0.7197636624,
+   "usd": 1118.0,
+   "ts": 1787053867,
+   "categoria": "Política",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,118 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+   "titulo_es": "¿Obtendrá Rusia Unida (ER) la mayoría de escaños en las próximas elecciones parlamentarias rusas?",
+   "narrativa": "La compra de 'Yes' en este evento político ruso refleja una apuesta direccional con $1,118 en juego, un monto que sugiere convicción institucional o de un gran operador. Aunque el volumen de mercado no está disponible, la ausencia de consenso externo claro indica que el precio actual puede estar desalineado con la probabilidad real de que Rusia Unida mantenga su mayoría, ofreciendo un edge potencial si el mercado subestima el control administrativo y mediático del partido. Riesgo: alta incertidumbre geopolítica y posible baja liquidez en mercados de nicho."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 69.82
+ "db_size_mb": 69.88
 }
