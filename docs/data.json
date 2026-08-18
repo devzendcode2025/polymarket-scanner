@@ -1,29 +1,29 @@
 {
- "ts": 1787047025,
- "stamp": "20260818_095705",
+ "ts": 1787047085,
+ "stamp": "20260818_095805",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9e7056c4004056441b57f960460c5e4f6d3e6ab9e1633b15538eb909d0f34466",
-   "titulo": "Tesla and SpaceX merger officially announced by September 30?",
-   "slug": "tesla-and-spacex-merger-officially-announced-by-september-30",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 1300.0,
-   "price": 0.937,
-   "usd": 1218.1,
-   "ts": 1787046651,
-   "categoria": "Tecnología",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,218 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/tesla-and-spacex-merger-officially-announced-by-september-30",
-   "titulo_es": "¿Fusión de Tesla y SpaceX anunciada oficialmente antes del 30 de septiembre?",
-   "narrativa": "La señal de venta sobre la fusión Tesla-SpaceX presenta un edge de 12.3 puntos frente al consenso externo del 87% a favor del 'No', con un monto de $1,218 que refleja una posición moderada pero clara. El mercado ya descuenta el rechazo, pero el desvío entre el precio implícito (88.5%) y el consenso sugiere una oportunidad de capturar valor residual antes de la fecha límite. Riesgo: baja liquidez en el tramo final, lo que puede ampliar el spread."
+   "market_id": "0xfdf7ce6641582c2cb06e2100b6bc193925aec139921db25d9329a82d45c87528",
+   "titulo": "LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
+   "slug": "lol-ns-dnf-2026-08-18-game2",
+   "outcome": "Nongshim Red Force",
+   "side": "BUY",
+   "size": 14748.08,
+   "price": 0.5055289231,
+   "usd": 7455.58,
+   "ts": 1787046963,
+   "categoria": "Deportes",
+   "prob": 63,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $7,456 en 'Nongshim Red Force'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ns-dnf-2026-08-18-game2",
+   "titulo_es": "LoL: Nongshim Red Force vs DN SOOPers - Ganador del Juego 2",
+   "narrativa": "La compra de 7,455 USD en Nongshim Red Force para el Juego 2 contra DN SOOPers refleja una fuerte convicción direccional, con un edge estimado de +4.2 puntos sobre el consenso externo del 52% de probabilidad implícita. El flujo de capital concentrado en este resultado sugiere que el mercado aún no ha absorbido completamente la ventaja de mapa y draft del equipo, lo que crea una ventana de valor antes de que el precio se ajuste. Riesgo: volatilidad alta en juegos de BO1 y posible corrección rápida si el draft favorece al rival."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 68.26
+ "db_size_mb": 68.32
 }
