@@ -1,31 +1,31 @@
 {
- "ts": 1787051826,
- "stamp": "20260818_111706",
+ "ts": 1787051946,
+ "stamp": "20260818_111906",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
- "ballenas_scan": [
+ "momentum": [
   {
-   "tipo": "ballena",
-   "market_id": "0x735303df281fe6b94f3b875c833902d590bfa1782fc349fdcb6394f6008ab748",
-   "titulo": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-   "slug": "lol-dnsc-nsea-2026-08-18",
-   "outcome": "DN SOOPers Challengers",
-   "side": "SELL",
-   "size": 1405.39,
-   "price": 0.999,
-   "usd": 1403.98,
-   "ts": 1787051458,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,404 en 'DN SOOPers Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-dnsc-nsea-2026-08-18",
-   "titulo_es": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío",
-   "narrativa": "La venta de DN SOOPers Challengers a $1,403.98 captura un edge positivo frente al consenso externo, que proyecta una mayor probabilidad de victoria para Nongshim Esports Academy en este BO3 de rondas 3-4. El monto del trade refleja una posición moderada que aprovecha la discrepancia entre el precio implícito del mercado y el modelo de valoración, con un desvío que sugiere una corrección favorable en el corto plazo. Esta oportunidad se materializa en un escenario de baja liquidez, donde los movimientos de precio pueden amplificar el retorno esperado sin requerir un gran capital. Riesgo: volatilidad alta en partidas de ligas menores, con posible cierre temprano del mercado."
+   "tipo": "momentum",
+   "market_id": "3624093",
+   "question": "Will the highest temperature in Munich be 23°C on August 18?",
+   "slug": "highest-temperature-in-munich-on-august-18-2026-23c",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.003,
+   "yes_ahora": 0.005,
+   "cambio_pct": 120.0,
+   "direccion": "SUBIDA",
+   "volumen": 9807.125822999998,
+   "prob": 72,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Yes subida 120.0% vs el scan anterior (0.003 → 0.005) en un mercado con $9,807 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/highest-temperature-in-munich-on-august-18-2026-23c",
+   "question_es": "¿Será la temperatura máxima en Múnich de 23°C el 18 de agosto?",
+   "narrativa": "El precio del 'Sí' se ha duplicado (+120%) hasta 0.005, aunque parte de una base mínima de 0.003, lo que refleja un repunte especulativo temprano con volumen moderado de $9,807. Este movimiento sugiere que algunos operadores anticipan una corrección al alza en las previsiones meteorológicas, pero el consenso externo sigue siendo muy bajo (probabilidad implícita del 0.5%), por lo que el edge real es limitado y depende de una sorpresa climática. Riesgo: alta sensibilidad a datos de pronóstico y liquidez reducida para posiciones grandes."
   }
  ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -33,7 +33,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9946622.060317993,
+   "volumen": 9946622.060318002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -43,7 +43,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 994764.3200700001,
+   "volumen": 994764.3200700004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -83,7 +83,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19803999999,
+   "volumen": 99840.19804000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -103,7 +103,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 99600.410201,
+   "volumen": 99600.41020100002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -111,8 +111,8 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.0325,
-   "no": 0.9675,
+   "yes": 0.032,
+   "no": 0.968,
    "volumen": 99479.445263,
    "spread": 0.0,
    "categoria": "Otros",
@@ -121,8 +121,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -133,7 +133,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.76193400001,
+   "volumen": 99153.761934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -141,8 +141,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99023.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -193,7 +193,7 @@
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
    "yes": 0.016,
    "no": 0.984,
-   "volumen": 9990.673866999996,
+   "volumen": 9990.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Estará la capitalización de mercado de OpenAI entre $500B y $750B al cierre del mercado el día de su IPO antes del 31 de diciembre de 2027?"
@@ -203,7 +203,7 @@
    "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
    "yes": 0.23,
    "no": 0.77,
-   "volumen": 9987.572939,
+   "volumen": 9987.572938999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
@@ -241,8 +241,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.784,
-   "no": 0.216,
+   "yes": 0.782,
+   "no": 0.218,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -259,24 +259,24 @@
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
-   "question": "Will the Democratic Party win the AR-01 House seat?",
-   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.015,
-   "no": 0.985,
-   "volumen": 9914.337593,
+   "question": "Will the highest temperature in Munich be 23°C on August 18?",
+   "slug": "highest-temperature-in-munich-on-august-18-2026-23c",
+   "yes": 0.0025,
+   "no": 0.9975,
+   "volumen": 9923.285823000002,
    "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Múnich de 23°C el 18 de agosto?"
   },
   {
-   "question": "Will there be between 20 and 40 average daily transits of the Strait of Hormuz on August 31?",
-   "slug": "will-there-be-between-20-and-40-average-daily-transits-of-the-strait-of-hormuz-on-august-31-20260728213741554",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 9908.624229000003,
+   "question": "Spread: Sydney FC (-1.5)",
+   "slug": "auc-sdr-syd-2026-08-18-spread-away-1pt5",
+   "yes": 0.155,
+   "no": 0.845,
+   "volumen": 9916.153093,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Habrá entre 20 y 40 tránsitos diarios promedio por el Estrecho de Ormuz el 31 de agosto?"
+   "categoria": "Otros",
+   "question_es": "Margen: Sídney FC (-1.5)"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 69.36
+ "db_size_mb": 69.43
 }
