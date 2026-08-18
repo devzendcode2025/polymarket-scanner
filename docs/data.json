@@ -1,31 +1,29 @@
 {
- "ts": 1787024939,
- "stamp": "20260818_034859",
+ "ts": 1787025059,
+ "stamp": "20260818_035059",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253",
-   "titulo": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-   "slug": "wta-eala-anisimo-2026-08-17",
-   "outcome": "Alexandra Eala",
+   "market_id": "0x83530b2d5ecd3353c2baec1e9fff522eef1b6cc525cafa671bc83172d26314d4",
+   "titulo": "Will the total domestic gross for The Odyssey be between 550m and 570m by August 31?",
+   "slug": "will-the-total-domestic-gross-for-the-odyssey-be-between-550m-and-570m-by-august-31-20260724150841341",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 2432.43243,
-   "price": 0.7399999999,
-   "usd": 1800.0,
-   "ts": 1787024734,
-   "volumen_mercado": 989386.7603839999,
-   "tags": [],
-   "categoria": "Deportes",
-   "prob": 68,
+   "size": 1339.0,
+   "price": 0.89,
+   "usd": 1191.71,
+   "ts": 1787025034,
+   "categoria": "Otros",
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,800 en 'Alexandra Eala' = 0.2% del volumen del mercado ($989,387). Órdenes de este tamaño relativo suelen mover el precio en el corto plazo.",
-   "url": "https://polymarket.com/market/wta-eala-anisimo-2026-08-17",
-   "titulo_es": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-   "narrativa": "La compra de 1,800 USD sobre Alexandra Eala en el Cincinnati Open refleja una apuesta contraria al consenso, dado que el mercado total de 989K USD muestra una liquidez profunda que permite posicionarse sin deslizamiento significativo. El edge se sustenta en la posible infravaloración de Eala tras su reciente progresión en pista dura, mientras el volumen respalda la ejecución de la orden sin afectar el precio. Riesgo: la diferencia de ranking y experiencia de Anisimova en torneos grandes puede limitar el margen de sorpresa."
+   "razon": "Trade de compra por $1,192 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-the-total-domestic-gross-for-the-odyssey-be-between-550m-and-570m-by-august-31-20260724150841341",
+   "titulo_es": "¿Será la recaudación nacional total de The Odyssey de entre 550m y 570m para el 31 de agosto?",
+   "narrativa": "La compra de 'Yes' en The Odyssey refleja un consenso externo que sitúa la recaudación en el rango de 550m-570m, con un edge positivo de aproximadamente 3.2 puntos sobre el precio de mercado actual. El monto de $1,191.71 sugiere una posición moderada que busca capturar la convergencia hacia el punto medio del rango antes del cierre de agosto. Riesgo: posible revisión a la baja de estimaciones si el ritmo de taquilla se desacelera en los últimos días."
   }
  ],
  "edges": [],
@@ -288,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 63.51
+ "db_size_mb": 63.57
 }
