@@ -1,6 +1,6 @@
 {
- "ts": 1787053446,
- "stamp": "20260818_114406",
+ "ts": 1787053867,
+ "stamp": "20260818_115107",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -12,7 +12,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9946766.060318002,
+   "volumen": 9946766.060317995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -22,7 +22,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 994764.3200700004,
+   "volumen": 994764.3200700001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -32,7 +32,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988690.578516,
+   "volumen": 988690.5785159998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -58,11 +58,21 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
+   "slug": "lol-ns-dnf-2026-08-18-game2",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 982796.2515709999,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: Nongshim Red Force vs DN SOOPers - Ganador del Juego 2"
+  },
+  {
    "question": "Will the Democrats win the Ohio Senate race in 2026?",
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19804000003,
+   "volumen": 99840.19804,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -92,26 +102,16 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.032,
    "no": 0.968,
-   "volumen": 99479.445263,
+   "volumen": 99479.44526299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
-   "question": "Prague 2: Petr Brunclik vs Jan Kumstat",
-   "slug": "atp-bruncli-kumstat-2026-08-17",
-   "yes": 0.405,
-   "no": 0.595,
-   "volumen": 99424.567021,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Praga 2: Petr Brunclik vs Jan Kumstat"
-  },
-  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -122,7 +122,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.76193400001,
+   "volumen": 99153.76193400002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -132,7 +132,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99023.58341900002,
+   "volumen": 99023.58341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -180,8 +180,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0195,
-   "no": 0.9805,
+   "yes": 0.0185,
+   "no": 0.9815,
    "volumen": 9990.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -230,8 +230,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7855,
-   "no": 0.2145,
+   "yes": 0.784,
+   "no": 0.216,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -248,14 +248,14 @@
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
-   "question": "Spread: Sydney FC (-1.5)",
-   "slug": "auc-sdr-syd-2026-08-18-spread-away-1pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9941.153093,
+   "question": "Will the Democratic Party win the AR-01 House seat?",
+   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
+   "yes": 0.0155,
+   "no": 0.9845,
+   "volumen": 9914.337593,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Margen: Sídney FC (-1.5)"
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
  "historico": {
@@ -265,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 69.75
+ "db_size_mb": 69.82
 }
