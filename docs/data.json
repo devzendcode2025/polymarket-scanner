@@ -1,10 +1,31 @@
 {
- "ts": 1787045884,
- "stamp": "20260818_093804",
+ "ts": 1787046184,
+ "stamp": "20260818_094304",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x8d2430ca1bcc5394f9fdfadc6d0b6321ba8cfb046e84795b9190d8ffc7958879",
+   "titulo": "LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner",
+   "slug": "lol-ns-dnf-2026-08-18-game1",
+   "outcome": "DN SOOPers",
+   "side": "SELL",
+   "size": 1176.53,
+   "price": 0.9500339983,
+   "usd": 1117.74,
+   "ts": 1787046052,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,118 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ns-dnf-2026-08-18-game1",
+   "titulo_es": "LoL: Nongshim Red Force vs DN SOOPers - Ganador del Juego 1",
+   "narrativa": "El mercado sobrevalora a DN SOOPers en el Juego 1, con una venta de $1,117 que aprovecha un desvío entre el consenso externo y la probabilidad implícita. Este posicionamiento busca capturar un edge positivo si el precio ajusta hacia la expectativa real, con un tamaño que permite gestionar el riesgo sin comprometer la cartera. Riesgo: el volumen de mercado no está disponible, lo que podría implicar spreads amplios en momentos de baja actividad."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -80,8 +101,8 @@
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.019,
-   "no": 0.981,
+   "yes": 0.0185,
+   "no": 0.9815,
    "volumen": 99600.410201,
    "spread": 0.0,
    "categoria": "Otros",
@@ -120,8 +141,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99023.58341900003,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -220,8 +241,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.017,
-   "no": 0.983,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 9958.073866999997,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 68.05
+ "db_size_mb": 68.12
 }
