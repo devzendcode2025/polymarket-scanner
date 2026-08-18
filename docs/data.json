@@ -1,29 +1,69 @@
 {
- "ts": 1787070371,
- "stamp": "20260818_162611",
+ "ts": 1787070731,
+ "stamp": "20260818_163211",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xdb179416eb8c1ef9b0becb127775427b133efb7a5a0c568c2d5bfdbbf98773bc",
-   "titulo": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
-   "slug": "atp-rublev-borges-2026-08-18",
-   "outcome": "Nuno Borges",
+   "market_id": "0x03c328b24e9a78665f50ac85eb089ad9480000000000000000000000000000",
+   "titulo": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti AND Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar",
+   "slug": "",
+   "outcome": "",
    "side": "BUY",
-   "size": 1132.0,
-   "price": 0.92,
-   "usd": 1041.44,
-   "ts": 1787070088,
+   "size": 9038.458448,
+   "price": 0.5407748077,
+   "usd": 4887.77,
+   "ts": 1787070382,
+   "categoria": "Deportes",
+   "prob": 59,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $4,888 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Abierto de Cincinnati: Michael Zheng vs Lorenzo Musetti Y Abierto de Cincinnati: Taylor Fritz vs Daniel Merida Aguilar",
+   "narrativa": "La compra combinada sobre Zheng y Fritz en Cincinnati refleja una apuesta coordinada de 4.887,77 USD, lo que sugiere que el capital grande percibe valor en ambos favoritos. Aunque el volumen de mercado no está disponible, el tamaño del trade en relación a las apuestas individuales indica una convicción fuerte en el resultado conjunto. Riesgo: posible correlación entre los partidos si las condiciones climáticas o de calendario afectan a ambos jugadores."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xe8ed669b29a92bc3793d8cab1d9878442f1f0d37434819a2ba430d5ee25db819",
+   "titulo": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti",
+   "slug": "atp-zheng-musetti-2026-08-18",
+   "outcome": "Lorenzo Musetti",
+   "side": "BUY",
+   "size": 3111.72727,
+   "price": 0.6599999999,
+   "usd": 2053.74,
+   "ts": 1787070388,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,054 en 'Lorenzo Musetti'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-zheng-musetti-2026-08-18",
+   "titulo_es": "Abierto de Cincinnati: Michael Zheng vs Lorenzo Musetti",
+   "narrativa": "La compra de 2.053,74 USD sobre Lorenzo Musetti contra Michael Zheng representa una posición significativa que busca explotar la brecha de experiencia y ranking entre ambos. El monto, superior a la media de liquidez esperada en este tipo de mercados, sugiere que el comprador tiene información o una lectura táctica clara. Riesgo: Zheng podría mostrar un nivel superior al esperado en pista dura, lo que reduciría el margen de victoria."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xceb2fc64b08ceaede07ddf1a80e582c227267a05f7d91935e2078ee1b814db59",
+   "titulo": "LoL: ⁠Movistar KOI Fénix vs Barça eSports - Game 2 Winner",
+   "slug": "lol-koia-bar-2026-08-18-game2",
+   "outcome": "⁠Movistar KOI Fénix",
+   "side": "SELL",
+   "size": 1449.04,
+   "price": 0.8011386849,
+   "usd": 1160.88,
+   "ts": 1787070388,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,041 en 'Nuno Borges'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-rublev-borges-2026-08-18",
-   "titulo_es": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
-   "narrativa": "La compra de Nuno Borges a 1041 USD en el partido contra Rublev refleja una apuesta contraria al consenso, donde el mercado probablemente sobrevalora al favorito por su ranking. Si el edge real proviene de la forma reciente de Borges en pista dura y el desgaste de Rublev, este monto busca capitalizar una corrección de precios en un evento de tenis de alto perfil. Riesgo: el volumen de mercado no está disponible, lo que sugiere liquidez limitada y posible slippage en la entrada."
+   "razon": "Trade de venta por $1,161 en '⁠Movistar KOI Fénix'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-koia-bar-2026-08-18-game2",
+   "titulo_es": "LoL: Movistar KOI Fénix vs Barça eSports - Ganador del Juego 2",
+   "narrativa": "La venta de 1.160,88 USD sobre Movistar KOI Fénix en el Juego 2 indica que el operador espera que Barça eSports ajuste su estrategia tras un posible primer juego disputado. Esta posición contraria al favoritismo inicial aprovecha la volatilidad típica de los juegos de LoL, donde las composiciones y el draft pueden cambiar drásticamente el resultado. Riesgo: la falta de volumen de mercado podría amplificar el deslizamiento de precios si la posición se cierra rápidamente."
   }
  ],
  "edges": [
@@ -42,7 +82,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Bitcoin Up or Down - August 18, 1:00PM-1:15PM ET",
+     "_poly_question": "Bitcoin Up or Down - August 20, 12PM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -61,9 +101,9 @@
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 15.5,
+   "prob_poly": 13.5,
    "consenso": 49.5,
-   "edge": 34.0,
+   "edge": 36.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -71,7 +111,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Bitcoin Up or Down - August 18, 1:00PM-1:15PM ET",
+     "_poly_question": "Bitcoin Up or Down - August 20, 12PM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -81,9 +121,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 15.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 34.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 13.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 36.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "Con un consenso externo de 49.5% en PredictIt para que el republicano gane por 9%-12%, Polymarket cotiza a 15.5%, lo que implica un edge de 34 puntos a favor de comprar el 'Sí'. Esta discrepancia es inusualmente alta y sugiere que el mercado de Polymarket está rezagado respecto a la información de otras fuentes. Riesgo: la probabilidad real puede ser menor si el consenso externo no refleja correctamente las condiciones locales."
+   "narrativa": "El mercado de Polymarket cotiza la probabilidad de una victoria republicana por margen del 9%-12% en solo 13.5 puntos, mientras que el consenso externo de PredictIt la ubica en 49.5, generando un edge de 36 puntos a favor de comprar el 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la información disponible, ofreciendo una oportunidad de valor con un potencial de revalorización del 267% si el mercado converge al consenso. El monto del trade no se especifica, pero la magnitud del desvío justifica una posición proporcional al apetito de riesgo. Riesgo: eventos de última hora o baja liquidez en el tramo estrecho del margen podrían retrasar la convergencia."
   }
  ],
  "top_volumen": [
@@ -300,8 +340,8 @@
   {
    "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
-   "yes": 0.815,
-   "no": 0.185,
+   "yes": 0.825,
+   "no": 0.175,
    "volumen": 9965.73374,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -345,5 +385,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 73.63
+ "db_size_mb": 73.71
 }
