@@ -1,5 +1,9 @@
 # CHAT_RESUMEN — polymarket-scanner
 
+### 2026-08-18 — Corrección de despliegues masivos de GitHub Pages
+- **Problema:** el cron hacía push cada minuto porque la condición `detecciones > 0 OR 6 minutos` era verdadera casi siempre. GitHub Pages acumuló miles de ejecuciones y cancelaba despliegues solapados, generando correos.
+- **Corrección:** el scan continúa cada minuto, pero el push queda limitado estrictamente a una vez cada 360 segundos y solo cuando `docs/` cambió.
+
 ### 2026-08-15 [~10:30-12:30] — v0.8.0: F4 narrativa + F3 con confirmación DeepSeek + barrido mispricings + histórico (sesión autónoma)
 - **Petición:** "que puede ir avanzando sin supervisión. Para sacar este proyecto en menos tiempo. Y tú me das un reporte al final del día" (WhatsApp). Autorización amplia de trabajo autónomo sobre la hoja de ruta.
 - **Acciones:**

@@ -2,7 +2,7 @@
 # Cron cada 1 minuto: scan -> render -> push condicional a GitHub Pages.
 # Silencioso si todo normal (patron watchdog): el cron no_agent entrega
 # solo lo que se imprime; en exito no se imprime nada.
-# Push solo si: hay detecciones nuevas O pasaron >=6 min (limite Pages ~10 builds/h).
+# Push como maximo una vez cada 6 min (limite Pages ~10 builds/h).
 set -u
 cd /srv/hermes-projects/proyectos/polymarket-scanner || { echo "ERROR: no existe el proyecto"; exit 1; }
 
@@ -37,18 +37,7 @@ now=$(date +%s)
 last=0
 [ -f "$LAST_PUSH" ] && last=$(cat "$LAST_PUSH" 2>/dev/null || echo 0)
 
-det=$(python3 - <<'EOF'
-import glob, json, os
-files = sorted(glob.glob(os.path.join("workspace", "reports", "technical", "scan_*.json")))
-if not files:
-    print(0)
-else:
-    r = json.load(open(files[-1], encoding="utf-8"))
-    print(len(r.get("ballenas", [])) + len(r.get("mispricings", [])) + len(r.get("momentum", [])))
-EOF
-)
-
-if [ "$det" -gt 0 ] || [ $((now - last)) -ge 360 ]; then
+if [ $((now - last)) -ge 360 ]; then
   git add docs/ > /dev/null 2>&1
   if git diff --cached --quiet; then
     : # sin cambios en docs, no commitear

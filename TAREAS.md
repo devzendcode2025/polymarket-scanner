@@ -15,6 +15,7 @@
 - [x] Motor de detección: mispricings, ballenas, momentum, spreads
 - [x] Primer scan real ejecutado y validado (2026-08-13 20:40: 200 mercados, 5 ballenas; mispricings 0 en top-200)
 - [x] Cron cada 1 minuto (job polymarket-scan-1min, script puro sin LLM, silencioso)
+- [x] Limitar publicación de GitHub Pages a una vez cada 6 minutos; el scan continúa cada minuto (2026-08-18)
 - [x] Poda de disco: snapshots solo con cambio ≥0.5%, TTL 30 días, reportes últimos 20 (~1-3 MB/día)
 - [x] Backup diario comprimido a repo privado polymarket-scanner-data (job polymarket-backup-diario, 03:00 UTC)
 - [x] LINKS DIRECTOS a Polymarket en cada señal/mercado del dashboard (F1, v0.5.0)

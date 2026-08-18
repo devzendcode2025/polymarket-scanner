@@ -2,6 +2,8 @@
 
 Scanner de oportunidades en mercados de predicción basado en las APIs públicas de Polymarket.
 
+El escáner procesa datos cada minuto y publica el dashboard en GitHub Pages como máximo cada seis minutos.
+
 ## Objetivo
 
 Un solo pipeline de datos con dos salidas de dinero:
