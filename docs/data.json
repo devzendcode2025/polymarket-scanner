@@ -1,6 +1,6 @@
 {
- "ts": 1787046184,
- "stamp": "20260818_094304",
+ "ts": 1787046244,
+ "stamp": "20260818_094404",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -101,8 +101,8 @@
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.0185,
-   "no": 0.9815,
+   "yes": 0.019,
+   "no": 0.981,
    "volumen": 99600.410201,
    "spread": 0.0,
    "categoria": "Otros",
@@ -111,8 +111,8 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.031,
-   "no": 0.969,
+   "yes": 0.0315,
+   "no": 0.9685,
    "volumen": 99479.445263,
    "spread": 0.0,
    "categoria": "Otros",
@@ -141,8 +141,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99023.58341900003,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -241,8 +241,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.016,
-   "no": 0.984,
+   "yes": 0.0165,
+   "no": 0.9835,
    "volumen": 9958.073866999997,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -251,8 +251,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7785,
-   "no": 0.2215,
+   "yes": 0.7775,
+   "no": 0.2225,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -280,7 +280,7 @@
   }
  ],
  "historico": {
-  "ts": 1787044449,
+  "ts": 1787046249,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
