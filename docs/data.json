@@ -1,9 +1,30 @@
 {
- "ts": 1787050986,
- "stamp": "20260818_110306",
+ "ts": 1787051346,
+ "stamp": "20260818_110906",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "2672658",
+   "question": "Will Peyton Watson play for the New Orleans Pelicans in 2026-27?",
+   "slug": "will-peyton-watson-play-for-the-new-orleans-pelicans-in-2026-27-20260622172741898",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.05,
+   "yes_ahora": 0.052,
+   "cambio_pct": 5.1,
+   "direccion": "SUBIDA",
+   "volumen": 99.0,
+   "prob": 55,
+   "confianza": "baja",
+   "horizonte": "24h",
+   "razon": "Yes subida 5.1% vs el scan anterior (0.05 → 0.052) en un mercado con $99 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/will-peyton-watson-play-for-the-new-orleans-pelicans-in-2026-27-20260622172741898",
+   "question_es": "¿Jugará Peyton Watson para los New Orleans Pelicans en 2026-27?",
+   "narrativa": "La confianza en que Peyton Watson vista la camiseta de New Orleans en 2026-27 ha subido un 5.1%, aunque el precio del 'Sí' sigue siendo marginal (de 0.05 a 0.052). Este movimiento, respaldado por un volumen de 99 USD, sugiere que algunos operadores están posicionándose temprano ante posibles rumores de traspaso, pero el edge real es mínimo en términos absolutos. La oportunidad radica en que el consenso externo aún no ha reaccionado, por lo que cualquier noticia concreta podría generar un repunte mayor desde una base muy baja. Riesgo: liquidez extremadamente baja, lo que amplifica la volatilidad y dificulta la salida."
+  }
+ ],
  "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
@@ -12,7 +33,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9946622.060317997,
+   "volumen": 9946622.060317993,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -32,7 +53,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988690.578516,
+   "volumen": 988690.5785159998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -62,7 +83,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19804000003,
+   "volumen": 99840.19803999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -92,7 +113,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.032,
    "no": 0.968,
-   "volumen": 99479.44526299999,
+   "volumen": 99479.445263,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -100,8 +121,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -112,7 +133,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.76193400002,
+   "volumen": 99153.76193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -122,7 +143,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99023.583419,
+   "volumen": 99023.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -170,9 +191,9 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0155,
-   "no": 0.9845,
-   "volumen": 9990.673866999998,
+   "yes": 0.017,
+   "no": 0.983,
+   "volumen": 9990.673866999996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Estará la capitalización de mercado de OpenAI entre $500B y $750B al cierre del mercado el día de su IPO antes del 31 de diciembre de 2027?"
@@ -182,7 +203,7 @@
    "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
    "yes": 0.23,
    "no": 0.77,
-   "volumen": 9987.572938999998,
+   "volumen": 9987.572939,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
@@ -208,26 +229,6 @@
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "Sion: Dominic Stephan Stricker vs Raphael Perot",
-   "slug": "atp-stricke-perot-2026-08-17",
-   "yes": 0.925,
-   "no": 0.075,
-   "volumen": 9972.463230999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Sion: Dominic Stephan Stricker vs Raphael Perot"
-  },
-  {
-   "question": "Cincinnati Open: Marie Bouzkova vs Iva Jovic",
-   "slug": "wta-bouzkov-jovic-2026-08-18",
-   "yes": 0.365,
-   "no": 0.635,
-   "volumen": 9972.236291000001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Marie Bouzkova vs Iva Jovic"
-  },
-  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -240,8 +241,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.779,
-   "no": 0.221,
+   "yes": 0.784,
+   "no": 0.216,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -256,6 +257,26 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
+  },
+  {
+   "question": "Will the Democratic Party win the AR-01 House seat?",
+   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
+   "yes": 0.015,
+   "no": 0.985,
+   "volumen": 9914.337593,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
+  },
+  {
+   "question": "Will there be between 20 and 40 average daily transits of the Strait of Hormuz on August 31?",
+   "slug": "will-there-be-between-20-and-40-average-daily-transits-of-the-strait-of-hormuz-on-august-31-20260728213741554",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 9908.624229000003,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Habrá entre 20 y 40 tránsitos diarios promedio por el Estrecho de Ormuz el 31 de agosto?"
   }
  ],
  "historico": {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 69.21
+ "db_size_mb": 69.29
 }
