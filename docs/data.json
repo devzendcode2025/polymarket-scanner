@@ -1,71 +1,10 @@
 {
- "ts": 1787017857,
- "stamp": "20260818_015057",
+ "ts": 1787018217,
+ "stamp": "20260818_015657",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x64642a9b8441919e0d54973a0d5a0338d7d7b5dd5483e4656ddb580f01d73fa7",
-   "titulo": "Atlanta Braves vs. Minnesota Twins: O/U 8.5",
-   "slug": "mlb-atl-min-2026-08-17-total-8pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 12085.6,
-   "price": 0.5,
-   "usd": 6042.8,
-   "ts": 1787017516,
-   "categoria": "Otros",
-   "prob": 61,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $6,043 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-atl-min-2026-08-17-total-8pt5",
-   "titulo_es": "Atlanta Braves vs. Minnesota Twins: Más/Menos 8.5",
-   "narrativa": "La compra de Over 8.5 en Braves vs. Twins por USD 6,042.8 refleja una fuerte convicción direccional, con un edge estimado de +5.2 puntos frente al consenso externo del 48% de probabilidad implícita. El monto representa un 3.8% del volumen total del mercado, lo que sugiere que el capital está alineado con una expectativa de alta anotación. Riesgo: posible sesgo por altas temperaturas en el estadio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x8ac76f683a4196b1caa54cb9fdadfc305a3a570efedfa1b7f9b5dd533201068e",
-   "titulo": "Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5",
-   "slug": "mlb-lad-col-2026-08-17-total-11pt5",
-   "outcome": "Over",
-   "side": "SELL",
-   "size": 8032.45,
-   "price": 0.64,
-   "usd": 5140.77,
-   "ts": 1787017516,
-   "categoria": "Otros",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $5,141 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-lad-col-2026-08-17-total-11pt5",
-   "titulo_es": "Los Angeles Dodgers vs. Colorado Rockies: Más/Menos 11.5",
-   "narrativa": "La venta de Over 11.5 en Dodgers vs. Rockies por USD 5,140.77 aprovecha un desvío de +8.1% respecto al consenso externo, que sitúa la probabilidad real de Over en 41% frente al 52% implícito en el precio. El tamaño del trade es significativo (2.9% del volumen), indicando una corrección esperada hacia la baja. Riesgo: los Rockies tienen un bullpen volátil que puede inflar el marcador."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x07a1c0d81f06eaa343eda18d291d12db14e6a8eeadb09063d55cc6cd45573702",
-   "titulo": "Will Team Vitality Win the CS2 EWC 2026?",
-   "slug": "will-team-vitality-win-the-cs2-ewc-2026-20260810160005083",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 6149.96,
-   "price": 0.23,
-   "usd": 1414.49,
-   "ts": 1787017518,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,414 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-team-vitality-win-the-cs2-ewc-2026-20260810160005083",
-   "titulo_es": "¿Ganará Team Vitality el CS2 EWC 2026?",
-   "narrativa": "La venta de Yes en Team Vitality para el CS2 EWC 2026 por USD 1,414.49 se basa en un edge de +12.4 puntos, ya que el consenso externo da solo un 23% de probabilidad de victoria, mientras el mercado implícito es del 35%. El monto, aunque menor, es proporcional a la liquidez del mercado, y la posición busca capturar la sobrevaloración del hype. Riesgo: el evento es lejano y puede haber cambios de roster."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -171,8 +110,8 @@
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.018,
-   "no": 0.982,
+   "yes": 0.0185,
+   "no": 0.9815,
    "volumen": 99463.59202100002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -251,8 +190,8 @@
   {
    "question": "Will TEAM VISION Win The International 2026?",
    "slug": "will-team-vision-win-the-international-2026-20260629212053622",
-   "yes": 0.44,
-   "no": 0.56,
+   "yes": 0.435,
+   "no": 0.565,
    "volumen": 98575.67626499996,
    "spread": 0.0,
    "categoria": "Otros",
@@ -326,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 61.89
+ "db_size_mb": 61.97
 }
