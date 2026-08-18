@@ -1,9 +1,30 @@
 {
- "ts": 1787074092,
- "stamp": "20260818_172812",
+ "ts": 1787074452,
+ "stamp": "20260818_173412",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "3655401",
+   "question": "Will the highest temperature in Beijing be 30°C on August 19?",
+   "slug": "highest-temperature-in-beijing-on-august-19-2026-30c",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.135,
+   "yes_ahora": 0.125,
+   "cambio_pct": -7.4,
+   "direccion": "BAJADA",
+   "volumen": 986.148047,
+   "prob": 57,
+   "confianza": "baja",
+   "horizonte": "24h",
+   "razon": "Yes bajada 7.4% vs el scan anterior (0.135 → 0.125) en un mercado con $986 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/highest-temperature-in-beijing-on-august-19-2026-30c",
+   "question_es": "¿Será la temperatura máxima en Pekín de 30°C el 19 de agosto?",
+   "narrativa": "La caída del 7.4% en la probabilidad del 'Sí' (de 13.5% a 12.5%) refleja un ajuste brusco del mercado ante nueva información meteorológica, creando una oportunidad de entrada en el lado del 'No' con un edge implícito de 87.5 puntos frente al consenso externo. El volumen de $986 sugiere liquidez suficiente para operar sin deslizamiento significativo, aunque el movimiento ya está en marcha. Riesgo: la volatilidad climática puede revertir la tendencia rápidamente."
+  }
+ ],
  "ballenas_scan": [],
  "edges": [
   {
@@ -21,7 +42,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Bitcoin Up or Down - August 19, 9:55AM-10:00AM ET",
+     "_poly_question": "BNB Up or Down - August 19, 12:15AM-12:30AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -50,7 +71,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Bitcoin Up or Down - August 19, 9:55AM-10:00AM ET",
+     "_poly_question": "BNB Up or Down - August 19, 12:15AM-12:30AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -71,7 +92,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9956022.040318001,
+   "volumen": 9956469.600317996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -81,20 +102,10 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 995505.4300700004,
+   "volumen": 995505.4300700002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
-  },
-  {
-   "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
-   "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 989915.5585159997,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
   },
   {
    "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -121,7 +132,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99940.19803999999,
+   "volumen": 99940.19804,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -141,7 +152,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94702999998,
+   "volumen": 99768.94702999997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -151,7 +162,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526300003,
+   "volumen": 99588.025263,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -169,8 +180,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.315,
-   "no": 0.685,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 99153.761934,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -199,8 +210,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0645,
-   "no": 0.9355,
+   "yes": 0.065,
+   "no": 0.935,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -229,19 +240,29 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0175,
-   "no": 0.9825,
+   "yes": 0.0165,
+   "no": 0.9835,
    "volumen": 9995.673867,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Estará la capitalización de mercado de OpenAI entre $500B y $750B al cierre del mercado el día de su IPO antes del 31 de diciembre de 2027?"
   },
   {
+   "question": "Will the highest temperature in New York City be between 86-87°F on August 18?",
+   "slug": "highest-temperature-in-nyc-on-august-18-2026-86-87f",
+   "yes": 0.245,
+   "no": 0.755,
+   "volumen": 9994.364974,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Estará la temperatura más alta en la ciudad de Nueva York entre 86-87°F el 18 de agosto?"
+  },
+  {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.066,
-   "no": 0.934,
-   "volumen": 9991.036522,
+   "yes": 0.0565,
+   "no": 0.9435,
+   "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -251,20 +272,20 @@
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 9987.01834,
+   "volumen": 9987.018340000002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
-   "question": "Will the highest temperature in New York City be between 86-87°F on August 18?",
-   "slug": "highest-temperature-in-nyc-on-august-18-2026-86-87f",
-   "yes": 0.22,
-   "no": 0.78,
-   "volumen": 9982.244974000003,
+   "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
+   "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
+   "yes": 0.83,
+   "no": 0.17,
+   "volumen": 9985.785598999999,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Estará la temperatura más alta en la ciudad de Nueva York entre 86-87°F el 18 de agosto?"
+   "categoria": "Tecnología",
+   "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -281,7 +302,7 @@
    "slug": "will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800",
    "yes": 0.825,
    "no": 0.175,
-   "volumen": 9970.273105,
+   "volumen": 9970.273105000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Georgia Tree la elección parcial estatal de Secret Harbour de 2026?"
@@ -297,16 +318,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
-   "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
-   "yes": 0.835,
-   "no": 0.165,
-   "volumen": 9965.73374,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
-  },
-  {
    "question": "Will Elon Musk post 520-539 tweets in August 2026?",
    "slug": "elon-musk-of-tweets-august-2026-520-539",
    "yes": 0.0025,
@@ -315,6 +326,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 520 y 539 tuits en agosto de 2026?"
+  },
+  {
+   "question": "APYX FDV above $50M one day after launch?",
+   "slug": "apyx-fdv-above-50m-one-day-after-launch",
+   "yes": 0.769,
+   "no": 0.231,
+   "volumen": 9961.191957000001,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
   }
  ],
  "historico": {
@@ -324,5 +345,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 74.49
+ "db_size_mb": 74.55
 }
