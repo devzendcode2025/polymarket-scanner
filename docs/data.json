@@ -1,30 +1,9 @@
 {
- "ts": 1787051946,
- "stamp": "20260818_111906",
+ "ts": 1787052366,
+ "stamp": "20260818_112606",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
-  {
-   "tipo": "momentum",
-   "market_id": "3624093",
-   "question": "Will the highest temperature in Munich be 23°C on August 18?",
-   "slug": "highest-temperature-in-munich-on-august-18-2026-23c",
-   "tags": [],
-   "categoria": "Otros",
-   "yes_antes": 0.003,
-   "yes_ahora": 0.005,
-   "cambio_pct": 120.0,
-   "direccion": "SUBIDA",
-   "volumen": 9807.125822999998,
-   "prob": 72,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Yes subida 120.0% vs el scan anterior (0.003 → 0.005) en un mercado con $9,807 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/highest-temperature-in-munich-on-august-18-2026-23c",
-   "question_es": "¿Será la temperatura máxima en Múnich de 23°C el 18 de agosto?",
-   "narrativa": "El precio del 'Sí' se ha duplicado (+120%) hasta 0.005, aunque parte de una base mínima de 0.003, lo que refleja un repunte especulativo temprano con volumen moderado de $9,807. Este movimiento sugiere que algunos operadores anticipan una corrección al alza en las previsiones meteorológicas, pero el consenso externo sigue siendo muy bajo (probabilidad implícita del 0.5%), por lo que el edge real es limitado y depende de una sorpresa climática. Riesgo: alta sensibilidad a datos de pronóstico y liquidez reducida para posiciones grandes."
-  }
- ],
+ "momentum": [],
  "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
@@ -53,7 +32,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988690.5785159998,
+   "volumen": 988690.5785160001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -73,7 +52,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955090001,
+   "volumen": 983750.995509,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -121,8 +100,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -191,8 +170,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.016,
-   "no": 0.984,
+   "yes": 0.019,
+   "no": 0.981,
    "volumen": 9990.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -241,8 +220,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.782,
-   "no": 0.218,
+   "yes": 0.7835,
+   "no": 0.2165,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -261,8 +240,8 @@
   {
    "question": "Will the highest temperature in Munich be 23°C on August 18?",
    "slug": "highest-temperature-in-munich-on-august-18-2026-23c",
-   "yes": 0.0025,
-   "no": 0.9975,
+   "yes": 0.0045,
+   "no": 0.9955,
    "volumen": 9923.285823000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -271,8 +250,8 @@
   {
    "question": "Spread: Sydney FC (-1.5)",
    "slug": "auc-sdr-syd-2026-08-18-spread-away-1pt5",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.5,
+   "no": 0.5,
    "volumen": 9916.153093,
    "spread": 0.0,
    "categoria": "Otros",
@@ -286,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 69.43
+ "db_size_mb": 69.5
 }
