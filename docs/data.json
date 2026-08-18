@@ -1,51 +1,10 @@
 {
- "ts": 1787029920,
- "stamp": "20260818_051200",
+ "ts": 1787030340,
+ "stamp": "20260818_051900",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x6b1efd6b676f421ee9efffa6858d3e5ce95fe94fb27731cd03f6ea595cac737c",
-   "titulo": "CF Pachuca vs. Club Puebla: O/U 5.5",
-   "slug": "mex-pac-pue-2026-08-17-total-5pt5",
-   "outcome": "Under",
-   "side": "SELL",
-   "size": 1658.24,
-   "price": 0.999,
-   "usd": 1656.58,
-   "ts": 1787029531,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,657 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mex-pac-pue-2026-08-17-total-5pt5",
-   "titulo_es": "CF Pachuca vs. Club Puebla: Más/Menos 5.5",
-   "narrativa": "La venta de Under 5.5 en el partido Pachuca vs. Puebla, con un monto de $1,656.58, refleja una apuesta agresiva contra un marcador de alta anotación. Este tipo de operación suele aprovechar un desajuste en la percepción del mercado, donde el consenso externo probablemente favorece el Over, generando un edge positivo al tomar el lado contrario con un precio que aún no se ha ajustado. El tamaño del trade sugiere convicción en un juego de ritmo controlado o con defensas sólidas, lo que incrementa la probabilidad implícita de un resultado bajo. Riesgo: posible corrección rápida del precio si el volumen de mercado es bajo o si llegan noticias de última hora sobre alineaciones ofensivas."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x65411079bc4158d0819877f627e7c750ff4848793a6a6f0b4d4f6c31a67bf61a",
-   "titulo": "Will the highest temperature in Tokyo be 30°C on August 18?",
-   "slug": "highest-temperature-in-tokyo-on-august-18-2026-30c",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1054.72,
-   "price": 0.999,
-   "usd": 1053.67,
-   "ts": 1787029531,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,054 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/highest-temperature-in-tokyo-on-august-18-2026-30c",
-   "titulo_es": "¿Será la temperatura máxima en Tokio de 30°C el 18 de agosto?",
-   "narrativa": "La compra de 'No' para la temperatura máxima de 30°C en Tokio el 18 de agosto, con $1,053.67, capitaliza un sesgo estacional o climático que el mercado podría estar sobrevalorando. Si el consenso externo de pronósticos meteorológicos indica una alta probabilidad de que la temperatura no alcance ese umbral, el precio de 'Sí' estaría inflado, ofreciendo un edge claro al comprar el lado contrario con una relación riesgo/beneficio favorable. El monto del trade indica una posición moderada que busca explotar la diferencia entre la probabilidad real y la implícita en el mercado. Riesgo: alta sensibilidad a cambios de última hora en el clima, lo que puede generar volatilidad en el precio del activo."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -53,7 +12,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9946087.693317994,
+   "volumen": 9946087.693317996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -63,7 +22,7 @@
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 999369.4458389996,
+   "volumen": 999369.4458389997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
@@ -73,7 +32,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994356.2600700001,
+   "volumen": 994356.2600699998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -83,7 +42,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988107.248516,
+   "volumen": 988107.2485160001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -93,7 +52,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987862.6544999998,
+   "volumen": 987962.6545,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -113,7 +72,7 @@
    "slug": "will-team-vision-win-the-international-2026-20260629212053622",
    "yes": 0.435,
    "no": 0.565,
-   "volumen": 99950.905656,
+   "volumen": 99950.90565599999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará TEAM VISION The International 2026?"
@@ -123,7 +82,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19804,
+   "volumen": 99840.19803999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -143,7 +102,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 99463.59202099999,
+   "volumen": 99463.592021,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -183,7 +142,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 99023.58341900003,
+   "volumen": 99023.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -233,20 +192,10 @@
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0835,
    "no": 0.9165,
-   "volumen": 9987.01834,
+   "volumen": 9987.018340000002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will the highest temperature in Madrid be 38°C on August 18?",
-   "slug": "highest-temperature-in-madrid-on-august-18-2026-38c",
-   "yes": 0.285,
-   "no": 0.715,
-   "volumen": 9982.910000999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Madrid de 38°C el 18 de agosto?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -267,6 +216,15 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will the highest temperature in Singapore be 33°C on August 18?",
+   "slug": "highest-temperature-in-singapore-on-august-18-2026-33c",
+   "yes": 0.865,
+   "no": 0.135,
+   "volumen": 9963.648522,
+   "spread": 0.0,
+   "categoria": "Otros"
   },
   {
    "question": "APYX FDV above $50M one day after launch?",
@@ -293,7 +251,7 @@
    "slug": "will-unitree-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230560",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 9933.46482,
+   "volumen": 9933.464820000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será Unitree eliminado de la lista de Empresas Militares Chinas antes del 30 de junio de 2027?"
@@ -306,5 +264,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 64.58
+ "db_size_mb": 64.7
 }
