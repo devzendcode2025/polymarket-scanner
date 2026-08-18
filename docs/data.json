@@ -1,29 +1,29 @@
 {
- "ts": 1787045224,
- "stamp": "20260818_092704",
+ "ts": 1787045284,
+ "stamp": "20260818_092804",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x5ec416a4b14bf8170b7386c5e5fcc0e60c43488f73b4fcb1e0bb6b4019dae545",
-   "titulo": "Will the price of Ethereum be above $1,700 on August 18?",
-   "slug": "ethereum-above-1700-on-august-18-2026",
-   "outcome": "Yes",
+   "market_id": "0x8d2430ca1bcc5394f9fdfadc6d0b6321ba8cfb046e84795b9190d8ffc7958879",
+   "titulo": "LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner",
+   "slug": "lol-ns-dnf-2026-08-18-game1",
+   "outcome": "DN SOOPers",
    "side": "BUY",
-   "size": 1030.0,
-   "price": 0.999,
-   "usd": 1028.97,
-   "ts": 1787044845,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,029 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ethereum-above-1700-on-august-18-2026",
-   "titulo_es": "¿Estará el precio de Ethereum por encima de $1,700 el 18 de agosto?",
-   "narrativa": "La señal de compra en 'Ethereum por encima de $1,700 el 18 de agosto' muestra un monto de $1,028.97, lo que indica interés direccional en el lado alcista. Aunque no hay volumen de mercado reportado, la apuesta concentrada sugiere que el consenso externo podría estar subestimando la probabilidad de que el precio supere ese nivel, generando un edge potencial si el activo mantiene su tendencia reciente. Riesgo: falta de datos de liquidez, lo que podría ampliar el spread o dificultar la salida."
+   "size": 3112.3,
+   "price": 0.7266028339,
+   "usd": 2261.41,
+   "ts": 1787045154,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,261 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ns-dnf-2026-08-18-game1",
+   "titulo_es": "LoL: Nongshim Red Force vs DN SOOPers - Ganador del Juego 1",
+   "narrativa": "El mercado presenta una asimetría favorable para DN SOOPers, con una posición de compra de $2,261 USD que aprovecha un desajuste entre el consenso externo y la probabilidad implícita del evento. El edge estimado en puntos es positivo, lo que sugiere que el precio actual no refleja completamente la ventaja competitiva del equipo en el Juego 1. La entrada es moderada, permitiendo capitalizar la oportunidad sin sobreexponer el portafolio. Riesgo: volatilidad intrapartido y posible ajuste rápido del mercado si hay cambios de alineación."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 67.86
+ "db_size_mb": 67.92
 }
