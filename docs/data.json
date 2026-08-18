@@ -1,9 +1,30 @@
 {
- "ts": 1787049185,
- "stamp": "20260818_103305",
+ "ts": 1787049245,
+ "stamp": "20260818_103405",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "1830064",
+   "question": "Will Sport win Brazil Série B?",
+   "slug": "2026-soccer-brazil-srie-b-winner-sport",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.469,
+   "yes_ahora": 0.445,
+   "cambio_pct": -5.3,
+   "direccion": "BAJADA",
+   "volumen": 98.97,
+   "prob": 55,
+   "confianza": "baja",
+   "horizonte": "24h",
+   "razon": "Yes bajada 5.3% vs el scan anterior (0.469 → 0.445) en un mercado con $99 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/2026-soccer-brazil-srie-b-winner-sport",
+   "question_es": "¿Ganará Sport la Serie B de Brasil?",
+   "narrativa": "La caída del 5.3% en la probabilidad de que Sport gane la Serie B, de 46.9% a 44.5%, refleja un ajuste del mercado ante un posible revés en su forma reciente. Con un volumen de solo $98.97, el movimiento es amplificado por la baja liquidez, lo que crea una ventana para capturar valor si el consenso externo (que aún ve al equipo como contendiente) no ha asimilado plenamente el cambio. El edge de 2.4 puntos porcentuales entre el precio actual y la valoración previa sugiere una oportunidad de compra en el 'No' si se espera que la tendencia continúe. Riesgo: poca liquidez puede distorsionar el precio y dificultar la salida."
+  }
+ ],
  "ballenas_scan": [
   {
    "tipo": "ballena",
@@ -33,7 +54,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9946622.060317995,
+   "volumen": 9946622.060317997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -83,7 +104,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19804000002,
+   "volumen": 99840.19804,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -103,7 +124,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.019,
    "no": 0.981,
-   "volumen": 99600.41020099998,
+   "volumen": 99600.41020099999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -111,8 +132,8 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.0325,
-   "no": 0.9675,
+   "yes": 0.032,
+   "no": 0.968,
    "volumen": 99479.445263,
    "spread": 0.0,
    "categoria": "Otros",
@@ -133,7 +154,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.76193400001,
+   "volumen": 99153.76193400002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -191,9 +212,9 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.0165,
-   "no": 0.9835,
-   "volumen": 9990.673866999996,
+   "yes": 0.016,
+   "no": 0.984,
+   "volumen": 9990.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Estará la capitalización de mercado de OpenAI entre $500B y $750B al cierre del mercado el día de su IPO antes del 31 de diciembre de 2027?"
@@ -273,7 +294,7 @@
    "slug": "will-there-be-between-20-and-40-average-daily-transits-of-the-strait-of-hormuz-on-august-31-20260728213741554",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 9908.624229000003,
+   "volumen": 9908.624229000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Habrá entre 20 y 40 tránsitos diarios promedio por el Estrecho de Ormuz el 31 de agosto?"
