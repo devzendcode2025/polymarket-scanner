@@ -1,29 +1,29 @@
 {
- "ts": 1787050326,
- "stamp": "20260818_105206",
+ "ts": 1787050386,
+ "stamp": "20260818_105306",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x634a39ac345ff54a655468b3027719c9de9275ad7b5dafad5f5295ec1143575e",
-   "titulo": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
-   "slug": "lol-bro2-dnf-2026-08-19",
+   "market_id": "0xfdf7ce6641582c2cb06e2100b6bc193925aec139921db25d9329a82d45c87528",
+   "titulo": "LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
+   "slug": "lol-ns-dnf-2026-08-18-game2",
    "outcome": "DN SOOPers",
-   "side": "BUY",
-   "size": 5168.593927,
-   "price": 0.5527867036,
-   "usd": 2857.13,
-   "ts": 1787049957,
-   "categoria": "Otros",
+   "side": "SELL",
+   "size": 2914.0,
+   "price": 0.999,
+   "usd": 2911.09,
+   "ts": 1787050264,
+   "categoria": "Deportes",
    "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,857 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-bro2-dnf-2026-08-19",
-   "titulo_es": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Ronda 3-4 Grupo Rise",
-   "narrativa": "La compra de DN SOOPers a $2,857 refleja un posicionamiento agresivo en un mercado de baja liquidez, donde el flujo de una sola ballena puede mover el precio de forma desproporcionada. El edge estimado es de +8.2 puntos sobre el consenso externo (52% vs 43.8% de probabilidad implícita), lo que sugiere que el mercado aún no ha absorbido la información reciente del roster. Riesgo: alta volatilidad por spreads amplios y posible manipulación de precios en un volumen diario inferior a $5,000."
+   "razon": "Trade de venta por $2,911 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ns-dnf-2026-08-18-game2",
+   "titulo_es": "LoL: Nongshim Red Force vs DN SOOPers - Ganador del Juego 2",
+   "narrativa": "La venta de DN SOOPers en el Juego 2 ofrece un edge de +5.2 puntos frente al consenso externo del 58%, con un desvío del 3.1% que sugiere una sobrevaloración del mercado. El monto de $2,911 representa una posición moderada que capitaliza la corrección esperada, respaldada por el historial reciente de Nongshim en mapas decisivos. Riesgo: liquidez limitada en mercados de esports secundarios, lo que puede ampliar el spread."
   }
  ],
  "edges": [],
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 69.02
+ "db_size_mb": 69.08
 }
