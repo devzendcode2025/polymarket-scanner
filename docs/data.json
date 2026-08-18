@@ -1,10 +1,31 @@
 {
- "ts": 1787054947,
- "stamp": "20260818_120907",
+ "ts": 1787055187,
+ "stamp": "20260818_121307",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xa86bfa0b50f7ee2fe5cb9b1443a298444e44c8814dd962d30eb6ece7aada5a51",
+   "titulo": "Prague 2: Javier Barranco Cosano vs Martin Krumich",
+   "slug": "atp-cosano-krumich-2026-08-18",
+   "outcome": "Javier Barranco Cosano",
+   "side": "SELL",
+   "size": 11617.35,
+   "price": 0.999,
+   "usd": 11605.73,
+   "ts": 1787055066,
+   "categoria": "Otros",
+   "prob": 69,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $11,606 en 'Javier Barranco Cosano'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-cosano-krumich-2026-08-18",
+   "titulo_es": "Praga 2: Javier Barranco Cosano vs Martin Krumich",
+   "narrativa": "La venta de Javier Barranco Cosano en Praga 2 muestra un flujo de 11,605 USD que anticipa una corrección en su probabilidad implícita, ya que el consenso externo no respalda un dominio tan amplio sobre Martin Krumich. El tamaño del trade representa una posición significativa frente al volumen disponible, lo que sugiere que el mercado está sobrevalorando al favorito y el edge se encuentra en el lado contrario. Riesgo: posible falta de liquidez en el mercado de tenis de segunda ronda."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 70.09
+ "db_size_mb": 70.17
 }
