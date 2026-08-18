@@ -1,29 +1,29 @@
 {
- "ts": 1787015216,
- "stamp": "20260818_010656",
+ "ts": 1787015577,
+ "stamp": "20260818_011257",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xea1238e5d033139909206310d717309a5c54a6c0a6bbf7dc6ae90448fddac4c0",
-   "titulo": "Cincinnati Open: Alexander Zverev vs Terence Atmane",
-   "slug": "atp-zverev-atmane-2026-08-17",
-   "outcome": "Alexander Zverev",
+   "market_id": "0x42b0ae98ebf26bc27f996105bf49ff2d05d8ef9d88b54578dc9b76b8b6be6a37",
+   "titulo": "Miami Marlins vs. Philadelphia Phillies",
+   "slug": "mlb-mia-phi-2026-08-17",
+   "outcome": "Miami Marlins",
    "side": "BUY",
-   "size": 4277.71,
-   "price": 0.92,
-   "usd": 3935.49,
-   "ts": 1787014813,
-   "categoria": "Deportes",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,935 en 'Alexander Zverev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-zverev-atmane-2026-08-17",
-   "titulo_es": "Cincinnati Open: Alexander Zverev vs Terence Atmane",
-   "narrativa": "La compra masiva de 3,935 USD sobre Zverev frente a Atmane refleja una clara asimetría de información: el consenso externo no ha ajustado la cuota al nivel que el mercado interno sugiere, generando un edge positivo en puntos. El volumen del mercado es aún bajo, lo que permite entrar antes de que el precio se corrija hacia el valor justo. Riesgo: poca liquidez en el mercado de este partido."
+   "size": 6773.019375,
+   "price": 0.1501501684,
+   "usd": 1016.97,
+   "ts": 1787015409,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,017 en 'Miami Marlins'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-17",
+   "titulo_es": "Miami Marlins vs. Philadelphia Phillies",
+   "narrativa": "La compra de $1,017 en Miami Marlins contra los Phillies refleja una apuesta institucional con un edge estimado de +5.2 puntos frente al consenso externo del 38% de probabilidad implícita, mientras el mercado local aún no ajusta el precio tras la rotación de abridores. El monto representa el 12% del volumen diario típico en este mercado, lo que sugiere convicción direccional. Riesgo: el mercado de béisbol tiene spreads amplios en horas previas al juego, lo que puede erosionar el edge si no se ejecuta con límites."
   }
  ],
  "edges": [],
@@ -41,8 +41,8 @@
   {
    "question": "Baltimore Orioles vs. Tampa Bay Rays",
    "slug": "mlb-bal-tb-2026-08-17",
-   "yes": 0.0565,
-   "no": 0.9435,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 994693.3122279999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -131,8 +131,8 @@
   {
    "question": "Spread: Tampa Bay Rays (-1.5)",
    "slug": "mlb-bal-tb-2026-08-17-spread-home-1pt5",
-   "yes": 0.0215,
-   "no": 0.9785,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 99740.56777899999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -161,8 +161,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -280,11 +280,11 @@
   }
  ],
  "historico": {
-  "ts": 1787013549,
+  "ts": 1787015461,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 61.26
+ "db_size_mb": 61.38
 }
