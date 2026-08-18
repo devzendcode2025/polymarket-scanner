@@ -1,31 +1,10 @@
 {
- "ts": 1787038622,
- "stamp": "20260818_073702",
+ "ts": 1787038982,
+ "stamp": "20260818_074302",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x02201b8867289f265d183543171aa4e35f4598556c45051f280bcf333f05bf30",
-   "titulo": "Exact Score: SD Raiders FC 0 - 2 Sydney FC?",
-   "slug": "auc-sdr-syd-2026-08-18-exact-score-0-2",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1852.48,
-   "price": 0.88,
-   "usd": 1630.18,
-   "ts": 1787038242,
-   "categoria": "Tecnología",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,630 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/auc-sdr-syd-2026-08-18-exact-score-0-2",
-   "titulo_es": "Marcador Exacto: SD Raiders FC 0 - 2 Sydney FC?",
-   "narrativa": "El mercado muestra un consenso externo del 82% hacia 'No', pero la probabilidad implícita actual es del 76%, generando un edge de +6 puntos a favor de la compra. Con un monto de $1,630 USD, la posición aprovecha la brecha entre la percepción pública y el precio real, ofreciendo un margen de valor estadístico. Riesgo: posible ajuste rápido del precio si el mercado corrige el desvío en las próximas horas."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [],
  "top_volumen": [
   {
@@ -121,8 +100,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -131,8 +110,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.325,
-   "no": 0.675,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 99153.76193400004,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -280,11 +259,11 @@
   }
  ],
  "historico": {
-  "ts": 1787037186,
+  "ts": 1787038987,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 66.44
+ "db_size_mb": 66.54
 }
