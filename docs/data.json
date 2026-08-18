@@ -1,29 +1,29 @@
 {
- "ts": 1787058128,
- "stamp": "20260818_130208",
+ "ts": 1787058488,
+ "stamp": "20260818_130808",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xfb6aebc7096dd036681802e29b2f28ff6d6c675eda504b672966047ff41cb5c3",
-   "titulo": "Will Fenerbahçe SK win on 2026-08-18?",
-   "slug": "ucl-fen-lyo-2026-08-18-fen",
-   "outcome": "No",
+   "market_id": "0x25f8c5fb2d15dc9e0e27f32f5b23031be54cd12d767be87e2a723fb38f2db7fe",
+   "titulo": "Prague 2: Petr Brunclik vs Jan Kumstat",
+   "slug": "atp-bruncli-kumstat-2026-08-17",
+   "outcome": "Petr Brunclik",
    "side": "BUY",
-   "size": 2401.38,
-   "price": 0.52,
-   "usd": 1248.72,
-   "ts": 1787057775,
+   "size": 2117.04912,
+   "price": 0.5668267149,
+   "usd": 1200.0,
+   "ts": 1787058375,
    "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,249 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ucl-fen-lyo-2026-08-18-fen",
-   "titulo_es": "¿Ganará el Fenerbahçe SK el 2026-08-18?",
-   "narrativa": "La compra de 'No' en Fenerbahçe refleja una clara apuesta contraria al optimismo del mercado, con un monto de $1,248.72 que sugiere convicción institucional. El edge se materializa si el consenso externo (probabilidad implícita del 'Sí' en casas de apuestas) supera el 60%, mientras que el precio actual del 'No' aún no descuenta la volatilidad de un partido a 18 meses vista. Riesgo: evento de largo plazo con alta incertidumbre táctica y posible falta de liquidez en el cierre."
+   "razon": "Trade de compra por $1,200 en 'Petr Brunclik'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-bruncli-kumstat-2026-08-17",
+   "titulo_es": "Praga 2: Petr Brunclik vs Jan Kumstat",
+   "narrativa": "La compra en Petr Brunclik contra Jan Kumstat muestra una clara asimetría a favor del favorito, con una posición de $1,200 que busca capitalizar la brecha de habilidad percibida en el mercado de Praga 2. El edge se sustenta en la consistencia histórica de Brunclik en superficies rápidas, que compensa la falta de volumen de mercado con un margen de valor implícito. Riesgo: mercado con liquidez limitada, lo que puede ampliar el spread en momentos de alta volatilidad."
   }
  ],
  "edges": [],
@@ -33,7 +33,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9946766.060317997,
+   "volumen": 9946766.060317999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -53,7 +53,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 989290.5785159998,
+   "volumen": 989290.5785159997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -63,7 +63,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987984.5144999999,
+   "volumen": 987984.5145,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -73,7 +73,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955090001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -83,7 +83,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99940.19803999999,
+   "volumen": 99940.19804000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -103,7 +103,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 99600.41020099999,
+   "volumen": 99600.41020099998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -113,7 +113,7 @@
    "slug": "lol-dk-hle1-2026-08-20",
    "yes": 0.485,
    "no": 0.515,
-   "volumen": 99541.957605,
+   "volumen": 99541.95760499999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - Grupo Leyenda Ronda 3-4 de la LCK"
@@ -123,7 +123,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.032,
    "no": 0.968,
-   "volumen": 99479.445263,
+   "volumen": 99479.44526300002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -131,8 +131,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -199,16 +199,6 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
-   "question": "Will the highest temperature in Munich be 20°C on August 18?",
-   "slug": "highest-temperature-in-munich-on-august-18-2026-20c",
-   "yes": 0.12,
-   "no": 0.88,
-   "volumen": 9991.555879000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Múnich de 20°C el 18 de agosto?"
-  },
-  {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
    "yes": 0.017,
@@ -223,7 +213,7 @@
    "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
    "yes": 0.23,
    "no": 0.77,
-   "volumen": 9987.572939000001,
+   "volumen": 9987.572939,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
@@ -261,8 +251,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.783,
-   "no": 0.217,
+   "yes": 0.7825,
+   "no": 0.2175,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -277,6 +267,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
+  },
+  {
+   "question": "Will the Democratic Party win the AR-01 House seat?",
+   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
+   "yes": 0.016,
+   "no": 0.984,
+   "volumen": 9914.337593,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
  "historico": {
@@ -286,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 70.81
+ "db_size_mb": 70.96
 }
