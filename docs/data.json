@@ -1,6 +1,6 @@
 {
- "ts": 1787016777,
- "stamp": "20260818_013257",
+ "ts": 1787016897,
+ "stamp": "20260818_013457",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -83,7 +83,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988107.2485160001,
+   "volumen": 988107.248516,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -93,7 +93,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 987826.6544999998,
+   "volumen": 987826.6545000002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -221,9 +221,9 @@
   {
    "question": "Will James Fishback win less than 10% of votes in the Florida Republican Governor primary?",
    "slug": "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340",
-   "yes": 0.535,
-   "no": 0.465,
-   "volumen": 98578.06936600001,
+   "yes": 0.54,
+   "no": 0.46,
+   "volumen": 98609.887546,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará James Fishback menos del 10% de los votos en las primarias republicanas para gobernador de Florida?"
@@ -306,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 61.65
+ "db_size_mb": 61.66
 }
