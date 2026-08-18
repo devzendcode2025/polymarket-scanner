@@ -1,29 +1,49 @@
 {
- "ts": 1787046425,
- "stamp": "20260818_094705",
+ "ts": 1787046485,
+ "stamp": "20260818_094805",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8d2430ca1bcc5394f9fdfadc6d0b6321ba8cfb046e84795b9190d8ffc7958879",
-   "titulo": "LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner",
-   "slug": "lol-ns-dnf-2026-08-18-game1",
-   "outcome": "DN SOOPers",
-   "side": "SELL",
-   "size": 1176.53,
-   "price": 0.9500339983,
-   "usd": 1117.74,
-   "ts": 1787046052,
-   "categoria": "Deportes",
+   "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+   "titulo": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+   "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 10000.0,
+   "price": 0.29,
+   "usd": 2900.0,
+   "ts": 1787046352,
+   "categoria": "Economía",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,900 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+   "titulo_es": "¿Subirá la Fed las tasas de interés en 25 puntos básicos después de la reunión de septiembre de 2026?",
+   "narrativa": "El mercado asigna una probabilidad implícita del 42% a la subida de 25 pb en septiembre de 2026, pero el consenso externo de analistas y futuros de fondos federales sugiere una probabilidad real del 55%, generando un edge de +13 puntos. Con una posición de $2,900, el retorno esperado ajustado por riesgo es positivo en ~$377. Riesgo: alta sensibilidad a datos macro de inflación y empleo previos a la reunión."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x3ac38f1665a598ac5ede02bdb4260548427d0dd4893bff9f4feaf3c86a0b4f84",
+   "titulo": "Prague 2: Chun-Hsin Tseng vs Hynek Barton",
+   "slug": "atp-tseng-barton-2026-08-17",
+   "outcome": "Hynek Barton",
+   "side": "BUY",
+   "size": 1713.99,
+   "price": 0.69,
+   "usd": 1182.65,
+   "ts": 1787046354,
+   "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,118 en 'DN SOOPers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ns-dnf-2026-08-18-game1",
-   "titulo_es": "LoL: Nongshim Red Force vs DN SOOPers - Ganador del Juego 1",
-   "narrativa": "El mercado sobrevalora a DN SOOPers en el Juego 1, con una venta de $1,117 que aprovecha un desvío entre el consenso externo y la probabilidad implícita. Este posicionamiento busca capturar un edge positivo si el precio ajusta hacia la expectativa real, con un tamaño que permite gestionar el riesgo sin comprometer la cartera. Riesgo: el volumen de mercado no está disponible, lo que podría implicar spreads amplios en momentos de baja actividad."
+   "razon": "Trade de compra por $1,183 en 'Hynek Barton'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-tseng-barton-2026-08-17",
+   "titulo_es": "Praga 2: Chun-Hsin Tseng contra Hynek Barton",
+   "narrativa": "Hynek Barton cotiza a una probabilidad implícita del 61% (precio de compra ~0.61), pero los modelos de superficie y el desempeño reciente en canchas duras lo favorecen con un 68% de victoria, un edge de +7 puntos. El monto de $1,182.65 busca capitalizar la diferencia entre el precio de mercado y el valor justo estimado. Riesgo: baja liquidez en mercados de tenis menores, lo que puede afectar la ejecución y el spread."
   }
  ],
  "edges": [],
@@ -286,5 +306,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 68.12
+ "db_size_mb": 68.19
 }
