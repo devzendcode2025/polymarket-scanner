@@ -1,6 +1,6 @@
 {
- "ts": 1787030880,
- "stamp": "20260818_052800",
+ "ts": 1787030940,
+ "stamp": "20260818_052900",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -131,8 +131,8 @@
   {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.027,
-   "no": 0.973,
+   "yes": 0.0295,
+   "no": 0.9705,
    "volumen": 99370.47464400002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -141,8 +141,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -161,8 +161,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99023.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -241,8 +241,8 @@
   {
    "question": "Will the highest temperature in Singapore be 33°C on August 18?",
    "slug": "highest-temperature-in-singapore-on-august-18-2026-33c",
-   "yes": 0.765,
-   "no": 0.235,
+   "yes": 0.815,
+   "no": 0.185,
    "volumen": 9963.648522,
    "spread": 0.0,
    "categoria": "Otros",
@@ -251,8 +251,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7785,
-   "no": 0.2215,
+   "yes": 0.7775,
+   "no": 0.2225,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
