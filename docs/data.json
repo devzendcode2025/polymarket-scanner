@@ -1,6 +1,6 @@
 {
- "ts": 1787023378,
- "stamp": "20260818_032258",
+ "ts": 1787023738,
+ "stamp": "20260818_032858",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -96,16 +96,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
-  },
-  {
-   "question": "SC Internacional vs. Clube do Remo: O/U 3.5",
-   "slug": "bra-int-cre-2026-08-17-total-3pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99641.465447,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "SC Internacional vs. Clube do Remo: Más/Menos 3.5"
   },
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
@@ -248,14 +238,24 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Chicago White Sox vs. Chicago Cubs: O/U 9.5",
-   "slug": "mlb-cws-chc-2026-08-17-total-9pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9965.885031999998,
+   "question": "APYX FDV above $50M one day after launch?",
+   "slug": "apyx-fdv-above-50m-one-day-after-launch",
+   "yes": 0.775,
+   "no": 0.225,
+   "volumen": 9951.191957000003,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Chicago White Sox vs. Chicago Cubs: Más/Menos 9.5"
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿APYX FDV por encima de $50M un día después del lanzamiento?"
+  },
+  {
+   "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
+   "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
+   "yes": 0.0465,
+   "no": 0.9535,
+   "volumen": 9947.125083000004,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   }
  ],
  "historico": {
@@ -265,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 63.16
+ "db_size_mb": 63.23
 }
