@@ -1,6 +1,6 @@
 {
- "ts": 1787032261,
- "stamp": "20260818_055101",
+ "ts": 1787032621,
+ "stamp": "20260818_055701",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -100,8 +100,8 @@
   {
    "question": "Will FaZe Clan Win the CS2 EWC 2026?",
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
-   "yes": 0.018,
-   "no": 0.982,
+   "yes": 0.0185,
+   "no": 0.9815,
    "volumen": 99463.592021,
    "spread": 0.0,
    "categoria": "Otros",
@@ -110,8 +110,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -130,8 +130,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99023.58341900002,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -220,8 +220,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7795,
-   "no": 0.2205,
+   "yes": 0.782,
+   "no": 0.218,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -265,5 +265,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 65.07
+ "db_size_mb": 65.14
 }
