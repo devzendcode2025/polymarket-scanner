@@ -1,6 +1,6 @@
 {
- "ts": 1787049785,
- "stamp": "20260818_104305",
+ "ts": 1787049845,
+ "stamp": "20260818_104405",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -231,8 +231,8 @@
   {
    "question": "APYX FDV above $50M one day after launch?",
    "slug": "apyx-fdv-above-50m-one-day-after-launch",
-   "yes": 0.7775,
-   "no": 0.2225,
+   "yes": 0.7795,
+   "no": 0.2205,
    "volumen": 9951.191957000003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -251,9 +251,9 @@
   {
    "question": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
    "slug": "kylie-jenner-and-timothe-chalamet-engaged-in-2026",
-   "yes": 0.24,
-   "no": 0.76,
-   "volumen": 9915.455293,
+   "yes": 0.23,
+   "no": 0.77,
+   "volumen": 9915.455292999999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Kylie Jenner y Timothée Chalamet comprometidos en 2026?"
@@ -280,7 +280,7 @@
   }
  ],
  "historico": {
-  "ts": 1787048049,
+  "ts": 1787049850,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
