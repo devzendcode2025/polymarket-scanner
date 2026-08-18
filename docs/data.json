@@ -1,10 +1,31 @@
 {
- "ts": 1787023738,
- "stamp": "20260818_032858",
+ "ts": 1787023978,
+ "stamp": "20260818_033258",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x4e3c54e97996f2a6bc2ce1657ee432f384a820c0765766f9b68fdc62dff5918a",
+   "titulo": "Chicago White Sox vs. Chicago Cubs",
+   "slug": "mlb-cws-chc-2026-08-17",
+   "outcome": "Chicago Cubs",
+   "side": "SELL",
+   "size": 5918.92,
+   "price": 0.999,
+   "usd": 5913.0,
+   "ts": 1787023831,
+   "categoria": "Otros",
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $5,913 en 'Chicago Cubs'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-cws-chc-2026-08-17",
+   "titulo_es": "Chicago White Sox vs. Chicago Cubs",
+   "narrativa": "La venta de 5,913 dólares en 'Chicago Cubs' frente a los White Sox refleja una posición institucional que busca capitalizar la percepción de sobrevaloración del equipo visitante, a pesar de que el consenso externo no muestra un desvío extremo. El edge implícito en esta operación se basa en la magnitud del monto, que sugiere información privilegiada o un modelo con ventaja estadística, aunque el volumen de mercado no está disponible para calibrar la profundidad. Riesgo: posible falta de liquidez si el mercado no absorbe la orden sin mover la cuota."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 63.23
+ "db_size_mb": 63.3
 }
