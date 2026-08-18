@@ -1,10 +1,31 @@
 {
- "ts": 1787027279,
- "stamp": "20260818_042759",
+ "ts": 1787027639,
+ "stamp": "20260818_043359",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xb8e41ef6e462cf664a460c8abd96248fad5324cbfdc664e6d73fd102ff3646dd",
+   "titulo": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
+   "slug": "itf-hanleil-osminki-2026-08-18",
+   "outcome": "Vladimir Osminkin",
+   "side": "BUY",
+   "size": 32555.3,
+   "price": 0.38,
+   "usd": 12371.01,
+   "ts": 1787027433,
+   "categoria": "Otros",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $12,371 en 'Vladimir Osminkin'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/itf-hanleil-osminki-2026-08-18",
+   "titulo_es": "ITF M15 Maanshan 7 Masculino: Hanlei Lu vs Vladimir Osminkin",
+   "narrativa": "El mercado muestra una fuerte convicción compradora hacia Osminkin, con una apuesta de $12,371 que representa un flujo significativo para un evento M15, sugiriendo que los operadores grandes detectan una ventaja en el precio actual frente al consenso externo. Este volumen concentrado puede indicar información privilegiada o una lectura táctica del partido que aún no se ha reflejado plenamente en las cuotas. Riesgo: liquidez limitada en estos torneos menores, lo que puede amplificar la volatilidad del precio."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -12,7 +33,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9945508.496317996,
+   "volumen": 9945508.496318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -20,9 +41,9 @@
   {
    "question": "US x Iran diplomatic meeting by August 31, 2026?",
    "slug": "us-x-iran-diplomatic-meeting-by-august-31-2026-2",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 996753.1858389999,
+   "yes": 0.075,
+   "no": 0.925,
+   "volumen": 999369.4458389996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 31 de agosto de 2026?"
@@ -32,7 +53,7 @@
    "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 994356.2600700001,
+   "volumen": 994356.2600700003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Samuel Alito su retiro antes del 30 de septiembre de 2026?"
@@ -42,7 +63,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 988107.2485159998,
+   "volumen": 988107.2485159999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -72,7 +93,7 @@
    "slug": "will-team-vision-win-the-international-2026-20260629212053622",
    "yes": 0.435,
    "no": 0.565,
-   "volumen": 99913.505656,
+   "volumen": 99950.905656,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará TEAM VISION The International 2026?"
@@ -82,7 +103,7 @@
    "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 99840.19804000002,
+   "volumen": 99840.19804000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los demócratas la carrera al Senado de Ohio en 2026?"
@@ -102,7 +123,7 @@
    "slug": "will-faze-clan-win-the-cs2-ewc-2026-20260810160005098",
    "yes": 0.0185,
    "no": 0.9815,
-   "volumen": 99463.59202099999,
+   "volumen": 99463.592021,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará FaZe Clan el CS2 EWC 2026?"
@@ -112,7 +133,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.027,
    "no": 0.973,
-   "volumen": 99359.481818,
+   "volumen": 99370.47464400002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -130,9 +151,9 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.32,
-   "no": 0.68,
-   "volumen": 99153.76193400002,
+   "yes": 0.315,
+   "no": 0.685,
+   "volumen": 99153.761934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -142,7 +163,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.16,
    "no": 0.84,
-   "volumen": 99023.58341900003,
+   "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -198,6 +219,16 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
+   "question": "Will the highest temperature in Madrid be 38°C on August 18?",
+   "slug": "highest-temperature-in-madrid-on-august-18-2026-38c",
+   "yes": 0.275,
+   "no": 0.725,
+   "volumen": 9979.338574,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Madrid de 38°C el 18 de agosto?"
+  },
+  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
    "yes": 0.0315,
@@ -238,24 +269,14 @@
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
   },
   {
-   "question": "Will the highest temperature in Singapore be 32°C on August 18?",
-   "slug": "highest-temperature-in-singapore-on-august-18-2026-32c",
-   "yes": 0.13,
-   "no": 0.87,
-   "volumen": 9936.476777999998,
+   "question": "Will the highest temperature in Seoul (Incheon) be 30°C on August 18?",
+   "slug": "highest-temperature-in-seoul-on-august-18-2026-30c",
+   "yes": 0.625,
+   "no": 0.375,
+   "volumen": 9936.963751000003,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en Singapur de 32°C el 18 de agosto?"
-  },
-  {
-   "question": "Will Unitree be removed from Chinese Military Companies list by June 30, 2027?",
-   "slug": "will-unitree-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230560",
-   "yes": 0.13,
-   "no": 0.87,
-   "volumen": 9933.46482,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será Unitree eliminado de la lista de Empresas Militares Chinas antes del 30 de junio de 2027?"
+   "question_es": "¿Será la temperatura máxima en Seúl (Incheon) de 30°C el 18 de agosto?"
   }
  ],
  "historico": {
@@ -265,5 +286,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 64.03
+ "db_size_mb": 64.09
 }
