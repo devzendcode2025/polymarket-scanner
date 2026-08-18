@@ -1,6 +1,6 @@
 {
- "ts": 1787072232,
- "stamp": "20260818_165712",
+ "ts": 1787072592,
+ "stamp": "20260818_170312",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -21,7 +21,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Will Esoteric Ebb win Best Narrative at the 2026 Game Awards?",
+     "_poly_question": "Bitcoin Up or Down - August 19, 9:55AM-10:00AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -50,7 +50,7 @@
      "titulo": "New Hampshire",
      "prob": 49.5,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "Will Esoteric Ebb win Best Narrative at the 2026 Game Awards?",
+     "_poly_question": "Bitcoin Up or Down - August 19, 9:55AM-10:00AM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -324,5 +324,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 74.06
+ "db_size_mb": 74.18
 }
