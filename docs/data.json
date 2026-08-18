@@ -1,69 +1,29 @@
 {
- "ts": 1787090537,
- "stamp": "20260818_220217",
+ "ts": 1787090897,
+ "stamp": "20260818_220817",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf9b557246e7276b884e497dad02c2ccc6dc145a2d4c9a3a6524c7027a93de9e9",
-   "titulo": "Spread: Philadelphia Phillies (-1.5)",
-   "slug": "mlb-mia-phi-2026-08-18-spread-home-1pt5",
-   "outcome": "Philadelphia Phillies",
+   "market_id": "0x65dba70f1ce2e78bdc1c82ae6325d32b2ffbe2fe0eaec0e39e70c3dadfa44f94",
+   "titulo": "Will Russia capture Kostyantynivka by August 31?",
+   "slug": "will-russia-capture-kostyantynivka-by-august-31-1-893-748",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 5324.0,
-   "price": 0.4840448347,
-   "usd": 2577.05,
-   "ts": 1787090206,
+   "size": 1018.7,
+   "price": 0.9899816433,
+   "usd": 1008.49,
+   "ts": 1787090805,
    "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,577 en 'Philadelphia Phillies'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-18-spread-home-1pt5",
-   "titulo_es": "Margen: Philadelphia Phillies (-1.5)",
-   "narrativa": "La compra repetida de Philadelphia Phillies (-1.5) por un total combinado de $4,614.95 sugiere convicción en una victoria por al menos dos carreras. El flujo de capital concentrado en el margen indica que los grandes operadores ven valor en el precio actual, posiblemente por una ventaja en el pitcheo o el momento del equipo. Riesgo: la línea de -1.5 depende de un margen exacto, lo que añade volatilidad."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2b4f11acd73dbc13bf39a26e9485b497229dac4a39e2426ca06c05e8926bf930",
-   "titulo": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
-   "slug": "wta-bejlek-alexand-2026-08-18",
-   "outcome": "Sara Bejlek",
-   "side": "BUY",
-   "size": 12742.5,
-   "price": 0.2,
-   "usd": 2548.5,
-   "ts": 1787090200,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,548 en 'Sara Bejlek'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-bejlek-alexand-2026-08-18",
-   "titulo_es": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
-   "narrativa": "La apuesta de $2,548.50 a favor de Sara Bejlek en el Cincinnati Open señala una oportunidad percibida contra Ekaterina Alexandrova, probablemente por una diferencia en forma reciente o superficie. El tamaño del trade, al ser el mayor en ese mercado, sugiere que un operador con información o modelo propio detectó un desajuste en las probabilidades implícitas. Riesgo: el tenis femenino tiene alta varianza en partidos individuales."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xf9b557246e7276b884e497dad02c2ccc6dc145a2d4c9a3a6524c7027a93de9e9",
-   "titulo": "Spread: Philadelphia Phillies (-1.5)",
-   "slug": "mlb-mia-phi-2026-08-18-spread-home-1pt5",
-   "outcome": "Philadelphia Phillies",
-   "side": "BUY",
-   "size": 4245.62,
-   "price": 0.48,
-   "usd": 2037.9,
-   "ts": 1787090206,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,038 en 'Philadelphia Phillies'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-18-spread-home-1pt5",
-   "titulo_es": "Margen: Philadelphia Phillies (-1.5)",
-   "narrativa": "Un segundo trade de $2,037.90 en Philadelphia Phillies (-1.5) refuerza la señal anterior, acumulando $4,614.95 en el mismo resultado. Esta repetición indica que el operador está aumentando su posición, lo que a menudo refleja una alta confianza en el análisis del partido. El volumen adicional puede mover el mercado, pero el riesgo de margen sigue siendo elevado."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,008 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-russia-capture-kostyantynivka-by-august-31-1-893-748",
+   "titulo_es": "¿Capturará Rusia Kostyantynivka para el 31 de agosto?",
+   "narrativa": "La compra de 1,008 USD en 'Yes' para la captura rusa de Kostyantynivka refleja una apuesta agresiva contra el consenso externo, que probablemente sitúa el evento como improbable a corto plazo. Este flujo de capital, al ser el único movimiento relevante del día, sugiere información privilegiada o un catalizador táctico inminente, generando un edge potencial si el precio actual descuenta menos del 40% de probabilidad. El monto, aunque moderado, es significativo para un mercado de nicho, lo que amplifica el impacto en el bid-ask spread. Riesgo: liquidez extremadamente baja, con spreads que pueden erosionar el 20% del edge en la entrada y salida."
   }
  ],
  "edges": [
@@ -132,7 +92,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9968373.190318007,
+   "volumen": 9968373.190317998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -142,7 +102,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 991214.0585160003,
+   "volumen": 991214.0585159998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -162,7 +122,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955090001,
+   "volumen": 983750.9955089999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -182,7 +142,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94703000002,
+   "volumen": 99768.94703,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -192,7 +152,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299999,
+   "volumen": 99588.02526300003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -200,8 +160,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -212,7 +172,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 99153.76193400001,
+   "volumen": 99153.761934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -232,7 +192,7 @@
    "slug": "us-charges-hormuz-fees-by-december-31-2026-20260713151243236",
    "yes": 0.055,
    "no": 0.945,
-   "volumen": 98946.18276299999,
+   "volumen": 98946.18276299996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE.UU. cobra tarifas por Ormuz antes del 31 de diciembre de 2026?"
@@ -268,6 +228,16 @@
    "question_es": "Counter-Strike: FORZE Reload vs 300FPS (BO3) - CCT Europe Contenders #8 Playoffs"
   },
   {
+   "question": "Will B8 Win the CS2 EWC 2026?",
+   "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
+   "yes": 0.016,
+   "no": 0.984,
+   "volumen": 98451.04540399999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará B8 la CS2 EWC 2026?"
+  },
+  {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0075,
@@ -290,8 +260,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.028,
-   "no": 0.972,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -312,7 +282,7 @@
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 9985.785599,
+   "volumen": 9985.785598999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
@@ -348,6 +318,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will USD/JPY hit 165 (High) in 2026?",
+   "slug": "will-usdjpy-hit-165-high-in-2026",
+   "yes": 0.425,
+   "no": 0.575,
+   "volumen": 9952.114907000003,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
+  },
+  {
    "question": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
    "slug": "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections",
    "yes": 0.0465,
@@ -356,26 +336,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Usará Virginia un nuevo mapa congresional para las elecciones de mitad de mandato de 2026 en Estados Unidos?"
-  },
-  {
-   "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
-   "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.28,
-   "no": 0.72,
-   "volumen": 9941.898180000006,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
-  },
-  {
-   "question": "Will Łukasz Gibała win the 2026 Kraków mayoral election?",
-   "slug": "will-ukasz-gibaa-win-the-2026-krakow-mayoral-election-20260806121025556",
-   "yes": 0.7,
-   "no": 0.3,
-   "volumen": 9927.822482,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Łukasz Gibała las elecciones a la alcaldía de Cracovia en 2026?"
   }
  ],
  "historico": {
@@ -385,5 +345,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 78.07
+ "db_size_mb": 78.21
 }
