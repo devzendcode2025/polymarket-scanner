@@ -1,51 +1,10 @@
 {
- "ts": 1787077513,
- "stamp": "20260818_182513",
+ "ts": 1787077873,
+ "stamp": "20260818_183113",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x297e02244aec4becd47b4e8c608d738d44e92c0288fab8615003f1719ff7f52c",
-   "titulo": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
-   "slug": "wta-tjen-andreev-2026-08-18",
-   "outcome": "Mirra Andreeva",
-   "side": "BUY",
-   "size": 2761.85032,
-   "price": 0.9192750152,
-   "usd": 2538.9,
-   "ts": 1787077299,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,539 en 'Mirra Andreeva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-tjen-andreev-2026-08-18",
-   "titulo_es": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
-   "narrativa": "La compra de 2,538.9 USD sobre Mirra Andreeva refleja una apuesta agresiva contra el consenso implícito, aprovechando su momento de forma en el Cincinnati Open. El capital desplegado sugiere una convicción fuerte en que el mercado ha subestimado su ventaja competitiva frente a Tjen, lo que podría generar un edge significativo si el precio ajusta hacia la probabilidad real. Riesgo: la falta de volumen de mercado publicado limita la liquidez para salir rápido si el partido toma un giro inesperado."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd052266fdfbbb685a19da9b4b6ed99834d4cbf605440ca6fd7763cacb0e71d39",
-   "titulo": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
-   "slug": "atp-zverev-paul-2026-08-19",
-   "outcome": "Tommy Paul",
-   "side": "BUY",
-   "size": 6452.0,
-   "price": 0.31,
-   "usd": 2000.12,
-   "ts": 1787077302,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Tommy Paul'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-zverev-paul-2026-08-19",
-   "titulo_es": "Cincinnati Open: Alexander Zverev contra Tommy Paul",
-   "narrativa": "La compra de 2,000.12 USD sobre Tommy Paul indica que un operador grande percibe una discrepancia entre el precio actual y las probabilidades reales, posiblemente por una sobrevaloración de Zverev basada en su ranking histórico. Este monto, al ser inyectado en un mercado sin volumen reportado, busca capturar un movimiento de corrección si Paul mantiene su nivel de juego en pista dura. Riesgo: la ausencia de datos de volumen aumenta la volatilidad y el riesgo de deslizamiento en la ejecución."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -53,16 +12,16 @@
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "prob_poly": 6.5,
-   "consenso": 49.5,
-   "edge": 43.0,
+   "consenso": 50.0,
+   "edge": 43.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "PredictIt",
      "titulo": "New Hampshire",
-     "prob": 49.5,
+     "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "GNK Dinamo Zagreb vs. Viking FK: O/U 4.5",
+     "_poly_question": "Bitcoin Up or Down - August 20, 12PM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -72,9 +31,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 6.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 43.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 6.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 43.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El consenso externo de PredictIt sitúa la probabilidad de que el demócrata gane por 3%-6% en 49.5%, mientras Polymarket solo paga 6.5%, generando un edge de 43 puntos a favor de comprar el 'Sí'. Esta brecha extrema sugiere que el mercado de Polymarket no ha ajustado el precio a la información disponible, ofreciendo una oportunidad de valor relativo. Riesgo: la diferencia puede deberse a liquidez limitada o a criterios de resolución distintos entre plataformas."
+   "narrativa": "El mercado de Polymarket cotiza esta opción al 6.5%, mientras que el consenso externo de PredictIt la sitúa en 50.0%, generando un edge de 43.5 puntos a favor de la compra. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real estimada por otras fuentes, ofreciendo una oportunidad de entrada con una relación riesgo/beneficio asimétrica. Riesgo: la baja liquidez en este mercado puede ampliar el diferencial de compra-venta y dificultar la salida."
   },
   {
    "tipo": "edge",
@@ -82,16 +41,16 @@
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "prob_poly": 12.5,
-   "consenso": 49.5,
-   "edge": 37.0,
+   "consenso": 50.0,
+   "edge": 37.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "PredictIt",
      "titulo": "New Hampshire",
-     "prob": 49.5,
+     "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
-     "_poly_question": "GNK Dinamo Zagreb vs. Viking FK: O/U 4.5",
+     "_poly_question": "Bitcoin Up or Down - August 20, 12PM ET",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
@@ -101,9 +60,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 12.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 37.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 12.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 37.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "El mercado de Polymarket cotiza la probabilidad de una victoria republicana por margen del 9%-12% en solo 12.5 centavos, frente a un consenso externo de 49.5 según PredictIt. Esto representa un edge de 37 puntos porcentuales a favor de la compra del 'Sí', lo que sugiere que el precio actual no refleja la distribución real de márgenes esperada. Con un desvío tan amplio, la oportunidad radica en que el mercado está descontando un escenario demasiado estrecho, y cualquier corrección hacia el consenso implicaría una revalorización significativa del contrato. Riesgo: la muestra de PredictIt puede diferir en metodología y el margen exacto es un rango muy específico, lo que añade sensibilidad al resultado final."
+   "narrativa": "Con un precio de 12.5% en Polymarket frente al 50.0% del consenso externo, el edge de 37.5 puntos indica que el mercado está valorando esta opción muy por debajo de las expectativas de PredictIt. Comprar 'Sí' a este nivel permite capturar una prima significativa si el resultado converge con la estimación externa, aunque la volatilidad política local podría alterar el escenario. Riesgo: el margen de victoria específico (9%-12%) es un rango estrecho que requiere un resultado electoral muy preciso."
   }
  ],
  "top_volumen": [
@@ -270,8 +229,8 @@
   {
    "question": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day by December 31, 2027?",
    "slug": "will-openais-market-cap-be-between-500b-and-750b-at-market-close-on-ipo-day-by-december-31-2027-776",
-   "yes": 0.017,
-   "no": 0.983,
+   "yes": 0.0175,
+   "no": 0.9825,
    "volumen": 9995.673866999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -280,8 +239,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.048,
-   "no": 0.952,
+   "yes": 0.046,
+   "no": 0.954,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -365,5 +324,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 75.2
+ "db_size_mb": 75.26
 }
