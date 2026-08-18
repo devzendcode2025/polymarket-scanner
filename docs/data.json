@@ -1,10 +1,51 @@
 {
- "ts": 1787018817,
- "stamp": "20260818_020657",
+ "ts": 1787019177,
+ "stamp": "20260818_021257",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xd6e0429f56be9935e665b0837b4e26651747f0b8915bab90a597eb91c5fa5829",
+   "titulo": "St. Louis Cardinals vs. Cincinnati Reds",
+   "slug": "mlb-stl-cin-2026-08-17",
+   "outcome": "Cincinnati Reds",
+   "side": "SELL",
+   "size": 1672.58,
+   "price": 0.999,
+   "usd": 1670.91,
+   "ts": 1787019018,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,671 en 'Cincinnati Reds'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-stl-cin-2026-08-17",
+   "titulo_es": "St. Louis Cardinals vs. Cincinnati Reds",
+   "narrativa": "La venta de 1,670.91 USD sobre los Cincinnati Reds en el partido contra St. Louis Cardinals refleja una apuesta direccional contraria al consenso del mercado, buscando capitalizar una posible corrección en el precio del equipo visitante. Este movimiento de ballena, al ser de tamaño considerable, podría indicar información privilegiada o un análisis de valor que no está totalmente descontado en las probabilidades actuales. Riesgo: la falta de datos de volumen de mercado limita la confirmación de la profundidad de la operación."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x3f4cac1fa6abc4194f1f923cd0a189fba3db4e79067a01a7936cfd135e44bd0d",
+   "titulo": "Club Necaxa vs. Club León FC: O/U 4.5",
+   "slug": "mex-nec-leo-2026-08-17-total-4pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 1088.3,
+   "price": 0.94,
+   "usd": 1023.0,
+   "ts": 1787019019,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,023 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mex-nec-leo-2026-08-17-total-4pt5",
+   "titulo_es": "Club Necaxa vs. Club León FC: Más/Menos 4.5",
+   "narrativa": "La compra de 1,023.00 USD en el Under 4.5 para el partido entre Club Necaxa y Club León FC sugiere una expectativa de partido cerrado, con baja generación de ocasiones de gol, lo que podría estar infravalorado si el mercado sobreestima el ritmo ofensivo de ambos equipos. Este monto, aunque moderado, indica una convicción clara en un escenario de pocos goles, aprovechando un posible desvío en las cuotas de los totales. Riesgo: la volatilidad de los mercados de apuestas en ligas menos líquidas puede generar movimientos bruscos de precio."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -90,8 +131,8 @@
   {
    "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
    "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775",
-   "yes": 0.005,
-   "no": 0.995,
+   "yes": 0.0045,
+   "no": 0.9955,
    "volumen": 99795.27004500001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -150,8 +191,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.265,
-   "no": 0.735,
+   "yes": 0.28,
+   "no": 0.72,
    "volumen": 99127.701934,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -170,8 +211,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.064,
-   "no": 0.936,
+   "yes": 0.0645,
+   "no": 0.9355,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -220,8 +261,8 @@
   {
    "question": "Bitcoin Up or Down - August 17, 8:00PM-12:00AM ET",
    "slug": "btc-updown-4h-1787011200",
-   "yes": 0.0605,
-   "no": 0.9395,
+   "yes": 0.0645,
+   "no": 0.9355,
    "volumen": 9991.797588000003,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -259,11 +300,11 @@
   }
  ],
  "historico": {
-  "ts": 1787017261,
+  "ts": 1787019062,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 62.11
+ "db_size_mb": 62.23
 }
