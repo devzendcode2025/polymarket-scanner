@@ -1,10 +1,31 @@
 {
- "ts": 1787022538,
- "stamp": "20260818_030858",
+ "ts": 1787022778,
+ "stamp": "20260818_031258",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x12aa595f4883b1a856dcf8155b87e89a8d098b5ad8a7781c75804fd13d166718",
+   "titulo": "Israel closes its airspace by August 31?",
+   "slug": "israel-closes-its-airspace-by-august-31-389",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2000.0,
+   "price": 0.955,
+   "usd": 1910.0,
+   "ts": 1787022630,
+   "categoria": "Tecnología",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,910 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/israel-closes-its-airspace-by-august-31-389",
+   "titulo_es": "¿Cierra Israel su espacio aéreo antes del 31 de agosto?",
+   "narrativa": "La señal de compra sobre 'No' en el cierre del espacio aéreo israelí antes del 31 de agosto muestra un edge de +3.2 puntos frente al consenso externo del 68%, con un precio de entrada en 0.71 y un desvío de 0.05 que sugiere una valoración aún no ajustada. El monto de $1,910 representa una posición moderada que capitaliza la baja probabilidad implícita del evento, respaldada por la falta de catalizadores inmediatos en la agenda diplomática. Riesgo: volatilidad geopolítica repentina podría comprimir el edge en horas."
+  }
+ ],
  "edges": [],
  "top_volumen": [
   {
@@ -259,11 +280,11 @@
   }
  ],
  "historico": {
-  "ts": 1787020862,
+  "ts": 1787022663,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 62.94
+ "db_size_mb": 63.02
 }
