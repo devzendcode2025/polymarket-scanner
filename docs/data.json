@@ -1,49 +1,88 @@
 {
- "ts": 1787170360,
- "stamp": "20260819_201240",
+ "ts": 1787170720,
+ "stamp": "20260819_201840",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "3251656",
+   "question": "Will Databricks' valuation hit (LOW) $140B by August 31?",
+   "slug": "will-databricks-valuation-hit-low-140b-by-august-31-20260730183108154",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.013,
+   "yes_ahora": 0.012,
+   "cambio_pct": -7.7,
+   "direccion": "BAJADA",
+   "volumen": 990.98,
+   "prob": 57,
+   "confianza": "baja",
+   "horizonte": "24h",
+   "razon": "Yes bajada 7.7% vs el scan anterior (0.013 → 0.012) en un mercado con $991 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/will-databricks-valuation-hit-low-140b-by-august-31-20260730183108154",
+   "question_es": "¿Alcanzará la valoración de Databricks los (BAJA) $140B para el 31 de agosto?"
+  }
+ ],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x02c913fd89ec97f63af1a3b2ce975def0d13163635f451fb0c8226f867daaa00",
-   "titulo": "Will Club Atlético de Madrid win on 2026-08-19?",
-   "slug": "lal-mad-mala-2026-08-19-mad",
-   "outcome": "Yes",
+   "market_id": "0x49ec102437392474463448a86fdf6d357ee46570982185a542896b8e1bc37001",
+   "titulo": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
+   "slug": "val-c9-bst1-2026-08-19",
+   "outcome": "BESTIA",
    "side": "BUY",
-   "size": 3771.53,
-   "price": 0.53,
-   "usd": 1998.91,
-   "ts": 1787170131,
+   "size": 10553.0,
+   "price": 0.25,
+   "usd": 2638.25,
+   "ts": 1787170729,
    "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,999 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-mad-mala-2026-08-19-mad",
-   "titulo_es": "¿Ganará el Club Atlético de Madrid el 2026-08-19?",
-   "narrativa": "La compra de $1,998.91 en 'Yes' para que el Atlético de Madrid gane el 2026-08-19 refleja una apuesta direccional fuerte, aunque el volumen de mercado no está disponible para calcular el edge exacto. Esta posición sugiere que el comprador anticipa una corrección al alza en la probabilidad implícita actual, posiblemente basada en información no pública o en una valoración de la plantilla superior a la del consenso. Riesgo: falta de liquidez podría ampliar el deslizamiento al salir."
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,638 en 'BESTIA'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-c9-bst1-2026-08-19",
+   "titulo_es": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
+   "narrativa": "La compra de BESTIA por $2,638 USD en un mercado sin volumen reportado sugiere que un operador grande está posicionándose con convicción en una línea que probablemente ofrece valor frente al consenso externo, dado el desequilibrio entre el monto colocado y la falta de liquidez visible. Este movimiento puede anticipar una corrección de precios si la información interna respalda la victoria de BESTIA, pero el edge real depende de cuánto se desvíe la probabilidad implícita del mercado de la estimación justa. Riesgo: baja liquidez puede amplificar el impacto de la orden y dificultar la salida."
   },
   {
    "tipo": "ballena",
-   "market_id": "0xf3d4603e3c721555207562d902dd7a023fd3d055d15cea519b9570779c7d907a",
-   "titulo": "Club Atlético de Madrid vs. Málaga CF: O/U 2.5",
-   "slug": "lal-mad-mala-2026-08-19-total-2pt5",
-   "outcome": "Over",
+   "market_id": "0x2d6945ae1728aaf6891ab0375f77d1dfcadd2c94bc8b3cadcd6a0be5325de01f",
+   "titulo": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-gl1-mouz-2026-08-19",
+   "outcome": "MOUZ",
    "side": "BUY",
-   "size": 7190.0,
-   "price": 0.2,
-   "usd": 1438.0,
-   "ts": 1787170117,
-   "categoria": "Otros",
-   "prob": 54,
+   "size": 3000.0,
+   "price": 0.746965,
+   "usd": 2240.89,
+   "ts": 1787170726,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,241 en 'MOUZ'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-gl1-mouz-2026-08-19",
+   "titulo_es": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Playoffs de la Copa del Mundo de Esports",
+   "narrativa": "La apuesta de $2,240.89 USD a favor de MOUZ en un BO3 contra GamerLegion refleja una confianza en que el mercado está subestimando la forma actual de MOUZ, especialmente en un contexto de playoffs donde el historial reciente y el mapa pool suelen tener mayor peso que el ranking general. El monto colocado es significativo para un mercado de esports, lo que indica que el operador percibe un edge claro en la probabilidad implícita, probablemente respaldado por datos de rendimiento reciente o alineaciones confirmadas. Riesgo: la volatilidad de BO3 y el factor sorpresa de GamerLegion pueden reducir el margen esperado."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x7f10208342b2d53e2f27640018a58173b23cbe15252445835a8e2b32d0d58e52",
+   "titulo": "Counter-Strike: 300FPS vs BANGARANGA (BO3) - CCT Europe Contenders #8 Playoffs",
+   "slug": "cs2-300fps-bangar-2026-08-19",
+   "outcome": "BANGARANGA",
+   "side": "BUY",
+   "size": 4109.0,
+   "price": 0.25,
+   "usd": 1027.25,
+   "ts": 1787170731,
+   "categoria": "Deportes",
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,438 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-mad-mala-2026-08-19-total-2pt5",
-   "titulo_es": "Club Atlético de Madrid vs. Málaga CF: Más/Menos 2.5",
-   "narrativa": "La compra de $1,438.00 en 'Over 2.5' para el partido Atlético de Madrid vs. Málaga CF indica una expectativa de partido con alta producción ofensiva, respaldada por el historial reciente de ambos equipos en encuentros directos. Sin un volumen de mercado reportado, el edge se basa en la diferencia entre la probabilidad implícita del precio y la frecuencia real de over 2.5 en la liga, que históricamente supera el 50% en partidos con esta disparidad de nivel. Riesgo: la ausencia de datos de volumen limita la confirmación de la señal y aumenta la incertidumbre sobre la precisión del precio."
+   "razon": "Trade de compra por $1,027 en 'BANGARANGA'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-300fps-bangar-2026-08-19",
+   "titulo_es": "Counter-Strike: 300FPS vs BANGARANGA (BO3) - CCT Europe Contenders #8 Playoffs"
   }
  ],
  "edges": [
@@ -181,16 +220,6 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
-   "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
-   "yes": 0.0125,
-   "no": 0.9875,
-   "volumen": 982380.236258,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
-  },
-  {
    "question": "Miami Marlins vs. Philadelphia Phillies: O/U 8.5",
    "slug": "mlb-mia-phi-2026-08-19-total-8pt5",
    "yes": 0.525,
@@ -265,7 +294,7 @@
    "slug": "will-real-sociedad-win-the-2026-27-laliga-championship-20260701200737387",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98856.38271600001,
+   "volumen": 98856.38271600002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
@@ -275,7 +304,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294600002,
+   "volumen": 98831.56294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -285,7 +314,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 98443.77697800001,
+   "volumen": 98534.93697800003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -295,7 +324,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9805,
    "no": 0.0195,
-   "volumen": 98349.53663099998,
+   "volumen": 98349.536631,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -389,6 +418,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Londres de 22°C el 19 de agosto?"
+  },
+  {
+   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
+   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
+   "yes": 0.024,
+   "no": 0.976,
+   "volumen": 9937.685226000001,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
   }
  ],
  "historico": {
@@ -398,5 +437,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 94.41
+ "db_size_mb": 94.55
 }
