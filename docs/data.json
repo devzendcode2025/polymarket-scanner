@@ -1,51 +1,10 @@
 {
- "ts": 1787181583,
- "stamp": "20260819_231943",
+ "ts": 1787182063,
+ "stamp": "20260819_232743",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x4b520df237d5ea575233cebef0c23895afb1f69b7436b4cf1d412e6ea4b88775",
-   "titulo": "Will FC Cincinnati win on 2026-08-19?",
-   "slug": "mls-fcc-nyc-2026-08-19-fcc",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 94513.87,
-   "price": 0.5164143697,
-   "usd": 48808.32,
-   "ts": 1787181532,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $48,808 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-fcc-nyc-2026-08-19-fcc",
-   "titulo_es": "¿Ganará FC Cincinnati el 2026-08-19?",
-   "narrativa": "Una ballena ha realizado una compra de $48,808.32 en 'Yes' para que FC Cincinnati gane el 2026-08-19, lo que indica una fuerte convicción direccional en un mercado con volumen no reportado. Este movimiento de capital, al ser de gran magnitud, puede desplazar la oferta y generar un repunte en el precio de la acción, ofreciendo una ventana de entrada antes de que el mercado ajuste. Riesgo: la falta de datos de volumen puede implicar poca profundidad y mayor volatilidad."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x91c367cf2a618d06d3685e664aacde63e2c097fba0c1d15973b3555a5cfdeab6",
-   "titulo": "Arizona Diamondbacks vs. Boston Red Sox",
-   "slug": "mlb-ari-bos-2026-08-19",
-   "outcome": "Boston Red Sox",
-   "side": "SELL",
-   "size": 3703.7,
-   "price": 0.39,
-   "usd": 1444.44,
-   "ts": 1787181541,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,444 en 'Boston Red Sox'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-ari-bos-2026-08-19",
-   "titulo_es": "Arizona Diamondbacks vs. Boston Red Sox",
-   "narrativa": "La venta de $1,444.44 en 'Boston Red Sox' contra los Arizona Diamondbacks sugiere que una ballena está tomando ganancias o cubriendo una posición, lo que podría indicar un techo temporal en la probabilidad implícita del equipo visitante. Este flujo de venta, aunque moderado, puede presionar el precio a la baja en el corto plazo, creando una oportunidad para compradores contrarios si el fundamento del juego no ha cambiado. Riesgo: el monto es relativamente bajo y el mercado puede carecer de liquidez para movimientos bruscos."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -213,8 +172,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.057,
-   "no": 0.943,
+   "yes": 0.0595,
+   "no": 0.9405,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -273,8 +232,8 @@
   {
    "question": "Toronto Tempo vs. Washington Mystics: O/U 168.5",
    "slug": "wnba-tor-wsh-2026-08-19-total-168pt5",
-   "yes": 0.505,
-   "no": 0.495,
+   "yes": 0.515,
+   "no": 0.485,
    "volumen": 98582.05828299999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -323,8 +282,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.957,
-   "no": 0.043,
+   "yes": 0.9595,
+   "no": 0.0405,
    "volumen": 9997.610976,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -343,8 +302,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2405,
-   "no": 0.7595,
+   "yes": 0.24,
+   "no": 0.76,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -383,8 +342,8 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.042,
-   "no": 0.958,
+   "yes": 0.033,
+   "no": 0.967,
    "volumen": 9965.945226,
    "spread": 0.0,
    "categoria": "Política",
@@ -398,5 +357,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 97.04
+ "db_size_mb": 97.12
 }
