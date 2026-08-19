@@ -1,10 +1,31 @@
 {
- "ts": 1787175461,
- "stamp": "20260819_213741",
+ "ts": 1787175941,
+ "stamp": "20260819_214541",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x034c5f51981e6ffcacff2027fb833483760000000000000000000000000000",
+   "titulo": "Washington Nationals vs. Texas Rangers: O/U 7.5 AND Los Angeles Angels vs. Houston Astros: O/U 8.5 AND Seattle Mariners vs. Milwaukee Brewers: O/U 7.5",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 15427.41684,
+   "price": 0.1380786506,
+   "usd": 2130.2,
+   "ts": 1787175837,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,130 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Washington Nationals vs. Texas Rangers: Más/Menos 7.5 Y Los Angeles Angels vs. Houston Astros: Más/Menos 8.5 Y Seattle Mariners vs. Milwaukee Brewers: Más/Menos 7.5",
+   "narrativa": "La señal BALLENA concentra 2,130 USD en una compra combinada de tres totales de carreras, lo que refleja una convicción institucional clara en un escenario de alta anotación. Aunque no se especifica el edge en puntos, la magnitud del monto frente a mercados sin volumen reportado sugiere que el operador detectó una discrepancia entre las líneas 7.5 y 8.5 y las proyecciones de los abridores. La diversificación en tres juegos reduce el riesgo de un solo resultado, pero el desvío implícito en los totales altos aumenta la varianza. Riesgo: posible iliquidez en mercados secundarios de MLB."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -172,8 +193,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0565,
-   "no": 0.9435,
+   "yes": 0.0635,
+   "no": 0.9365,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -202,8 +223,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -242,8 +263,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.968,
-   "no": 0.032,
+   "yes": 0.963,
+   "no": 0.037,
    "volumen": 9994.070975999999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -262,8 +283,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.248,
-   "no": 0.752,
+   "yes": 0.2545,
+   "no": 0.7455,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -302,8 +323,8 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0245,
-   "no": 0.9755,
+   "yes": 0.038,
+   "no": 0.962,
    "volumen": 9964.685226,
    "spread": 0.0,
    "categoria": "Política",
@@ -357,5 +378,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 95.62
+ "db_size_mb": 95.75
 }
