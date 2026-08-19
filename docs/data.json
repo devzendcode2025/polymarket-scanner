@@ -1,6 +1,6 @@
 {
- "ts": 1787111483,
- "stamp": "20260819_035123",
+ "ts": 1787111844,
+ "stamp": "20260819_035724",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -77,8 +77,8 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.02,
-   "no": 0.98,
+   "yes": 0.0205,
+   "no": 0.9795,
    "volumen": 9854002.069118,
    "spread": 0.0,
    "categoria": "Política",
@@ -137,8 +137,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -237,8 +237,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0255,
-   "no": 0.9745,
+   "yes": 0.0285,
+   "no": 0.9715,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 82.76
+ "db_size_mb": 82.83
 }
