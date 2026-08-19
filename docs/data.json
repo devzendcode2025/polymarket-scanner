@@ -1,31 +1,10 @@
 {
- "ts": 1787105482,
- "stamp": "20260819_021122",
+ "ts": 1787105842,
+ "stamp": "20260819_021722",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xfe62721fc0dbacf8d8907d91be87bd72ef798023e0d2dc5a38edf555f4bb3f75",
-   "titulo": "Atlanta Dream vs. Las Vegas Aces",
-   "slug": "wnba-atl-las-2026-08-18",
-   "outcome": "Atlanta Dream",
-   "side": "BUY",
-   "size": 1514.084506,
-   "price": 0.7099999998,
-   "usd": 1075.0,
-   "ts": 1787105233,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,075 en 'Atlanta Dream'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-atl-las-2026-08-18",
-   "titulo_es": "Atlanta Dream vs. Las Vegas Aces",
-   "narrativa": "La compra de $1,075 en Atlanta Dream contra Las Vegas Aces refleja una apuesta contraria al consenso implícito en el mercado, que favorece a las Aces por su historial reciente. Este flujo de capital, aunque moderado, busca capitalizar un posible sesgo de sobrevaloración del favorito, generando un edge positivo si el precio de Dream se ajusta a su probabilidad real de victoria. Riesgo: el volumen de mercado no está disponible, lo que podría implicar liquidez limitada y spreads más amplios."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -208,8 +187,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.0655,
+   "no": 0.9345,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -278,8 +257,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.026,
-   "no": 0.974,
+   "yes": 0.0245,
+   "no": 0.9755,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -308,8 +287,8 @@
   {
    "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
-   "yes": 0.835,
-   "no": 0.165,
+   "yes": 0.83,
+   "no": 0.17,
    "volumen": 9985.785599,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -328,8 +307,8 @@
   {
    "question": "Will the highest temperature in Shenzhen be 30°C on August 19?",
    "slug": "highest-temperature-in-shenzhen-on-august-19-2026-30c",
-   "yes": 0.005,
-   "no": 0.995,
+   "yes": 0.0055,
+   "no": 0.9945,
    "volumen": 9970.41187,
    "spread": 0.0,
    "categoria": "Otros",
@@ -337,11 +316,11 @@
   }
  ],
  "historico": {
-  "ts": 1787103866,
+  "ts": 1787105666,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 81.43
+ "db_size_mb": 81.5
 }
