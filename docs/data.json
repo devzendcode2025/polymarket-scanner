@@ -1,29 +1,49 @@
 {
- "ts": 1787178222,
- "stamp": "20260819_222342",
+ "ts": 1787178582,
+ "stamp": "20260819_222942",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x07ddeab6e7b1709fa00a2d6b7fa1f7f1de0246f512ddb8f83f004ce41227f7e8",
-   "titulo": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell",
-   "slug": "atp-fritz-oconnel-2026-08-19",
-   "outcome": "Taylor Fritz",
+   "market_id": "0x85184fbfeaa8622d8753b545ea7e60dcb6aa45ac0c0866fec617b3b0a30d0df5",
+   "titulo": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
+   "slug": "wta-gauff-bouzkov-2026-08-19",
+   "outcome": "Coco Gauff",
    "side": "BUY",
-   "size": 2000.0,
-   "price": 0.89,
-   "usd": 1780.0,
-   "ts": 1787178237,
+   "size": 10000.0,
+   "price": 0.78,
+   "usd": 7800.0,
+   "ts": 1787178529,
    "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,780 en 'Taylor Fritz'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-fritz-oconnel-2026-08-19",
-   "titulo_es": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell",
-   "narrativa": "El mercado descuenta una victoria clara de Taylor Fritz, pero el consenso externo aún no refleja plenamente su ventaja en superficie y ranking frente a O'Connell. Con un monto de 1780 USD, el edge estimado en puntos supera el umbral de rentabilidad esperado, lo que justifica la entrada a favor del favorito. Riesgo: posible baja liquidez en mercados de tenis de rondas tempranas."
+   "prob": 63,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $7,800 en 'Coco Gauff'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-gauff-bouzkov-2026-08-19",
+   "titulo_es": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
+   "narrativa": "La compra de $7,800 sobre Coco Gauff en el Cincinnati Open refleja una apuesta firme por la favorita, cuyo consenso externo la sitúa como clara dominante ante Bouzkova. El edge se materializa en el diferencial de probabilidades implícitas, donde el mercado aún no descuenta por completo la superioridad de Gauff en superficie rápida. Riesgo: posible irregularidad en sets iniciales si Bouzkova eleva su nivel de servicio."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xeb095a556268b5d8ef5dbf28782790d36e5cb351289fcc5e615461abfc42131a",
+   "titulo": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
+   "slug": "atp-fils-minaur-2026-08-19",
+   "outcome": "Arthur Fils",
+   "side": "SELL",
+   "size": 7184.61,
+   "price": 0.999,
+   "usd": 7177.43,
+   "ts": 1787178531,
+   "categoria": "Deportes",
+   "prob": 62,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $7,177 en 'Arthur Fils'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-fils-minaur-2026-08-19",
+   "titulo_es": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
+   "narrativa": "La venta de $7,177 sobre Arthur Fils en su duelo contra Alex de Minaur aprovecha la sobrevaloración del francés en el mercado, dado que el consenso externo favorece al australiano por consistencia y ritmo en pista dura. El edge proviene del desvío entre el precio actual y la probabilidad real estimada, que sugiere un margen favorable para el lado contrario. Riesgo: Fils puede ganar por explosividad si De Minaur llega con fatiga acumulada."
   }
  ],
  "edges": [
@@ -168,8 +188,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.058,
-   "no": 0.942,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -278,8 +298,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.252,
-   "no": 0.748,
+   "yes": 0.2455,
+   "no": 0.7545,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -318,8 +338,8 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0285,
-   "no": 0.9715,
+   "yes": 0.024,
+   "no": 0.976,
    "volumen": 9964.685226000001,
    "spread": 0.0,
    "categoria": "Política",
@@ -337,11 +357,11 @@
   }
  ],
  "historico": {
-  "ts": 1787176806,
+  "ts": 1787178606,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 96.28
+ "db_size_mb": 96.36
 }
