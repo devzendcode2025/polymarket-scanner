@@ -1,10 +1,31 @@
 {
- "ts": 1787122887,
- "stamp": "20260819_070127",
+ "ts": 1787123307,
+ "stamp": "20260819_070827",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x224ff7df0a0d5ee9234580158b92acafdf6da13150b7065c9671df2ebec31ae4",
+   "titulo": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+   "slug": "lol-ktc-t1a-2026-08-19",
+   "outcome": "T1 Academy",
+   "side": "BUY",
+   "size": 3074.002257,
+   "price": 0.6196351986,
+   "usd": 1904.76,
+   "ts": 1787123254,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,905 en 'T1 Academy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ktc-t1a-2026-08-19",
+   "titulo_es": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío",
+   "narrativa": "La compra masiva en T1 Academy refleja un edge de +8.3 puntos sobre el consenso externo (62% vs 53.7%), con un monto de $1,904.76 que representa el 12.4% del volumen proyectado del mercado, sugiriendo información privilegiada o un fuerte ajuste de modelo. El cambio porcentual de 5.2% en la última hora indica momentum alcista sostenido, mientras que el desvío estándar de 4.1% confirma una señal clara frente al ruido. Riesgo: liquidez moderada en horarios de baja actividad."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -69,7 +90,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973500.380318008,
+   "volumen": 9974500.380318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -77,9 +98,9 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.0305,
-   "no": 0.9695,
-   "volumen": 9894143.929008983,
+   "yes": 0.0295,
+   "no": 0.9705,
+   "volumen": 9894143.929009004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -89,7 +110,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995015.0585160003,
+   "volumen": 995015.0585159999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -99,7 +120,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 989300.4235879997,
+   "volumen": 989300.4235880001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -109,7 +130,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955090001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -119,7 +140,7 @@
    "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
    "yes": 0.11,
    "no": 0.89,
-   "volumen": 982268.8581459997,
+   "volumen": 982361.8581460002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
@@ -139,7 +160,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299999,
+   "volumen": 99588.02526300002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -147,8 +168,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -189,7 +210,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98774.846981,
+   "volumen": 98774.84698100001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -199,7 +220,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98570.57294600003,
+   "volumen": 98570.57294600001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -227,8 +248,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.07,
-   "no": 0.93,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -269,7 +290,7 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.305,
    "no": 0.695,
-   "volumen": 9956.098179999999,
+   "volumen": 9956.09818,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -279,7 +300,7 @@
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.43,
    "no": 0.57,
-   "volumen": 9952.114907,
+   "volumen": 9952.114907000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
@@ -287,9 +308,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.1835,
-   "no": 0.8165,
-   "volumen": 9945.254864,
+   "yes": 0.184,
+   "no": 0.816,
+   "volumen": 9945.254863999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -299,7 +320,7 @@
    "slug": "ai-wins-imo-gold-medal-in-2026",
    "yes": 0.17,
    "no": 0.83,
-   "volumen": 9921.657775999996,
+   "volumen": 9921.657776,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La IA gana la medalla de oro en la OMI en 2026?"
@@ -307,8 +328,8 @@
   {
    "question": "Will the Democratic Party win the AR-01 House seat?",
    "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.015,
-   "no": 0.985,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 9914.337593,
    "spread": 0.0,
    "categoria": "Política",
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 84.68
+ "db_size_mb": 84.81
 }
