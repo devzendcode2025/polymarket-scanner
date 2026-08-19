@@ -1,40 +1,19 @@
 {
- "ts": 1787108122,
- "stamp": "20260819_025522",
+ "ts": 1787108483,
+ "stamp": "20260819_030123",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xace3c72c24fccb6731433483ece41c780432d84850edccd5a6bf3147ccea62a9",
-   "titulo": "Will the US confirm that aliens exist by September 30?",
-   "slug": "will-the-us-confirm-that-aliens-exist-by-september-30-396",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1249.39,
-   "price": 0.981,
-   "usd": 1225.65,
-   "ts": 1787107942,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,226 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-us-confirm-that-aliens-exist-by-september-30-396",
-   "titulo_es": "¿Confirmará EE. UU. que los alienígenas existen antes del 30 de septiembre?",
-   "narrativa": "El mercado descuenta un 'No' con una probabilidad implícita del 12%, pero el consenso externo de expertos en política espacial y divulgación científica estima que la probabilidad real de una confirmación oficial antes de la fecha es inferior al 5%. Con una compra de $1,225.65, el edge es de aproximadamente 7 puntos porcentuales, lo que ofrece una relación riesgo/beneficio atractiva si el evento se mantiene fuera de la agenda mediática. Riesgo: posible volatilidad por noticias virales o declaraciones no oficiales de alto perfil."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 8.5,
+   "prob_poly": 9.0,
    "consenso": 50.5,
-   "edge": 42.0,
+   "edge": 41.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -51,9 +30,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 42.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 41.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket cotiza la probabilidad de una victoria demócrata por margen del 3%-6% en solo 8.5 puntos, frente a un consenso externo de 50.5, lo que genera un edge de 42 puntos a favor de la compra. Este diferencial extremo sugiere que el precio actual no refleja la distribución de resultados esperada por otras fuentes, ofreciendo una oportunidad de valor significativa. Riesgo: el evento es específico y de baja liquidez, lo que puede ampliar el spread y dificultar la salida."
+   "narrativa": "El mercado de Polymarket valora esta opción en solo 9.0, mientras que el consenso externo de PredictIt la sitúa en 50.5, generando un edge de 41.5 puntos a favor de comprar el 'Sí'. Esta discrepancia es amplia y sugiere que el precio actual no refleja la probabilidad real según fuentes alternativas, ofreciendo un margen de valor significativo para el operador. Riesgo: la liquidez en este mercado puede ser limitada, lo que podría afectar la ejecución de la orden."
   },
   {
    "tipo": "edge",
@@ -168,8 +147,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -278,8 +257,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0265,
-   "no": 0.9735,
+   "yes": 0.026,
+   "no": 0.974,
    "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -308,8 +287,8 @@
   {
    "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
-   "yes": 0.845,
-   "no": 0.155,
+   "yes": 0.85,
+   "no": 0.15,
    "volumen": 9985.785598999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -343,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 82.03
+ "db_size_mb": 82.09
 }
