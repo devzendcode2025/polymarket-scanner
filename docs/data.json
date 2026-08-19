@@ -1,49 +1,29 @@
 {
- "ts": 1787142693,
- "stamp": "20260819_123133",
+ "ts": 1787143053,
+ "stamp": "20260819_123733",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x641ab7918ec7c72b070f6e34dce21a7c4b2a02cb19891ae0bce86bf6e33e4963",
-   "titulo": "Will the highest temperature in Paris be 23°C on August 19?",
-   "slug": "highest-temperature-in-paris-on-august-19-2026-23c",
+   "market_id": "0x7c97f7315ac9a2e0eabe9b2b9caa8369feff95180483b5168a5274b69762690c",
+   "titulo": "Will Belete Molla be the next Prime Minister of Ethiopia?",
+   "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia",
    "outcome": "No",
-   "side": "SELL",
-   "size": 2563.69,
-   "price": 0.999,
-   "usd": 2561.13,
-   "ts": 1787142486,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
+   "side": "BUY",
+   "size": 5034.0,
+   "price": 0.997,
+   "usd": 5018.9,
+   "ts": 1787142786,
+   "categoria": "Cripto",
+   "prob": 59,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,561 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/highest-temperature-in-paris-on-august-19-2026-23c",
-   "titulo_es": "¿Será la temperatura máxima en París de 23°C el 19 de agosto?",
-   "narrativa": "La venta de 'No' a 23°C en París el 19 de agosto captura un edge de ~5 puntos frente al consenso climático de 18-20°C, con una posición de $2,561 que aprovecha la sobrevaloración del 'Sí' por ruido especulativo. El desvío histórico de ±3°C en esa fecha reduce la probabilidad real de alcanzar 23°C, haciendo el 'No' estadísticamente favorecido. Riesgo: eventos de calor extremo atípico podrían comprimir el margen."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x46477994c02fdd4f7be7eacc58d343457d80333d92e5c4ad9a3117274d0e5639",
-   "titulo": "Kharg Island no longer under Iranian control by September 30?",
-   "slug": "kharg-island-no-longer-under-iranian-control-by-september-30-20260730004207224",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 2000.0,
-   "price": 0.972,
-   "usd": 1944.0,
-   "ts": 1787142486,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,944 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/kharg-island-no-longer-under-iranian-control-by-september-30-20260730004207224",
-   "titulo_es": "¿La isla de Kharg dejará de estar bajo control iraní para el 30 de septiembre?",
-   "narrativa": "Vender 'No' sobre el control iraní de Kharg para el 30 de septiembre ofrece un edge de ~8 puntos, ya que el consenso geopolítico actual asigna baja probabilidad a un cambio de soberanía en ese plazo, y el monto de $1,944 refleja una apuesta proporcional al riesgo percibido. La falta de volumen de mercado incrementa la sensibilidad a noticias puntuales, pero el desvío en eventos de soberanía suele ser lento. Riesgo: escalada militar repentina podría mover el precio en contra."
+   "razon": "Trade de compra por $5,019 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-belete-molla-be-the-next-prime-minister-of-ethiopia",
+   "titulo_es": "¿Será Belete Molla el próximo Primer Ministro de Etiopía?",
+   "narrativa": "La compra de 'No' en la pregunta sobre Belete Molla refleja un consenso externo firme de que el actual statu quo político en Etiopía no cambiará de liderazgo en el corto plazo. Con un monto de $5,018.9, el trade busca capturar el desvío entre la probabilidad implícita del mercado y la baja probabilidad real de un cambio de primer ministro, ofreciendo un edge positivo en puntos si el evento se mantiene sin alteraciones. Riesgo: liquidez moderada y sensibilidad a noticias de última hora sobre reestructuración gubernamental."
   }
  ],
  "edges": [
@@ -52,9 +32,9 @@
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 8.5,
+   "prob_poly": 10.5,
    "consenso": 50.5,
-   "edge": 42.0,
+   "edge": 40.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -71,9 +51,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 42.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 10.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 40.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket cotiza la probabilidad de una victoria demócrata por margen del 3%-6% en solo 8.5 puntos, frente a un consenso externo de 50.5, lo que genera un edge de 42 puntos a favor de la compra. Este diferencial extremo sugiere que el precio actual no refleja la distribución de resultados esperada por otras fuentes, ofreciendo una oportunidad de valor significativa. Riesgo: el evento es específico y de baja liquidez, lo que puede ampliar el spread y dificultar la salida."
+   "narrativa": "La probabilidad implícita en Polymarket es del 9.5%, frente a un consenso externo de 50.5% en PredictIt, lo que genera un edge de 40 puntos a favor de comprar 'Sí'. Con un pago potencial de 10.5x y un monto de trade que capitaliza esa brecha, la oportunidad es clara si el mercado ajusta hacia el consenso. Riesgo: el evento es a largo plazo (2026) y la liquidez puede ser limitada en horizontes tan extendidos."
   },
   {
    "tipo": "edge",
@@ -110,7 +90,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0245,
    "no": 0.9755,
-   "volumen": 9910388.871830001,
+   "volumen": 9910388.871829998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -120,7 +100,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995101.567849,
+   "volumen": 995101.5678489996,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -130,7 +110,7 @@
    "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
    "yes": 0.11,
    "no": 0.89,
-   "volumen": 993688.6981459998,
+   "volumen": 993703.6981459998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
@@ -140,7 +120,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993439999,
+   "volumen": 990196.2993440004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -170,7 +150,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526300002,
+   "volumen": 99588.02526299994,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -200,7 +180,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99036.85304000005,
+   "volumen": 99036.85304000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -220,7 +200,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98884.84698100001,
+   "volumen": 98884.84698099998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -230,7 +210,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.57294600003,
+   "volumen": 98743.57294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -240,7 +220,7 @@
    "slug": "val-osg-ts3-2026-08-19",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 98539.024297,
+   "volumen": 98556.424297,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In"
@@ -258,9 +238,9 @@
   {
    "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
-   "yes": 0.978,
-   "no": 0.022,
-   "volumen": 98292.46049800001,
+   "yes": 0.9785,
+   "no": 0.0215,
+   "volumen": 98297.53663099998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -270,7 +250,7 @@
    "slug": "iran-oman-hormuz-agreement-by-august-22",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 98159.77033700001,
+   "volumen": 98238.77033700001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Acuerdo Irán-Omán sobre Ormuz antes del 22 de agosto?"
@@ -280,7 +260,7 @@
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
    "yes": 0.082,
    "no": 0.918,
-   "volumen": 9991.036522000004,
+   "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -306,6 +286,16 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
+   "question": "Bitcoin Up or Down - August 19, 8AM ET",
+   "slug": "bitcoin-up-or-down-august-19-2026-8am-et",
+   "yes": 0.285,
+   "no": 0.715,
+   "volumen": 9984.737096,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "Bitcoin Sube o Baja - 19 de agosto, 8AM ET"
+  },
+  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
    "yes": 0.0315,
@@ -314,6 +304,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Map Handicap: NAVI (-1.5) vs Legacy (+1.5)",
+   "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
+   "yes": 0.405,
+   "no": 0.595,
+   "volumen": 9968.634194,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -326,34 +326,14 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Map Handicap: NAVI (-1.5) vs Legacy (+1.5)",
-   "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
-   "yes": 0.405,
-   "no": 0.595,
-   "volumen": 9960.634194000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
-  },
-  {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.295,
-   "no": 0.705,
-   "volumen": 9956.098179999999,
+   "yes": 0.3,
+   "no": 0.7,
+   "volumen": 9956.098180000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
-  },
-  {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.43,
-   "no": 0.57,
-   "volumen": 9952.114907000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
@@ -363,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 88.15
+ "db_size_mb": 88.22
 }
