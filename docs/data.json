@@ -1,68 +1,29 @@
 {
- "ts": 1787177022,
- "stamp": "20260819_220342",
+ "ts": 1787177382,
+ "stamp": "20260819_220942",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd052266fdfbbb685a19da9b4b6ed99834d4cbf605440ca6fd7763cacb0e71d39",
-   "titulo": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
-   "slug": "atp-zverev-paul-2026-08-19",
-   "outcome": "Tommy Paul",
+   "market_id": "0xc894d0e9bff8351b29fb4ae167f2fc78446e3410842c4efdcb9a130238e6e307",
+   "titulo": "Will One Knoxville SC win on 2026-08-19?",
+   "slug": "usl1-one-por-2026-08-19-one",
+   "outcome": "No",
    "side": "BUY",
-   "size": 19430.47,
-   "price": 0.33,
-   "usd": 6412.06,
-   "ts": 1787177035,
-   "categoria": "Deportes",
-   "prob": 61,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $6,412 en 'Tommy Paul'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-zverev-paul-2026-08-19",
-   "titulo_es": "Cincinnati Open: Alexander Zverev contra Tommy Paul",
-   "narrativa": "La compra de 6,412 USD sobre Tommy Paul frente a Zverev en el Cincinnati Open refleja una apuesta significativa contra el favoritismo del mercado, sugiriendo que el consenso externo subestima la forma reciente de Paul en pista dura. El tamaño del trade, al ser inusualmente alto para este tipo de mercado, indica que el operador percibe un edge positivo en el precio actual, posiblemente por información sobre el estado físico de Zverev o condiciones de juego. Riesgo: alta volatilidad en tenis por factores externos como clima o lesiones de último minuto."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x297d180efc4433152291527c4cfb5d1b3516203f733d4540f163deb4aa32d473",
-   "titulo": "Philadelphia Union vs. Inter Miami CF: O/U 3.5",
-   "slug": "mls-phi-mia-2026-08-19-total-3pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 6810.630184,
-   "price": 0.5359269114,
-   "usd": 3650.0,
-   "ts": 1787177034,
+   "size": 7354.0,
+   "price": 0.37,
+   "usd": 2720.98,
+   "ts": 1787177332,
    "categoria": "Otros",
-   "prob": 57,
+   "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,650 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-phi-mia-2026-08-19-total-3pt5",
-   "titulo_es": "Philadelphia Union vs. Inter Miami CF: Más/Menos 3.5",
-   "narrativa": "La colocación de 3,650 USD en el Over 3.5 para Philadelphia Union vs. Inter Miami apunta a que el mercado está infravalorando la probabilidad de un partido con muchos goles, considerando el historial ofensivo de ambos equipos y la ausencia de jugadores defensivos clave. El monto del trade, superior al promedio en este tipo de mercados, sugiere que el comprador identifica un desajuste entre el precio implícito y la expectativa real de goles, probablemente por el estilo de juego abierto de Miami en partidos fuera de casa. Riesgo: posible baja liquidez en mercados de totales específicos, lo que puede ampliar el spread."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x91c367cf2a618d06d3685e664aacde63e2c097fba0c1d15973b3555a5cfdeab6",
-   "titulo": "Arizona Diamondbacks vs. Boston Red Sox",
-   "slug": "mlb-ari-bos-2026-08-19",
-   "outcome": "Boston Red Sox",
-   "side": "BUY",
-   "size": 18888.888887,
-   "price": 0.18,
-   "usd": 3400.0,
-   "ts": 1787177028,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,400 en 'Boston Red Sox'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-ari-bos-2026-08-19",
-   "titulo_es": "Arizona Diamondbacks vs. Boston Red Sox"
+   "razon": "Trade de compra por $2,721 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/usl1-one-por-2026-08-19-one",
+   "titulo_es": "¿Ganará One Knoxville SC el 2026-08-19?",
+   "narrativa": "La posición de compra en 'No' para One Knoxville SC refleja un consenso externo que descarta su título, y el monto de 2,720.98 USD busca capitalizar la baja probabilidad implícita del mercado. Aunque el edge exacto no se especifica, la dirección del flujo sugiere una oportunidad de valor si el precio actual sobreestima sus opciones. Riesgo: posible iliquidez en un mercado de nicho con volumen no reportado."
   }
  ],
  "edges": [
@@ -164,7 +125,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9912014.290954987,
+   "volumen": 9912014.290955003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -174,7 +135,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.527849,
+   "volumen": 996816.5278490003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -184,7 +145,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995924.7817670001,
+   "volumen": 995924.781767,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -204,7 +165,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982380.236258,
+   "volumen": 982380.2362579999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -232,9 +193,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0565,
-   "no": 0.9435,
-   "volumen": 99270.71304000002,
+   "yes": 0.0575,
+   "no": 0.9425,
+   "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -274,7 +235,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294600002,
+   "volumen": 98831.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -284,7 +245,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 98534.936978,
+   "volumen": 98534.93697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -294,7 +255,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.982,
    "no": 0.018,
-   "volumen": 98359.53663099998,
+   "volumen": 98359.536631,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -304,17 +265,27 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 98224.629709,
+   "volumen": 98224.62970899997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
   },
   {
+   "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
+   "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
+   "yes": 0.6,
+   "no": 0.4,
+   "volumen": 98183.97211599999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
+  },
+  {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.9525,
-   "no": 0.0475,
-   "volumen": 9994.070975999999,
+   "yes": 0.949,
+   "no": 0.051,
+   "volumen": 9997.610976,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 24 de agosto?"
@@ -332,8 +303,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.245,
-   "no": 0.755,
+   "yes": 0.241,
+   "no": 0.759,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -360,14 +331,14 @@
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "Will September be the best month for Bitcoin in 2026?",
-   "slug": "will-september-be-the-best-month-for-bitcoin-in-2026",
-   "yes": 0.09,
-   "no": 0.91,
-   "volumen": 9973.010707000001,
+   "question": "Will the price of Bitcoin be between $66,000 and $68,000 on August 20?",
+   "slug": "will-the-price-of-bitcoin-be-between-66000-68000-on-august-20-2026",
+   "yes": 0.174,
+   "no": 0.826,
+   "volumen": 9971.362268,
    "spread": 0.0,
    "categoria": "Cripto",
-   "question_es": "¿Será septiembre el mejor mes para Bitcoin en 2026?"
+   "question_es": "¿Estará el precio de Bitcoin entre $66,000 y $68,000 el 20 de agosto?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -382,9 +353,9 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0235,
-   "no": 0.9765,
-   "volumen": 9964.685226000001,
+   "yes": 0.0375,
+   "no": 0.9625,
+   "volumen": 9964.685226,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
@@ -394,20 +365,10 @@
    "slug": "highest-temperature-in-milan-on-august-19-2026-32c",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9952.299337000002,
+   "volumen": 9952.299337,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Milán de 32°C el 19 de agosto?"
-  },
-  {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.41,
-   "no": 0.59,
-   "volumen": 9952.114907,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
@@ -417,5 +378,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 96.02
+ "db_size_mb": 96.09
 }
