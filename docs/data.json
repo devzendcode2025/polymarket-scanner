@@ -1,51 +1,10 @@
 {
- "ts": 1787143473,
- "stamp": "20260819_124433",
+ "ts": 1787143893,
+ "stamp": "20260819_125133",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x7991c1e4d8c92ff9f6e4d7bd59967bd12f49b4233acfed1901c53d74810eabfd",
-   "titulo": "Games Total: O/U 3.5",
-   "slug": "lol-su-dp-2026-08-19-total-games-3pt5",
-   "outcome": "Under",
-   "side": "BUY",
-   "size": 4462.32,
-   "price": 0.6911316983,
-   "usd": 3084.05,
-   "ts": 1787143392,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,084 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-su-dp-2026-08-19-total-games-3pt5",
-   "titulo_es": "Total de juegos: Más/Menos 3.5",
-   "narrativa": "La compra de 'Under 3.5' por $3,084 refleja una apuesta significativa contra el over, aprovechando un edge de puntos que sugiere que el mercado está sobrevalorando la probabilidad de un juego con más de 3.5 goles. El monto colocado, sin volumen de mercado reportado, indica una convicción fuerte en un escenario de baja anotación, lo que podría generar retornos superiores si el consenso externo se alinea con la tendencia defensiva. Riesgo: la falta de liquidez puede amplificar el impacto de movimientos adversos en el precio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x58382ef65aa46d8c05d4dbb5f84f3812c8dcaaa36f69e0dd61f041165d30bebf",
-   "titulo": "Bitcoin Up or Down on August 19?",
-   "slug": "bitcoin-up-or-down-on-august-19-2026",
-   "outcome": "Up",
-   "side": "BUY",
-   "size": 4626.0,
-   "price": 0.49,
-   "usd": 2266.74,
-   "ts": 1787143386,
-   "categoria": "Cripto",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,267 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-up-or-down-on-august-19-2026",
-   "titulo_es": "¿Bitcoin sube o baja el 19 de agosto?",
-   "narrativa": "La posición de compra 'Up' para Bitcoin el 19 de agosto, con $2,266 invertidos, capitaliza un desvío positivo en el precio actual frente al consenso externo, sugiriendo que el activo tiene margen para subir antes de la fecha. El monto del trade, aunque moderado, busca capturar un movimiento direccional claro, con un edge en puntos que favorece la apreciación si se mantiene el impulso alcista. Riesgo: la volatilidad intrínseca de criptoactivos puede generar oscilaciones bruscas que afecten el resultado."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -110,7 +69,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0245,
    "no": 0.9755,
-   "volumen": 9910388.871829998,
+   "volumen": 9910388.87183,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -120,7 +79,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995101.5678489996,
+   "volumen": 995101.5678490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -140,7 +99,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993440004,
+   "volumen": 990196.2993439998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -170,7 +129,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299994,
+   "volumen": 99588.02526299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -178,8 +137,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -220,7 +179,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98884.84698099998,
+   "volumen": 98884.84698100001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -230,7 +189,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.57294599999,
+   "volumen": 98743.57294600001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -240,7 +199,7 @@
    "slug": "val-osg-ts3-2026-08-19",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 98556.424297,
+   "volumen": 98595.344297,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In"
@@ -260,7 +219,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9785,
    "no": 0.0215,
-   "volumen": 98297.53663099998,
+   "volumen": 98297.53663100004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -270,7 +229,7 @@
    "slug": "iran-oman-hormuz-agreement-by-august-22",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 98238.77033700001,
+   "volumen": 98238.77033700002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Acuerdo Irán-Omán sobre Ormuz antes del 22 de agosto?"
@@ -278,9 +237,9 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.082,
-   "no": 0.918,
-   "volumen": 9991.036522,
+   "yes": 0.0825,
+   "no": 0.9175,
+   "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -288,8 +247,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2595,
-   "no": 0.7405,
+   "yes": 0.2605,
+   "no": 0.7395,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -306,16 +265,6 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
-   "question": "Bitcoin Up or Down - August 19, 8AM ET",
-   "slug": "bitcoin-up-or-down-august-19-2026-8am-et",
-   "yes": 0.988,
-   "no": 0.012,
-   "volumen": 9984.737096,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "Bitcoin Sube o Baja - 19 de agosto, 8AM ET"
-  },
-  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
    "yes": 0.0315,
@@ -330,7 +279,7 @@
    "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
    "yes": 0.405,
    "no": 0.595,
-   "volumen": 9968.634194,
+   "volumen": 9968.634193999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
@@ -346,22 +295,32 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Exact Score: Vietnam 1 - 2 Malaysia?",
+   "slug": "asean-vie-mas-2026-08-19-exact-score-1-2",
+   "yes": 0.044,
+   "no": 0.956,
+   "volumen": 9959.125665,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Marcador Exacto: Vietnam 1 - 2 Malasia?"
+  },
+  {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.295,
    "no": 0.705,
-   "volumen": 9956.098180000003,
+   "volumen": 9956.098179999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
   }
  ],
  "historico": {
-  "ts": 1787141752,
+  "ts": 1787143552,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 88.38
+ "db_size_mb": 88.45
 }
