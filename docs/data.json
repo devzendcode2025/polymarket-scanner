@@ -1,29 +1,49 @@
 {
- "ts": 1787166759,
- "stamp": "20260819_191239",
+ "ts": 1787167239,
+ "stamp": "20260819_192039",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xae12963cf344013decffa9bb13ce1741018de836bab2b685152a271bc54cc817",
-   "titulo": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
-   "slug": "wta-cirstea-pegula-2026-08-19",
-   "outcome": "Jessica Pegula",
-   "side": "SELL",
-   "size": 7543.41,
-   "price": 0.999,
-   "usd": 7535.87,
-   "ts": 1787166529,
-   "categoria": "Deportes",
-   "prob": 63,
-   "confianza": "alta",
+   "market_id": "0x76d07321e469312ecbbc6287ba3c2c4b58b4bc5627d15c1fa711f8c64a057643",
+   "titulo": "Spread: Chicago White Sox (-1.5)",
+   "slug": "mlb-cws-chc-2026-08-19-spread-away-1pt5",
+   "outcome": "Chicago White Sox",
+   "side": "BUY",
+   "size": 12400.0,
+   "price": 0.2673072581,
+   "usd": 3314.61,
+   "ts": 1787167123,
+   "categoria": "Otros",
+   "prob": 56,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $7,536 en 'Jessica Pegula'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-cirstea-pegula-2026-08-19",
-   "titulo_es": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
-   "narrativa": "La venta de BALLENA sobre Jessica Pegula refleja una apuesta agresiva de 7,535 USD en un mercado donde el consenso externo favorece a la rumana, generando un edge positivo al posicionarse en contra del flujo mayoritario. El tamaño del trade sugiere convicción institucional, pero la falta de volumen de mercado reportado limita la profundidad para ejecutar sin deslizamiento. Riesgo: posible iliquidez en horas previas al partido."
+   "razon": "Trade de compra por $3,315 en 'Chicago White Sox'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-cws-chc-2026-08-19-spread-away-1pt5",
+   "titulo_es": "Spread: Chicago White Sox (-1.5)",
+   "narrativa": "La compra de Chicago White Sox (-1.5) por $3,314.61 representa una apuesta significativa contra el spread, lo que sugiere una fuerte convicción en una victoria por más de una carrera. Este monto, al ser el mayor del lote, indica que el operador busca capitalizar un posible desajuste en la línea, aunque el volumen de mercado no está disponible para confirmar la liquidez. Riesgo: la ausencia de datos de volumen puede implicar una ejecución menos favorable en caso de querer salir rápido."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xc4b8126ca0bf46fead2ca1ca23b7a9da4536a7aefcd6cf1f5f8a21b92d515ac9",
+   "titulo": "Will Hyperliquid reach $70 by December 31, 2026?",
+   "slug": "will-hyperliquid-reach-70-by-december-31-2026-20260806184018492",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1836.89,
+   "price": 0.9790336384,
+   "usd": 1798.38,
+   "ts": 1787167125,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,798 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-hyperliquid-reach-70-by-december-31-2026-20260806184018492",
+   "titulo_es": "¿Alcanzará Hyperliquid los $70 para el 31 de diciembre de 2026?",
+   "narrativa": "La compra de 'Yes' para que Hyperliquid alcance los $70 para fines de 2026, con $1,798.38, refleja una posición de largo plazo que apuesta por un repunte significativo del activo. Este trade, al ser de menor monto que el anterior, podría ser una cobertura o una apuesta especulativa con un horizonte temporal amplio, donde el consenso externo no se menciona pero el desvío implícito sugiere una alta volatilidad esperada. Riesgo: el horizonte lejano incrementa la incertidumbre sobre la evolución del precio y la posibilidad de eventos de mercado imprevistos."
   }
  ],
  "edges": [
@@ -100,7 +120,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996716.5278490001,
+   "volumen": 996716.5278490002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -200,7 +220,7 @@
    "slug": "will-real-sociedad-win-the-2026-27-laliga-championship-20260701200737387",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98856.38271600002,
+   "volumen": 98856.382716,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
@@ -210,7 +230,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.562946,
+   "volumen": 98831.56294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -218,9 +238,9 @@
   {
    "question": "Will Aurora Gaming Win the CS2 EWC 2026?",
    "slug": "will-aurora-gaming-win-the-cs2-ewc-2026-20260810160005088",
-   "yes": 0.0325,
-   "no": 0.9675,
-   "volumen": 98804.86741699997,
+   "yes": 0.028,
+   "no": 0.972,
+   "volumen": 98804.86741699999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará Aurora Gaming el CS2 EWC 2026?"
@@ -238,22 +258,22 @@
   {
    "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
-   "yes": 0.9795,
-   "no": 0.0205,
+   "yes": 0.9805,
+   "no": 0.0195,
    "volumen": 98349.53663100001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
   },
   {
-   "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
-   "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.275,
-   "no": 0.725,
-   "volumen": 9998.648179999998,
+   "question": "LoL: B2U vs Arctic Pandas (BO3) - NLC Playoffs",
+   "slug": "lol-b2u-ap-2026-08-19",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9997.918722999999,
    "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
+   "categoria": "Deportes",
+   "question_es": "LoL: B2U vs Arctic Pandas (BO3) - Playoffs de la NLC"
   },
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
@@ -268,8 +288,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2465,
-   "no": 0.7535,
+   "yes": 0.255,
+   "no": 0.745,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -284,6 +304,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Will the highest temperature in Helsinki be 20°C on August 19?",
+   "slug": "highest-temperature-in-helsinki-on-august-19-2026-20c",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9978.179976000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Helsinki de 20°C el 19 de agosto?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -310,7 +340,7 @@
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 9952.114907000003,
+   "volumen": 9952.114907000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
@@ -324,16 +354,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
-   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0415,
-   "no": 0.9585,
-   "volumen": 9937.685226000001,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
   }
  ],
  "historico": {
@@ -343,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 93.62
+ "db_size_mb": 93.74
 }
