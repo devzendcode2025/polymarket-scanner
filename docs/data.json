@@ -1,51 +1,10 @@
 {
- "ts": 1787124087,
- "stamp": "20260819_072127",
+ "ts": 1787124507,
+ "stamp": "20260819_072827",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x224ff7df0a0d5ee9234580158b92acafdf6da13150b7065c9671df2ebec31ae4",
-   "titulo": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-   "slug": "lol-ktc-t1a-2026-08-19",
-   "outcome": "T1 Academy",
-   "side": "SELL",
-   "size": 3074.0,
-   "price": 0.999,
-   "usd": 3070.93,
-   "ts": 1787123862,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,071 en 'T1 Academy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ktc-t1a-2026-08-19",
-   "titulo_es": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío",
-   "narrativa": "La venta de T1 Academy a 30.70 dólares por contrato refleja un desvío frente al consenso externo, que estima una probabilidad implícita cercana al 45% para este equipo en el BO3. El tamaño de la operación (3,070.93 USD) sugiere convicción direccional, y el edge de 5.7 puntos a favor de la venta se sustenta en el bajo volumen del mercado, que amplifica las ineficiencias de precios. Riesgo: liquidez reducida en horarios de baja actividad."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 1805.555553,
-   "price": 0.7199999999,
-   "usd": 1300.0,
-   "ts": 1787123857,
-   "categoria": "Economía",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,300 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?",
-   "narrativa": "La compra de 'Yes' a 1.30 USD por contrato en un mercado de tasas de la Fed para septiembre de 2026 aprovecha un desvío de 8.2 puntos frente al consenso externo, que ubica la probabilidad real en 38%. El monto de 1,300 USD es moderado para un horizonte tan lejano, pero el edge positivo se mantiene por la falta de actualización del precio ante datos macro recientes. Riesgo: alta sensibilidad a cambios en la política monetaria antes de la fecha."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -118,8 +77,8 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.029,
-   "no": 0.971,
+   "yes": 0.0285,
+   "no": 0.9715,
    "volumen": 9894194.689008992,
    "spread": 0.0,
    "categoria": "Política",
@@ -188,8 +147,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -328,8 +287,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.183,
-   "no": 0.817,
+   "yes": 0.2405,
+   "no": 0.7595,
    "volumen": 9945.254864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -363,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 84.96
+ "db_size_mb": 85.09
 }
