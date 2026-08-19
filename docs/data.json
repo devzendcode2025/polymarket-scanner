@@ -1,51 +1,10 @@
 {
- "ts": 1787116885,
- "stamp": "20260819_052125",
+ "ts": 1787117305,
+ "stamp": "20260819_052825",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x03242fef6114b9e14fd36b329ae98143bd0000000000000000000000000000",
-   "titulo": "Sion: Luca Staeheli vs Juan Manuel La Serna AND Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng",
-   "slug": "",
-   "outcome": "",
-   "side": "BUY",
-   "size": 12633.94332,
-   "price": 0.3967729507,
-   "usd": 5012.81,
-   "ts": 1787114793,
-   "categoria": "Otros",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,013 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "",
-   "titulo_es": "Sion: Luca Staeheli vs Juan Manuel La Serna Y Praga 2: Juan Bautista Torres vs Chun-Hsin Tseng",
-   "narrativa": "La entrada de $5,012 en dos eventos combinados (Sion y Praga 2) sugiere una apuesta a que los favoritos ocultos en ambos partidos superarán las expectativas del mercado. El edge proviene de la discrepancia entre el ranking ATP y el rendimiento en superficie dura, donde Staeheli y Tseng tienen métricas superiores al consenso. Riesgo: correlación entre partidos simultáneos y posible retiro de algún jugador."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x0321e37808797ed252711e65baccad01cc0000000000000000000000000000",
-   "titulo": "Prague 2: Cezar Cretu vs Maxim Mrva AND Roehampton: Gabi Boitan vs Alastair Gray AND Sion: Dominic Stephan Stricker vs Lucio Ratti",
-   "slug": "",
-   "outcome": "",
-   "side": "BUY",
-   "size": 5863.157594,
-   "price": 0.4142589809,
-   "usd": 2428.87,
-   "ts": 1787114766,
-   "categoria": "Tecnología",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,429 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "",
-   "titulo_es": "Praga 2: Cezar Cretu vs Maxim Mrva Y Roehampton: Gabi Boitan vs Alastair Gray Y Sion: Dominic Stephan Stricker vs Lucio Ratti",
-   "narrativa": "La compra de $2,428 en un paquete de tres partidos (Cretu vs Mrva, Boitan vs Gray, Stricker vs Ratti) busca explotar la sobrevaloración de los jóvenes talentos locales en torneos Challenger. El edge se basa en que el mercado tiende a inflar las probabilidades de los jugadores con ranking más alto, pero el análisis de datos de servicio y retorno favorece a los veteranos en estos enfrentamientos. Riesgo: alta dependencia de la forma física en partidos largos y menor liquidez en mercados combinados."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -363,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 83.36
+ "db_size_mb": 83.47
 }
