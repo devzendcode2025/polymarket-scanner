@@ -1,71 +1,10 @@
 {
- "ts": 1787130029,
- "stamp": "20260819_090029",
+ "ts": 1787130389,
+ "stamp": "20260819_090629",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xbef57e09ca87b7d054a78f7c8ddaad50502aac0f8bc0e749594ab06f5933c270",
-   "titulo": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana",
-   "slug": "lol-lng-wb-2026-08-19",
-   "outcome": "Weibo Gaming",
-   "side": "SELL",
-   "size": 5158.0,
-   "price": 0.6,
-   "usd": 3094.8,
-   "ts": 1787129874,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,095 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19",
-   "titulo_es": "LoL: LNG Esports vs Weibo Gaming (BO3) - Grupo Nirvana de la LPL",
-   "narrativa": "La venta de 3,094.8 USD sobre Weibo Gaming refleja una postura agresiva del mercado contra el equipo, probablemente por su inconsistencia reciente en el Grupo Nirvana de la LPL. Este monto, al ser el más alto del lote, sugiere que los operadores institucionales están aprovechando un desajuste en las probabilidades implícitas, con un edge estimado que justifica la posición. Riesgo: volatilidad alta en BO3 por mapas cerrados."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x61ce6ab29b72afa6505676c1eeac90628e531517e519b7a9f1226c75c89b6f1b",
-   "titulo": "Prague 2: Oleksii Krutykh vs Nick Hardt",
-   "slug": "atp-krutykh-hardt-2026-08-19",
-   "outcome": "Nick Hardt",
-   "side": "BUY",
-   "size": 4738.44,
-   "price": 0.4831242139,
-   "usd": 2289.26,
-   "ts": 1787129866,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,289 en 'Nick Hardt'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-krutykh-hardt-2026-08-19",
-   "titulo_es": "Praga 2: Oleksii Krutykh vs Nick Hardt",
-   "narrativa": "La compra de 2,289.26 USD en Nick Hardt indica que el mercado detecta una oportunidad de valor en el partido de Praga 2, posiblemente por una subestimación de su forma física o historial reciente en canchas lentas. El flujo de capital concentrado en este lado sugiere un consenso externo favorable, con un desvío en las cuotas que crea un margen positivo para el comprador. Riesgo: superficie y condiciones climáticas pueden alterar el rendimiento."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xcfe1dc82b8014341ac9813c5a1a1cd918b77b660e0f7e9d83fe65d43202ddb34",
-   "titulo": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
-   "slug": "lol-gen-kt-2026-08-19",
-   "outcome": "KT Rolster",
-   "side": "BUY",
-   "size": 18106.66,
-   "price": 0.07,
-   "usd": 1267.47,
-   "ts": 1787129868,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,267 en 'KT Rolster'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-gen-kt-2026-08-19",
-   "titulo_es": "LoL: Gen.G vs KT Rolster (BO3) - LCK Ronda 3-4 Grupo Leyenda",
-   "narrativa": "La compra de 1,267.47 USD en KT Rolster frente a Gen.G apunta a que los operadores ven una sobrevaloración del favorito, dado el emparejamiento táctico y el momento de forma de KT en la LCK. Este monto, aunque menor, refleja una apuesta calculada con un edge basado en el desempeño de KT en rondas previas y un posible cansancio de Gen.G. Riesgo: Gen.G tiene un historial de remontadas en BO3, lo que añade incertidumbre."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -140,7 +79,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0285,
    "no": 0.9715,
-   "volumen": 9894200.86183,
+   "volumen": 9894200.861829998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -150,7 +89,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995015.0585159998,
+   "volumen": 995015.0585160002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -180,7 +119,7 @@
    "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
    "yes": 0.115,
    "no": 0.885,
-   "volumen": 982631.258146,
+   "volumen": 982651.2581459995,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
@@ -200,7 +139,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299994,
+   "volumen": 99588.02526300003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -208,8 +147,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -228,8 +167,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.445,
+   "no": 0.555,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -260,7 +199,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98571.57294599999,
+   "volumen": 98743.57294600004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -290,7 +229,7 @@
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
    "yes": 0.068,
    "no": 0.932,
-   "volumen": 9991.036522,
+   "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -298,9 +237,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2355,
-   "no": 0.7645,
-   "volumen": 9990.964864000001,
+   "yes": 0.228,
+   "no": 0.772,
+   "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -340,10 +279,20 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.305,
    "no": 0.695,
-   "volumen": 9956.09818,
+   "volumen": 9956.098179999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
+  },
+  {
+   "question": "Will the highest temperature in London be 23°C on August 19?",
+   "slug": "highest-temperature-in-london-on-august-19-2026-23c",
+   "yes": 0.29,
+   "no": 0.71,
+   "volumen": 9955.369617,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Londres de 23°C el 19 de agosto?"
   },
   {
    "question": "Will USD/JPY hit 165 (High) in 2026?",
@@ -354,16 +303,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
-  },
-  {
-   "question": "ITF M25 Slovenj Gradec Men: Maximilian Figl vs Luca Castagnola",
-   "slug": "itf-fig-castagn-2026-08-18",
-   "yes": 0.33,
-   "no": 0.67,
-   "volumen": 9944.371731,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "ITF M25 Slovenj Gradec Masculino: Maximilian Figl vs Luca Castagnola"
   },
   {
    "question": "Map Handicap: NAVI (-1.5) vs Legacy (+1.5)",
@@ -383,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 86.31
+ "db_size_mb": 86.39
 }
