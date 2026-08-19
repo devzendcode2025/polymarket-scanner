@@ -1,6 +1,6 @@
 {
- "ts": 1787149415,
- "stamp": "20260819_142335",
+ "ts": 1787149835,
+ "stamp": "20260819_143035",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -157,8 +157,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -197,8 +197,8 @@
   {
    "question": "Will Wildberries announce bankruptcy before 2027?",
    "slug": "will-wildberries-announce-bankruptcy-before-2027-20260723171611669",
-   "yes": 0.175,
-   "no": 0.825,
+   "yes": 0.185,
+   "no": 0.815,
    "volumen": 98878.49009000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -247,8 +247,8 @@
   {
    "question": "Will the highest temperature in Munich be 30°C on August 19?",
    "slug": "highest-temperature-in-munich-on-august-19-2026-30c",
-   "yes": 0.65,
-   "no": 0.35,
+   "yes": 0.63,
+   "no": 0.37,
    "volumen": 9996.883359999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -257,8 +257,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0725,
-   "no": 0.9275,
+   "yes": 0.075,
+   "no": 0.925,
    "volumen": 9991.036522000002,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -267,8 +267,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2325,
-   "no": 0.7675,
+   "yes": 0.2455,
+   "no": 0.7545,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 89.73
+ "db_size_mb": 89.81
 }
