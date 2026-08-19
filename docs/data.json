@@ -1,10 +1,31 @@
 {
- "ts": 1787179422,
- "stamp": "20260819_224342",
+ "ts": 1787179902,
+ "stamp": "20260819_225142",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x50f79bcaa54c55033dbc2892b468a146b70f01a0c57d67644d46c501b71716ae",
+   "titulo": "Spread: Cleveland Guardians (-2.5)",
+   "slug": "mlb-sf-cle-2026-08-19-spread-home-2pt5",
+   "outcome": "Cleveland Guardians",
+   "side": "BUY",
+   "size": 7000.0,
+   "price": 0.3899447286,
+   "usd": 2729.61,
+   "ts": 1787179720,
+   "categoria": "Otros",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,730 en 'Cleveland Guardians'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-sf-cle-2026-08-19-spread-home-2pt5",
+   "titulo_es": "Margen: Cleveland Guardians (-2.5)",
+   "narrativa": "El mercado muestra una compra significativa de 2,729 USD en el margen de -2.5 para los Guardians, lo que indica una convicción institucional en una victoria por más de dos carreras. Aunque no hay consenso externo disponible, el volumen de la apuesta sugiere que el precio actual no refleja completamente la probabilidad implícita del evento. Riesgo: posible falta de liquidez en mercados de margen específico."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -134,7 +155,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9912014.290955001,
+   "volumen": 9912014.290955005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -144,7 +165,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.527849,
+   "volumen": 996816.5278490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -154,7 +175,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995924.7817670003,
+   "volumen": 995995.6908560004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -174,7 +195,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982380.2362579999,
+   "volumen": 982380.236258,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -190,6 +211,16 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
+   "question": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-navi-lgc-2026-08-20",
+   "yes": 0.695,
+   "no": 0.305,
+   "volumen": 99607.552562,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Playoffs de la Copa Mundial de Esports"
+  },
+  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
@@ -200,21 +231,11 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
-   "question": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs",
-   "slug": "cs2-navi-lgc-2026-08-20",
-   "yes": 0.695,
-   "no": 0.305,
-   "volumen": 99434.732293,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Playoffs de la Copa Mundial de Esports"
-  },
-  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.055,
-   "no": 0.945,
-   "volumen": 99270.71303999999,
+   "yes": 0.0505,
+   "no": 0.9495,
+   "volumen": 99270.71304000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -254,27 +275,47 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294599998,
+   "volumen": 98831.56294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
+  },
+  {
+   "question": "Toronto Tempo vs. Washington Mystics: O/U 168.5",
+   "slug": "wnba-tor-wsh-2026-08-19-total-168pt5",
+   "yes": 0.505,
+   "no": 0.495,
+   "volumen": 98545.31318599996,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Toronto Tempo vs. Washington Mystics: Más/Menos 168.5"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 98534.93697800003,
+   "volumen": 98534.936978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
+  },
+  {
+   "question": "Minnesota Lynx vs. Golden State Valkyries: O/U 163.5",
+   "slug": "wnba-min-gsv-2026-08-19-total-163pt5",
+   "yes": 0.475,
+   "no": 0.525,
+   "volumen": 98469.76025099999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Minnesota Lynx vs. Golden State Valkyries: Más/Menos 163.5"
   },
   {
    "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.982,
    "no": 0.018,
-   "volumen": 98359.536631,
+   "volumen": 98359.53663100001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -292,8 +333,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.9475,
-   "no": 0.0525,
+   "yes": 0.9505,
+   "no": 0.0495,
    "volumen": 9997.610976,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -312,8 +353,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2555,
-   "no": 0.7445,
+   "yes": 0.2405,
+   "no": 0.7595,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -352,32 +393,12 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.041,
-   "no": 0.959,
+   "yes": 0.029,
+   "no": 0.971,
    "volumen": 9964.685226,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
-  },
-  {
-   "question": "Will the highest temperature in Milan be 32°C on August 19?",
-   "slug": "highest-temperature-in-milan-on-august-19-2026-32c",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9952.299336999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Milán de 32°C el 19 de agosto?"
-  },
-  {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.4,
-   "no": 0.6,
-   "volumen": 9952.114907,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
@@ -387,5 +408,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 96.58
+ "db_size_mb": 96.64
 }
