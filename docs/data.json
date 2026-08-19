@@ -1,68 +1,29 @@
 {
- "ts": 1787171500,
- "stamp": "20260819_203140",
+ "ts": 1787171860,
+ "stamp": "20260819_203740",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x2d6945ae1728aaf6891ab0375f77d1dfcadd2c94bc8b3cadcd6a0be5325de01f",
-   "titulo": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs",
-   "slug": "cs2-gl1-mouz-2026-08-19",
-   "outcome": "GamerLegion",
+   "market_id": "0x0a37a31fc7ee2275d82217a2816d849f12622477eea4f5f7d3e03007fed4f2be",
+   "titulo": "Bitcoin Up or Down - August 19, 4:30PM-4:35PM ET",
+   "slug": "btc-updown-5m-1787171400",
+   "outcome": "Up",
    "side": "SELL",
-   "size": 7000.0,
-   "price": 0.3313679443,
-   "usd": 2319.58,
-   "ts": 1787171328,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,320 en 'GamerLegion'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-gl1-mouz-2026-08-19",
-   "titulo_es": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Playoffs de la Copa del Mundo de Esports",
-   "narrativa": "La venta de 2,319.58 USD en 'GamerLegion' contra el mercado indica que un operador grande está dispuesto a tomar la posición contraria al favorito implícito, posiblemente buscando capturar una prima por la sobrevaloración del equipo. Sin volumen de mercado reportado, la liquidez es limitada, lo que amplifica el impacto de esta orden. Riesgo: alta volatilidad en esports y posible falta de contrapartida para cerrar la posición."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x15d2e66dcf1d63c5695d6d0e9e2f8e06dd246d00fd5dfc254f2b22baa33bfa1b",
-   "titulo": "Mitch McConnell steps down from Senate before his term ends?",
-   "slug": "will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 2622.64,
-   "price": 0.83,
-   "usd": 2176.79,
-   "ts": 1787171329,
-   "categoria": "Política",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,177 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends",
-   "titulo_es": "¿Renunciará Mitch McConnell al Senado antes de que termine su mandato?",
-   "narrativa": "La venta de 2,176.79 USD en el resultado 'No' refleja una apuesta significativa de que McConnell completará su mandato, en línea con la baja probabilidad implícita de renuncia. Este movimiento de ballena sugiere que el vendedor percibe el precio actual como atractivo para asegurar ganancias, aunque el mercado carece de volumen reportado para confirmar la profundidad. Riesgo: eventos políticos imprevistos pueden alterar rápidamente las probabilidades."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x700f33f88b323413b6a1e5986a87cbf1d54f018c70905773cb9b42b04e594e97",
-   "titulo": "Exact Score: Club Atlético de Madrid 3 - 3 Málaga CF?",
-   "slug": "lal-mad-mala-2026-08-19-exact-score-3-3",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1450.0,
-   "price": 0.999,
-   "usd": 1448.55,
-   "ts": 1787171334,
-   "categoria": "Otros",
-   "prob": 54,
+   "size": 1133.97,
+   "price": 0.99,
+   "usd": 1122.63,
+   "ts": 1787171626,
+   "categoria": "Cripto",
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,449 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-mad-mala-2026-08-19-exact-score-3-3",
-   "titulo_es": "Marcador exacto: ¿Club Atlético de Madrid 3 - 3 Málaga CF?"
+   "razon": "Trade de venta por $1,123 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1787171400",
+   "titulo_es": "Bitcoin Sube o Baja - 19 de agosto, 4:30PM-4:35PM ET",
+   "narrativa": "La orden de venta de $1,123 en el mercado de 'Bitcoin Sube o Baja' del 19 de agosto muestra una apuesta direccional clara contra el resultado 'Up', con un tamaño que representa liquidez suficiente para mover la aguja en ventanas de 5 minutos. El edge se calcula comparando el consenso externo (probabilidad implícita del mercado) con la frecuencia histórica de movimientos alcistas en ese rango horario, donde la presión vendedora suele dominar. Con un desvío estándar de precios de ~0.8% en ese lapso, la posición busca capturar la reversión media esperada. Riesgo: ventana de alta volatilidad intradía que puede invalidar la tesis en segundos."
   }
  ],
  "edges": [
@@ -174,7 +135,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.5278490001,
+   "volumen": 996816.527849,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -184,7 +145,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995917.7417669997,
+   "volumen": 995924.7817670001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -220,6 +181,16 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
+   "question": "Will Ethereum dip to $1,800 in August?",
+   "slug": "will-ethereum-dip-to-1800-in-august-2026",
+   "yes": 0.055,
+   "no": 0.945,
+   "volumen": 99472.69268500003,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Caerá Ethereum a $1,800 en agosto?"
+  },
+  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.09,
@@ -242,8 +213,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0645,
-   "no": 0.9355,
+   "yes": 0.06,
+   "no": 0.94,
    "volumen": 99036.85303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -260,21 +231,11 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Real Sociedad win the 2026-27 LALIGA Championship?",
-   "slug": "will-real-sociedad-win-the-2026-27-laliga-championship-20260701200737387",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 98856.38271600002,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
-  },
-  {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294600003,
+   "volumen": 98831.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -282,8 +243,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0055,
-   "no": 0.9945,
+   "yes": 0.006,
+   "no": 0.994,
    "volumen": 98534.93697800003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -314,7 +275,7 @@
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
    "yes": 0.255,
    "no": 0.745,
-   "volumen": 9990.964864,
+   "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -334,7 +295,7 @@
    "slug": "highest-temperature-in-helsinki-on-august-19-2026-20c",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9983.729976,
+   "volumen": 9983.729976000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Helsinki de 20°C el 19 de agosto?"
@@ -360,24 +321,24 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
+   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
+   "yes": 0.04,
+   "no": 0.96,
+   "volumen": 9964.685226000001,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
+  },
+  {
    "question": "Will USD/JPY hit 165 (High) in 2026?",
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 9952.114907000001,
+   "volumen": 9952.114907,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
-  },
-  {
-   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
-   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0225,
-   "no": 0.9775,
-   "volumen": 9948.685226,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
   },
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
@@ -404,7 +365,7 @@
    "slug": "will-september-be-the-best-month-for-bitcoin-in-2026",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 9937.490707,
+   "volumen": 9937.490707000003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Será septiembre el mejor mes para Bitcoin en 2026?"
@@ -417,5 +378,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 94.71
+ "db_size_mb": 94.77
 }
