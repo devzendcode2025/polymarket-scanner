@@ -1,100 +1,52 @@
 {
- "ts": 1787098640,
- "stamp": "20260819_001720",
+ "ts": 1787099000,
+ "stamp": "20260819_002320",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd621a78aec438567200edc851a1941ca6c88d405a1637d102bc1a1d16ffc78f7",
-   "titulo": "Bitcoin Up or Down - August 18, 8:00PM-8:15PM ET",
-   "slug": "btc-updown-15m-1787097600",
-   "outcome": "Down",
+   "market_id": "0x80a986e6af0326937a1609e84910f64ebbb94703b9b44600d84354bacb83c7d0",
+   "titulo": "Spread: Indiana Fever (-9.5)",
+   "slug": "wnba-ind-tor-2026-08-18-spread-away-9pt5",
+   "outcome": "Toronto Tempo",
    "side": "BUY",
-   "size": 2500.0,
-   "price": 0.998,
-   "usd": 2495.0,
-   "ts": 1787098317,
-   "categoria": "Cripto",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,495 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-15m-1787097600",
-   "titulo_es": "Bitcoin Sube o Baja - 18 de agosto, 8:00PM-8:15PM ET",
-   "narrativa": "La ballena compra 'Down' en Bitcoin para la ventana del 18 de agosto, con $2,495 USD, lo que sugiere una apuesta direccional fuerte contra el activo en un período de alta volatilidad esperada. El monto significativo en relación al volumen de mercado (aunque no especificado) indica convicción, y el edge podría provenir de un desbalance en el consenso externo, donde la mayoría espera un movimiento alcista. Riesgo: alta sensibilidad a noticias de último minuto."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x033015cab39374b807a95c13b3798adc350000000000000000000000000000",
-   "titulo": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group AND LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend",
-   "slug": "",
-   "outcome": "",
-   "side": "BUY",
-   "size": 2666.615187,
-   "price": 0.4882016282,
-   "usd": 1301.85,
-   "ts": 1787098323,
-   "categoria": "Deportes",
-   "prob": 53,
+   "size": 2958.00875,
+   "price": 0.4799377284,
+   "usd": 1419.66,
+   "ts": 1787098930,
+   "categoria": "Otros",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,302 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "",
-   "titulo_es": "LoL: Gen.G vs KT Rolster (BO3) - LCK Ronda 3-4 Grupo Leyenda Y LoL: Anyone's Legend vs Top Esports (BO3) - LPL Grupo Ascend",
-   "narrativa": "La ballena apuesta $1,301.85 en un combo de BO3 de LoL (Gen.G vs KT y Anyone's Legend vs Top Esports), sin especificar el resultado, lo que sugiere una estrategia de arbitraje o cobertura entre mercados correlacionados. El monto elevado en un evento de nicho indica que el operador identificó un desajuste de precios entre las casas, con un edge potencial en la suma de probabilidades implícitas. Riesgo: liquidez limitada en mercados de esports."
+   "razon": "Trade de compra por $1,420 en 'Toronto Tempo'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wnba-ind-tor-2026-08-18-spread-away-9pt5",
+   "titulo_es": "Spread: Indiana Fever (-9.5)",
+   "narrativa": "La compra de Toronto Tempo +9.5 contra Indiana Fever refleja una apuesta de 1,419.66 USD que busca capitalizar un posible margen de derrota ajustado o una sorpresa directa, aprovechando que el spread de -9.5 puntos suele estar sobrevalorado en equipos visitantes. El desvío implícito en el mercado de spreads sugiere que el consenso externo no descarta un partido cerrado, lo que otorga un edge positivo al cubrir la línea. Riesgo: la volatilidad del marcador final puede dejar el spread en el límite exacto, reduciendo el margen de beneficio."
   },
   {
    "tipo": "ballena",
-   "market_id": "0xf6a039236c83e1465978dcde246f09dbeddb6bbaa6364eba8480effed2e0d997",
-   "titulo": "Will AC Goianiense win on 2026-08-18?",
-   "slug": "bra2-lon-acg-2026-08-18-acg",
-   "outcome": "No",
+   "market_id": "0x4573c2e63204c8f483592e0e8d29d3b1c0a82bd7ebaf31c19c55011769be3739",
+   "titulo": "Will Londrina EC vs. AC Goianiense end in a draw?",
+   "slug": "bra2-lon-acg-2026-08-18-draw",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 1512.0,
-   "price": 0.83,
-   "usd": 1254.96,
-   "ts": 1787098323,
+   "size": 1322.0,
+   "price": 0.91,
+   "usd": 1203.02,
+   "ts": 1787098924,
    "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,255 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bra2-lon-acg-2026-08-18-acg",
-   "titulo_es": "¿Ganará AC Goianiense el 2026-08-18?",
-   "narrativa": "La compra de 'No' en AC Goianiense para el 2026-08-18, con $1,254.96 USD, refleja una convicción bajista sobre el equipo, probablemente basada en su forma reciente o lesiones. El monto es considerable para un mercado de fútbol de liga menor, lo que sugiere que el operador ve un edge claro frente al consenso externo que podría estar sobrevalorando al equipo. Riesgo: eventos imprevistos como alineaciones o clima."
+   "razon": "Trade de compra por $1,203 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bra2-lon-acg-2026-08-18-draw",
+   "titulo_es": "¿Terminarán en empate Londrina EC vs. AC Goianiense?",
+   "narrativa": "La compra de 'Yes' al empate entre Londrina EC y AC Goianiense, con 1,203.02 USD, aprovecha que los mercados de empate en ligas menores suelen tener una probabilidad implícita inferior a la frecuencia histórica real de este resultado. El volumen de mercado es bajo, lo que permite que la entrada no mueva la cuota, y el consenso externo apunta a una alta paridad entre ambos equipos, incrementando el valor esperado de la posición. Riesgo: la baja liquidez puede dificultar la salida en el momento óptimo, y un gol tardío anula la apuesta."
   }
  ],
  "edges": [
-  {
-   "tipo": "edge",
-   "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
-   "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 9.0,
-   "consenso": 50.0,
-   "edge": 41.0,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "PredictIt",
-     "titulo": "New Hampshire",
-     "prob": 50.0,
-     "url": "https://www.predictit.org/markets/detail/8939",
-     "titulo_es": "Nuevo Hampshire"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Política",
-   "prob": 85,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 41.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "El mercado de Polymarket para un margen de victoria republicano del 9%-12% en Nuevo Hampshire paga 9.0 puntos, frente a un consenso externo de 50.0, lo que arroja una diferencia de 41 puntos a favor de comprar el 'Sí'. Este desajuste extremo sugiere que el precio implícito no refleja la probabilidad real según PredictIt, ofreciendo un edge considerable para quien busque valor en mercados de eventos políticos. Riesgo: la ventana de margen es estrecha y el evento es a largo plazo, lo que puede generar volatilidad en el precio antes de la resolución."
-  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -122,6 +74,34 @@
    "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 41.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
    "narrativa": "La probabilidad implícita de Polymarket es de solo 11.1% (paga 9.0), mientras que el consenso externo de PredictIt se sitúa en 50%, generando un edge de 41 puntos a favor de comprar el 'Sí'. Este diferencial extremo sugiere que el mercado de Polymarket aún no ha incorporado plenamente las métricas de consenso, ofreciendo una oportunidad de valor relativo con un monto de trade que puede escalarse según la liquidez disponible. Riesgo: el evento es a largo plazo (2026) y la liquidez en mercados de nicho puede ser limitada, lo que podría afectar la ejecución de salida."
+  },
+  {
+   "tipo": "edge",
+   "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
+   "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
+   "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
+   "prob_poly": 10.0,
+   "consenso": 50.0,
+   "edge": 40.0,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "PredictIt",
+     "titulo": "New Hampshire",
+     "prob": 50.0,
+     "url": "https://www.predictit.org/markets/detail/8939",
+     "titulo_es": "Nuevo Hampshire"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Política",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "PredictIt",
+   "razon": "Polymarket paga este mercado a 10.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 40.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
+   "narrativa": "Polymarket cotiza el 'Sí' a un 10% de probabilidad implícita, mientras que PredictIt sugiere un consenso externo del 50%, generando un edge de 40 puntos porcentuales. Esta discrepancia es una oportunidad de compra clara, ya que el mercado está infravalorando significativamente el resultado según la fuente externa. Riesgo: la diferencia puede deberse a plazos o criterios de margen distintos entre plataformas."
   }
  ],
  "top_volumen": [
@@ -130,7 +110,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9969936.860318005,
+   "volumen": 9970236.860317998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -140,7 +120,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.02,
    "no": 0.98,
-   "volumen": 9835164.825462993,
+   "volumen": 9835170.947862996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -190,7 +170,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94703,
+   "volumen": 99768.94702999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -200,20 +180,10 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299999,
+   "volumen": 99588.02526300003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
-  },
-  {
-   "question": "Will Megan Degenfelder win the 2026 Wyoming Governor Republican primary election?",
-   "slug": "will-megan-degenfelder-win-the-2026-wyoming-governor-republican-primary-election",
-   "yes": 0.1825,
-   "no": 0.8175,
-   "volumen": 99559.76763199997,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Megan Degenfelder las elecciones primarias republicanas para gobernador de Wyoming en 2026?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -230,10 +200,20 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99153.76193399998,
+   "volumen": 99153.761934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
+  },
+  {
+   "question": "Washington Nationals vs. Texas Rangers: O/U 7.5",
+   "slug": "mlb-wsh-tex-2026-08-18-total-7pt5",
+   "yes": 0.485,
+   "no": 0.515,
+   "volumen": 99069.03215599997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Washington Nationals vs. Texas Rangers: Más/Menos 7.5"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
@@ -244,6 +224,16 @@
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Cancun: Dalibor Svrcina vs Stan Wawrinka",
+   "slug": "atp-svrcina-wawrink-2026-08-18",
+   "yes": 0.485,
+   "no": 0.515,
+   "volumen": 98953.42492199999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Cancún: Dalibor Svrcina vs Stan Wawrinka"
   },
   {
    "question": "US charges Hormuz fees by December 31, 2026?",
@@ -270,20 +260,10 @@
    "slug": "israel-x-iran-ceasefire-continues-through-october-31",
    "yes": 0.745,
    "no": 0.255,
-   "volumen": 98713.25017200001,
+   "volumen": 98713.25017199999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Continúa el alto el fuego entre Israel e Irán hasta el 31 de octubre?"
-  },
-  {
-   "question": "Counter-Strike: FORZE Reload vs 300FPS (BO3) - CCT Europe Contenders #8 Playoffs",
-   "slug": "cs2-forzer-300fps-2026-08-18",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 98641.99985699999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: FORZE Reload vs 300FPS (BO3) - CCT Europe Contenders #8 Playoffs"
   },
   {
    "question": "Will B8 Win the CS2 EWC 2026?",
@@ -306,6 +286,16 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Los Angeles Sparks vs. Connecticut Sun",
+   "slug": "wnba-la-conn-2026-08-18",
+   "yes": 0.175,
+   "no": 0.825,
+   "volumen": 98067.22362399996,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Los Angeles Sparks vs. Connecticut Sun"
+  },
+  {
    "question": "Will the Democratic Party win the FL-10 House seat?",
    "slug": "will-the-democratic-party-win-the-fl-10-house-seat",
    "yes": 0.945,
@@ -318,12 +308,22 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.051,
-   "no": 0.949,
-   "volumen": 9991.036522,
+   "yes": 0.0395,
+   "no": 0.9605,
+   "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
+  },
+  {
+   "question": "Will Carey Baker be the FL-11 Republican nominee?",
+   "slug": "will-carey-baker-be-the-fl-11-republican-nominee-20260723173936217",
+   "yes": 0.17,
+   "no": 0.83,
+   "volumen": 9989.672418,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Carey Baker el nominado republicano de FL-11?"
   },
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
@@ -340,7 +340,7 @@
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 9985.785599,
+   "volumen": 9985.785598999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
@@ -354,26 +354,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
-  },
-  {
-   "question": "Will the Republican Party win the NC-09 House seat?",
-   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
-   "yes": 0.8,
-   "no": 0.2,
-   "volumen": 9966.137666999999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.43,
-   "no": 0.57,
-   "volumen": 9952.114907,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
@@ -383,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 79.85
+ "db_size_mb": 80.0
 }
