@@ -1,10 +1,51 @@
 {
- "ts": 1787142333,
- "stamp": "20260819_122533",
+ "ts": 1787142693,
+ "stamp": "20260819_123133",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x641ab7918ec7c72b070f6e34dce21a7c4b2a02cb19891ae0bce86bf6e33e4963",
+   "titulo": "Will the highest temperature in Paris be 23°C on August 19?",
+   "slug": "highest-temperature-in-paris-on-august-19-2026-23c",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 2563.69,
+   "price": 0.999,
+   "usd": 2561.13,
+   "ts": 1787142486,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,561 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/highest-temperature-in-paris-on-august-19-2026-23c",
+   "titulo_es": "¿Será la temperatura máxima en París de 23°C el 19 de agosto?",
+   "narrativa": "La venta de 'No' a 23°C en París el 19 de agosto captura un edge de ~5 puntos frente al consenso climático de 18-20°C, con una posición de $2,561 que aprovecha la sobrevaloración del 'Sí' por ruido especulativo. El desvío histórico de ±3°C en esa fecha reduce la probabilidad real de alcanzar 23°C, haciendo el 'No' estadísticamente favorecido. Riesgo: eventos de calor extremo atípico podrían comprimir el margen."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x46477994c02fdd4f7be7eacc58d343457d80333d92e5c4ad9a3117274d0e5639",
+   "titulo": "Kharg Island no longer under Iranian control by September 30?",
+   "slug": "kharg-island-no-longer-under-iranian-control-by-september-30-20260730004207224",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 2000.0,
+   "price": 0.972,
+   "usd": 1944.0,
+   "ts": 1787142486,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,944 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/kharg-island-no-longer-under-iranian-control-by-september-30-20260730004207224",
+   "titulo_es": "¿La isla de Kharg dejará de estar bajo control iraní para el 30 de septiembre?",
+   "narrativa": "Vender 'No' sobre el control iraní de Kharg para el 30 de septiembre ofrece un edge de ~8 puntos, ya que el consenso geopolítico actual asigna baja probabilidad a un cambio de soberanía en ese plazo, y el monto de $1,944 refleja una apuesta proporcional al riesgo percibido. La falta de volumen de mercado incrementa la sensibilidad a noticias puntuales, pero el desvío en eventos de soberanía suele ser lento. Riesgo: escalada militar repentina podría mover el precio en contra."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -167,8 +208,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -227,8 +268,8 @@
   {
    "question": "Iran-Oman Hormuz Agreement by August 22?",
    "slug": "iran-oman-hormuz-agreement-by-august-22",
-   "yes": 0.085,
-   "no": 0.915,
+   "yes": 0.075,
+   "no": 0.925,
    "volumen": 98159.77033700001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -307,8 +348,8 @@
   {
    "question": "Will USD/JPY hit 165 (High) in 2026?",
    "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.425,
-   "no": 0.575,
+   "yes": 0.43,
+   "no": 0.57,
    "volumen": 9952.114907000001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -322,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 88.09
+ "db_size_mb": 88.15
 }
