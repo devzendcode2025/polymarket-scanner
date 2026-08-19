@@ -1,6 +1,6 @@
 {
- "ts": 1787174981,
- "stamp": "20260819_212941",
+ "ts": 1787175461,
+ "stamp": "20260819_213741",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -11,9 +11,9 @@
    "question": "Will OpenAI’s Astra model be released by August 31, 2026?",
    "slug": "will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
    "url": "https://polymarket.com/market/will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
-   "prob_poly": 9.5,
+   "prob_poly": 10.5,
    "consenso": 85.5,
-   "edge": 76.0,
+   "edge": 75.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -37,9 +37,9 @@
    "confianza": "alta",
    "horizonte": "72h",
    "fuentes_nombres": "Manifold, Manifold",
-   "razon": "Polymarket paga este mercado a 9.5% y el consenso de 2 fuente(s) externa(s) (Manifold, Manifold) lo paga a 85.5%: diferencia de 76.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 10.5% y el consenso de 2 fuente(s) externa(s) (Manifold, Manifold) lo paga a 85.5%: diferencia de 75.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Se lanzará el modelo Astra de OpenAI antes del 31 de agosto de 2026?",
-   "narrativa": "El mercado de Polymarket cotiza el lanzamiento del modelo Astra a solo 9.5, mientras que el consenso externo de Manifold lo sitúa en 85.5, generando un edge de 76 puntos a favor de la compra del 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real estimada por otras plataformas, ofreciendo una oportunidad de valor con un desvío significativo. El monto del trade se posiciona para capturar la convergencia de precios si el consenso externo se materializa, aunque el riesgo principal es que Polymarket esté descontando información no pública sobre retrasos en el desarrollo."
+   "narrativa": "El mercado de Polymarket cotiza el lanzamiento del modelo Astra de OpenAI antes de agosto de 2026 a solo 10.5, mientras que el consenso externo de Manifold lo sitúa en 85.5, generando un edge de 75 puntos a favor de comprar el 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real estimada por fuentes alternativas, ofreciendo una oportunidad de entrada con un desvío significativo respecto a la media del mercado. Riesgo: la liquidez puede ser limitada y el evento depende de anuncios corporativos no confirmados."
   },
   {
    "tipo": "edge",
@@ -114,7 +114,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.5278490003,
+   "volumen": 996816.5278490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -124,7 +124,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995924.7817670003,
+   "volumen": 995924.7817670001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -144,7 +144,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982380.2362579998,
+   "volumen": 982380.236258,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -160,16 +160,6 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
-   "question": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
-   "slug": "val-c9-bst1-2026-08-19",
-   "yes": 0.685,
-   "no": 0.315,
-   "volumen": 99789.09436499998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In"
-  },
-  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
@@ -180,21 +170,11 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
-   "question": "Will Bitcoin reach $70,000 on August 19?",
-   "slug": "will-bitcoin-reach-70k-on-august-19-2026",
-   "yes": 0.6655,
-   "no": 0.3345,
-   "volumen": 99586.05346600001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Bitcoin los $70,000 el 19 de agosto?"
-  },
-  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.0565,
    "no": 0.9435,
-   "volumen": 99270.71303999997,
+   "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -222,8 +202,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -244,7 +224,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 98534.936978,
+   "volumen": 98534.93697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -254,7 +234,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.982,
    "no": 0.018,
-   "volumen": 98349.536631,
+   "volumen": 98349.53663100002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -262,8 +242,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.9675,
-   "no": 0.0325,
+   "yes": 0.968,
+   "no": 0.032,
    "volumen": 9994.070975999999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -282,8 +262,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.229,
-   "no": 0.771,
+   "yes": 0.248,
+   "no": 0.752,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,19 +302,29 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0255,
-   "no": 0.9745,
+   "yes": 0.0245,
+   "no": 0.9755,
    "volumen": 9964.685226,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
   },
   {
+   "question": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-b8-ts7-2026-08-20",
+   "yes": 0.195,
+   "no": 0.805,
+   "volumen": 9959.024112,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Counter-Strike: B8 vs Spirit (BO3) - Playoffs de la Copa del Mundo de Esports"
+  },
+  {
    "question": "Will USD/JPY hit 165 (High) in 2026?",
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 9952.114907000001,
+   "volumen": 9952.114907,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
@@ -344,10 +334,20 @@
    "slug": "will-september-be-the-best-month-for-bitcoin-in-2026",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 9949.490707000003,
+   "volumen": 9949.490707,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Será septiembre el mejor mes para Bitcoin en 2026?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.0025,
+   "no": 0.9975,
+   "volumen": 9946.699383,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
@@ -357,5 +357,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 95.55
+ "db_size_mb": 95.62
 }
