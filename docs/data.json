@@ -1,6 +1,6 @@
 {
- "ts": 1787125948,
- "stamp": "20260819_075228",
+ "ts": 1787126308,
+ "stamp": "20260819_075828",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -147,8 +147,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -207,8 +207,8 @@
   {
    "question": "US ceasefire against Iran continues through September 30?",
    "slug": "us-x-iran-ceasefire-continues-through-september-30",
-   "yes": 0.67,
-   "no": 0.33,
+   "yes": 0.665,
+   "no": 0.335,
    "volumen": 98481.00698,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -257,8 +257,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.24,
-   "no": 0.76,
+   "yes": 0.2395,
+   "no": 0.7605,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -297,8 +297,8 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.305,
-   "no": 0.695,
+   "yes": 0.3,
+   "no": 0.7,
    "volumen": 9956.098179999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -322,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 85.36
+ "db_size_mb": 85.51
 }
