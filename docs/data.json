@@ -1,60 +1,32 @@
 {
- "ts": 1787163098,
- "stamp": "20260819_181138",
+ "ts": 1787163518,
+ "stamp": "20260819_181838",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x4432df49b36c20c1a27a604fa8a1e8bc133c0f9d5e0850fc911277ae3c6afc1c",
-   "titulo": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs",
-   "slug": "cs2-furia-aur1-2026-08-19",
-   "outcome": "Aurora Gaming",
+   "market_id": "0x19cab22f2476e17dc3da3c681e188214501dde84ddd424f2d16d46ad015292f7",
+   "titulo": "Will Sabah FK win on 2026-08-19?",
+   "slug": "ucl-hbs-sf-2026-08-19-sf",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 2799.63818,
-   "price": 0.5357835201,
-   "usd": 1500.0,
-   "ts": 1787162929,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,500 en 'Aurora Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-furia-aur1-2026-08-19",
-   "titulo_es": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Playoffs de la Copa del Mundo de Esports",
-   "narrativa": "La compra de Aurora Gaming a $1,500 refleja un edge positivo del 8.2% frente al consenso externo del 42%, ya que el mercado local cotiza a 50.2% de probabilidad implícita, desviándose 6.4 puntos del modelo base. Este desajuste, junto con un volumen de mercado aún no reportado, sugiere que la oportunidad persiste antes de que el flujo institucional corrija el precio. Riesgo: posible falta de liquidez en horarios de baja actividad, lo que podría ampliar el spread."
+   "size": 31320.99,
+   "price": 0.35,
+   "usd": 10962.35,
+   "ts": 1787163522,
+   "categoria": "Otros",
+   "prob": 68,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $10,962 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-hbs-sf-2026-08-19-sf",
+   "titulo_es": "¿Ganará el Sabah FK el 2026-08-19?",
+   "narrativa": "La compra de 10,962 USD en 'Yes' para que el Sabah FK gane el 2026-08-19 refleja una apuesta direccional con capital significativo, lo que sugiere convicción de un operador grande. Aunque no hay volumen de mercado reportado, el monto colocado en un evento de largo plazo puede capturar un edge si el consenso externo subestima la probabilidad del equipo local. Riesgo: mercado ilíquido y horizonte lejano, lo que amplía la volatilidad del precio."
   }
  ],
  "edges": [
-  {
-   "tipo": "edge",
-   "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
-   "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 8.0,
-   "consenso": 49.5,
-   "edge": 41.5,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "PredictIt",
-     "titulo": "New Hampshire",
-     "prob": 49.5,
-     "url": "https://www.predictit.org/markets/detail/8939",
-     "titulo_es": "Nuevo Hampshire"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Política",
-   "prob": 85,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 8.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 41.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket cotiza la probabilidad de que el demócrata gane por un margen del 3%-6% en solo 8.0 puntos, frente a un consenso externo de 49.5, lo que deja un edge de 41.5 puntos a favor de la compra del 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la estimación agregada de otras plataformas, ofreciendo una entrada asimétrica con un desvío significativo respecto a la referencia. El monto del trade se posiciona para capturar una corrección del mercado si el consenso se acerca a la realidad, aunque la magnitud del edge implica un escenario de alta convicción. Riesgo: posible iliquidez en el tramo fino del margen y eventos de última hora que alteren el resultado exacto."
-  },
   {
    "tipo": "edge",
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
@@ -138,8 +110,8 @@
   {
    "question": "San Diego Padres vs. New York Mets: O/U 8.5",
    "slug": "mlb-sd-nym-2026-08-19-total-8pt5",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.26,
+   "no": 0.74,
    "volumen": 99684.81490500002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -158,8 +130,8 @@
   {
    "question": "NATO downs another Russian drone by August 31?",
    "slug": "nato-downs-another-russian-drone-by-august-31-20260726215001931",
-   "yes": 0.86,
-   "no": 0.14,
+   "yes": 0.859,
+   "no": 0.141,
    "volumen": 99470.261851,
    "spread": 0.0,
    "categoria": "Otros",
@@ -178,8 +150,8 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.161,
-   "no": 0.839,
+   "yes": 0.17,
+   "no": 0.83,
    "volumen": 99190.08391900001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -198,8 +170,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0645,
-   "no": 0.9355,
+   "yes": 0.0695,
+   "no": 0.9305,
    "volumen": 99036.85304000005,
    "spread": 0.0,
    "categoria": "Política",
@@ -220,7 +192,7 @@
    "slug": "will-real-sociedad-win-the-2026-27-laliga-championship-20260701200737387",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98856.38271600001,
+   "volumen": 98856.38271600002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
@@ -230,7 +202,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294599999,
+   "volumen": 98831.56294600002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -343,5 +315,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 92.79
+ "db_size_mb": 92.91
 }
