@@ -1,6 +1,6 @@
 {
- "ts": 1787106982,
- "stamp": "20260819_023622",
+ "ts": 1787107342,
+ "stamp": "20260819_024222",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -11,15 +11,15 @@
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 9.0,
-   "consenso": 50.0,
-   "edge": 41.0,
+   "prob_poly": 8.5,
+   "consenso": 50.5,
+   "edge": 42.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "PredictIt",
      "titulo": "New Hampshire",
-     "prob": 50.0,
+     "prob": 50.5,
      "url": "https://www.predictit.org/markets/detail/8939",
      "titulo_es": "Nuevo Hampshire"
     }
@@ -30,24 +30,24 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 41.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 42.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "La probabilidad implícita de Polymarket es de solo 11.1% (paga 9.0), mientras que el consenso externo de PredictIt se sitúa en 50%, generando un edge de 41 puntos a favor de comprar el 'Sí'. Este diferencial extremo sugiere que el mercado de Polymarket aún no ha incorporado plenamente las métricas de consenso, ofreciendo una oportunidad de valor relativo con un monto de trade que puede escalarse según la liquidez disponible. Riesgo: el evento es a largo plazo (2026) y la liquidez en mercados de nicho puede ser limitada, lo que podría afectar la ejecución de salida."
+   "narrativa": "El mercado de Polymarket cotiza la probabilidad de una victoria demócrata por margen del 3%-6% en solo 8.5 puntos, frente a un consenso externo de 50.5, lo que genera un edge de 42 puntos a favor de la compra. Este diferencial extremo sugiere que el precio actual no refleja la distribución de resultados esperada por otras fuentes, ofreciendo una oportunidad de valor significativa. Riesgo: el evento es específico y de baja liquidez, lo que puede ampliar el spread y dificultar la salida."
   },
   {
    "tipo": "edge",
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 12.5,
-   "consenso": 50.0,
-   "edge": 37.5,
+   "prob_poly": 12.0,
+   "consenso": 50.5,
+   "edge": 38.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "PredictIt",
      "titulo": "New Hampshire",
-     "prob": 50.0,
+     "prob": 50.5,
      "url": "https://www.predictit.org/markets/detail/8939",
      "titulo_es": "Nuevo Hampshire"
     }
@@ -58,9 +58,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 12.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 37.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 12.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 38.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "Con un precio de 12.5% en Polymarket frente al 50.0% del consenso externo, el edge de 37.5 puntos indica que el mercado está valorando esta opción muy por debajo de las expectativas de PredictIt. Comprar 'Sí' a este nivel permite capturar una prima significativa si el resultado converge con la estimación externa, aunque la volatilidad política local podría alterar el escenario. Riesgo: el margen de victoria específico (9%-12%) es un rango estrecho que requiere un resultado electoral muy preciso."
+   "narrativa": "Con una cotización de 12.0 en Polymarket frente a un consenso externo de 50.5, el contrato para un margen republicano del 9%-12% presenta un edge de 38.5 puntos, indicando que el mercado está infravalorando esta posibilidad. La discrepancia con PredictIt sugiere que el precio no incorpora plenamente la probabilidad real, brindando un punto de entrada atractivo para quienes buscan capturar esa diferencia. Riesgo: la ventana de margen es estrecha y depende de un escenario electoral específico, lo que aumenta la varianza del resultado."
   }
  ],
  "top_volumen": [
@@ -257,8 +257,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0265,
-   "no": 0.9735,
+   "yes": 0.0225,
+   "no": 0.9775,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 81.75
+ "db_size_mb": 81.84
 }
