@@ -1,6 +1,6 @@
 {
- "ts": 1787128528,
- "stamp": "20260819_083528",
+ "ts": 1787128889,
+ "stamp": "20260819_084129",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -247,8 +247,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.222,
-   "no": 0.778,
+   "yes": 0.224,
+   "no": 0.776,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 86.0
+ "db_size_mb": 86.07
 }
