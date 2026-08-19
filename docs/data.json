@@ -1,6 +1,6 @@
 {
- "ts": 1787112624,
- "stamp": "20260819_041024",
+ "ts": 1787113044,
+ "stamp": "20260819_041724",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -24,6 +24,26 @@
    "url": "https://polymarket.com/market/israel-withdraws-from-lebanon-by-september-30-2026",
    "titulo_es": "¿Israel se retira del Líbano para el 30 de septiembre de 2026?",
    "narrativa": "La venta de 'No' en BALLENA capitaliza un consenso externo que descarta una retirada israelí total del Líbano en el plazo señalado, con un monto de $1,686 que refleja confianza en la continuidad del estatus quo. El edge proviene de la discrepancia entre el precio implícito del mercado y la probabilidad real de eventos geopolíticos complejos, que suelen extenderse más allá de fechas límite. Riesgo: baja liquidez en el mercado, lo que puede amplificar el deslizamiento al ejecutar la orden."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x03547f466f23b20416fedade63e2da804a0000000000000000000000000000",
+   "titulo": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana AND Will Málaga CF win on 2026-08-19?",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 2100.86976,
+   "price": 0.7139899996,
+   "usd": 1500.0,
+   "ts": 1787112679,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,500 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Cancún: Pablo Llamas Ruiz vs Francisco Comesaña Y ¿Ganará el Málaga CF el 19-08-2026?",
+   "narrativa": "La señal de compra en BALLENA se apoya en un monto asignado de 1,500 USD, lo que sugiere una convicción moderada en el evento de tenis en Cancún, donde el mercado aún no ha establecido un consenso claro (volumen nulo). El edge positivo proviene de la falta de información pública sobre el partido, permitiendo capturar valor antes de que el flujo de noticias ajuste las probabilidades. Riesgo: mercado con liquidez potencialmente baja y resultado binario de alta varianza."
   }
  ],
  "edges": [
@@ -337,11 +357,11 @@
   }
  ],
  "historico": {
-  "ts": 1787111068,
+  "ts": 1787112868,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 82.98
+ "db_size_mb": 82.99
 }
