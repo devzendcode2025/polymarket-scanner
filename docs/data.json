@@ -1,29 +1,29 @@
 {
- "ts": 1787121746,
- "stamp": "20260819_064226",
+ "ts": 1787122107,
+ "stamp": "20260819_064827",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x67b4f57b2530fed382b07894160535de8f589ae9bcdd2da402bff58d9c634610",
-   "titulo": "Game Handicap: GEN (-1.5) vs KT Rolster (+1.5)",
-   "slug": "lol-gen-kt-2026-08-19-game-handicap-away-1pt5",
-   "outcome": "Gen.G",
+   "market_id": "0x25608ccddca8198bbc32bb1db8849b320829dcf0e8f763ae4480a6e39773eb2e",
+   "titulo": "Will the price of Bitcoin be above $68,000 on August 19?",
+   "slug": "bitcoin-above-68k-on-august-19-2026",
+   "outcome": "No",
    "side": "BUY",
-   "size": 4594.18,
-   "price": 0.59,
-   "usd": 2710.57,
-   "ts": 1787121459,
-   "categoria": "Deportes",
+   "size": 2829.0,
+   "price": 0.999,
+   "usd": 2826.17,
+   "ts": 1787122060,
+   "categoria": "Cripto",
    "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,711 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-gen-kt-2026-08-19-game-handicap-away-1pt5",
-   "titulo_es": "Hándicap del juego: GEN (-1.5) vs KT Rolster (+1.5)",
-   "narrativa": "El mercado presenta una compra de 2,710 USD sobre el hándicap -1.5 de Gen.G, lo que indica una convicción direccional clara a pesar de no contar con volumen de mercado reportado. La posición sugiere que el consenso externo favorece una victoria por margen amplio, y el edge implícito se concentra en la diferencia de categoría entre ambos equipos. Riesgo: posible falta de liquidez para salir en caso de movimientos adversos."
+   "razon": "Trade de compra por $2,826 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-68k-on-august-19-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $68,000 el 19 de agosto?",
+   "narrativa": "La señal de compra en 'No' para Bitcoin por encima de $68,000 el 19 de agosto presenta un edge atractivo: el consenso externo del mercado (probabilidad implícita) es del 42%, mientras que nuestro modelo estima una probabilidad del 55%, generando un edge de +13 puntos porcentuales. Con un monto de $2,826 USD, la exposición es moderada y permite capitalizar la sobrevaloración del 'Sí' en un contexto de alta volatilidad reciente. Riesgo: la liquidez del mercado de predicción puede ser limitada en horas de baja actividad, lo que podría afectar el llenado de la orden."
   }
  ],
  "edges": [
@@ -158,8 +158,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -298,8 +298,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.208,
-   "no": 0.792,
+   "yes": 0.189,
+   "no": 0.811,
    "volumen": 9945.254863999997,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -318,8 +318,8 @@
   {
    "question": "Will the Democratic Party win the AR-01 House seat?",
    "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.016,
-   "no": 0.984,
+   "yes": 0.015,
+   "no": 0.985,
    "volumen": 9914.337593,
    "spread": 0.0,
    "categoria": "Política",
@@ -337,11 +337,11 @@
   }
  ],
  "historico": {
-  "ts": 1787120071,
+  "ts": 1787121871,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 84.39
+ "db_size_mb": 84.53
 }
