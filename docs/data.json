@@ -1,10 +1,51 @@
 {
- "ts": 1787109203,
- "stamp": "20260819_031323",
+ "ts": 1787109563,
+ "stamp": "20260819_031923",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x3e3f17577499b0ba14d7119c3db6e33717eda050f6a4c683fc4dd571e3747eff",
+   "titulo": "Spread: Los Angeles Dodgers (-2.5)",
+   "slug": "mlb-lad-col-2026-08-18-spread-away-2pt5",
+   "outcome": "Colorado Rockies",
+   "side": "BUY",
+   "size": 2805.97,
+   "price": 0.66,
+   "usd": 1851.94,
+   "ts": 1787109441,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,852 en 'Colorado Rockies'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-lad-col-2026-08-18-spread-away-2pt5",
+   "titulo_es": "Spread: Los Angeles Dodgers (-2.5)",
+   "narrativa": "La acumulación de 1,851.94 USD en una sola operación contra el spread de -2.5 de los Dodgers, apostando a los Rockies, sugiere que un operador grande percibe valor en el lado perdedor del consenso. Este monto, inusualmente alto para un mercado secundario, puede indicar información privilegiada o una corrección esperada en la línea, generando un edge potencial si el mercado sobreestima la ventaja local. Riesgo: el volumen de mercado no está reportado, lo que podría implicar liquidez limitada y movimientos bruscos."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x3e3f17577499b0ba14d7119c3db6e33717eda050f6a4c683fc4dd571e3747eff",
+   "titulo": "Spread: Los Angeles Dodgers (-2.5)",
+   "slug": "mlb-lad-col-2026-08-18-spread-away-2pt5",
+   "outcome": "Colorado Rockies",
+   "side": "BUY",
+   "size": 1675.13,
+   "price": 0.66,
+   "usd": 1105.59,
+   "ts": 1787109445,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,106 en 'Colorado Rockies'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-lad-col-2026-08-18-spread-away-2pt5",
+   "titulo_es": "Spread: Los Angeles Dodgers (-2.5)",
+   "narrativa": "Una segunda compra de 1,105.59 USD en el mismo mercado refuerza la tesis de que el dinero inteligente está apostando contra la narrativa pública de los Dodgers. La repetición de flujos en un corto período, con montos superiores a los típicos minoristas, sugiere una convicción institucional que podría explotar si el mercado ajusta su probabilidad implícita. El edge se basa en la divergencia entre el consenso externo y la acción de precio, aunque el desvío no se especifica. Riesgo: la falta de datos de volumen total dificulta evaluar la profundidad real del mercado."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -69,7 +110,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9971695.110318009,
+   "volumen": 9972275.110317998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -89,7 +130,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 993148.4585160003,
+   "volumen": 993148.4585160002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -129,16 +170,26 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299999,
+   "volumen": 99588.02526300003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
+   "question": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-fut-mgc-2026-08-19",
+   "yes": 0.655,
+   "no": 0.345,
+   "volumen": 99285.996847,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Counter-Strike: FUT Esports vs magic (BO3) - Playoffs de la Copa del Mundo de Esports"
+  },
+  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -185,16 +236,6 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
-   "question": "Will Londrina EC vs. AC Goianiense end in a draw?",
-   "slug": "bra2-lon-acg-2026-08-18-draw",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 98887.1654,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Terminarán en empate Londrina EC vs. AC Goianiense?"
-  },
-  {
    "question": "Israel x Iran ceasefire continues through October 31?",
    "slug": "israel-x-iran-ceasefire-continues-through-october-31",
    "yes": 0.745,
@@ -207,8 +248,8 @@
   {
    "question": "Will B8 Win the CS2 EWC 2026?",
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
-   "yes": 0.016,
-   "no": 0.984,
+   "yes": 0.0165,
+   "no": 0.9835,
    "volumen": 98627.215404,
    "spread": 0.0,
    "categoria": "Otros",
@@ -247,8 +288,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0225,
-   "no": 0.9775,
+   "yes": 0.0255,
+   "no": 0.9745,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -259,7 +300,7 @@
    "slug": "highest-temperature-in-seoul-on-august-19-2026-27c",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9988.082202000001,
+   "volumen": 9988.082202,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 27°C el 19 de agosto?"
@@ -273,16 +314,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
-   "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
-   "yes": 0.855,
-   "no": 0.145,
-   "volumen": 9985.785599,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -309,18 +340,28 @@
    "slug": "highest-temperature-in-dallas-on-august-18-2026-104-105f",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9963.274783,
+   "volumen": 9963.274782999999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Dallas entre 104-105°F el 18 de agosto?"
+  },
+  {
+   "question": "Will USD/JPY hit 165 (High) in 2026?",
+   "slug": "will-usdjpy-hit-165-high-in-2026",
+   "yes": 0.43,
+   "no": 0.57,
+   "volumen": 9952.114907,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
-  "ts": 1787107467,
+  "ts": 1787109267,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 82.28
+ "db_size_mb": 82.38
 }
