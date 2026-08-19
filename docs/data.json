@@ -1,88 +1,29 @@
 {
- "ts": 1787169520,
- "stamp": "20260819_195840",
+ "ts": 1787169940,
+ "stamp": "20260819_200540",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x19cab22f2476e17dc3da3c681e188214501dde84ddd424f2d16d46ad015292f7",
-   "titulo": "Will Sabah FK win on 2026-08-19?",
-   "slug": "ucl-hbs-sf-2026-08-19-sf",
-   "outcome": "No",
+   "market_id": "0xeb095a556268b5d8ef5dbf28782790d36e5cb351289fcc5e615461abfc42131a",
+   "titulo": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
+   "slug": "atp-fils-minaur-2026-08-19",
+   "outcome": "Alex de Minaur",
    "side": "BUY",
-   "size": 5670.71,
-   "price": 0.71,
-   "usd": 4026.2,
-   "ts": 1787169523,
-   "categoria": "Otros",
-   "prob": 58,
-   "confianza": "media",
+   "size": 24390.243901,
+   "price": 0.41,
+   "usd": 10000.0,
+   "ts": 1787169829,
+   "categoria": "Deportes",
+   "prob": 67,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $4,026 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ucl-hbs-sf-2026-08-19-sf",
-   "titulo_es": "¿Ganará el Sabah FK el 2026-08-19?",
-   "narrativa": "La compra masiva de 'No' en el mercado de Sabah FK sugiere que un operador de gran tamaño está posicionándose en contra de la victoria del equipo, probablemente basándose en información o análisis que el consenso público aún no ha descontado. Con una inversión de $4,026 USD, este movimiento busca capitalizar una posible corrección en las probabilidades implícitas, aunque la ausencia de datos de volumen de mercado limita la visibilidad sobre la profundidad de la liquidez. Riesgo: la falta de volumen podría amplificar el deslizamiento de precios si el mercado se mueve en contra de la posición."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x7f10208342b2d53e2f27640018a58173b23cbe15252445835a8e2b32d0d58e52",
-   "titulo": "Counter-Strike: 300FPS vs BANGARANGA (BO3) - CCT Europe Contenders #8 Playoffs",
-   "slug": "cs2-300fps-bangar-2026-08-19",
-   "outcome": "300FPS",
-   "side": "BUY",
-   "size": 4731.27,
-   "price": 0.3997632771,
-   "usd": 1891.39,
-   "ts": 1787169531,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,891 en '300FPS'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-300fps-bangar-2026-08-19",
-   "titulo_es": "Counter-Strike: 300FPS vs BANGARANGA (BO3) - CCT Europe Contenders #8 Playoffs",
-   "narrativa": "La apuesta de $1,891 USD a favor de 300FPS en un BO3 de la CCT Europe Contenders indica que el comprador ve una ventaja competitiva clara en el mapa o en el estado de forma del equipo, que no se refleja plenamente en la cuota actual. Este tipo de movimientos en esports suelen aprovechar discrepancias entre el rendimiento real del equipo y el precio de mercado, generando un edge positivo si el análisis es correcto. Riesgo: la volatilidad de un BO3 es alta y un solo mapa puede cambiar drásticamente el resultado final."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xc68ab4e00ec12073ef04c78e774698258aab6c6a378157c14c940d6a2c52aa72",
-   "titulo": "Will Ethereum reach $2,500 by December 31, 2026?",
-   "slug": "will-ethereum-reach-2500-by-december-31-2026-from-june-8",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 3000.0,
-   "price": 0.62,
-   "usd": 1860.0,
-   "ts": 1787169526,
-   "categoria": "Cripto",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,860 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-ethereum-reach-2500-by-december-31-2026-from-june-8",
-   "titulo_es": "¿Alcanzará Ethereum los $2,500 para el 31 de diciembre de 2026?",
-   "narrativa": "La compra de 'Yes' por $1,860 USD en el mercado de Ethereum a $2,500 para finales de 2026 refleja una convicción alcista a largo plazo, probablemente basada en fundamentos macro como la adopción institucional o el ciclo de reducción a la mitad. Este movimiento busca capturar un retorno asimétrico si el activo recupera su tendencia alcista, aprovechando que el precio objetivo está por debajo de los máximos históricos y el plazo es amplio. Riesgo: la alta incertidumbre regulatoria y la volatilidad del mercado cripto pueden extender el tiempo de espera más allá de lo esperado."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xa813d824c347c725eeb781fd0ad00d2f0fe5d3dc2438e408698876b2fe00c216",
-   "titulo": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
-   "slug": "lol-dk-hle1-2026-08-20",
-   "outcome": "Hanwha Life Esports",
-   "side": "BUY",
-   "size": 3350.0,
-   "price": 0.52,
-   "usd": 1742.0,
-   "ts": 1787169526,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,742 en 'Hanwha Life Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-dk-hle1-2026-08-20",
-   "titulo_es": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - Grupo Leyenda Ronda 3-4 de la LCK"
+   "razon": "Trade de compra por $10,000 en 'Alex de Minaur'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-fils-minaur-2026-08-19",
+   "titulo_es": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
+   "narrativa": "La compra de Alex de Minaur frente a Fils en el Cincinnati Open muestra un edge favorable del 8.2% sobre el consenso externo, con un monto de $10,000 que representa una posición significativa en un mercado de tenis con alta liquidez. El movimiento de la ballena sugiere que el mercado aún no ha ajustado completamente la probabilidad implícita, creando una ventana de valor antes del cierre. Riesgo: posible volatilidad por lesiones o condiciones climáticas que alteren el rendimiento esperado."
   }
  ],
  "edges": [
@@ -149,7 +90,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9911204.331830002,
+   "volumen": 9911247.810089005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -159,7 +100,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996716.5278490001,
+   "volumen": 996816.527849,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -169,7 +110,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995917.7417669999,
+   "volumen": 995917.7417670002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -195,14 +136,14 @@
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
   },
   {
-   "question": "Will Aurora Gaming Win the CS2 EWC 2026?",
-   "slug": "will-aurora-gaming-win-the-cs2-ewc-2026-20260810160005088",
-   "yes": 0.0235,
-   "no": 0.9765,
-   "volumen": 99980.767417,
+   "question": "Miami Marlins vs. Philadelphia Phillies: O/U 8.5",
+   "slug": "mlb-mia-phi-2026-08-19-total-8pt5",
+   "yes": 0.525,
+   "no": 0.475,
+   "volumen": 99941.04594800001,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Ganará Aurora Gaming el CS2 EWC 2026?"
+   "question_es": "Miami Marlins vs. Philadelphia Phillies: Más/Menos 8.5"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -317,8 +258,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.255,
-   "no": 0.745,
+   "yes": 0.297,
+   "no": 0.703,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -339,7 +280,7 @@
    "slug": "highest-temperature-in-helsinki-on-august-19-2026-20c",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9978.179976000001,
+   "volumen": 9978.179976000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Helsinki de 20°C el 19 de agosto?"
@@ -369,7 +310,7 @@
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 9952.114907000003,
+   "volumen": 9952.114906999997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
@@ -385,14 +326,14 @@
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   },
   {
-   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
-   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.027,
-   "no": 0.973,
-   "volumen": 9937.685226000001,
+   "question": "Will the highest temperature in London be 22°C on August 19?",
+   "slug": "highest-temperature-in-london-on-august-19-2026-22c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9941.399782999999,
    "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Londres de 22°C el 19 de agosto?"
   }
  ],
  "historico": {
@@ -402,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 94.29
+ "db_size_mb": 94.35
 }
