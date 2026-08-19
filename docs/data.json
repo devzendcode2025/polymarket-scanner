@@ -1,6 +1,6 @@
 {
- "ts": 1787143893,
- "stamp": "20260819_125133",
+ "ts": 1787144313,
+ "stamp": "20260819_125833",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -11,9 +11,9 @@
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 8.5,
+   "prob_poly": 9.0,
    "consenso": 50.5,
-   "edge": 42.0,
+   "edge": 41.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -30,9 +30,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 42.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 41.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket cotiza la probabilidad de una victoria demócrata por margen del 3%-6% en solo 8.5 puntos, frente a un consenso externo de 50.5, lo que genera un edge de 42 puntos a favor de la compra. Este diferencial extremo sugiere que el precio actual no refleja la distribución de resultados esperada por otras fuentes, ofreciendo una oportunidad de valor significativa. Riesgo: el evento es específico y de baja liquidez, lo que puede ampliar el spread y dificultar la salida."
+   "narrativa": "El mercado de Polymarket valora esta opción en solo 9.0, mientras que el consenso externo de PredictIt la sitúa en 50.5, generando un edge de 41.5 puntos a favor de comprar el 'Sí'. Esta discrepancia es amplia y sugiere que el precio actual no refleja la probabilidad real según fuentes alternativas, ofreciendo un margen de valor significativo para el operador. Riesgo: la liquidez en este mercado puede ser limitada, lo que podría afectar la ejecución de la orden."
   },
   {
    "tipo": "edge",
@@ -167,8 +167,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -227,8 +227,8 @@
   {
    "question": "Iran-Oman Hormuz Agreement by August 22?",
    "slug": "iran-oman-hormuz-agreement-by-august-22",
-   "yes": 0.08,
-   "no": 0.92,
+   "yes": 0.085,
+   "no": 0.915,
    "volumen": 98238.77033700002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -247,8 +247,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2605,
-   "no": 0.7395,
+   "yes": 0.26,
+   "no": 0.74,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 88.45
+ "db_size_mb": 88.57
 }
