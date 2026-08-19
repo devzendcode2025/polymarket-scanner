@@ -1,10 +1,31 @@
 {
- "ts": 1787107342,
- "stamp": "20260819_024222",
+ "ts": 1787107702,
+ "stamp": "20260819_024822",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x580c90b353893b87a5b4ccb261740ddb41cd2cdac92eb4a35c7ef7e237919277",
+   "titulo": "Bitcoin Up or Down - August 18, 10:45PM-10:50PM ET",
+   "slug": "btc-updown-5m-1787107500",
+   "outcome": "Up",
+   "side": "BUY",
+   "size": 2256.971406,
+   "price": 0.6646074443,
+   "usd": 1500.0,
+   "ts": 1787107638,
+   "categoria": "Cripto",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,500 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1787107500",
+   "titulo_es": "Bitcoin Sube o Baja - 18 de agosto, 10:45PM-10:50PM ET",
+   "narrativa": "La señal de compra en 'Bitcoin Sube o Baja' para el evento del 18 de agosto a las 10:45PM ET muestra una posición de $1,500 USD en el resultado 'Up', lo que indica una apuesta direccional clara ante un posible movimiento alcista de corto plazo. Aunque no se especifica el volumen de mercado, el monto comprometido sugiere convicción en la dirección, y el edge se basa en la ventana de 5 minutos donde la volatilidad suele ser más predecible. Riesgo: ventana de tiempo muy corta y posible falta de liquidez en el mercado de opciones binarias."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -257,8 +278,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0225,
-   "no": 0.9775,
+   "yes": 0.023,
+   "no": 0.977,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -287,8 +308,8 @@
   {
    "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
-   "yes": 0.83,
-   "no": 0.17,
+   "yes": 0.835,
+   "no": 0.165,
    "volumen": 9985.785598999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -316,11 +337,11 @@
   }
  ],
  "historico": {
-  "ts": 1787105666,
+  "ts": 1787107467,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 81.84
+ "db_size_mb": 81.96
 }
