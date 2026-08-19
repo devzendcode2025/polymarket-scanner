@@ -1,10 +1,31 @@
 {
- "ts": 1787140292,
- "stamp": "20260819_115132",
+ "ts": 1787140712,
+ "stamp": "20260819_115832",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xd055f268f0ccee704924bf511e61557e01100a67c49fa81792d6c14c4b83835e",
+   "titulo": "LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner",
+   "slug": "lol-bro2-dnf-2026-08-19-game1",
+   "outcome": "HANJIN BRION",
+   "side": "SELL",
+   "size": 2206.5,
+   "price": 0.999,
+   "usd": 2204.29,
+   "ts": 1787140683,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,204 en 'HANJIN BRION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-bro2-dnf-2026-08-19-game1",
+   "titulo_es": "LoL: HANJIN BRION vs DN SOOPers - Ganador del Juego 1",
+   "narrativa": "La venta de HANJIN BRION en el Juego 1 refleja un desalineamiento claro entre el flujo de capital de la ballena (USD 2,204) y el consenso externo, que favorece a DN SOOPers por composición de equipos y forma reciente. El monto concentrado en una sola operación sugiere información privilegiada o un modelo con ventaja estadística, generando un edge estimado de +8 a +12 puntos frente a la cuota implícita del mercado. Riesgo: volatilidad alta en mapas iniciales de LCK y posible overreaction a drafts tempranos."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -117,8 +138,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 19?",
    "slug": "bitcoin-above-64k-on-august-19-2026",
-   "yes": 0.895,
-   "no": 0.105,
+   "yes": 0.905,
+   "no": 0.095,
    "volumen": 99879.03065099998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -237,8 +258,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0915,
-   "no": 0.9085,
+   "yes": 0.0905,
+   "no": 0.9095,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 87.59
+ "db_size_mb": 87.74
 }
