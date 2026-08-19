@@ -1,10 +1,51 @@
 {
- "ts": 1787109983,
- "stamp": "20260819_032623",
+ "ts": 1787110343,
+ "stamp": "20260819_033223",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x70de0744c8c2d7d31fab0f2d75b44e7d7577807cbff2e39b02ab547c68d81b45",
+   "titulo": "Chicago White Sox vs. Chicago Cubs",
+   "slug": "mlb-cws-chc-2026-08-18",
+   "outcome": "Chicago Cubs",
+   "side": "BUY",
+   "size": 9679.85,
+   "price": 0.63,
+   "usd": 6098.31,
+   "ts": 1787110036,
+   "categoria": "Otros",
+   "prob": 61,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $6,098 en 'Chicago Cubs'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-cws-chc-2026-08-18",
+   "titulo_es": "Chicago White Sox vs. Chicago Cubs",
+   "narrativa": "La compra de 6,098 USD en los Cubs refleja una apuesta significativa que, frente a un volumen de mercado no reportado, sugiere que el operador detectó un desajuste de precios entre los equipos. Este monto, al ser inusualmente alto para un partido individual, indica una convicción fuerte en la ventaja de Chicago Cubs, posiblemente basada en datos de pitcheo o alineación que el mercado aún no ha descontado por completo. Riesgo: la ausencia de volumen de mercado limita la confirmación de la señal y puede amplificar el impacto de noticias de última hora."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x303658c00317867d8206adeed79933fa70ed41854f6ec30de104c8c6babfcf2c",
+   "titulo": "Will Chuck Gray be the WY-AL Republican nominee?",
+   "slug": "will-chuck-gray-be-the-wy-al-republican-nominee-20260723165335297",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1152.8901,
+   "price": 0.9895652665,
+   "usd": 1140.86,
+   "ts": 1787110038,
+   "categoria": "Política",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,141 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-chuck-gray-be-the-wy-al-republican-nominee-20260723165335297",
+   "titulo_es": "¿Será Chuck Gray el nominado republicano de WY-AL?",
+   "narrativa": "La inversión de 1,140 USD en 'Yes' para Chuck Gray representa un movimiento direccional claro en una primaria con baja liquidez, donde las encuestas externas suelen tener un margen de error amplio. El monto, aunque moderado, es proporcional a un mercado de nicho, y la compra sugiere que el operador está aprovechando un consenso externo que favorece al candidato, pero que aún no se refleja en el precio de la acción. Riesgo: la volatilidad política y el bajo volumen de negociación pueden generar saltos de precio bruscos y dificultar la salida de la posición."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -247,8 +288,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.027,
-   "no": 0.973,
+   "yes": 0.0255,
+   "no": 0.9745,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 82.44
+ "db_size_mb": 82.5
 }
