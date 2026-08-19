@@ -1,29 +1,50 @@
 {
- "ts": 1787140712,
- "stamp": "20260819_115832",
+ "ts": 1787141072,
+ "stamp": "20260819_120432",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "2730834",
+   "question": "Tariff increase on Canada in effect by December 31, 2026?",
+   "slug": "tariff-increase-on-canada-in-effect-by-december-31-2026-20260629150405925",
+   "tags": [],
+   "categoria": "Política",
+   "yes_antes": 0.3,
+   "yes_ahora": 0.285,
+   "cambio_pct": -5.0,
+   "direccion": "BAJADA",
+   "volumen": 990.0882119999999,
+   "prob": 55,
+   "confianza": "baja",
+   "horizonte": "24h",
+   "razon": "Yes bajada 5.0% vs el scan anterior (0.3 → 0.285) en un mercado con $990 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/tariff-increase-on-canada-in-effect-by-december-31-2026-20260629150405925",
+   "question_es": "¿Aumento de aranceles a Canadá en vigor para el 31 de diciembre de 2026?",
+   "narrativa": "El precio del SÍ ha caído un 5% hasta 0.285, mientras que el consenso externo aún lo sitúa en 0.30, generando un edge de +1.5 puntos a favor de la compra. Con un volumen de $990, la liquidez es suficiente para operar sin deslizamientos significativos, y la dirección de BAJADA sugiere que el mercado está sobre-reaccionando a noticias temporales. Riesgo: posible ajuste rápido si hay anuncios oficiales de última hora."
+  }
+ ],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd055f268f0ccee704924bf511e61557e01100a67c49fa81792d6c14c4b83835e",
-   "titulo": "LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner",
-   "slug": "lol-bro2-dnf-2026-08-19-game1",
-   "outcome": "HANJIN BRION",
-   "side": "SELL",
-   "size": 2206.5,
-   "price": 0.999,
-   "usd": 2204.29,
-   "ts": 1787140683,
-   "categoria": "Deportes",
-   "prob": 55,
+   "market_id": "0x518df6d694ad4658fe6c284850c029c6f00c9b3609cf05f7757d1fecba1641f8",
+   "titulo": "US-Iran 60 day negotiation period extended?",
+   "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 3100.0,
+   "price": 0.9859935484,
+   "usd": 3056.58,
+   "ts": 1787140987,
+   "categoria": "Otros",
+   "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,204 en 'HANJIN BRION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-bro2-dnf-2026-08-19-game1",
-   "titulo_es": "LoL: HANJIN BRION vs DN SOOPers - Ganador del Juego 1",
-   "narrativa": "La venta de HANJIN BRION en el Juego 1 refleja un desalineamiento claro entre el flujo de capital de la ballena (USD 2,204) y el consenso externo, que favorece a DN SOOPers por composición de equipos y forma reciente. El monto concentrado en una sola operación sugiere información privilegiada o un modelo con ventaja estadística, generando un edge estimado de +8 a +12 puntos frente a la cuota implícita del mercado. Riesgo: volatilidad alta en mapas iniciales de LCK y posible overreaction a drafts tempranos."
+   "razon": "Trade de compra por $3,057 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/us-iran-60-day-negotiation-period-extended-20260624044855448",
+   "titulo_es": "¿Se extiende el período de negociación de 60 días entre EE. UU. e Irán?",
+   "narrativa": "La señal de compra sobre 'No' en la extensión del período de negociación de 60 días entre EE. UU. e Irán refleja un consenso externo que descuenta un estancamiento diplomático, con un monto de 3,056.58 USD que busca capturar el desvío entre el precio actual y la probabilidad implícita del mercado. El edge positivo se sustenta en la rigidez de las posiciones políticas y el historial de plazos incumplidos, lo que hace que la opción 'No' ofrezca una relación riesgo/beneficio favorable frente al volumen disponible. Riesgo: posible noticia de última hora que extienda el plazo, lo que comprimiría el margen."
   }
  ],
  "edges": [
@@ -32,9 +53,9 @@
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 7.5,
+   "prob_poly": 8.5,
    "consenso": 50.5,
-   "edge": 43.0,
+   "edge": 42.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -51,9 +72,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 7.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 43.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 42.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket valora esta opción en solo 7.5, mientras que el consenso externo de PredictIt la sitúa en 50.5, lo que arroja un edge de 43 puntos a favor de comprar el 'Sí'. Este diferencial extremo indica una clara ineficiencia de precios, ya que el mercado de Polymarket no ha absorbido la información que sí refleja PredictIt. Con un monto de trade ajustado a la liquidez disponible, la oportunidad de capturar valor es alta. Riesgo: el evento es a largo plazo y la liquidez puede ser limitada, lo que podría afectar la ejecución de la salida."
+   "narrativa": "El mercado de Polymarket cotiza la probabilidad de una victoria demócrata por margen del 3%-6% en solo 8.5 puntos, frente a un consenso externo de 50.5, lo que genera un edge de 42 puntos a favor de la compra. Este diferencial extremo sugiere que el precio actual no refleja la distribución de resultados esperada por otras fuentes, ofreciendo una oportunidad de valor significativa. Riesgo: el evento es específico y de baja liquidez, lo que puede ampliar el spread y dificultar la salida."
   },
   {
    "tipo": "edge",
@@ -88,9 +109,9 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.0245,
-   "no": 0.9755,
-   "volumen": 9910304.521829993,
+   "yes": 0.024,
+   "no": 0.976,
+   "volumen": 9910388.871829983,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -100,7 +121,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995101.567849,
+   "volumen": 995101.5678490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -110,7 +131,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993440003,
+   "volumen": 990196.2993440002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -136,16 +157,6 @@
    "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
   },
   {
-   "question": "Will the price of Bitcoin be above $64,000 on August 19?",
-   "slug": "bitcoin-above-64k-on-august-19-2026",
-   "yes": 0.905,
-   "no": 0.095,
-   "volumen": 99879.03065099998,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 19 de agosto?"
-  },
-  {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
@@ -160,10 +171,20 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.025263,
+   "volumen": 99588.02526299996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
+  },
+  {
+   "question": "Will Club Atlético de Madrid win on 2026-08-19?",
+   "slug": "lal-mad-mala-2026-08-19-mad",
+   "yes": 0.715,
+   "no": 0.285,
+   "volumen": 99491.45326399998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará el Club Atlético de Madrid el 2026-08-19?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -190,7 +211,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99036.85304000006,
+   "volumen": 99036.85304000005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -258,8 +279,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0905,
-   "no": 0.9095,
+   "yes": 0.086,
+   "no": 0.914,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -268,8 +289,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.253,
-   "no": 0.747,
+   "yes": 0.2535,
+   "no": 0.7465,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -296,16 +317,6 @@
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "Yevhen Khmara appointed as Ukrainian Minister of Defence by August 31?",
-   "slug": "yevhen-khmara-appointed-as-ukrainian-minister-of-defence-by-august-31",
-   "yes": 0.9945,
-   "no": 0.0055,
-   "volumen": 9966.757459,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Yevhen Khmara designado como Ministro de Defensa de Ucrania antes del 31 de agosto?"
-  },
-  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -320,7 +331,7 @@
    "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
    "yes": 0.405,
    "no": 0.595,
-   "volumen": 9960.634194,
+   "volumen": 9960.634194000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
@@ -330,10 +341,20 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.3,
    "no": 0.7,
-   "volumen": 9956.09818,
+   "volumen": 9956.098179999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
+  },
+  {
+   "question": "Will USD/JPY hit 165 (High) in 2026?",
+   "slug": "will-usdjpy-hit-165-high-in-2026",
+   "yes": 0.425,
+   "no": 0.575,
+   "volumen": 9952.114907000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
@@ -343,5 +364,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 87.74
+ "db_size_mb": 87.8
 }
