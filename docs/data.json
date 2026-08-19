@@ -1,49 +1,126 @@
 {
- "ts": 1787156616,
- "stamp": "20260819_162336",
+ "ts": 1787157037,
+ "stamp": "20260819_163037",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3776ac667a62530221736f28d8ade9c5aa98df42b8f55fc5dd2a509ee63d8a5d",
-   "titulo": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet",
-   "slug": "atp-almeida-tarvet-2026-08-19",
-   "outcome": "Oliver Tarvet",
+   "market_id": "0x8354996f412fb98c6338f20efcc29c469a08dca04e4aad345da1160bf8e516c9",
+   "titulo": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-g2-ast10-2026-08-19",
+   "outcome": "G2",
    "side": "BUY",
-   "size": 3427.08,
-   "price": 0.96,
-   "usd": 3290.0,
-   "ts": 1787156617,
-   "categoria": "Otros",
+   "size": 3333.0,
+   "price": 0.83,
+   "usd": 2766.39,
+   "ts": 1787156911,
+   "categoria": "Deportes",
    "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,290 en 'Oliver Tarvet'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-almeida-tarvet-2026-08-19",
-   "titulo_es": "Roehampton: Matheus Pucinelli de Almeida contra Oliver Tarvet",
-   "narrativa": "La compra de Oliver Tarvet refleja una apuesta clara por la continuidad de su momento frente a un rival con menos rodaje en pista dura; el monto de $3,290 sugiere convicción institucional, aunque el mercado no muestra volumen de referencia para calibrar el consenso externo. El edge se basa en la diferencia de nivel competitivo y frescura física, pero la falta de datos de liquidez obliga a operar con cautela. Riesgo: posible ajuste de precios por baja profundidad en el libro de órdenes."
+   "razon": "Trade de compra por $2,766 en 'G2'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-g2-ast10-2026-08-19",
+   "titulo_es": "Counter-Strike: G2 vs Astralis (BO3) - Copa del Mundo de Esports, Playoffs",
+   "narrativa": "La acumulación de tres señales idénticas de compra en G2, por un total de 8,299 USD, sugiere una estrategia de escalado que busca aprovechar un desajuste entre el precio de mercado y la probabilidad implícita real. Este flujo de capital, aunque moderado, es significativo para el volumen del mercado de CS2 y puede anticipar un movimiento de cierre en la cuota de G2. Riesgo: posible manipulación de mercado en eventos de baja capitalización."
   },
   {
    "tipo": "ballena",
-   "market_id": "0x60ec7dc1f9223fc56c8465583a5da658e029ab854fa0b587a8c5fec0ac4d5c70",
-   "titulo": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
-   "slug": "atp-jodar-cobolli-2026-08-19",
-   "outcome": "Rafael Jodar",
+   "market_id": "0x8354996f412fb98c6338f20efcc29c469a08dca04e4aad345da1160bf8e516c9",
+   "titulo": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-g2-ast10-2026-08-19",
+   "outcome": "G2",
    "side": "BUY",
-   "size": 2808.988763,
-   "price": 0.89,
-   "usd": 2500.0,
-   "ts": 1787156622,
+   "size": 3333.0,
+   "price": 0.83,
+   "usd": 2766.39,
+   "ts": 1787156911,
    "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,766 en 'G2'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-g2-ast10-2026-08-19",
+   "titulo_es": "Counter-Strike: G2 vs Astralis (BO3) - Copa del Mundo de Esports, Playoffs",
+   "narrativa": "La acumulación de tres señales idénticas de compra en G2, por un total de 8,299 USD, sugiere una estrategia de escalado que busca aprovechar un desajuste entre el precio de mercado y la probabilidad implícita real. Este flujo de capital, aunque moderado, es significativo para el volumen del mercado de CS2 y puede anticipar un movimiento de cierre en la cuota de G2. Riesgo: posible manipulación de mercado en eventos de baja capitalización."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x8354996f412fb98c6338f20efcc29c469a08dca04e4aad345da1160bf8e516c9",
+   "titulo": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-g2-ast10-2026-08-19",
+   "outcome": "G2",
+   "side": "BUY",
+   "size": 3333.0,
+   "price": 0.83,
+   "usd": 2766.39,
+   "ts": 1787156910,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,766 en 'G2'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-g2-ast10-2026-08-19",
+   "titulo_es": "Counter-Strike: G2 vs Astralis (BO3) - Copa del Mundo de Esports, Playoffs",
+   "narrativa": "La acumulación de tres señales idénticas de compra en G2, por un total de 8,299 USD, sugiere una estrategia de escalado que busca aprovechar un desajuste entre el precio de mercado y la probabilidad implícita real. Este flujo de capital, aunque moderado, es significativo para el volumen del mercado de CS2 y puede anticipar un movimiento de cierre en la cuota de G2. Riesgo: posible manipulación de mercado en eventos de baja capitalización."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x82c69fb99574ceeb79b1f467ea7dcce7143b8e5c590d76ad77d72c708efb8e41",
+   "titulo": "Bitcoin Up or Down - August 19, 12:25PM-12:30PM ET",
+   "slug": "btc-updown-5m-1787156700",
+   "outcome": "Up",
+   "side": "SELL",
+   "size": 2208.38,
+   "price": 0.99,
+   "usd": 2186.3,
+   "ts": 1787156910,
+   "categoria": "Cripto",
    "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,500 en 'Rafael Jodar'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-jodar-cobolli-2026-08-19",
-   "titulo_es": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
-   "narrativa": "La compra de Rafael Jodar por $2,500 apunta a explotar la posible ventaja de juventud y agresividad ante un Cobolli que viene de cargas físicas en torneos previos; el consenso externo favorece al favorito, pero el precio de Jodar ofrece un desvío atractivo si el partido se alarga. El edge numérico no se puede precisar sin el volumen de mercado, pero el monto sugiere una posición calculada para un underdog con upside. Riesgo: la experiencia de Cobolli en ATP puede neutralizar la táctica de Jodar."
+   "razon": "Trade de venta por $2,186 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1787156700",
+   "titulo_es": "Bitcoin sube o baja - 19 de agosto, 12:25PM-12:30PM ET"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x96c00c68e929a6f0d1f9862298d43711f795b3a63c26b0fb3fdcbf08814d69b0",
+   "titulo": "Ethereum Up or Down on August 20?",
+   "slug": "ethereum-up-or-down-on-august-20-2026",
+   "outcome": "Down",
+   "side": "BUY",
+   "size": 4316.0,
+   "price": 0.42,
+   "usd": 1812.72,
+   "ts": 1787156922,
+   "categoria": "Cripto",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,813 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ethereum-up-or-down-on-august-20-2026",
+   "titulo_es": "¿Ethereum sube o baja el 20 de agosto?"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x8354996f412fb98c6338f20efcc29c469a08dca04e4aad345da1160bf8e516c9",
+   "titulo": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-g2-ast10-2026-08-19",
+   "outcome": "G2",
+   "side": "BUY",
+   "size": 1686.746986,
+   "price": 0.8299999998,
+   "usd": 1400.0,
+   "ts": 1787156920,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,400 en 'G2'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-g2-ast10-2026-08-19",
+   "titulo_es": "Counter-Strike: G2 vs Astralis (BO3) - Copa del Mundo de Esports, Playoffs"
   }
  ],
  "edges": [
@@ -108,9 +185,9 @@
   {
    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
    "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-   "yes": 0.0135,
-   "no": 0.9865,
-   "volumen": 9954171.640855007,
+   "yes": 0.0145,
+   "no": 0.9855,
+   "volumen": 9956079.906568008,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Reducirá la Fed las tasas de interés en 25 puntos básicos después de la reunión de septiembre de 2026?"
@@ -120,7 +197,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9910440.051829992,
+   "volumen": 9910440.051829997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -130,7 +207,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995401.5678489998,
+   "volumen": 995401.5678490002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -140,7 +217,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993440002,
+   "volumen": 990196.2993439998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -160,10 +237,20 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.018,
    "no": 0.982,
-   "volumen": 99821.39061399997,
+   "volumen": 99821.39061399999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
+  },
+  {
+   "question": "LoL: UCAM Esports Club vs Team Heretics Academy - Game 1 Winner",
+   "slug": "lol-ucam1-hrts-2026-08-19-game1",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99804.70203100004,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: UCAM Esports Club vs Team Heretics Academy - Ganador del Juego 1"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -174,16 +261,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
-  },
-  {
-   "question": "LoL: UCAM Esports Club vs Team Heretics Academy - Game 1 Winner",
-   "slug": "lol-ucam1-hrts-2026-08-19-game1",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99721.74203100005,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: UCAM Esports Club vs Team Heretics Academy - Ganador del Juego 1"
   },
   {
    "question": "Will MicroStrategy be margin called in 2026?",
@@ -200,7 +277,7 @@
    "slug": "will-fut-esports-win-the-cs2-ewc-2026-20260810160005091",
    "yes": 0.022,
    "no": 0.978,
-   "volumen": 99492.13661299998,
+   "volumen": 99567.256613,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará FUT Esports el CS2 EWC 2026?"
@@ -258,9 +335,9 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.1505,
-   "no": 0.8495,
-   "volumen": 98829.113919,
+   "yes": 0.148,
+   "no": 0.852,
+   "volumen": 98829.11391900001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará MOUZ el CS2 EWC 2026?"
@@ -270,7 +347,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.572946,
+   "volumen": 98743.57294600001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -290,7 +367,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 98349.53663100002,
+   "volumen": 98349.53663100001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -300,7 +377,7 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 9998.648180000002,
+   "volumen": 9998.648179999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -308,9 +385,9 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.078,
-   "no": 0.922,
-   "volumen": 9991.036522,
+   "yes": 0.0675,
+   "no": 0.9325,
+   "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -318,8 +395,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2415,
-   "no": 0.7585,
+   "yes": 0.2425,
+   "no": 0.7575,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -336,16 +413,6 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
-   "question": "ITF M25 Lesa Men: Maxime Janvier vs Daniele Rapagnetta",
-   "slug": "itf-janvier-rapagne-2026-08-19",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9979.503445999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "ITF M25 Lesa Hombres: Maxime Janvier vs Daniele Rapagnetta"
-  },
-  {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
    "yes": 0.0315,
@@ -354,6 +421,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   }
  ],
  "historico": {
@@ -363,5 +440,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 91.4
+ "db_size_mb": 91.48
 }
