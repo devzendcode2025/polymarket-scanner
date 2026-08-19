@@ -1,31 +1,10 @@
 {
- "ts": 1787148634,
- "stamp": "20260819_141034",
+ "ts": 1787149054,
+ "stamp": "20260819_141734",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xbb11b4e7e02ffcd7656be2667215b0301b9a7592d0de6af3bdafb285eea5e9da",
-   "titulo": "Sion: Mika Brunold vs Calvin Hemery",
-   "slug": "atp-brunold-hemery-2026-08-19",
-   "outcome": "Calvin Hemery",
-   "side": "BUY",
-   "size": 8000.0,
-   "price": 0.45,
-   "usd": 3600.0,
-   "ts": 1787148489,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,600 en 'Calvin Hemery'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-brunold-hemery-2026-08-19",
-   "titulo_es": "Sion: Mika Brunold contra Calvin Hemery",
-   "narrativa": "La compra de $3,600 en 'Calvin Hemery' contra Mika Brunold en Sion representa una apuesta clara a favor del jugador con mayor experiencia en superficie rápida, donde el mercado suele infravalorar el historial de partidos en pista cubierta. El monto concentrado en un solo desenlace sugiere que el operador detectó una discrepancia entre el precio implícito y las probabilidades reales, con un edge estimado de 5-7 puntos si comparamos con el consenso de casas de apuestas tradicionales. Riesgo: el volumen de mercado es bajo, lo que puede amplificar la volatilidad del precio en momentos de poca liquidez."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -178,8 +157,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -198,8 +177,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0675,
-   "no": 0.9325,
+   "yes": 0.067,
+   "no": 0.933,
    "volumen": 99036.85304000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -268,8 +247,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.24,
-   "no": 0.76,
+   "yes": 0.2595,
+   "no": 0.7405,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -288,8 +267,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 21?",
    "slug": "bitcoin-above-64k-on-august-21-2026",
-   "yes": 0.825,
-   "no": 0.175,
+   "yes": 0.855,
+   "no": 0.145,
    "volumen": 9985.495234999999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -298,8 +277,8 @@
   {
    "question": "LoL: Team WE vs EDward Gaming - Game 2 Winner",
    "slug": "lol-we-edg-2026-08-19-game2",
-   "yes": 0.665,
-   "no": 0.335,
+   "yes": 0.655,
+   "no": 0.345,
    "volumen": 9978.890412999997,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -337,11 +316,11 @@
   }
  ],
  "historico": {
-  "ts": 1787147213,
+  "ts": 1787149074,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 89.55
+ "db_size_mb": 89.61
 }
