@@ -1,6 +1,6 @@
 {
- "ts": 1787113824,
- "stamp": "20260819_043024",
+ "ts": 1787114244,
+ "stamp": "20260819_043724",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -67,22 +67,22 @@
   },
   {
    "tipo": "ballena",
-   "market_id": "0x03547f466f23b20416fedade63e2da804a0000000000000000000000000000",
-   "titulo": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana AND Will Málaga CF win on 2026-08-19?",
+   "market_id": "0x03d225f46b1f3b0db288b0fdd9bf1d8ce40000000000000000000000000000",
+   "titulo": "Will FC Barcelona win on 2026-08-19? AND Will Málaga CF win on 2026-08-19?",
    "slug": "",
    "outcome": "",
    "side": "BUY",
-   "size": 2100.86976,
-   "price": 0.7139899996,
-   "usd": 1500.0,
-   "ts": 1787112679,
-   "categoria": "Otros",
+   "size": 1789.722765,
+   "price": 0.8310999994,
+   "usd": 1487.44,
+   "ts": 1787113878,
+   "categoria": "Deportes",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,500 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $1,487 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "",
-   "titulo_es": "Cancún: Pablo Llamas Ruiz vs Francisco Comesaña Y ¿Ganará el Málaga CF el 19-08-2026?"
+   "titulo_es": "¿Ganará el FC Barcelona el 2026-08-19? Y ¿Ganará el Málaga CF el 2026-08-19?"
   },
   {
    "tipo": "ballena",
@@ -102,6 +102,44 @@
    "razon": "Trade de compra por $1,479 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "",
    "titulo_es": "Cancún: Pablo Llamas Ruiz vs Francisco Comesaña Y ¿Ganará el Málaga CF el 19-08-2026?"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x0363c501b1f6b680af74d532ddcf9c4e0c0000000000000000000000000000",
+   "titulo": "Toronto Tempo vs. Washington Mystics AND Minnesota Lynx vs. Golden State Valkyries AND 1st 5 Innings Spread: St. Louis Cardinals (-1.5) AND Toronto Blue Jays vs. Tampa Bay Rays",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 4376.730887,
+   "price": 0.305136531,
+   "usd": 1335.5,
+   "ts": 1787113680,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,336 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Toronto Tempo vs. Washington Mystics Y Minnesota Lynx vs. Golden State Valkyries Y Spread de las primeras 5 entradas: St. Louis Cardinals (-1.5) Y Toronto Blue Jays vs. Tampa Bay Rays"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x037bd23974fecefc9ebd52df59cc89fb0e0000000000000000000000000000",
+   "titulo": "Cancun: Henrique Rocha vs Seong-Chan Hong AND Cancun: Pablo Llamas Ruiz vs Francisco Comesana",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 1219.065298,
+   "price": 0.8977405442,
+   "usd": 1094.4,
+   "ts": 1787113845,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,094 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Cancún: Henrique Rocha vs Seong-Chan Hong Y Cancún: Pablo Llamas Ruiz vs Francisco Comesaña"
   }
  ],
  "edges": [
@@ -421,5 +459,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 83.04
+ "db_size_mb": 83.07
 }
