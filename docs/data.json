@@ -1,49 +1,29 @@
 {
- "ts": 1787121386,
- "stamp": "20260819_063626",
+ "ts": 1787121746,
+ "stamp": "20260819_064226",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
-   "titulo": "US announces end of Iranian blockade by August 31, 2026?",
-   "slug": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
-   "outcome": "No",
+   "market_id": "0x67b4f57b2530fed382b07894160535de8f589ae9bcdd2da402bff58d9c634610",
+   "titulo": "Game Handicap: GEN (-1.5) vs KT Rolster (+1.5)",
+   "slug": "lol-gen-kt-2026-08-19-game-handicap-away-1pt5",
+   "outcome": "Gen.G",
    "side": "BUY",
-   "size": 2584.22,
-   "price": 0.93,
-   "usd": 2403.32,
-   "ts": 1787121159,
-   "categoria": "Otros",
-   "prob": 55,
+   "size": 4594.18,
+   "price": 0.59,
+   "usd": 2710.57,
+   "ts": 1787121459,
+   "categoria": "Deportes",
+   "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,403 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
-   "titulo_es": "¿EE. UU. anuncia el fin del bloqueo iraní antes del 31 de agosto de 2026?",
-   "narrativa": "La compra de 'No' a 2403 USD refleja una fuerte convicción de que el bloqueo iraní persistirá más allá de agosto de 2026, un escenario que los mercados geopolíticos suelen descontar con lentitud. El tamaño de la posición, sin volumen de mercado reportado, sugiere que el operador identifica un edge por desalineación entre el precio implícito y la probabilidad real de un cambio de política en ese plazo. Riesgo: liquidez potencialmente baja, lo que puede amplificar el impacto de noticias de última hora."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xcc1e4cc31f436ec0a7a3caab75c0842fd7a112e05bbbec38a63e07f91c25ebfb",
-   "titulo": "Will the highest temperature in Cape Town be 23°C or higher on August 19?",
-   "slug": "highest-temperature-in-cape-town-on-august-19-2026-23corhigher",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1232.88,
-   "price": 0.997,
-   "usd": 1229.18,
-   "ts": 1787121156,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,229 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/highest-temperature-in-cape-town-on-august-19-2026-23corhigher",
-   "titulo_es": "¿Será la temperatura máxima en Ciudad del Cabo de 23°C o más el 19 de agosto?",
-   "narrativa": "La apuesta de 1229 USD contra los 23°C o más en Ciudad del Cabo el 19 de agosto aprovecha la estacionalidad climática del hemisferio sur, donde el invierno aún domina y las máximas rara vez alcanzan ese umbral. El consenso externo de modelos meteorológicos suele subestimar la persistencia de sistemas fríos, lo que otorga un margen estadístico a favor del 'No'. Riesgo: variabilidad de microclima costero y actualización de pronósticos a corto plazo."
+   "razon": "Trade de compra por $2,711 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-gen-kt-2026-08-19-game-handicap-away-1pt5",
+   "titulo_es": "Hándicap del juego: GEN (-1.5) vs KT Rolster (+1.5)",
+   "narrativa": "El mercado presenta una compra de 2,710 USD sobre el hándicap -1.5 de Gen.G, lo que indica una convicción direccional clara a pesar de no contar con volumen de mercado reportado. La posición sugiere que el consenso externo favorece una victoria por margen amplio, y el edge implícito se concentra en la diferencia de categoría entre ambos equipos. Riesgo: posible falta de liquidez para salir en caso de movimientos adversos."
   }
  ],
  "edges": [
@@ -178,8 +158,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -298,8 +278,8 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.3,
-   "no": 0.7,
+   "yes": 0.32,
+   "no": 0.68,
    "volumen": 9956.09818,
    "spread": 0.0,
    "categoria": "Política",
@@ -318,8 +298,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2405,
-   "no": 0.7595,
+   "yes": 0.208,
+   "no": 0.792,
    "volumen": 9945.254863999997,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -363,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 84.32
+ "db_size_mb": 84.39
 }
