@@ -1,29 +1,49 @@
 {
- "ts": 1787121026,
- "stamp": "20260819_063026",
+ "ts": 1787121386,
+ "stamp": "20260819_063626",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa467b14d51f01b957109d9cbb1d6c124fab2a089d52ed8f471d23c2812e743b7",
-   "titulo": "Xi Jinping out before 2027?",
-   "slug": "xi-jinping-out-before-2027",
+   "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+   "titulo": "US announces end of Iranian blockade by August 31, 2026?",
+   "slug": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
    "outcome": "No",
    "side": "BUY",
-   "size": 11000.0,
-   "price": 0.956,
-   "usd": 10516.0,
-   "ts": 1787120862,
+   "size": 2584.22,
+   "price": 0.93,
+   "usd": 2403.32,
+   "ts": 1787121159,
    "categoria": "Otros",
-   "prob": 67,
-   "confianza": "alta",
+   "prob": 55,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $10,516 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/xi-jinping-out-before-2027",
-   "titulo_es": "¿Xi Jinping fuera antes de 2027?",
-   "narrativa": "La compra de 'No' sobre la salida de Xi Jinping antes de 2027 cotiza con un consenso externo que ronda el 85-90% de probabilidad implícita, mientras que el mercado interno muestra un desvío de al menos 5-10 puntos a favor del 'No' en montos de 10,516 USD. Este edge surge de la inercia institucional y la falta de catalizadores concretos para un cambio de liderazgo en el corto plazo, lo que hace que la posición sea atractiva frente a la sobre-reacción de algunos operadores. Riesgo: eventos geopolíticos imprevistos o rumores de salud podrían mover el precio bruscamente, aunque la liquidez en este mercado es moderada."
+   "razon": "Trade de compra por $2,403 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
+   "titulo_es": "¿EE. UU. anuncia el fin del bloqueo iraní antes del 31 de agosto de 2026?",
+   "narrativa": "La compra de 'No' a 2403 USD refleja una fuerte convicción de que el bloqueo iraní persistirá más allá de agosto de 2026, un escenario que los mercados geopolíticos suelen descontar con lentitud. El tamaño de la posición, sin volumen de mercado reportado, sugiere que el operador identifica un edge por desalineación entre el precio implícito y la probabilidad real de un cambio de política en ese plazo. Riesgo: liquidez potencialmente baja, lo que puede amplificar el impacto de noticias de última hora."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xcc1e4cc31f436ec0a7a3caab75c0842fd7a112e05bbbec38a63e07f91c25ebfb",
+   "titulo": "Will the highest temperature in Cape Town be 23°C or higher on August 19?",
+   "slug": "highest-temperature-in-cape-town-on-august-19-2026-23corhigher",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1232.88,
+   "price": 0.997,
+   "usd": 1229.18,
+   "ts": 1787121156,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,229 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/highest-temperature-in-cape-town-on-august-19-2026-23corhigher",
+   "titulo_es": "¿Será la temperatura máxima en Ciudad del Cabo de 23°C o más el 19 de agosto?",
+   "narrativa": "La apuesta de 1229 USD contra los 23°C o más en Ciudad del Cabo el 19 de agosto aprovecha la estacionalidad climática del hemisferio sur, donde el invierno aún domina y las máximas rara vez alcanzan ese umbral. El consenso externo de modelos meteorológicos suele subestimar la persistencia de sistemas fríos, lo que otorga un margen estadístico a favor del 'No'. Riesgo: variabilidad de microclima costero y actualización de pronósticos a corto plazo."
   }
  ],
  "edges": [
@@ -90,7 +110,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973500.380317995,
+   "volumen": 9973500.380317999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -100,7 +120,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0305,
    "no": 0.9695,
-   "volumen": 9894142.557875995,
+   "volumen": 9894143.929008998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -110,7 +130,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 993748.458516,
+   "volumen": 995015.0585160003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -120,7 +140,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 989300.4235880001,
+   "volumen": 989300.423588,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -130,20 +150,10 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955090001,
+   "volumen": 983750.995509,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
-   "question": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend",
-   "slug": "lol-al-tes-2026-08-19",
-   "yes": 0.575,
-   "no": 0.425,
-   "volumen": 99803.11776699999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: Anyone's Legend vs Top Esports (BO3) - Ascenso de Grupo LPL"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -168,8 +178,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -178,8 +188,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.325,
-   "no": 0.675,
+   "yes": 0.33,
+   "no": 0.67,
    "volumen": 99153.76193399998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -210,7 +220,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98774.84698099998,
+   "volumen": 98774.846981,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -308,9 +318,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.205,
-   "no": 0.795,
-   "volumen": 9945.254863999999,
+   "yes": 0.2405,
+   "no": 0.7595,
+   "volumen": 9945.254863999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -334,6 +344,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
+  },
+  {
+   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
+   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9905.121829,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
   }
  ],
  "historico": {
@@ -343,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 84.25
+ "db_size_mb": 84.32
 }
