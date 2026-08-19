@@ -1,52 +1,60 @@
 {
- "ts": 1787099000,
- "stamp": "20260819_002320",
+ "ts": 1787099420,
+ "stamp": "20260819_003020",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x80a986e6af0326937a1609e84910f64ebbb94703b9b44600d84354bacb83c7d0",
-   "titulo": "Spread: Indiana Fever (-9.5)",
-   "slug": "wnba-ind-tor-2026-08-18-spread-away-9pt5",
-   "outcome": "Toronto Tempo",
-   "side": "BUY",
-   "size": 2958.00875,
-   "price": 0.4799377284,
-   "usd": 1419.66,
-   "ts": 1787098930,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,420 en 'Toronto Tempo'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-ind-tor-2026-08-18-spread-away-9pt5",
-   "titulo_es": "Spread: Indiana Fever (-9.5)",
-   "narrativa": "La compra de Toronto Tempo +9.5 contra Indiana Fever refleja una apuesta de 1,419.66 USD que busca capitalizar un posible margen de derrota ajustado o una sorpresa directa, aprovechando que el spread de -9.5 puntos suele estar sobrevalorado en equipos visitantes. El desvío implícito en el mercado de spreads sugiere que el consenso externo no descarta un partido cerrado, lo que otorga un edge positivo al cubrir la línea. Riesgo: la volatilidad del marcador final puede dejar el spread en el límite exacto, reduciendo el margen de beneficio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x4573c2e63204c8f483592e0e8d29d3b1c0a82bd7ebaf31c19c55011769be3739",
-   "titulo": "Will Londrina EC vs. AC Goianiense end in a draw?",
-   "slug": "bra2-lon-acg-2026-08-18-draw",
+   "market_id": "0xa08a5ce99e14ce0b22767af6f16c08a2ab012249444c20887193a9a3e98e11fc",
+   "titulo": "Strait of Hormuz traffic returns to normal by September 30?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
    "outcome": "Yes",
    "side": "BUY",
-   "size": 1322.0,
-   "price": 0.91,
-   "usd": 1203.02,
-   "ts": 1787098924,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,203 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bra2-lon-acg-2026-08-18-draw",
-   "titulo_es": "¿Terminarán en empate Londrina EC vs. AC Goianiense?",
-   "narrativa": "La compra de 'Yes' al empate entre Londrina EC y AC Goianiense, con 1,203.02 USD, aprovecha que los mercados de empate en ligas menores suelen tener una probabilidad implícita inferior a la frecuencia histórica real de este resultado. El volumen de mercado es bajo, lo que permite que la entrada no mueva la cuota, y el consenso externo apunta a una alta paridad entre ambos equipos, incrementando el valor esperado de la posición. Riesgo: la baja liquidez puede dificultar la salida en el momento óptimo, y un gol tardío anula la apuesta."
+   "size": 110670.24,
+   "price": 0.06,
+   "usd": 6640.21,
+   "ts": 1787099227,
+   "categoria": "Tecnología",
+   "prob": 61,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $6,640 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad para el 30 de septiembre?",
+   "narrativa": "La compra de 'Yes' a 66 centavos refleja una expectativa del 66% de normalización, pero el consenso externo de firmas navieras sugiere un 75% de probabilidad, generando un edge de +9 puntos. Con un monto de $6,640, la posición capitaliza la discrepancia entre el precio de mercado y la probabilidad real, ofreciendo un retorno esperado del 13.6% sobre el riesgo. Riesgo: la volatilidad geopolítica puede alterar el tráfico sin previo aviso, reduciendo la ventana de oportunidad."
   }
  ],
  "edges": [
+  {
+   "tipo": "edge",
+   "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
+   "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
+   "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
+   "prob_poly": 9.0,
+   "consenso": 50.0,
+   "edge": 41.0,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "PredictIt",
+     "titulo": "New Hampshire",
+     "prob": 50.0,
+     "url": "https://www.predictit.org/markets/detail/8939",
+     "titulo_es": "Nuevo Hampshire"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Política",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "PredictIt",
+   "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 41.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
+   "narrativa": "El mercado de Polymarket para un margen de victoria republicano del 9%-12% en Nuevo Hampshire paga 9.0 puntos, frente a un consenso externo de 50.0, lo que arroja una diferencia de 41 puntos a favor de comprar el 'Sí'. Este desajuste extremo sugiere que el precio implícito no refleja la probabilidad real según PredictIt, ofreciendo un edge considerable para quien busque valor en mercados de eventos políticos. Riesgo: la ventana de margen es estrecha y el evento es a largo plazo, lo que puede generar volatilidad en el precio antes de la resolución."
+  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -74,34 +82,6 @@
    "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 41.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
    "narrativa": "La probabilidad implícita de Polymarket es de solo 11.1% (paga 9.0), mientras que el consenso externo de PredictIt se sitúa en 50%, generando un edge de 41 puntos a favor de comprar el 'Sí'. Este diferencial extremo sugiere que el mercado de Polymarket aún no ha incorporado plenamente las métricas de consenso, ofreciendo una oportunidad de valor relativo con un monto de trade que puede escalarse según la liquidez disponible. Riesgo: el evento es a largo plazo (2026) y la liquidez en mercados de nicho puede ser limitada, lo que podría afectar la ejecución de salida."
-  },
-  {
-   "tipo": "edge",
-   "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
-   "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 10.0,
-   "consenso": 50.0,
-   "edge": 40.0,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "PredictIt",
-     "titulo": "New Hampshire",
-     "prob": 50.0,
-     "url": "https://www.predictit.org/markets/detail/8939",
-     "titulo_es": "Nuevo Hampshire"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Política",
-   "prob": 85,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 10.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 40.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "Polymarket cotiza el 'Sí' a un 10% de probabilidad implícita, mientras que PredictIt sugiere un consenso externo del 50%, generando un edge de 40 puntos porcentuales. Esta discrepancia es una oportunidad de compra clara, ya que el mercado está infravalorando significativamente el resultado según la fuente externa. Riesgo: la diferencia puede deberse a plazos o criterios de margen distintos entre plataformas."
   }
  ],
  "top_volumen": [
@@ -118,8 +98,8 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.02,
-   "no": 0.98,
+   "yes": 0.0195,
+   "no": 0.9805,
    "volumen": 9835170.947862996,
    "spread": 0.0,
    "categoria": "Política",
@@ -228,8 +208,8 @@
   {
    "question": "Cancun: Dalibor Svrcina vs Stan Wawrinka",
    "slug": "atp-svrcina-wawrink-2026-08-18",
-   "yes": 0.485,
-   "no": 0.515,
+   "yes": 0.565,
+   "no": 0.435,
    "volumen": 98953.42492199999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -248,8 +228,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.066,
-   "no": 0.934,
+   "yes": 0.0645,
+   "no": 0.9355,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -288,8 +268,8 @@
   {
    "question": "Los Angeles Sparks vs. Connecticut Sun",
    "slug": "wnba-la-conn-2026-08-18",
-   "yes": 0.175,
-   "no": 0.825,
+   "yes": 0.035,
+   "no": 0.965,
    "volumen": 98067.22362399996,
    "spread": 0.0,
    "categoria": "Otros",
@@ -308,8 +288,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0395,
-   "no": 0.9605,
+   "yes": 0.0365,
+   "no": 0.9635,
    "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -318,8 +298,8 @@
   {
    "question": "Will Carey Baker be the FL-11 Republican nominee?",
    "slug": "will-carey-baker-be-the-fl-11-republican-nominee-20260723173936217",
-   "yes": 0.17,
-   "no": 0.83,
+   "yes": 0.05,
+   "no": 0.95,
    "volumen": 9989.672418,
    "spread": 0.0,
    "categoria": "Política",
@@ -363,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 80.0
+ "db_size_mb": 80.07
 }
