@@ -1,19 +1,40 @@
 {
- "ts": 1787100920,
- "stamp": "20260819_005520",
+ "ts": 1787101280,
+ "stamp": "20260819_010120",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x70de0744c8c2d7d31fab0f2d75b44e7d7577807cbff2e39b02ab547c68d81b45",
+   "titulo": "Chicago White Sox vs. Chicago Cubs",
+   "slug": "mlb-cws-chc-2026-08-18",
+   "outcome": "Chicago White Sox",
+   "side": "BUY",
+   "size": 27075.11,
+   "price": 0.28,
+   "usd": 7581.03,
+   "ts": 1787101030,
+   "categoria": "Otros",
+   "prob": 63,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $7,581 en 'Chicago White Sox'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-cws-chc-2026-08-18",
+   "titulo_es": "Chicago White Sox vs. Chicago Cubs",
+   "narrativa": "El flujo de compra de 7,581 USD sobre los White Sox en el clásico de Chicago refleja una apuesta direccional clara, con un volumen que sugiere convicción institucional en un mercado de rivalidad local donde las probabilidades implícitas suelen estar más alineadas con la narrativa que con el rendimiento real. El monto representa una posición significativa para un evento de un solo juego, lo que indica que el comprador percibe un edge en el precio actual frente a los modelos de poder ofensivo y bullpen. Riesgo: el mercado puede ser menos líquido antes del primer lanzamiento, ampliando el spread."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 9.0,
+   "prob_poly": 8.5,
    "consenso": 50.0,
-   "edge": 41.0,
+   "edge": 41.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -30,9 +51,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 41.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 41.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "El mercado de Polymarket para un margen de victoria republicano del 9%-12% en Nuevo Hampshire paga 9.0 puntos, frente a un consenso externo de 50.0, lo que arroja una diferencia de 41 puntos a favor de comprar el 'Sí'. Este desajuste extremo sugiere que el precio implícito no refleja la probabilidad real según PredictIt, ofreciendo un edge considerable para quien busque valor en mercados de eventos políticos. Riesgo: la ventana de margen es estrecha y el evento es a largo plazo, lo que puede generar volatilidad en el precio antes de la resolución."
+   "narrativa": "Con un pago de 8.5% frente a un consenso externo del 50%, el edge de 41.5 puntos indica que Polymarket está notablemente infravalorado para este margen republicano. Esta discrepancia entre plataformas sugiere que los operadores en Polymarket no han incorporado plenamente la información de PredictIt, creando una asimetría favorable para quienes compran 'Sí' a precios actuales. La magnitud del diferencial justifica una posición táctica, pero el resultado depende de la precisión del consenso y de la evolución de las encuestas. Riesgo: la liquidez en este mercado específico puede ser limitada, amplificando el impacto de las órdenes."
   },
   {
    "tipo": "edge",
@@ -147,8 +168,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -247,8 +268,8 @@
   {
    "question": "Will Carey Baker be the FL-11 Republican nominee?",
    "slug": "will-carey-baker-be-the-fl-11-republican-nominee-20260723173936217",
-   "yes": 0.195,
-   "no": 0.805,
+   "yes": 0.185,
+   "no": 0.815,
    "volumen": 9999.672418,
    "spread": 0.0,
    "categoria": "Política",
@@ -267,8 +288,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.044,
-   "no": 0.956,
+   "yes": 0.0315,
+   "no": 0.9685,
    "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 80.39
+ "db_size_mb": 80.45
 }
