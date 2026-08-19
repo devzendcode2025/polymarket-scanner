@@ -1,31 +1,10 @@
 {
- "ts": 1787127388,
- "stamp": "20260819_081628",
+ "ts": 1787127748,
+ "stamp": "20260819_082228",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x2547606b0defa595ad3e14c7c1b08cf65e4251fb6264056e5ca09511a394debc",
-   "titulo": "ITF M25 Idanha-a-Nova 2 Men: Tiago Silva vs Rocco Piatti",
-   "slug": "itf-sil-piatti-2026-08-19",
-   "outcome": "Tiago Silva",
-   "side": "BUY",
-   "size": 5221.83,
-   "price": 0.4,
-   "usd": 2088.73,
-   "ts": 1787127166,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,089 en 'Tiago Silva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/itf-sil-piatti-2026-08-19",
-   "titulo_es": "ITF M25 Idanha-a-Nova 2 Masculino: Tiago Silva vs Rocco Piatti",
-   "narrativa": "La compra sobre Tiago Silva en el ITF M25 de Idanha-a-Nova presenta un edge de +5.2 puntos frente al consenso externo del 68%, con un monto de $2,088.73 que refleja una posición agresiva en un mercado de volumen moderado. El desvío del precio implícito (62.8%) respecto a la probabilidad real estimada (68%) sugiere una corrección favorable a corto plazo. Riesgo: liquidez limitada en torneos ITF, lo que puede ampliar el spread en momentos de baja actividad."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -90,7 +69,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9977303.380317999,
+   "volumen": 9977303.380318,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -100,7 +79,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0285,
    "no": 0.9715,
-   "volumen": 9894200.861829998,
+   "volumen": 9894200.861829987,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -130,7 +109,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955089999,
+   "volumen": 983750.995509,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -140,7 +119,7 @@
    "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
    "yes": 0.115,
    "no": 0.885,
-   "volumen": 982562.2681459999,
+   "volumen": 982572.2681459999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
@@ -210,7 +189,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98774.84698100001,
+   "volumen": 98774.84698099998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -220,7 +199,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98570.57294600001,
+   "volumen": 98570.57294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -310,7 +289,7 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.32,
    "no": 0.68,
-   "volumen": 9956.09818,
+   "volumen": 9956.098179999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -320,7 +299,7 @@
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.43,
    "no": 0.57,
-   "volumen": 9952.114907000001,
+   "volumen": 9952.114907,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
@@ -343,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 85.72
+ "db_size_mb": 85.8
 }
