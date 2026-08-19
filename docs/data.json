@@ -1,29 +1,29 @@
 {
- "ts": 1787141492,
- "stamp": "20260819_121132",
+ "ts": 1787141912,
+ "stamp": "20260819_121832",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xbde8b55948cacc97778c9cce60462aa37cdc9e60ee9d4b278b4131a578115a2f",
-   "titulo": "Will Byron Donalds win the Florida Republican Governor primary by 25–30%?",
-   "slug": "will-byron-donalds-win-the-florida-republican-governor-primary-by-2530-20260812190226842",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.997,
-   "usd": 1994.0,
-   "ts": 1787141277,
-   "categoria": "Política",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,994 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-byron-donalds-win-the-florida-republican-governor-primary-by-2530-20260812190226842",
-   "titulo_es": "¿Ganará Byron Donalds las primarias republicanas para gobernador de Florida por un margen del 25–30%?",
-   "narrativa": "El mercado descuenta un margen de victoria fuera del rango del 25-30%, y con una compra de $1,994 en 'No' se aprovecha un consenso externo que ve más probable un resultado binario extremo (menor al 25% o mayor al 30%). El edge proviene de que el precio implícito del 'No' aún no refleja la baja probabilidad histórica de que una primaria cerrada caiga justo en esa franja de 5 puntos, lo que ofrece una relación riesgo/beneficio favorable. Riesgo: la liquidez es limitada y el margen podría ajustarse por sorpresas de última hora en el recuento."
+   "market_id": "0xcfe1dc82b8014341ac9813c5a1a1cd918b77b660e0f7e9d83fe65d43202ddb34",
+   "titulo": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "slug": "lol-gen-kt-2026-08-19",
+   "outcome": "Gen.G",
+   "side": "SELL",
+   "size": 2380.95,
+   "price": 0.999,
+   "usd": 2378.57,
+   "ts": 1787141880,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,379 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-gen-kt-2026-08-19",
+   "titulo_es": "LoL: Gen.G vs KT Rolster (BO3) - LCK Ronda 3-4 Grupo Leyenda",
+   "narrativa": "El mercado presenta una venta de 2,378.57 USD sobre Gen.G, lo que sugiere que un operador relevante anticipa una corrección en la probabilidad implícita del favorito. Aunque no contamos con el consenso externo ni el volumen total del mercado, el tamaño de la posición en relación a la liquidez típica de estos mercados puede generar un desvío temporal en el precio, ofreciendo una entrada a contracorriente si el modelo propio difiere del precio actual. Riesgo: posible falta de profundidad para ejecutar la salida sin afectar el precio."
   }
  ],
  "edges": [
@@ -88,8 +88,8 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.024,
-   "no": 0.976,
+   "yes": 0.0245,
+   "no": 0.9755,
    "volumen": 9910388.871829983,
    "spread": 0.0,
    "categoria": "Política",
@@ -208,8 +208,8 @@
   {
    "question": "Will B8 Win the CS2 EWC 2026?",
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
-   "yes": 0.016,
-   "no": 0.984,
+   "yes": 0.0165,
+   "no": 0.9835,
    "volumen": 98884.846981,
    "spread": 0.0,
    "categoria": "Otros",
@@ -248,8 +248,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0855,
-   "no": 0.9145,
+   "yes": 0.082,
+   "no": 0.918,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -258,8 +258,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2535,
-   "no": 0.7465,
+   "yes": 0.255,
+   "no": 0.745,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -337,11 +337,11 @@
   }
  ],
  "historico": {
-  "ts": 1787139951,
+  "ts": 1787141752,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 87.87
+ "db_size_mb": 88.01
 }
