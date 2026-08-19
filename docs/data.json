@@ -1,31 +1,10 @@
 {
- "ts": 1787100500,
- "stamp": "20260819_004820",
+ "ts": 1787100920,
+ "stamp": "20260819_005520",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x8fa7310a657aedfbbc22d3a3be7d639f4d2330bd44fa4bf5995fe783eb51d261",
-   "titulo": "New York Yankees vs. Baltimore Orioles",
-   "slug": "mlb-nyy-bal-2026-08-18",
-   "outcome": "New York Yankees",
-   "side": "BUY",
-   "size": 9852.05,
-   "price": 0.73,
-   "usd": 7192.0,
-   "ts": 1787100427,
-   "categoria": "Otros",
-   "prob": 62,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $7,192 en 'New York Yankees'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-nyy-bal-2026-08-18",
-   "titulo_es": "New York Yankees vs. Baltimore Orioles",
-   "narrativa": "La compra de $7,192 en los Yankees refleja una apuesta significativa contra el consenso del mercado, que podría estar subestimando su ventaja local. Este flujo de capital, al ser concentrado, sugiere información privilegiada o un ajuste de probabilidades que aún no se ha reflejado en el precio. El edge estimado es positivo si el mercado cierra la brecha hacia el lado del equipo neoyorquino, aunque el volumen total del mercado no está disponible, lo que limita el cálculo de profundidad. Riesgo: posible falta de liquidez en momentos de alta volatilidad."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -90,7 +69,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9971031.970317999,
+   "volumen": 9971031.970318003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -100,7 +79,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9835170.947863003,
+   "volumen": 9835170.947862998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -120,7 +99,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 988310.5144999997,
+   "volumen": 988310.5144999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -130,7 +109,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955090001,
+   "volumen": 983750.995509,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -150,7 +129,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94703000002,
+   "volumen": 99768.94703,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -160,7 +139,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.025263,
+   "volumen": 99588.02526300003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -168,8 +147,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -180,7 +159,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99153.76193400001,
+   "volumen": 99153.761934,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -216,6 +195,16 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
+   "question": "Will Londrina EC vs. AC Goianiense end in a draw?",
+   "slug": "bra2-lon-acg-2026-08-18-draw",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 98847.16539999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Terminarán en empate Londrina EC vs. AC Goianiense?"
+  },
+  {
    "question": "Israel x Iran ceasefire continues through October 31?",
    "slug": "israel-x-iran-ceasefire-continues-through-october-31",
    "yes": 0.745,
@@ -230,7 +219,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98489.195404,
+   "volumen": 98489.19540399998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -250,7 +239,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98070.77294599995,
+   "volumen": 98070.77294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -258,8 +247,8 @@
   {
    "question": "Will Carey Baker be the FL-11 Republican nominee?",
    "slug": "will-carey-baker-be-the-fl-11-republican-nominee-20260723173936217",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.195,
+   "no": 0.805,
    "volumen": 9999.672418,
    "spread": 0.0,
    "categoria": "Política",
@@ -278,8 +267,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0405,
-   "no": 0.9595,
+   "yes": 0.044,
+   "no": 0.956,
    "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -296,34 +285,24 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
-   "question": "Los Angeles Sparks vs. Connecticut Sun: O/U 174.5",
-   "slug": "wnba-la-conn-2026-08-18-total-174pt5",
-   "yes": 0.18,
-   "no": 0.82,
-   "volumen": 9986.797522,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Los Angeles Sparks vs. Connecticut Sun: Más/Menos 174.5"
-  },
-  {
    "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 9985.785599,
+   "volumen": 9985.785598999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
   },
   {
-   "question": "Will the highest temperature in Madrid be 36°C on August 19?",
-   "slug": "highest-temperature-in-madrid-on-august-19-2026-36c",
-   "yes": 0.685,
-   "no": 0.315,
-   "volumen": 9985.693832,
+   "question": "Will the highest temperature in Hong Kong be 29°C on August 19?",
+   "slug": "highest-temperature-in-hong-kong-on-august-19-2026-29c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9983.044043,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Madrid de 36°C el 19 de agosto?"
+   "question_es": "¿Será la temperatura máxima en Hong Kong de 29°C el 19 de agosto?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -343,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 80.31
+ "db_size_mb": 80.39
 }
