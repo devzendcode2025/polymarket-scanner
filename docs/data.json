@@ -1,10 +1,31 @@
 {
- "ts": 1787180262,
- "stamp": "20260819_225742",
+ "ts": 1787180743,
+ "stamp": "20260819_230543",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xc07f42826cabe9850c5c093380f516ff919a57743496dd631f87c28d8a88e3d5",
+   "titulo": "Map Handicap: G2 (-1.5) vs M80 (+1.5)",
+   "slug": "val-g21-m80-2026-08-19-map-handicap-away-1pt5",
+   "outcome": "G2 Esports",
+   "side": "BUY",
+   "size": 2375.4,
+   "price": 0.48,
+   "usd": 1140.19,
+   "ts": 1787180640,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,140 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-g21-m80-2026-08-19-map-handicap-away-1pt5",
+   "titulo_es": "Mapa Handicap: G2 (-1.5) vs M80 (+1.5)",
+   "narrativa": "La compra en G2 Esports (-1.5) refleja un edge de 4.2 puntos sobre el consenso externo, con un monto de $1,140 que representa el 12% del volumen disponible en el mercado. El handicap de -1.5 mapas favorece a G2 en un 68% de los escenarios simulados, superando el 63% que estima el mercado general. Riesgo: la liquidez es moderada y el spread puede ampliarse cerca del cierre del evento."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -104,7 +125,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9912014.290955005,
+   "volumen": 9912014.290955001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -114,7 +135,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.5278490001,
+   "volumen": 996816.5278490002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -124,7 +145,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995995.6908560004,
+   "volumen": 995995.6908560001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -164,7 +185,7 @@
    "slug": "cs2-navi-lgc-2026-08-20",
    "yes": 0.695,
    "no": 0.305,
-   "volumen": 99607.552562,
+   "volumen": 99790.409698,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Playoffs de la Copa Mundial de Esports"
@@ -180,11 +201,21 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
+   "question": "Orlando City SC vs. Chicago Fire FC: O/U 3.5",
+   "slug": "mls-orl-chi-2026-08-19-total-3pt5",
+   "yes": 0.465,
+   "no": 0.535,
+   "volumen": 99303.700055,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Orlando City SC vs. Chicago Fire FC: Más/Menos 3.5"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.057,
-   "no": 0.943,
-   "volumen": 99270.71304000003,
+   "yes": 0.0565,
+   "no": 0.9435,
+   "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -282,8 +313,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.953,
-   "no": 0.047,
+   "yes": 0.954,
+   "no": 0.046,
    "volumen": 9997.610976,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -304,7 +335,7 @@
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
    "yes": 0.2405,
    "no": 0.7595,
-   "volumen": 9990.964864000001,
+   "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -338,24 +369,14 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
-   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0245,
-   "no": 0.9755,
-   "volumen": 9964.685226,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787178606,
+  "ts": 1787180408,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 96.7
+ "db_size_mb": 96.85
 }
