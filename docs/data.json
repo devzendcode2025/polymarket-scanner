@@ -1,69 +1,49 @@
 {
- "ts": 1787154216,
- "stamp": "20260819_154336",
+ "ts": 1787154636,
+ "stamp": "20260819_155036",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xeaa183eb2df8d7bbee7a9b59237777203230dfda5d6b569b5149eb788fae80a6",
-   "titulo": "Will Elon Musk post 90-114 tweets from August 17 to August 19, 2026?",
-   "slug": "elon-musk-of-tweets-august-17-august-19-90-114",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 10000.0,
-   "price": 0.999,
-   "usd": 9990.0,
-   "ts": 1787154213,
-   "categoria": "Tecnología",
-   "prob": 66,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $9,990 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-17-august-19-90-114",
-   "titulo_es": "¿Publicará Elon Musk entre 90 y 114 tuits del 17 al 19 de agosto de 2026?",
-   "narrativa": "La compra de $9,990 en 'Yes' para el rango de 90-114 tuits indica una fuerte convicción de que Musk superará el volumen de actividad típico en ese período. Si el consenso externo estima una media de tuits por día que, proyectada a tres días, se acerca al límite superior del rango, el edge positivo justifica la posición. El tamaño del trade, al ser el mayor del lote, sugiere que el operador identifica un desajuste entre el precio actual y la probabilidad real del evento. Riesgo: la volatilidad intradía de Musk puede invalidar rápidamente la tesis si reduce su actividad."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x25d2e100ecd7f64d78dd485f4720871052d6d02381431df7e7cb963b7e76c288",
-   "titulo": "Will Elon Musk post 65-89 tweets from August 17 to August 19, 2026?",
-   "slug": "elon-musk-of-tweets-august-17-august-19-65-89",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 4079.4312,
-   "price": 0.9805288512,
-   "usd": 4000.0,
-   "ts": 1787154213,
-   "categoria": "Tecnología",
-   "prob": 58,
+   "market_id": "0x7c587aa5746ca25dfcaa59642f88909025bc133f9ae3bce2fa7c44bb231ce906",
+   "titulo": "LoL: UCAM Esports Club vs Team Heretics Academy - Game 1 Winner",
+   "slug": "lol-ucam1-hrts-2026-08-19-game1",
+   "outcome": "Team Heretics Academy",
+   "side": "SELL",
+   "size": 2500.0,
+   "price": 0.99,
+   "usd": 2475.0,
+   "ts": 1787154513,
+   "categoria": "Deportes",
+   "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $4,000 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-17-august-19-65-89",
-   "titulo_es": "¿Publicará Elon Musk entre 65 y 89 tweets del 17 de agosto al 19 de agosto de 2026?",
-   "narrativa": "La apuesta de $4,000 contra el rango de 65-89 tuits (outcome 'No') aprovecha la asimetría: si la actividad real se concentra en extremos (menos de 65 o más de 89), el pago es completo. El consenso externo probablemente ubica la media en un punto que deja un margen de error, y el precio de 'No' puede estar infravalorado si el mercado sobreestima la probabilidad de un rango medio. La doble posición (aquí y en la señal 2) refuerza la convicción, pero el monto combinado sugiere un apalancamiento en la tesis de cola. Riesgo: si Musk publica exactamente en ese rango, la pérdida es total."
+   "razon": "Trade de venta por $2,475 en 'Team Heretics Academy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ucam1-hrts-2026-08-19-game1",
+   "titulo_es": "LoL: UCAM Esports Club vs Team Heretics Academy - Ganador del Juego 1",
+   "narrativa": "La venta de 2,475 USD sobre Team Heretics Academy en el juego 1 de UCAM vs THA refleja una posición agresiva contra el favorito implícito, aprovechando un posible desajuste en la valoración inicial del mercado. El tamaño de la operación, sin volumen de mercado reportado, sugiere que el operador busca capitalizar un edge basado en información o tendencia reciente del equipo local. Riesgo: mercado de nicho con liquidez potencialmente reducida, lo que puede amplificar el impacto de la orden."
   },
   {
    "tipo": "ballena",
-   "market_id": "0x25d2e100ecd7f64d78dd485f4720871052d6d02381431df7e7cb963b7e76c288",
-   "titulo": "Will Elon Musk post 65-89 tweets from August 17 to August 19, 2026?",
-   "slug": "elon-musk-of-tweets-august-17-august-19-65-89",
+   "market_id": "0x1086eaea76c9c8c15e09994da22f62f2d9584b06b3d9bb766ed43a2927982684",
+   "titulo": "Will the price of Bitcoin be above $72,000 on August 19?",
+   "slug": "bitcoin-above-72k-on-august-19-2026",
    "outcome": "No",
    "side": "BUY",
-   "size": 1111.0,
-   "price": 0.997,
-   "usd": 1107.67,
-   "ts": 1787154213,
-   "categoria": "Tecnología",
-   "prob": 53,
+   "size": 2000.0,
+   "price": 0.999,
+   "usd": 1998.0,
+   "ts": 1787154514,
+   "categoria": "Cripto",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,108 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-17-august-19-65-89",
-   "titulo_es": "¿Publicará Elon Musk entre 65 y 89 tweets del 17 de agosto al 19 de agosto de 2026?",
-   "narrativa": "La compra adicional de $1,107.67 en 'No' para el mismo rango de 65-89 tuits confirma la estrategia de promediar a favor de la tesis, aumentando la exposición total a $5,107.67. El edge se basa en que el rango medio es estadísticamente menos probable que los extremos, dado el historial de ráfagas de tuits de Musk. El tamaño incremental es menor, lo que sugiere una gestión de riesgo calculada para no sobrecargar la posición si el precio se mueve en contra. Riesgo: la correlación entre las dos señales amplifica el impacto de un evento inesperado."
+   "razon": "Trade de compra por $1,998 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-72k-on-august-19-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $72,000 el 19 de agosto?",
+   "narrativa": "La compra de 1,998 USD en 'No' para Bitcoin por encima de 72,000 USD el 19 de agosto se alinea con un consenso externo de resistencia técnica en ese nivel, tras recientes rechazos de precio. El monto significativo indica confianza en que la probabilidad implícita del mercado sobreestima el rally alcista, ofreciendo un edge positivo en puntos si el activo se mantiene por debajo del umbral. Riesgo: alta volatilidad de Bitcoin y eventos macroeconómicos de última hora pueden invalidar la tesis."
   }
  ],
  "edges": [
@@ -130,7 +110,7 @@
    "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
    "yes": 0.0135,
    "no": 0.9865,
-   "volumen": 9945796.913932007,
+   "volumen": 9948920.88393201,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Reducirá la Fed las tasas de interés en 25 puntos básicos después de la reunión de septiembre de 2026?"
@@ -140,7 +120,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9910440.051829986,
+   "volumen": 9910440.051830003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -180,7 +160,7 @@
    "slug": "will-wildberries-announce-bankruptcy-before-2027-20260723171611669",
    "yes": 0.175,
    "no": 0.825,
-   "volumen": 99953.26956200002,
+   "volumen": 99960.99956200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Wildberries la quiebra antes de 2027?"
@@ -190,27 +170,17 @@
    "slug": "bitcoin-above-58k-on-august-20-2026",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 99941.826007,
+   "volumen": 99941.82600700001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Bitcoin por encima de $58,000 el 20 de agosto?"
-  },
-  {
-   "question": "Will Ethereum reach $2,400 in August?",
-   "slug": "will-ethereum-reach-2400-in-august-2026",
-   "yes": 0.1025,
-   "no": 0.8975,
-   "volumen": 99847.17493899999,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Ethereum los $2,400 en agosto?"
   },
   {
    "question": "Will B8 Win the CS2 EWC 2026?",
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.018,
    "no": 0.982,
-   "volumen": 99821.390614,
+   "volumen": 99821.39061399999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -236,6 +206,16 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
+   "question": "Will FUT Esports Win the CS2 EWC 2026?",
+   "slug": "will-fut-esports-win-the-cs2-ewc-2026-20260810160005091",
+   "yes": 0.02,
+   "no": 0.98,
+   "volumen": 99442.13661300001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará FUT Esports el CS2 EWC 2026?"
+  },
+  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.12,
@@ -254,26 +234,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
-  },
-  {
-   "question": "Will FUT Esports Win the CS2 EWC 2026?",
-   "slug": "will-fut-esports-win-the-cs2-ewc-2026-20260810160005091",
-   "yes": 0.0205,
-   "no": 0.9795,
-   "volumen": 99142.136613,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará FUT Esports el CS2 EWC 2026?"
-  },
-  {
-   "question": "Will Radu Burnete be the next Prime Minister of Romania?",
-   "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 99036.85304000005,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
@@ -298,8 +258,8 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.152,
-   "no": 0.848,
+   "yes": 0.1585,
+   "no": 0.8415,
    "volumen": 98829.113919,
    "spread": 0.0,
    "categoria": "Otros",
@@ -340,7 +300,7 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 9998.648180000002,
+   "volumen": 9998.64818,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -358,9 +318,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2505,
-   "no": 0.7495,
-   "volumen": 9990.964864,
+   "yes": 0.2395,
+   "no": 0.7605,
+   "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -374,14 +334,34 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Will Truist fail by end of 2026?",
+   "slug": "will-truist-fail-by-end-of-2026",
+   "yes": 0.0315,
+   "no": 0.9685,
+   "volumen": 9973.222389999999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Map Handicap: NAVI (-1.5) vs Legacy (+1.5)",
+   "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
+   "yes": 0.405,
+   "no": 0.595,
+   "volumen": 9968.634194,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
   }
  ],
  "historico": {
-  "ts": 1787152764,
+  "ts": 1787154679,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 90.87
+ "db_size_mb": 90.93
 }
