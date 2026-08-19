@@ -1,31 +1,10 @@
 {
- "ts": 1787145874,
- "stamp": "20260819_132434",
+ "ts": 1787146294,
+ "stamp": "20260819_133134",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x7c97f7315ac9a2e0eabe9b2b9caa8369feff95180483b5168a5274b69762690c",
-   "titulo": "Will Belete Molla be the next Prime Minister of Ethiopia?",
-   "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 5163.0,
-   "price": 0.997,
-   "usd": 5147.51,
-   "ts": 1787145792,
-   "categoria": "Cripto",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,148 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-belete-molla-be-the-next-prime-minister-of-ethiopia",
-   "titulo_es": "¿Será Belete Molla el próximo Primer Ministro de Etiopía?",
-   "narrativa": "La posición de compra sobre 'No' refleja un consenso externo que descarta a Belete Molla como sucesor inmediato, con un edge calculado de +8.2 puntos frente a la probabilidad implícita del mercado. El monto de $5,147.51 representa una apuesta significativa que busca capitalizar la brecha entre el precio actual y el valor justo estimado, en un contexto de baja liquidez que amplifica el movimiento potencial. Riesgo: volatilidad por noticias políticas imprevistas y spreads amplios."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -168,8 +147,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -188,8 +167,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.062,
-   "no": 0.938,
+   "yes": 0.0715,
+   "no": 0.9285,
    "volumen": 99036.85304000002,
    "spread": 0.0,
    "categoria": "Política",
@@ -258,8 +237,8 @@
   {
    "question": "Iran-Oman Hormuz Agreement by August 22?",
    "slug": "iran-oman-hormuz-agreement-by-august-22",
-   "yes": 0.08,
-   "no": 0.92,
+   "yes": 0.09,
+   "no": 0.91,
    "volumen": 98278.77033700002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -278,8 +257,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.238,
-   "no": 0.762,
+   "yes": 0.2325,
+   "no": 0.7675,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -328,8 +307,8 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.295,
-   "no": 0.705,
+   "yes": 0.305,
+   "no": 0.695,
    "volumen": 9956.098179999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -343,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 88.95
+ "db_size_mb": 89.03
 }
