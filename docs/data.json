@@ -1,6 +1,6 @@
 {
- "ts": 1787133630,
- "stamp": "20260819_100030",
+ "ts": 1787133990,
+ "stamp": "20260819_100630",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -69,7 +69,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0285,
    "no": 0.9715,
-   "volumen": 9894200.861829996,
+   "volumen": 9894200.86183,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -79,7 +79,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995015.0585160003,
+   "volumen": 995015.0585160002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -89,7 +89,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993439997,
+   "volumen": 990196.2993440002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -109,7 +109,7 @@
    "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
    "yes": 0.115,
    "no": 0.885,
-   "volumen": 982651.2581459997,
+   "volumen": 982651.2581459996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
@@ -179,7 +179,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.016,
    "no": 0.984,
-   "volumen": 98794.846981,
+   "volumen": 98794.84698099998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -189,7 +189,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.57294600004,
+   "volumen": 98743.57294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -279,7 +279,7 @@
    "slug": "highest-temperature-in-london-on-august-19-2026-23c",
    "yes": 0.31,
    "no": 0.69,
-   "volumen": 9961.369617000002,
+   "volumen": 9961.369617,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Londres de 23°C el 19 de agosto?"
@@ -289,7 +289,7 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.305,
    "no": 0.695,
-   "volumen": 9956.098179999999,
+   "volumen": 9956.09818,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -299,7 +299,7 @@
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.43,
    "no": 0.57,
-   "volumen": 9952.114907000001,
+   "volumen": 9952.114907000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
@@ -322,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 86.52
+ "db_size_mb": 86.58
 }
