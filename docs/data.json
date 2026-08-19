@@ -1,6 +1,6 @@
 {
- "ts": 1787183263,
- "stamp": "20260819_234743",
+ "ts": 1787183623,
+ "stamp": "20260819_235343",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -104,7 +104,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9912014.290955001,
+   "volumen": 9912014.290954994,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -124,7 +124,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995995.690856,
+   "volumen": 995995.6908560001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -144,7 +144,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982380.2362579997,
+   "volumen": 982380.2362580003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -174,7 +174,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99270.71304,
+   "volumen": 99270.71304000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -188,6 +188,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
+  },
+  {
+   "question": "Minnesota Lynx vs. Golden State Valkyries: O/U 163.5",
+   "slug": "wnba-min-gsv-2026-08-19-total-163pt5",
+   "yes": 0.465,
+   "no": 0.535,
+   "volumen": 99189.88790899998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Minnesota Lynx vs. Golden State Valkyries: Más/Menos 163.5"
   },
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
@@ -214,37 +224,47 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294600005,
+   "volumen": 98831.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
   },
   {
-   "question": "Minnesota Lynx vs. Golden State Valkyries: O/U 163.5",
-   "slug": "wnba-min-gsv-2026-08-19-total-163pt5",
-   "yes": 0.465,
-   "no": 0.535,
-   "volumen": 98830.88790900001,
+   "question": "Valorant: G2 Esports vs M80 (BO3) - VCT Americas Stage 2 Play-In",
+   "slug": "val-g21-m80-2026-08-19",
+   "yes": 0.605,
+   "no": 0.395,
+   "volumen": 98539.38722199999,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Minnesota Lynx vs. Golden State Valkyries: Más/Menos 163.5"
+   "categoria": "Deportes",
+   "question_es": "Valorant: G2 Esports vs M80 (BO3) - VCT Americas Stage 2 Play-In"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 98534.93697800003,
+   "volumen": 98534.936978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
+  },
+  {
+   "question": "Will CR Flamengo win on 2026-08-19?",
+   "slug": "lib-fla-cru-2026-08-19-fla",
+   "yes": 0.595,
+   "no": 0.405,
+   "volumen": 98463.56784600002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará el CR Flamengo el 2026-08-19?"
   },
   {
    "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.983,
    "no": 0.017,
-   "volumen": 98359.536631,
+   "volumen": 98359.53663099998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -254,7 +274,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 98224.62970900003,
+   "volumen": 98224.629709,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -264,7 +284,7 @@
    "slug": "bitcoin-above-64k-on-august-24-2026",
    "yes": 0.964,
    "no": 0.036,
-   "volumen": 9999.604839,
+   "volumen": 9999.604839000001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 24 de agosto?"
@@ -284,7 +304,7 @@
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
    "yes": 0.2405,
    "no": 0.7595,
-   "volumen": 9990.964864,
+   "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -322,32 +342,12 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.031,
-   "no": 0.969,
-   "volumen": 9965.945226000002,
+   "yes": 0.0305,
+   "no": 0.9695,
+   "volumen": 9965.945226,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
-  },
-  {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.4,
-   "no": 0.6,
-   "volumen": 9952.114907,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
-  },
-  {
-   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
-   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.0025,
-   "no": 0.9975,
-   "volumen": 9946.699383,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
@@ -357,5 +357,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 97.39
+ "db_size_mb": 97.46
 }
