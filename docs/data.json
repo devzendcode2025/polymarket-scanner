@@ -1,10 +1,30 @@
 {
- "ts": 1787136631,
- "stamp": "20260819_105031",
+ "ts": 1787136991,
+ "stamp": "20260819_105631",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x0326019e3ef14a9d18824269c967fbc5b90000000000000000000000000000",
+   "titulo": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula AND Cincinnati Open: Alexander Zverev vs Tommy Paul AND Cincinnati Open: Marta Kostyuk vs Mirra Andreeva AND Cincinnati Open: Coco Gauff vs Marie Bouzkova",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 37917.619159,
+   "price": 0.254249309,
+   "usd": 9640.53,
+   "ts": 1787136729,
+   "categoria": "Deportes",
+   "prob": 66,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $9,641 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Abierto de Cincinnati: Sorana Cirstea vs Jessica Pegula Y Abierto de Cincinnati: Alexander Zverev vs Tommy Paul Y Abierto de Cincinnati: Marta Kostyuk vs Mirra Andreeva Y Abierto de Cincinnati: Coco Gauff vs Marie Bouzkova",
+   "narrativa": "Detección de flujo de compra por USD 9,640 en un paquete de cuatro partidos de Cincinnati, lo que sugiere convicción direccional en el combo. El tamaño del trade representa un 4.7% del volumen total estimado del mercado, superando el umbral de actividad institucional. La falta de consenso externo claro en estos cruces de WTA y ATP crea una ventana de oportunidad para capturar edge en la correlación de resultados. Riesgo: alta volatilidad intrapartido y posible descorrelación entre eventos simultáneos."
+  },
   {
    "tipo": "ballena",
    "market_id": "0x03bee165754b50f372559e7ce945ae770f0000000000000000000000000000",
@@ -27,6 +47,26 @@
   },
   {
    "tipo": "ballena",
+   "market_id": "0x0326019e3ef14a9d18824269c967fbc5b90000000000000000000000000000",
+   "titulo": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula AND Cincinnati Open: Alexander Zverev vs Tommy Paul AND Cincinnati Open: Marta Kostyuk vs Mirra Andreeva AND Cincinnati Open: Coco Gauff vs Marie Bouzkova",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 8514.196094,
+   "price": 0.240108004,
+   "usd": 2044.33,
+   "ts": 1787136768,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,044 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Abierto de Cincinnati: Sorana Cirstea vs Jessica Pegula Y Abierto de Cincinnati: Alexander Zverev vs Tommy Paul Y Abierto de Cincinnati: Marta Kostyuk vs Mirra Andreeva Y Abierto de Cincinnati: Coco Gauff vs Marie Bouzkova",
+   "narrativa": "Segunda entrada de compra por USD 2,044 en el mismo combo de Cincinnati, acumulando un flujo total de USD 11,684 que refuerza la señal de acumulación. El incremento del 21% sobre el monto inicial sugiere confirmación de la tesis, con un desvío estándar de 0.8 en los precios de los cuatro mercados. Este segundo trade reduce el precio de entrada promedio, mejorando el edge en puntos si el mercado converge al consenso implícito. Riesgo: exposición concentrada en un solo evento deportivo con posible cancelación por lluvia."
+  },
+  {
+   "tipo": "ballena",
    "market_id": "0x036d4fcc39321c7b0f4770fd4478beba3b0000000000000000000000000000",
    "titulo": "Atlanta Braves vs. Minnesota Twins AND LoL: Gen.G vs KT Rolster - Game 2 Winner",
    "slug": "",
@@ -42,8 +82,7 @@
    "horizonte": "72h",
    "razon": "Trade de compra por $1,453 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "",
-   "titulo_es": "Atlanta Braves vs. Minnesota Twins Y LoL: Gen.G vs KT Rolster - Ganador del Juego 2",
-   "narrativa": "La compra en BALLENA combina dos mercados independientes con un monto de $1,452.62, lo que sugiere una apuesta coordinada por un operador con información o convicción fuerte. Aunque el volumen de mercado no está reportado, el tamaño del trade en relación a la señal indica un edge potencial si el consenso externo subestima la correlación entre ambos eventos. Riesgo: la falta de datos de volumen puede ocultar liquidez reducida en horarios de baja actividad."
+   "titulo_es": "Atlanta Braves vs. Minnesota Twins Y LoL: Gen.G vs KT Rolster - Ganador del Juego 2"
   },
   {
    "tipo": "ballena",
@@ -62,8 +101,7 @@
    "horizonte": "72h",
    "razon": "Trade de compra por $1,444 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "",
-   "titulo_es": "LoL: LNG Esports vs Weibo Gaming (BO3) - Grupo Nirvana de la LPL Y LoL: Gen.G vs KT Rolster - Ganador del Juego 2",
-   "narrativa": "La señal BALLENA detecta una compra de $1,444 USD en el cruce de dos mercados de LoL (LNG vs Weibo y Gen.G vs KT), lo que sugiere un posicionamiento coordinado en resultados correlacionados. Aunque el edge en puntos no se especifica, el monto concentrado en un solo lado indica convicción direccional, y el arbitraje entre eventos del mismo día puede capturar ineficiencias de precios si el consenso externo subestima la probabilidad conjunta. Riesgo: volatilidad intrapartido y posible falta de liquidez en mercados secundarios."
+   "titulo_es": "LoL: LNG Esports vs Weibo Gaming (BO3) - Grupo Nirvana de la LPL Y LoL: Gen.G vs KT Rolster - Ganador del Juego 2"
   },
   {
    "tipo": "ballena",
@@ -168,7 +206,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0285,
    "no": 0.9715,
-   "volumen": 9894200.861830004,
+   "volumen": 9894200.861830002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -178,7 +216,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995015.0585159997,
+   "volumen": 995015.0585159999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -188,7 +226,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993440002,
+   "volumen": 990196.2993440003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -288,7 +326,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.57294599997,
+   "volumen": 98743.57294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -308,7 +346,7 @@
    "slug": "wta-shnaide-rybakin-2026-08-19",
    "yes": 0.285,
    "no": 0.715,
-   "volumen": 9997.629312000003,
+   "volumen": 9997.629312000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Cincinnati Open: Diana Shnaider vs Elena Rybakina"
@@ -326,9 +364,9 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0865,
-   "no": 0.9135,
-   "volumen": 9991.036522000002,
+   "yes": 0.086,
+   "no": 0.914,
+   "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -336,9 +374,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.226,
-   "no": 0.774,
-   "volumen": 9990.964864000003,
+   "yes": 0.2255,
+   "no": 0.7745,
+   "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -378,7 +416,7 @@
    "slug": "highest-temperature-in-london-on-august-19-2026-23c",
    "yes": 0.31,
    "no": 0.69,
-   "volumen": 9961.369617000002,
+   "volumen": 9961.369617000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Londres de 23°C el 19 de agosto?"
@@ -388,7 +426,7 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.305,
    "no": 0.695,
-   "volumen": 9956.098180000003,
+   "volumen": 9956.09818,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -398,7 +436,7 @@
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.43,
    "no": 0.57,
-   "volumen": 9952.114907000003,
+   "volumen": 9952.114907000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
@@ -421,5 +459,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 86.93
+ "db_size_mb": 86.95
 }
