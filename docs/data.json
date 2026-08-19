@@ -1,6 +1,6 @@
 {
- "ts": 1787131829,
- "stamp": "20260819_093029",
+ "ts": 1787132190,
+ "stamp": "20260819_093630",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -69,7 +69,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0285,
    "no": 0.9715,
-   "volumen": 9894200.861829996,
+   "volumen": 9894200.861829998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -109,7 +109,7 @@
    "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
    "yes": 0.115,
    "no": 0.885,
-   "volumen": 982651.258146,
+   "volumen": 982651.2581459999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
@@ -179,7 +179,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.016,
    "no": 0.984,
-   "volumen": 98794.84698100002,
+   "volumen": 98794.846981,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -189,7 +189,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.57294599999,
+   "volumen": 98743.57294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
