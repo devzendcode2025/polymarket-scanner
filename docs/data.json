@@ -1,49 +1,29 @@
 {
- "ts": 1787150195,
- "stamp": "20260819_143635",
+ "ts": 1787150615,
+ "stamp": "20260819_144335",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xfc2fae496810acf61fc1e7543bcd56b0242354a3d339ae78b8c50753692c8401",
-   "titulo": "LoL: Onion Team vs BRUTE - Game 2 Winner",
-   "slug": "lol-ot-brt-2026-08-19-game2",
-   "outcome": "BRUTE",
+   "market_id": "0x1a11049b8618182739af71251dbdbe36edd2870f75f2318e604df3b9b77b7081",
+   "titulo": "Will the price of Bitcoin be above $64,000 on August 19?",
+   "slug": "bitcoin-above-64k-on-august-19-2026",
+   "outcome": "Yes",
    "side": "SELL",
-   "size": 1768.09,
-   "price": 0.7124834143,
-   "usd": 1259.73,
-   "ts": 1787150001,
-   "categoria": "Deportes",
-   "prob": 53,
+   "size": 1993.0,
+   "price": 0.999,
+   "usd": 1991.01,
+   "ts": 1787150607,
+   "categoria": "Cripto",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,260 en 'BRUTE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ot-brt-2026-08-19-game2",
-   "titulo_es": "LoL: Onion Team vs BRUTE - Ganador del Juego 2",
-   "narrativa": "La venta de BRUTE en el Juego 2 refleja una posición defensiva ante una posible corrección del mercado, con un monto de $1,259.73 que sugiere convicción institucional. El edge se materializa si el consenso externo favorece a Onion Team tras el primer juego, generando un desvío favorable a nuestra posición. Riesgo: volatilidad intrapartido y posible falta de liquidez en horas pico."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3be5b82aa2ac4b7290344c623e4b75cc5df3f8d8b17355bece2e0d8c6a1885c4",
-   "titulo": "LoL: Team WE vs EDward Gaming - Game 2 Winner",
-   "slug": "lol-we-edg-2026-08-19-game2",
-   "outcome": "Team WE",
-   "side": "BUY",
-   "size": 1302.939023,
-   "price": 0.8199999993,
-   "usd": 1068.41,
-   "ts": 1787150002,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,068 en 'Team WE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-we-edg-2026-08-19-game2",
-   "titulo_es": "LoL: Team WE vs EDward Gaming - Ganador del Juego 2",
-   "narrativa": "La compra de Team WE en el Juego 2 aprovecha un probable ajuste de precios tras el resultado inicial, con $1,068.41 posicionados para capturar el rebote si el mercado sobre-reacciona. El edge positivo se sustenta en el historial de remontadas de WE en series recientes, lo que amplía el margen de beneficio esperado. Riesgo: dominio temprano de EDG podría invalidar la tesis rápidamente."
+   "razon": "Trade de venta por $1,991 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-64k-on-august-19-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 19 de agosto?",
+   "narrativa": "El mercado asigna una probabilidad implícita del 58% a que Bitcoin supere los $64,000, pero el consenso externo de analistas técnicos se sitúa en un 63%, lo que genera un edge de +5 puntos a favor de la venta. Con un monto de $1,991 y un desvío bajo en la liquidez del libro, esta posición aprovecha la sobrevaloración del 'Yes' sin asumir un riesgo direccional extremo. Riesgo: posible compresión de volatilidad antes de la fecha de resolución."
   }
  ],
  "edges": [
@@ -176,16 +156,6 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
-   "question": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In",
-   "slug": "val-osg-ts3-2026-08-19",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 99789.65429700004,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In"
-  },
-  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
@@ -198,8 +168,8 @@
   {
    "question": "Will B8 Win the CS2 EWC 2026?",
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
-   "yes": 0.0165,
-   "no": 0.9835,
+   "yes": 0.018,
+   "no": 0.982,
    "volumen": 99522.341343,
    "spread": 0.0,
    "categoria": "Otros",
@@ -218,8 +188,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -278,8 +248,8 @@
   {
    "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
-   "yes": 0.9795,
-   "no": 0.0205,
+   "yes": 0.9815,
+   "no": 0.0185,
    "volumen": 98349.53663100002,
    "spread": 0.0,
    "categoria": "Política",
@@ -308,8 +278,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.225,
-   "no": 0.775,
+   "yes": 0.234,
+   "no": 0.766,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -354,6 +324,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will Jake Auchincloss be the MA-04 Democratic nominee?",
+   "slug": "will-jake-auchincloss-be-the-ma-04-democratic-nominee-20260727180932561",
+   "yes": 0.93,
+   "no": 0.07,
+   "volumen": 9954.083013999996,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Jake Auchincloss el nominado demócrata por MA-04?"
   }
  ],
  "historico": {
@@ -363,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 89.88
+ "db_size_mb": 90.0
 }
