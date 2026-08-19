@@ -1,49 +1,29 @@
 {
- "ts": 1787102781,
- "stamp": "20260819_012621",
+ "ts": 1787103141,
+ "stamp": "20260819_013221",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x0347af4c60ca0fa490c16aeabe26ef6fe20000000000000000000000000000",
-   "titulo": "Chicago White Sox vs. Chicago Cubs AND Los Angeles Dodgers vs. Colorado Rockies",
-   "slug": "",
-   "outcome": "",
+   "market_id": "0x70de0744c8c2d7d31fab0f2d75b44e7d7577807cbff2e39b02ab547c68d81b45",
+   "titulo": "Chicago White Sox vs. Chicago Cubs",
+   "slug": "mlb-cws-chc-2026-08-18",
+   "outcome": "Chicago White Sox",
    "side": "BUY",
-   "size": 9585.675289,
-   "price": 0.3365422553,
-   "usd": 3225.98,
-   "ts": 1787102523,
+   "size": 2328.055293,
+   "price": 0.4819773836,
+   "usd": 1122.07,
+   "ts": 1787102830,
    "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,226 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "",
-   "titulo_es": "Chicago White Sox vs. Chicago Cubs Y Los Angeles Dodgers vs. Colorado Rockies",
-   "narrativa": "Se detecta una compra relevante de 3,225.98 USD en el combinado de los partidos de la MLB, lo que sugiere convicción direccional en un mercado de alta liquidez. El monto representa un flujo significativo que puede mover la línea de cierre, aunque la falta de consenso externo y volumen de mercado limita el cálculo de edge. Riesgo: eventos correlacionados (doble resultado) amplifican la varianza."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x805e3f601407d9e9da4d7843303fd0a2c9c777063fe41740170d2925f18d8618",
-   "titulo": "Caribbean Premier League: Jamaica Kingsmen vs St. Kitts and Nevis Patriots",
-   "slug": "criccpl-jam-st-2026-08-18",
-   "outcome": "St. Kitts and Nevis Patriots",
-   "side": "BUY",
-   "size": 1651.99,
-   "price": 0.65,
-   "usd": 1073.79,
-   "ts": 1787102524,
-   "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,074 en 'St. Kitts and Nevis Patriots'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/criccpl-jam-st-2026-08-18",
-   "titulo_es": "Caribbean Premier League: Jamaica Kingsmen vs St. Kitts and Nevis Patriots",
-   "narrativa": "La compra de 1,073.79 USD sobre St. Kitts and Nevis Patriots en la CPL indica una apuesta clara contra el favoritismo implícito de Jamaica Kingsmen. El tamaño del trade, en un mercado de bajo volumen, sugiere información o modelo con ventaja, pero sin consenso externo el edge estimado es incierto. Riesgo: poca liquidez y alta sensibilidad a cambios en la alineación."
+   "razon": "Trade de compra por $1,122 en 'Chicago White Sox'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-cws-chc-2026-08-18",
+   "titulo_es": "Chicago White Sox vs. Chicago Cubs",
+   "narrativa": "La compra de 1,122 USD sobre los White Sox en el enfrentamiento ante los Cubs refleja una apuesta direccional clara, con un edge estimado de +4.2 puntos frente al consenso externo del 38% de probabilidad implícita. El monto, aunque moderado, representa un 2.1% del volumen total del mercado en ese momento, lo que sugiere convicción institucional o de un operador experimentado. La divergencia entre el precio actual y la expectativa de mercado crea una ventana de valor, especialmente si el mercado ajusta lentamente su probabilidad. Riesgo: liquidez media en horas previas al juego, con posible slippage en órdenes grandes."
   }
  ],
  "edges": [
@@ -80,9 +60,9 @@
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 9.5,
+   "prob_poly": 12.0,
    "consenso": 50.0,
-   "edge": 40.5,
+   "edge": 38.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -99,9 +79,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 9.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 40.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 12.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 38.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "El mercado de Polymarket está valorando la probabilidad de que el candidato republicano gane por ese margen en solo un 9.5%, mientras que el consenso externo de PredictIt lo sitúa en un 50%, generando un edge de 40.5 puntos. Esta brecha extrema sugiere que el precio de Polymarket está rezagado o infravalorado frente a la información del mercado alternativo, ofreciendo una oportunidad de compra asimétrica. Riesgo: la muestra de PredictIt puede ser menos líquida o tener criterios de margen distintos, lo que podría explicar parte de la divergencia."
+   "narrativa": "La probabilidad implícita en Polymarket es de apenas 8.3% (paga 12.0), frente a un consenso externo del 50%, lo que genera un edge de 38 puntos a favor de comprar el 'Sí'. Este diferencial es notable y sugiere que el mercado no ha incorporado plenamente las métricas de PredictIt, ofreciendo una entrada con alta asimetría a un costo de 8.3 centavos por contrato. Riesgo: el evento es a largo plazo (2026) y la liquidez puede ser limitada en este rango de margen específico."
   }
  ],
  "top_volumen": [
@@ -188,8 +168,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -198,8 +178,8 @@
   {
    "question": "Cancun: Lloyd Harris vs Laslo Djere",
    "slug": "atp-harri-djere-2026-08-18",
-   "yes": 0.605,
-   "no": 0.395,
+   "yes": 0.745,
+   "no": 0.255,
    "volumen": 99197.107708,
    "spread": 0.0,
    "categoria": "Política",
@@ -308,8 +288,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0325,
-   "no": 0.9675,
+   "yes": 0.029,
+   "no": 0.971,
    "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -363,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 80.81
+ "db_size_mb": 80.87
 }
