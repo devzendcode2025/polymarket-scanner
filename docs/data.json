@@ -1,71 +1,10 @@
 {
- "ts": 1787118385,
- "stamp": "20260819_054625",
+ "ts": 1787118746,
+ "stamp": "20260819_055226",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x3e6273bbe7069f0216c6e19435a45798053d2cbbbec2085b8b4d1e8831b12a3a",
-   "titulo": "Will Jay Collins finish second in the Florida Republican Governor primary?",
-   "slug": "will-jay-collins-finish-second-in-the-florida-republican-governor-primary-20260710143927094",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 1296.0,
-   "price": 0.999,
-   "usd": 1294.7,
-   "ts": 1787118150,
-   "categoria": "Política",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,295 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-jay-collins-finish-second-in-the-florida-republican-governor-primary-20260710143927094",
-   "titulo_es": "¿Terminará Jay Collins en segundo lugar en las primarias republicanas para gobernador de Florida?",
-   "narrativa": "La venta de 'Yes' en Jay Collins para segundo lugar refleja una operación de 1,294.7 USD que anticipa una corrección en el precio del contrato, posiblemente por un consenso externo que favorece a otros contendientes con mayor reconocimiento. El tamaño de la posición sugiere convicción en que el mercado está sobrevalorando sus probabilidades actuales, generando un edge negativo que se busca explotar. Riesgo: liquidez limitada en mercados políticos secundarios."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd052266fdfbbb685a19da9b4b6ed99834d4cbf605440ca6fd7763cacb0e71d39",
-   "titulo": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
-   "slug": "atp-zverev-paul-2026-08-19",
-   "outcome": "Alexander Zverev",
-   "side": "BUY",
-   "size": 1777.45,
-   "price": 0.71,
-   "usd": 1261.99,
-   "ts": 1787118148,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,262 en 'Alexander Zverev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-zverev-paul-2026-08-19",
-   "titulo_es": "Cincinnati Open: Alexander Zverev contra Tommy Paul",
-   "narrativa": "La compra de Alexander Zverev por 1,261.99 USD en el Cincinnati Open aprovecha una posible discrepancia entre el precio implícito y su historial reciente en canchas duras, donde tiene un desempeño sólido frente a Tommy Paul. El monto indica confianza en que el mercado no ha ajustado completamente el factor de experiencia en torneos Masters 1000, ofreciendo un edge positivo en el punto de entrada. Riesgo: variabilidad por condiciones climáticas o lesiones de último minuto."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x57b62ba96522937054ce6f24f0476a407fa068c543e3776adc517108e536b1fc",
-   "titulo": "Bitcoin Up or Down - August 19, 1:30AM-1:45AM ET",
-   "slug": "btc-updown-15m-1787117400",
-   "outcome": "Down",
-   "side": "BUY",
-   "size": 1105.27,
-   "price": 0.99,
-   "usd": 1094.22,
-   "ts": 1787118156,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,094 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-15m-1787117400",
-   "titulo_es": "Bitcoin Sube o Baja - 19 de agosto, 1:30AM-1:45AM ET",
-   "narrativa": "La compra de 'Down' para el intervalo de 1:30-1:45 AM ET del 19 de agosto, con 1,094.22 USD, se alinea con patrones históricos de baja volatilidad y corrección intradía en Bitcoin durante horas de baja liquidez. El consenso externo de indicadores técnicos de corto plazo refuerza la dirección bajista, y el tamaño del trade sugiere que el operador identifica un desbalance en el libro de órdenes que favorece la caída. Riesgo: movimientos bruscos por noticias macro o manipulación en mercados de baja profundidad."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -288,8 +227,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0465,
-   "no": 0.9535,
+   "yes": 0.0455,
+   "no": 0.9545,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -348,8 +287,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2435,
-   "no": 0.7565,
+   "yes": 0.243,
+   "no": 0.757,
    "volumen": 9945.254863999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -383,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 83.67
+ "db_size_mb": 83.74
 }
