@@ -1,71 +1,10 @@
 {
- "ts": 1787153436,
- "stamp": "20260819_153036",
+ "ts": 1787153796,
+ "stamp": "20260819_153636",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x864f6585e6b90acc5aa3de9bd51b24aef054d0506ca430bd0e1fcd4ff69e898b",
-   "titulo": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend",
-   "slug": "lol-al-tes-2026-08-19",
-   "outcome": "Top Esports",
-   "side": "SELL",
-   "size": 10000.0,
-   "price": 0.999,
-   "usd": 9990.0,
-   "ts": 1787153311,
-   "categoria": "Deportes",
-   "prob": 66,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $9,990 en 'Top Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-al-tes-2026-08-19",
-   "titulo_es": "LoL: Anyone's Legend vs Top Esports (BO3) - Ascenso de Grupo LPL",
-   "narrativa": "La venta de $9,990 en Top Esports contra Anyone's Legend refleja una convicción institucional significativa en un mercado de ascenso de la LPL, donde el volumen suele ser bajo y las órdenes grandes mueven la aguja. Este flujo sugiere que el consenso externo favorece a Anyone's Legend, pero la posición agresiva del vendedor podría estar anticipando una corrección en el precio implícito. Riesgo: posible iliquidez en horarios no pico del evento."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xfd13c67069e83a4a8ba1ba425f259185bcbae282c4f91074646e3c5cf97b7ae3",
-   "titulo": "Will Bitcoin reach $72,500 in August?",
-   "slug": "will-bitcoin-reach-72pt5k-in-august-2026",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 2000.0,
-   "price": 0.56789714,
-   "usd": 1135.79,
-   "ts": 1787153311,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,136 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-bitcoin-reach-72pt5k-in-august-2026",
-   "titulo_es": "¿Alcanzará Bitcoin los $72,500 en agosto?",
-   "narrativa": "La venta de $1,135.79 en 'No' para Bitcoin a $72,500 en agosto indica una apuesta contraria al optimismo alcista, aprovechando que el precio actual está lejos del objetivo y el desvío histórico de volatilidad mensual no respalda un movimiento tan extremo. El edge proviene de que el consenso externo sobreestima la probabilidad de un rally sostenido, mientras que el monto moderado sugiere una gestión de riesgo calculada. Riesgo: eventos macroeconómicos imprevistos pueden disparar la volatilidad."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd6400a28c20cd16d6bb55d0e280308f7a6b6280a4eaed5d775bac48aa3ff04cc",
-   "titulo": "LoL: Onion Team vs BRUTE (BO3) - Hitpoint Masters Regular Season",
-   "slug": "lol-ot-brt-2026-08-19",
-   "outcome": "BRUTE",
-   "side": "BUY",
-   "size": 1204.81,
-   "price": 0.8904150032,
-   "usd": 1072.78,
-   "ts": 1787153305,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,073 en 'BRUTE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ot-brt-2026-08-19",
-   "titulo_es": "LoL: Onion Team vs BRUTE (BO3) - Temporada regular de Hitpoint Masters",
-   "narrativa": "La compra de $1,072.78 en BRUTE contra Onion Team en la Hitpoint Masters refleja una detección de valor, ya que el mercado probablemente infravalora a BRUTE basado en su rendimiento reciente en partidos BO3, donde su tasa de victoria en mapas supera el 60% según datos previos. El monto, aunque no masivo, es significativo para un mercado de liga menor, indicando que un actor con información posiciona antes de que el consenso externo ajuste las cuotas. Riesgo: la falta de volumen de mercado puede amplificar el deslizamiento."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -130,7 +69,7 @@
    "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
    "yes": 0.0135,
    "no": 0.9865,
-   "volumen": 9945205.819649003,
+   "volumen": 9945796.913932007,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Reducirá la Fed las tasas de interés en 25 puntos básicos después de la reunión de septiembre de 2026?"
@@ -140,7 +79,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9910440.051829997,
+   "volumen": 9910440.051829986,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -150,7 +89,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995401.5678489998,
+   "volumen": 995401.5678490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -160,7 +99,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.299344,
+   "volumen": 990196.2993440002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -178,9 +117,9 @@
   {
    "question": "Will Wildberries announce bankruptcy before 2027?",
    "slug": "will-wildberries-announce-bankruptcy-before-2027-20260723171611669",
-   "yes": 0.185,
-   "no": 0.815,
-   "volumen": 99953.269562,
+   "yes": 0.175,
+   "no": 0.825,
+   "volumen": 99953.26956200002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Wildberries la quiebra antes de 2027?"
@@ -196,6 +135,26 @@
    "question_es": "¿Estará el precio de Bitcoin por encima de $58,000 el 20 de agosto?"
   },
   {
+   "question": "Will Ethereum reach $2,400 in August?",
+   "slug": "will-ethereum-reach-2400-in-august-2026",
+   "yes": 0.087,
+   "no": 0.913,
+   "volumen": 99847.17493899999,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Ethereum los $2,400 en agosto?"
+  },
+  {
+   "question": "Will B8 Win the CS2 EWC 2026?",
+   "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
+   "yes": 0.018,
+   "no": 0.982,
+   "volumen": 99821.390614,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará B8 la CS2 EWC 2026?"
+  },
+  {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
@@ -204,16 +163,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
-  },
-  {
-   "question": "Will B8 Win the CS2 EWC 2026?",
-   "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
-   "yes": 0.018,
-   "no": 0.982,
-   "volumen": 99643.74361399999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará B8 la CS2 EWC 2026?"
   },
   {
    "question": "Will MicroStrategy be margin called in 2026?",
@@ -228,8 +177,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -246,11 +195,21 @@
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
   },
   {
+   "question": "Will FUT Esports Win the CS2 EWC 2026?",
+   "slug": "will-fut-esports-win-the-cs2-ewc-2026-20260810160005091",
+   "yes": 0.0165,
+   "no": 0.9835,
+   "volumen": 99142.136613,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará FUT Esports el CS2 EWC 2026?"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 99036.85304000003,
+   "volumen": 99036.85304000005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -258,22 +217,12 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will FUT Esports Win the CS2 EWC 2026?",
-   "slug": "will-fut-esports-win-the-cs2-ewc-2026-20260810160005091",
-   "yes": 0.023,
-   "no": 0.977,
-   "volumen": 98964.48900200002,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará FUT Esports el CS2 EWC 2026?"
   },
   {
    "question": "Will Real Sociedad win the 2026-27 LALIGA Championship?",
@@ -286,11 +235,21 @@
    "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
   },
   {
+   "question": "Will MOUZ Win the CS2 EWC 2026?",
+   "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
+   "yes": 0.1555,
+   "no": 0.8445,
+   "volumen": 98829.113919,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará MOUZ el CS2 EWC 2026?"
+  },
+  {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.57294599997,
+   "volumen": 98743.572946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -310,7 +269,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 98349.53663100002,
+   "volumen": 98349.53663100001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -328,8 +287,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.075,
-   "no": 0.925,
+   "yes": 0.078,
+   "no": 0.922,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -338,9 +297,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2365,
-   "no": 0.7635,
-   "volumen": 9990.964864000001,
+   "yes": 0.2355,
+   "no": 0.7645,
+   "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -354,26 +313,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will Truist fail by end of 2026?",
-   "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
-   "volumen": 9973.222389999999,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Quebrará Truist para finales de 2026?"
-  },
-  {
-   "question": "Map Handicap: NAVI (-1.5) vs Legacy (+1.5)",
-   "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
-   "yes": 0.405,
-   "no": 0.595,
-   "volumen": 9968.634194,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
   }
  ],
  "historico": {
@@ -383,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 90.65
+ "db_size_mb": 90.72
 }
