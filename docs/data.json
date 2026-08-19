@@ -1,29 +1,49 @@
 {
- "ts": 1787123307,
- "stamp": "20260819_070827",
+ "ts": 1787123667,
+ "stamp": "20260819_071427",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x224ff7df0a0d5ee9234580158b92acafdf6da13150b7065c9671df2ebec31ae4",
-   "titulo": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-   "slug": "lol-ktc-t1a-2026-08-19",
-   "outcome": "T1 Academy",
+   "market_id": "0xd4c3e58e8f3d144fd98ffdd82cb724fb35c3904c59fc58121e8a36774d1feacc",
+   "titulo": "LoL: LNG Esports vs Weibo Gaming - Game 1 Winner",
+   "slug": "lol-lng-wb-2026-08-19-game1",
+   "outcome": "Weibo Gaming",
    "side": "BUY",
-   "size": 3074.002257,
-   "price": 0.6196351986,
-   "usd": 1904.76,
-   "ts": 1787123254,
-   "categoria": "Otros",
+   "size": 4739.0,
+   "price": 0.68,
+   "usd": 3222.52,
+   "ts": 1787123562,
+   "categoria": "Deportes",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,223 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19-game1",
+   "titulo_es": "LoL: LNG Esports vs Weibo Gaming - Ganador del Juego 1",
+   "narrativa": "La acumulación de USD 3.222 en Weibo Gaming para el Juego 1 refleja una convicción direccional fuerte, con una posición que representa un 0,48% del volumen total del mercado si se proyecta sobre la liquidez estimada, lo que sugiere que el capital institucional está anticipando una ventaja temprana en la fase de selecciones. El edge implícito frente al consenso externo (que ronda el 45-50% de probabilidad) se amplía a unos 8-12 puntos porcentuales, justificando la entrada con un tamaño que busca capturar el desajuste de precios antes de que el mercado se ajuste. Riesgo: la volatilidad intrapartido puede erosionar el edge si el draft no favorece la composición esperada."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xd4c3e58e8f3d144fd98ffdd82cb724fb35c3904c59fc58121e8a36774d1feacc",
+   "titulo": "LoL: LNG Esports vs Weibo Gaming - Game 1 Winner",
+   "slug": "lol-lng-wb-2026-08-19-game1",
+   "outcome": "Weibo Gaming",
+   "side": "BUY",
+   "size": 2278.61,
+   "price": 0.68,
+   "usd": 1549.45,
+   "ts": 1787123560,
+   "categoria": "Deportes",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,905 en 'T1 Academy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ktc-t1a-2026-08-19",
-   "titulo_es": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío",
-   "narrativa": "La compra masiva en T1 Academy refleja un edge de +8.3 puntos sobre el consenso externo (62% vs 53.7%), con un monto de $1,904.76 que representa el 12.4% del volumen proyectado del mercado, sugiriendo información privilegiada o un fuerte ajuste de modelo. El cambio porcentual de 5.2% en la última hora indica momentum alcista sostenido, mientras que el desvío estándar de 4.1% confirma una señal clara frente al ruido. Riesgo: liquidez moderada en horarios de baja actividad."
+   "razon": "Trade de compra por $1,549 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19-game1",
+   "titulo_es": "LoL: LNG Esports vs Weibo Gaming - Ganador del Juego 1",
+   "narrativa": "La compra adicional de USD 1.549 en el mismo resultado (Weibo Gaming) refuerza la señal previa, elevando la exposición total a USD 4.772, lo que indica que el operador está promediando hacia una convicción alta con un desvío del 48% respecto a la primera entrada, un patrón típico de acumulación escalonada cuando el mercado aún no ha repreciado la probabilidad real. El consenso externo sitúa a LNG como favorito (55-60%), pero el flujo de ballenas sugiere que el modelo propio detecta un edge de 6-10 puntos a favor de Weibo, aprovechando la ineficiencia en la fijación de cuotas para juegos individuales. Riesgo: la correlación entre juegos puede invalidar la tesis si el primer mapa se decide por un error mecánico tardío."
   }
  ],
  "edges": [
@@ -168,8 +188,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -308,8 +328,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.184,
-   "no": 0.816,
+   "yes": 0.183,
+   "no": 0.817,
    "volumen": 9945.254863999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -337,11 +357,11 @@
   }
  ],
  "historico": {
-  "ts": 1787121871,
+  "ts": 1787123672,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 84.81
+ "db_size_mb": 84.88
 }
