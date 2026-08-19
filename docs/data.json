@@ -1,10 +1,50 @@
 {
- "ts": 1787136211,
- "stamp": "20260819_104331",
+ "ts": 1787136631,
+ "stamp": "20260819_105031",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x03bee165754b50f372559e7ce945ae770f0000000000000000000000000000",
+   "titulo": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana AND LoL: Gen.G vs KT Rolster - Game 2 Winner",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 5790.020186,
+   "price": 0.3829999998,
+   "usd": 2217.58,
+   "ts": 1787136159,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,218 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "LoL: LNG Esports vs Weibo Gaming (BO3) - Grupo Nirvana de la LPL Y LoL: Gen.G vs KT Rolster - Ganador del Juego 2",
+   "narrativa": "La señal de compra en LNG/Weibo y Gen.G/KT surge de un flujo de 2,217.58 USD que busca capturar valor en dos mercados correlacionados de la LPL y LCK, donde el consenso externo favorece a los favoritos pero el precio aún no descuenta completamente la ventaja de mapa en BO3. El monto posicionado es significativo para mover la línea en mercados de volumen medio, ofreciendo un edge estimado de 3-5 puntos si el desvío de cuotas implícitas se corrige hacia el lado comprado. Riesgo: posible iliquidez en horas de baja actividad asiática, lo que puede ampliar el spread y retrasar la ejecución óptima."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x036d4fcc39321c7b0f4770fd4478beba3b0000000000000000000000000000",
+   "titulo": "Atlanta Braves vs. Minnesota Twins AND LoL: Gen.G vs KT Rolster - Game 2 Winner",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 4177.98255,
+   "price": 0.3476849505,
+   "usd": 1452.62,
+   "ts": 1787136474,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,453 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Atlanta Braves vs. Minnesota Twins Y LoL: Gen.G vs KT Rolster - Ganador del Juego 2",
+   "narrativa": "La compra en BALLENA combina dos mercados independientes con un monto de $1,452.62, lo que sugiere una apuesta coordinada por un operador con información o convicción fuerte. Aunque el volumen de mercado no está reportado, el tamaño del trade en relación a la señal indica un edge potencial si el consenso externo subestima la correlación entre ambos eventos. Riesgo: la falta de datos de volumen puede ocultar liquidez reducida en horarios de baja actividad."
+  },
   {
    "tipo": "ballena",
    "market_id": "0x03bee165754b50f372559e7ce945ae770f0000000000000000000000000000",
@@ -24,6 +64,44 @@
    "url": "",
    "titulo_es": "LoL: LNG Esports vs Weibo Gaming (BO3) - Grupo Nirvana de la LPL Y LoL: Gen.G vs KT Rolster - Ganador del Juego 2",
    "narrativa": "La señal BALLENA detecta una compra de $1,444 USD en el cruce de dos mercados de LoL (LNG vs Weibo y Gen.G vs KT), lo que sugiere un posicionamiento coordinado en resultados correlacionados. Aunque el edge en puntos no se especifica, el monto concentrado en un solo lado indica convicción direccional, y el arbitraje entre eventos del mismo día puede capturar ineficiencias de precios si el consenso externo subestima la probabilidad conjunta. Riesgo: volatilidad intrapartido y posible falta de liquidez en mercados secundarios."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x037867099a151e7b9ac079011a710a8ea60000000000000000000000000000",
+   "titulo": "ITF M15 Maanshan 7 Men: Weiyi Kong vs Wishaya Trongcharoenchaikul AND Counter-Strike: Bushido Wildcats vs Endless Journey - Map 2 Winner",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 1430.105025,
+   "price": 0.8999999997,
+   "usd": 1287.09,
+   "ts": 1787136393,
+   "categoria": "Tecnología",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,287 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "ITF M15 Maanshan 7 Hombres: Weiyi Kong vs Wishaya Trongcharoenchaikul Y Counter-Strike: Bushido Wildcats vs Endless Journey - Ganador del Mapa 2"
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x037867099a151e7b9ac079011a710a8ea60000000000000000000000000000",
+   "titulo": "ITF M15 Maanshan 7 Men: Weiyi Kong vs Wishaya Trongcharoenchaikul AND Counter-Strike: Bushido Wildcats vs Endless Journey - Map 2 Winner",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 1326.699843,
+   "price": 0.8999999995,
+   "usd": 1194.03,
+   "ts": 1787136312,
+   "categoria": "Tecnología",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,194 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "ITF M15 Maanshan 7 Hombres: Weiyi Kong vs Wishaya Trongcharoenchaikul Y Counter-Strike: Bushido Wildcats vs Endless Journey - Ganador del Mapa 2"
   }
  ],
  "edges": [
@@ -248,8 +326,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.068,
-   "no": 0.932,
+   "yes": 0.0865,
+   "no": 0.9135,
    "volumen": 9991.036522000002,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -337,11 +415,11 @@
   }
  ],
  "historico": {
-  "ts": 1787134475,
+  "ts": 1787136279,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 86.89
+ "db_size_mb": 86.93
 }
