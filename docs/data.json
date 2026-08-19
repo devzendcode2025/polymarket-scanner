@@ -1,88 +1,29 @@
 {
- "ts": 1787151455,
- "stamp": "20260819_145735",
+ "ts": 1787151875,
+ "stamp": "20260819_150435",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x4432df49b36c20c1a27a604fa8a1e8bc133c0f9d5e0850fc911277ae3c6afc1c",
-   "titulo": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs",
-   "slug": "cs2-furia-aur1-2026-08-19",
-   "outcome": "FURIA",
+   "market_id": "0x4432f578b68b5f7902ebb36dec0e17c7ec2c324d63b4e38053c86edf63a4942b",
+   "titulo": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
+   "slug": "cs2-fut-mgc-2026-08-19-game1",
+   "outcome": "magic",
    "side": "BUY",
-   "size": 2650.0,
-   "price": 0.62,
-   "usd": 1643.0,
-   "ts": 1787151198,
+   "size": 1586.609192,
+   "price": 0.8588063172,
+   "usd": 1362.59,
+   "ts": 1787151807,
    "categoria": "Deportes",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,643 en 'FURIA'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-furia-aur1-2026-08-19",
-   "titulo_es": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Playoffs de la Copa del Mundo de Esports",
-   "narrativa": "La compra de 1,643 USD en FURIA refleja una apuesta coordinada por el lado del equipo brasileño, que parte como favorito en el BO3 contra Aurora Gaming. El monto sugiere convicción institucional, y aunque no hay volumen de mercado reportado, el tamaño de la orden en un evento de playoffs de alto perfil indica que el mercado podría estar subestimando la ventaja de mapa y experiencia de FURIA. Riesgo: posible iliquidez en horas previas al inicio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3be5b82aa2ac4b7290344c623e4b75cc5df3f8d8b17355bece2e0d8c6a1885c4",
-   "titulo": "LoL: Team WE vs EDward Gaming - Game 2 Winner",
-   "slug": "lol-we-edg-2026-08-19-game2",
-   "outcome": "Team WE",
-   "side": "BUY",
-   "size": 3371.994443,
-   "price": 0.4457154436,
-   "usd": 1502.95,
-   "ts": 1787151207,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,503 en 'Team WE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-we-edg-2026-08-19-game2",
-   "titulo_es": "LoL: Team WE vs EDward Gaming - Ganador del Juego 2",
-   "narrativa": "La acumulación de 1,502.95 USD en Team WE para el Juego 2 contra EDward Gaming muestra una clara dirección de capital, probablemente basada en el desempeño del primer juego y ajustes de draft. El monto supera el promedio de operaciones en este tipo de mercados, lo que sugiere que el consenso externo favorece a WE, y el edge podría estar en el desajuste de cuotas entre el Juego 1 y el Juego 2. Riesgo: cambios de alineación o estrategia entre juegos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3be5b82aa2ac4b7290344c623e4b75cc5df3f8d8b17355bece2e0d8c6a1885c4",
-   "titulo": "LoL: Team WE vs EDward Gaming - Game 2 Winner",
-   "slug": "lol-we-edg-2026-08-19-game2",
-   "outcome": "Team WE",
-   "side": "BUY",
-   "size": 3000.0,
-   "price": 0.4325068667,
-   "usd": 1297.52,
-   "ts": 1787151210,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,298 en 'Team WE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-we-edg-2026-08-19-game2",
-   "titulo_es": "LoL: Team WE vs EDward Gaming - Ganador del Juego 2",
-   "narrativa": "Una segunda compra de 1,297.52 USD en Team WE refuerza la señal anterior, sumando un total de 2,800 USD en el mismo resultado. Este flujo consecutivo indica que los operadores grandes ven una ventaja sostenida, probablemente por el estado de forma de WE y el historial reciente contra EDG. El monto adicional sugiere que el mercado aún no ha ajustado completamente las probabilidades, dejando un edge positivo. Riesgo: volatilidad alta en juegos cerrados."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd21ed5ed155ab6da3723985ef872d7e84970fae211af2bbc8bc999e92131edb9",
-   "titulo": "Amazon (AMZN) Up or Down on August 19?",
-   "slug": "amzn-up-or-down-on-august-19-2026",
-   "outcome": "Up",
-   "side": "BUY",
-   "size": 1155.0,
-   "price": 0.9895670996,
-   "usd": 1142.95,
-   "ts": 1787151204,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,143 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/amzn-up-or-down-on-august-19-2026",
-   "titulo_es": "¿Amazon (AMZN) sube o baja el 19 de agosto?"
+   "razon": "Trade de compra por $1,363 en 'magic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-fut-mgc-2026-08-19-game1",
+   "titulo_es": "Counter-Strike: FUT Esports vs magic - Ganador del Mapa 1",
+   "narrativa": "El mercado muestra una oportunidad de compra en magic con un monto de $1,362.59, lo que sugiere confianza en el lado contrario al favorito implícito. Aunque no hay volumen de mercado reportado, el tamaño del trade indica una posible ineficiencia en la fijación de precios del mapa 1. El edge se basa en la diferencia entre el consenso externo y la probabilidad implícita actual, que aún no se ha corregido. Riesgo: falta de datos de volumen puede amplificar la volatilidad del precio."
   }
  ],
  "edges": [
@@ -159,7 +100,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995401.567849,
+   "volumen": 995401.5678490002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -169,7 +110,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993440003,
+   "volumen": 990196.299344,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -189,7 +130,7 @@
    "slug": "will-wildberries-announce-bankruptcy-before-2027-20260723171611669",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 99953.26956200002,
+   "volumen": 99953.269562,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Anunciará Wildberries la quiebra antes de 2027?"
@@ -199,7 +140,7 @@
    "slug": "bitcoin-above-58k-on-august-20-2026",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 99941.82600700001,
+   "volumen": 99941.82600699998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Bitcoin por encima de $58,000 el 20 de agosto?"
@@ -229,7 +170,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.018,
    "no": 0.982,
-   "volumen": 99573.633614,
+   "volumen": 99573.63361399999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -237,8 +178,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -255,21 +196,11 @@
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
   },
   {
-   "question": "Will Elon Musk post 220-239 tweets from August 14 to August 21, 2026?",
-   "slug": "elon-musk-of-tweets-august-14-august-21-220-239",
-   "yes": 0.0665,
-   "no": 0.9335,
-   "volumen": 99089.614764,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 220 y 239 tuits del 14 de agosto al 21 de agosto de 2026?"
-  },
-  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.068,
-   "no": 0.932,
-   "volumen": 99036.85304000003,
+   "yes": 0.066,
+   "no": 0.934,
+   "volumen": 99036.85304000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -297,8 +228,8 @@
   {
    "question": "Will Elon Musk post 240-259 tweets from August 14 to August 21, 2026?",
    "slug": "elon-musk-of-tweets-august-14-august-21-240-259",
-   "yes": 0.0185,
-   "no": 0.9815,
+   "yes": 0.026,
+   "no": 0.974,
    "volumen": 98667.60523599999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -339,7 +270,7 @@
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 9991.036522,
+   "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -347,9 +278,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2235,
-   "no": 0.7765,
-   "volumen": 9990.964864000003,
+   "yes": 0.2465,
+   "no": 0.7535,
+   "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -379,7 +310,7 @@
    "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
    "yes": 0.405,
    "no": 0.595,
-   "volumen": 9968.634194,
+   "volumen": 9968.634194000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
@@ -393,6 +324,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will Jake Auchincloss be the MA-04 Democratic nominee?",
+   "slug": "will-jake-auchincloss-be-the-ma-04-democratic-nominee-20260727180932561",
+   "yes": 0.929,
+   "no": 0.071,
+   "volumen": 9954.083013999996,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Jake Auchincloss el nominado demócrata por MA-04?"
   }
  ],
  "historico": {
@@ -402,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 90.14
+ "db_size_mb": 90.28
 }
