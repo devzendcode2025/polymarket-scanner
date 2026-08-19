@@ -1,31 +1,10 @@
 {
- "ts": 1787171860,
- "stamp": "20260819_203740",
+ "ts": 1787172221,
+ "stamp": "20260819_204341",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x0a37a31fc7ee2275d82217a2816d849f12622477eea4f5f7d3e03007fed4f2be",
-   "titulo": "Bitcoin Up or Down - August 19, 4:30PM-4:35PM ET",
-   "slug": "btc-updown-5m-1787171400",
-   "outcome": "Up",
-   "side": "SELL",
-   "size": 1133.97,
-   "price": 0.99,
-   "usd": 1122.63,
-   "ts": 1787171626,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,123 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1787171400",
-   "titulo_es": "Bitcoin Sube o Baja - 19 de agosto, 4:30PM-4:35PM ET",
-   "narrativa": "La orden de venta de $1,123 en el mercado de 'Bitcoin Sube o Baja' del 19 de agosto muestra una apuesta direccional clara contra el resultado 'Up', con un tamaño que representa liquidez suficiente para mover la aguja en ventanas de 5 minutos. El edge se calcula comparando el consenso externo (probabilidad implícita del mercado) con la frecuencia histórica de movimientos alcistas en ese rango horario, donde la presión vendedora suele dominar. Con un desvío estándar de precios de ~0.8% en ese lapso, la posición busca capturar la reversión media esperada. Riesgo: ventana de alta volatilidad intradía que puede invalidar la tesis en segundos."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -95,9 +74,9 @@
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 14.0,
+   "prob_poly": 15.0,
    "consenso": 49.5,
-   "edge": 35.5,
+   "edge": 34.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -114,9 +93,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 14.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 35.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 15.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 34.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "El consenso externo de PredictIt sitúa la probabilidad en 49.5%, mientras Polymarket paga 14.0 (≈7.1% de probabilidad implícita), generando un edge de 35.5 puntos porcentuales a favor del 'Sí'. Esta brecha extrema sugiere una fijación de precios ineficiente, aunque el tamaño del mercado puede limitar la ejecución de órdenes grandes. Riesgo: liquidez reducida y posible error en el consenso externo."
+   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a solo 15.0, frente a un consenso externo de 49.5 en PredictIt, generando un edge de 34.5 puntos a favor de la compra. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real del evento, ofreciendo una oportunidad asimétrica con un potencial de revalorización del 130% si el mercado converge hacia el consenso. Riesgo: el evento es a largo plazo (2026) y la liquidez puede ser limitada, lo que podría dificultar la salida anticipada."
   }
  ],
  "top_volumen": [
@@ -213,8 +192,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.06,
-   "no": 0.94,
+   "yes": 0.0565,
+   "no": 0.9435,
    "volumen": 99036.85303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -243,8 +222,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.006,
-   "no": 0.994,
+   "yes": 0.0065,
+   "no": 0.9935,
    "volumen": 98534.93697800003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -323,8 +302,8 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.04,
-   "no": 0.96,
+   "yes": 0.031,
+   "no": 0.969,
    "volumen": 9964.685226000001,
    "spread": 0.0,
    "categoria": "Política",
@@ -378,5 +357,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 94.77
+ "db_size_mb": 94.93
 }
