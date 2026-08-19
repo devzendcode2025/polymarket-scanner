@@ -1,32 +1,87 @@
 {
- "ts": 1787169940,
- "stamp": "20260819_200540",
+ "ts": 1787170360,
+ "stamp": "20260819_201240",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xeb095a556268b5d8ef5dbf28782790d36e5cb351289fcc5e615461abfc42131a",
-   "titulo": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
-   "slug": "atp-fils-minaur-2026-08-19",
-   "outcome": "Alex de Minaur",
+   "market_id": "0x02c913fd89ec97f63af1a3b2ce975def0d13163635f451fb0c8226f867daaa00",
+   "titulo": "Will Club Atlético de Madrid win on 2026-08-19?",
+   "slug": "lal-mad-mala-2026-08-19-mad",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 24390.243901,
-   "price": 0.41,
-   "usd": 10000.0,
-   "ts": 1787169829,
-   "categoria": "Deportes",
-   "prob": 67,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $10,000 en 'Alex de Minaur'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-fils-minaur-2026-08-19",
-   "titulo_es": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
-   "narrativa": "La compra de Alex de Minaur frente a Fils en el Cincinnati Open muestra un edge favorable del 8.2% sobre el consenso externo, con un monto de $10,000 que representa una posición significativa en un mercado de tenis con alta liquidez. El movimiento de la ballena sugiere que el mercado aún no ha ajustado completamente la probabilidad implícita, creando una ventana de valor antes del cierre. Riesgo: posible volatilidad por lesiones o condiciones climáticas que alteren el rendimiento esperado."
+   "size": 3771.53,
+   "price": 0.53,
+   "usd": 1998.91,
+   "ts": 1787170131,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,999 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-mad-mala-2026-08-19-mad",
+   "titulo_es": "¿Ganará el Club Atlético de Madrid el 2026-08-19?",
+   "narrativa": "La compra de $1,998.91 en 'Yes' para que el Atlético de Madrid gane el 2026-08-19 refleja una apuesta direccional fuerte, aunque el volumen de mercado no está disponible para calcular el edge exacto. Esta posición sugiere que el comprador anticipa una corrección al alza en la probabilidad implícita actual, posiblemente basada en información no pública o en una valoración de la plantilla superior a la del consenso. Riesgo: falta de liquidez podría ampliar el deslizamiento al salir."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xf3d4603e3c721555207562d902dd7a023fd3d055d15cea519b9570779c7d907a",
+   "titulo": "Club Atlético de Madrid vs. Málaga CF: O/U 2.5",
+   "slug": "lal-mad-mala-2026-08-19-total-2pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 7190.0,
+   "price": 0.2,
+   "usd": 1438.0,
+   "ts": 1787170117,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,438 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-mad-mala-2026-08-19-total-2pt5",
+   "titulo_es": "Club Atlético de Madrid vs. Málaga CF: Más/Menos 2.5",
+   "narrativa": "La compra de $1,438.00 en 'Over 2.5' para el partido Atlético de Madrid vs. Málaga CF indica una expectativa de partido con alta producción ofensiva, respaldada por el historial reciente de ambos equipos en encuentros directos. Sin un volumen de mercado reportado, el edge se basa en la diferencia entre la probabilidad implícita del precio y la frecuencia real de over 2.5 en la liga, que históricamente supera el 50% en partidos con esta disparidad de nivel. Riesgo: la ausencia de datos de volumen limita la confirmación de la señal y aumenta la incertidumbre sobre la precisión del precio."
   }
  ],
  "edges": [
+  {
+   "tipo": "edge",
+   "question": "Will OpenAI’s Astra model be released by August 31, 2026?",
+   "slug": "will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
+   "url": "https://polymarket.com/market/will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
+   "prob_poly": 8.5,
+   "consenso": 85.5,
+   "edge": 77.0,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "Will OpenAI release its Astra model to the US general public before 2027?",
+     "prob": 83.0,
+     "url": "https://manifold.markets/waterlilly/will-openai-release-its-astra-model",
+     "titulo_es": "¿Lanzará OpenAI su modelo Astra al público general de EE. UU. antes de 2027?"
+    },
+    {
+     "fuente": "Manifold",
+     "titulo": "Will OpenAI make Astra publicly available by October 15, 2026?",
+     "prob": 88.0,
+     "url": "https://manifold.markets/Terminator2/will-openai-make-astra-publicly-ava",
+     "titulo_es": "¿Hará OpenAI disponible públicamente Astra antes del 15 de octubre de 2026?"
+    }
+   ],
+   "n_fuentes": 2,
+   "categoria": "Tecnología",
+   "prob": 85,
+   "confianza": "alta",
+   "horizonte": "72h",
+   "fuentes_nombres": "Manifold, Manifold",
+   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 2 fuente(s) externa(s) (Manifold, Manifold) lo paga a 85.5%: diferencia de 77.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Se lanzará el modelo Astra de OpenAI antes del 31 de agosto de 2026?",
+   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a 8.5, mientras que el consenso externo de Manifold lo sitúa en 85.5, generando un edge de 77 puntos a favor de la compra. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad realista de un lanzamiento antes de la fecha límite, ofreciendo una oportunidad de entrada con un desvío significativo respecto a la valoración de otras plataformas. Riesgo: la liquidez puede ser limitada y el evento depende de anuncios corporativos no confirmados."
+  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -130,7 +185,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982380.2362579996,
+   "volumen": 982380.236258,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -190,7 +245,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.0645,
    "no": 0.9355,
-   "volumen": 99036.85303999997,
+   "volumen": 99036.85303999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -210,7 +265,7 @@
    "slug": "will-real-sociedad-win-the-2026-27-laliga-championship-20260701200737387",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98856.38271600002,
+   "volumen": 98856.38271600001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
@@ -220,7 +275,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.562946,
+   "volumen": 98831.56294600002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -228,8 +283,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.008,
-   "no": 0.992,
+   "yes": 0.0065,
+   "no": 0.9935,
    "volumen": 98443.77697800001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -240,7 +295,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9805,
    "no": 0.0195,
-   "volumen": 98349.53663099997,
+   "volumen": 98349.53663099998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -258,8 +313,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.297,
-   "no": 0.703,
+   "yes": 0.255,
+   "no": 0.745,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -343,5 +398,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 94.35
+ "db_size_mb": 94.41
 }
