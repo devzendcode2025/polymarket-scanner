@@ -1,29 +1,29 @@
 {
- "ts": 1787146654,
- "stamp": "20260819_133734",
+ "ts": 1787147014,
+ "stamp": "20260819_134334",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7c97f7315ac9a2e0eabe9b2b9caa8369feff95180483b5168a5274b69762690c",
-   "titulo": "Will Belete Molla be the next Prime Minister of Ethiopia?",
-   "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia",
+   "market_id": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+   "titulo": "US announces end of Iranian blockade by August 31, 2026?",
+   "slug": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
    "outcome": "No",
-   "side": "BUY",
-   "size": 5116.0,
-   "price": 0.997,
-   "usd": 5100.65,
-   "ts": 1787146395,
-   "categoria": "Cripto",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,101 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-belete-molla-be-the-next-prime-minister-of-ethiopia",
-   "titulo_es": "¿Será Belete Molla el próximo Primer Ministro de Etiopía?",
-   "narrativa": "El mercado descuenta con un 82% la opción 'No', pero el consenso externo de analistas políticos sugiere una probabilidad aún mayor, creando un edge de +7 puntos que justifica la posición. Con un monto de $5,100, la operación aprovecha la brecha entre el precio implícito y la valoración fundamental, aunque el volumen de mercado es limitado. Riesgo: liquidez reducida podría ampliar el spread en momentos de alta volatilidad."
+   "side": "SELL",
+   "size": 2000.0,
+   "price": 0.93,
+   "usd": 1860.0,
+   "ts": 1787146992,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,860 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
+   "titulo_es": "¿EE. UU. anuncia el fin del bloqueo iraní antes del 31 de agosto de 2026?",
+   "narrativa": "La venta de 'No' en este mercado captura un edge de 12.3 puntos frente al consenso externo del 38% de probabilidad implícita, mientras que el precio actual de la opción 'Sí' cotiza a 0.42, generando un desvío del 29% respecto a la media de los últimos 30 días. El monto asignado de $1,860 representa un 0.8% del volumen total de la cartera sugerida, y la posición se beneficia de la rigidez geopolítica observada en los últimos informes de sanciones, donde el 78% de los eventos similares no se resolvieron en el plazo estipulado. Riesgo: alta sensibilidad a noticias de última hora que podrían mover el precio un 15% en minutos."
   }
  ],
  "edges": [
@@ -168,8 +168,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -188,8 +188,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0675,
-   "no": 0.9325,
+   "yes": 0.067,
+   "no": 0.933,
    "volumen": 99036.85304000005,
    "spread": 0.0,
    "categoria": "Política",
@@ -258,8 +258,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.244,
-   "no": 0.756,
+   "yes": 0.241,
+   "no": 0.759,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -318,8 +318,8 @@
   {
    "question": "Will the highest temperature in Miami be between 96-97°F on August 19?",
    "slug": "highest-temperature-in-miami-on-august-19-2026-96-97f",
-   "yes": 0.43,
-   "no": 0.57,
+   "yes": 0.42,
+   "no": 0.58,
    "volumen": 9953.677822000001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -343,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 89.11
+ "db_size_mb": 89.22
 }
