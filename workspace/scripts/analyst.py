@@ -30,6 +30,7 @@ def _url(slug):
 def analizar_mispricing(d):
     desvio = d.get("desvio", 0)
     vol = d.get("volumen", 0)
+    liq = d.get("liquidez") or 0
     # Arbitraje binario: la convergencia a Yes+No=1 es esperable si hay liquidez.
     prob = _clamp(75 + desvio * 400, 75, 95)          # desvio 0.03 -> 87%, 0.05 -> 95%
     if vol < 20_000:
@@ -42,10 +43,16 @@ def analizar_mispricing(d):
         conf = "baja"
     if vol >= 50_000 and desvio >= 0.04:
         conf = "alta"
+    # v0.8.2: libro sin profundidad -> el desvio puede ser ruido de ordenes
+    # ausentes, no arbitraje real. Se degrada la confianza (no se elimina:
+    # el dato sigue siendo cierto, solo pesa menos).
+    if liq and liq < 10_000 and vol < 20_000:
+        conf = "baja"
     horizonte = "24h" if desvio >= 0.04 else "72h"
+    liq_txt = f" y ${liq:,.0f} de liquidez en el libro" if liq else ""
     razon = (
         f"Yes+No = {d.get('sum', 0)} se desvía {desvio * 100:.1f} puntos de 1.0 "
-        f"en un mercado con ${vol:,.0f} de volumen. En mercados binarios con "
+        f"en un mercado con ${vol:,.0f} de volumen{liq_txt}. En mercados binarios con "
         f"liquidez, este tipo de desvío tiende a cerrarse: {d.get('direccion', '')}."
     )
     return {**d, "prob": int(prob), "confianza": conf, "horizonte": horizonte,

@@ -70,6 +70,15 @@ CREATE TABLE IF NOT EXISTS edge_confirm (
     resultado TEXT,
     ts INTEGER
 );
+
+CREATE TABLE IF NOT EXISTS orderbooks (
+    market_id TEXT PRIMARY KEY,
+    bid_yes REAL,
+    ask_yes REAL,
+    bid_no REAL,
+    ask_no REAL,
+    ts INTEGER
+);
 """
 
 
@@ -207,6 +216,56 @@ def save_confirmaciones(conn, pairs):
         cur.execute(
             "INSERT OR REPLACE INTO edge_confirm (key, resultado, ts) VALUES (?,?,?)",
             (k, res, now),
+        )
+    conn.commit()
+
+
+# ---------- Orderbooks (v0.8.2, mispricings del libro real) ----------
+
+def get_orderbooks_frescos(conn, market_ids, ttl_s=600):
+    """Devuelve {market_id: {bid_yes, ask_yes, bid_no, ask_no}} con libro fresco.
+
+    Gamma normaliza los precios a Yes+No=1 (spread 0 siempre): el desvio real
+    solo se ve en el orderbook de ambos tokens. Cache TTL 10 min.
+    """
+    cutoff = int(time.time()) - ttl_s
+    cur = conn.cursor()
+    out = {}
+    for mid in market_ids:
+        cur.execute(
+            "SELECT bid_yes, ask_yes, bid_no, ask_no FROM orderbooks "
+            "WHERE market_id = ? AND ts >= ?",
+            (mid, cutoff),
+        )
+        row = cur.fetchone()
+        if row:
+            out[mid] = {"bid_yes": row[0], "ask_yes": row[1],
+                        "bid_no": row[2], "ask_no": row[3]}
+    return out
+
+
+def vencidos_orderbooks(conn, market_ids, ttl_s=600):
+    """Market_ids SIN libro fresco (para rotar el lote sin repetir)."""
+    cutoff = int(time.time()) - ttl_s
+    cur = conn.cursor()
+    vencidos = []
+    for mid in market_ids:
+        cur.execute("SELECT 1 FROM orderbooks WHERE market_id = ? AND ts >= ?",
+                    (mid, cutoff))
+        if cur.fetchone() is None:
+            vencidos.append(mid)
+    return vencidos
+
+
+def save_orderbooks(conn, books):
+    """Guarda {market_id: {bid_yes, ask_yes, bid_no, ask_no}}."""
+    cur = conn.cursor()
+    now = int(time.time())
+    for mid, b in books.items():
+        cur.execute(
+            "INSERT OR REPLACE INTO orderbooks (market_id, bid_yes, ask_yes, "
+            "bid_no, ask_no, ts) VALUES (?,?,?,?,?,?)",
+            (mid, b["bid_yes"], b["ask_yes"], b["bid_no"], b["ask_no"], now),
         )
     conn.commit()
 

@@ -11,8 +11,12 @@ import time
 import categorias
 
 
-def detect_mispricing(markets, epsilon=0.03, min_volume=10_000):
+def detect_mispricing(markets, epsilon=0.03, min_volume=5_000):
     """Mercados donde Yes+No se aleja de 1 en mas de epsilon.
+
+    v0.8.2: umbral de volumen bajado de $10k a $5k y barrido ampliado a la
+    cola (offset 200-800) donde el desvio es mas probable. Se incluye la
+    liquidez del libro para que el analista distinga arbitraje real de ruido.
 
     Si Yes+No > 1: los dos lados estan caros -> oportunidad de VENDER ambos.
     Si Yes+No < 1: estan baratos -> oportunidad de COMPRAR ambos (si la
@@ -35,8 +39,64 @@ def detect_mispricing(markets, epsilon=0.03, min_volume=10_000):
                 "sum": m["sum_price"],
                 "desvio": m["spread"],
                 "volumen": m["volume"],
+                "liquidez": m.get("liquidity") or 0,
                 "direccion": "VENDER ambos (caros)" if m["sum_price"] > 1 else "COMPRAR ambos (baratos)",
             })
+    out.sort(key=lambda d: d["desvio"], reverse=True)
+    return out
+
+
+def detect_mispricing_libro(markets, books, epsilon=0.03, min_volume=5_000):
+    """Mispricings REALES calculados del orderbook de ambos tokens (v0.8.2).
+
+    Hallazgo: Gamma normaliza los precios a Yes+No=1 (spread exacto 0 en los
+    800 mercados), asi que el detector de mispricings por precios NUNCA podia
+    encontrar un desvio: no es eficiencia del mercado, es la fuente. El desvio
+    real vive en el libro: mid_yes = (bid+ask)/2 del token Yes, mid_no igual.
+
+    books: {market_id: {bid_yes, ask_yes, bid_no, ask_no}} del orderbook.
+    Ademas del desvio del mid, marca arbitraje directo:
+      - ask_yes + ask_no < 1  -> comprar ambos lados paga >1 garantizado
+      - bid_yes + bid_no  > 1 -> vender ambos lados cobra >1 garantizado
+    """
+    out = []
+    for m in markets:
+        if m["volume"] < min_volume:
+            continue
+        b = books.get(m["id"])
+        if not b:
+            continue
+        mid_yes = (b["bid_yes"] + b["ask_yes"]) / 2.0
+        mid_no = (b["bid_no"] + b["ask_no"]) / 2.0
+        sum_mid = mid_yes + mid_no
+        desvio = abs(sum_mid - 1.0)
+        # Arbitraje directo con el libro (mas fuerte que el desvio del mid)
+        arbitraje = None
+        if b["ask_yes"] + b["ask_no"] < 1.0:
+            arbitraje = "COMPRAR ambos (garantizado)"
+            desvio = max(desvio, 1.0 - b["ask_yes"] - b["ask_no"])
+        elif b["bid_yes"] + b["bid_no"] > 1.0:
+            arbitraje = "VENDER ambos (garantizado)"
+            desvio = max(desvio, b["bid_yes"] + b["bid_no"] - 1.0)
+        if desvio < epsilon:
+            continue
+        out.append({
+            "tipo": "mispricing",
+            "market_id": m["id"],
+            "question": m["question"],
+            "slug": m.get("slug"),
+            "tags": m.get("tags") or [],
+            "categoria": categorias.clasificar(m["question"]),
+            "yes": round(mid_yes, 4),
+            "no": round(mid_no, 4),
+            "sum": round(sum_mid, 4),
+            "desvio": round(desvio, 4),
+            "volumen": m["volume"],
+            "liquidez": m.get("liquidity") or 0,
+            "origen": "libro",
+            "direccion": arbitraje or (
+                "VENDER ambos (caros)" if sum_mid > 1 else "COMPRAR ambos (baratos)"),
+        })
     out.sort(key=lambda d: d["desvio"], reverse=True)
     return out
 

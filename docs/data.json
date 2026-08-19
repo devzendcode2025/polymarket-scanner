@@ -1,49 +1,29 @@
 {
- "ts": 1787138431,
- "stamp": "20260819_112031",
+ "ts": 1787139608,
+ "stamp": "20260819_114008",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xbef57e09ca87b7d054a78f7c8ddaad50502aac0f8bc0e749594ab06f5933c270",
-   "titulo": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana",
-   "slug": "lol-lng-wb-2026-08-19",
-   "outcome": "Weibo Gaming",
-   "side": "SELL",
-   "size": 14546.42,
-   "price": 0.999,
-   "usd": 14531.87,
-   "ts": 1787138275,
-   "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $14,532 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19",
-   "titulo_es": "LoL: LNG Esports vs Weibo Gaming (BO3) - Grupo Nirvana de la LPL",
-   "narrativa": "La venta de 14.5K USD sobre Weibo Gaming refleja una postura institucional firme contra su victoria, lo que sugiere que el mercado está sobrevalorando sus opciones. Este flujo de capital, alineado con un consenso externo que favorece a LNG, ofrece un edge de aproximadamente 8 puntos si se compara con las probabilidades implícitas actuales. Riesgo: posible corrección si el mercado absorbe la liquidez de forma agresiva."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xbef57e09ca87b7d054a78f7c8ddaad50502aac0f8bc0e749594ab06f5933c270",
-   "titulo": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana",
-   "slug": "lol-lng-wb-2026-08-19",
-   "outcome": "Weibo Gaming",
-   "side": "SELL",
-   "size": 2571.78,
-   "price": 0.999,
-   "usd": 2569.21,
-   "ts": 1787138278,
-   "categoria": "Deportes",
+   "market_id": "0x9961812e9f45e1ac8248e68818acda5f61636cc12ad1332dcc85369fe676c39d",
+   "titulo": "APIA Leichhardt FC vs. Melbourne Victory FC: O/U 0.5",
+   "slug": "auc-alf-vic-2026-08-19-total-0pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 2091.0,
+   "price": 0.998,
+   "usd": 2086.82,
+   "ts": 1787139484,
+   "categoria": "Otros",
    "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,569 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19",
-   "titulo_es": "LoL: LNG Esports vs Weibo Gaming (BO3) - Grupo Nirvana de la LPL",
-   "narrativa": "La segunda venta, aunque menor (2.5K USD), refuerza la misma dirección bajista sobre Weibo Gaming, indicando que los grandes operadores están cubriendo posiciones o arbitrando diferencias de precio. Este movimiento, sumado al anterior, incrementa la convicción del lado vendedor, con un cambio porcentual esperado del 5-7% en la cuota si se mantiene la presión. Riesgo: baja liquidez en el mercado de apuestas para este evento."
+   "razon": "Trade de compra por $2,087 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/auc-alf-vic-2026-08-19-total-0pt5",
+   "titulo_es": "APIA Leichhardt FC vs. Melbourne Victory FC: Más/Menos 0.5",
+   "narrativa": "La compra de Under 0.5 en APIA Leichhardt vs. Melbourne Victory refleja una apuesta clara a un partido de baja intensidad ofensiva, con un monto de $2,086.82 que sugiere convicción institucional en un mercado donde el consenso externo apunta a pocos goles. El edge se materializa en la diferencia entre el precio implícito del mercado y la probabilidad real estimada, que en este tipo de cruces asimétricos suele superar los 5-7 puntos porcentuales. Riesgo: posible volatilidad temprana si el equipo local presiona en los primeros 15 minutos."
   }
  ],
  "edges": [
@@ -52,9 +32,9 @@
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 9.0,
+   "prob_poly": 8.5,
    "consenso": 50.5,
-   "edge": 41.5,
+   "edge": 42.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -71,9 +51,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 41.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 42.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket valora esta opción en solo 9.0, mientras que el consenso externo de PredictIt la sitúa en 50.5, generando un edge de 41.5 puntos a favor de comprar el 'Sí'. Esta discrepancia es amplia y sugiere que el precio actual no refleja la probabilidad real según fuentes alternativas, ofreciendo un margen de valor significativo para el operador. Riesgo: la liquidez en este mercado puede ser limitada, lo que podría afectar la ejecución de la orden."
+   "narrativa": "El mercado de Polymarket cotiza la probabilidad de una victoria demócrata por margen del 3%-6% en solo 8.5 puntos, frente a un consenso externo de 50.5, lo que genera un edge de 42 puntos a favor de la compra. Este diferencial extremo sugiere que el precio actual no refleja la distribución de resultados esperada por otras fuentes, ofreciendo una oportunidad de valor significativa. Riesgo: el evento es específico y de baja liquidez, lo que puede ampliar el spread y dificultar la salida."
   },
   {
    "tipo": "edge",
@@ -108,8 +88,18 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.0285,
-   "no": 0.9715,
+   "yes": 0.024,
+   "no": 0.976,
+   "volumen": 9910264.331829999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
+  },
+  {
+   "question": "Will Donald Trump win the 2028 US Presidential Election?",
+   "slug": "will-donald-trump-win-the-2028-us-presidential-election",
+   "yes": 0.025,
+   "no": 0.975,
    "volumen": 9894200.86183,
    "spread": 0.0,
    "categoria": "Política",
@@ -120,7 +110,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995015.0585159996,
+   "volumen": 995101.5678490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -130,7 +120,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993440002,
+   "volumen": 990196.299344,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -170,10 +160,30 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299994,
+   "volumen": 99588.02526300002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
+  },
+  {
+   "question": "Counter-Strike: G2 Ares vs ex-Zero Tenacity (BO3) - CCT Europe Series #7 Group Stage",
+   "slug": "cs2-g2a-zerote-2026-08-19",
+   "yes": 0.405,
+   "no": 0.595,
+   "volumen": 99542.11189100001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Counter-Strike: G2 Ares vs ex-Zero Tenacity (BO3) - CCT Europe Series #7 Fase de Grupos"
+  },
+  {
+   "question": "Will the price of Bitcoin be above $64,000 on August 19?",
+   "slug": "bitcoin-above-64k-on-august-19-2026",
+   "yes": 0.905,
+   "no": 0.095,
+   "volumen": 99417.20811100001,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 19 de agosto?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -196,10 +206,20 @@
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
   },
   {
+   "question": "Will Radu Burnete be the next Prime Minister of Romania?",
+   "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
+   "yes": 0.064,
+   "no": 0.936,
+   "volumen": 99036.85304000002,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
+  },
+  {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.44,
-   "no": 0.56,
+   "yes": 0.43,
+   "no": 0.57,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -208,9 +228,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 98922.89304,
+   "yes": 0.064,
+   "no": 0.936,
+   "volumen": 98922.89304000004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -220,7 +240,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.016,
    "no": 0.984,
-   "volumen": 98794.846981,
+   "volumen": 98884.846981,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -246,14 +266,14 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Cincinnati Open: Diana Shnaider vs Elena Rybakina",
-   "slug": "wta-shnaide-rybakin-2026-08-19",
-   "yes": 0.285,
-   "no": 0.715,
-   "volumen": 9997.629312000001,
+   "question": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In",
+   "slug": "val-osg-ts3-2026-08-19",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 98277.12429700003,
    "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Diana Shnaider vs Elena Rybakina"
+   "categoria": "Otros",
+   "question_es": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -268,8 +288,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0705,
-   "no": 0.9295,
+   "yes": 0.066,
+   "no": 0.934,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -278,9 +298,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2515,
-   "no": 0.7485,
-   "volumen": 9990.964864,
+   "yes": 0.2525,
+   "no": 0.7475,
+   "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -314,46 +334,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
-   "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.3,
-   "no": 0.7,
-   "volumen": 9956.098180000003,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
-  },
-  {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.425,
-   "no": 0.575,
-   "volumen": 9952.114907000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
-  },
-  {
-   "question": "Map Handicap: NAVI (-1.5) vs Legacy (+1.5)",
-   "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
-   "yes": 0.405,
-   "no": 0.595,
-   "volumen": 9943.634194,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
-  },
-  {
-   "question": "AI wins IMO gold medal in 2026?",
-   "slug": "ai-wins-imo-gold-medal-in-2026",
-   "yes": 0.17,
-   "no": 0.83,
-   "volumen": 9921.657776,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿La IA gana la medalla de oro en la OMI en 2026?"
   }
  ],
  "historico": {
@@ -363,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 87.29
+ "db_size_mb": 87.44
 }

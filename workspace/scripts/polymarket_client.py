@@ -54,6 +54,47 @@ def fetch_orderbook(token_id):
     return _get(CLOB, "/book", {"token_id": token_id})
 
 
+def fetch_orderbooks_lote(markets, max_lote=30):
+    """Libros de ambos tokens de hasta max_lote mercados, en UNA conexion
+    keep-alive (v0.8.2: el desvio real de mispricing vive en el orderbook).
+
+    markets: lista de dicts con 'id', 'yes_token', 'no_token'.
+    Devuelve {market_id: {bid_yes, ask_yes, bid_no, ask_no}}.
+    Solo incluye mercados con libro COMPLETO (bids+asks en ambos tokens):
+    sin profundidad no hay señal fiable.
+    """
+    import http.client
+
+    out = {}
+    conn = None
+    try:
+        conn = http.client.HTTPSConnection("clob.polymarket.com", timeout=10)
+        for m in markets[:max_lote]:
+            try:
+                conn.request("GET", f"/book?token_id={m['yes_token']}")
+                by = json.loads(conn.getresponse().read().decode())
+                conn.request("GET", f"/book?token_id={m['no_token']}")
+                bn = json.loads(conn.getresponse().read().decode())
+            except Exception:  # noqa: BLE001 - un mercado roto no rompe el lote
+                continue
+            b_y = by.get("bids") or []
+            a_y = by.get("asks") or []
+            b_n = bn.get("bids") or []
+            a_n = bn.get("asks") or []
+            if not (b_y and a_y and b_n and a_n):
+                continue
+            out[m["id"]] = {
+                "bid_yes": float(b_y[0]["price"]),
+                "ask_yes": float(a_y[0]["price"]),
+                "bid_no": float(b_n[0]["price"]),
+                "ask_no": float(a_n[0]["price"]),
+            }
+    finally:
+        if conn:
+            conn.close()
+    return out
+
+
 def fetch_price_history(condition_id, interval="1w", fidelity=24):
     """Historial de precios del mercado (conditionId)."""
     return _get(

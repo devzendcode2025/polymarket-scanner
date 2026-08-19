@@ -28,6 +28,16 @@ v0.8.1 (2026-08-18, recall boost sin perder precision):
   - MAX_POLY 200 -> 400 y MAX_CANDIDATOS 60 -> 150 por corrida (DeepSeek barato,
     cache SQLite evita repetir).
 
+v0.8.2 (2026-08-19, recall v2 sin perder precision):
+  - Top-4 candidatos por fuente por mercado Poly (TOP_K 2 -> 4).
+  - MAX_CANDIDATOS 150 -> 300 y MAX_POLY 400 -> 600 (aprovecha la cola
+    ampliada de mispricings: 800 mercados barridos, 600 comparados).
+  - +14 ligas de futbol en ESPN (eng.2 fra.2 ger.2 ita.2 esp.2 sco.1 ned.1
+    bel.1 por.1 tur.1 usa.nwsl uefa.champions uefa.europa fifa.world;
+    verificadas en vivo 2026-08-19: 9 con moneyline activo hoy).
+  - Token "raro" relajado de <=5 a <=8 docs (mas candidatos; la confirmacion
+    DeepSeek SI/NO mantiene la precision del panel).
+
 Diseno:
   - CACHE de CACHE_MIN minutos en workspace/data/crosscheck_cache.json para los
     FETCHES de fuentes (10 min); las confirmaciones SI/NO viven en SQLite.
@@ -47,8 +57,8 @@ from translate import _find_key
 UA = "Mozilla/5.0 (X11; Linux x86_64) polymarket-scanner/0.8"
 CACHE_MIN = 10
 UMBRAL = 0.08  # 8 puntos de diferencia minima para considerar edge
-MAX_POLY = 400  # mercados de Polymarket a comparar (los 200 del scan + cola)
-MAX_CANDIDATOS = 150  # pares maximo por corrida para confirmar con DeepSeek
+MAX_POLY = 600  # mercados de Polymarket a comparar (top + cola ampliada)
+MAX_CANDIDATOS = 300  # pares maximo por corrida para confirmar con DeepSeek
 KALSHI_PAGINAS = 6  # ~600 mercados de Kalshi via cursor (antes solo 100)
 
 DEEPSEEK_URL = "https://api.deepseek.com/chat/completions"
@@ -149,6 +159,13 @@ _DEPORTES_ESPN = [
     ("soccer", "eng.1"), ("soccer", "esp.1"), ("soccer", "ita.1"),
     ("soccer", "ger.1"), ("soccer", "fra.1"), ("soccer", "usa.1"),
     ("soccer", "mex.1"), ("soccer", "bra.1"), ("soccer", "arg.1"),
+    # v0.8.2: ligas adicionales (verificadas con moneyline activo 2026-08-19)
+    ("soccer", "eng.2"), ("soccer", "fra.2"), ("soccer", "ger.2"),
+    ("soccer", "ita.2"), ("soccer", "esp.2"), ("soccer", "sco.1"),
+    ("soccer", "ned.1"), ("soccer", "bel.1"), ("soccer", "por.1"),
+    ("soccer", "tur.1"), ("soccer", "usa.nwsl"),
+    ("soccer", "uefa.champions"), ("soccer", "uefa.europa"),
+    ("soccer", "fifa.world"),
     ("tennis", "atp"), ("tennis", "wta"), ("mma", "ufc"),
 ]
 
@@ -348,7 +365,7 @@ def _match_score_v2(pt, fuente, df):
     comunes = pt.intersection(ft)
     if len(comunes) < 2:
         return 0
-    raros = {t for t in comunes if df.get(t, 0) <= 5}
+    raros = {t for t in comunes if df.get(t, 0) <= 8}
     if not raros:
         return 0
     return len(comunes) + len(raros) * 2
@@ -461,9 +478,9 @@ def get_edges(conn, markets_poly, max_edges=20):
         por_fuente.setdefault(f["fuente"], []).append(f)
 
     # 1) Candidatos laxos (v2): hasta TOP_K mejores candidatos por fuente para
-    #    cada mercado Poly. Antes solo el mejor: si el mejor era "mismo tema NO",
-    #    el candidato correcto (2do) nunca se confirmaba.
-    TOP_K = 2
+    #    cada mercado Poly. v0.8.2: Top-4 (si el 1ro/2do eran "mismo tema NO",
+    #    el correcto puede estar 3ro/4to; DeepSeek filtra el ruido).
+    TOP_K = 4
     candidatos = []
     vistos = set()
     for m in markets_poly[:MAX_POLY]:

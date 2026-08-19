@@ -75,16 +75,37 @@ def main():
 
     # 3. Detecciones
     # 3a. Mispricings: ademas del top-200 (eficientes), barrer la cola
-    #     (offset 200-400, menor volumen) donde es mas probable el desvio.
+    #     (offset 200-800, menor volumen) donde es mas probable el desvio.
+    #     v0.8.2: cola 200 -> 600 mercados y umbral $10k -> $5k.
     #     La cola NO se guarda en snapshots ni trades (solo se escanea).
     cola = []
     try:
-        cola = pc.fetch_top_binary_markets(200, offset=200)
+        cola = pc.fetch_top_binary_markets(600, offset=200)
     except Exception:  # noqa: BLE001 - el barrido extra no rompe el scan
         pass
-    mispricings = scanner.detect_mispricing(markets + cola)
-    print(f"  Mispricings (Yes+No != 1, vol>=$10k): {len(mispricings)} "
+    mispricings = scanner.detect_mispricing(markets + cola, min_volume=5_000)
+    print(f"  Mispricings (Yes+No != 1, vol>=$5k): {len(mispricings)} "
           f"(barrido: {len(markets)} top + {len(cola)} cola)")
+
+    # 3a2. Mispricings del LIBRO REAL (v0.8.2). Hallazgo: Gamma normaliza los
+    #     precios a Yes+No=1 (spread exacto 0 en 800 mercados), asi que el
+    #     desvio binario solo se ve en el orderbook de ambos tokens. Se barre
+    #     con cache SQLite (TTL 10 min) en lotes de 30 mercados/corrida para
+    #     no romper el cron de 1 min (~11s extra).
+    candidatos_libro = [m for m in markets + cola
+                        if m["volume"] >= 5_000 and m.get("yes_token") and m.get("no_token")]
+    vencidos = dbmod.vencidos_orderbooks(conn, [m["id"] for m in candidatos_libro])
+    lote = [m for m in candidatos_libro if m["id"] in vencidos][:30]
+    libros_nuevos = {}
+    if lote:
+        libros_nuevos = pc.fetch_orderbooks_lote(lote)
+        if libros_nuevos:
+            dbmod.save_orderbooks(conn, libros_nuevos)
+    libros = dbmod.get_orderbooks_frescos(conn, [m["id"] for m in candidatos_libro])
+    mispricings_libro = scanner.detect_mispricing_libro(candidatos_libro, libros)
+    mispricings = mispricings + mispricings_libro
+    print(f"  Mispricings del libro: {len(mispricings_libro)} (cache {len(libros)}/{len(candidatos_libro)}, "
+          f"lote {len(libros_nuevos)} nuevos)")
 
     trades = pc.fetch_trades(limit=200)
     norm_trades = []
@@ -126,7 +147,8 @@ def main():
     print(f"  Momentum (>=5% vs scan anterior): {len(momentum)}")
 
     # 3b. Cross-check fuentes externas (F3): edge = "datos ganadores"
-    #     Compara top-200 + cola (hasta 400 mercados) contra Kalshi/Manifold/PredictIt.
+    #     Compara top-200 + cola (hasta 600 mercados por MAX_POLY) contra
+    #     Kalshi/Manifold/PredictIt/ESPN.
     edges = crosscheck.get_edges(conn, [
         {"question": m["question"], "slug": m.get("slug"),
          "yes": m["yes"], "volume": m["volume"]}
