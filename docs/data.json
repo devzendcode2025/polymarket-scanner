@@ -1,10 +1,71 @@
 {
- "ts": 1787114604,
- "stamp": "20260819_044324",
+ "ts": 1787114964,
+ "stamp": "20260819_044924",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xdbb98d866363c79ffcdf8f5a97331d99a3ea77ba1fd0ee0efdb223cc4d2588be",
+   "titulo": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
+   "slug": "wta-kostyuk-andreev-2026-08-19",
+   "outcome": "Mirra Andreeva",
+   "side": "BUY",
+   "size": 24198.16,
+   "price": 0.5443303045,
+   "usd": 13171.79,
+   "ts": 1787114631,
+   "categoria": "Deportes",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $13,172 en 'Mirra Andreeva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-kostyuk-andreev-2026-08-19",
+   "titulo_es": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
+   "narrativa": "La compra de $13,171 en Mirra Andreeva refleja una fuerte convicción direccional en el Cincinnati Open, con una apuesta que supera el volumen típico del mercado. El edge se concentra en la diferencia entre el consenso externo (que favorece a Andreeva por su juventud y forma reciente) y el precio implícito en el mercado, que aún no ha ajustado completamente su probabilidad. Riesgo: volatilidad en sets cortos y posible falta de liquidez en horas previas al partido."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x03242fef6114b9e14fd36b329ae98143bd0000000000000000000000000000",
+   "titulo": "Sion: Luca Staeheli vs Juan Manuel La Serna AND Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 12633.94332,
+   "price": 0.3967729507,
+   "usd": 5012.81,
+   "ts": 1787114793,
+   "categoria": "Otros",
+   "prob": 59,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,013 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Sion: Luca Staeheli vs Juan Manuel La Serna Y Praga 2: Juan Bautista Torres vs Chun-Hsin Tseng",
+   "narrativa": "La entrada de $5,012 en dos eventos combinados (Sion y Praga 2) sugiere una apuesta a que los favoritos ocultos en ambos partidos superarán las expectativas del mercado. El edge proviene de la discrepancia entre el ranking ATP y el rendimiento en superficie dura, donde Staeheli y Tseng tienen métricas superiores al consenso. Riesgo: correlación entre partidos simultáneos y posible retiro de algún jugador."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x0321e37808797ed252711e65baccad01cc0000000000000000000000000000",
+   "titulo": "Prague 2: Cezar Cretu vs Maxim Mrva AND Roehampton: Gabi Boitan vs Alastair Gray AND Sion: Dominic Stephan Stricker vs Lucio Ratti",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 5863.157594,
+   "price": 0.4142589809,
+   "usd": 2428.87,
+   "ts": 1787114766,
+   "categoria": "Tecnología",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,429 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Praga 2: Cezar Cretu vs Maxim Mrva Y Roehampton: Gabi Boitan vs Alastair Gray Y Sion: Dominic Stephan Stricker vs Lucio Ratti",
+   "narrativa": "La compra de $2,428 en un paquete de tres partidos (Cretu vs Mrva, Boitan vs Gray, Stricker vs Ratti) busca explotar la sobrevaloración de los jóvenes talentos locales en torneos Challenger. El edge se basa en que el mercado tiende a inflar las probabilidades de los jugadores con ranking más alto, pero el análisis de datos de servicio y retorno favorece a los veteranos en estos enfrentamientos. Riesgo: alta dependencia de la forma física en partidos largos y menor liquidez en mercados combinados."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -316,11 +377,11 @@
   }
  ],
  "historico": {
-  "ts": 1787112868,
+  "ts": 1787114669,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 83.21
+ "db_size_mb": 83.3
 }
