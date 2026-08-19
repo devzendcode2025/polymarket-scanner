@@ -1,10 +1,91 @@
 {
- "ts": 1787144313,
- "stamp": "20260819_125833",
+ "ts": 1787144733,
+ "stamp": "20260819_130533",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
- "ballenas_scan": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "2672658",
+   "question": "Will Peyton Watson play for the New Orleans Pelicans in 2026-27?",
+   "slug": "will-peyton-watson-play-for-the-new-orleans-pelicans-in-2026-27-20260622172741898",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.376,
+   "yes_ahora": 0.426,
+   "cambio_pct": 13.4,
+   "direccion": "SUBIDA",
+   "volumen": 99.0,
+   "prob": 63,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Yes subida 13.4% vs el scan anterior (0.376 → 0.426) en un mercado con $99 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/will-peyton-watson-play-for-the-new-orleans-pelicans-in-2026-27-20260622172741898",
+   "question_es": "¿Jugará Peyton Watson para los New Orleans Pelicans en 2026-27?",
+   "narrativa": "El consenso externo se está moviendo a favor de la participación de Peyton Watson, con un salto del 13.4% en la probabilidad del 'Sí' (de 37.6% a 42.6%), lo que refleja un flujo de información reciente que el mercado aún no ha descontado por completo. Aunque el volumen es bajo (99 USD), el edge direccional es claro y el precio aún no ha alcanzado el nuevo equilibrio, ofreciendo una ventana de entrada antes de que el mercado se ajuste. Riesgo: poca liquidez, lo que puede amplificar el deslizamiento en la ejecución."
+  }
+ ],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xbb719a4b8d3cc34b4cc0931c1051571f8944cd442bb2805cc10072d5e2acf8cc",
+   "titulo": "Bitcoin Up or Down - August 19, 9:00AM-9:05AM ET",
+   "slug": "btc-updown-5m-1787144400",
+   "outcome": "Down",
+   "side": "BUY",
+   "size": 1514.575756,
+   "price": 0.9899999997,
+   "usd": 1499.43,
+   "ts": 1787144583,
+   "categoria": "Cripto",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,499 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1787144400",
+   "titulo_es": "Bitcoin al alza o a la baja - 19 de agosto, 9:00AM-9:05AM ET",
+   "narrativa": "La compra de 1,499 USD en 'Down' para la ventana de 5 minutos de Bitcoin refleja una apuesta direccional agresiva contra el consenso alcista de corto plazo, con un edge estimado por el tamaño de la orden que sugiere información privilegiada o un modelo de alta frecuencia. El monto concentrado en un período tan corto amplifica el impacto en el libro de órdenes, pero la falta de volumen de mercado conocido limita la confirmación de la señal. Riesgo: alta sensibilidad a noticias repentinas en el criptoactivo."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x7dd3de28b427fd10652bc96e03a7a930d65f04c2bd8fbb6d462dc0314d226f5b",
+   "titulo": "Prague 2: Rudolf Molleker vs Filip Jianu",
+   "slug": "atp-molleke-jianu-2026-08-19",
+   "outcome": "Filip Jianu",
+   "side": "BUY",
+   "size": 1466.0,
+   "price": 0.99,
+   "usd": 1451.34,
+   "ts": 1787144584,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,451 en 'Filip Jianu'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-molleke-jianu-2026-08-19",
+   "titulo_es": "Praga 2: Rudolf Molleker vs Filip Jianu",
+   "narrativa": "La compra de 1,451 USD en Filip Jianu contra Rudolf Molleker indica una convicción fuerte en el underdog, probablemente basada en el estado físico reciente del favorito o en el historial de superficie, con un edge que el tamaño de la orden busca capitalizar antes de que el mercado ajuste las probabilidades. El desvío entre el precio implícito y el consenso externo de tenistas podría ofrecer una ventana de arbitraje, aunque el volumen de mercado no reportado sugiere cautela. Riesgo: baja liquidez en mercados de tenis menores."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x7468b6140b1e550e88310f3ef957c27856928f08c3680f42b3bb90b83ebb2038",
+   "titulo": "Will UK GDP growth in Q3 2026 be between 0% and 0.1%?",
+   "slug": "will-uk-gdp-growth-in-q3-2026-be-between-0-and-01-20260813112748102",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1500.09,
+   "price": 0.7448463759,
+   "usd": 1117.34,
+   "ts": 1787144592,
+   "categoria": "Economía",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,117 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-uk-gdp-growth-in-q3-2026-be-between-0-and-01-20260813112748102",
+   "titulo_es": "¿El crecimiento del PIB del Reino Unido en el tercer trimestre de 2026 estará entre 0% y 0,1%?"
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -67,9 +148,9 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.0245,
-   "no": 0.9755,
-   "volumen": 9910388.87183,
+   "yes": 0.0225,
+   "no": 0.9775,
+   "volumen": 9910431.671829991,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -99,7 +180,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993439998,
+   "volumen": 990196.2993440002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -129,7 +210,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299999,
+   "volumen": 99588.02526299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -137,8 +218,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -159,7 +240,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99036.85304000002,
+   "volumen": 99036.85304000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -177,8 +258,8 @@
   {
    "question": "Will B8 Win the CS2 EWC 2026?",
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
-   "yes": 0.0165,
-   "no": 0.9835,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 98884.84698100001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -227,8 +308,8 @@
   {
    "question": "Iran-Oman Hormuz Agreement by August 22?",
    "slug": "iran-oman-hormuz-agreement-by-august-22",
-   "yes": 0.085,
-   "no": 0.915,
+   "yes": 0.075,
+   "no": 0.925,
    "volumen": 98238.77033700002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -239,7 +320,7 @@
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
    "yes": 0.0825,
    "no": 0.9175,
-   "volumen": 9991.036522000004,
+   "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -247,8 +328,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.26,
-   "no": 0.74,
+   "yes": 0.2635,
+   "no": 0.7365,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -279,7 +360,7 @@
    "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
    "yes": 0.405,
    "no": 0.595,
-   "volumen": 9968.634193999998,
+   "volumen": 9968.634194,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
@@ -295,24 +376,24 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Exact Score: Vietnam 1 - 2 Malaysia?",
-   "slug": "asean-vie-mas-2026-08-19-exact-score-1-2",
-   "yes": 0.044,
-   "no": 0.956,
-   "volumen": 9959.125665,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Marcador Exacto: Vietnam 1 - 2 Malasia?"
-  },
-  {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.295,
    "no": 0.705,
-   "volumen": 9956.098179999999,
+   "volumen": 9956.09818,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
+  },
+  {
+   "question": "Will USD/JPY hit 165 (High) in 2026?",
+   "slug": "will-usdjpy-hit-165-high-in-2026",
+   "yes": 0.425,
+   "no": 0.575,
+   "volumen": 9952.114907,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
@@ -322,5 +403,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 88.57
+ "db_size_mb": 88.65
 }
