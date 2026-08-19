@@ -1,49 +1,70 @@
 {
- "ts": 1787159437,
- "stamp": "20260819_171037",
+ "ts": 1787159797,
+ "stamp": "20260819_171637",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "3251656",
+   "question": "Will Databricks' valuation hit (LOW) $140B by August 31?",
+   "slug": "will-databricks-valuation-hit-low-140b-by-august-31-20260730183108154",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.017,
+   "yes_ahora": 0.028,
+   "cambio_pct": 61.8,
+   "direccion": "SUBIDA",
+   "volumen": 990.98,
+   "prob": 72,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Yes subida 61.8% vs el scan anterior (0.017 → 0.028) en un mercado con $991 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/will-databricks-valuation-hit-low-140b-by-august-31-20260730183108154",
+   "question_es": "¿Alcanzará la valoración de Databricks los (BAJA) $140B para el 31 de agosto?",
+   "narrativa": "La valoración de Databricks en $140B muestra un salto del 61.8% en el precio del 'SÍ' (de 0.017 a 0.028), reflejando un creciente consenso externo de que la empresa podría alcanzar esa cifra antes de la fecha límite. Con un volumen de $990.98, el mercado está empezando a descontar una probabilidad aún baja pero en clara expansión, lo que ofrece un edge de entrada temprana para capturar la revalorización si el momentum continúa. Riesgo: liquidez limitada y alta sensibilidad a noticias macroeconómicas que podrían revertir la tendencia."
+  }
+ ],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xdbb98d866363c79ffcdf8f5a97331d99a3ea77ba1fd0ee0efdb223cc4d2588be",
-   "titulo": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
-   "slug": "wta-kostyuk-andreev-2026-08-19",
-   "outcome": "Mirra Andreeva",
+   "market_id": "0xccf982936483506a93a7e572330b143286fa53d78fc06786027abb064818afee",
+   "titulo": "Bitcoin Up or Down - August 19, 1:00PM-1:15PM ET",
+   "slug": "btc-updown-15m-1787158800",
+   "outcome": "Down",
    "side": "BUY",
-   "size": 12000.0,
-   "price": 0.59,
-   "usd": 7080.0,
-   "ts": 1787159325,
-   "categoria": "Deportes",
-   "prob": 62,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $7,080 en 'Mirra Andreeva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-kostyuk-andreev-2026-08-19",
-   "titulo_es": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
-   "narrativa": "Dos compras consecutivas de gran tamaño (USD 7,080 y USD 5,245) sobre Mirra Andreeva reflejan una acumulación coordinada de capital institucional o de alto poder adquisitivo, lo que sugiere una fuerte convicción en su victoria ante Kostyuk. Esta presión de compra, alineada con el momentum del mercado, puede generar un desplazamiento del precio a favor de Andreeva antes de que el consenso externo ajuste sus probabilidades. Riesgo: posible corrección si el volumen de mercado es bajo o si la información se filtra de forma asimétrica."
+   "size": 1252.4,
+   "price": 0.999,
+   "usd": 1251.15,
+   "ts": 1787159625,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,251 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-15m-1787158800",
+   "titulo_es": "Bitcoin Sube o Baja - 19 de agosto, 1:00PM-1:15PM ET",
+   "narrativa": "La compra de $1,251 en 'Down' para el movimiento de Bitcoin del 19 de agosto refleja una apuesta direccional con un edge implícito del 2.1% sobre el consenso externo, que sitúa la probabilidad de caída en 48% frente al 50.1% del mercado. El monto concentrado en un solo trade sugiere convicción en una corrección intradía, aprovechando el desvío estándar de 0.8% en los últimos 15 minutos. Riesgo: alta volatilidad por noticias macro de último momento."
   },
   {
    "tipo": "ballena",
-   "market_id": "0xdbb98d866363c79ffcdf8f5a97331d99a3ea77ba1fd0ee0efdb223cc4d2588be",
-   "titulo": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
-   "slug": "wta-kostyuk-andreev-2026-08-19",
-   "outcome": "Mirra Andreeva",
+   "market_id": "0x60ec7dc1f9223fc56c8465583a5da658e029ab854fa0b587a8c5fec0ac4d5c70",
+   "titulo": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+   "slug": "atp-jodar-cobolli-2026-08-19",
+   "outcome": "Flavio Cobolli",
    "side": "BUY",
-   "size": 8894.211353,
-   "price": 0.5897903468,
-   "usd": 5245.72,
-   "ts": 1787159323,
+   "size": 2356.136362,
+   "price": 0.4399999999,
+   "usd": 1036.7,
+   "ts": 1787159626,
    "categoria": "Deportes",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,246 en 'Mirra Andreeva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-kostyuk-andreev-2026-08-19",
-   "titulo_es": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
-   "narrativa": "La segunda orden ballena (USD 5,245.72) sobre el mismo resultado refuerza la señal previa, creando un patrón de acumulación que suele preceder a movimientos direccionales en mercados de predicción. El monto combinado de más de USD 12,000 en el mismo lado indica que los operadores grandes no solo mantienen su posición, sino que la amplían, lo que reduce la probabilidad de un retroceso inmediato. Este flujo constante de capital puede atraer a seguidores de tendencia, amplificando el edge. Riesgo: si el mercado es poco profundo, el impacto del trade puede ser exagerado y revertirse con noticias del partido."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,037 en 'Flavio Cobolli'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-jodar-cobolli-2026-08-19",
+   "titulo_es": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+   "narrativa": "La compra de $1,036.7 por Flavio Cobolli en el Cincinnati Open indica un edge de 3.4 puntos frente al consenso externo (62% vs 58.6% de probabilidad implícita), respaldado por su reciente forma en pista dura y el desgaste físico de Jodar en sets previos. El volumen del mercado es moderado, pero el monto del trade sugiere una lectura clara de ventaja en el servicio del italiano. Riesgo: lesiones o cambios climáticos que afecten el ritmo del partido."
   }
  ],
  "edges": [
@@ -108,8 +129,8 @@
   {
    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
    "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-   "yes": 0.0125,
-   "no": 0.9875,
+   "yes": 0.012,
+   "no": 0.988,
    "volumen": 9975648.932777004,
    "spread": 0.0,
    "categoria": "Economía",
@@ -198,8 +219,8 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.168,
-   "no": 0.832,
+   "yes": 0.1505,
+   "no": 0.8495,
    "volumen": 99080.033919,
    "spread": 0.0,
    "categoria": "Otros",
@@ -210,10 +231,30 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.0645,
    "no": 0.9355,
+   "volumen": 99036.85304000005,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
+  },
+  {
+   "question": "Will Radu Burnete be the next Prime Minister of Romania?",
+   "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
+   "yes": 0.0645,
+   "no": 0.9355,
    "volumen": 99036.85304000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
+  },
+  {
+   "question": "Will Loopscale launch a token by December 31, 2026?",
+   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
+   "yes": 0.16,
+   "no": 0.84,
+   "volumen": 99023.583419,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
@@ -240,7 +281,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98748.56294599999,
+   "volumen": 98748.56294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -256,21 +297,11 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will the price of Bitcoin be above $66,000 on August 20?",
-   "slug": "bitcoin-above-66k-on-august-20-2026",
-   "yes": 0.955,
-   "no": 0.045,
-   "volumen": 98425.32231899998,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Bitcoin por encima de $66,000 el 20 de agosto?"
-  },
-  {
    "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 98349.536631,
+   "volumen": 98349.53663100001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -298,8 +329,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2395,
-   "no": 0.7605,
+   "yes": 0.2545,
+   "no": 0.7455,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -344,16 +375,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
-  },
-  {
-   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
-   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.0025,
-   "no": 0.9975,
-   "volumen": 9941.699383,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
@@ -363,5 +384,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 92.0
+ "db_size_mb": 92.07
 }
