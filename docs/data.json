@@ -1,29 +1,29 @@
 {
- "ts": 1787160217,
- "stamp": "20260819_172337",
+ "ts": 1787160638,
+ "stamp": "20260819_173038",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xcfec867a7ff93f5c72988d7b80899bc8ad0b18df2fe7d3f803875da3e663ca33",
-   "titulo": "Kingston: Juan Carlos Prado vs Andres Andrade",
-   "slug": "atp-prado-andrade-2026-08-19",
-   "outcome": "Andres Andrade",
+   "market_id": "0x1aee90e86ef2a9419ee211337377925721a4adf287eb962de52a2a9f59b870d6",
+   "titulo": "Atlanta Braves vs. Minnesota Twins",
+   "slug": "mlb-atl-min-2026-08-19",
+   "outcome": "Atlanta Braves",
    "side": "BUY",
-   "size": 4217.480605,
-   "price": 0.3278734696,
-   "usd": 1382.8,
-   "ts": 1787160226,
+   "size": 4686.13,
+   "price": 0.51,
+   "usd": 2389.93,
+   "ts": 1787160522,
    "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,383 en 'Andres Andrade'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-prado-andrade-2026-08-19",
-   "titulo_es": "Kingston: Juan Carlos Prado vs Andrés Andrade",
-   "narrativa": "La compra de $1,382.8 en Andrés Andrade refleja una apuesta clara contra el favoritismo implícito de Prado, aprovechando un posible desajuste en la percepción del mercado. El monto, aunque moderado, sugiere convicción de un operador con información o lectura táctica del partido, lo que podría generar un edge si el consenso externo subestima la forma física o el estilo de juego de Andrade. Riesgo: el volumen de mercado no está disponible, lo que podría implicar liquidez limitada y movimientos bruscos de precio."
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,390 en 'Atlanta Braves'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-atl-min-2026-08-19",
+   "titulo_es": "Atlanta Braves vs. Minnesota Twins",
+   "narrativa": "La compra de $2,389.93 en Atlanta Braves refleja una apuesta clara contra el consenso implícito del mercado, que no muestra un volumen destacado en el lado opuesto. Este flujo direccional, en un evento de MLB con dos equipos de rendimiento similar, sugiere que el comprador maneja información o un modelo con ventaja sobre la línea actual. El edge se materializa si el precio de Atlanta continúa subiendo hacia el cierre, capturando la diferencia entre el precio de entrada y el valor justo estimado. Riesgo: posible falta de liquidez en mercados de nicho, lo que puede ampliar el spread."
   }
  ],
  "edges": [
@@ -88,8 +88,8 @@
   {
    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
    "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-   "yes": 0.012,
-   "no": 0.988,
+   "yes": 0.0145,
+   "no": 0.9855,
    "volumen": 9982465.152777003,
    "spread": 0.0,
    "categoria": "Economía",
@@ -158,8 +158,8 @@
   {
    "question": "NATO downs another Russian drone by August 31?",
    "slug": "nato-downs-another-russian-drone-by-august-31-20260726215001931",
-   "yes": 0.851,
-   "no": 0.149,
+   "yes": 0.862,
+   "no": 0.138,
    "volumen": 99225.11203199999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -188,8 +188,8 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.151,
-   "no": 0.849,
+   "yes": 0.152,
+   "no": 0.848,
    "volumen": 99099.75391900004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -278,8 +278,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2545,
-   "no": 0.7455,
+   "yes": 0.242,
+   "no": 0.758,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -328,8 +328,8 @@
   {
    "question": "Cirstea vs. Pegula: Match O/U 21.5",
    "slug": "wta-cirstea-pegula-2026-08-19-match-total-21pt5",
-   "yes": 0.49,
-   "no": 0.51,
+   "yes": 0.5,
+   "no": 0.5,
    "volumen": 9941.809252000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -343,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 92.2
+ "db_size_mb": 92.25
 }
