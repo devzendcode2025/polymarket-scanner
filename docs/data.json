@@ -1,19 +1,40 @@
 {
- "ts": 1787145513,
- "stamp": "20260819_131833",
+ "ts": 1787145874,
+ "stamp": "20260819_132434",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x7c97f7315ac9a2e0eabe9b2b9caa8369feff95180483b5168a5274b69762690c",
+   "titulo": "Will Belete Molla be the next Prime Minister of Ethiopia?",
+   "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 5163.0,
+   "price": 0.997,
+   "usd": 5147.51,
+   "ts": 1787145792,
+   "categoria": "Cripto",
+   "prob": 59,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,148 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-belete-molla-be-the-next-prime-minister-of-ethiopia",
+   "titulo_es": "¿Será Belete Molla el próximo Primer Ministro de Etiopía?",
+   "narrativa": "La posición de compra sobre 'No' refleja un consenso externo que descarta a Belete Molla como sucesor inmediato, con un edge calculado de +8.2 puntos frente a la probabilidad implícita del mercado. El monto de $5,147.51 representa una apuesta significativa que busca capitalizar la brecha entre el precio actual y el valor justo estimado, en un contexto de baja liquidez que amplifica el movimiento potencial. Riesgo: volatilidad por noticias políticas imprevistas y spreads amplios."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 9.0,
+   "prob_poly": 8.5,
    "consenso": 50.5,
-   "edge": 41.5,
+   "edge": 42.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -30,9 +51,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 41.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 42.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket valora esta opción en solo 9.0, mientras que el consenso externo de PredictIt la sitúa en 50.5, generando un edge de 41.5 puntos a favor de comprar el 'Sí'. Esta discrepancia es amplia y sugiere que el precio actual no refleja la probabilidad real según fuentes alternativas, ofreciendo un margen de valor significativo para el operador. Riesgo: la liquidez en este mercado puede ser limitada, lo que podría afectar la ejecución de la orden."
+   "narrativa": "El mercado de Polymarket cotiza la probabilidad de una victoria demócrata por margen del 3%-6% en solo 8.5 puntos, frente a un consenso externo de 50.5, lo que genera un edge de 42 puntos a favor de la compra. Este diferencial extremo sugiere que el precio actual no refleja la distribución de resultados esperada por otras fuentes, ofreciendo una oportunidad de valor significativa. Riesgo: el evento es específico y de baja liquidez, lo que puede ampliar el spread y dificultar la salida."
   },
   {
    "tipo": "edge",
@@ -69,7 +90,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9910431.671829991,
+   "volumen": 9910431.671829997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -79,7 +100,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995101.5678490001,
+   "volumen": 995101.5678490002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -87,9 +108,9 @@
   {
    "question": "Iran charges Hormuz fees by August 31?",
    "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
-   "yes": 0.115,
-   "no": 0.885,
-   "volumen": 993703.6981459998,
+   "yes": 0.105,
+   "no": 0.895,
+   "volumen": 993721.5981459997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
@@ -99,7 +120,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993440002,
+   "volumen": 990196.2993439998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -129,10 +150,20 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299997,
+   "volumen": 99588.02526299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
+  },
+  {
+   "question": "Will B8 Win the CS2 EWC 2026?",
+   "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
+   "yes": 0.0165,
+   "no": 0.9835,
+   "volumen": 99217.84698099998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará B8 la CS2 EWC 2026?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -157,9 +188,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.064,
-   "no": 0.936,
-   "volumen": 99036.85304000003,
+   "yes": 0.062,
+   "no": 0.938,
+   "volumen": 99036.85304000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -175,34 +206,34 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will B8 Win the CS2 EWC 2026?",
-   "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
-   "yes": 0.0165,
-   "no": 0.9835,
-   "volumen": 98884.84698100001,
+   "question": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In",
+   "slug": "val-osg-ts3-2026-08-19",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 98870.344297,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Ganará B8 la CS2 EWC 2026?"
+   "question_es": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In"
+  },
+  {
+   "question": "Will Elon Musk post 140-159 tweets from August 14 to August 21, 2026?",
+   "slug": "elon-musk-of-tweets-august-14-august-21-140-159",
+   "yes": 0.125,
+   "no": 0.875,
+   "volumen": 98844.35216499997,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 140 y 159 tuits del 14 de agosto al 21 de agosto de 2026?"
   },
   {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.57294599999,
+   "volumen": 98743.57294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
-  },
-  {
-   "question": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In",
-   "slug": "val-osg-ts3-2026-08-19",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 98595.344297,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -227,9 +258,9 @@
   {
    "question": "Iran-Oman Hormuz Agreement by August 22?",
    "slug": "iran-oman-hormuz-agreement-by-august-22",
-   "yes": 0.075,
-   "no": 0.925,
-   "volumen": 98278.770337,
+   "yes": 0.08,
+   "no": 0.92,
+   "volumen": 98278.77033700002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Acuerdo Irán-Omán sobre Ormuz antes del 22 de agosto?"
@@ -239,7 +270,7 @@
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
    "yes": 0.0825,
    "no": 0.9175,
-   "volumen": 9991.036522,
+   "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -247,8 +278,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.254,
-   "no": 0.746,
+   "yes": 0.238,
+   "no": 0.762,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -299,20 +330,10 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.295,
    "no": 0.705,
-   "volumen": 9956.09818,
+   "volumen": 9956.098179999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
-  },
-  {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.425,
-   "no": 0.575,
-   "volumen": 9952.114907,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 88.87
+ "db_size_mb": 88.95
 }
