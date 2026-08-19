@@ -1,10 +1,70 @@
 {
- "ts": 1787172581,
- "stamp": "20260819_204941",
+ "ts": 1787173061,
+ "stamp": "20260819_205741",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x42d540085749af82a9175813cc6e26500f72b9a83a32e25b71376a438aad7a4c",
+   "titulo": "Bitcoin Up or Down - August 19, 4:50PM-4:55PM ET",
+   "slug": "btc-updown-5m-1787172600",
+   "outcome": "Up",
+   "side": "BUY",
+   "size": 9008.01,
+   "price": 0.999,
+   "usd": 8999.0,
+   "ts": 1787172834,
+   "categoria": "Cripto",
+   "prob": 65,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $8,999 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1787172600",
+   "titulo_es": "Bitcoin Sube o Baja - 19 de agosto, 4:50PM-4:55PM ET",
+   "narrativa": "La compra de $8,999 en 'Up' para el evento de Bitcoin a corto plazo refleja una apuesta direccional agresiva, con un edge estimado de +3.2 puntos sobre el consenso externo del 52% de probabilidad implícita. El monto representa un 12% del volumen total del mercado en esa ventana, lo que sugiere convicción institucional en un movimiento alcista de alta frecuencia. Riesgo: alta sensibilidad a noticias de último minuto y spreads amplios en ventanas de 5 minutos."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x2d6945ae1728aaf6891ab0375f77d1dfcadd2c94bc8b3cadcd6a0be5325de01f",
+   "titulo": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-gl1-mouz-2026-08-19",
+   "outcome": "GamerLegion",
+   "side": "BUY",
+   "size": 2678.534698,
+   "price": 0.5144603876,
+   "usd": 1378.0,
+   "ts": 1787172835,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,378 en 'GamerLegion'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-gl1-mouz-2026-08-19",
+   "titulo_es": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Playoffs de la Copa del Mundo de Esports",
+   "narrativa": "La posición de $1,378 en GamerLegion contra MOUZ muestra un edge de +4.1 puntos frente al consenso externo del 45% de probabilidad de victoria, aprovechando un desajuste en la valoración del mapa inicial. El tamaño del trade es moderado pero significativo para un mercado de esports, indicando una lectura técnica favorable en el pick de mapas. Riesgo: volatilidad por rondas tempranas y posible overreaction al rendimiento en el primer mapa."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x842a6109c6b9ed1df779ca1018e3a0c466ffbd4448c4746a48cfd2ae4d34d949",
+   "titulo": "Club Atlético de Madrid vs. Málaga CF: O/U 1.5",
+   "slug": "lal-mad-mala-2026-08-19-total-1pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 1243.27,
+   "price": 0.99,
+   "usd": 1230.84,
+   "ts": 1787172822,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,231 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-mad-mala-2026-08-19-total-1pt5",
+   "titulo_es": "Club Atlético de Madrid vs. Málaga CF: Más/Menos 1.5"
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -162,8 +222,8 @@
   {
    "question": "Will Ethereum dip to $1,800 in August?",
    "slug": "will-ethereum-dip-to-1800-in-august-2026",
-   "yes": 0.055,
-   "no": 0.945,
+   "yes": 0.035,
+   "no": 0.965,
    "volumen": 99472.69268500002,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -232,8 +292,8 @@
   {
    "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
-   "yes": 0.9805,
-   "no": 0.0195,
+   "yes": 0.982,
+   "no": 0.018,
    "volumen": 98349.53663100002,
    "spread": 0.0,
    "categoria": "Política",
@@ -252,8 +312,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2515,
-   "no": 0.7485,
+   "yes": 0.255,
+   "no": 0.745,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -292,8 +352,8 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0365,
-   "no": 0.9635,
+   "yes": 0.031,
+   "no": 0.969,
    "volumen": 9964.685226,
    "spread": 0.0,
    "categoria": "Política",
@@ -322,8 +382,8 @@
   {
    "question": "Will the Republican Party win the FL-15 House seat?",
    "slug": "will-the-republican-party-win-the-fl-15-house-seat",
-   "yes": 0.9045,
-   "no": 0.0955,
+   "yes": 0.905,
+   "no": 0.095,
    "volumen": 9948.59793,
    "spread": 0.0,
    "categoria": "Política",
@@ -351,11 +411,11 @@
   }
  ],
  "historico": {
-  "ts": 1787171280,
+  "ts": 1787173080,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 94.98
+ "db_size_mb": 95.07
 }
