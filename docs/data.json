@@ -1,19 +1,60 @@
 {
- "ts": 1787181223,
- "stamp": "20260819_231343",
+ "ts": 1787181583,
+ "stamp": "20260819_231943",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x4b520df237d5ea575233cebef0c23895afb1f69b7436b4cf1d412e6ea4b88775",
+   "titulo": "Will FC Cincinnati win on 2026-08-19?",
+   "slug": "mls-fcc-nyc-2026-08-19-fcc",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 94513.87,
+   "price": 0.5164143697,
+   "usd": 48808.32,
+   "ts": 1787181532,
+   "categoria": "Otros",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $48,808 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-fcc-nyc-2026-08-19-fcc",
+   "titulo_es": "¿Ganará FC Cincinnati el 2026-08-19?",
+   "narrativa": "Una ballena ha realizado una compra de $48,808.32 en 'Yes' para que FC Cincinnati gane el 2026-08-19, lo que indica una fuerte convicción direccional en un mercado con volumen no reportado. Este movimiento de capital, al ser de gran magnitud, puede desplazar la oferta y generar un repunte en el precio de la acción, ofreciendo una ventana de entrada antes de que el mercado ajuste. Riesgo: la falta de datos de volumen puede implicar poca profundidad y mayor volatilidad."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x91c367cf2a618d06d3685e664aacde63e2c097fba0c1d15973b3555a5cfdeab6",
+   "titulo": "Arizona Diamondbacks vs. Boston Red Sox",
+   "slug": "mlb-ari-bos-2026-08-19",
+   "outcome": "Boston Red Sox",
+   "side": "SELL",
+   "size": 3703.7,
+   "price": 0.39,
+   "usd": 1444.44,
+   "ts": 1787181541,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,444 en 'Boston Red Sox'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-ari-bos-2026-08-19",
+   "titulo_es": "Arizona Diamondbacks vs. Boston Red Sox",
+   "narrativa": "La venta de $1,444.44 en 'Boston Red Sox' contra los Arizona Diamondbacks sugiere que una ballena está tomando ganancias o cubriendo una posición, lo que podría indicar un techo temporal en la probabilidad implícita del equipo visitante. Este flujo de venta, aunque moderado, puede presionar el precio a la baja en el corto plazo, creando una oportunidad para compradores contrarios si el fundamento del juego no ha cambiado. Riesgo: el monto es relativamente bajo y el mercado puede carecer de liquidez para movimientos bruscos."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
    "question": "Will OpenAI’s Astra model be released by August 31, 2026?",
    "slug": "will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
    "url": "https://polymarket.com/market/will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
-   "prob_poly": 10.5,
+   "prob_poly": 11.5,
    "consenso": 83.5,
-   "edge": 73.0,
+   "edge": 72.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -37,9 +78,9 @@
    "confianza": "alta",
    "horizonte": "72h",
    "fuentes_nombres": "Manifold, Manifold",
-   "razon": "Polymarket paga este mercado a 10.5% y el consenso de 2 fuente(s) externa(s) (Manifold, Manifold) lo paga a 83.5%: diferencia de 73.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 11.5% y el consenso de 2 fuente(s) externa(s) (Manifold, Manifold) lo paga a 83.5%: diferencia de 72.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Se lanzará el modelo Astra de OpenAI antes del 31 de agosto de 2026?",
-   "narrativa": "La diferencia de 73 puntos entre el consenso externo (83.5%) y la cotización de Polymarket (10.5%) es extrema, lo que sugiere un fuerte desajuste de precios. Con un pago potencial de 10.5 veces la inversión, el mercado está descontando una probabilidad muy baja frente a la evidencia de otras plataformas. Esta brecha ofrece un edge significativo para posicionarse en el 'Sí', aunque el monto del trade debe calibrarse ante la posibilidad de que el consenso externo esté sobreestimando la fecha límite. Riesgo: alta volatilidad en el plazo y posible corrección brusca del mercado si se acerca la fecha sin anuncios."
+   "narrativa": "El mercado de Polymarket para el lanzamiento del modelo Astra de OpenAI antes del 31 de agosto de 2026 cotiza en 11.5, mientras que el consenso externo (Manifold) lo sitúa en 83.5, generando un edge de 72 puntos a favor de la compra del 'Sí'. Esta brecha extrema sugiere que el precio de Polymarket está significativamente rezagado respecto a las probabilidades implícitas en otras plataformas, lo que representa una oportunidad de arbitraje informativo. Riesgo: la liquidez puede ser limitada y el evento depende de factores técnicos no controlables."
   },
   {
    "tipo": "edge",
@@ -114,7 +155,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.5278490002,
+   "volumen": 996816.5278490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -124,7 +165,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995995.6908560001,
+   "volumen": 995995.690856,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -144,7 +185,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982380.236258,
+   "volumen": 982380.2362579997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -160,16 +201,6 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
-   "question": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs",
-   "slug": "cs2-navi-lgc-2026-08-20",
-   "yes": 0.695,
-   "no": 0.305,
-   "volumen": 99790.409698,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Playoffs de la Copa Mundial de Esports"
-  },
-  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
@@ -180,20 +211,10 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
-   "question": "Orlando City SC vs. Chicago Fire FC: O/U 3.5",
-   "slug": "mls-orl-chi-2026-08-19-total-3pt5",
-   "yes": 0.465,
-   "no": 0.535,
-   "volumen": 99303.700055,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Orlando City SC vs. Chicago Fire FC: Más/Menos 3.5"
-  },
-  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.057,
+   "no": 0.943,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -234,7 +255,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294600002,
+   "volumen": 98831.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -244,7 +265,7 @@
    "slug": "wnba-min-gsv-2026-08-19-total-163pt5",
    "yes": 0.465,
    "no": 0.535,
-   "volumen": 98659.76025099997,
+   "volumen": 98659.760251,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Minnesota Lynx vs. Golden State Valkyries: Más/Menos 163.5"
@@ -254,7 +275,7 @@
    "slug": "wnba-tor-wsh-2026-08-19-total-168pt5",
    "yes": 0.505,
    "no": 0.495,
-   "volumen": 98582.05828299996,
+   "volumen": 98582.05828299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Toronto Tempo vs. Washington Mystics: Más/Menos 168.5"
@@ -274,7 +295,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.983,
    "no": 0.017,
-   "volumen": 98359.536631,
+   "volumen": 98359.53663099998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -292,9 +313,9 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.6,
-   "no": 0.4,
-   "volumen": 98183.97211599998,
+   "yes": 0.59,
+   "no": 0.41,
+   "volumen": 98183.972116,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -302,8 +323,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.9575,
-   "no": 0.0425,
+   "yes": 0.957,
+   "no": 0.043,
    "volumen": 9997.610976,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -348,6 +369,26 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
+   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
+   "yes": 0.042,
+   "no": 0.958,
+   "volumen": 9965.945226,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
   }
  ],
  "historico": {
@@ -357,5 +398,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 96.96
+ "db_size_mb": 97.04
 }
