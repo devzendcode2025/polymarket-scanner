@@ -1,49 +1,29 @@
 {
- "ts": 1787099780,
- "stamp": "20260819_003620",
+ "ts": 1787100140,
+ "stamp": "20260819_004220",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x03657d0e9e51d9142931b165c458bb3a920000000000000000000000000000",
-   "titulo": "Los Angeles Angels vs. Houston Astros AND Los Angeles Dodgers vs. Colorado Rockies AND Athletics vs. Kansas City Royals",
-   "slug": "",
-   "outcome": "",
+   "market_id": "0xe68d53fdc9009fefac65c1092934543ee291a683b5b221aad4b89bff7aa67412",
+   "titulo": "Cancun: Gauthier Onclin vs Alejandro Moro Canas",
+   "slug": "atp-onclin-canas-2026-08-18",
+   "outcome": "Gauthier Onclin",
    "side": "BUY",
-   "size": 11453.008731,
-   "price": 0.2525026504,
-   "usd": 2891.92,
-   "ts": 1787099524,
+   "size": 8531.167016,
+   "price": 0.5399026874,
+   "usd": 4606.0,
+   "ts": 1787099826,
    "categoria": "Otros",
-   "prob": 56,
+   "prob": 58,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,892 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "",
-   "titulo_es": "Los Angeles Angels vs. Houston Astros Y Los Angeles Dodgers vs. Colorado Rockies Y Athletics vs. Kansas City Royals",
-   "narrativa": "La compra coordinada de 2,891.92 USD en tres partidos de MLB sugiere una apuesta direccional basada en un modelo de valor que detecta discrepancias entre las probabilidades implícitas del mercado y las proyecciones de los equipos. El tamaño del trade, distribuido en múltiples eventos, indica una convicción media que busca capturar un edge agregado, aunque la falta de volumen de mercado reportado limita la confirmación de liquidez. Riesgo: exposición a resultados correlacionados en una misma jornada deportiva."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x377e7fe65cf198a7fc4fdae3f2136b74729279267858daaf96718b23bc2a5607",
-   "titulo": "Iran leadership change by December 31?",
-   "slug": "iran-leadership-change-by-december-31-974-976-658-482-568-685-996-469-827",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1200.0,
-   "price": 0.84,
-   "usd": 1008.0,
-   "ts": 1787099529,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,008 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/iran-leadership-change-by-december-31-974-976-658-482-568-685-996-469-827",
-   "titulo_es": "¿Cambio de liderazgo en Irán para el 31 de diciembre?",
-   "narrativa": "La compra de 1,008.00 USD en la opción 'No' para un cambio de liderazgo en Irán antes de fin de año refleja una apuesta por la estabilidad política, alineada con el consenso externo que otorga baja probabilidad a una transición abrupta. El monto, superior a 1,000 USD, sugiere que el operador percibe un desvío entre el precio actual y la probabilidad real, buscando capturar valor a largo plazo. Riesgo: eventos geopolíticos impredecibles pueden alterar drásticamente el resultado en pocas semanas."
+   "razon": "Trade de compra por $4,606 en 'Gauthier Onclin'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-onclin-canas-2026-08-18",
+   "titulo_es": "Cancún: Gauthier Onclin vs Alejandro Moro Cañas",
+   "narrativa": "El mercado muestra una compra significativa de 4,606 USD a favor de Gauthier Onclin, lo que representa una apuesta direccional clara en un partido de tenis donde el consenso externo no está alineado con el precio actual. Este flujo de capital, aunque no se especifica el volumen total del mercado, sugiere que un operador con información o convicción fuerte está dispuesto a tomar una posición de tamaño considerable. El edge en puntos no se detalla, pero la magnitud del monto en relación con la liquidez típica de estos eventos indica una posible oportunidad de arbitraje de información. Riesgo: posible falta de liquidez en el mercado de este partido, lo que podría afectar la ejecución de la salida."
   }
  ],
  "edges": [
@@ -188,8 +168,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -278,8 +258,8 @@
   {
    "question": "Will Carey Baker be the FL-11 Republican nominee?",
    "slug": "will-carey-baker-be-the-fl-11-republican-nominee-20260723173936217",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.07,
+   "no": 0.93,
    "volumen": 9999.672418,
    "spread": 0.0,
    "categoria": "Política",
@@ -298,8 +278,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.044,
-   "no": 0.956,
+   "yes": 0.034,
+   "no": 0.966,
    "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -318,8 +298,8 @@
   {
    "question": "Los Angeles Sparks vs. Connecticut Sun: O/U 174.5",
    "slug": "wnba-la-conn-2026-08-18-total-174pt5",
-   "yes": 0.51,
-   "no": 0.49,
+   "yes": 0.375,
+   "no": 0.625,
    "volumen": 9986.797522,
    "spread": 0.0,
    "categoria": "Otros",
@@ -338,8 +318,8 @@
   {
    "question": "Will the highest temperature in Madrid be 36°C on August 19?",
    "slug": "highest-temperature-in-madrid-on-august-19-2026-36c",
-   "yes": 0.735,
-   "no": 0.265,
+   "yes": 0.685,
+   "no": 0.315,
    "volumen": 9985.693832,
    "spread": 0.0,
    "categoria": "Otros",
@@ -363,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 80.14
+ "db_size_mb": 80.2
 }
