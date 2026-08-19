@@ -1,29 +1,29 @@
 {
- "ts": 1787167959,
- "stamp": "20260819_193239",
+ "ts": 1787168440,
+ "stamp": "20260819_194040",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x5d3a6dd794345ccb5fa3fa79b4f8a994fcbaf9edb350041bae6272103615927c",
-   "titulo": "Club Atlético de Madrid vs. Málaga CF: 1st Half O/U 1.5",
-   "slug": "lal-mad-mala-2026-08-19-first-half-total-1pt5",
-   "outcome": "Under",
+   "market_id": "0x490f59a0283e3d0e5e9e7f1343e3c7a2bc2193ef269f8b30fa292fcf5cd37c36",
+   "titulo": "Celtic FC vs. LASK Linz: 1st Half O/U 1.5",
+   "slug": "ucl-cel-lin2-2026-08-19-first-half-total-1pt5",
+   "outcome": "Over",
    "side": "BUY",
-   "size": 2409.638552,
-   "price": 0.8299999999,
-   "usd": 2000.0,
-   "ts": 1787167729,
+   "size": 1015.235234,
+   "price": 0.9989999992,
+   "usd": 1014.22,
+   "ts": 1787168334,
    "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-mad-mala-2026-08-19-first-half-total-1pt5",
-   "titulo_es": "Club Atlético de Madrid vs. Málaga CF: 1er Tiempo Más/Menos 1.5",
-   "narrativa": "La compra de Under 1.5 en el primer tiempo entre Atlético de Madrid y Málaga muestra un edge de +8.2 puntos frente al consenso externo del 42.1%, con un desvío estándar de 3.4% que respalda la confianza en la selección. El monto de $2,000 representa un 1.2% del volumen proyectado del mercado, lo que permite una ejecución discreta sin distorsionar el precio. Riesgo: la baja liquidez en mercados de primera parte puede ampliar el spread en momentos de alta volatilidad."
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,014 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-cel-lin2-2026-08-19-first-half-total-1pt5",
+   "titulo_es": "Celtic FC vs. LASK Linz: 1er Tiempo Más/Menos 1.5",
+   "narrativa": "La compra de Over 1.5 en el primer tiempo entre Celtic FC y LASK Linz muestra una entrada de $1,014 USD, lo que sugiere convicción direccional en un mercado con alta probabilidad de actividad temprana. El edge se concentra en el desequilibrio entre el flujo de órdenes y el precio implícito, que aún no ha absorbido completamente la presión compradora. Riesgo: la liquidez del mercado es limitada, lo que puede amplificar el deslizamiento en la ejecución."
   }
  ],
  "edges": [
@@ -90,7 +90,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9911204.331829997,
+   "volumen": 9911204.331829999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -100,7 +100,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996716.5278490002,
+   "volumen": 996716.5278490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -130,10 +130,20 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982380.2362579998,
+   "volumen": 982380.2362579997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
+  },
+  {
+   "question": "Will Aurora Gaming Win the CS2 EWC 2026?",
+   "slug": "will-aurora-gaming-win-the-cs2-ewc-2026-20260810160005088",
+   "yes": 0.015,
+   "no": 0.985,
+   "volumen": 99803.837417,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará Aurora Gaming el CS2 EWC 2026?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -180,7 +190,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.0645,
    "no": 0.9355,
-   "volumen": 99036.85304000002,
+   "volumen": 99036.85304000005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -200,7 +210,7 @@
    "slug": "will-real-sociedad-win-the-2026-27-laliga-championship-20260701200737387",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98856.382716,
+   "volumen": 98856.38271600001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
@@ -210,20 +220,10 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294600003,
+   "volumen": 98831.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
-  },
-  {
-   "question": "Will Aurora Gaming Win the CS2 EWC 2026?",
-   "slug": "will-aurora-gaming-win-the-cs2-ewc-2026-20260810160005088",
-   "yes": 0.0165,
-   "no": 0.9835,
-   "volumen": 98804.86741699999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará Aurora Gaming el CS2 EWC 2026?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -240,20 +240,10 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9805,
    "no": 0.0195,
-   "volumen": 98349.53663100001,
+   "volumen": 98349.53663100002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
-  },
-  {
-   "question": "LoL: B2U vs Arctic Pandas (BO3) - NLC Playoffs",
-   "slug": "lol-b2u-ap-2026-08-19",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9997.918722999999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: B2U vs Arctic Pandas (BO3) - Playoffs de la NLC"
   },
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
@@ -268,8 +258,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2495,
-   "no": 0.7505,
+   "yes": 0.255,
+   "no": 0.745,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -290,7 +280,7 @@
    "slug": "highest-temperature-in-helsinki-on-august-19-2026-20c",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9978.179976000001,
+   "volumen": 9978.179976,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Helsinki de 20°C el 19 de agosto?"
@@ -316,11 +306,21 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Spread: FC Barcelona (-1.5)",
+   "slug": "clf-bar-ahl-2026-08-19-spread-home-1pt5",
+   "yes": 0.63,
+   "no": 0.37,
+   "volumen": 9952.591888000008,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Margen: FC Barcelona (-1.5)"
+  },
+  {
    "question": "Will USD/JPY hit 165 (High) in 2026?",
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 9952.114907000001,
+   "volumen": 9952.114907000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
@@ -330,7 +330,7 @@
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
    "yes": 0.0025,
    "no": 0.9975,
-   "volumen": 9941.699383000001,
+   "volumen": 9946.699383000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
@@ -343,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 93.86
+ "db_size_mb": 93.99
 }
