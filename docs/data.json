@@ -1,31 +1,10 @@
 {
- "ts": 1787141912,
- "stamp": "20260819_121832",
+ "ts": 1787142333,
+ "stamp": "20260819_122533",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xcfe1dc82b8014341ac9813c5a1a1cd918b77b660e0f7e9d83fe65d43202ddb34",
-   "titulo": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
-   "slug": "lol-gen-kt-2026-08-19",
-   "outcome": "Gen.G",
-   "side": "SELL",
-   "size": 2380.95,
-   "price": 0.999,
-   "usd": 2378.57,
-   "ts": 1787141880,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,379 en 'Gen.G'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-gen-kt-2026-08-19",
-   "titulo_es": "LoL: Gen.G vs KT Rolster (BO3) - LCK Ronda 3-4 Grupo Leyenda",
-   "narrativa": "El mercado presenta una venta de 2,378.57 USD sobre Gen.G, lo que sugiere que un operador relevante anticipa una corrección en la probabilidad implícita del favorito. Aunque no contamos con el consenso externo ni el volumen total del mercado, el tamaño de la posición en relación a la liquidez típica de estos mercados puede generar un desvío temporal en el precio, ofreciendo una entrada a contracorriente si el modelo propio difiere del precio actual. Riesgo: posible falta de profundidad para ejecutar la salida sin afectar el precio."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -90,7 +69,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0245,
    "no": 0.9755,
-   "volumen": 9910388.871829983,
+   "volumen": 9910388.871830001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -100,30 +79,30 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995101.5678490001,
+   "volumen": 995101.567849,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
-  },
-  {
-   "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
-   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
-   "yes": 0.1315,
-   "no": 0.8685,
-   "volumen": 990196.2993440002,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
    "question": "Iran charges Hormuz fees by August 31?",
    "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
    "yes": 0.11,
    "no": 0.89,
-   "volumen": 988129.378146,
+   "volumen": 993688.6981459998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
+  },
+  {
+   "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
+   "yes": 0.1315,
+   "no": 0.8685,
+   "volumen": 990196.2993439999,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -150,20 +129,10 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299996,
+   "volumen": 99588.02526300002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
-  },
-  {
-   "question": "Will Club Atlético de Madrid win on 2026-08-19?",
-   "slug": "lal-mad-mala-2026-08-19-mad",
-   "yes": 0.715,
-   "no": 0.285,
-   "volumen": 99491.45326399998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Club Atlético de Madrid el 2026-08-19?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -210,7 +179,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98884.846981,
+   "volumen": 98884.84698100001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -220,7 +189,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.572946,
+   "volumen": 98743.57294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -230,7 +199,7 @@
    "slug": "val-osg-ts3-2026-08-19",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 98487.30429700001,
+   "volumen": 98539.024297,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In"
@@ -246,11 +215,31 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
+   "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
+   "yes": 0.978,
+   "no": 0.022,
+   "volumen": 98292.46049800001,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
+  },
+  {
+   "question": "Iran-Oman Hormuz Agreement by August 22?",
+   "slug": "iran-oman-hormuz-agreement-by-august-22",
+   "yes": 0.085,
+   "no": 0.915,
+   "volumen": 98159.77033700001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Acuerdo Irán-Omán sobre Ormuz antes del 22 de agosto?"
+  },
+  {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
    "yes": 0.082,
    "no": 0.918,
-   "volumen": 9991.036522,
+   "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -308,8 +297,8 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.3,
-   "no": 0.7,
+   "yes": 0.295,
+   "no": 0.705,
    "volumen": 9956.098179999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -324,16 +313,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
-  },
-  {
-   "question": "LoL: BIG vs Unicorns Of Love Sexy Edition (BO5) - Prime League 1st Division Playoffs",
-   "slug": "lol-big1-use1-2026-08-19",
-   "yes": 0.665,
-   "no": 0.335,
-   "volumen": 9929.77936,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: BIG vs Unicorns Of Love Sexy Edition (BO5) - Playoffs de la 1ª División de la Prime League"
   }
  ],
  "historico": {
@@ -343,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 88.01
+ "db_size_mb": 88.09
 }
