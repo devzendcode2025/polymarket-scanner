@@ -1,10 +1,71 @@
 {
- "ts": 1787153796,
- "stamp": "20260819_153636",
+ "ts": 1787154216,
+ "stamp": "20260819_154336",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xeaa183eb2df8d7bbee7a9b59237777203230dfda5d6b569b5149eb788fae80a6",
+   "titulo": "Will Elon Musk post 90-114 tweets from August 17 to August 19, 2026?",
+   "slug": "elon-musk-of-tweets-august-17-august-19-90-114",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 10000.0,
+   "price": 0.999,
+   "usd": 9990.0,
+   "ts": 1787154213,
+   "categoria": "Tecnología",
+   "prob": 66,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $9,990 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-17-august-19-90-114",
+   "titulo_es": "¿Publicará Elon Musk entre 90 y 114 tuits del 17 al 19 de agosto de 2026?",
+   "narrativa": "La compra de $9,990 en 'Yes' para el rango de 90-114 tuits indica una fuerte convicción de que Musk superará el volumen de actividad típico en ese período. Si el consenso externo estima una media de tuits por día que, proyectada a tres días, se acerca al límite superior del rango, el edge positivo justifica la posición. El tamaño del trade, al ser el mayor del lote, sugiere que el operador identifica un desajuste entre el precio actual y la probabilidad real del evento. Riesgo: la volatilidad intradía de Musk puede invalidar rápidamente la tesis si reduce su actividad."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x25d2e100ecd7f64d78dd485f4720871052d6d02381431df7e7cb963b7e76c288",
+   "titulo": "Will Elon Musk post 65-89 tweets from August 17 to August 19, 2026?",
+   "slug": "elon-musk-of-tweets-august-17-august-19-65-89",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 4079.4312,
+   "price": 0.9805288512,
+   "usd": 4000.0,
+   "ts": 1787154213,
+   "categoria": "Tecnología",
+   "prob": 58,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $4,000 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-17-august-19-65-89",
+   "titulo_es": "¿Publicará Elon Musk entre 65 y 89 tweets del 17 de agosto al 19 de agosto de 2026?",
+   "narrativa": "La apuesta de $4,000 contra el rango de 65-89 tuits (outcome 'No') aprovecha la asimetría: si la actividad real se concentra en extremos (menos de 65 o más de 89), el pago es completo. El consenso externo probablemente ubica la media en un punto que deja un margen de error, y el precio de 'No' puede estar infravalorado si el mercado sobreestima la probabilidad de un rango medio. La doble posición (aquí y en la señal 2) refuerza la convicción, pero el monto combinado sugiere un apalancamiento en la tesis de cola. Riesgo: si Musk publica exactamente en ese rango, la pérdida es total."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x25d2e100ecd7f64d78dd485f4720871052d6d02381431df7e7cb963b7e76c288",
+   "titulo": "Will Elon Musk post 65-89 tweets from August 17 to August 19, 2026?",
+   "slug": "elon-musk-of-tweets-august-17-august-19-65-89",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1111.0,
+   "price": 0.997,
+   "usd": 1107.67,
+   "ts": 1787154213,
+   "categoria": "Tecnología",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,108 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-17-august-19-65-89",
+   "titulo_es": "¿Publicará Elon Musk entre 65 y 89 tweets del 17 de agosto al 19 de agosto de 2026?",
+   "narrativa": "La compra adicional de $1,107.67 en 'No' para el mismo rango de 65-89 tuits confirma la estrategia de promediar a favor de la tesis, aumentando la exposición total a $5,107.67. El edge se basa en que el rango medio es estadísticamente menos probable que los extremos, dado el historial de ráfagas de tuits de Musk. El tamaño incremental es menor, lo que sugiere una gestión de riesgo calculada para no sobrecargar la posición si el precio se mueve en contra. Riesgo: la correlación entre las dos señales amplifica el impacto de un evento inesperado."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -137,8 +198,8 @@
   {
    "question": "Will Ethereum reach $2,400 in August?",
    "slug": "will-ethereum-reach-2400-in-august-2026",
-   "yes": 0.087,
-   "no": 0.913,
+   "yes": 0.1025,
+   "no": 0.8975,
    "volumen": 99847.17493899999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -197,8 +258,8 @@
   {
    "question": "Will FUT Esports Win the CS2 EWC 2026?",
    "slug": "will-fut-esports-win-the-cs2-ewc-2026-20260810160005091",
-   "yes": 0.0165,
-   "no": 0.9835,
+   "yes": 0.0205,
+   "no": 0.9795,
    "volumen": 99142.136613,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -237,8 +298,8 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.1555,
-   "no": 0.8445,
+   "yes": 0.152,
+   "no": 0.848,
    "volumen": 98829.113919,
    "spread": 0.0,
    "categoria": "Otros",
@@ -297,8 +358,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2355,
-   "no": 0.7645,
+   "yes": 0.2505,
+   "no": 0.7495,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +383,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 90.72
+ "db_size_mb": 90.87
 }
