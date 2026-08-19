@@ -1,51 +1,10 @@
 {
- "ts": 1787122527,
- "stamp": "20260819_065527",
+ "ts": 1787122887,
+ "stamp": "20260819_070127",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x5ac03b8dc27cc8632deeaa910fa3caadd8e132ee562e04e3536b088c68c9c432",
-   "titulo": "Game Handicap: WB (-1.5) vs LNG Esports (+1.5)",
-   "slug": "lol-lng-wb-2026-08-19-game-handicap-home-1pt5",
-   "outcome": "LNG Esports",
-   "side": "BUY",
-   "size": 11000.0,
-   "price": 0.53,
-   "usd": 5830.0,
-   "ts": 1787122363,
-   "categoria": "Deportes",
-   "prob": 60,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,830 en 'LNG Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19-game-handicap-home-1pt5",
-   "titulo_es": "Hándicap del juego: WB (-1.5) vs LNG Esports (+1.5)",
-   "narrativa": "Se detecta una compra agresiva de 5,830 USD sobre el hándicap +1.5 de LNG Esports, lo que sugiere que el mercado está corrigiendo una sobrevaloración inicial de WB. El volumen de mercado no está reportado, pero el tamaño de la orden en relación al flujo típico de este tipo de eventos indica un posicionamiento direccional claro. Riesgo: posible falta de liquidez en mercados de nicho."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x224ff7df0a0d5ee9234580158b92acafdf6da13150b7065c9671df2ebec31ae4",
-   "titulo": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-   "slug": "lol-ktc-t1a-2026-08-19",
-   "outcome": "KT Rolster Challengers",
-   "side": "BUY",
-   "size": 8434.76,
-   "price": 0.64,
-   "usd": 5398.25,
-   "ts": 1787122353,
-   "categoria": "Otros",
-   "prob": 60,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,398 en 'KT Rolster Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ktc-t1a-2026-08-19",
-   "titulo_es": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío",
-   "narrativa": "La apuesta de 5,398 USD a favor de KT Rolster Challengers en un BO3 refleja una convicción fuerte, probablemente basada en un desajuste de poder entre los equipos. El monto supera el promedio de operaciones en esta liga, lo que sugiere que el comprador maneja información o un modelo con edge positivo. Riesgo: volatilidad alta en partidos BO3 y posible influencia de factores externos (patch, preparación)."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -188,8 +147,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -268,8 +227,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0575,
-   "no": 0.9425,
+   "yes": 0.07,
+   "no": 0.93,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -308,8 +267,8 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.31,
-   "no": 0.69,
+   "yes": 0.305,
+   "no": 0.695,
    "volumen": 9956.098179999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -348,8 +307,8 @@
   {
    "question": "Will the Democratic Party win the AR-01 House seat?",
    "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.016,
-   "no": 0.984,
+   "yes": 0.015,
+   "no": 0.985,
    "volumen": 9914.337593,
    "spread": 0.0,
    "categoria": "Política",
@@ -363,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 84.61
+ "db_size_mb": 84.68
 }
