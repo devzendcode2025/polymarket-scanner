@@ -1,6 +1,6 @@
 {
- "ts": 1787128889,
- "stamp": "20260819_084129",
+ "ts": 1787129309,
+ "stamp": "20260819_084829",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -147,8 +147,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -187,8 +187,8 @@
   {
    "question": "Will B8 Win the CS2 EWC 2026?",
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
-   "yes": 0.015,
-   "no": 0.985,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 98774.846981,
    "spread": 0.0,
    "categoria": "Otros",
@@ -207,8 +207,8 @@
   {
    "question": "US ceasefire against Iran continues through September 30?",
    "slug": "us-x-iran-ceasefire-continues-through-september-30",
-   "yes": 0.665,
-   "no": 0.335,
+   "yes": 0.685,
+   "no": 0.315,
    "volumen": 98497.00698000002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -247,8 +247,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.224,
-   "no": 0.776,
+   "yes": 0.2365,
+   "no": 0.7635,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -316,11 +316,11 @@
   }
  ],
  "historico": {
-  "ts": 1787127273,
+  "ts": 1787129073,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 86.07
+ "db_size_mb": 86.2
 }
