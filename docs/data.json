@@ -1,71 +1,10 @@
 {
- "ts": 1787165139,
- "stamp": "20260819_184539",
+ "ts": 1787165499,
+ "stamp": "20260819_185139",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x2f112a1cd954debe3438caac411ca4395cc53be0e1580a5802ab42618b94aff7",
-   "titulo": "Russia Elections: United Russia Wins Every Region?",
-   "slug": "russia-elections-united-russia-wins-every-region",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 55271.19576,
-   "price": 0.4523151644,
-   "usd": 25000.0,
-   "ts": 1787165029,
-   "categoria": "Política",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $25,000 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/russia-elections-united-russia-wins-every-region",
-   "titulo_es": "Elecciones en Rusia: ¿Rusia Unida gana en todas las regiones?",
-   "narrativa": "Se detecta una apuesta de 25,000 USD a que Rusia Unida NO gana en todas las regiones, un monto significativo que sugiere convicción institucional. El consenso externo probablemente favorece al partido oficialista, pero el tamaño de la posición indica que el mercado podría estar sobrevalorando la probabilidad de una barrida total. El edge radica en la discrepancia entre el precio implícito y el riesgo real de sorpresas regionales. Riesgo: evento político con alta volatilidad y posible falta de liquidez en horas de baja actividad."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xae12963cf344013decffa9bb13ce1741018de836bab2b685152a271bc54cc817",
-   "titulo": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
-   "slug": "wta-cirstea-pegula-2026-08-19",
-   "outcome": "Jessica Pegula",
-   "side": "BUY",
-   "size": 2033.88,
-   "price": 0.6602454029,
-   "usd": 1342.86,
-   "ts": 1787165020,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,343 en 'Jessica Pegula'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-cirstea-pegula-2026-08-19",
-   "titulo_es": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
-   "narrativa": "La compra de 1,342.86 USD por Jessica Pegula en el Cincinnati Open refleja una apuesta clara por la favorita, aprovechando que el mercado podría no haber ajustado completamente su ventaja en superficie dura. El monto, aunque moderado, muestra una convicción superior al promedio minorista, sugiriendo que el precio actual ofrece un valor positivo frente a su historial reciente contra Cirstea. El edge se basa en la consistencia de Pegula en torneos WTA 1000 y su movilidad defensiva. Riesgo: lesiones o condiciones climáticas que alteren el ritmo del partido."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x16b6a9106e2302401471f4cf100f9fc794778734b225a179416915c024acbdb6",
-   "titulo": "Counter-Strike: GamerLegion vs MOUZ - Map 1 Winner",
-   "slug": "cs2-gl1-mouz-2026-08-19-game1",
-   "outcome": "MOUZ",
-   "side": "SELL",
-   "size": 1305.22,
-   "price": 0.999,
-   "usd": 1303.91,
-   "ts": 1787165016,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,304 en 'MOUZ'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-gl1-mouz-2026-08-19-game1",
-   "titulo_es": "Counter-Strike: GamerLegion vs MOUZ - Ganador del Mapa 1",
-   "narrativa": "La venta de 1,303.91 USD sobre MOUZ en el Mapa 1 contra GamerLegion indica que el operador espera una corrección a la baja en la probabilidad implícita del favorito. El mercado podría estar sobrestimando la ventaja de MOUZ por su nombre, pero el mapa inicial suele ser más disputado, y GamerLegion ha mostrado solidez en selecciones de mapa propias. El edge proviene de la diferencia entre el precio de venta y la probabilidad real de que MOUZ no gane, basada en el desempeño reciente de ambos equipos en el mapa específico. Riesgo: alta variabilidad en resultados de un solo mapa y posible iliquidez en mercados de esports."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -130,7 +69,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9911204.331829999,
+   "volumen": 9911204.331829997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -140,7 +79,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996716.5278490002,
+   "volumen": 996716.5278490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -150,7 +89,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995878.499344,
+   "volumen": 995878.4993439999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -186,16 +125,6 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
-   "question": "San Diego Padres vs. New York Mets: O/U 8.5",
-   "slug": "mlb-sd-nym-2026-08-19-total-8pt5",
-   "yes": 0.345,
-   "no": 0.655,
-   "volumen": 99700.78078600002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "San Diego Padres vs. New York Mets: Más/Menos 8.5"
-  },
-  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
@@ -228,9 +157,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0665,
-   "no": 0.9335,
-   "volumen": 99036.85304000002,
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 99036.85304000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -260,10 +189,20 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294600002,
+   "volumen": 98831.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
+  },
+  {
+   "question": "Will Aurora Gaming Win the CS2 EWC 2026?",
+   "slug": "will-aurora-gaming-win-the-cs2-ewc-2026-20260810160005088",
+   "yes": 0.0325,
+   "no": 0.9675,
+   "volumen": 98704.86741699997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará Aurora Gaming el CS2 EWC 2026?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -280,7 +219,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9795,
    "no": 0.0205,
-   "volumen": 98349.53663100002,
+   "volumen": 98349.53663100001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -290,7 +229,7 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 9998.64818,
+   "volumen": 9998.648179999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -308,8 +247,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2335,
-   "no": 0.7665,
+   "yes": 0.241,
+   "no": 0.759,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -346,21 +285,11 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Cirstea vs. Pegula: Match O/U 21.5",
-   "slug": "wta-cirstea-pegula-2026-08-19-match-total-21pt5",
-   "yes": 0.9745,
-   "no": 0.0255,
-   "volumen": 9961.409252000001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cirstea vs. Pegula: ¿Más/menos de 21.5 en el partido?"
-  },
-  {
    "question": "Will USD/JPY hit 165 (High) in 2026?",
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 9952.114907000001,
+   "volumen": 9952.114906999997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
@@ -374,6 +303,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
+   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
+   "yes": 0.043,
+   "no": 0.957,
+   "volumen": 9937.685226,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
   }
  ],
  "historico": {
@@ -383,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 93.25
+ "db_size_mb": 93.33
 }
