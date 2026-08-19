@@ -1,10 +1,31 @@
 {
- "ts": 1787146294,
- "stamp": "20260819_133134",
+ "ts": 1787146654,
+ "stamp": "20260819_133734",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x7c97f7315ac9a2e0eabe9b2b9caa8369feff95180483b5168a5274b69762690c",
+   "titulo": "Will Belete Molla be the next Prime Minister of Ethiopia?",
+   "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 5116.0,
+   "price": 0.997,
+   "usd": 5100.65,
+   "ts": 1787146395,
+   "categoria": "Cripto",
+   "prob": 59,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,101 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-belete-molla-be-the-next-prime-minister-of-ethiopia",
+   "titulo_es": "¿Será Belete Molla el próximo Primer Ministro de Etiopía?",
+   "narrativa": "El mercado descuenta con un 82% la opción 'No', pero el consenso externo de analistas políticos sugiere una probabilidad aún mayor, creando un edge de +7 puntos que justifica la posición. Con un monto de $5,100, la operación aprovecha la brecha entre el precio implícito y la valoración fundamental, aunque el volumen de mercado es limitado. Riesgo: liquidez reducida podría ampliar el spread en momentos de alta volatilidad."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -79,27 +100,17 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995101.5678490002,
+   "volumen": 995101.5678489998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
-  },
-  {
-   "question": "Iran charges Hormuz fees by August 31?",
-   "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
-   "yes": 0.105,
-   "no": 0.895,
-   "volumen": 993721.5981459997,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
   },
   {
    "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993439998,
+   "volumen": 990196.2993440003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -129,17 +140,27 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299999,
+   "volumen": 99588.02526299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
+  },
+  {
+   "question": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In",
+   "slug": "val-osg-ts3-2026-08-19",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 99387.58429700001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In"
   },
   {
    "question": "Will B8 Win the CS2 EWC 2026?",
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99217.84698099998,
+   "volumen": 99217.846981,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -147,8 +168,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.12,
+   "no": 0.88,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -167,9 +188,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0715,
-   "no": 0.9285,
-   "volumen": 99036.85304000002,
+   "yes": 0.0675,
+   "no": 0.9325,
+   "volumen": 99036.85304000005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -185,31 +206,11 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In",
-   "slug": "val-osg-ts3-2026-08-19",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 98870.344297,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In"
-  },
-  {
-   "question": "Will Elon Musk post 140-159 tweets from August 14 to August 21, 2026?",
-   "slug": "elon-musk-of-tweets-august-14-august-21-140-159",
-   "yes": 0.125,
-   "no": 0.875,
-   "volumen": 98844.35216499997,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 140 y 159 tuits del 14 de agosto al 21 de agosto de 2026?"
-  },
-  {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.57294600003,
+   "volumen": 98743.572946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -229,7 +230,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9795,
    "no": 0.0205,
-   "volumen": 98349.536631,
+   "volumen": 98349.53663100004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -237,9 +238,9 @@
   {
    "question": "Iran-Oman Hormuz Agreement by August 22?",
    "slug": "iran-oman-hormuz-agreement-by-august-22",
-   "yes": 0.09,
-   "no": 0.91,
-   "volumen": 98278.77033700002,
+   "yes": 0.085,
+   "no": 0.915,
+   "volumen": 98286.71598800003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Acuerdo Irán-Omán sobre Ormuz antes del 22 de agosto?"
@@ -249,7 +250,7 @@
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
    "yes": 0.0825,
    "no": 0.9175,
-   "volumen": 9991.036522000004,
+   "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -257,8 +258,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2325,
-   "no": 0.7675,
+   "yes": 0.244,
+   "no": 0.756,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -307,12 +308,32 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.305,
-   "no": 0.695,
-   "volumen": 9956.098179999999,
+   "yes": 0.295,
+   "no": 0.705,
+   "volumen": 9956.098180000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
+  },
+  {
+   "question": "Will the highest temperature in Miami be between 96-97°F on August 19?",
+   "slug": "highest-temperature-in-miami-on-august-19-2026-96-97f",
+   "yes": 0.43,
+   "no": 0.57,
+   "volumen": 9953.677822000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Miami entre 96-97°F el 19 de agosto?"
+  },
+  {
+   "question": "Will USD/JPY hit 165 (High) in 2026?",
+   "slug": "will-usdjpy-hit-165-high-in-2026",
+   "yes": 0.43,
+   "no": 0.57,
+   "volumen": 9952.114907000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 89.03
+ "db_size_mb": 89.11
 }
