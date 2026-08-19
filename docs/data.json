@@ -1,10 +1,30 @@
 {
- "ts": 1787151035,
- "stamp": "20260819_145035",
+ "ts": 1787151455,
+ "stamp": "20260819_145735",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x4432df49b36c20c1a27a604fa8a1e8bc133c0f9d5e0850fc911277ae3c6afc1c",
+   "titulo": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-furia-aur1-2026-08-19",
+   "outcome": "FURIA",
+   "side": "BUY",
+   "size": 2650.0,
+   "price": 0.62,
+   "usd": 1643.0,
+   "ts": 1787151198,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,643 en 'FURIA'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-furia-aur1-2026-08-19",
+   "titulo_es": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Playoffs de la Copa del Mundo de Esports",
+   "narrativa": "La compra de 1,643 USD en FURIA refleja una apuesta coordinada por el lado del equipo brasileño, que parte como favorito en el BO3 contra Aurora Gaming. El monto sugiere convicción institucional, y aunque no hay volumen de mercado reportado, el tamaño de la orden en un evento de playoffs de alto perfil indica que el mercado podría estar subestimando la ventaja de mapa y experiencia de FURIA. Riesgo: posible iliquidez en horas previas al inicio."
+  },
   {
    "tipo": "ballena",
    "market_id": "0x3be5b82aa2ac4b7290344c623e4b75cc5df3f8d8b17355bece2e0d8c6a1885c4",
@@ -12,18 +32,57 @@
    "slug": "lol-we-edg-2026-08-19-game2",
    "outcome": "Team WE",
    "side": "BUY",
-   "size": 2550.28,
-   "price": 0.69,
-   "usd": 1759.69,
-   "ts": 1787150904,
+   "size": 3371.994443,
+   "price": 0.4457154436,
+   "usd": 1502.95,
+   "ts": 1787151207,
    "categoria": "Deportes",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,760 en 'Team WE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $1,503 en 'Team WE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-we-edg-2026-08-19-game2",
    "titulo_es": "LoL: Team WE vs EDward Gaming - Ganador del Juego 2",
-   "narrativa": "La compra en Team WE para el Juego 2 contra EDward Gaming presenta un edge positivo de +3.2 puntos sobre el consenso externo, con un monto de $1,759.69 que refleja una convicción institucional clara. El volumen de mercado no reportado sugiere que la posición puede moverse sin fricción, amplificando el potencial de captura de valor antes de que el precio se ajuste al verdadero diferencial de rendimiento entre ambos equipos. Riesgo: la ausencia de datos de liquidez puede generar deslizamientos si la apuesta se cierra en momentos de baja actividad."
+   "narrativa": "La acumulación de 1,502.95 USD en Team WE para el Juego 2 contra EDward Gaming muestra una clara dirección de capital, probablemente basada en el desempeño del primer juego y ajustes de draft. El monto supera el promedio de operaciones en este tipo de mercados, lo que sugiere que el consenso externo favorece a WE, y el edge podría estar en el desajuste de cuotas entre el Juego 1 y el Juego 2. Riesgo: cambios de alineación o estrategia entre juegos."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x3be5b82aa2ac4b7290344c623e4b75cc5df3f8d8b17355bece2e0d8c6a1885c4",
+   "titulo": "LoL: Team WE vs EDward Gaming - Game 2 Winner",
+   "slug": "lol-we-edg-2026-08-19-game2",
+   "outcome": "Team WE",
+   "side": "BUY",
+   "size": 3000.0,
+   "price": 0.4325068667,
+   "usd": 1297.52,
+   "ts": 1787151210,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,298 en 'Team WE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-we-edg-2026-08-19-game2",
+   "titulo_es": "LoL: Team WE vs EDward Gaming - Ganador del Juego 2",
+   "narrativa": "Una segunda compra de 1,297.52 USD en Team WE refuerza la señal anterior, sumando un total de 2,800 USD en el mismo resultado. Este flujo consecutivo indica que los operadores grandes ven una ventaja sostenida, probablemente por el estado de forma de WE y el historial reciente contra EDG. El monto adicional sugiere que el mercado aún no ha ajustado completamente las probabilidades, dejando un edge positivo. Riesgo: volatilidad alta en juegos cerrados."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xd21ed5ed155ab6da3723985ef872d7e84970fae211af2bbc8bc999e92131edb9",
+   "titulo": "Amazon (AMZN) Up or Down on August 19?",
+   "slug": "amzn-up-or-down-on-august-19-2026",
+   "outcome": "Up",
+   "side": "BUY",
+   "size": 1155.0,
+   "price": 0.9895670996,
+   "usd": 1142.95,
+   "ts": 1787151204,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,143 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/amzn-up-or-down-on-august-19-2026",
+   "titulo_es": "¿Amazon (AMZN) sube o baja el 19 de agosto?"
   }
  ],
  "edges": [
@@ -116,16 +175,6 @@
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
-   "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
-   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
-   "yes": 0.1315,
-   "no": 0.8685,
-   "volumen": 990196.2993440003,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
-  },
-  {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
@@ -188,8 +237,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -208,8 +257,8 @@
   {
    "question": "Will Elon Musk post 220-239 tweets from August 14 to August 21, 2026?",
    "slug": "elon-musk-of-tweets-august-14-august-21-220-239",
-   "yes": 0.066,
-   "no": 0.934,
+   "yes": 0.0665,
+   "no": 0.9335,
    "volumen": 99089.614764,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -218,8 +267,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.067,
-   "no": 0.933,
+   "yes": 0.068,
+   "no": 0.932,
    "volumen": 99036.85304000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -244,6 +293,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
+  },
+  {
+   "question": "Will Elon Musk post 240-259 tweets from August 14 to August 21, 2026?",
+   "slug": "elon-musk-of-tweets-august-14-august-21-240-259",
+   "yes": 0.0185,
+   "no": 0.9815,
+   "volumen": 98667.60523599999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 240 y 259 tuits del 14 de agosto al 21 de agosto de 2026?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -288,8 +347,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2465,
-   "no": 0.7535,
+   "yes": 0.2235,
+   "no": 0.7765,
    "volumen": 9990.964864000003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -343,5 +402,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 90.08
+ "db_size_mb": 90.14
 }
