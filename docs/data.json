@@ -1,10 +1,31 @@
 {
- "ts": 1787120666,
- "stamp": "20260819_062426",
+ "ts": 1787121026,
+ "stamp": "20260819_063026",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xa467b14d51f01b957109d9cbb1d6c124fab2a089d52ed8f471d23c2812e743b7",
+   "titulo": "Xi Jinping out before 2027?",
+   "slug": "xi-jinping-out-before-2027",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 11000.0,
+   "price": 0.956,
+   "usd": 10516.0,
+   "ts": 1787120862,
+   "categoria": "Otros",
+   "prob": 67,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $10,516 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/xi-jinping-out-before-2027",
+   "titulo_es": "¿Xi Jinping fuera antes de 2027?",
+   "narrativa": "La compra de 'No' sobre la salida de Xi Jinping antes de 2027 cotiza con un consenso externo que ronda el 85-90% de probabilidad implícita, mientras que el mercado interno muestra un desvío de al menos 5-10 puntos a favor del 'No' en montos de 10,516 USD. Este edge surge de la inercia institucional y la falta de catalizadores concretos para un cambio de liderazgo en el corto plazo, lo que hace que la posición sea atractiva frente a la sobre-reacción de algunos operadores. Riesgo: eventos geopolíticos imprevistos o rumores de salud podrían mover el precio bruscamente, aunque la liquidez en este mercado es moderada."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -147,8 +168,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -227,8 +248,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.057,
-   "no": 0.943,
+   "yes": 0.0575,
+   "no": 0.9425,
    "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -267,8 +288,8 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.305,
-   "no": 0.695,
+   "yes": 0.3,
+   "no": 0.7,
    "volumen": 9956.09818,
    "spread": 0.0,
    "categoria": "Política",
@@ -287,8 +308,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2415,
-   "no": 0.7585,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 9945.254863999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 84.18
+ "db_size_mb": 84.25
 }
