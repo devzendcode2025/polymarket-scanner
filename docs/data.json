@@ -1,49 +1,29 @@
 {
- "ts": 1787155836,
- "stamp": "20260819_161036",
+ "ts": 1787156256,
+ "stamp": "20260819_161736",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 4331.0,
-   "price": 0.71,
-   "usd": 3075.01,
-   "ts": 1787155717,
-   "categoria": "Economía",
-   "prob": 56,
+   "market_id": "0x10b61b201302ab4b39d1945f3abbbec39a20d9bb40d9ad62aeb4d0c08d594d1c",
+   "titulo": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-fut-mgc-2026-08-19",
+   "outcome": "magic",
+   "side": "SELL",
+   "size": 10984.39,
+   "price": 0.37,
+   "usd": 4064.22,
+   "ts": 1787156022,
+   "categoria": "Deportes",
+   "prob": 58,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,075 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?",
-   "narrativa": "La compra de 'Yes' en la no-modificación de tasas de la Fed para septiembre de 2026 refleja un consenso externo que favorece la pausa, con una posición de $3,075 que sugiere convicción institucional. Aunque el mercado aún no muestra volumen total, el monto comprometido indica que el precio actual no descuenta por completo la probabilidad de inacción, ofreciendo un edge positivo si se mantiene la tendencia macro. Riesgo: ventana de tiempo amplia y posibles datos de inflación que alteren el escenario base."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x9cdf12a33bb67d1e5229cd49944e4923829925c7d733fb665176fa86f89907f6",
-   "titulo": "Counter-Strike: FUT Esports vs magic - Map 2 Winner",
-   "slug": "cs2-fut-mgc-2026-08-19-game2",
-   "outcome": "FUT Esports",
-   "side": "SELL",
-   "size": 1287.64,
-   "price": 0.999,
-   "usd": 1286.35,
-   "ts": 1787155719,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,286 en 'FUT Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-fut-mgc-2026-08-19-game2",
-   "titulo_es": "Counter-Strike: FUT Esports vs magic - Ganador del Mapa 2",
-   "narrativa": "La venta de FUT Esports en el Mapa 2 aprovecha la sobrevaloración implícita del equipo, con una apuesta de $1,286 que busca capitalizar el desvío entre el precio de mercado y la probabilidad real de victoria. El consenso externo sugiere que magic tiene mayor fortaleza en mapas específicos, lo que convierte esta posición en una oportunidad de arbitraje estadístico. Riesgo: alta volatilidad en esports y posibles cambios de alineación a última hora."
+   "razon": "Trade de venta por $4,064 en 'magic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-fut-mgc-2026-08-19",
+   "titulo_es": "Counter-Strike: FUT Esports vs magic (BO3) - Playoffs de la Copa del Mundo de Esports",
+   "narrativa": "El mercado muestra un desequilibrio significativo, con una posición de venta de $4,064 USD contra 'magic', lo que sugiere que un operador grande anticipa una corrección en la probabilidad implícita actual. Este flujo de capital, en un evento de playoffs con alta visibilidad, puede indicar que el consenso externo sobreestima las opciones de magic, creando un edge favorable para quien tome la contraposición. Riesgo: el volumen de mercado es bajo, lo que puede amplificar la volatilidad del precio en momentos de noticias."
   }
  ],
  "edges": [
@@ -208,8 +188,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -228,8 +208,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.067,
-   "no": 0.933,
+   "yes": 0.0645,
+   "no": 0.9355,
    "volumen": 99036.85304000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -258,8 +238,8 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.154,
-   "no": 0.846,
+   "yes": 0.1505,
+   "no": 0.8495,
    "volumen": 98829.113919,
    "spread": 0.0,
    "categoria": "Otros",
@@ -318,8 +298,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2455,
-   "no": 0.7545,
+   "yes": 0.2415,
+   "no": 0.7585,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -363,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 91.22
+ "db_size_mb": 91.29
 }
