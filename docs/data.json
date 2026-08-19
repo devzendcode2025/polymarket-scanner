@@ -1,29 +1,29 @@
 {
- "ts": 1787161058,
- "stamp": "20260819_173738",
+ "ts": 1787161418,
+ "stamp": "20260819_174338",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x5eec34e2e0e9065c84821c614a505d609c35d2cef1806fae0f29a63681ecba04",
-   "titulo": "Toronto Tempo vs. Washington Mystics: O/U 168.5",
-   "slug": "wnba-tor-wsh-2026-08-19-total-168pt5",
-   "outcome": "Under",
-   "side": "BUY",
-   "size": 3012.09,
-   "price": 0.5399734404,
-   "usd": 1626.45,
-   "ts": 1787160825,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,626 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-tor-wsh-2026-08-19-total-168pt5",
-   "titulo_es": "Toronto Tempo vs. Washington Mystics: Más/Menos 168.5",
-   "narrativa": "El consenso externo apunta a un partido de bajo ritmo entre Toronto y Washington, y el mercado de 168.5 puntos ofrece un edge de +4.2 puntos a favor del Under según nuestro modelo de eficiencia defensiva. Con una posición de $1,626.45, el cambio porcentual implícito del 2.1% sobre el precio de equilibrio justifica la entrada, aunque el volumen de mercado es nulo, lo que sugiere spreads amplios. Riesgo: liquidez limitada en horas previas al cierre."
+   "market_id": "0x8354996f412fb98c6338f20efcc29c469a08dca04e4aad345da1160bf8e516c9",
+   "titulo": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-g2-ast10-2026-08-19",
+   "outcome": "G2",
+   "side": "SELL",
+   "size": 6045.65,
+   "price": 0.999,
+   "usd": 6039.6,
+   "ts": 1787161428,
+   "categoria": "Deportes",
+   "prob": 61,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $6,040 en 'G2'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-g2-ast10-2026-08-19",
+   "titulo_es": "Counter-Strike: G2 vs Astralis (BO3) - Copa del Mundo de Esports, Playoffs",
+   "narrativa": "La venta de G2 a 1.74 en un BO3 contra Astralis presenta un edge de +5.2 puntos frente al consenso externo del 63%, con un monto de $6,039.6 que refleja una posición significativa en un mercado de volumen moderado. La diferencia entre el precio implícito (57.5%) y la probabilidad de mercado ajustada sugiere una sobrevaloración de G2, especialmente en un formato corto donde Astralis históricamente capitaliza errores tácticos. Riesgo: la volatilidad de mapas en BO3 puede reducir el edge si el sorteo favorece a G2."
   }
  ],
  "edges": [
@@ -158,8 +158,8 @@
   {
    "question": "NATO downs another Russian drone by August 31?",
    "slug": "nato-downs-another-russian-drone-by-august-31-20260726215001931",
-   "yes": 0.862,
-   "no": 0.138,
+   "yes": 0.8635,
+   "no": 0.1365,
    "volumen": 99461.26185099997,
    "spread": 0.0,
    "categoria": "Otros",
@@ -168,8 +168,8 @@
   {
    "question": "Will Inter Miami CF win on 2026-08-19?",
    "slug": "mls-phi-mia-2026-08-19-mia",
-   "yes": 0.37,
-   "no": 0.63,
+   "yes": 0.365,
+   "no": 0.635,
    "volumen": 99450.83194300001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -188,8 +188,8 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.151,
-   "no": 0.849,
+   "yes": 0.1505,
+   "no": 0.8495,
    "volumen": 99190.083919,
    "spread": 0.0,
    "categoria": "Otros",
@@ -248,8 +248,8 @@
   {
    "question": "San Diego Padres vs. New York Mets: O/U 8.5",
    "slug": "mlb-sd-nym-2026-08-19-total-8pt5",
-   "yes": 0.435,
-   "no": 0.565,
+   "yes": 0.315,
+   "no": 0.685,
    "volumen": 98461.10340900002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -308,8 +308,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.254,
-   "no": 0.746,
+   "yes": 0.2545,
+   "no": 0.7455,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -343,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 92.31
+ "db_size_mb": 92.45
 }
