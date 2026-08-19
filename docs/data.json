@@ -1,6 +1,6 @@
 {
- "ts": 1787112204,
- "stamp": "20260819_040324",
+ "ts": 1787112624,
+ "stamp": "20260819_041024",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -60,9 +60,9 @@
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 12.0,
+   "prob_poly": 12.5,
    "consenso": 50.5,
-   "edge": 38.5,
+   "edge": 38.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -79,9 +79,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 12.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 38.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 12.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 38.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "Con una cotización de 12.0 en Polymarket frente a un consenso externo de 50.5, el contrato para un margen republicano del 9%-12% presenta un edge de 38.5 puntos, indicando que el mercado está infravalorando esta posibilidad. La discrepancia con PredictIt sugiere que el precio no incorpora plenamente la probabilidad real, brindando un punto de entrada atractivo para quienes buscan capturar esa diferencia. Riesgo: la ventana de margen es estrecha y depende de un escenario electoral específico, lo que aumenta la varianza del resultado."
+   "narrativa": "La plataforma de Polymarket cotiza este desenlace al 12.5%, mientras que el consenso externo de PredictIt lo sitúa en 50.5%, generando un edge de 38 puntos a favor de comprar el 'Sí'. Esta brecha extrema sugiere una posible corrección del mercado hacia el valor de referencia, con un retorno potencial del 700% si se materializa el margen exacto. El monto del trade se ajusta a la liquidez disponible, pero la magnitud del desvío justifica una posición táctica, aunque la probabilidad implícita aún refleja un escenario de baja frecuencia. Riesgo: eventos políticos imprevistos o baja profundidad de libro en horarios de baja actividad."
   }
  ],
  "top_volumen": [
@@ -90,7 +90,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9972677.110318003,
+   "volumen": 9973384.380318005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -98,9 +98,9 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.0255,
-   "no": 0.9745,
-   "volumen": 9854002.069118,
+   "yes": 0.0305,
+   "no": 0.9695,
+   "volumen": 9884821.683239995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -110,7 +110,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 993148.4585160001,
+   "volumen": 993148.4585160002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -120,7 +120,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 989300.4235880001,
+   "volumen": 989300.4235879999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -130,7 +130,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955089999,
+   "volumen": 983750.995509,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -150,7 +150,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526300003,
+   "volumen": 99588.02526299996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -158,8 +158,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -170,7 +170,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99153.761934,
+   "volumen": 99153.76193399998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -206,21 +206,11 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
-   "question": "Israel x Iran ceasefire continues through October 31?",
-   "slug": "israel-x-iran-ceasefire-continues-through-october-31",
-   "yes": 0.745,
-   "no": 0.255,
-   "volumen": 98713.250172,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Continúa el alto el fuego entre Israel e Irán hasta el 31 de octubre?"
-  },
-  {
    "question": "Will B8 Win the CS2 EWC 2026?",
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98632.21540399997,
+   "volumen": 98632.21540399999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -230,7 +220,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98570.572946,
+   "volumen": 98570.57294600001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -258,22 +248,12 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0255,
-   "no": 0.9745,
+   "yes": 0.0235,
+   "no": 0.9765,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
-  },
-  {
-   "question": "Will the highest temperature in Seoul (Incheon) be 27°C on August 19?",
-   "slug": "highest-temperature-in-seoul-on-august-19-2026-27c",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9988.082202,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 27°C el 19 de agosto?"
   },
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
@@ -290,7 +270,7 @@
    "slug": "ufc-ken-sha27-2026-08-22",
    "yes": 0.455,
    "no": 0.545,
-   "volumen": 9980.313673999999,
+   "volumen": 9980.313674,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "UFC Fight Night: Kennedy Nzechukwu vs. Shamil Gaziev (Peso Pesado, Cartel Principal)"
@@ -320,7 +300,7 @@
    "slug": "highest-temperature-in-dallas-on-august-18-2026-104-105f",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9963.274783,
+   "volumen": 9965.354782999999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Dallas entre 104-105°F el 18 de agosto?"
@@ -334,6 +314,26 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
+  },
+  {
+   "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
+   "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
+   "yes": 0.2435,
+   "no": 0.7565,
+   "volumen": 9945.254864,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
+  },
+  {
+   "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
+   "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
+   "yes": 0.28,
+   "no": 0.72,
+   "volumen": 9941.89818,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
   }
  ],
  "historico": {
@@ -343,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 82.96
+ "db_size_mb": 82.98
 }
