@@ -1,31 +1,10 @@
 {
- "ts": 1787163518,
- "stamp": "20260819_181838",
+ "ts": 1787163998,
+ "stamp": "20260819_182638",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x19cab22f2476e17dc3da3c681e188214501dde84ddd424f2d16d46ad015292f7",
-   "titulo": "Will Sabah FK win on 2026-08-19?",
-   "slug": "ucl-hbs-sf-2026-08-19-sf",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 31320.99,
-   "price": 0.35,
-   "usd": 10962.35,
-   "ts": 1787163522,
-   "categoria": "Otros",
-   "prob": 68,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $10,962 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ucl-hbs-sf-2026-08-19-sf",
-   "titulo_es": "¿Ganará el Sabah FK el 2026-08-19?",
-   "narrativa": "La compra de 10,962 USD en 'Yes' para que el Sabah FK gane el 2026-08-19 refleja una apuesta direccional con capital significativo, lo que sugiere convicción de un operador grande. Aunque no hay volumen de mercado reportado, el monto colocado en un evento de largo plazo puede capturar un edge si el consenso externo subestima la probabilidad del equipo local. Riesgo: mercado ilíquido y horizonte lejano, lo que amplía la volatilidad del precio."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9911204.331829997,
+   "volumen": 9911204.331829999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -72,7 +51,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996716.5278489998,
+   "volumen": 996716.5278490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -82,7 +61,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995878.4993439998,
+   "volumen": 995878.4993440002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -98,6 +77,16 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
+   "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
+   "yes": 0.0125,
+   "no": 0.9875,
+   "volumen": 982380.236258,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
+  },
+  {
    "question": "NYSE marketwide circuit breaker before 2027?",
    "slug": "nyse-marketwide-circuit-breaker-before-2027",
    "yes": 0.14,
@@ -108,11 +97,21 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
+   "question": "NATO downs another Russian drone by August 31?",
+   "slug": "nato-downs-another-russian-drone-by-august-31-20260726215001931",
+   "yes": 0.8595,
+   "no": 0.1405,
+   "volumen": 99722.66185100001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿La OTAN derriba otro dron ruso antes del 31 de agosto?"
+  },
+  {
    "question": "San Diego Padres vs. New York Mets: O/U 8.5",
    "slug": "mlb-sd-nym-2026-08-19-total-8pt5",
-   "yes": 0.26,
-   "no": 0.74,
-   "volumen": 99684.81490500002,
+   "yes": 0.33,
+   "no": 0.67,
+   "volumen": 99686.07490500002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "San Diego Padres vs. New York Mets: Más/Menos 8.5"
@@ -126,16 +125,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
-  },
-  {
-   "question": "NATO downs another Russian drone by August 31?",
-   "slug": "nato-downs-another-russian-drone-by-august-31-20260726215001931",
-   "yes": 0.859,
-   "no": 0.141,
-   "volumen": 99470.261851,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿La OTAN derriba otro dron ruso antes del 31 de agosto?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -152,7 +141,7 @@
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
    "yes": 0.17,
    "no": 0.83,
-   "volumen": 99190.08391900001,
+   "volumen": 99197.08391899998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará MOUZ el CS2 EWC 2026?"
@@ -170,8 +159,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0695,
-   "no": 0.9305,
+   "yes": 0.0665,
+   "no": 0.9335,
    "volumen": 99036.85304000005,
    "spread": 0.0,
    "categoria": "Política",
@@ -220,9 +209,9 @@
   {
    "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
-   "yes": 0.9785,
-   "no": 0.0215,
-   "volumen": 98349.53663100001,
+   "yes": 0.981,
+   "no": 0.019,
+   "volumen": 98349.53663100002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -232,20 +221,10 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 9998.648179999998,
+   "volumen": 9998.648180000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
-  },
-  {
-   "question": "Will the highest temperature in New York City be between 84-85°F on August 19?",
-   "slug": "highest-temperature-in-nyc-on-august-19-2026-84-85f",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9994.009276000003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 84-85°F el 19 de agosto?"
   },
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
@@ -260,8 +239,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.245,
-   "no": 0.755,
+   "yes": 0.2545,
+   "no": 0.7455,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -298,22 +277,22 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.41,
-   "no": 0.59,
-   "volumen": 9952.114907000001,
+   "question": "Cirstea vs. Pegula: Match O/U 21.5",
+   "slug": "wta-cirstea-pegula-2026-08-19-match-total-21pt5",
+   "yes": 0.75,
+   "no": 0.25,
+   "volumen": 9961.409252000001,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
+   "categoria": "Deportes",
+   "question_es": "Cirstea vs. Pegula: ¿Más/menos de 21.5 en el partido?"
   }
  ],
  "historico": {
-  "ts": 1787162042,
+  "ts": 1787163898,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 92.91
+ "db_size_mb": 92.97
 }
