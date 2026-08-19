@@ -1,52 +1,46 @@
 {
- "ts": 1787178582,
- "stamp": "20260819_222942",
+ "ts": 1787179062,
+ "stamp": "20260819_223742",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x85184fbfeaa8622d8753b545ea7e60dcb6aa45ac0c0866fec617b3b0a30d0df5",
-   "titulo": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
-   "slug": "wta-gauff-bouzkov-2026-08-19",
-   "outcome": "Coco Gauff",
-   "side": "BUY",
-   "size": 10000.0,
-   "price": 0.78,
-   "usd": 7800.0,
-   "ts": 1787178529,
-   "categoria": "Deportes",
-   "prob": 63,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $7,800 en 'Coco Gauff'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-gauff-bouzkov-2026-08-19",
-   "titulo_es": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
-   "narrativa": "La compra de $7,800 sobre Coco Gauff en el Cincinnati Open refleja una apuesta firme por la favorita, cuyo consenso externo la sitúa como clara dominante ante Bouzkova. El edge se materializa en el diferencial de probabilidades implícitas, donde el mercado aún no descuenta por completo la superioridad de Gauff en superficie rápida. Riesgo: posible irregularidad en sets iniciales si Bouzkova eleva su nivel de servicio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xeb095a556268b5d8ef5dbf28782790d36e5cb351289fcc5e615461abfc42131a",
-   "titulo": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
-   "slug": "atp-fils-minaur-2026-08-19",
-   "outcome": "Arthur Fils",
-   "side": "SELL",
-   "size": 7184.61,
-   "price": 0.999,
-   "usd": 7177.43,
-   "ts": 1787178531,
-   "categoria": "Deportes",
-   "prob": 62,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $7,177 en 'Arthur Fils'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-fils-minaur-2026-08-19",
-   "titulo_es": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
-   "narrativa": "La venta de $7,177 sobre Arthur Fils en su duelo contra Alex de Minaur aprovecha la sobrevaloración del francés en el mercado, dado que el consenso externo favorece al australiano por consistencia y ritmo en pista dura. El edge proviene del desvío entre el precio actual y la probabilidad real estimada, que sugiere un margen favorable para el lado contrario. Riesgo: Fils puede ganar por explosividad si De Minaur llega con fatiga acumulada."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
+  {
+   "tipo": "edge",
+   "question": "Will OpenAI’s Astra model be released by August 31, 2026?",
+   "slug": "will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
+   "url": "https://polymarket.com/market/will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
+   "prob_poly": 10.5,
+   "consenso": 83.5,
+   "edge": 73.0,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "Manifold",
+     "titulo": "Will OpenAI release its Astra model to the US general public before 2027?",
+     "prob": 83.0,
+     "url": "https://manifold.markets/waterlilly/will-openai-release-its-astra-model",
+     "titulo_es": "¿Lanzará OpenAI su modelo Astra al público general de EE. UU. antes de 2027?"
+    },
+    {
+     "fuente": "Manifold",
+     "titulo": "Will OpenAI make Astra publicly available by October 15, 2026?",
+     "prob": 83.97482148923484,
+     "url": "https://manifold.markets/Terminator2/will-openai-make-astra-publicly-ava",
+     "titulo_es": "¿Hará OpenAI disponible públicamente Astra antes del 15 de octubre de 2026?"
+    }
+   ],
+   "n_fuentes": 2,
+   "categoria": "Tecnología",
+   "prob": 85,
+   "confianza": "alta",
+   "horizonte": "72h",
+   "fuentes_nombres": "Manifold, Manifold",
+   "razon": "Polymarket paga este mercado a 10.5% y el consenso de 2 fuente(s) externa(s) (Manifold, Manifold) lo paga a 83.5%: diferencia de 73.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Se lanzará el modelo Astra de OpenAI antes del 31 de agosto de 2026?",
+   "narrativa": "La diferencia de 73 puntos entre el consenso externo (83.5%) y la cotización de Polymarket (10.5%) es extrema, lo que sugiere un fuerte desajuste de precios. Con un pago potencial de 10.5 veces la inversión, el mercado está descontando una probabilidad muy baja frente a la evidencia de otras plataformas. Esta brecha ofrece un edge significativo para posicionarse en el 'Sí', aunque el monto del trade debe calibrarse ante la posibilidad de que el consenso externo esté sobreestimando la fecha límite. Riesgo: alta volatilidad en el plazo y posible corrección brusca del mercado si se acerca la fecha sin anuncios."
+  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -110,7 +104,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9912014.290955,
+   "volumen": 9912014.290955001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -120,7 +114,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.5278490002,
+   "volumen": 996816.527849,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -130,20 +124,10 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995924.7817669997,
+   "volumen": 995924.7817670003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
-  },
-  {
-   "question": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
-   "slug": "atp-zverev-paul-2026-08-19",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 990415.8354659989,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Alexander Zverev contra Tommy Paul"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -160,7 +144,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982380.2362579998,
+   "volumen": 982380.2362579999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -186,10 +170,20 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
+   "question": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-navi-lgc-2026-08-20",
+   "yes": 0.695,
+   "no": 0.305,
+   "volumen": 99434.732293,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Playoffs de la Copa Mundial de Esports"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.055,
+   "no": 0.945,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -230,7 +224,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294600002,
+   "volumen": 98831.56294599998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -240,7 +234,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 98534.93697800001,
+   "volumen": 98534.93697800003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -250,27 +244,17 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.982,
    "no": 0.018,
-   "volumen": 98359.53663099997,
+   "volumen": 98359.536631,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
-  },
-  {
-   "question": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs",
-   "slug": "cs2-navi-lgc-2026-08-20",
-   "yes": 0.695,
-   "no": 0.305,
-   "volumen": 98269.77787199999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Playoffs de la Copa Mundial de Esports"
   },
   {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 98224.62970900002,
+   "volumen": 98224.62970899999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -278,8 +262,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.95,
-   "no": 0.05,
+   "yes": 0.9475,
+   "no": 0.0525,
    "volumen": 9997.610976,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -298,9 +282,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2455,
-   "no": 0.7545,
-   "volumen": 9990.964864,
+   "yes": 0.25,
+   "no": 0.75,
+   "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -338,9 +322,9 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.024,
-   "no": 0.976,
-   "volumen": 9964.685226000001,
+   "yes": 0.0235,
+   "no": 0.9765,
+   "volumen": 9964.685226,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
@@ -350,10 +334,20 @@
    "slug": "highest-temperature-in-milan-on-august-19-2026-32c",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9952.299337000002,
+   "volumen": 9952.299336999999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Milán de 32°C el 19 de agosto?"
+  },
+  {
+   "question": "Will USD/JPY hit 165 (High) in 2026?",
+   "slug": "will-usdjpy-hit-165-high-in-2026",
+   "yes": 0.41,
+   "no": 0.59,
+   "volumen": 9952.114907,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
@@ -363,5 +357,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 96.36
+ "db_size_mb": 96.45
 }
