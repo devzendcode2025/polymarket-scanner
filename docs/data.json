@@ -1,10 +1,31 @@
 {
- "ts": 1787111844,
- "stamp": "20260819_035724",
+ "ts": 1787112204,
+ "stamp": "20260819_040324",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x052776dbb92aa02fdb1f21a415a52cc422f2fd996eda91f717a1d7e1a751b633",
+   "titulo": "Israel withdraws from Lebanon by September 30, 2026?",
+   "slug": "israel-withdraws-from-lebanon-by-september-30-2026",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 1729.0,
+   "price": 0.9751295547,
+   "usd": 1686.0,
+   "ts": 1787112114,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,686 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/israel-withdraws-from-lebanon-by-september-30-2026",
+   "titulo_es": "¿Israel se retira del Líbano para el 30 de septiembre de 2026?",
+   "narrativa": "La venta de 'No' en BALLENA capitaliza un consenso externo que descarta una retirada israelí total del Líbano en el plazo señalado, con un monto de $1,686 que refleja confianza en la continuidad del estatus quo. El edge proviene de la discrepancia entre el precio implícito del mercado y la probabilidad real de eventos geopolíticos complejos, que suelen extenderse más allá de fechas límite. Riesgo: baja liquidez en el mercado, lo que puede amplificar el deslizamiento al ejecutar la orden."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -77,8 +98,8 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.0205,
-   "no": 0.9795,
+   "yes": 0.0255,
+   "no": 0.9745,
    "volumen": 9854002.069118,
    "spread": 0.0,
    "categoria": "Política",
@@ -137,8 +158,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -237,8 +258,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0285,
-   "no": 0.9715,
+   "yes": 0.0255,
+   "no": 0.9745,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 82.83
+ "db_size_mb": 82.96
 }
