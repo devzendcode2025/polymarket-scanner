@@ -1,29 +1,29 @@
 {
- "ts": 1787103141,
- "stamp": "20260819_013221",
+ "ts": 1787103501,
+ "stamp": "20260819_013821",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x70de0744c8c2d7d31fab0f2d75b44e7d7577807cbff2e39b02ab547c68d81b45",
-   "titulo": "Chicago White Sox vs. Chicago Cubs",
-   "slug": "mlb-cws-chc-2026-08-18",
-   "outcome": "Chicago White Sox",
+   "market_id": "0xc5b9793afda2f61179031e45513b21521bf3fae3fae461542d2c6cec0476b65d",
+   "titulo": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
+   "slug": "atp-tien-tiafoe-2026-08-18",
+   "outcome": "Learner Tien",
    "side": "BUY",
-   "size": 2328.055293,
-   "price": 0.4819773836,
-   "usd": 1122.07,
-   "ts": 1787102830,
-   "categoria": "Otros",
+   "size": 2000.0,
+   "price": 0.62,
+   "usd": 1240.0,
+   "ts": 1787103430,
+   "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,122 en 'Chicago White Sox'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-cws-chc-2026-08-18",
-   "titulo_es": "Chicago White Sox vs. Chicago Cubs",
-   "narrativa": "La compra de 1,122 USD sobre los White Sox en el enfrentamiento ante los Cubs refleja una apuesta direccional clara, con un edge estimado de +4.2 puntos frente al consenso externo del 38% de probabilidad implícita. El monto, aunque moderado, representa un 2.1% del volumen total del mercado en ese momento, lo que sugiere convicción institucional o de un operador experimentado. La divergencia entre el precio actual y la expectativa de mercado crea una ventana de valor, especialmente si el mercado ajusta lentamente su probabilidad. Riesgo: liquidez media en horas previas al juego, con posible slippage en órdenes grandes."
+   "razon": "Trade de compra por $1,240 en 'Learner Tien'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-tien-tiafoe-2026-08-18",
+   "titulo_es": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
+   "narrativa": "La compra de Learner Tien a $1,240 refleja una apuesta agresiva contra el consenso del mercado, que favorece a Frances Tiafoe por su mayor ranking y experiencia en pista dura. El edge implícito se sustenta en la reciente forma de Tien, quien ha mostrado solidez en torneos challenger y un servicio consistente, mientras que Tiafoe arrastra inconsistencias en sets iniciales. El monto concentrado sugiere que un operador con información o modelo propio detectó una probabilidad real superior a la implícita en las cuotas, generando una oportunidad de valor antes de que el mercado ajuste. Riesgo: volatilidad alta en partidos de 3 sets y posible corrección rápida si el público respalda al favorito."
   }
  ],
  "edges": [
@@ -90,7 +90,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9971438.970317999,
+   "volumen": 9971695.110318001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -100,7 +100,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0215,
    "no": 0.9785,
-   "volumen": 9835250.118014999,
+   "volumen": 9835250.118014993,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -150,7 +150,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94702999998,
+   "volumen": 99768.94703,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -160,7 +160,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.025263,
+   "volumen": 99588.02526300002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -174,16 +174,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
-  },
-  {
-   "question": "Cancun: Lloyd Harris vs Laslo Djere",
-   "slug": "atp-harri-djere-2026-08-18",
-   "yes": 0.745,
-   "no": 0.255,
-   "volumen": 99197.107708,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "Cancún: Lloyd Harris vs Laslo Djere"
   },
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
@@ -230,7 +220,7 @@
    "slug": "bra2-lon-acg-2026-08-18-draw",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 98887.16539999998,
+   "volumen": 98887.1654,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Terminarán en empate Londrina EC vs. AC Goianiense?"
@@ -250,7 +240,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98570.57294600001,
+   "volumen": 98570.572946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -260,7 +250,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98489.19540399998,
+   "volumen": 98492.19540400001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -288,9 +278,9 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.029,
-   "no": 0.971,
-   "volumen": 9991.036522000004,
+   "yes": 0.043,
+   "no": 0.957,
+   "volumen": 9991.036522000002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -334,6 +324,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Game Handicap: FOX.Y (-1.5) vs Hanwha Life Esports Challengers (+1.5)",
+   "slug": "lol-hle-foxy-2026-08-19-game-handicap-home-1pt5",
+   "yes": 0.375,
+   "no": 0.625,
+   "volumen": 9965.599695,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Hándicap del juego: FOX.Y (-1.5) vs Hanwha Life Esports Challengers (+1.5)"
   }
  ],
  "historico": {
@@ -343,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 80.87
+ "db_size_mb": 81.0
 }
