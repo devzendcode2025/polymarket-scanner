@@ -1,51 +1,10 @@
 {
- "ts": 1787168800,
- "stamp": "20260819_194640",
+ "ts": 1787169160,
+ "stamp": "20260819_195240",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xaad2727a01e09fd1b0d84e286a63a94998efe35fce83a65a3c58dfa9b54dff33",
-   "titulo": "Strait of Hormuz traffic returns to normal by September 15?",
-   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-15-20260810150912478",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 3941.0,
-   "price": 0.98,
-   "usd": 3862.18,
-   "ts": 1787168626,
-   "categoria": "Tecnología",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,862 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-september-15-20260810150912478",
-   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad para el 15 de septiembre?",
-   "narrativa": "Una venta de 3,862 USD en 'No' a 15 días del plazo indica una apuesta direccional fuerte contra la normalización del tráfico, con un monto que representa una posición significativa para un mercado sin volumen reportado. La ausencia de datos de volumen sugiere que el vendedor busca capturar la prima completa si el evento no se cumple, pero la falta de contrapartida puede ampliar el deslizamiento. Riesgo: mercado ilíquido y alta volatilidad en la resolución."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2c1db8df1aa55e92c4bf462b11ace78e0ef682369ca740ed2b6e6c067adb9f8f",
-   "titulo": "Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5",
-   "slug": "mlb-ari-bos-2026-08-19-total-8pt5",
-   "outcome": "Under",
-   "side": "BUY",
-   "size": 2727.277776,
-   "price": 0.54,
-   "usd": 1472.73,
-   "ts": 1787168628,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,473 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-ari-bos-2026-08-19-total-8pt5",
-   "titulo_es": "Arizona Diamondbacks vs. Boston Red Sox: Más/Menos 8.5",
-   "narrativa": "La compra de 1,472 USD en 'Under 8.5' refleja una convicción en un juego de baja anotación, probablemente basada en los abridores y el parque, aunque el monto es moderado frente a mercados deportivos típicos. Sin volumen de mercado reportado, el trade sugiere una oportunidad de valor si el total proyectado está sobrevalorado, pero la falta de liquidez puede dificultar la salida. Riesgo: resultados impredecibles en MLB y posible cierre del mercado antes del evento."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -110,7 +69,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9911204.331829999,
+   "volumen": 9911204.331830002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -130,7 +89,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995917.7417669998,
+   "volumen": 995917.7417669999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -158,9 +117,9 @@
   {
    "question": "Will Aurora Gaming Win the CS2 EWC 2026?",
    "slug": "will-aurora-gaming-win-the-cs2-ewc-2026-20260810160005088",
-   "yes": 0.0185,
-   "no": 0.9815,
-   "volumen": 99803.837417,
+   "yes": 0.039,
+   "no": 0.961,
+   "volumen": 99980.767417,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará Aurora Gaming el CS2 EWC 2026?"
@@ -278,9 +237,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.255,
-   "no": 0.745,
-   "volumen": 9990.964864000001,
+   "yes": 0.246,
+   "no": 0.754,
+   "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -300,7 +259,7 @@
    "slug": "highest-temperature-in-helsinki-on-august-19-2026-20c",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9978.179976,
+   "volumen": 9978.179976000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Helsinki de 20°C el 19 de agosto?"
@@ -326,16 +285,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Spread: FC Barcelona (-1.5)",
-   "slug": "clf-bar-ahl-2026-08-19-spread-home-1pt5",
-   "yes": 0.71,
-   "no": 0.29,
-   "volumen": 9952.591888000008,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Margen: FC Barcelona (-1.5)"
-  },
-  {
    "question": "Will USD/JPY hit 165 (High) in 2026?",
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.41,
@@ -350,10 +299,20 @@
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
    "yes": 0.0025,
    "no": 0.9975,
-   "volumen": 9946.699383000001,
+   "volumen": 9946.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
+   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
+   "yes": 0.0285,
+   "no": 0.9715,
+   "volumen": 9937.685226000001,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
   }
  ],
  "historico": {
@@ -363,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 94.06
+ "db_size_mb": 94.14
 }
