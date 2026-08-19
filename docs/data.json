@@ -1,51 +1,10 @@
 {
- "ts": 1787125227,
- "stamp": "20260819_074027",
+ "ts": 1787125588,
+ "stamp": "20260819_074628",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xd4c3e58e8f3d144fd98ffdd82cb724fb35c3904c59fc58121e8a36774d1feacc",
-   "titulo": "LoL: LNG Esports vs Weibo Gaming - Game 1 Winner",
-   "slug": "lol-lng-wb-2026-08-19-game1",
-   "outcome": "Weibo Gaming",
-   "side": "BUY",
-   "size": 2267.571425,
-   "price": 0.84,
-   "usd": 1904.76,
-   "ts": 1787125066,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,905 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19-game1",
-   "titulo_es": "LoL: LNG Esports vs Weibo Gaming - Ganador del Juego 1",
-   "narrativa": "La acumulación de dos compras significativas por un total de $2,919 en Weibo Gaming para el Juego 1 refleja una convicción institucional clara, superando el volumen típico de apuestas minoristas en este enfrentamiento. Este flujo de capital concentrado sugiere que los grandes operadores están posicionándose con ventaja informacional antes de que el mercado ajuste sus probabilidades, ofreciendo un edge potencial si el consenso externo subestima a Weibo. Riesgo: el volumen de mercado no está disponible, lo que limita la evaluación de liquidez y podría amplificar el impacto del spread."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd4c3e58e8f3d144fd98ffdd82cb724fb35c3904c59fc58121e8a36774d1feacc",
-   "titulo": "LoL: LNG Esports vs Weibo Gaming - Game 1 Winner",
-   "slug": "lol-lng-wb-2026-08-19-game1",
-   "outcome": "Weibo Gaming",
-   "side": "BUY",
-   "size": 1237.0,
-   "price": 0.82,
-   "usd": 1014.34,
-   "ts": 1787125054,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,014 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19-game1",
-   "titulo_es": "LoL: LNG Esports vs Weibo Gaming - Ganador del Juego 1",
-   "narrativa": "La segunda compra de $1,014 en Weibo Gaming, sumada a la primera de $1,904, confirma un patrón de acumulación escalonada que refuerza la señal direccional. Este monto adicional, aunque menor, indica que los operadores grandes no solo apuestan una vez, sino que promedian su entrada, lo que sugiere una mayor confianza en el resultado. La consistencia del flujo en el mismo lado del mercado apunta a un desequilibrio de información que podría traducirse en una corrección de precios a favor de la posición. Riesgo: la falta de datos de volumen total impide medir la profundidad del mercado y la posible manipulación de precios."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -178,8 +137,8 @@
   {
    "question": "Game Handicap: WB (-1.5) vs LNG Esports (+1.5)",
    "slug": "lol-lng-wb-2026-08-19-game-handicap-home-1pt5",
-   "yes": 0.59,
-   "no": 0.41,
+   "yes": 0.52,
+   "no": 0.48,
    "volumen": 99791.95069999996,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -198,8 +157,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -298,8 +257,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.24,
-   "no": 0.76,
+   "yes": 0.2395,
+   "no": 0.7605,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -338,8 +297,8 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.31,
-   "no": 0.69,
+   "yes": 0.305,
+   "no": 0.695,
    "volumen": 9956.09818,
    "spread": 0.0,
    "categoria": "Política",
@@ -357,11 +316,11 @@
   }
  ],
  "historico": {
-  "ts": 1787123672,
+  "ts": 1787125472,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 85.24
+ "db_size_mb": 85.3
 }
