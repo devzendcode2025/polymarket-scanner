@@ -1,10 +1,31 @@
 {
- "ts": 1787127748,
- "stamp": "20260819_082228",
+ "ts": 1787128108,
+ "stamp": "20260819_082828",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x7c97f7315ac9a2e0eabe9b2b9caa8369feff95180483b5168a5274b69762690c",
+   "titulo": "Will Belete Molla be the next Prime Minister of Ethiopia?",
+   "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 5123.0,
+   "price": 0.998,
+   "usd": 5112.75,
+   "ts": 1787128068,
+   "categoria": "Cripto",
+   "prob": 59,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,113 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-belete-molla-be-the-next-prime-minister-of-ethiopia",
+   "titulo_es": "¿Será Belete Molla el próximo Primer Ministro de Etiopía?",
+   "narrativa": "La compra de 'No' a 5112.75 USD en la pregunta sobre Belete Molla refleja una apuesta clara contra el cambio de liderazgo, con un consenso externo que no anticipa movimientos inmediatos en la cúpula etíope. El tamaño de la posición sugiere convicción institucional, aunque el volumen de mercado no reportado limita la lectura de profundidad. Riesgo: posible iliquidez en momentos de noticias políticas sensibles."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 85.8
+ "db_size_mb": 85.93
 }
