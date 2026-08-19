@@ -1,10 +1,51 @@
 {
- "ts": 1787159017,
- "stamp": "20260819_170337",
+ "ts": 1787159437,
+ "stamp": "20260819_171037",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xdbb98d866363c79ffcdf8f5a97331d99a3ea77ba1fd0ee0efdb223cc4d2588be",
+   "titulo": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
+   "slug": "wta-kostyuk-andreev-2026-08-19",
+   "outcome": "Mirra Andreeva",
+   "side": "BUY",
+   "size": 12000.0,
+   "price": 0.59,
+   "usd": 7080.0,
+   "ts": 1787159325,
+   "categoria": "Deportes",
+   "prob": 62,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $7,080 en 'Mirra Andreeva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-kostyuk-andreev-2026-08-19",
+   "titulo_es": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
+   "narrativa": "Dos compras consecutivas de gran tamaño (USD 7,080 y USD 5,245) sobre Mirra Andreeva reflejan una acumulación coordinada de capital institucional o de alto poder adquisitivo, lo que sugiere una fuerte convicción en su victoria ante Kostyuk. Esta presión de compra, alineada con el momentum del mercado, puede generar un desplazamiento del precio a favor de Andreeva antes de que el consenso externo ajuste sus probabilidades. Riesgo: posible corrección si el volumen de mercado es bajo o si la información se filtra de forma asimétrica."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xdbb98d866363c79ffcdf8f5a97331d99a3ea77ba1fd0ee0efdb223cc4d2588be",
+   "titulo": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
+   "slug": "wta-kostyuk-andreev-2026-08-19",
+   "outcome": "Mirra Andreeva",
+   "side": "BUY",
+   "size": 8894.211353,
+   "price": 0.5897903468,
+   "usd": 5245.72,
+   "ts": 1787159323,
+   "categoria": "Deportes",
+   "prob": 59,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,246 en 'Mirra Andreeva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-kostyuk-andreev-2026-08-19",
+   "titulo_es": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
+   "narrativa": "La segunda orden ballena (USD 5,245.72) sobre el mismo resultado refuerza la señal previa, creando un patrón de acumulación que suele preceder a movimientos direccionales en mercados de predicción. El monto combinado de más de USD 12,000 en el mismo lado indica que los operadores grandes no solo mantienen su posición, sino que la amplían, lo que reduce la probabilidad de un retroceso inmediato. Este flujo constante de capital puede atraer a seguidores de tendencia, amplificando el edge. Riesgo: si el mercado es poco profundo, el impacto del trade puede ser exagerado y revertirse con noticias del partido."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -69,7 +110,7 @@
    "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 9974943.076568004,
+   "volumen": 9975648.932777004,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Reducirá la Fed las tasas de interés en 25 puntos básicos después de la reunión de septiembre de 2026?"
@@ -79,7 +120,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9910440.05183,
+   "volumen": 9910440.051829997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -89,7 +130,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995833.807849,
+   "volumen": 996465.927849,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -99,7 +140,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 991252.209344,
+   "volumen": 992761.1293440001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -157,9 +198,9 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.153,
-   "no": 0.847,
-   "volumen": 99044.983919,
+   "yes": 0.168,
+   "no": 0.832,
+   "volumen": 99080.033919,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará MOUZ el CS2 EWC 2026?"
@@ -169,7 +210,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.0645,
    "no": 0.9355,
-   "volumen": 99036.85304000005,
+   "volumen": 99036.85304000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -189,7 +230,7 @@
    "slug": "will-real-sociedad-win-the-2026-27-laliga-championship-20260701200737387",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98856.38271600001,
+   "volumen": 98856.38271600002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
@@ -199,7 +240,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98748.56294600002,
+   "volumen": 98748.56294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -215,11 +256,21 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Will the price of Bitcoin be above $66,000 on August 20?",
+   "slug": "bitcoin-above-66k-on-august-20-2026",
+   "yes": 0.955,
+   "no": 0.045,
+   "volumen": 98425.32231899998,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin por encima de $66,000 el 20 de agosto?"
+  },
+  {
    "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 98349.53663100001,
+   "volumen": 98349.536631,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -227,9 +278,9 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.28,
-   "no": 0.72,
-   "volumen": 9998.64818,
+   "yes": 0.275,
+   "no": 0.725,
+   "volumen": 9998.648180000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -239,7 +290,7 @@
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
    "yes": 0.0675,
    "no": 0.9325,
-   "volumen": 9991.036522000004,
+   "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -247,8 +298,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2495,
-   "no": 0.7505,
+   "yes": 0.2395,
+   "no": 0.7605,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -299,20 +350,10 @@
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
    "yes": 0.0025,
    "no": 0.9975,
-   "volumen": 9941.699383000001,
+   "volumen": 9941.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will OpenAI's IPO valuation be between $1.75T and $2.0T?",
-   "slug": "will-openais-ipo-valuation-be-between-1pt75t-and-2pt0t",
-   "yes": 0.18,
-   "no": 0.82,
-   "volumen": 9928.641558,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Estará la valoración de la OPV de OpenAI entre $1.75T y $2.0T?"
   }
  ],
  "historico": {
@@ -322,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 91.93
+ "db_size_mb": 92.0
 }
