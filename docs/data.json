@@ -1,29 +1,49 @@
 {
- "ts": 1787122107,
- "stamp": "20260819_064827",
+ "ts": 1787122527,
+ "stamp": "20260819_065527",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x25608ccddca8198bbc32bb1db8849b320829dcf0e8f763ae4480a6e39773eb2e",
-   "titulo": "Will the price of Bitcoin be above $68,000 on August 19?",
-   "slug": "bitcoin-above-68k-on-august-19-2026",
-   "outcome": "No",
+   "market_id": "0x5ac03b8dc27cc8632deeaa910fa3caadd8e132ee562e04e3536b088c68c9c432",
+   "titulo": "Game Handicap: WB (-1.5) vs LNG Esports (+1.5)",
+   "slug": "lol-lng-wb-2026-08-19-game-handicap-home-1pt5",
+   "outcome": "LNG Esports",
    "side": "BUY",
-   "size": 2829.0,
-   "price": 0.999,
-   "usd": 2826.17,
-   "ts": 1787122060,
-   "categoria": "Cripto",
-   "prob": 56,
-   "confianza": "media",
+   "size": 11000.0,
+   "price": 0.53,
+   "usd": 5830.0,
+   "ts": 1787122363,
+   "categoria": "Deportes",
+   "prob": 60,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,826 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-68k-on-august-19-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $68,000 el 19 de agosto?",
-   "narrativa": "La señal de compra en 'No' para Bitcoin por encima de $68,000 el 19 de agosto presenta un edge atractivo: el consenso externo del mercado (probabilidad implícita) es del 42%, mientras que nuestro modelo estima una probabilidad del 55%, generando un edge de +13 puntos porcentuales. Con un monto de $2,826 USD, la exposición es moderada y permite capitalizar la sobrevaloración del 'Sí' en un contexto de alta volatilidad reciente. Riesgo: la liquidez del mercado de predicción puede ser limitada en horas de baja actividad, lo que podría afectar el llenado de la orden."
+   "razon": "Trade de compra por $5,830 en 'LNG Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19-game-handicap-home-1pt5",
+   "titulo_es": "Hándicap del juego: WB (-1.5) vs LNG Esports (+1.5)",
+   "narrativa": "Se detecta una compra agresiva de 5,830 USD sobre el hándicap +1.5 de LNG Esports, lo que sugiere que el mercado está corrigiendo una sobrevaloración inicial de WB. El volumen de mercado no está reportado, pero el tamaño de la orden en relación al flujo típico de este tipo de eventos indica un posicionamiento direccional claro. Riesgo: posible falta de liquidez en mercados de nicho."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x224ff7df0a0d5ee9234580158b92acafdf6da13150b7065c9671df2ebec31ae4",
+   "titulo": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+   "slug": "lol-ktc-t1a-2026-08-19",
+   "outcome": "KT Rolster Challengers",
+   "side": "BUY",
+   "size": 8434.76,
+   "price": 0.64,
+   "usd": 5398.25,
+   "ts": 1787122353,
+   "categoria": "Otros",
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,398 en 'KT Rolster Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ktc-t1a-2026-08-19",
+   "titulo_es": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío",
+   "narrativa": "La apuesta de 5,398 USD a favor de KT Rolster Challengers en un BO3 refleja una convicción fuerte, probablemente basada en un desajuste de poder entre los equipos. El monto supera el promedio de operaciones en esta liga, lo que sugiere que el comprador maneja información o un modelo con edge positivo. Riesgo: volatilidad alta en partidos BO3 y posible influencia de factores externos (patch, preparación)."
   }
  ],
  "edges": [
@@ -90,7 +110,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9973500.380317999,
+   "volumen": 9973500.380318008,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -100,7 +120,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0305,
    "no": 0.9695,
-   "volumen": 9894143.929008998,
+   "volumen": 9894143.929008983,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -120,7 +140,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 989300.423588,
+   "volumen": 989300.4235879997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -134,6 +154,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
+  },
+  {
+   "question": "Iran charges Hormuz fees by August 31?",
+   "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
+   "yes": 0.11,
+   "no": 0.89,
+   "volumen": 982268.8581459997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -150,7 +180,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526300003,
+   "volumen": 99588.02526299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -158,8 +188,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -210,7 +240,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98570.57294600001,
+   "volumen": 98570.57294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -240,7 +270,7 @@
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
    "yes": 0.0575,
    "no": 0.9425,
-   "volumen": 9991.036522000004,
+   "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -278,9 +308,9 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.32,
-   "no": 0.68,
-   "volumen": 9956.09818,
+   "yes": 0.31,
+   "no": 0.69,
+   "volumen": 9956.098179999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -290,7 +320,7 @@
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.43,
    "no": 0.57,
-   "volumen": 9952.114907000001,
+   "volumen": 9952.114907,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
@@ -298,9 +328,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.189,
-   "no": 0.811,
-   "volumen": 9945.254863999997,
+   "yes": 0.1835,
+   "no": 0.8165,
+   "volumen": 9945.254864,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -310,7 +340,7 @@
    "slug": "ai-wins-imo-gold-medal-in-2026",
    "yes": 0.17,
    "no": 0.83,
-   "volumen": 9921.657775999998,
+   "volumen": 9921.657775999996,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La IA gana la medalla de oro en la OMI en 2026?"
@@ -318,22 +348,12 @@
   {
    "question": "Will the Democratic Party win the AR-01 House seat?",
    "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.015,
-   "no": 0.985,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 9914.337593,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
-  },
-  {
-   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
-   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9905.121829,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
   }
  ],
  "historico": {
@@ -343,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 84.53
+ "db_size_mb": 84.61
 }
