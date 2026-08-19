@@ -1,6 +1,6 @@
 {
- "ts": 1787124867,
- "stamp": "20260819_073427",
+ "ts": 1787125227,
+ "stamp": "20260819_074027",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -12,18 +12,38 @@
    "slug": "lol-lng-wb-2026-08-19-game1",
    "outcome": "Weibo Gaming",
    "side": "BUY",
-   "size": 1571.67,
-   "price": 0.76,
-   "usd": 1194.47,
-   "ts": 1787124754,
+   "size": 2267.571425,
+   "price": 0.84,
+   "usd": 1904.76,
+   "ts": 1787125066,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,905 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19-game1",
+   "titulo_es": "LoL: LNG Esports vs Weibo Gaming - Ganador del Juego 1",
+   "narrativa": "La acumulación de dos compras significativas por un total de $2,919 en Weibo Gaming para el Juego 1 refleja una convicción institucional clara, superando el volumen típico de apuestas minoristas en este enfrentamiento. Este flujo de capital concentrado sugiere que los grandes operadores están posicionándose con ventaja informacional antes de que el mercado ajuste sus probabilidades, ofreciendo un edge potencial si el consenso externo subestima a Weibo. Riesgo: el volumen de mercado no está disponible, lo que limita la evaluación de liquidez y podría amplificar el impacto del spread."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xd4c3e58e8f3d144fd98ffdd82cb724fb35c3904c59fc58121e8a36774d1feacc",
+   "titulo": "LoL: LNG Esports vs Weibo Gaming - Game 1 Winner",
+   "slug": "lol-lng-wb-2026-08-19-game1",
+   "outcome": "Weibo Gaming",
+   "side": "BUY",
+   "size": 1237.0,
+   "price": 0.82,
+   "usd": 1014.34,
+   "ts": 1787125054,
    "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,194 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $1,014 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19-game1",
    "titulo_es": "LoL: LNG Esports vs Weibo Gaming - Ganador del Juego 1",
-   "narrativa": "El mercado descuenta una victoria de LNG Esports en el Juego 1, pero la compra masiva de 1,194 USD en Weibo Gaming sugiere que un operador grande detecta un desajuste en las probabilidades implícitas. Este flujo de capital, frente a un volumen de mercado no confirmado, puede indicar una corrección inminente en el precio a favor del underdog. Riesgo: posible falta de liquidez en horarios de baja actividad."
+   "narrativa": "La segunda compra de $1,014 en Weibo Gaming, sumada a la primera de $1,904, confirma un patrón de acumulación escalonada que refuerza la señal direccional. Este monto adicional, aunque menor, indica que los operadores grandes no solo apuestan una vez, sino que promedian su entrada, lo que sugiere una mayor confianza en el resultado. La consistencia del flujo en el mismo lado del mercado apunta a un desequilibrio de información que podría traducirse en una corrección de precios a favor de la posición. Riesgo: la falta de datos de volumen total impide medir la profundidad del mercado y la posible manipulación de precios."
   }
  ],
  "edges": [
@@ -98,9 +118,9 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.028,
-   "no": 0.972,
-   "volumen": 9894194.689008992,
+   "yes": 0.0285,
+   "no": 0.9715,
+   "volumen": 9894200.861829996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -126,21 +146,11 @@
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
-   "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
-   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
-   "yes": 0.1315,
-   "no": 0.8685,
-   "volumen": 989300.4235880001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
-  },
-  {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955089999,
+   "volumen": 983750.995509,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -150,7 +160,7 @@
    "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
    "yes": 0.11,
    "no": 0.89,
-   "volumen": 982361.858146,
+   "volumen": 982462.0781460002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
@@ -168,8 +178,8 @@
   {
    "question": "Game Handicap: WB (-1.5) vs LNG Esports (+1.5)",
    "slug": "lol-lng-wb-2026-08-19-game-handicap-home-1pt5",
-   "yes": 0.575,
-   "no": 0.425,
+   "yes": 0.59,
+   "no": 0.41,
    "volumen": 99791.95069999996,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -188,8 +198,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.125,
+   "no": 0.875,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -230,7 +240,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98774.846981,
+   "volumen": 98774.84698099998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -240,7 +250,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98570.57294600001,
+   "volumen": 98570.57294600004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -254,6 +264,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
+  },
+  {
+   "question": "US ceasefire against Iran continues through September 30?",
+   "slug": "us-x-iran-ceasefire-continues-through-september-30",
+   "yes": 0.67,
+   "no": 0.33,
+   "volumen": 98186.89815800001,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿El alto el fuego de EE. UU. contra Irán continúa hasta el 30 de septiembre?"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -278,8 +298,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.242,
-   "no": 0.758,
+   "yes": 0.24,
+   "no": 0.76,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -318,8 +338,8 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.32,
-   "no": 0.68,
+   "yes": 0.31,
+   "no": 0.69,
    "volumen": 9956.09818,
    "spread": 0.0,
    "categoria": "Política",
@@ -343,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 85.16
+ "db_size_mb": 85.24
 }
