@@ -1,6 +1,6 @@
 {
- "ts": 1787137711,
- "stamp": "20260819_110831",
+ "ts": 1787138071,
+ "stamp": "20260819_111431",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -69,7 +69,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0285,
    "no": 0.9715,
-   "volumen": 9894200.861830002,
+   "volumen": 9894200.86183,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -79,7 +79,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995015.0585159999,
+   "volumen": 995015.0585159996,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -89,7 +89,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993440003,
+   "volumen": 990196.2993440002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -129,7 +129,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299997,
+   "volumen": 99588.02526299994,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -137,8 +137,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -157,8 +157,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.445,
-   "no": 0.555,
+   "yes": 0.44,
+   "no": 0.56,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -179,7 +179,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.016,
    "no": 0.984,
-   "volumen": 98794.84698099998,
+   "volumen": 98794.846981,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -189,7 +189,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.57294600003,
+   "volumen": 98743.572946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -227,8 +227,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.086,
-   "no": 0.914,
+   "yes": 0.0715,
+   "no": 0.9285,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -237,9 +237,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2255,
-   "no": 0.7745,
-   "volumen": 9990.964864000001,
+   "yes": 0.251,
+   "no": 0.749,
+   "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -275,21 +275,11 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the highest temperature in London be 23°C on August 19?",
-   "slug": "highest-temperature-in-london-on-august-19-2026-23c",
-   "yes": 0.31,
-   "no": 0.69,
-   "volumen": 9961.369617000004,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Londres de 23°C el 19 de agosto?"
-  },
-  {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.305,
-   "no": 0.695,
-   "volumen": 9956.09818,
+   "yes": 0.3,
+   "no": 0.7,
+   "volumen": 9956.098180000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -313,6 +303,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
+  },
+  {
+   "question": "AI wins IMO gold medal in 2026?",
+   "slug": "ai-wins-imo-gold-medal-in-2026",
+   "yes": 0.17,
+   "no": 0.83,
+   "volumen": 9921.657776,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿La IA gana la medalla de oro en la OMI en 2026?"
   }
  ],
  "historico": {
@@ -322,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 87.1
+ "db_size_mb": 87.22
 }
