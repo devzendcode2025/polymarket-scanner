@@ -1,10 +1,31 @@
 {
- "ts": 1787103921,
- "stamp": "20260819_014521",
+ "ts": 1787104281,
+ "stamp": "20260819_015121",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
+   "titulo": "Will JD Vance win the 2028 US Presidential Election?",
+   "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 25787.4,
+   "price": 0.2096939889,
+   "usd": 5407.46,
+   "ts": 1787104026,
+   "categoria": "Política",
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $5,407 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-jd-vance-win-the-2028-us-presidential-election",
+   "titulo_es": "¿Ganará JD Vance las Elecciones Presidenciales de EE. UU. de 2028?",
+   "narrativa": "La venta de 'Yes' en JD Vance para 2028 captura un edge de 5.4 puntos frente al consenso externo, con un monto de $5,407 que aprovecha la sobrevaloración del mercado en un evento de alta incertidumbre política. El desvío respecto a las probabilidades implícitas sugiere que el precio actual no refleja plenamente los riesgos de una candidatura divisiva dentro del partido. Riesgo: volatilidad por noticias de campaña y baja liquidez en horizontes largos."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -69,7 +90,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9971695.110318001,
+   "volumen": 9971695.110318003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -89,7 +110,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 993148.458516,
+   "volumen": 993148.4585160002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -129,7 +150,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94703,
+   "volumen": 99768.94703000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -159,7 +180,7 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99153.761934,
+   "volumen": 99153.76193399995,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
@@ -187,8 +208,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0655,
-   "no": 0.9345,
+   "yes": 0.0645,
+   "no": 0.9355,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -199,7 +220,7 @@
    "slug": "bra2-lon-acg-2026-08-18-draw",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 98887.1654,
+   "volumen": 98887.16539999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Terminarán en empate Londrina EC vs. AC Goianiense?"
@@ -219,7 +240,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98570.572946,
+   "volumen": 98570.57294600001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -229,7 +250,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98492.19540400001,
+   "volumen": 98492.19540399998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -257,12 +278,22 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0395,
-   "no": 0.9605,
-   "volumen": 9991.036522000002,
+   "yes": 0.033,
+   "no": 0.967,
+   "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
+  },
+  {
+   "question": "Will the highest temperature in Seoul (Incheon) be 27°C on August 19?",
+   "slug": "highest-temperature-in-seoul-on-august-19-2026-27c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9988.082202000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 27°C el 19 de agosto?"
   },
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
@@ -279,7 +310,7 @@
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 9985.785598999999,
+   "volumen": 9985.785599,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
@@ -303,16 +334,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Game Handicap: FOX.Y (-1.5) vs Hanwha Life Esports Challengers (+1.5)",
-   "slug": "lol-hle-foxy-2026-08-19-game-handicap-home-1pt5",
-   "yes": 0.375,
-   "no": 0.625,
-   "volumen": 9965.599695,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Hándicap del juego: FOX.Y (-1.5) vs Hanwha Life Esports Challengers (+1.5)"
   }
  ],
  "historico": {
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 81.08
+ "db_size_mb": 81.16
 }
