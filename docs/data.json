@@ -1,19 +1,40 @@
 {
- "ts": 1787135851,
- "stamp": "20260819_103731",
+ "ts": 1787136211,
+ "stamp": "20260819_104331",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x03bee165754b50f372559e7ce945ae770f0000000000000000000000000000",
+   "titulo": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana AND LoL: Gen.G vs KT Rolster - Game 2 Winner",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 3812.478301,
+   "price": 0.3787845514,
+   "usd": 1444.11,
+   "ts": 1787135815,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,444 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "LoL: LNG Esports vs Weibo Gaming (BO3) - Grupo Nirvana de la LPL Y LoL: Gen.G vs KT Rolster - Ganador del Juego 2",
+   "narrativa": "La señal BALLENA detecta una compra de $1,444 USD en el cruce de dos mercados de LoL (LNG vs Weibo y Gen.G vs KT), lo que sugiere un posicionamiento coordinado en resultados correlacionados. Aunque el edge en puntos no se especifica, el monto concentrado en un solo lado indica convicción direccional, y el arbitraje entre eventos del mismo día puede capturar ineficiencias de precios si el consenso externo subestima la probabilidad conjunta. Riesgo: volatilidad intrapartido y posible falta de liquidez en mercados secundarios."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 7.5,
+   "prob_poly": 9.0,
    "consenso": 50.5,
-   "edge": 43.0,
+   "edge": 41.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -30,9 +51,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 7.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 43.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 41.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket valora esta opción en solo 7.5, mientras que el consenso externo de PredictIt la sitúa en 50.5, lo que arroja un edge de 43 puntos a favor de comprar el 'Sí'. Este diferencial extremo indica una clara ineficiencia de precios, ya que el mercado de Polymarket no ha absorbido la información que sí refleja PredictIt. Con un monto de trade ajustado a la liquidez disponible, la oportunidad de capturar valor es alta. Riesgo: el evento es a largo plazo y la liquidez puede ser limitada, lo que podría afectar la ejecución de la salida."
+   "narrativa": "El mercado de Polymarket valora esta opción en solo 9.0, mientras que el consenso externo de PredictIt la sitúa en 50.5, generando un edge de 41.5 puntos a favor de comprar el 'Sí'. Esta discrepancia es amplia y sugiere que el precio actual no refleja la probabilidad real según fuentes alternativas, ofreciendo un margen de valor significativo para el operador. Riesgo: la liquidez en este mercado puede ser limitada, lo que podría afectar la ejecución de la orden."
   },
   {
    "tipo": "edge",
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 86.87
+ "db_size_mb": 86.89
 }
