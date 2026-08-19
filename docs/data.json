@@ -1,11 +1,60 @@
 {
- "ts": 1787163998,
- "stamp": "20260819_182638",
+ "ts": 1787164359,
+ "stamp": "20260819_183239",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x2d21e8642fb2598d80e9397c1c1b9109390305018cf6807db7d5b83763290024",
+   "titulo": "Counter-Strike: FURIA vs Aurora Gaming - Map 1 Winner",
+   "slug": "cs2-furia-aur1-2026-08-19-game1",
+   "outcome": "FURIA",
+   "side": "BUY",
+   "size": 2401.972221,
+   "price": 0.72,
+   "usd": 1729.42,
+   "ts": 1787164125,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,729 en 'FURIA'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-furia-aur1-2026-08-19-game1",
+   "titulo_es": "Counter-Strike: FURIA vs Aurora Gaming - Ganador del Mapa 1",
+   "narrativa": "La compra de FURIA en el Mapa 1 muestra un flujo de 1,729 USD que representa una apuesta concentrada, con un edge estimado de +4.2 puntos frente al consenso externo del 52% de probabilidad implícita. El volumen de mercado no reportado sugiere que la posición puede mover la línea a favor del comprador, ofreciendo una ventana de entrada antes de que el precio se ajuste. Riesgo: liquidez limitada en mercados de esports, lo que puede amplificar el deslizamiento en la ejecución."
+  }
+ ],
  "edges": [
+  {
+   "tipo": "edge",
+   "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+   "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
+   "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
+   "prob_poly": 8.0,
+   "consenso": 49.5,
+   "edge": 41.5,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "PredictIt",
+     "titulo": "New Hampshire",
+     "prob": 49.5,
+     "url": "https://www.predictit.org/markets/detail/8939",
+     "titulo_es": "Nuevo Hampshire"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Política",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "PredictIt",
+   "razon": "Polymarket paga este mercado a 8.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 41.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
+   "narrativa": "El mercado de Polymarket cotiza la probabilidad de que el demócrata gane por un margen del 3%-6% en solo 8.0 puntos, frente a un consenso externo de 49.5, lo que deja un edge de 41.5 puntos a favor de la compra del 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la estimación agregada de otras plataformas, ofreciendo una entrada asimétrica con un desvío significativo respecto a la referencia. El monto del trade se posiciona para capturar una corrección del mercado si el consenso se acerca a la realidad, aunque la magnitud del edge implica un escenario de alta convicción. Riesgo: posible iliquidez en el tramo fino del margen y eventos de última hora que alteren el resultado exacto."
+  },
   {
    "tipo": "edge",
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
@@ -99,8 +148,8 @@
   {
    "question": "NATO downs another Russian drone by August 31?",
    "slug": "nato-downs-another-russian-drone-by-august-31-20260726215001931",
-   "yes": 0.8595,
-   "no": 0.1405,
+   "yes": 0.9125,
+   "no": 0.0875,
    "volumen": 99722.66185100001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -109,8 +158,8 @@
   {
    "question": "San Diego Padres vs. New York Mets: O/U 8.5",
    "slug": "mlb-sd-nym-2026-08-19-total-8pt5",
-   "yes": 0.33,
-   "no": 0.67,
+   "yes": 0.385,
+   "no": 0.615,
    "volumen": 99686.07490500002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -239,8 +288,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2545,
-   "no": 0.7455,
+   "yes": 0.25,
+   "no": 0.75,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -294,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 92.97
+ "db_size_mb": 93.05
 }
