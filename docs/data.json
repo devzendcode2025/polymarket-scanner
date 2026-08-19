@@ -1,29 +1,29 @@
 {
- "ts": 1787100140,
- "stamp": "20260819_004220",
+ "ts": 1787100500,
+ "stamp": "20260819_004820",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xe68d53fdc9009fefac65c1092934543ee291a683b5b221aad4b89bff7aa67412",
-   "titulo": "Cancun: Gauthier Onclin vs Alejandro Moro Canas",
-   "slug": "atp-onclin-canas-2026-08-18",
-   "outcome": "Gauthier Onclin",
+   "market_id": "0x8fa7310a657aedfbbc22d3a3be7d639f4d2330bd44fa4bf5995fe783eb51d261",
+   "titulo": "New York Yankees vs. Baltimore Orioles",
+   "slug": "mlb-nyy-bal-2026-08-18",
+   "outcome": "New York Yankees",
    "side": "BUY",
-   "size": 8531.167016,
-   "price": 0.5399026874,
-   "usd": 4606.0,
-   "ts": 1787099826,
+   "size": 9852.05,
+   "price": 0.73,
+   "usd": 7192.0,
+   "ts": 1787100427,
    "categoria": "Otros",
-   "prob": 58,
-   "confianza": "media",
+   "prob": 62,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $4,606 en 'Gauthier Onclin'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-onclin-canas-2026-08-18",
-   "titulo_es": "Cancún: Gauthier Onclin vs Alejandro Moro Cañas",
-   "narrativa": "El mercado muestra una compra significativa de 4,606 USD a favor de Gauthier Onclin, lo que representa una apuesta direccional clara en un partido de tenis donde el consenso externo no está alineado con el precio actual. Este flujo de capital, aunque no se especifica el volumen total del mercado, sugiere que un operador con información o convicción fuerte está dispuesto a tomar una posición de tamaño considerable. El edge en puntos no se detalla, pero la magnitud del monto en relación con la liquidez típica de estos eventos indica una posible oportunidad de arbitraje de información. Riesgo: posible falta de liquidez en el mercado de este partido, lo que podría afectar la ejecución de la salida."
+   "razon": "Trade de compra por $7,192 en 'New York Yankees'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-nyy-bal-2026-08-18",
+   "titulo_es": "New York Yankees vs. Baltimore Orioles",
+   "narrativa": "La compra de $7,192 en los Yankees refleja una apuesta significativa contra el consenso del mercado, que podría estar subestimando su ventaja local. Este flujo de capital, al ser concentrado, sugiere información privilegiada o un ajuste de probabilidades que aún no se ha reflejado en el precio. El edge estimado es positivo si el mercado cierra la brecha hacia el lado del equipo neoyorquino, aunque el volumen total del mercado no está disponible, lo que limita el cálculo de profundidad. Riesgo: posible falta de liquidez en momentos de alta volatilidad."
   }
  ],
  "edges": [
@@ -258,8 +258,8 @@
   {
    "question": "Will Carey Baker be the FL-11 Republican nominee?",
    "slug": "will-carey-baker-be-the-fl-11-republican-nominee-20260723173936217",
-   "yes": 0.07,
-   "no": 0.93,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 9999.672418,
    "spread": 0.0,
    "categoria": "Política",
@@ -278,8 +278,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.034,
-   "no": 0.966,
+   "yes": 0.0405,
+   "no": 0.9595,
    "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -298,8 +298,8 @@
   {
    "question": "Los Angeles Sparks vs. Connecticut Sun: O/U 174.5",
    "slug": "wnba-la-conn-2026-08-18-total-174pt5",
-   "yes": 0.375,
-   "no": 0.625,
+   "yes": 0.18,
+   "no": 0.82,
    "volumen": 9986.797522,
    "spread": 0.0,
    "categoria": "Otros",
@@ -337,11 +337,11 @@
   }
  ],
  "historico": {
-  "ts": 1787098464,
+  "ts": 1787100265,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 80.2
+ "db_size_mb": 80.31
 }
