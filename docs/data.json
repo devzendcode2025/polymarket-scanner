@@ -1,88 +1,29 @@
 {
- "ts": 1787170720,
- "stamp": "20260819_201840",
+ "ts": 1787171140,
+ "stamp": "20260819_202540",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
-  {
-   "tipo": "momentum",
-   "market_id": "3251656",
-   "question": "Will Databricks' valuation hit (LOW) $140B by August 31?",
-   "slug": "will-databricks-valuation-hit-low-140b-by-august-31-20260730183108154",
-   "tags": [],
-   "categoria": "Otros",
-   "yes_antes": 0.013,
-   "yes_ahora": 0.012,
-   "cambio_pct": -7.7,
-   "direccion": "BAJADA",
-   "volumen": 990.98,
-   "prob": 57,
-   "confianza": "baja",
-   "horizonte": "24h",
-   "razon": "Yes bajada 7.7% vs el scan anterior (0.013 → 0.012) en un mercado con $991 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/will-databricks-valuation-hit-low-140b-by-august-31-20260730183108154",
-   "question_es": "¿Alcanzará la valoración de Databricks los (BAJA) $140B para el 31 de agosto?"
-  }
- ],
+ "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x49ec102437392474463448a86fdf6d357ee46570982185a542896b8e1bc37001",
-   "titulo": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
-   "slug": "val-c9-bst1-2026-08-19",
-   "outcome": "BESTIA",
+   "market_id": "0x62390209824936ef15c10fc280d0c27d5680508a56c6d6f86c1c098a2627f22f",
+   "titulo": "Will Celtic FC win on 2026-08-19?",
+   "slug": "ucl-cel-lin2-2026-08-19-cel",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 10553.0,
-   "price": 0.25,
-   "usd": 2638.25,
-   "ts": 1787170729,
+   "size": 8385.23,
+   "price": 0.9562132941,
+   "usd": 8018.07,
+   "ts": 1787171034,
    "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
+   "prob": 64,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,638 en 'BESTIA'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/val-c9-bst1-2026-08-19",
-   "titulo_es": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
-   "narrativa": "La compra de BESTIA por $2,638 USD en un mercado sin volumen reportado sugiere que un operador grande está posicionándose con convicción en una línea que probablemente ofrece valor frente al consenso externo, dado el desequilibrio entre el monto colocado y la falta de liquidez visible. Este movimiento puede anticipar una corrección de precios si la información interna respalda la victoria de BESTIA, pero el edge real depende de cuánto se desvíe la probabilidad implícita del mercado de la estimación justa. Riesgo: baja liquidez puede amplificar el impacto de la orden y dificultar la salida."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2d6945ae1728aaf6891ab0375f77d1dfcadd2c94bc8b3cadcd6a0be5325de01f",
-   "titulo": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs",
-   "slug": "cs2-gl1-mouz-2026-08-19",
-   "outcome": "MOUZ",
-   "side": "BUY",
-   "size": 3000.0,
-   "price": 0.746965,
-   "usd": 2240.89,
-   "ts": 1787170726,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,241 en 'MOUZ'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-gl1-mouz-2026-08-19",
-   "titulo_es": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Playoffs de la Copa del Mundo de Esports",
-   "narrativa": "La apuesta de $2,240.89 USD a favor de MOUZ en un BO3 contra GamerLegion refleja una confianza en que el mercado está subestimando la forma actual de MOUZ, especialmente en un contexto de playoffs donde el historial reciente y el mapa pool suelen tener mayor peso que el ranking general. El monto colocado es significativo para un mercado de esports, lo que indica que el operador percibe un edge claro en la probabilidad implícita, probablemente respaldado por datos de rendimiento reciente o alineaciones confirmadas. Riesgo: la volatilidad de BO3 y el factor sorpresa de GamerLegion pueden reducir el margen esperado."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x7f10208342b2d53e2f27640018a58173b23cbe15252445835a8e2b32d0d58e52",
-   "titulo": "Counter-Strike: 300FPS vs BANGARANGA (BO3) - CCT Europe Contenders #8 Playoffs",
-   "slug": "cs2-300fps-bangar-2026-08-19",
-   "outcome": "BANGARANGA",
-   "side": "BUY",
-   "size": 4109.0,
-   "price": 0.25,
-   "usd": 1027.25,
-   "ts": 1787170731,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,027 en 'BANGARANGA'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-300fps-bangar-2026-08-19",
-   "titulo_es": "Counter-Strike: 300FPS vs BANGARANGA (BO3) - CCT Europe Contenders #8 Playoffs"
+   "razon": "Trade de compra por $8,018 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ucl-cel-lin2-2026-08-19-cel",
+   "titulo_es": "¿Ganará el Celtic FC el 2026-08-19?",
+   "narrativa": "El mercado descuenta un 45% de probabilidad implícita para el Celtic FC, pero el consenso externo de casas de apuestas tradicionales sitúa el verdadero valor en torno al 55%, generando un edge de +10 puntos porcentuales. Con una posición de $8,018 USD, el retorno esperado ajustado por probabilidad es de aproximadamente $1,604 USD si el precio converge al valor justo antes del evento. La entrada en 'Yes' aprovecha la brecha entre la percepción del mercado de predicción y los modelos de pronóstico deportivo, que no han incorporado plenamente la forma reciente del equipo. Riesgo: volatilidad alta por eventos de lesiones o calendario congestionado, y posible falta de profundidad en el libro de órdenes."
   }
  ],
  "edges": [
@@ -184,7 +125,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9911247.810089005,
+   "volumen": 9911247.810089,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -194,7 +135,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.527849,
+   "volumen": 996816.5278490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -204,7 +145,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995917.7417670002,
+   "volumen": 995917.7417669997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -218,16 +159,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
-   "question": "Miami Marlins vs. Philadelphia Phillies: O/U 8.5",
-   "slug": "mlb-mia-phi-2026-08-19-total-8pt5",
-   "yes": 0.525,
-   "no": 0.475,
-   "volumen": 99941.04594800001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Miami Marlins vs. Philadelphia Phillies: Más/Menos 8.5"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -364,7 +295,7 @@
    "slug": "highest-temperature-in-helsinki-on-august-19-2026-20c",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9978.179976000003,
+   "volumen": 9983.729976,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Helsinki de 20°C el 19 de agosto?"
@@ -394,10 +325,20 @@
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 9952.114906999997,
+   "volumen": 9952.114907000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
+  },
+  {
+   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
+   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
+   "yes": 0.0205,
+   "no": 0.9795,
+   "volumen": 9948.685226,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
   },
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
@@ -420,14 +361,14 @@
    "question_es": "¿Será la temperatura máxima en Londres de 22°C el 19 de agosto?"
   },
   {
-   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
-   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.024,
-   "no": 0.976,
-   "volumen": 9937.685226000001,
+   "question": "Will September be the best month for Bitcoin in 2026?",
+   "slug": "will-september-be-the-best-month-for-bitcoin-in-2026",
+   "yes": 0.095,
+   "no": 0.905,
+   "volumen": 9937.490707,
    "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
+   "categoria": "Cripto",
+   "question_es": "¿Será septiembre el mejor mes para Bitcoin en 2026?"
   }
  ],
  "historico": {
@@ -437,5 +378,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 94.55
+ "db_size_mb": 94.63
 }
