@@ -1,107 +1,49 @@
 {
- "ts": 1787155416,
- "stamp": "20260819_160336",
+ "ts": 1787155836,
+ "stamp": "20260819_161036",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x64cce50d62a844361269581af6f3a3be0880698f721dbb2262fc0825c63a7145",
-   "titulo": "Cincinnati Open: Iga Swiatek vs Diane Parry",
-   "slug": "wta-swiatek-parry-2026-08-19",
-   "outcome": "Iga Swiatek",
+   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 2118.703196,
-   "price": 0.943973649,
-   "usd": 2000.0,
-   "ts": 1787155414,
-   "categoria": "Deportes",
-   "prob": 55,
+   "size": 4331.0,
+   "price": 0.71,
+   "usd": 3075.01,
+   "ts": 1787155717,
+   "categoria": "Economía",
+   "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Iga Swiatek'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-swiatek-parry-2026-08-19",
-   "titulo_es": "Abierto de Cincinnati: Iga Swiatek vs Diane Parry",
-   "narrativa": "La compra de $2,000 en Swiatek refleja una fuerte convicción en la favorita, quien domina el circuito en pista dura y llega con un 85% de victorias en la temporada. El mercado externo la cotiza con un 92% de probabilidad, pero la señal detecta un edge de +7 puntos, indicando que el precio aún no incorpora del todo su superioridad. Riesgo: posible sorpresa de Parry en un formato al mejor de tres, aunque la falta de volumen limita el impacto."
+   "razon": "Trade de compra por $3,075 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?",
+   "narrativa": "La compra de 'Yes' en la no-modificación de tasas de la Fed para septiembre de 2026 refleja un consenso externo que favorece la pausa, con una posición de $3,075 que sugiere convicción institucional. Aunque el mercado aún no muestra volumen total, el monto comprometido indica que el precio actual no descuenta por completo la probabilidad de inacción, ofreciendo un edge positivo si se mantiene la tendencia macro. Riesgo: ventana de tiempo amplia y posibles datos de inflación que alteren el escenario base."
   },
   {
    "tipo": "ballena",
-   "market_id": "0x05ef35cb476296e9dfd30f19de96dac58b7dc53e589e1fccec226e87a464f76b",
-   "titulo": "Will the price of Ethereum be above $2,100 on August 20?",
-   "slug": "ethereum-above-2100-on-august-20-2026",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 3230.0,
-   "price": 0.511,
-   "usd": 1650.53,
-   "ts": 1787155417,
-   "categoria": "Cripto",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,651 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ethereum-above-2100-on-august-20-2026",
-   "titulo_es": "¿Estará el precio de Ethereum por encima de $2,100 el 20 de agosto?",
-   "narrativa": "La apuesta de $1,650 por el 'Sí' en Ethereum a $2,100 para el 20 de agosto sugiere que el mercado está subestimando la probabilidad de un rebote, con un consenso externo del 55% frente al 48% implícito en el precio. El edge de +7 puntos se apoya en el impulso alcista reciente y en la correlación con Bitcoin, que muestra fuerza. Riesgo: alta volatilidad intradía y eventos macro que podrían revertir la tendencia."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x0f043207069f40919b1339e671802694fca0a3cccc03e7d24322d717cfd0382e",
-   "titulo": "Will the price of Ethereum be above $2,100 on August 21?",
-   "slug": "ethereum-above-2100-on-august-21-2026",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 3000.0,
-   "price": 0.503,
-   "usd": 1509.0,
-   "ts": 1787155417,
-   "categoria": "Cripto",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,509 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ethereum-above-2100-on-august-21-2026",
-   "titulo_es": "¿Estará el precio de Ethereum por encima de $2,100 el 21 de agosto?",
-   "narrativa": "Con $1,509 en el 'Sí' para el 21 de agosto, la señal aprovecha un desfase temporal: el mercado valora el evento del día 20 con un 50%, pero la probabilidad acumulada para el 21 debería ser mayor, generando un edge de +5 puntos. El consenso externo del 58% respalda la visión de que Ethereum mantendrá soporte en $2,100, apoyado por el flujo de noticias positivas. Riesgo: la proximidad de la fecha reduce el margen de error y la liquidez puede ser escasa."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xebf865f9d51fd96032c21169a21b58cbdbd81dc56f75a961bcea860b32d6fb12",
-   "titulo": "Bitcoin Up or Down - August 19, 12:00PM-12:05PM ET",
-   "slug": "btc-updown-5m-1787155200",
-   "outcome": "Up",
+   "market_id": "0x9cdf12a33bb67d1e5229cd49944e4923829925c7d733fb665176fa86f89907f6",
+   "titulo": "Counter-Strike: FUT Esports vs magic - Map 2 Winner",
+   "slug": "cs2-fut-mgc-2026-08-19-game2",
+   "outcome": "FUT Esports",
    "side": "SELL",
-   "size": 1431.53,
-   "price": 0.9724053984,
-   "usd": 1392.03,
-   "ts": 1787155416,
-   "categoria": "Cripto",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,392 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1787155200",
-   "titulo_es": "Bitcoin al alza o a la baja - 19 de agosto, 12:00PM-12:05PM ET"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x752fa61c93f16c4b15e85b0bd438d9c684176b0ea7b319a84c8aca34616e8a8c",
-   "titulo": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-   "slug": "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2279.26,
-   "price": 0.53,
-   "usd": 1208.01,
-   "ts": 1787155413,
-   "categoria": "Cripto",
+   "size": 1287.64,
+   "price": 0.999,
+   "usd": 1286.35,
+   "ts": 1787155719,
+   "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,208 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-   "titulo_es": "¿Caerá Bitcoin a $55,000 para el 31 de diciembre de 2026?"
+   "razon": "Trade de venta por $1,286 en 'FUT Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-fut-mgc-2026-08-19-game2",
+   "titulo_es": "Counter-Strike: FUT Esports vs magic - Ganador del Mapa 2",
+   "narrativa": "La venta de FUT Esports en el Mapa 2 aprovecha la sobrevaloración implícita del equipo, con una apuesta de $1,286 que busca capitalizar el desvío entre el precio de mercado y la probabilidad real de victoria. El consenso externo sugiere que magic tiene mayor fortaleza en mapas específicos, lo que convierte esta posición en una oportunidad de arbitraje estadístico. Riesgo: alta volatilidad en esports y posibles cambios de alineación a última hora."
   }
  ],
  "edges": [
@@ -166,9 +108,9 @@
   {
    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
    "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-   "yes": 0.0145,
-   "no": 0.9855,
-   "volumen": 9948920.88393201,
+   "yes": 0.0135,
+   "no": 0.9865,
+   "volumen": 9954171.640855007,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Reducirá la Fed las tasas de interés en 25 puntos básicos después de la reunión de septiembre de 2026?"
@@ -178,7 +120,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9910440.051830003,
+   "volumen": 9910440.051829992,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -188,7 +130,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995401.5678490001,
+   "volumen": 995401.5678489998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -198,7 +140,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993440003,
+   "volumen": 990196.2993440002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -214,31 +156,11 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "Will Wildberries announce bankruptcy before 2027?",
-   "slug": "will-wildberries-announce-bankruptcy-before-2027-20260723171611669",
-   "yes": 0.175,
-   "no": 0.825,
-   "volumen": 99960.99956200001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Anunciará Wildberries la quiebra antes de 2027?"
-  },
-  {
-   "question": "Will the price of Bitcoin be above $58,000 on August 20?",
-   "slug": "bitcoin-above-58k-on-august-20-2026",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 99941.82600700001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Bitcoin por encima de $58,000 el 20 de agosto?"
-  },
-  {
    "question": "Will B8 Win the CS2 EWC 2026?",
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.018,
    "no": 0.982,
-   "volumen": 99821.39061399999,
+   "volumen": 99821.39061399997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -254,6 +176,16 @@
    "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
   },
   {
+   "question": "LoL: UCAM Esports Club vs Team Heretics Academy - Game 1 Winner",
+   "slug": "lol-ucam1-hrts-2026-08-19-game1",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99721.74203100005,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: UCAM Esports Club vs Team Heretics Academy - Ganador del Juego 1"
+  },
+  {
    "question": "Will MicroStrategy be margin called in 2026?",
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
@@ -266,9 +198,9 @@
   {
    "question": "Will FUT Esports Win the CS2 EWC 2026?",
    "slug": "will-fut-esports-win-the-cs2-ewc-2026-20260810160005091",
-   "yes": 0.02,
-   "no": 0.98,
-   "volumen": 99442.13661300001,
+   "yes": 0.022,
+   "no": 0.978,
+   "volumen": 99492.13661299998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará FUT Esports el CS2 EWC 2026?"
@@ -276,8 +208,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -296,9 +228,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 99036.85304000005,
+   "yes": 0.067,
+   "no": 0.933,
+   "volumen": 99036.85304000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -326,9 +258,9 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 98829.11391900002,
+   "yes": 0.154,
+   "no": 0.846,
+   "volumen": 98829.113919,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará MOUZ el CS2 EWC 2026?"
@@ -338,7 +270,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.57294600001,
+   "volumen": 98743.572946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -358,27 +290,17 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 98349.536631,
+   "volumen": 98349.53663100002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
-  },
-  {
-   "question": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
-   "slug": "atp-tirante-mensik-2026-08-19",
-   "yes": 0.345,
-   "no": 0.655,
-   "volumen": 98320.12210400002,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Thiago Agustín Tirante vs Jakub Mensik"
   },
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 9998.64818,
+   "volumen": 9998.648180000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -396,8 +318,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.23,
-   "no": 0.77,
+   "yes": 0.2455,
+   "no": 0.7545,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -412,6 +334,26 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
+  },
+  {
+   "question": "ITF M25 Lesa Men: Maxime Janvier vs Daniele Rapagnetta",
+   "slug": "itf-janvier-rapagne-2026-08-19",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9979.503445999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "ITF M25 Lesa Hombres: Maxime Janvier vs Daniele Rapagnetta"
+  },
+  {
+   "question": "Will Truist fail by end of 2026?",
+   "slug": "will-truist-fail-by-end-of-2026",
+   "yes": 0.0315,
+   "no": 0.9685,
+   "volumen": 9973.222389999999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Quebrará Truist para finales de 2026?"
   }
  ],
  "historico": {
@@ -421,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 91.13
+ "db_size_mb": 91.22
 }
