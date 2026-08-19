@@ -1,10 +1,31 @@
 {
- "ts": 1787117665,
- "stamp": "20260819_053425",
+ "ts": 1787118025,
+ "stamp": "20260819_054025",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x03c324618afef6e9e4e18dc5533a7c49ee0000000000000000000000000000",
+   "titulo": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend AND LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 1999.979628,
+   "price": 0.6811477777,
+   "usd": 1362.28,
+   "ts": 1787117799,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,362 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "LoL: Team WE vs EDward Gaming (BO3) - LPL Grupo Ascend Y LoL: Gen.G vs KT Rolster (BO3) - LCK Ronda 3-4 Grupo Leyenda",
+   "narrativa": "La señal de compra en BALLENA agrupa dos enfrentamientos de alto perfil en LPL y LCK, donde el mercado muestra un consenso externo favorable al lado comprador. Con un monto de $1,362.28, el edge estimado se sustenta en la disparidad de rendimiento reciente entre los equipos, lo que sugiere una oportunidad de valor antes de que el mercado ajuste sus probabilidades. Riesgo: la volatilidad de los BO3 puede generar resultados inesperados, especialmente en partidas cerradas."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -99,7 +120,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 989300.4235880001,
+   "volumen": 989300.4235879998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -109,7 +130,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955090001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -189,7 +210,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98632.215404,
+   "volumen": 98632.21540399997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -297,8 +318,8 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.28,
-   "no": 0.72,
+   "yes": 0.315,
+   "no": 0.685,
    "volumen": 9941.898179999997,
    "spread": 0.0,
    "categoria": "Política",
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 83.56
+ "db_size_mb": 83.61
 }
