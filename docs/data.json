@@ -1,31 +1,10 @@
 {
- "ts": 1787137351,
- "stamp": "20260819_110231",
+ "ts": 1787137711,
+ "stamp": "20260819_110831",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x5c60d4f6b67b14848880a58a935517d9f71b573b93f16fa2a9fdf65d067e24bd",
-   "titulo": "Cincinnati Open: Linda Noskova vs Amanda Anisimova",
-   "slug": "wta-noskova-anisimo-2026-08-19",
-   "outcome": "Amanda Anisimova",
-   "side": "BUY",
-   "size": 5389.63,
-   "price": 0.48,
-   "usd": 2587.02,
-   "ts": 1787137080,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,587 en 'Amanda Anisimova'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-noskova-anisimo-2026-08-19",
-   "titulo_es": "Cincinnati Open: Linda Noskova contra Amanda Anisimova",
-   "narrativa": "La compra de Amanda Anisimova frente a Noskova en el Cincinnati Open refleja una apuesta clara por la consistencia de la estadounidense en pista dura, donde su agresividad desde el fondo de la pista suele imponer ritmo. El monto de $2,587.02, aunque moderado, muestra convicción direccional sin saturar el mercado, lo que sugiere que aún hay espacio para capturar valor si el consenso externo no ha ajustado completamente las probabilidades. El edge se materializa si el mercado infravalora su ventaja en superficie y su reciente forma competitiva. Riesgo: posible baja liquidez en mercados de tenis fuera de los grandes torneos, lo que puede ampliar el spread."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -343,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 87.04
+ "db_size_mb": 87.1
 }
