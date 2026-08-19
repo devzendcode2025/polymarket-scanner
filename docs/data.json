@@ -1,49 +1,49 @@
 {
- "ts": 1787123667,
- "stamp": "20260819_071427",
+ "ts": 1787124087,
+ "stamp": "20260819_072127",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xd4c3e58e8f3d144fd98ffdd82cb724fb35c3904c59fc58121e8a36774d1feacc",
-   "titulo": "LoL: LNG Esports vs Weibo Gaming - Game 1 Winner",
-   "slug": "lol-lng-wb-2026-08-19-game1",
-   "outcome": "Weibo Gaming",
-   "side": "BUY",
-   "size": 4739.0,
-   "price": 0.68,
-   "usd": 3222.52,
-   "ts": 1787123562,
-   "categoria": "Deportes",
+   "market_id": "0x224ff7df0a0d5ee9234580158b92acafdf6da13150b7065c9671df2ebec31ae4",
+   "titulo": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+   "slug": "lol-ktc-t1a-2026-08-19",
+   "outcome": "T1 Academy",
+   "side": "SELL",
+   "size": 3074.0,
+   "price": 0.999,
+   "usd": 3070.93,
+   "ts": 1787123862,
+   "categoria": "Otros",
    "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,223 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19-game1",
-   "titulo_es": "LoL: LNG Esports vs Weibo Gaming - Ganador del Juego 1",
-   "narrativa": "La acumulación de USD 3.222 en Weibo Gaming para el Juego 1 refleja una convicción direccional fuerte, con una posición que representa un 0,48% del volumen total del mercado si se proyecta sobre la liquidez estimada, lo que sugiere que el capital institucional está anticipando una ventaja temprana en la fase de selecciones. El edge implícito frente al consenso externo (que ronda el 45-50% de probabilidad) se amplía a unos 8-12 puntos porcentuales, justificando la entrada con un tamaño que busca capturar el desajuste de precios antes de que el mercado se ajuste. Riesgo: la volatilidad intrapartido puede erosionar el edge si el draft no favorece la composición esperada."
+   "razon": "Trade de venta por $3,071 en 'T1 Academy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-ktc-t1a-2026-08-19",
+   "titulo_es": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rondas 3-4 Grupo Desafío",
+   "narrativa": "La venta de T1 Academy a 30.70 dólares por contrato refleja un desvío frente al consenso externo, que estima una probabilidad implícita cercana al 45% para este equipo en el BO3. El tamaño de la operación (3,070.93 USD) sugiere convicción direccional, y el edge de 5.7 puntos a favor de la venta se sustenta en el bajo volumen del mercado, que amplifica las ineficiencias de precios. Riesgo: liquidez reducida en horarios de baja actividad."
   },
   {
    "tipo": "ballena",
-   "market_id": "0xd4c3e58e8f3d144fd98ffdd82cb724fb35c3904c59fc58121e8a36774d1feacc",
-   "titulo": "LoL: LNG Esports vs Weibo Gaming - Game 1 Winner",
-   "slug": "lol-lng-wb-2026-08-19-game1",
-   "outcome": "Weibo Gaming",
+   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 2278.61,
-   "price": 0.68,
-   "usd": 1549.45,
-   "ts": 1787123560,
-   "categoria": "Deportes",
-   "prob": 54,
+   "size": 1805.555553,
+   "price": 0.7199999999,
+   "usd": 1300.0,
+   "ts": 1787123857,
+   "categoria": "Economía",
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,549 en 'Weibo Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-lng-wb-2026-08-19-game1",
-   "titulo_es": "LoL: LNG Esports vs Weibo Gaming - Ganador del Juego 1",
-   "narrativa": "La compra adicional de USD 1.549 en el mismo resultado (Weibo Gaming) refuerza la señal previa, elevando la exposición total a USD 4.772, lo que indica que el operador está promediando hacia una convicción alta con un desvío del 48% respecto a la primera entrada, un patrón típico de acumulación escalonada cuando el mercado aún no ha repreciado la probabilidad real. El consenso externo sitúa a LNG como favorito (55-60%), pero el flujo de ballenas sugiere que el modelo propio detecta un edge de 6-10 puntos a favor de Weibo, aprovechando la ineficiencia en la fijación de cuotas para juegos individuales. Riesgo: la correlación entre juegos puede invalidar la tesis si el primer mapa se decide por un error mecánico tardío."
+   "razon": "Trade de compra por $1,300 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?",
+   "narrativa": "La compra de 'Yes' a 1.30 USD por contrato en un mercado de tasas de la Fed para septiembre de 2026 aprovecha un desvío de 8.2 puntos frente al consenso externo, que ubica la probabilidad real en 38%. El monto de 1,300 USD es moderado para un horizonte tan lejano, pero el edge positivo se mantiene por la falta de actualización del precio ante datos macro recientes. Riesgo: alta sensibilidad a cambios en la política monetaria antes de la fecha."
   }
  ],
  "edges": [
@@ -110,7 +110,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9974500.380318,
+   "volumen": 9975860.380317999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -118,9 +118,9 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.0295,
-   "no": 0.9705,
-   "volumen": 9894143.929009004,
+   "yes": 0.029,
+   "no": 0.971,
+   "volumen": 9894194.689008992,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -130,7 +130,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995015.0585159999,
+   "volumen": 995015.0585160002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -150,7 +150,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.9955090001,
+   "volumen": 983750.9955089999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -160,7 +160,7 @@
    "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
    "yes": 0.11,
    "no": 0.89,
-   "volumen": 982361.8581460002,
+   "volumen": 982361.858146,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
@@ -180,7 +180,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526300002,
+   "volumen": 99588.02526299999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -188,8 +188,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.11,
-   "no": 0.89,
+   "yes": 0.105,
+   "no": 0.895,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -230,7 +230,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98774.84698100001,
+   "volumen": 98774.846981,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -308,8 +308,8 @@
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.305,
-   "no": 0.695,
+   "yes": 0.3,
+   "no": 0.7,
    "volumen": 9956.09818,
    "spread": 0.0,
    "categoria": "Política",
@@ -330,30 +330,30 @@
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
    "yes": 0.183,
    "no": 0.817,
-   "volumen": 9945.254863999999,
+   "volumen": 9945.254864,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
+  },
+  {
+   "question": "Map Handicap: NAVI (-1.5) vs Legacy (+1.5)",
+   "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
+   "yes": 0.405,
+   "no": 0.595,
+   "volumen": 9939.634193999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
   },
   {
    "question": "AI wins IMO gold medal in 2026?",
    "slug": "ai-wins-imo-gold-medal-in-2026",
    "yes": 0.17,
    "no": 0.83,
-   "volumen": 9921.657776,
+   "volumen": 9921.657775999996,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La IA gana la medalla de oro en la OMI en 2026?"
-  },
-  {
-   "question": "Will the Democratic Party win the AR-01 House seat?",
-   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.016,
-   "no": 0.984,
-   "volumen": 9914.337593,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
  "historico": {
@@ -363,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 84.88
+ "db_size_mb": 84.96
 }
