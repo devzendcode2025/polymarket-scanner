@@ -1,29 +1,49 @@
 {
- "ts": 1787099420,
- "stamp": "20260819_003020",
+ "ts": 1787099780,
+ "stamp": "20260819_003620",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa08a5ce99e14ce0b22767af6f16c08a2ab012249444c20887193a9a3e98e11fc",
-   "titulo": "Strait of Hormuz traffic returns to normal by September 30?",
-   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
-   "outcome": "Yes",
+   "market_id": "0x03657d0e9e51d9142931b165c458bb3a920000000000000000000000000000",
+   "titulo": "Los Angeles Angels vs. Houston Astros AND Los Angeles Dodgers vs. Colorado Rockies AND Athletics vs. Kansas City Royals",
+   "slug": "",
+   "outcome": "",
    "side": "BUY",
-   "size": 110670.24,
-   "price": 0.06,
-   "usd": 6640.21,
-   "ts": 1787099227,
-   "categoria": "Tecnología",
-   "prob": 61,
-   "confianza": "alta",
+   "size": 11453.008731,
+   "price": 0.2525026504,
+   "usd": 2891.92,
+   "ts": 1787099524,
+   "categoria": "Otros",
+   "prob": 56,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $6,640 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
-   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad para el 30 de septiembre?",
-   "narrativa": "La compra de 'Yes' a 66 centavos refleja una expectativa del 66% de normalización, pero el consenso externo de firmas navieras sugiere un 75% de probabilidad, generando un edge de +9 puntos. Con un monto de $6,640, la posición capitaliza la discrepancia entre el precio de mercado y la probabilidad real, ofreciendo un retorno esperado del 13.6% sobre el riesgo. Riesgo: la volatilidad geopolítica puede alterar el tráfico sin previo aviso, reduciendo la ventana de oportunidad."
+   "razon": "Trade de compra por $2,892 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Los Angeles Angels vs. Houston Astros Y Los Angeles Dodgers vs. Colorado Rockies Y Athletics vs. Kansas City Royals",
+   "narrativa": "La compra coordinada de 2,891.92 USD en tres partidos de MLB sugiere una apuesta direccional basada en un modelo de valor que detecta discrepancias entre las probabilidades implícitas del mercado y las proyecciones de los equipos. El tamaño del trade, distribuido en múltiples eventos, indica una convicción media que busca capturar un edge agregado, aunque la falta de volumen de mercado reportado limita la confirmación de liquidez. Riesgo: exposición a resultados correlacionados en una misma jornada deportiva."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x377e7fe65cf198a7fc4fdae3f2136b74729279267858daaf96718b23bc2a5607",
+   "titulo": "Iran leadership change by December 31?",
+   "slug": "iran-leadership-change-by-december-31-974-976-658-482-568-685-996-469-827",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1200.0,
+   "price": 0.84,
+   "usd": 1008.0,
+   "ts": 1787099529,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,008 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/iran-leadership-change-by-december-31-974-976-658-482-568-685-996-469-827",
+   "titulo_es": "¿Cambio de liderazgo en Irán para el 31 de diciembre?",
+   "narrativa": "La compra de 1,008.00 USD en la opción 'No' para un cambio de liderazgo en Irán antes de fin de año refleja una apuesta por la estabilidad política, alineada con el consenso externo que otorga baja probabilidad a una transición abrupta. El monto, superior a 1,000 USD, sugiere que el operador percibe un desvío entre el precio actual y la probabilidad real, buscando capturar valor a largo plazo. Riesgo: eventos geopolíticos impredecibles pueden alterar drásticamente el resultado en pocas semanas."
   }
  ],
  "edges": [
@@ -90,7 +110,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9970236.860317998,
+   "volumen": 9971031.970317999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -100,7 +120,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9835170.947862996,
+   "volumen": 9835170.947863003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -120,7 +140,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 988310.5144999998,
+   "volumen": 988310.5144999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -130,7 +150,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955090001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -150,7 +170,7 @@
    "slug": "will-russia-capture-all-of-prymorske-by-december-31-2026",
    "yes": 0.0635,
    "no": 0.9365,
-   "volumen": 99768.94702999998,
+   "volumen": 99768.94703000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Capturará Rusia todo Prymorske antes del 31 de diciembre de 2026?"
@@ -160,7 +180,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526300003,
+   "volumen": 99588.025263,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -180,20 +200,10 @@
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
    "yes": 0.325,
    "no": 0.675,
-   "volumen": 99153.761934,
+   "volumen": 99153.76193400001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
-  },
-  {
-   "question": "Washington Nationals vs. Texas Rangers: O/U 7.5",
-   "slug": "mlb-wsh-tex-2026-08-18-total-7pt5",
-   "yes": 0.485,
-   "no": 0.515,
-   "volumen": 99069.03215599997,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Washington Nationals vs. Texas Rangers: Más/Menos 7.5"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
@@ -204,16 +214,6 @@
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Cancun: Dalibor Svrcina vs Stan Wawrinka",
-   "slug": "atp-svrcina-wawrink-2026-08-18",
-   "yes": 0.565,
-   "no": 0.435,
-   "volumen": 98953.42492199999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Cancún: Dalibor Svrcina vs Stan Wawrinka"
   },
   {
    "question": "US charges Hormuz fees by December 31, 2026?",
@@ -228,8 +228,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0645,
-   "no": 0.9355,
+   "yes": 0.065,
+   "no": 0.935,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -240,7 +240,7 @@
    "slug": "israel-x-iran-ceasefire-continues-through-october-31",
    "yes": 0.745,
    "no": 0.255,
-   "volumen": 98713.25017199999,
+   "volumen": 98713.250172,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Continúa el alto el fuego entre Israel e Irán hasta el 31 de octubre?"
@@ -250,7 +250,7 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 98451.04540399999,
+   "volumen": 98489.195404,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -266,14 +266,24 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Los Angeles Sparks vs. Connecticut Sun",
-   "slug": "wnba-la-conn-2026-08-18",
-   "yes": 0.035,
-   "no": 0.965,
-   "volumen": 98067.22362399996,
+   "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
+   "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 98070.77294599995,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Los Angeles Sparks vs. Connecticut Sun"
+   "categoria": "Política",
+   "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
+  },
+  {
+   "question": "Will Carey Baker be the FL-11 Republican nominee?",
+   "slug": "will-carey-baker-be-the-fl-11-republican-nominee-20260723173936217",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 9999.672418,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Carey Baker el nominado republicano de FL-11?"
   },
   {
    "question": "Will the Democratic Party win the FL-10 House seat?",
@@ -288,22 +298,12 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0365,
-   "no": 0.9635,
+   "yes": 0.044,
+   "no": 0.956,
    "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
-  },
-  {
-   "question": "Will Carey Baker be the FL-11 Republican nominee?",
-   "slug": "will-carey-baker-be-the-fl-11-republican-nominee-20260723173936217",
-   "yes": 0.05,
-   "no": 0.95,
-   "volumen": 9989.672418,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Será Carey Baker el nominado republicano de FL-11?"
   },
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
@@ -316,14 +316,34 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
+   "question": "Los Angeles Sparks vs. Connecticut Sun: O/U 174.5",
+   "slug": "wnba-la-conn-2026-08-18-total-174pt5",
+   "yes": 0.51,
+   "no": 0.49,
+   "volumen": 9986.797522,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Los Angeles Sparks vs. Connecticut Sun: Más/Menos 174.5"
+  },
+  {
    "question": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
    "slug": "will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 9985.785598999999,
+   "volumen": 9985.785599,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Åsa Johansson la próxima presidenta de la Junta Regional de la Región Värmland?"
+  },
+  {
+   "question": "Will the highest temperature in Madrid be 36°C on August 19?",
+   "slug": "highest-temperature-in-madrid-on-august-19-2026-36c",
+   "yes": 0.735,
+   "no": 0.265,
+   "volumen": 9985.693832,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Madrid de 36°C el 19 de agosto?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -343,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 80.07
+ "db_size_mb": 80.14
 }
