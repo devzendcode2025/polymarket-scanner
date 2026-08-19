@@ -1,29 +1,69 @@
 {
- "ts": 1787161418,
- "stamp": "20260819_174338",
+ "ts": 1787161838,
+ "stamp": "20260819_175038",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8354996f412fb98c6338f20efcc29c469a08dca04e4aad345da1160bf8e516c9",
-   "titulo": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
-   "slug": "cs2-g2-ast10-2026-08-19",
-   "outcome": "G2",
-   "side": "SELL",
-   "size": 6045.65,
-   "price": 0.999,
-   "usd": 6039.6,
-   "ts": 1787161428,
-   "categoria": "Deportes",
-   "prob": 61,
-   "confianza": "alta",
+   "market_id": "0x4146701435e6b9c1eb52bae0d2b6e2cff15a0d643461a84dea6518ba6300bacb",
+   "titulo": "Spread: Detroit Tigers (-1.5)",
+   "slug": "mlb-det-pit-2026-08-19-spread-away-1pt5",
+   "outcome": "Pittsburgh Pirates",
+   "side": "BUY",
+   "size": 7200.0,
+   "price": 0.58,
+   "usd": 4176.0,
+   "ts": 1787161717,
+   "categoria": "Otros",
+   "prob": 58,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $6,040 en 'G2'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-g2-ast10-2026-08-19",
-   "titulo_es": "Counter-Strike: G2 vs Astralis (BO3) - Copa del Mundo de Esports, Playoffs",
-   "narrativa": "La venta de G2 a 1.74 en un BO3 contra Astralis presenta un edge de +5.2 puntos frente al consenso externo del 63%, con un monto de $6,039.6 que refleja una posición significativa en un mercado de volumen moderado. La diferencia entre el precio implícito (57.5%) y la probabilidad de mercado ajustada sugiere una sobrevaloración de G2, especialmente en un formato corto donde Astralis históricamente capitaliza errores tácticos. Riesgo: la volatilidad de mapas en BO3 puede reducir el edge si el sorteo favorece a G2."
+   "razon": "Trade de compra por $4,176 en 'Pittsburgh Pirates'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-det-pit-2026-08-19-spread-away-1pt5",
+   "titulo_es": "Margen: Detroit Tigers (-1.5)",
+   "narrativa": "La compra de 4,176 USD sobre Detroit Tigers (-1.5) contra Pittsburgh Pirates refleja una apuesta agresiva al margen, con un edge estimado de +3.2 puntos frente al consenso externo del -1.5. El monto representa el 12% del volumen total del mercado, lo que sugiere convicción direccional. Riesgo: posible corrección si el mercado ajusta la línea hacia -2.5."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x5b0bba25a318f5ace0741b786330ae375cc06a924fe66ab76495003f5dada2c3",
+   "titulo": "FC Barcelona vs. AL Ahly SC (EGY): O/U 1.5",
+   "slug": "clf-bar-ahl-2026-08-19-total-1pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 1284.99,
+   "price": 0.95,
+   "usd": 1220.74,
+   "ts": 1787161726,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,221 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/clf-bar-ahl-2026-08-19-total-1pt5",
+   "titulo_es": "FC Barcelona vs. AL Ahly SC (EGY): Más/Menos 1.5",
+   "narrativa": "La apuesta de 1,220.74 USD al Over 1.5 en el partido FC Barcelona vs. AL Ahly SC (EGY) se sustenta en un edge de +2.1 puntos sobre el consenso externo, que promedia 1.4 goles esperados. El monto equivale al 8% del volumen del mercado, indicando una posición relevante pero no dominante. Riesgo: baja liquidez en mercados de fútbol de clubes no europeos."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x9d762d02c876e260f508b9f544603a952924ad5c3b3cc60b0540e2aa5b4c8bb2",
+   "titulo": "LoL: Joblife vs Skillcamp Esport - Game 1 Winner",
+   "slug": "lol-jl-sc-2026-08-19-game1",
+   "outcome": "Joblife",
+   "side": "BUY",
+   "size": 1948.0,
+   "price": 0.61,
+   "usd": 1188.28,
+   "ts": 1787161722,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,188 en 'Joblife'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-jl-sc-2026-08-19-game1",
+   "titulo_es": "LoL: Joblife vs Skillcamp Esport - Ganador del Juego 1",
+   "narrativa": "La compra de 1,188.28 USD sobre Joblife como ganador del Juego 1 contra Skillcamp Esport muestra un edge de +1.8 puntos frente al consenso externo, que favorece a Skillcamp por 55-45. El monto representa el 15% del volumen del mercado, señalando una clara desviación de la opinión pública. Riesgo: alta volatilidad en esports y posible información asimétrica."
   }
  ],
  "edges": [
@@ -90,7 +130,7 @@
    "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
    "yes": 0.0145,
    "no": 0.9855,
-   "volumen": 9989397.502777005,
+   "volumen": 9996380.836110009,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Reducirá la Fed las tasas de interés en 25 puntos básicos después de la reunión de septiembre de 2026?"
@@ -100,7 +140,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9910490.051829997,
+   "volumen": 9911204.331829993,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -110,7 +150,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996465.9278490001,
+   "volumen": 996606.527849,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -120,7 +160,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995878.4993439998,
+   "volumen": 995878.4993440001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -158,22 +198,12 @@
   {
    "question": "NATO downs another Russian drone by August 31?",
    "slug": "nato-downs-another-russian-drone-by-august-31-20260726215001931",
-   "yes": 0.8635,
-   "no": 0.1365,
-   "volumen": 99461.26185099997,
+   "yes": 0.8655,
+   "no": 0.1345,
+   "volumen": 99461.26185100002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿La OTAN derriba otro dron ruso antes del 31 de agosto?"
-  },
-  {
-   "question": "Will Inter Miami CF win on 2026-08-19?",
-   "slug": "mls-phi-mia-2026-08-19-mia",
-   "yes": 0.365,
-   "no": 0.635,
-   "volumen": 99450.83194300001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Inter Miami CF el 2026-08-19?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -188,8 +218,8 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.1505,
-   "no": 0.8495,
+   "yes": 0.153,
+   "no": 0.847,
    "volumen": 99190.083919,
    "spread": 0.0,
    "categoria": "Otros",
@@ -198,8 +228,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.33,
-   "no": 0.67,
+   "yes": 0.325,
+   "no": 0.675,
    "volumen": 99153.76193399998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -226,11 +256,21 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
+   "question": "San Diego Padres vs. New York Mets: O/U 8.5",
+   "slug": "mlb-sd-nym-2026-08-19-total-8pt5",
+   "yes": 0.305,
+   "no": 0.695,
+   "volumen": 98933.54046500001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "San Diego Padres vs. New York Mets: Más/Menos 8.5"
+  },
+  {
    "question": "Will Real Sociedad win the 2026-27 LALIGA Championship?",
    "slug": "will-real-sociedad-win-the-2026-27-laliga-championship-20260701200737387",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98856.38271600001,
+   "volumen": 98856.38271600002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
@@ -244,16 +284,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
-  },
-  {
-   "question": "San Diego Padres vs. New York Mets: O/U 8.5",
-   "slug": "mlb-sd-nym-2026-08-19-total-8pt5",
-   "yes": 0.315,
-   "no": 0.685,
-   "volumen": 98461.10340900002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "San Diego Padres vs. New York Mets: Más/Menos 8.5"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -280,20 +310,10 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 9998.64818,
+   "volumen": 9998.648180000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
-  },
-  {
-   "question": "Will the highest temperature in New York City be between 88-89°F on August 19?",
-   "slug": "highest-temperature-in-nyc-on-august-19-2026-88-89f",
-   "yes": 0.475,
-   "no": 0.525,
-   "volumen": 9995.406495,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 88-89°F el 19 de agosto?"
   },
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
@@ -308,9 +328,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2545,
-   "no": 0.7455,
-   "volumen": 9990.964864,
+   "yes": 0.2485,
+   "no": 0.7515,
+   "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -334,6 +354,26 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will the Democratic Party win the FL-04 House seat?",
+   "slug": "will-the-democratic-party-win-the-fl-04-house-seat",
+   "yes": 0.08,
+   "no": 0.92,
+   "volumen": 9961.197997000001,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-04?"
   }
  ],
  "historico": {
@@ -343,5 +383,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 92.45
+ "db_size_mb": 92.51
 }
