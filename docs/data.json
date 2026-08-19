@@ -1,6 +1,6 @@
 {
- "ts": 1787130749,
- "stamp": "20260819_091229",
+ "ts": 1787131109,
+ "stamp": "20260819_091829",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -11,9 +11,9 @@
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 8.0,
+   "prob_poly": 7.5,
    "consenso": 50.5,
-   "edge": 42.5,
+   "edge": 43.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -30,9 +30,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 8.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 42.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 7.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 43.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a 8.0, muy por debajo del consenso externo de PredictIt del 50.5%, lo que genera un edge de 42.5 puntos a favor de la compra. Esta discrepancia extrema sugiere que el precio actual no refleja la probabilidad real del evento, ofreciendo una oportunidad de valor significativo para quien busca exposición a un resultado con alta probabilidad implícita. El monto del trade debe ajustarse al tamaño de la posición, pero el diferencial de precios entre plataformas es el mayor que se ve en mercados de gobernadores estatales. Riesgo: la baja liquidez en Polymarket para este contrato puede ampliar el deslizamiento y dificultar la salida."
+   "narrativa": "El mercado de Polymarket valora esta opción en solo 7.5, mientras que el consenso externo de PredictIt la sitúa en 50.5, lo que arroja un edge de 43 puntos a favor de comprar el 'Sí'. Este diferencial extremo indica una clara ineficiencia de precios, ya que el mercado de Polymarket no ha absorbido la información que sí refleja PredictIt. Con un monto de trade ajustado a la liquidez disponible, la oportunidad de capturar valor es alta. Riesgo: el evento es a largo plazo y la liquidez puede ser limitada, lo que podría afectar la ejecución de la salida."
   },
   {
    "tipo": "edge",
@@ -237,8 +237,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2205,
-   "no": 0.7795,
+   "yes": 0.2235,
+   "no": 0.7765,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -316,11 +316,11 @@
   }
  ],
  "historico": {
-  "ts": 1787129073,
+  "ts": 1787130874,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 86.43
+ "db_size_mb": 86.44
 }
