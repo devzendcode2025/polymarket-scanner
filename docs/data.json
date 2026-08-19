@@ -1,29 +1,68 @@
 {
- "ts": 1787171140,
- "stamp": "20260819_202540",
+ "ts": 1787171500,
+ "stamp": "20260819_203140",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x62390209824936ef15c10fc280d0c27d5680508a56c6d6f86c1c098a2627f22f",
-   "titulo": "Will Celtic FC win on 2026-08-19?",
-   "slug": "ucl-cel-lin2-2026-08-19-cel",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 8385.23,
-   "price": 0.9562132941,
-   "usd": 8018.07,
-   "ts": 1787171034,
-   "categoria": "Otros",
-   "prob": 64,
-   "confianza": "alta",
+   "market_id": "0x2d6945ae1728aaf6891ab0375f77d1dfcadd2c94bc8b3cadcd6a0be5325de01f",
+   "titulo": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs",
+   "slug": "cs2-gl1-mouz-2026-08-19",
+   "outcome": "GamerLegion",
+   "side": "SELL",
+   "size": 7000.0,
+   "price": 0.3313679443,
+   "usd": 2319.58,
+   "ts": 1787171328,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $8,018 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ucl-cel-lin2-2026-08-19-cel",
-   "titulo_es": "¿Ganará el Celtic FC el 2026-08-19?",
-   "narrativa": "El mercado descuenta un 45% de probabilidad implícita para el Celtic FC, pero el consenso externo de casas de apuestas tradicionales sitúa el verdadero valor en torno al 55%, generando un edge de +10 puntos porcentuales. Con una posición de $8,018 USD, el retorno esperado ajustado por probabilidad es de aproximadamente $1,604 USD si el precio converge al valor justo antes del evento. La entrada en 'Yes' aprovecha la brecha entre la percepción del mercado de predicción y los modelos de pronóstico deportivo, que no han incorporado plenamente la forma reciente del equipo. Riesgo: volatilidad alta por eventos de lesiones o calendario congestionado, y posible falta de profundidad en el libro de órdenes."
+   "razon": "Trade de venta por $2,320 en 'GamerLegion'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-gl1-mouz-2026-08-19",
+   "titulo_es": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Playoffs de la Copa del Mundo de Esports",
+   "narrativa": "La venta de 2,319.58 USD en 'GamerLegion' contra el mercado indica que un operador grande está dispuesto a tomar la posición contraria al favorito implícito, posiblemente buscando capturar una prima por la sobrevaloración del equipo. Sin volumen de mercado reportado, la liquidez es limitada, lo que amplifica el impacto de esta orden. Riesgo: alta volatilidad en esports y posible falta de contrapartida para cerrar la posición."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x15d2e66dcf1d63c5695d6d0e9e2f8e06dd246d00fd5dfc254f2b22baa33bfa1b",
+   "titulo": "Mitch McConnell steps down from Senate before his term ends?",
+   "slug": "will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 2622.64,
+   "price": 0.83,
+   "usd": 2176.79,
+   "ts": 1787171329,
+   "categoria": "Política",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,177 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends",
+   "titulo_es": "¿Renunciará Mitch McConnell al Senado antes de que termine su mandato?",
+   "narrativa": "La venta de 2,176.79 USD en el resultado 'No' refleja una apuesta significativa de que McConnell completará su mandato, en línea con la baja probabilidad implícita de renuncia. Este movimiento de ballena sugiere que el vendedor percibe el precio actual como atractivo para asegurar ganancias, aunque el mercado carece de volumen reportado para confirmar la profundidad. Riesgo: eventos políticos imprevistos pueden alterar rápidamente las probabilidades."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x700f33f88b323413b6a1e5986a87cbf1d54f018c70905773cb9b42b04e594e97",
+   "titulo": "Exact Score: Club Atlético de Madrid 3 - 3 Málaga CF?",
+   "slug": "lal-mad-mala-2026-08-19-exact-score-3-3",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1450.0,
+   "price": 0.999,
+   "usd": 1448.55,
+   "ts": 1787171334,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,449 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-mad-mala-2026-08-19-exact-score-3-3",
+   "titulo_es": "Marcador exacto: ¿Club Atlético de Madrid 3 - 3 Málaga CF?"
   }
  ],
  "edges": [
@@ -67,9 +106,9 @@
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 8.0,
+   "prob_poly": 6.0,
    "consenso": 49.5,
-   "edge": 41.5,
+   "edge": 43.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -86,9 +125,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 8.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 41.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 6.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 43.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket cotiza la probabilidad de que el demócrata gane por un margen del 3%-6% en solo 8.0 puntos, frente a un consenso externo de 49.5, lo que deja un edge de 41.5 puntos a favor de la compra del 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la estimación agregada de otras plataformas, ofreciendo una entrada asimétrica con un desvío significativo respecto a la referencia. El monto del trade se posiciona para capturar una corrección del mercado si el consenso se acerca a la realidad, aunque la magnitud del edge implica un escenario de alta convicción. Riesgo: posible iliquidez en el tramo fino del margen y eventos de última hora que alteren el resultado exacto."
+   "narrativa": "El consenso externo de PredictIt sitúa la probabilidad real en 49.5%, mientras Polymarket cotiza el 'Sí' a solo 6.0%, generando un edge de 43.5 puntos a favor de la compra. Esta brecha extrema sugiere que el mercado está descontando un escenario casi imposible, cuando las probabilidades reales son mucho más equilibradas. Riesgo: mercados de eventos a largo plazo pueden tener ajustes bruscos si cambia el panorama político."
   },
   {
    "tipo": "edge",
@@ -213,8 +252,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -243,8 +282,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0065,
-   "no": 0.9935,
+   "yes": 0.0055,
+   "no": 0.9945,
    "volumen": 98534.93697800003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -333,8 +372,8 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0205,
-   "no": 0.9795,
+   "yes": 0.0225,
+   "no": 0.9775,
    "volumen": 9948.685226,
    "spread": 0.0,
    "categoria": "Política",
@@ -372,11 +411,11 @@
   }
  ],
  "historico": {
-  "ts": 1787169453,
+  "ts": 1787171280,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 94.63
+ "db_size_mb": 94.71
 }
