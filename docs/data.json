@@ -1,6 +1,6 @@
 {
- "ts": 1787179062,
- "stamp": "20260819_223742",
+ "ts": 1787179422,
+ "stamp": "20260819_224342",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -96,6 +96,36 @@
    "razon": "Polymarket paga este mercado a 15.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 34.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
    "narrativa": "El mercado de Polymarket cotiza el 'Sí' a solo 15.0, frente a un consenso externo de 49.5 en PredictIt, generando un edge de 34.5 puntos a favor de la compra. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real del evento, ofreciendo una oportunidad asimétrica con un potencial de revalorización del 130% si el mercado converge hacia el consenso. Riesgo: el evento es a largo plazo (2026) y la liquidez puede ser limitada, lo que podría dificultar la salida anticipada."
+  },
+  {
+   "tipo": "edge",
+   "question": "Los Angeles Angels vs. Houston Astros",
+   "slug": "mlb-laa-hou-2026-08-19",
+   "url": "https://polymarket.com/market/mlb-laa-hou-2026-08-19",
+   "prob_poly": 41.5,
+   "consenso": 58.7,
+   "edge": 17.2,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "ESPN",
+     "titulo": "Winner: Houston Astros vs Los Angeles Angels (mlb)",
+     "prob": 58.68,
+     "url": "https://www.espn.com/baseball/game/_/gameId/401816594",
+     "deporte": "mlb",
+     "game_id": "401816594",
+     "titulo_es": "Ganador: Houston Astros vs Los Angeles Angels (mlb)"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Otros",
+   "prob": 75,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "ESPN",
+   "razon": "Polymarket paga este mercado a 41.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 58.7%: diferencia de 17.2 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "Los Angeles Angels vs. Houston Astros",
+   "narrativa": "La probabilidad implícita en Polymarket para que los Angels ganen es de 41.5%, mientras que el consenso externo de ESPN la sitúa en 58.7%, generando un edge de 17.2 puntos a favor de comprar el 'Sí'. Este desfase sugiere que el mercado aún no ha absorbido plenamente las métricas del modelo externo, ofreciendo una entrada con valor esperado positivo si se ejecuta antes de que converja el precio. El monto sugerido de trade debe dimensionarse acorde a la liquidez del mercado, ya que movimientos bruscos podrían ajustar la cuota rápidamente. Riesgo: la diferencia puede deberse a factores de alineación o lesiones no reflejados en el consenso."
   }
  ],
  "top_volumen": [
@@ -282,8 +312,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.25,
-   "no": 0.75,
+   "yes": 0.2555,
+   "no": 0.7445,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,8 +352,8 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0235,
-   "no": 0.9765,
+   "yes": 0.041,
+   "no": 0.959,
    "volumen": 9964.685226,
    "spread": 0.0,
    "categoria": "Política",
@@ -342,8 +372,8 @@
   {
    "question": "Will USD/JPY hit 165 (High) in 2026?",
    "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.41,
-   "no": 0.59,
+   "yes": 0.4,
+   "no": 0.6,
    "volumen": 9952.114907,
    "spread": 0.0,
    "categoria": "Otros",
@@ -357,5 +387,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 96.45
+ "db_size_mb": 96.58
 }
