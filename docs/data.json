@@ -1,6 +1,6 @@
 {
- "ts": 1787182783,
- "stamp": "20260819_233943",
+ "ts": 1787183263,
+ "stamp": "20260819_234743",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -172,8 +172,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0665,
-   "no": 0.9335,
+   "yes": 0.064,
+   "no": 0.936,
    "volumen": 99270.71304,
    "spread": 0.0,
    "categoria": "Política",
@@ -262,8 +262,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.962,
-   "no": 0.038,
+   "yes": 0.964,
+   "no": 0.036,
    "volumen": 9999.604839,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -282,8 +282,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.24,
-   "no": 0.76,
+   "yes": 0.2405,
+   "no": 0.7595,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -357,5 +357,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 97.34
+ "db_size_mb": 97.39
 }
