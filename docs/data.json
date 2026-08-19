@@ -1,50 +1,29 @@
 {
- "ts": 1787141072,
- "stamp": "20260819_120432",
+ "ts": 1787141492,
+ "stamp": "20260819_121132",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
-  {
-   "tipo": "momentum",
-   "market_id": "2730834",
-   "question": "Tariff increase on Canada in effect by December 31, 2026?",
-   "slug": "tariff-increase-on-canada-in-effect-by-december-31-2026-20260629150405925",
-   "tags": [],
-   "categoria": "Política",
-   "yes_antes": 0.3,
-   "yes_ahora": 0.285,
-   "cambio_pct": -5.0,
-   "direccion": "BAJADA",
-   "volumen": 990.0882119999999,
-   "prob": 55,
-   "confianza": "baja",
-   "horizonte": "24h",
-   "razon": "Yes bajada 5.0% vs el scan anterior (0.3 → 0.285) en un mercado con $990 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/tariff-increase-on-canada-in-effect-by-december-31-2026-20260629150405925",
-   "question_es": "¿Aumento de aranceles a Canadá en vigor para el 31 de diciembre de 2026?",
-   "narrativa": "El precio del SÍ ha caído un 5% hasta 0.285, mientras que el consenso externo aún lo sitúa en 0.30, generando un edge de +1.5 puntos a favor de la compra. Con un volumen de $990, la liquidez es suficiente para operar sin deslizamientos significativos, y la dirección de BAJADA sugiere que el mercado está sobre-reaccionando a noticias temporales. Riesgo: posible ajuste rápido si hay anuncios oficiales de última hora."
-  }
- ],
+ "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x518df6d694ad4658fe6c284850c029c6f00c9b3609cf05f7757d1fecba1641f8",
-   "titulo": "US-Iran 60 day negotiation period extended?",
-   "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448",
+   "market_id": "0xbde8b55948cacc97778c9cce60462aa37cdc9e60ee9d4b278b4131a578115a2f",
+   "titulo": "Will Byron Donalds win the Florida Republican Governor primary by 25–30%?",
+   "slug": "will-byron-donalds-win-the-florida-republican-governor-primary-by-2530-20260812190226842",
    "outcome": "No",
    "side": "BUY",
-   "size": 3100.0,
-   "price": 0.9859935484,
-   "usd": 3056.58,
-   "ts": 1787140987,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,057 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/us-iran-60-day-negotiation-period-extended-20260624044855448",
-   "titulo_es": "¿Se extiende el período de negociación de 60 días entre EE. UU. e Irán?",
-   "narrativa": "La señal de compra sobre 'No' en la extensión del período de negociación de 60 días entre EE. UU. e Irán refleja un consenso externo que descuenta un estancamiento diplomático, con un monto de 3,056.58 USD que busca capturar el desvío entre el precio actual y la probabilidad implícita del mercado. El edge positivo se sustenta en la rigidez de las posiciones políticas y el historial de plazos incumplidos, lo que hace que la opción 'No' ofrezca una relación riesgo/beneficio favorable frente al volumen disponible. Riesgo: posible noticia de última hora que extienda el plazo, lo que comprimiría el margen."
+   "size": 2000.0,
+   "price": 0.997,
+   "usd": 1994.0,
+   "ts": 1787141277,
+   "categoria": "Política",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,994 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-byron-donalds-win-the-florida-republican-governor-primary-by-2530-20260812190226842",
+   "titulo_es": "¿Ganará Byron Donalds las primarias republicanas para gobernador de Florida por un margen del 25–30%?",
+   "narrativa": "El mercado descuenta un margen de victoria fuera del rango del 25-30%, y con una compra de $1,994 en 'No' se aprovecha un consenso externo que ve más probable un resultado binario extremo (menor al 25% o mayor al 30%). El edge proviene de que el precio implícito del 'No' aún no refleja la baja probabilidad histórica de que una primaria cerrada caiga justo en esa franja de 5 puntos, lo que ofrece una relación riesgo/beneficio favorable. Riesgo: la liquidez es limitada y el margen podría ajustarse por sorpresas de última hora en el recuento."
   }
  ],
  "edges": [
@@ -137,6 +116,16 @@
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
+   "question": "Iran charges Hormuz fees by August 31?",
+   "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
+   "yes": 0.11,
+   "no": 0.89,
+   "volumen": 988129.378146,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
+  },
+  {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
@@ -145,16 +134,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
-   "question": "Iran charges Hormuz fees by August 31?",
-   "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
-   "yes": 0.105,
-   "no": 0.895,
-   "volumen": 983070.4981459999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -227,21 +206,11 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Club Atlético de Madrid win on 2026-08-19?",
-   "slug": "lal-mad-mala-2026-08-19-mad",
-   "yes": 0.715,
-   "no": 0.285,
-   "volumen": 98946.21716199987,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Club Atlético de Madrid el 2026-08-19?"
-  },
-  {
    "question": "Will B8 Win the CS2 EWC 2026?",
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.016,
    "no": 0.984,
-   "volumen": 98884.84698099998,
+   "volumen": 98884.846981,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
@@ -251,7 +220,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.57294600003,
+   "volumen": 98743.572946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -261,7 +230,7 @@
    "slug": "val-osg-ts3-2026-08-19",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 98487.30429700008,
+   "volumen": 98487.30429700001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In"
@@ -279,8 +248,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.086,
-   "no": 0.914,
+   "yes": 0.0855,
+   "no": 0.9145,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -355,6 +324,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
+  },
+  {
+   "question": "LoL: BIG vs Unicorns Of Love Sexy Edition (BO5) - Prime League 1st Division Playoffs",
+   "slug": "lol-big1-use1-2026-08-19",
+   "yes": 0.665,
+   "no": 0.335,
+   "volumen": 9929.77936,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: BIG vs Unicorns Of Love Sexy Edition (BO5) - Playoffs de la 1ª División de la Prime League"
   }
  ],
  "historico": {
@@ -364,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 87.8
+ "db_size_mb": 87.87
 }
