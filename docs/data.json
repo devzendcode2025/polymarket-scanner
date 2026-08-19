@@ -1,49 +1,29 @@
 {
- "ts": 1787154636,
- "stamp": "20260819_155036",
+ "ts": 1787155056,
+ "stamp": "20260819_155736",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7c587aa5746ca25dfcaa59642f88909025bc133f9ae3bce2fa7c44bb231ce906",
-   "titulo": "LoL: UCAM Esports Club vs Team Heretics Academy - Game 1 Winner",
-   "slug": "lol-ucam1-hrts-2026-08-19-game1",
-   "outcome": "Team Heretics Academy",
-   "side": "SELL",
-   "size": 2500.0,
-   "price": 0.99,
-   "usd": 2475.0,
-   "ts": 1787154513,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,475 en 'Team Heretics Academy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-ucam1-hrts-2026-08-19-game1",
-   "titulo_es": "LoL: UCAM Esports Club vs Team Heretics Academy - Ganador del Juego 1",
-   "narrativa": "La venta de 2,475 USD sobre Team Heretics Academy en el juego 1 de UCAM vs THA refleja una posición agresiva contra el favorito implícito, aprovechando un posible desajuste en la valoración inicial del mercado. El tamaño de la operación, sin volumen de mercado reportado, sugiere que el operador busca capitalizar un edge basado en información o tendencia reciente del equipo local. Riesgo: mercado de nicho con liquidez potencialmente reducida, lo que puede amplificar el impacto de la orden."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x1086eaea76c9c8c15e09994da22f62f2d9584b06b3d9bb766ed43a2927982684",
-   "titulo": "Will the price of Bitcoin be above $72,000 on August 19?",
-   "slug": "bitcoin-above-72k-on-august-19-2026",
-   "outcome": "No",
+   "market_id": "0x25608ccddca8198bbc32bb1db8849b320829dcf0e8f763ae4480a6e39773eb2e",
+   "titulo": "Will the price of Bitcoin be above $68,000 on August 19?",
+   "slug": "bitcoin-above-68k-on-august-19-2026",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 2000.0,
-   "price": 0.999,
-   "usd": 1998.0,
-   "ts": 1787154514,
+   "size": 5924.467818,
+   "price": 0.9547794279,
+   "usd": 5656.56,
+   "ts": 1787154811,
    "categoria": "Cripto",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,998 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-72k-on-august-19-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $72,000 el 19 de agosto?",
-   "narrativa": "La compra de 1,998 USD en 'No' para Bitcoin por encima de 72,000 USD el 19 de agosto se alinea con un consenso externo de resistencia técnica en ese nivel, tras recientes rechazos de precio. El monto significativo indica confianza en que la probabilidad implícita del mercado sobreestima el rally alcista, ofreciendo un edge positivo en puntos si el activo se mantiene por debajo del umbral. Riesgo: alta volatilidad de Bitcoin y eventos macroeconómicos de última hora pueden invalidar la tesis."
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,657 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-68k-on-august-19-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $68,000 el 19 de agosto?",
+   "narrativa": "El mercado muestra una clara asimetría a favor del 'Sí', con una operación de $5,656 USD que busca capturar un movimiento direccional hacia los $68,000. El consenso externo apunta a una probabilidad implícita superior al 55%, mientras que el precio actual de la opción aún descuenta un escenario más conservador, generando un edge positivo de aproximadamente 8 puntos. Esta diferencia entre el precio de mercado y la estimación probabilística fundamentada en flujos recientes de acumulación de BTC justifica la entrada. Riesgo: volatilidad intradía por noticias macro que puede mover el precio en contra antes del vencimiento."
   }
  ],
  "edges": [
@@ -140,7 +120,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993440002,
+   "volumen": 990196.2993440003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -218,8 +198,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.12,
-   "no": 0.88,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -234,6 +214,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
+  },
+  {
+   "question": "Will Radu Burnete be the next Prime Minister of Romania?",
+   "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 99036.85304000005,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
@@ -258,9 +248,9 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.1585,
-   "no": 0.8415,
-   "volumen": 98829.113919,
+   "yes": 0.1515,
+   "no": 0.8485,
+   "volumen": 98829.11391900002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará MOUZ el CS2 EWC 2026?"
@@ -270,7 +260,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.572946,
+   "volumen": 98743.57294600001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -290,10 +280,20 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 98349.53663100001,
+   "volumen": 98349.536631,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
+  },
+  {
+   "question": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
+   "slug": "atp-tirante-mensik-2026-08-19",
+   "yes": 0.345,
+   "no": 0.655,
+   "volumen": 98320.12210400002,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Cincinnati Open: Thiago Agustín Tirante vs Jakub Mensik"
   },
   {
    "question": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
@@ -318,8 +318,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2395,
-   "no": 0.7605,
+   "yes": 0.2205,
+   "no": 0.7795,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -334,26 +334,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will Truist fail by end of 2026?",
-   "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
-   "volumen": 9973.222389999999,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Quebrará Truist para finales de 2026?"
-  },
-  {
-   "question": "Map Handicap: NAVI (-1.5) vs Legacy (+1.5)",
-   "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
-   "yes": 0.405,
-   "no": 0.595,
-   "volumen": 9968.634194,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
   }
  ],
  "historico": {
@@ -363,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 90.93
+ "db_size_mb": 91.0
 }
