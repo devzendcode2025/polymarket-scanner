@@ -1,10 +1,71 @@
 {
- "ts": 1787097920,
- "stamp": "20260819_000520",
+ "ts": 1787098280,
+ "stamp": "20260819_001120",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x9ceaad602f0a1a97c697826274e7abce6fedd27f2c367d9520300e33dabe934e",
+   "titulo": "Miami Marlins vs. Philadelphia Phillies",
+   "slug": "mlb-mia-phi-2026-08-18",
+   "outcome": "Philadelphia Phillies",
+   "side": "BUY",
+   "size": 3288.56,
+   "price": 0.53,
+   "usd": 1742.94,
+   "ts": 1787098023,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,743 en 'Philadelphia Phillies'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-18",
+   "titulo_es": "Miami Marlins vs. Philadelphia Phillies",
+   "narrativa": "La compra de $1,742.94 USD en los Phillies refleja una convicción institucional clara, con un monto que representa una posición significativa frente al volumen típico del mercado. Este flujo de capital, junto con la ausencia de ventas comparables, sugiere que los operadores grandes están descontando una ventaja de probabilidad a favor de Philadelphia, posiblemente por una rotación de pitcheo favorable o una racha ofensiva reciente. El edge implícito se amplifica si el consenso externo aún no ha ajustado sus modelos, creando una ventana de valor. Riesgo: el monto concentrado puede distorsionar el precio si el mercado es poco profundo."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x9ceaad602f0a1a97c697826274e7abce6fedd27f2c367d9520300e33dabe934e",
+   "titulo": "Miami Marlins vs. Philadelphia Phillies",
+   "slug": "mlb-mia-phi-2026-08-18",
+   "outcome": "Philadelphia Phillies",
+   "side": "BUY",
+   "size": 3270.0,
+   "price": 0.53,
+   "usd": 1733.1,
+   "ts": 1787098020,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,733 en 'Philadelphia Phillies'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-mia-phi-2026-08-18",
+   "titulo_es": "Miami Marlins vs. Philadelphia Phillies",
+   "narrativa": "Otra apuesta de $1,733.10 USD en los Phillies, casi idéntica a la anterior, confirma un patrón de acumulación coordinado que refuerza la señal direccional. La repetición de compras de este tamaño sugiere que los operadores están promediando su entrada, lo que indica una expectativa de movimiento prolongado a favor de Philadelphia. Este flujo consistente, en un evento con volumen de mercado no reportado, puede estar explotando una ineficiencia temporal en la fijación de cuotas. Riesgo: la falta de datos de volumen limita la confirmación de liquidez para una salida rápida."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x70de0744c8c2d7d31fab0f2d75b44e7d7577807cbff2e39b02ab547c68d81b45",
+   "titulo": "Chicago White Sox vs. Chicago Cubs",
+   "slug": "mlb-cws-chc-2026-08-18",
+   "outcome": "Chicago Cubs",
+   "side": "BUY",
+   "size": 2607.96,
+   "price": 0.62,
+   "usd": 1616.94,
+   "ts": 1787098015,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,617 en 'Chicago Cubs'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-cws-chc-2026-08-18",
+   "titulo_es": "Chicago White Sox vs. Chicago Cubs",
+   "narrativa": "La compra de $1,616.94 USD en los Cubs apunta a una oportunidad de valor en un mercado de rivalidad local, donde el sentimiento público puede estar sesgado hacia los White Sox. Este monto, aunque menor que los anteriores, es lo suficientemente grande para mover la línea si el libro está equilibrado, y sugiere que el comprador ve un edge positivo basado en métricas de rendimiento recientes de Chicago Cubs. La ausencia de volumen de mercado reportado obliga a confiar en el tamaño de la orden como proxy de convicción. Riesgo: la volatilidad en juegos de rivalidad puede ser alta y el desenlace incierto."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -77,8 +138,8 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.0205,
-   "no": 0.9795,
+   "yes": 0.02,
+   "no": 0.98,
    "volumen": 9835164.825462993,
    "spread": 0.0,
    "categoria": "Política",
@@ -147,8 +208,8 @@
   {
    "question": "Will Megan Degenfelder win the 2026 Wyoming Governor Republican primary election?",
    "slug": "will-megan-degenfelder-win-the-2026-wyoming-governor-republican-primary-election",
-   "yes": 0.178,
-   "no": 0.822,
+   "yes": 0.188,
+   "no": 0.812,
    "volumen": 99559.76763199997,
    "spread": 0.0,
    "categoria": "Política",
@@ -197,8 +258,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.0655,
+   "no": 0.9345,
    "volumen": 98922.89304,
    "spread": 0.0,
    "categoria": "Política",
@@ -257,8 +318,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0495,
-   "no": 0.9505,
+   "yes": 0.037,
+   "no": 0.963,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +383,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 79.72
+ "db_size_mb": 79.79
 }
