@@ -1,31 +1,10 @@
 {
- "ts": 1787179902,
- "stamp": "20260819_225142",
+ "ts": 1787180262,
+ "stamp": "20260819_225742",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x50f79bcaa54c55033dbc2892b468a146b70f01a0c57d67644d46c501b71716ae",
-   "titulo": "Spread: Cleveland Guardians (-2.5)",
-   "slug": "mlb-sf-cle-2026-08-19-spread-home-2pt5",
-   "outcome": "Cleveland Guardians",
-   "side": "BUY",
-   "size": 7000.0,
-   "price": 0.3899447286,
-   "usd": 2729.61,
-   "ts": 1787179720,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,730 en 'Cleveland Guardians'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-sf-cle-2026-08-19-spread-home-2pt5",
-   "titulo_es": "Margen: Cleveland Guardians (-2.5)",
-   "narrativa": "El mercado muestra una compra significativa de 2,729 USD en el margen de -2.5 para los Guardians, lo que indica una convicción institucional en una victoria por más de dos carreras. Aunque no hay consenso externo disponible, el volumen de la apuesta sugiere que el precio actual no refleja completamente la probabilidad implícita del evento. Riesgo: posible falta de liquidez en mercados de margen específico."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -117,36 +96,6 @@
    "razon": "Polymarket paga este mercado a 15.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 34.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
    "narrativa": "El mercado de Polymarket cotiza el 'Sí' a solo 15.0, frente a un consenso externo de 49.5 en PredictIt, generando un edge de 34.5 puntos a favor de la compra. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real del evento, ofreciendo una oportunidad asimétrica con un potencial de revalorización del 130% si el mercado converge hacia el consenso. Riesgo: el evento es a largo plazo (2026) y la liquidez puede ser limitada, lo que podría dificultar la salida anticipada."
-  },
-  {
-   "tipo": "edge",
-   "question": "Los Angeles Angels vs. Houston Astros",
-   "slug": "mlb-laa-hou-2026-08-19",
-   "url": "https://polymarket.com/market/mlb-laa-hou-2026-08-19",
-   "prob_poly": 41.5,
-   "consenso": 58.7,
-   "edge": 17.2,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "ESPN",
-     "titulo": "Winner: Houston Astros vs Los Angeles Angels (mlb)",
-     "prob": 58.68,
-     "url": "https://www.espn.com/baseball/game/_/gameId/401816594",
-     "deporte": "mlb",
-     "game_id": "401816594",
-     "titulo_es": "Ganador: Houston Astros vs Los Angeles Angels (mlb)"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Otros",
-   "prob": 75,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 41.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 58.7%: diferencia de 17.2 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "Los Angeles Angels vs. Houston Astros",
-   "narrativa": "La probabilidad implícita en Polymarket para que los Angels ganen es de 41.5%, mientras que el consenso externo de ESPN la sitúa en 58.7%, generando un edge de 17.2 puntos a favor de comprar el 'Sí'. Este desfase sugiere que el mercado aún no ha absorbido plenamente las métricas del modelo externo, ofreciendo una entrada con valor esperado positivo si se ejecuta antes de que converja el precio. El monto sugerido de trade debe dimensionarse acorde a la liquidez del mercado, ya que movimientos bruscos podrían ajustar la cuota rápidamente. Riesgo: la diferencia puede deberse a factores de alineación o lesiones no reflejados en el consenso."
   }
  ],
  "top_volumen": [
@@ -233,8 +182,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.057,
+   "no": 0.943,
    "volumen": 99270.71304000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -303,8 +252,8 @@
   {
    "question": "Minnesota Lynx vs. Golden State Valkyries: O/U 163.5",
    "slug": "wnba-min-gsv-2026-08-19-total-163pt5",
-   "yes": 0.475,
-   "no": 0.525,
+   "yes": 0.465,
+   "no": 0.535,
    "volumen": 98469.76025099999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -333,8 +282,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.9505,
-   "no": 0.0495,
+   "yes": 0.953,
+   "no": 0.047,
    "volumen": 9997.610976,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -393,8 +342,8 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.029,
-   "no": 0.971,
+   "yes": 0.0245,
+   "no": 0.9755,
    "volumen": 9964.685226,
    "spread": 0.0,
    "categoria": "Política",
@@ -408,5 +357,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 96.64
+ "db_size_mb": 96.7
 }
