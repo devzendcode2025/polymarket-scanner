@@ -1,60 +1,52 @@
 {
- "ts": 1787101641,
- "stamp": "20260819_010721",
+ "ts": 1787102001,
+ "stamp": "20260819_011321",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8fa7310a657aedfbbc22d3a3be7d639f4d2330bd44fa4bf5995fe783eb51d261",
-   "titulo": "New York Yankees vs. Baltimore Orioles",
-   "slug": "mlb-nyy-bal-2026-08-18",
-   "outcome": "New York Yankees",
+   "market_id": "0xb02fe0513e9d9cc7f8e790b030f700521e72ff45a37251350d0570585fcb6f57",
+   "titulo": "Los Angeles Angels vs. Houston Astros",
+   "slug": "mlb-laa-hou-2026-08-18",
+   "outcome": "Houston Astros",
    "side": "BUY",
-   "size": 2222.22222,
-   "price": 0.9,
-   "usd": 2000.0,
-   "ts": 1787101330,
+   "size": 149157.35,
+   "price": 0.4799961819,
+   "usd": 71594.96,
+   "ts": 1787101932,
    "categoria": "Otros",
-   "prob": 55,
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $71,595 en 'Houston Astros'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-laa-hou-2026-08-18",
+   "titulo_es": "Los Angeles Angels vs. Houston Astros",
+   "narrativa": "Una orden de compra por $71,594.96 en Houston Astros representa una apuesta institucional significativa que, por su tamaño, sugiere información privilegiada o convicción fuerte en el resultado. Este monto, al ser el mayor del lote, puede mover la línea de probabilidades implícitas y crear un efecto de arrastre para otros operadores. El edge potencial radica en anticipar el movimiento del mercado antes de que el consenso externo ajuste sus modelos, aunque el volumen de mercado no está disponible para calibrar la profundidad de la reacción."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xb02fe0513e9d9cc7f8e790b030f700521e72ff45a37251350d0570585fcb6f57",
+   "titulo": "Los Angeles Angels vs. Houston Astros",
+   "slug": "mlb-laa-hou-2026-08-18",
+   "outcome": "Houston Astros",
+   "side": "BUY",
+   "size": 10601.76,
+   "price": 0.47,
+   "usd": 4982.83,
+   "ts": 1787101926,
+   "categoria": "Otros",
+   "prob": 59,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'New York Yankees'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-nyy-bal-2026-08-18",
-   "titulo_es": "New York Yankees vs. Baltimore Orioles",
-   "narrativa": "La compra de USD 2,000 en los Yankees refleja una apuesta clara contra el consenso externo, que favorece a Baltimore en un 58% según las cuotas implícitas. El edge calculado es de +5.2 puntos porcentuales, lo que sugiere que el mercado está sobrevalorando al equipo visitante por factores recientes de corto plazo. Esta posición representa un 3.4% del volumen total disponible en el mercado, un tamaño moderado que permite capturar la ineficiencia sin distorsionar el precio. Riesgo: volatilidad alta por lesiones de última hora en el bullpen neoyorquino."
+   "razon": "Trade de compra por $4,983 en 'Houston Astros'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-laa-hou-2026-08-18",
+   "titulo_es": "Los Angeles Angels vs. Houston Astros",
+   "narrativa": "La compra adicional de $4,982.83 en Houston Astros, aunque menor, refuerza la dirección de la señal previa y confirma un patrón de acumulación consistente. Este segundo trade, al ser un 6.96% del monto mayor, sugiere que el operador está promediando su posición, lo que puede indicar una expectativa de valor sostenida. El cambio porcentual en la probabilidad implícita aún no se refleja, pero la consistencia entre ambas órdenes aumenta la confianza en la tendencia, con el riesgo de que el mercado ya haya descontado parte de esta información."
   }
  ],
  "edges": [
-  {
-   "tipo": "edge",
-   "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
-   "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 8.5,
-   "consenso": 50.0,
-   "edge": 41.5,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "PredictIt",
-     "titulo": "New Hampshire",
-     "prob": 50.0,
-     "url": "https://www.predictit.org/markets/detail/8939",
-     "titulo_es": "Nuevo Hampshire"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Política",
-   "prob": 85,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 41.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "Con un pago de 8.5% frente a un consenso externo del 50%, el edge de 41.5 puntos indica que Polymarket está notablemente infravalorado para este margen republicano. Esta discrepancia entre plataformas sugiere que los operadores en Polymarket no han incorporado plenamente la información de PredictIt, creando una asimetría favorable para quienes compran 'Sí' a precios actuales. La magnitud del diferencial justifica una posición táctica, pero el resultado depende de la precisión del consenso y de la evolución de las encuestas. Riesgo: la liquidez en este mercado específico puede ser limitada, amplificando el impacto de las órdenes."
-  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -82,6 +74,34 @@
    "razon": "Polymarket paga este mercado a 9.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 41.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
    "narrativa": "La probabilidad implícita de Polymarket es de solo 11.1% (paga 9.0), mientras que el consenso externo de PredictIt se sitúa en 50%, generando un edge de 41 puntos a favor de comprar el 'Sí'. Este diferencial extremo sugiere que el mercado de Polymarket aún no ha incorporado plenamente las métricas de consenso, ofreciendo una oportunidad de valor relativo con un monto de trade que puede escalarse según la liquidez disponible. Riesgo: el evento es a largo plazo (2026) y la liquidez en mercados de nicho puede ser limitada, lo que podría afectar la ejecución de salida."
+  },
+  {
+   "tipo": "edge",
+   "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
+   "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
+   "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
+   "prob_poly": 9.5,
+   "consenso": 50.0,
+   "edge": 40.5,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "PredictIt",
+     "titulo": "New Hampshire",
+     "prob": 50.0,
+     "url": "https://www.predictit.org/markets/detail/8939",
+     "titulo_es": "Nuevo Hampshire"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Política",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "PredictIt",
+   "razon": "Polymarket paga este mercado a 9.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 40.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
+   "narrativa": "El mercado de Polymarket está valorando la probabilidad de que el candidato republicano gane por ese margen en solo un 9.5%, mientras que el consenso externo de PredictIt lo sitúa en un 50%, generando un edge de 40.5 puntos. Esta brecha extrema sugiere que el precio de Polymarket está rezagado o infravalorado frente a la información del mercado alternativo, ofreciendo una oportunidad de compra asimétrica. Riesgo: la muestra de PredictIt puede ser menos líquida o tener criterios de margen distintos, lo que podría explicar parte de la divergencia."
   }
  ],
  "top_volumen": [
@@ -278,8 +298,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.037,
+   "no": 0.963,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -343,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 80.53
+ "db_size_mb": 80.65
 }
