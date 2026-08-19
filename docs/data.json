@@ -1,29 +1,29 @@
 {
- "ts": 1787150615,
- "stamp": "20260819_144335",
+ "ts": 1787151035,
+ "stamp": "20260819_145035",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x1a11049b8618182739af71251dbdbe36edd2870f75f2318e604df3b9b77b7081",
-   "titulo": "Will the price of Bitcoin be above $64,000 on August 19?",
-   "slug": "bitcoin-above-64k-on-august-19-2026",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 1993.0,
-   "price": 0.999,
-   "usd": 1991.01,
-   "ts": 1787150607,
-   "categoria": "Cripto",
+   "market_id": "0x3be5b82aa2ac4b7290344c623e4b75cc5df3f8d8b17355bece2e0d8c6a1885c4",
+   "titulo": "LoL: Team WE vs EDward Gaming - Game 2 Winner",
+   "slug": "lol-we-edg-2026-08-19-game2",
+   "outcome": "Team WE",
+   "side": "BUY",
+   "size": 2550.28,
+   "price": 0.69,
+   "usd": 1759.69,
+   "ts": 1787150904,
+   "categoria": "Deportes",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,991 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-64k-on-august-19-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 19 de agosto?",
-   "narrativa": "El mercado asigna una probabilidad implícita del 58% a que Bitcoin supere los $64,000, pero el consenso externo de analistas técnicos se sitúa en un 63%, lo que genera un edge de +5 puntos a favor de la venta. Con un monto de $1,991 y un desvío bajo en la liquidez del libro, esta posición aprovecha la sobrevaloración del 'Yes' sin asumir un riesgo direccional extremo. Riesgo: posible compresión de volatilidad antes de la fecha de resolución."
+   "razon": "Trade de compra por $1,760 en 'Team WE'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-we-edg-2026-08-19-game2",
+   "titulo_es": "LoL: Team WE vs EDward Gaming - Ganador del Juego 2",
+   "narrativa": "La compra en Team WE para el Juego 2 contra EDward Gaming presenta un edge positivo de +3.2 puntos sobre el consenso externo, con un monto de $1,759.69 que refleja una convicción institucional clara. El volumen de mercado no reportado sugiere que la posición puede moverse sin fricción, amplificando el potencial de captura de valor antes de que el precio se ajuste al verdadero diferencial de rendimiento entre ambos equipos. Riesgo: la ausencia de datos de liquidez puede generar deslizamientos si la apuesta se cierra en momentos de baja actividad."
   }
  ],
  "edges": [
@@ -33,14 +33,14 @@
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "prob_poly": 8.0,
-   "consenso": 50.5,
-   "edge": 42.5,
+   "consenso": 50.0,
+   "edge": 42.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "PredictIt",
      "titulo": "New Hampshire",
-     "prob": 50.5,
+     "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
      "titulo_es": "Nuevo Hampshire"
     }
@@ -51,9 +51,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 8.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 42.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 8.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 42.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a 8.0, muy por debajo del consenso externo de PredictIt del 50.5%, lo que genera un edge de 42.5 puntos a favor de la compra. Esta discrepancia extrema sugiere que el precio actual no refleja la probabilidad real del evento, ofreciendo una oportunidad de valor significativo para quien busca exposición a un resultado con alta probabilidad implícita. El monto del trade debe ajustarse al tamaño de la posición, pero el diferencial de precios entre plataformas es el mayor que se ve en mercados de gobernadores estatales. Riesgo: la baja liquidez en Polymarket para este contrato puede ampliar el deslizamiento y dificultar la salida."
+   "narrativa": "El mercado de Polymarket cotiza esta opción al 8%, mientras que el consenso externo de PredictIt la sitúa en 50 puntos, generando un edge de 42 puntos a favor de la compra del 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real estimada por fuentes alternativas, ofreciendo una oportunidad de valor relativo significativa. El monto del trade debe calibrarse considerando que un movimiento hacia el consenso implicaría una revalorización sustancial, aunque la materialización depende de la dinámica electoral final. Riesgo: el consenso externo podría estar desactualizado o reflejar un escenario distinto al de Polymarket."
   },
   {
    "tipo": "edge",
@@ -61,14 +61,14 @@
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "prob_poly": 13.0,
-   "consenso": 50.5,
-   "edge": 37.5,
+   "consenso": 50.0,
+   "edge": 37.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "PredictIt",
      "titulo": "New Hampshire",
-     "prob": 50.5,
+     "prob": 50.0,
      "url": "https://www.predictit.org/markets/detail/8939",
      "titulo_es": "Nuevo Hampshire"
     }
@@ -79,9 +79,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 13.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.5%: diferencia de 37.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 13.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 50.0%: diferencia de 37.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "La probabilidad implícita en Polymarket es de apenas un 7.7%, frente al consenso externo de PredictIt del 50.5%, lo que arroja un edge de 37.5 puntos a favor de comprar el 'Sí'. Este diferencial extremo sugiere que el mercado está descontando un escenario muy poco probable, y el pago de 13.0 por acción (frente a un precio justo de ~5.05) ofrece una asimetría favorable si el margen se materializa en el rango indicado. La oportunidad radica en capitalizar el error de fijación de precios antes de que el mercado se ajuste al consenso. Riesgo: baja liquidez en este mercado específico y posible retraso en la resolución del evento."
+   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a solo 13.0, mientras que el consenso externo de PredictIt lo sitúa en 50.0, generando un edge de 37 puntos a favor de la compra. Esta brecha sugiere una posible infravaloración significativa de la probabilidad real del resultado, ofreciendo una entrada atractiva para capturar valor a largo plazo. Riesgo: el evento es a 2026 y la liquidez puede ser limitada, lo que podría afectar la salida de la posición."
   }
  ],
  "top_volumen": [
@@ -90,7 +90,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9910440.05182999,
+   "volumen": 9910440.05183,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -100,10 +100,20 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995401.5678489999,
+   "volumen": 995401.567849,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
+  },
+  {
+   "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
+   "yes": 0.1315,
+   "no": 0.8685,
+   "volumen": 990196.2993440003,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
    "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -126,6 +136,16 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "Will Wildberries announce bankruptcy before 2027?",
+   "slug": "will-wildberries-announce-bankruptcy-before-2027-20260723171611669",
+   "yes": 0.185,
+   "no": 0.815,
+   "volumen": 99953.26956200002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Anunciará Wildberries la quiebra antes de 2027?"
+  },
+  {
    "question": "Will the price of Bitcoin be above $58,000 on August 20?",
    "slug": "bitcoin-above-58k-on-august-20-2026",
    "yes": 0.9995,
@@ -134,16 +154,6 @@
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Bitcoin por encima de $58,000 el 20 de agosto?"
-  },
-  {
-   "question": "Will Wildberries announce bankruptcy before 2027?",
-   "slug": "will-wildberries-announce-bankruptcy-before-2027-20260723171611669",
-   "yes": 0.185,
-   "no": 0.815,
-   "volumen": 99904.26956200002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Anunciará Wildberries la quiebra antes de 2027?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -170,26 +180,16 @@
    "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
    "yes": 0.018,
    "no": 0.982,
-   "volumen": 99522.341343,
+   "volumen": 99573.633614,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará B8 la CS2 EWC 2026?"
   },
   {
-   "question": "Iran-Oman Hormuz Agreement by August 22?",
-   "slug": "iran-oman-hormuz-agreement-by-august-22",
-   "yes": 0.075,
-   "no": 0.925,
-   "volumen": 99306.565988,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Acuerdo Irán-Omán sobre Ormuz antes del 22 de agosto?"
-  },
-  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.105,
-   "no": 0.895,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -206,11 +206,21 @@
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
   },
   {
+   "question": "Will Elon Musk post 220-239 tweets from August 14 to August 21, 2026?",
+   "slug": "elon-musk-of-tweets-august-14-august-21-220-239",
+   "yes": 0.066,
+   "no": 0.934,
+   "volumen": 99089.614764,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 220 y 239 tuits del 14 de agosto al 21 de agosto de 2026?"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0685,
-   "no": 0.9315,
-   "volumen": 99036.85304,
+   "yes": 0.067,
+   "no": 0.933,
+   "volumen": 99036.85304000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -260,7 +270,7 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 9998.64818,
+   "volumen": 9998.648180000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
@@ -278,9 +288,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.234,
-   "no": 0.766,
-   "volumen": 9990.964864000001,
+   "yes": 0.2465,
+   "no": 0.7535,
+   "volumen": 9990.964864000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -324,24 +334,14 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will Jake Auchincloss be the MA-04 Democratic nominee?",
-   "slug": "will-jake-auchincloss-be-the-ma-04-democratic-nominee-20260727180932561",
-   "yes": 0.93,
-   "no": 0.07,
-   "volumen": 9954.083013999996,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Será Jake Auchincloss el nominado demócrata por MA-04?"
   }
  ],
  "historico": {
-  "ts": 1787149074,
+  "ts": 1787150937,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 90.0
+ "db_size_mb": 90.08
 }
