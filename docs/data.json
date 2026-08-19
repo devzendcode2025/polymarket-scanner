@@ -1,29 +1,49 @@
 {
- "ts": 1787168440,
- "stamp": "20260819_194040",
+ "ts": 1787168800,
+ "stamp": "20260819_194640",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x490f59a0283e3d0e5e9e7f1343e3c7a2bc2193ef269f8b30fa292fcf5cd37c36",
-   "titulo": "Celtic FC vs. LASK Linz: 1st Half O/U 1.5",
-   "slug": "ucl-cel-lin2-2026-08-19-first-half-total-1pt5",
-   "outcome": "Over",
+   "market_id": "0xaad2727a01e09fd1b0d84e286a63a94998efe35fce83a65a3c58dfa9b54dff33",
+   "titulo": "Strait of Hormuz traffic returns to normal by September 15?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-15-20260810150912478",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 3941.0,
+   "price": 0.98,
+   "usd": 3862.18,
+   "ts": 1787168626,
+   "categoria": "Tecnología",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $3,862 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-september-15-20260810150912478",
+   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad para el 15 de septiembre?",
+   "narrativa": "Una venta de 3,862 USD en 'No' a 15 días del plazo indica una apuesta direccional fuerte contra la normalización del tráfico, con un monto que representa una posición significativa para un mercado sin volumen reportado. La ausencia de datos de volumen sugiere que el vendedor busca capturar la prima completa si el evento no se cumple, pero la falta de contrapartida puede ampliar el deslizamiento. Riesgo: mercado ilíquido y alta volatilidad en la resolución."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x2c1db8df1aa55e92c4bf462b11ace78e0ef682369ca740ed2b6e6c067adb9f8f",
+   "titulo": "Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5",
+   "slug": "mlb-ari-bos-2026-08-19-total-8pt5",
+   "outcome": "Under",
    "side": "BUY",
-   "size": 1015.235234,
-   "price": 0.9989999992,
-   "usd": 1014.22,
-   "ts": 1787168334,
+   "size": 2727.277776,
+   "price": 0.54,
+   "usd": 1472.73,
+   "ts": 1787168628,
    "categoria": "Otros",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,014 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ucl-cel-lin2-2026-08-19-first-half-total-1pt5",
-   "titulo_es": "Celtic FC vs. LASK Linz: 1er Tiempo Más/Menos 1.5",
-   "narrativa": "La compra de Over 1.5 en el primer tiempo entre Celtic FC y LASK Linz muestra una entrada de $1,014 USD, lo que sugiere convicción direccional en un mercado con alta probabilidad de actividad temprana. El edge se concentra en el desequilibrio entre el flujo de órdenes y el precio implícito, que aún no ha absorbido completamente la presión compradora. Riesgo: la liquidez del mercado es limitada, lo que puede amplificar el deslizamiento en la ejecución."
+   "razon": "Trade de compra por $1,473 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-ari-bos-2026-08-19-total-8pt5",
+   "titulo_es": "Arizona Diamondbacks vs. Boston Red Sox: Más/Menos 8.5",
+   "narrativa": "La compra de 1,472 USD en 'Under 8.5' refleja una convicción en un juego de baja anotación, probablemente basada en los abridores y el parque, aunque el monto es moderado frente a mercados deportivos típicos. Sin volumen de mercado reportado, el trade sugiere una oportunidad de valor si el total proyectado está sobrevalorado, pero la falta de liquidez puede dificultar la salida. Riesgo: resultados impredecibles en MLB y posible cierre del mercado antes del evento."
   }
  ],
  "edges": [
@@ -60,9 +80,9 @@
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 13.5,
+   "prob_poly": 14.0,
    "consenso": 49.5,
-   "edge": 36.0,
+   "edge": 35.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -79,9 +99,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 13.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 36.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 14.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 35.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "El mercado de Polymarket cotiza la probabilidad de una victoria republicana por margen del 9%-12% en solo 13.5 puntos, mientras que el consenso externo de PredictIt la ubica en 49.5, generando un edge de 36 puntos a favor de comprar el 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la información disponible, ofreciendo una oportunidad de valor con un potencial de revalorización del 267% si el mercado converge al consenso. El monto del trade no se especifica, pero la magnitud del desvío justifica una posición proporcional al apetito de riesgo. Riesgo: eventos de última hora o baja liquidez en el tramo estrecho del margen podrían retrasar la convergencia."
+   "narrativa": "El consenso externo de PredictIt sitúa la probabilidad en 49.5%, mientras Polymarket paga 14.0 (≈7.1% de probabilidad implícita), generando un edge de 35.5 puntos porcentuales a favor del 'Sí'. Esta brecha extrema sugiere una fijación de precios ineficiente, aunque el tamaño del mercado puede limitar la ejecución de órdenes grandes. Riesgo: liquidez reducida y posible error en el consenso externo."
   }
  ],
  "top_volumen": [
@@ -130,7 +150,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982380.2362579997,
+   "volumen": 982380.2362579996,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -138,8 +158,8 @@
   {
    "question": "Will Aurora Gaming Win the CS2 EWC 2026?",
    "slug": "will-aurora-gaming-win-the-cs2-ewc-2026-20260810160005088",
-   "yes": 0.015,
-   "no": 0.985,
+   "yes": 0.0185,
+   "no": 0.9815,
    "volumen": 99803.837417,
    "spread": 0.0,
    "categoria": "Otros",
@@ -190,7 +210,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.0645,
    "no": 0.9355,
-   "volumen": 99036.85304000005,
+   "volumen": 99036.85303999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -210,7 +230,7 @@
    "slug": "will-real-sociedad-win-the-2026-27-laliga-championship-20260701200737387",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98856.38271600001,
+   "volumen": 98856.38271600002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
@@ -240,7 +260,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9805,
    "no": 0.0195,
-   "volumen": 98349.53663100002,
+   "volumen": 98349.53663099997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -308,8 +328,8 @@
   {
    "question": "Spread: FC Barcelona (-1.5)",
    "slug": "clf-bar-ahl-2026-08-19-spread-home-1pt5",
-   "yes": 0.63,
-   "no": 0.37,
+   "yes": 0.71,
+   "no": 0.29,
    "volumen": 9952.591888000008,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -343,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 93.99
+ "db_size_mb": 94.06
 }
