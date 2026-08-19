@@ -1,10 +1,31 @@
 {
- "ts": 1787167599,
- "stamp": "20260819_192639",
+ "ts": 1787167959,
+ "stamp": "20260819_193239",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x5d3a6dd794345ccb5fa3fa79b4f8a994fcbaf9edb350041bae6272103615927c",
+   "titulo": "Club Atlético de Madrid vs. Málaga CF: 1st Half O/U 1.5",
+   "slug": "lal-mad-mala-2026-08-19-first-half-total-1pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 2409.638552,
+   "price": 0.8299999999,
+   "usd": 2000.0,
+   "ts": 1787167729,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-mad-mala-2026-08-19-first-half-total-1pt5",
+   "titulo_es": "Club Atlético de Madrid vs. Málaga CF: 1er Tiempo Más/Menos 1.5",
+   "narrativa": "La compra de Under 1.5 en el primer tiempo entre Atlético de Madrid y Málaga muestra un edge de +8.2 puntos frente al consenso externo del 42.1%, con un desvío estándar de 3.4% que respalda la confianza en la selección. El monto de $2,000 representa un 1.2% del volumen proyectado del mercado, lo que permite una ejecución discreta sin distorsionar el precio. Riesgo: la baja liquidez en mercados de primera parte puede ampliar el spread en momentos de alta volatilidad."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -39,9 +60,9 @@
    "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
    "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
    "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 13.0,
+   "prob_poly": 13.5,
    "consenso": 49.5,
-   "edge": 36.5,
+   "edge": 36.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -58,9 +79,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 13.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 36.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 13.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 36.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "La opción republicana para un margen del 9%-12% se negocia a 13.0 en Polymarket, mientras que el consenso externo de PredictIt la sitúa en 49.5, generando un edge de 36.5 puntos que favorece claramente la compra del 'Sí'. Esta diferencia porcentual del 73.7% sobre el precio actual indica que el mercado está infravalorando la probabilidad de ese rango específico, probablemente por un sesgo de sobreponderación en otros intervalos. Aprovechar esta discrepancia permite entrar con un costo bajo y un potencial de revalorización alto si el consenso se materializa, aunque la precisión del margen exacto añade varianza al resultado. Riesgo: el spread entre plataformas puede deberse a diferencias en la definición del evento o a liquidez reducida en ese tramo."
+   "narrativa": "El mercado de Polymarket cotiza la probabilidad de una victoria republicana por margen del 9%-12% en solo 13.5 puntos, mientras que el consenso externo de PredictIt la ubica en 49.5, generando un edge de 36 puntos a favor de comprar el 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la información disponible, ofreciendo una oportunidad de valor con un potencial de revalorización del 267% si el mercado converge al consenso. El monto del trade no se especifica, pero la magnitud del desvío justifica una posición proporcional al apetito de riesgo. Riesgo: eventos de última hora o baja liquidez en el tramo estrecho del margen podrían retrasar la convergencia."
   }
  ],
  "top_volumen": [
@@ -197,8 +218,8 @@
   {
    "question": "Will Aurora Gaming Win the CS2 EWC 2026?",
    "slug": "will-aurora-gaming-win-the-cs2-ewc-2026-20260810160005088",
-   "yes": 0.025,
-   "no": 0.975,
+   "yes": 0.0165,
+   "no": 0.9835,
    "volumen": 98804.86741699999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -247,8 +268,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2485,
-   "no": 0.7515,
+   "yes": 0.2495,
+   "no": 0.7505,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 93.79
+ "db_size_mb": 93.86
 }
