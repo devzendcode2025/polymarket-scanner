@@ -1,40 +1,19 @@
 {
- "ts": 1787174621,
- "stamp": "20260819_212341",
+ "ts": 1787174981,
+ "stamp": "20260819_212941",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
-   "titulo": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-   "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 2500.0,
-   "price": 0.88,
-   "usd": 2200.0,
-   "ts": 1787174634,
-   "categoria": "Política",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,200 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
-   "titulo_es": "¿Controlará el Partido Demócrata la Cámara de Representantes después de las elecciones de mitad de mandato de 2026?",
-   "narrativa": "La compra de 'Yes' a 2200 USD en este mercado refleja una apuesta direccional al control demócrata de la Cámara en 2026, un escenario que los agregadores de encuestas aún no descartan pese al ciclo electoral adverso. El edge se sustenta en la posibilidad de que el voto de castigo al partido en el poder y la movilización progresista en distritos clave superen el consenso externo, que tiende a sobreponderar la ventaja republicana a esta distancia. Riesgo: el mercado es de baja liquidez y el evento está a más de 18 meses, por lo que el precio puede moverse bruscamente con noticias legislativas o cambios en el mapa electoral."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
    "question": "Will OpenAI’s Astra model be released by August 31, 2026?",
    "slug": "will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
    "url": "https://polymarket.com/market/will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
-   "prob_poly": 8.5,
+   "prob_poly": 9.5,
    "consenso": 85.5,
-   "edge": 77.0,
+   "edge": 76.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -58,9 +37,9 @@
    "confianza": "alta",
    "horizonte": "72h",
    "fuentes_nombres": "Manifold, Manifold",
-   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 2 fuente(s) externa(s) (Manifold, Manifold) lo paga a 85.5%: diferencia de 77.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 9.5% y el consenso de 2 fuente(s) externa(s) (Manifold, Manifold) lo paga a 85.5%: diferencia de 76.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Se lanzará el modelo Astra de OpenAI antes del 31 de agosto de 2026?",
-   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a 8.5, mientras que el consenso externo de Manifold lo sitúa en 85.5, generando un edge de 77 puntos a favor de la compra. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad realista de un lanzamiento antes de la fecha límite, ofreciendo una oportunidad de entrada con un desvío significativo respecto a la valoración de otras plataformas. Riesgo: la liquidez puede ser limitada y el evento depende de anuncios corporativos no confirmados."
+   "narrativa": "El mercado de Polymarket cotiza el lanzamiento del modelo Astra a solo 9.5, mientras que el consenso externo de Manifold lo sitúa en 85.5, generando un edge de 76 puntos a favor de la compra del 'Sí'. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real estimada por otras plataformas, ofreciendo una oportunidad de valor con un desvío significativo. El monto del trade se posiciona para capturar la convergencia de precios si el consenso externo se materializa, aunque el riesgo principal es que Polymarket esté descontando información no pública sobre retrasos en el desarrollo."
   },
   {
    "tipo": "edge",
@@ -183,8 +162,8 @@
   {
    "question": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
    "slug": "val-c9-bst1-2026-08-19",
-   "yes": 0.655,
-   "no": 0.345,
+   "yes": 0.685,
+   "no": 0.315,
    "volumen": 99789.09436499998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -203,8 +182,8 @@
   {
    "question": "Will Bitcoin reach $70,000 on August 19?",
    "slug": "will-bitcoin-reach-70k-on-august-19-2026",
-   "yes": 0.4655,
-   "no": 0.5345,
+   "yes": 0.6655,
+   "no": 0.3345,
    "volumen": 99586.05346600001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -213,8 +192,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.0565,
+   "no": 0.9435,
    "volumen": 99270.71303999997,
    "spread": 0.0,
    "categoria": "Política",
@@ -303,8 +282,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.255,
-   "no": 0.745,
+   "yes": 0.229,
+   "no": 0.771,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -343,8 +322,8 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.029,
-   "no": 0.971,
+   "yes": 0.0255,
+   "no": 0.9745,
    "volumen": 9964.685226,
    "spread": 0.0,
    "categoria": "Política",
@@ -372,11 +351,11 @@
   }
  ],
  "historico": {
-  "ts": 1787173080,
+  "ts": 1787174907,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 95.46
+ "db_size_mb": 95.55
 }
