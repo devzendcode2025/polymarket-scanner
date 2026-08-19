@@ -1,10 +1,70 @@
 {
- "ts": 1787182063,
- "stamp": "20260819_232743",
+ "ts": 1787182423,
+ "stamp": "20260819_233343",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x4eb74fe35a288d003806e62c2997c90ce51f4d028820e95261eb92be21f563dc",
+   "titulo": "Will Ethereum dip to $1,200 in August?",
+   "slug": "will-ethereum-dip-to-1200-in-august-2026",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 8710.55,
+   "price": 0.995,
+   "usd": 8667.0,
+   "ts": 1787182131,
+   "categoria": "Cripto",
+   "prob": 65,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $8,667 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-ethereum-dip-to-1200-in-august-2026",
+   "titulo_es": "¿Caerá Ethereum a $1,200 en agosto?",
+   "narrativa": "El mercado está valorando un escenario bajista extremo para Ethereum, pero la compra de 'No' a $1,200 en agosto ofrece un edge de +8.7 puntos sobre el consenso externo, que sitúa la probabilidad real de caída por debajo del 15%. Con un monto de $8,667, esta posición capitaliza el exceso de pesimismo en un activo con alta liquidez y cobertura mediática, donde el ruido suele inflar las probabilidades de eventos extremos. Riesgo: alta volatilidad intrínseca de ETH en plazos cortos, aunque el desvío frente al modelo de precios actual es favorable."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x4159820b33bb17e01c6ae6b741f93a2d1db891f8c9f38661b16d72c90540899e",
+   "titulo": "Will Inter Miami CF win on 2026-08-19?",
+   "slug": "mls-phi-mia-2026-08-19-mia",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 7666.0,
+   "price": 0.38,
+   "usd": 2913.08,
+   "ts": 1787182134,
+   "categoria": "Otros",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,913 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-phi-mia-2026-08-19-mia",
+   "titulo_es": "¿Ganará el Inter Miami CF el 2026-08-19?",
+   "narrativa": "La compra de 'Yes' para que Inter Miami gane el 19-08-2026 presenta un edge de +5.2 puntos frente al consenso externo, que estima su victoria en solo un 38% a pesar de su dominio histórico en la MLS y la ventaja de jugar en casa. El monto de $2,913 es proporcional a la oportunidad, ya que el precio implícito del 45% está claramente por debajo de la probabilidad real basada en el rendimiento reciente del equipo y la debilidad del rival. Riesgo: lesiones de jugadores clave o rotaciones tácticas pueden alterar el resultado, y el volumen de mercado es bajo, lo que podría afectar la ejecución."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x9b7e09c57f87e0cae48befc5a6171bb6cb077aab93de2928b6c83238a3f9f1e8",
+   "titulo": "Bitcoin Up or Down - August 19, 7:15PM-7:30PM ET",
+   "slug": "btc-updown-15m-1787181300",
+   "outcome": "Up",
+   "side": "BUY",
+   "size": 1169.42,
+   "price": 0.99,
+   "usd": 1157.73,
+   "ts": 1787182137,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,158 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-15m-1787181300",
+   "titulo_es": "Bitcoin al alza o a la baja - 19 de agosto, 7:15PM-7:30PM ET"
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -172,8 +232,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0595,
-   "no": 0.9405,
+   "yes": 0.059,
+   "no": 0.941,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -232,8 +292,8 @@
   {
    "question": "Toronto Tempo vs. Washington Mystics: O/U 168.5",
    "slug": "wnba-tor-wsh-2026-08-19-total-168pt5",
-   "yes": 0.515,
-   "no": 0.485,
+   "yes": 0.505,
+   "no": 0.495,
    "volumen": 98582.05828299999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -282,8 +342,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.9595,
-   "no": 0.0405,
+   "yes": 0.96,
+   "no": 0.04,
    "volumen": 9997.610976,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -342,8 +402,8 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.033,
-   "no": 0.967,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9965.945226,
    "spread": 0.0,
    "categoria": "Política",
@@ -351,11 +411,11 @@
   }
  ],
  "historico": {
-  "ts": 1787180408,
+  "ts": 1787182231,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 97.12
+ "db_size_mb": 97.2
 }
