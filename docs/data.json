@@ -1,51 +1,10 @@
 {
- "ts": 1787109563,
- "stamp": "20260819_031923",
+ "ts": 1787109983,
+ "stamp": "20260819_032623",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x3e3f17577499b0ba14d7119c3db6e33717eda050f6a4c683fc4dd571e3747eff",
-   "titulo": "Spread: Los Angeles Dodgers (-2.5)",
-   "slug": "mlb-lad-col-2026-08-18-spread-away-2pt5",
-   "outcome": "Colorado Rockies",
-   "side": "BUY",
-   "size": 2805.97,
-   "price": 0.66,
-   "usd": 1851.94,
-   "ts": 1787109441,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,852 en 'Colorado Rockies'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-lad-col-2026-08-18-spread-away-2pt5",
-   "titulo_es": "Spread: Los Angeles Dodgers (-2.5)",
-   "narrativa": "La acumulación de 1,851.94 USD en una sola operación contra el spread de -2.5 de los Dodgers, apostando a los Rockies, sugiere que un operador grande percibe valor en el lado perdedor del consenso. Este monto, inusualmente alto para un mercado secundario, puede indicar información privilegiada o una corrección esperada en la línea, generando un edge potencial si el mercado sobreestima la ventaja local. Riesgo: el volumen de mercado no está reportado, lo que podría implicar liquidez limitada y movimientos bruscos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3e3f17577499b0ba14d7119c3db6e33717eda050f6a4c683fc4dd571e3747eff",
-   "titulo": "Spread: Los Angeles Dodgers (-2.5)",
-   "slug": "mlb-lad-col-2026-08-18-spread-away-2pt5",
-   "outcome": "Colorado Rockies",
-   "side": "BUY",
-   "size": 1675.13,
-   "price": 0.66,
-   "usd": 1105.59,
-   "ts": 1787109445,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,106 en 'Colorado Rockies'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-lad-col-2026-08-18-spread-away-2pt5",
-   "titulo_es": "Spread: Los Angeles Dodgers (-2.5)",
-   "narrativa": "Una segunda compra de 1,105.59 USD en el mismo mercado refuerza la tesis de que el dinero inteligente está apostando contra la narrativa pública de los Dodgers. La repetición de flujos en un corto período, con montos superiores a los típicos minoristas, sugiere una convicción institucional que podría explotar si el mercado ajusta su probabilidad implícita. El edge se basa en la divergencia entre el consenso externo y la acción de precio, aunque el desvío no se especifica. Riesgo: la falta de datos de volumen total dificulta evaluar la profundidad real del mercado."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -118,9 +77,9 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.026,
-   "no": 0.974,
-   "volumen": 9835256.238014985,
+   "yes": 0.0265,
+   "no": 0.9735,
+   "volumen": 9839186.459118001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -140,7 +99,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 989269.2720739999,
+   "volumen": 989269.2720740001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -150,7 +109,7 @@
    "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 983750.995509,
+   "volumen": 983750.9955090001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
@@ -240,7 +199,7 @@
    "slug": "israel-x-iran-ceasefire-continues-through-october-31",
    "yes": 0.745,
    "no": 0.255,
-   "volumen": 98713.25017200003,
+   "volumen": 98713.25017200001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Continúa el alto el fuego entre Israel e Irán hasta el 31 de octubre?"
@@ -260,7 +219,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98570.572946,
+   "volumen": 98570.57294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -288,8 +247,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0255,
-   "no": 0.9745,
+   "yes": 0.027,
+   "no": 0.973,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -363,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 82.38
+ "db_size_mb": 82.44
 }
