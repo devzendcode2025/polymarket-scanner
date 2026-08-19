@@ -1,110 +1,10 @@
 {
- "ts": 1787147434,
- "stamp": "20260819_135034",
+ "ts": 1787147854,
+ "stamp": "20260819_135734",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
-  {
-   "tipo": "momentum",
-   "market_id": "3655489",
-   "question": "Will the highest temperature in Amsterdam be 22°C on August 19?",
-   "slug": "highest-temperature-in-amsterdam-on-august-19-2026-22c",
-   "tags": [],
-   "categoria": "Otros",
-   "yes_antes": 0.006,
-   "yes_ahora": 0.005,
-   "cambio_pct": -8.3,
-   "direccion": "BAJADA",
-   "volumen": 9893.901017,
-   "prob": 58,
-   "confianza": "baja",
-   "horizonte": "24h",
-   "razon": "Yes bajada 8.3% vs el scan anterior (0.006 → 0.005) en un mercado con $9,894 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/highest-temperature-in-amsterdam-on-august-19-2026-22c",
-   "question_es": "¿Será la temperatura máxima en Ámsterdam de 22°C el 19 de agosto?"
-  }
- ],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xf9061455c995507ca91e4aae39eb0ef72ef5a4977703db7a90369d15094612c5",
-   "titulo": "LoL: Team WE vs EDward Gaming - Game 1 Winner",
-   "slug": "lol-we-edg-2026-08-19-game1",
-   "outcome": "EDward Gaming",
-   "side": "BUY",
-   "size": 3960.28205,
-   "price": 0.78,
-   "usd": 3089.02,
-   "ts": 1787147293,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,089 en 'EDward Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-we-edg-2026-08-19-game1",
-   "titulo_es": "LoL: Team WE vs EDward Gaming - Ganador del Juego 1",
-   "narrativa": "Dos compras consecutivas por USD 3,089 y USD 2,275 sobre EDward Gaming reflejan acumulación institucional temprana, con un tercer refuerzo de USD 1,540 que consolida la presión compradora. El flujo agregado de USD 6,904 en un solo mercado sin volumen reportado sugiere convicción direccional, aunque el consenso externo aún no descuenta el movimiento completo. Riesgo: liquidez limitada podría amplificar el slippage en la ejecución."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xf9061455c995507ca91e4aae39eb0ef72ef5a4977703db7a90369d15094612c5",
-   "titulo": "LoL: Team WE vs EDward Gaming - Game 1 Winner",
-   "slug": "lol-we-edg-2026-08-19-game1",
-   "outcome": "EDward Gaming",
-   "side": "BUY",
-   "size": 2954.92,
-   "price": 0.77,
-   "usd": 2275.29,
-   "ts": 1787147293,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,275 en 'EDward Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-we-edg-2026-08-19-game1",
-   "titulo_es": "LoL: Team WE vs EDward Gaming - Ganador del Juego 1",
-   "narrativa": "La segunda ballena refuerza la tesis con USD 2,275 adicionales, elevando la exposición acumulada a USD 5,364 en el mismo resultado, lo que indica que los grandes operadores están alineados con EDward Gaming. El edge implícito se amplía frente a un consenso externo que probablemente subestima la ventaja de mapa inicial de EDG, dado el patrón de compras escalonadas. Riesgo: la falta de volumen de mercado puede generar movimientos bruscos de precio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xf9061455c995507ca91e4aae39eb0ef72ef5a4977703db7a90369d15094612c5",
-   "titulo": "LoL: Team WE vs EDward Gaming - Game 1 Winner",
-   "slug": "lol-we-edg-2026-08-19-game1",
-   "outcome": "EDward Gaming",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.77,
-   "usd": 1540.0,
-   "ts": 1787147295,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,540 en 'EDward Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-we-edg-2026-08-19-game1",
-   "titulo_es": "LoL: Team WE vs EDward Gaming - Ganador del Juego 1",
-   "narrativa": "Una tercera compra de USD 1,540 completa una escalera de acumulación de USD 6,904 total, mostrando un patrón de entrada por tramos que maximiza el edge en puntos sin revelar toda la posición. La repetición de compras en el mismo outcome sugiere que el operador posee información o modelo con ventaja estadística sobre el consenso externo, pero el desvío entre el precio actual y el valor justo estimado aún no se ha cerrado. Riesgo: la ausencia de volumen de mercado reportado implica que la salida podría ser difícil en caso de reversión."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x1a11049b8618182739af71251dbdbe36edd2870f75f2318e604df3b9b77b7081",
-   "titulo": "Will the price of Bitcoin be above $64,000 on August 19?",
-   "slug": "bitcoin-above-64k-on-august-19-2026",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 1113.257,
-   "price": 0.9880916383,
-   "usd": 1100.0,
-   "ts": 1787147295,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,100 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-64k-on-august-19-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 19 de agosto?"
-  }
- ],
+ "momentum": [],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -183,6 +83,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
+  },
+  {
+   "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
+   "yes": 0.1315,
+   "no": 0.8685,
+   "volumen": 990196.299344,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -267,8 +177,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.0665,
+   "no": 0.9335,
    "volumen": 99036.85304000002,
    "spread": 0.0,
    "categoria": "Política",
@@ -289,7 +199,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98743.572946,
+   "volumen": 98743.57294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -315,20 +225,10 @@
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
   },
   {
-   "question": "Iran-Oman Hormuz Agreement by August 22?",
-   "slug": "iran-oman-hormuz-agreement-by-august-22",
-   "yes": 0.085,
-   "no": 0.915,
-   "volumen": 98286.71598800003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Acuerdo Irán-Omán sobre Ormuz antes del 22 de agosto?"
-  },
-  {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0825,
-   "no": 0.9175,
+   "yes": 0.083,
+   "no": 0.917,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -337,8 +237,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2335,
-   "no": 0.7665,
+   "yes": 0.236,
+   "no": 0.764,
    "volumen": 9990.964864000003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -407,8 +307,8 @@
   {
    "question": "Will the highest temperature in Amsterdam be 22°C on August 19?",
    "slug": "highest-temperature-in-amsterdam-on-august-19-2026-22c",
-   "yes": 0.006,
-   "no": 0.994,
+   "yes": 0.0065,
+   "no": 0.9935,
    "volumen": 9938.471017,
    "spread": 0.0,
    "categoria": "Otros",
@@ -422,5 +322,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 89.3
+ "db_size_mb": 89.36
 }
