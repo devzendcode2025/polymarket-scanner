@@ -1,10 +1,51 @@
 {
- "ts": 1787157397,
- "stamp": "20260819_163637",
+ "ts": 1787157817,
+ "stamp": "20260819_164337",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587",
+   "titulo": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+   "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 6066.93,
+   "price": 0.49,
+   "usd": 2972.8,
+   "ts": 1787157826,
+   "categoria": "Política",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,973 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+   "titulo_es": "¿Controlará el Partido Republicano el Senado después de las elecciones de mitad de mandato de 2026?",
+   "narrativa": "La venta de 2,972 USD en 'Yes' para el control republicano del Senado en 2026 refleja una toma de beneficios ante un consenso externo que ya descuenta una alta probabilidad del evento, comprimiendo el edge disponible. Al cerrar la posición, el operador asegura ganancias en un mercado donde el margen de error político es amplio, pero el precio actual ya no ofrece compensación por el riesgo de una sorpresa demócrata. Riesgo: eventos noticiosos de última hora pueden revertir rápidamente el sentimiento."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x810b3538edc4718fc4fbe5e93414f491b997f67d49584113cce07c7a493d6f89",
+   "titulo": "Vietnam vs. Malaysia: O/U 3.5",
+   "slug": "asean-vie-mas-2026-08-19-total-3pt5",
+   "outcome": "Under",
+   "side": "SELL",
+   "size": 1397.07,
+   "price": 0.999,
+   "usd": 1395.67,
+   "ts": 1787157823,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,396 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/asean-vie-mas-2026-08-19-total-3pt5",
+   "titulo_es": "Vietnam vs. Malasia: Más/Menos 3.5",
+   "narrativa": "La venta de 1,395 USD en 'Under 3.5' para Vietnam vs. Malasia aprovecha un desvío entre el precio de mercado y la expectativa de un partido de baja anotación, típico en enfrentamientos defensivos de la región. El monto moderado sugiere una cobertura táctica, capturando valor en un escenario donde el consenso externo favorece el over, pero los datos históricos de enfrentamientos directos respaldan el under. Riesgo: la volatilidad de un gol temprano puede anular la tesis en minutos."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -157,8 +198,8 @@
   {
    "question": "Will FUT Esports Win the CS2 EWC 2026?",
    "slug": "will-fut-esports-win-the-cs2-ewc-2026-20260810160005091",
-   "yes": 0.022,
-   "no": 0.978,
+   "yes": 0.034,
+   "no": 0.966,
    "volumen": 99567.256613,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -167,8 +208,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.095,
+   "no": 0.905,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -197,8 +238,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.165,
-   "no": 0.835,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99023.583419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -217,8 +258,8 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.142,
-   "no": 0.858,
+   "yes": 0.1475,
+   "no": 0.8525,
    "volumen": 98829.113919,
    "spread": 0.0,
    "categoria": "Otros",
@@ -322,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 91.55
+ "db_size_mb": 91.67
 }
