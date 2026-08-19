@@ -1,49 +1,49 @@
 {
- "ts": 1787158237,
- "stamp": "20260819_165037",
+ "ts": 1787158657,
+ "stamp": "20260819_165737",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb6c771df34ceb0584a2002d1e23312d22051932b22ec328d3709a0f77621dc73",
-   "titulo": "Bitcoin Up or Down - August 19, 12:45PM-12:50PM ET",
-   "slug": "btc-updown-5m-1787157900",
-   "outcome": "Up",
+   "market_id": "0x60ec7dc1f9223fc56c8465583a5da658e029ab854fa0b587a8c5fec0ac4d5c70",
+   "titulo": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+   "slug": "atp-jodar-cobolli-2026-08-19",
+   "outcome": "Rafael Jodar",
+   "side": "BUY",
+   "size": 41259.962466,
+   "price": 0.8482799766,
+   "usd": 35000.0,
+   "ts": 1787158420,
+   "categoria": "Deportes",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $35,000 en 'Rafael Jodar'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-jodar-cobolli-2026-08-19",
+   "titulo_es": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+   "narrativa": "La compra de 35,000 USD sobre Rafael Jodar en el Cincinnati Open representa una apuesta significativa contra el consenso del mercado, que probablemente favorece a Flavio Cobolli por su mayor experiencia en ATP. Este flujo de capital concentrado en un jugador joven sugiere que el comprador maneja información o una lectura técnica de forma desigual, creando un edge potencial si Jodar supera las expectativas de superficie. El tamaño del trade, al ser el mayor del mercado en este evento, puede mover la línea a favor del comprador, aunque el riesgo de poca liquidez en mercados de tenis menor es latente."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xcaa23f62374ecafd1c012e2190ee22e87618924a92ed4abe5031059ae2b74e6a",
+   "titulo": "Bitcoin Up or Down - August 19, 12:50PM-12:55PM ET",
+   "slug": "btc-updown-5m-1787158200",
+   "outcome": "Down",
    "side": "SELL",
-   "size": 2236.7,
-   "price": 0.9842927974,
-   "usd": 2201.57,
-   "ts": 1787158120,
+   "size": 2665.78,
+   "price": 0.9896748044,
+   "usd": 2638.26,
+   "ts": 1787158417,
    "categoria": "Cripto",
    "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,202 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1787157900",
-   "titulo_es": "Bitcoin sube o baja - 19 de agosto, 12:45PM-12:50PM ET",
-   "narrativa": "La señal de venta en el evento de Bitcoin del 19 de agosto a las 12:45PM ET presenta un monto de $2,201.57, lo que indica una apuesta direccional clara hacia 'Up' con un tamaño que sugiere convicción. El edge se materializa si el consenso externo (no disponible) muestra una probabilidad inferior al precio implícito del mercado; la falta de volumen de mercado aumenta el impacto potencial de esta operación. Riesgo: posible deslizamiento por baja liquidez en la ventana de 5 minutos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
-   "titulo": "Clarity Act (H.R.3633) signed into law in 2026?",
-   "slug": "clarity-act-signed-into-law-in-2026",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 8362.643332,
-   "price": 0.2391588305,
-   "usd": 2000.0,
-   "ts": 1787158126,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/clarity-act-signed-into-law-in-2026",
-   "titulo_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?",
-   "narrativa": "La compra de 'Yes' en la Ley de Claridad (H.R.3633) para 2026, con $2,000, aprovecha un evento de largo plazo donde el mercado puede estar descontando una probabilidad menor a la real de aprobación legislativa. El edge depende del consenso externo de analistas políticos, que suele ser más optimista que el precio actual; el monto moderado permite mantener la posición ante la volatilidad legislativa. Riesgo: cambios en el calendario político o enmiendas que alteren el resultado."
+   "razon": "Trade de venta por $2,638 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1787158200",
+   "titulo_es": "Bitcoin Sube o Baja - 19 de agosto, 12:50PM-12:55PM ET",
+   "narrativa": "La venta de 2,638 USD en 'Down' para Bitcoin en una ventana de 5 minutos indica una posición contraria al sesgo alcista que suele dominar en periodos de alta volatilidad intradía. Este trade, aunque moderado en tamaño, se ejecuta en un momento específico donde el consenso externo podría estar sobrevalorando un repunte, y el vendedor busca capturar una corrección inmediata. El edge se basa en la precisión temporal del evento, pero el riesgo de movimientos bruscos en criptoactivos durante ventanas cortas es elevado."
   }
  ],
  "edges": [
@@ -196,6 +196,16 @@
    "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
   },
   {
+   "question": "Will MOUZ Win the CS2 EWC 2026?",
+   "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
+   "yes": 0.148,
+   "no": 0.852,
+   "volumen": 99044.983919,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará MOUZ el CS2 EWC 2026?"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.0645,
@@ -226,16 +236,6 @@
    "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
   },
   {
-   "question": "Will MOUZ Win the CS2 EWC 2026?",
-   "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.1485,
-   "no": 0.8515,
-   "volumen": 98829.113919,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará MOUZ el CS2 EWC 2026?"
-  },
-  {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
@@ -260,7 +260,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 98349.53663100004,
+   "volumen": 98349.53663100001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -288,8 +288,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2545,
-   "no": 0.7455,
+   "yes": 0.2495,
+   "no": 0.7505,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -357,11 +357,11 @@
   }
  ],
  "historico": {
-  "ts": 1787156537,
+  "ts": 1787158401,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 91.75
+ "db_size_mb": 91.81
 }
