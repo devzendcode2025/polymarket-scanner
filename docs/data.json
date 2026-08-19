@@ -1,30 +1,10 @@
 {
- "ts": 1787116465,
- "stamp": "20260819_051425",
+ "ts": 1787116885,
+ "stamp": "20260819_052125",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xdbb98d866363c79ffcdf8f5a97331d99a3ea77ba1fd0ee0efdb223cc4d2588be",
-   "titulo": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
-   "slug": "wta-kostyuk-andreev-2026-08-19",
-   "outcome": "Mirra Andreeva",
-   "side": "BUY",
-   "size": 24198.16,
-   "price": 0.5443303045,
-   "usd": 13171.79,
-   "ts": 1787114631,
-   "categoria": "Deportes",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $13,172 en 'Mirra Andreeva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-kostyuk-andreev-2026-08-19",
-   "titulo_es": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
-   "narrativa": "La compra de $13,171 en Mirra Andreeva refleja una fuerte convicción direccional en el Cincinnati Open, con una apuesta que supera el volumen típico del mercado. El edge se concentra en la diferencia entre el consenso externo (que favorece a Andreeva por su juventud y forma reciente) y el precio implícito en el mercado, que aún no ha ajustado completamente su probabilidad. Riesgo: volatilidad en sets cortos y posible falta de liquidez en horas previas al partido."
-  },
   {
    "tipo": "ballena",
    "market_id": "0x03242fef6114b9e14fd36b329ae98143bd0000000000000000000000000000",
@@ -383,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 83.33
+ "db_size_mb": 83.36
 }
