@@ -1,49 +1,50 @@
 {
- "ts": 1787165919,
- "stamp": "20260819_185839",
+ "ts": 1787166339,
+ "stamp": "20260819_190539",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "3251656",
+   "question": "Will Databricks' valuation hit (LOW) $140B by August 31?",
+   "slug": "will-databricks-valuation-hit-low-140b-by-august-31-20260730183108154",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.016,
+   "yes_ahora": 0.021,
+   "cambio_pct": 31.3,
+   "direccion": "SUBIDA",
+   "volumen": 990.98,
+   "prob": 72,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Yes subida 31.3% vs el scan anterior (0.016 → 0.021) en un mercado con $991 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/will-databricks-valuation-hit-low-140b-by-august-31-20260730183108154",
+   "question_es": "¿Alcanzará la valoración de Databricks los (BAJA) $140B para el 31 de agosto?",
+   "narrativa": "La probabilidad implícita de que Databricks alcance una valoración de $140B ha saltado un 31.3% en la sesión, moviéndose de 1.6% a 2.1% con un volumen de $990. El edge positivo de 0.5 puntos porcentuales sugiere que el mercado aún no ha descontado por completo el impulso alcista reciente, lo que ofrece una entrada temprana en una apuesta de baja probabilidad pero alta recompensa. Riesgo: el volumen es reducido, lo que puede amplificar la volatilidad del precio."
+  }
+ ],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xae12963cf344013decffa9bb13ce1741018de836bab2b685152a271bc54cc817",
-   "titulo": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
-   "slug": "wta-cirstea-pegula-2026-08-19",
-   "outcome": "Jessica Pegula",
-   "side": "BUY",
-   "size": 7662.39,
-   "price": 0.9379982525,
-   "usd": 7187.31,
-   "ts": 1787165926,
+   "market_id": "0x4e3000c90abf7cee5df0bbbee2f20ebd64c2f901989fbda806d9ec80e41f28ca",
+   "titulo": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
+   "slug": "atp-tirante-mensik-2026-08-19",
+   "outcome": "Thiago Agustin Tirante",
+   "side": "SELL",
+   "size": 1500.0,
+   "price": 0.8610546467,
+   "usd": 1291.58,
+   "ts": 1787166231,
    "categoria": "Deportes",
-   "prob": 62,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $7,187 en 'Jessica Pegula'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-cirstea-pegula-2026-08-19",
-   "titulo_es": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
-   "narrativa": "El mercado descuenta a Pegula como favorita clara ante Cirstea, pero la compra por $7,187 refleja una convicción institucional que busca capturar valor en una jugadora con mejor ranking y consistencia en pista dura. El monto elevado sugiere que los operadores grandes ven un edge significativo frente al consenso externo, que aún no ha ajustado completamente las probabilidades. Riesgo: posible falta de profundidad en el libro de órdenes si el volumen se concentra en pocos participantes."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd0bab013691319460301ae15e7c6b6640be30d14b2216010597cf925e840eaef",
-   "titulo": "Counter-Strike: GamerLegion vs MOUZ - Map 2 Winner",
-   "slug": "cs2-gl1-mouz-2026-08-19-game2",
-   "outcome": "GamerLegion",
-   "side": "BUY",
-   "size": 3759.394735,
-   "price": 0.3799999999,
-   "usd": 1428.57,
-   "ts": 1787165929,
-   "categoria": "Deportes",
-   "prob": 54,
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,429 en 'GamerLegion'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-gl1-mouz-2026-08-19-game2",
-   "titulo_es": "Counter-Strike: GamerLegion vs MOUZ - Ganador del Mapa 2",
-   "narrativa": "La apuesta de $1,428 a favor de GamerLegion en el Mapa 2 indica que el mercado está subestimando su capacidad de adaptación tras un primer mapa disputado, con un edge que se apoya en su historial reciente contra MOUZ en mapas específicos. El monto, aunque moderado, es proporcional a un desvío esperado en las cuotas que aún no se ha corregido. Riesgo: alta volatilidad en esports por mapas de veto y forma del día."
+   "razon": "Trade de venta por $1,292 en 'Thiago Agustin Tirante'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-tirante-mensik-2026-08-19",
+   "titulo_es": "Cincinnati Open: Thiago Agustín Tirante vs Jakub Mensik",
+   "narrativa": "El mercado sobrevalora a Tirante en este duelo ante Mensik, con una venta que captura un edge de +5.2 puntos frente al consenso externo del 47%. El monto de $1,291.58 representa una posición moderada que aprovecha la brecha entre el precio implícito y la probabilidad real estimada, con un cambio porcentual del 8.4% a favor del movimiento. Riesgo: volatilidad alta en tenis por condiciones climáticas o lesiones no previstas."
   }
  ],
  "edges": [
@@ -130,7 +131,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995878.4993439999,
+   "volumen": 995917.7417669998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -288,9 +289,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.255,
-   "no": 0.745,
-   "volumen": 9990.964864,
+   "yes": 0.2445,
+   "no": 0.7555,
+   "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -330,7 +331,7 @@
    "slug": "will-usdjpy-hit-165-high-in-2026",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 9952.114906999997,
+   "volumen": 9952.114907000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
@@ -348,9 +349,9 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0415,
-   "no": 0.9585,
-   "volumen": 9937.685226,
+   "yes": 0.0385,
+   "no": 0.9615,
+   "volumen": 9937.685226000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
@@ -363,5 +364,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 93.48
+ "db_size_mb": 93.56
 }
