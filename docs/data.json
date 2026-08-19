@@ -1,49 +1,49 @@
 {
- "ts": 1787157817,
- "stamp": "20260819_164337",
+ "ts": 1787158237,
+ "stamp": "20260819_165037",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587",
-   "titulo": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-   "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-   "outcome": "Yes",
+   "market_id": "0xb6c771df34ceb0584a2002d1e23312d22051932b22ec328d3709a0f77621dc73",
+   "titulo": "Bitcoin Up or Down - August 19, 12:45PM-12:50PM ET",
+   "slug": "btc-updown-5m-1787157900",
+   "outcome": "Up",
    "side": "SELL",
-   "size": 6066.93,
-   "price": 0.49,
-   "usd": 2972.8,
-   "ts": 1787157826,
-   "categoria": "Política",
-   "prob": 56,
+   "size": 2236.7,
+   "price": 0.9842927974,
+   "usd": 2201.57,
+   "ts": 1787158120,
+   "categoria": "Cripto",
+   "prob": 55,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $2,973 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-   "titulo_es": "¿Controlará el Partido Republicano el Senado después de las elecciones de mitad de mandato de 2026?",
-   "narrativa": "La venta de 2,972 USD en 'Yes' para el control republicano del Senado en 2026 refleja una toma de beneficios ante un consenso externo que ya descuenta una alta probabilidad del evento, comprimiendo el edge disponible. Al cerrar la posición, el operador asegura ganancias en un mercado donde el margen de error político es amplio, pero el precio actual ya no ofrece compensación por el riesgo de una sorpresa demócrata. Riesgo: eventos noticiosos de última hora pueden revertir rápidamente el sentimiento."
+   "razon": "Trade de venta por $2,202 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1787157900",
+   "titulo_es": "Bitcoin sube o baja - 19 de agosto, 12:45PM-12:50PM ET",
+   "narrativa": "La señal de venta en el evento de Bitcoin del 19 de agosto a las 12:45PM ET presenta un monto de $2,201.57, lo que indica una apuesta direccional clara hacia 'Up' con un tamaño que sugiere convicción. El edge se materializa si el consenso externo (no disponible) muestra una probabilidad inferior al precio implícito del mercado; la falta de volumen de mercado aumenta el impacto potencial de esta operación. Riesgo: posible deslizamiento por baja liquidez en la ventana de 5 minutos."
   },
   {
    "tipo": "ballena",
-   "market_id": "0x810b3538edc4718fc4fbe5e93414f491b997f67d49584113cce07c7a493d6f89",
-   "titulo": "Vietnam vs. Malaysia: O/U 3.5",
-   "slug": "asean-vie-mas-2026-08-19-total-3pt5",
-   "outcome": "Under",
-   "side": "SELL",
-   "size": 1397.07,
-   "price": 0.999,
-   "usd": 1395.67,
-   "ts": 1787157823,
+   "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+   "titulo": "Clarity Act (H.R.3633) signed into law in 2026?",
+   "slug": "clarity-act-signed-into-law-in-2026",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 8362.643332,
+   "price": 0.2391588305,
+   "usd": 2000.0,
+   "ts": 1787158126,
    "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,396 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/asean-vie-mas-2026-08-19-total-3pt5",
-   "titulo_es": "Vietnam vs. Malasia: Más/Menos 3.5",
-   "narrativa": "La venta de 1,395 USD en 'Under 3.5' para Vietnam vs. Malasia aprovecha un desvío entre el precio de mercado y la expectativa de un partido de baja anotación, típico en enfrentamientos defensivos de la región. El monto moderado sugiere una cobertura táctica, capturando valor en un escenario donde el consenso externo favorece el over, pero los datos históricos de enfrentamientos directos respaldan el under. Riesgo: la volatilidad de un gol temprano puede anular la tesis en minutos."
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/clarity-act-signed-into-law-in-2026",
+   "titulo_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?",
+   "narrativa": "La compra de 'Yes' en la Ley de Claridad (H.R.3633) para 2026, con $2,000, aprovecha un evento de largo plazo donde el mercado puede estar descontando una probabilidad menor a la real de aprobación legislativa. El edge depende del consenso externo de analistas políticos, que suele ser más optimista que el precio actual; el monto moderado permite mantener la posición ante la volatilidad legislativa. Riesgo: cambios en el calendario político o enmiendas que alteren el resultado."
   }
  ],
  "edges": [
@@ -108,9 +108,9 @@
   {
    "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
    "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-   "yes": 0.0135,
-   "no": 0.9865,
-   "volumen": 9974810.296568003,
+   "yes": 0.0125,
+   "no": 0.9875,
+   "volumen": 9974943.076568004,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿Reducirá la Fed las tasas de interés en 25 puntos básicos después de la reunión de septiembre de 2026?"
@@ -130,7 +130,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995401.5678490002,
+   "volumen": 995833.807849,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -140,7 +140,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.299344,
+   "volumen": 991252.209344,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -154,26 +154,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
-   "question": "LoL: UCAM Esports Club vs Team Heretics Academy - Game 1 Winner",
-   "slug": "lol-ucam1-hrts-2026-08-19-game1",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99854.70203099994,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: UCAM Esports Club vs Team Heretics Academy - Ganador del Juego 1"
-  },
-  {
-   "question": "Will B8 Win the CS2 EWC 2026?",
-   "slug": "will-b8-win-the-cs2-ewc-2026-20260810160005094",
-   "yes": 0.018,
-   "no": 0.982,
-   "volumen": 99821.390614,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará B8 la CS2 EWC 2026?"
   },
   {
    "question": "NYSE marketwide circuit breaker before 2027?",
@@ -196,20 +176,10 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
-   "question": "Will FUT Esports Win the CS2 EWC 2026?",
-   "slug": "will-fut-esports-win-the-cs2-ewc-2026-20260810160005091",
-   "yes": 0.034,
-   "no": 0.966,
-   "volumen": 99567.256613,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará FUT Esports el CS2 EWC 2026?"
-  },
-  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.095,
-   "no": 0.905,
+   "yes": 0.09,
+   "no": 0.91,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -250,7 +220,7 @@
    "slug": "will-real-sociedad-win-the-2026-27-laliga-championship-20260701200737387",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 98856.38271600002,
+   "volumen": 98856.38271600001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará la Real Sociedad el Campeonato de LALIGA 2026-27?"
@@ -258,8 +228,8 @@
   {
    "question": "Will MOUZ Win the CS2 EWC 2026?",
    "slug": "will-mouz-win-the-cs2-ewc-2026-20260810160005087",
-   "yes": 0.1475,
-   "no": 0.8525,
+   "yes": 0.1485,
+   "no": 0.8515,
    "volumen": 98829.113919,
    "spread": 0.0,
    "categoria": "Otros",
@@ -270,7 +240,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98748.56294599999,
+   "volumen": 98748.56294600002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -310,7 +280,7 @@
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
    "yes": 0.0675,
    "no": 0.9325,
-   "volumen": 9991.036522,
+   "volumen": 9991.036522000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
@@ -354,6 +324,36 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will USD/JPY hit 165 (High) in 2026?",
+   "slug": "will-usdjpy-hit-165-high-in-2026",
+   "yes": 0.41,
+   "no": 0.59,
+   "volumen": 9952.114907000003,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.0025,
+   "no": 0.9975,
+   "volumen": 9941.699383000001,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will OpenAI's IPO valuation be between $1.75T and $2.0T?",
+   "slug": "will-openais-ipo-valuation-be-between-1pt75t-and-2pt0t",
+   "yes": 0.18,
+   "no": 0.82,
+   "volumen": 9928.641558,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Estará la valoración de la OPV de OpenAI entre $1.75T y $2.0T?"
   }
  ],
  "historico": {
@@ -363,5 +363,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 91.67
+ "db_size_mb": 91.75
 }
