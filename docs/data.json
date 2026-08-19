@@ -1,10 +1,31 @@
 {
- "ts": 1787126308,
- "stamp": "20260819_075828",
+ "ts": 1787126668,
+ "stamp": "20260819_080428",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xde6fd0db32221a07e6b2f5cd80f88def3248981478e5b51dead48046a14168f7",
+   "titulo": "Sion: Ryan Nijboer vs Tommaso Compagnucci",
+   "slug": "atp-nijboer-compagn-2026-08-19",
+   "outcome": "Ryan Nijboer",
+   "side": "BUY",
+   "size": 3873.636362,
+   "price": 0.4399999999,
+   "usd": 1704.4,
+   "ts": 1787126563,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,704 en 'Ryan Nijboer'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-nijboer-compagn-2026-08-19",
+   "titulo_es": "Sion: Ryan Nijboer vs Tommaso Compagnucci",
+   "narrativa": "La compra de 1,704 USD en Ryan Nijboer frente a Tommaso Compagnucci refleja una apuesta direccional clara, con un edge estimado de +4.2 puntos sobre el consenso externo del 58% de probabilidad implícita. El flujo monetario concentrado sugiere información privilegiada o un ajuste de modelo, mientras el volumen de mercado no reportado limita la comparación de profundidad. Riesgo: posible iliquidez en horarios de baja actividad, lo que puede ampliar el spread."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -69,7 +90,7 @@
    "slug": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9976186.380317999,
+   "volumen": 9977303.380317999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Michelle Bolsonaro las elecciones presidenciales brasileñas de 2026?"
@@ -89,7 +110,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 995015.0585160003,
+   "volumen": 995015.0585159997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -99,7 +120,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 990196.2993440002,
+   "volumen": 990196.2993440003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -139,7 +160,7 @@
    "slug": "will-microstrategy-be-margin-called-in-2026",
    "yes": 0.036,
    "no": 0.964,
-   "volumen": 99588.02526299999,
+   "volumen": 99588.02526299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
@@ -147,8 +168,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 99210.77216200001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -235,16 +256,6 @@
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara FL-10?"
   },
   {
-   "question": "Counter-Strike: Bushido Wildcats vs Endless Journey (BO3) - Exort Fiesta Group Stage",
-   "slug": "cs2-bw-ej-2026-08-19",
-   "yes": 0.585,
-   "no": 0.415,
-   "volumen": 9995.052784999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Counter-Strike: Bushido Wildcats vs Endless Journey (BO3) - Fase de Grupos de Exort Fiesta"
-  },
-  {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
    "yes": 0.068,
@@ -257,9 +268,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2395,
-   "no": 0.7605,
-   "volumen": 9990.964864,
+   "yes": 0.21,
+   "no": 0.79,
+   "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -299,20 +310,30 @@
    "slug": "will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.3,
    "no": 0.7,
-   "volumen": 9956.098179999999,
+   "volumen": 9956.09818,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Gabriel Attal en la papeleta para las elecciones presidenciales francesas de 2027?"
   },
   {
-   "question": "Will the highest temperature in Madrid be 35°C on August 19?",
-   "slug": "highest-temperature-in-madrid-on-august-19-2026-35c",
-   "yes": 0.175,
-   "no": 0.825,
-   "volumen": 9954.034516,
+   "question": "Will USD/JPY hit 165 (High) in 2026?",
+   "slug": "will-usdjpy-hit-165-high-in-2026",
+   "yes": 0.43,
+   "no": 0.57,
+   "volumen": 9952.114907000001,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Madrid de 35°C el 19 de agosto?"
+   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
+  },
+  {
+   "question": "Map Handicap: NAVI (-1.5) vs Legacy (+1.5)",
+   "slug": "cs2-navi-lgc-2026-08-20-map-handicap-away-1pt5",
+   "yes": 0.405,
+   "no": 0.595,
+   "volumen": 9943.634194,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Handicap de mapa: NAVI (-1.5) vs Legacy (+1.5)"
   }
  ],
  "historico": {
@@ -322,5 +343,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 85.51
+ "db_size_mb": 85.59
 }
