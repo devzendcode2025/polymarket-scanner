@@ -40,3 +40,5 @@ polymarket-scanner/
 ## Estado
 
 Fase 1 (pipeline de datos) en curso. Ver MEMORIA_PROYECTO.md (bloque Estado Actual) y TAREAS.md.
+
+> Cron pausado temporalmente desde 2026-08-20 por pedido del usuario (necesitaba tokens); reactivación automática el 2026-08-23 02:05 UTC vía job one-shot `polymarket-reactivar-3dias` (script resume-polymarket.sh, perfil codigo). Ver CHAT_RESUMEN.md (2026-08-20).

@@ -2,6 +2,13 @@
 
 ## Resumen de Conversaciones
 
+### 2026-08-20 — Pausa temporal del cron (scan 1/min + backup) por tokens
+- **Petición:** "puedes detener la consulta de polymarket unos días, necesito esos tokens".
+- **Acciones:** localizados los jobs en el perfil **codigo** de Hermes (el CLI default no los ve): polymarket-scan-1min (`7a818b7cc17a`, `* * * * *`, script puro no-agente, 8291 ejecuciones) y polymarket-backup-diario (`e6232106fb87`, 03:00 UTC), ambos con workdir /srv/hermes-projects/proyectos/polymarket-scanner. Pausados con `hermes --profile codigo cron pause <id>`.
+- **Reactivación:** creado script `/home/devzendcode/.hermes/profiles/codigo/scripts/resume-polymarket.sh` (resume de ambos jobs) + job one-shot `polymarket-reactivar-3dias` (`30caf8200324`, 2026-08-23 02:05 UTC, no-agente, deliver local, script resume-polymarket.sh).
+- **Resultado:** ambos jobs `enabled=false / state=paused` verificado en jobs.json; verificación ad-hoc del script OK (sintaxis, IDs existentes y pausados, comando resume disponible, cableado del one-shot). Nada se borró: la configuración queda intacta.
+- **Pendientes:** verificar que el one-shot del 2026-08-23 reactiva ambos jobs (revisar jobs.json del perfil codigo); reactivar manualmente antes si el usuario avisa.
+
 ### 2026-08-19 — v0.8.2: recall de edges (A) + mispricings del libro real (B)
 - **Petición:** "Haz A y B" — A) subir recall de edges a 5-15/día sin perder precisión; B) afinar mispricings (barrer menor volumen).
 - **Acciones A (crosscheck.py):** TOP_K 2→4 (si el 1ro/2do eran "mismo tema NO", el correcto puede estar 3ro/4to; DeepSeek filtra), MAX_CANDIDATOS 150→300, MAX_POLY 400→600, +14 ligas de fútbol ESPN (verificadas en vivo: eng.2 fra.2 ita.2 esp.2 ned.1 bel.1 por.1 tur.1 usa.nwsl con moneyline activo hoy; ger.2 sco.1 uefa.* fifa.world aportan en temporada), token "raro" ≤5→≤8 docs. **Resultado: candidatos 261→613 (2.3x) con 600 mercados comparados.**

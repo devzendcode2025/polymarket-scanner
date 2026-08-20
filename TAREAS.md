@@ -27,6 +27,7 @@
 - [x] MÁS DE 10 ÍTEMS: ballenas 25, momentum 30, top 25, slices del dashboard 25 (v0.7.0)
 - [x] CROSS-CHECK DE PROBABILIDADES (F3): Kalshi + Manifold + PredictIt (Metaculus exige cuenta) → EDGE "datos ganadores", caché 10 min, matching por tokens raros + categoría (v0.7.0)
 - [ ] Afinar mispricings: barrer mercados de menor volumen / bajar umbral (los top-200 líquidos son eficientes)
+- [ ] REACTIVAR CRON tras pausa por tokens (2026-08-20): one-shot automático `polymarket-reactivar-3dias` el 2026-08-23 02:05 UTC (perfil codigo, script resume-polymarket.sh); verificar jobs.json del perfil codigo tras esa fecha y reanudar manualmente si falló
 
 ## Fase 2 — Backtest de estrategias
 - [ ] Recolectar historial (prices-history) de mercados de cripto 24h y deportes
