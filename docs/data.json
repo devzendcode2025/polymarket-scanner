@@ -1,51 +1,10 @@
 {
- "ts": 1787188425,
- "stamp": "20260820_011345",
+ "ts": 1787188905,
+ "stamp": "20260820_012145",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x586c7461bb805fa3d5772e382527a278312dd46a6eafe190bb35426e159970b4",
-   "titulo": "Seattle Mariners vs. Milwaukee Brewers",
-   "slug": "mlb-sea-mil-2026-08-19",
-   "outcome": "Milwaukee Brewers",
-   "side": "SELL",
-   "size": 39192.58,
-   "price": 0.0919362313,
-   "usd": 3603.22,
-   "ts": 1787188128,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,603 en 'Milwaukee Brewers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-sea-mil-2026-08-19",
-   "titulo_es": "Marineros de Seattle vs. Cerveceros de Milwaukee",
-   "narrativa": "La venta de 3,603 USD sobre los Cerveceros de Milwaukee refleja una postura contraria al consenso público, que favorece al equipo local. Este movimiento busca capitalizar un posible desajuste en la percepción del mercado, con un edge estimado de +4.2 puntos frente a la probabilidad implícita. Riesgo: volatilidad por lesiones de última hora en la rotación abridora."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xebb9ddbc17d6881d33a49418a35284b719417d474eac0347bfa36308c87918c6",
-   "titulo": "Will Charlotte FC win on 2026-08-19?",
-   "slug": "mls-tor-clt-2026-08-19-clt",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 3500.0,
-   "price": 0.971,
-   "usd": 3398.5,
-   "ts": 1787188140,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,398 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-tor-clt-2026-08-19-clt",
-   "titulo_es": "¿Ganará Charlotte FC el 2026-08-19?",
-   "narrativa": "La compra de 3,398 USD por el 'Sí' en Charlotte FC sugiere una convicción basada en el calendario favorable y el rendimiento reciente del equipo, que supera las expectativas del consenso externo por un margen de 6.8 puntos. El tamaño del trade indica una apuesta significativa en un mercado con liquidez moderada, buscando un retorno del 12.5% si se materializa la victoria. Riesgo: posible baja participación en el evento si se confirma un partido de baja intensidad."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -145,7 +104,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9912205.859287983,
+   "volumen": 9912205.859288005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -155,7 +114,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.5278490003,
+   "volumen": 996816.5278490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -165,7 +124,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 996500.6908560002,
+   "volumen": 996512.6908560001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -213,9 +172,9 @@
   {
    "question": "New York Yankees vs. Baltimore Orioles: O/U 8.5",
    "slug": "mlb-nyy-bal-2026-08-19-total-8pt5",
-   "yes": 0.47,
-   "no": 0.53,
-   "volumen": 99345.18801199997,
+   "yes": 0.505,
+   "no": 0.495,
+   "volumen": 99494.38024899997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "New York Yankees vs. Baltimore Orioles: Más/Menos 8.5"
@@ -223,9 +182,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.052,
-   "no": 0.948,
-   "volumen": 99270.71304000002,
+   "yes": 0.061,
+   "no": 0.939,
+   "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -271,16 +230,6 @@
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
   },
   {
-   "question": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime",
-   "slug": "atp-tiafoe-augeral-2026-08-19",
-   "yes": 0.34,
-   "no": 0.66,
-   "volumen": 98564.705505,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime"
-  },
-  {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.006,
@@ -305,7 +254,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.405,
    "no": 0.595,
-   "volumen": 98224.62970900002,
+   "volumen": 98224.62970899997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -313,9 +262,9 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.605,
-   "no": 0.395,
-   "volumen": 98183.97211599999,
+   "yes": 0.6,
+   "no": 0.4,
+   "volumen": 98183.972116,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -323,22 +272,12 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.972,
-   "no": 0.028,
+   "yes": 0.966,
+   "no": 0.034,
    "volumen": 9999.604839,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 24 de agosto?"
-  },
-  {
-   "question": "Will Orlando City SC vs. Chicago Fire FC end in a draw?",
-   "slug": "mls-orl-chi-2026-08-19-draw",
-   "yes": 0.255,
-   "no": 0.745,
-   "volumen": 9998.499737999995,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Terminará en empate Orlando City SC vs. Chicago Fire FC?"
   },
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
@@ -355,7 +294,7 @@
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
    "yes": 0.24,
    "no": 0.76,
-   "volumen": 9990.964864000001,
+   "volumen": 9990.964864000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -389,6 +328,26 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Houston Dash vs. Chicago Stars FC: O/U 3.5",
+   "slug": "nwsl-das-chi-2026-08-19-total-3pt5",
+   "yes": 0.83,
+   "no": 0.17,
+   "volumen": 9959.348206,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Houston Dash vs. Chicago Stars FC: Más/Menos 3.5"
+  },
+  {
+   "question": "Will USD/JPY hit 165 (High) in 2026?",
+   "slug": "will-usdjpy-hit-165-high-in-2026",
+   "yes": 0.4,
+   "no": 0.6,
+   "volumen": 9952.114907,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
@@ -398,5 +357,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 98.54
+ "db_size_mb": 98.68
 }
