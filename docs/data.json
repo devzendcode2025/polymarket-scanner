@@ -1,30 +1,51 @@
 {
- "ts": 1787186144,
- "stamp": "20260820_003544",
+ "ts": 1787186504,
+ "stamp": "20260820_004144",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
+ "momentum": [],
+ "ballenas_scan": [
   {
-   "tipo": "momentum",
-   "market_id": "3381548",
-   "question": "Will Orlando City SC vs. Chicago Fire FC end in a draw?",
-   "slug": "mls-orl-chi-2026-08-19-draw",
-   "tags": [],
+   "tipo": "ballena",
+   "market_id": "0xea57cc51e1596ec9adbad95f7bd92665cb26b516f57deb3c1e50daa38c224431",
+   "titulo": "Seattle Sounders FC vs. Austin FC: O/U 2.5",
+   "slug": "mls-sea-aus-2026-08-19-total-2pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 21783.62,
+   "price": 0.599892488,
+   "usd": 13067.83,
+   "ts": 1787186341,
    "categoria": "Otros",
-   "yes_antes": 0.225,
-   "yes_ahora": 0.26,
-   "cambio_pct": 15.6,
-   "direccion": "SUBIDA",
-   "volumen": 9853.199738,
-   "prob": 65,
-   "confianza": "media",
+   "prob": 70,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Yes subida 15.6% vs el scan anterior (0.225 → 0.26) en un mercado con $9,853 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/mls-orl-chi-2026-08-19-draw",
-   "question_es": "¿Terminará en empate Orlando City SC vs. Chicago Fire FC?"
+   "razon": "Trade de compra por $13,068 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-sea-aus-2026-08-19-total-2pt5",
+   "titulo_es": "Seattle Sounders FC vs. Austin FC: Más/Menos 2.5",
+   "narrativa": "Dos órdenes de compra consecutivas por USD 13,067 y USD 8,762 sobre el Over 2.5 en el mismo evento reflejan una acumulación direccional de capital institucional. Este flujo concentrado, equivalente a más de USD 21,800 en dos ticks, sugiere que los grandes operadores están posicionándose con convicción ante una posible alta producción ofensiva, lo que incrementa la probabilidad implícita de que el mercado ajuste el precio al alza. El edge táctico radica en seguir la estela de liquidez antes de que el consenso externo (tipicamente mas lento) reaccione. Riesgo: posible correccion si el mercado ya habia descontado el over en el precio de cierre."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xea57cc51e1596ec9adbad95f7bd92665cb26b516f57deb3c1e50daa38c224431",
+   "titulo": "Seattle Sounders FC vs. Austin FC: O/U 2.5",
+   "slug": "mls-sea-aus-2026-08-19-total-2pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 14957.9,
+   "price": 0.5857995307,
+   "usd": 8762.33,
+   "ts": 1787186341,
+   "categoria": "Otros",
+   "prob": 65,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $8,762 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-sea-aus-2026-08-19-total-2pt5",
+   "titulo_es": "Seattle Sounders FC vs. Austin FC: Más/Menos 2.5",
+   "narrativa": "La segunda compra de USD 8,762 sobre el Over 2.5, que se suma a la orden previa de USD 13,067, confirma un patron de acumulacion no aislado sino coordinado, lo que reduce el ruido de una sola operacion especulativa. Este monto, al ser ejecutado en un mercado con volumen limitado (sin dato de liquidez total), representa una presion de compra significativa que puede desplazar el punto de equilibrio del mercado. El desvio entre el flujo actual y el consenso externo (que suele ponderar estadisticas historicas de ambos equipos) crea una ventana de arbitraje de informacion, ya que el capital grande suele tener acceso a datos de formacion o condiciones del partido no publicos. Riesgo: poca liquidez puede amplificar el slippage si se intenta replicar la senal."
   }
  ],
- "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -116,66 +137,6 @@
    "razon": "Polymarket paga este mercado a 15.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 34.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
    "narrativa": "El mercado de Polymarket cotiza el 'Sí' a solo 15.0, frente a un consenso externo de 49.5 en PredictIt, generando un edge de 34.5 puntos a favor de la compra. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real del evento, ofreciendo una oportunidad asimétrica con un potencial de revalorización del 130% si el mercado converge hacia el consenso. Riesgo: el evento es a largo plazo (2026) y la liquidez puede ser limitada, lo que podría dificultar la salida anticipada."
-  },
-  {
-   "tipo": "edge",
-   "question": "Will Philadelphia Union win on 2026-08-19?",
-   "slug": "mls-phi-mia-2026-08-19-phi",
-   "url": "https://polymarket.com/market/mls-phi-mia-2026-08-19-phi",
-   "prob_poly": 18.0,
-   "consenso": 40.1,
-   "edge": 22.1,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "ESPN",
-     "titulo": "Winner: Philadelphia Union vs Inter Miami CF (usa.1)",
-     "prob": 40.08,
-     "url": "https://www.espn.com/soccer/game/_/gameId/761727",
-     "deporte": "usa.1",
-     "game_id": "761727",
-     "titulo_es": "Ganador: Philadelphia Union vs Inter Miami CF (usa.1)"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Otros",
-   "prob": 81,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 18.0% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 40.1%: diferencia de 22.1 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará Philadelphia Union el 2026-08-19?",
-   "narrativa": "Philadelphia Union cotiza a 18.0 en Polymarket, muy por debajo del 40.1% de consenso externo de ESPN, generando un edge de +22.1 puntos a favor del 'Sí'. Esta brecha sugiere que el mercado no ha absorbido plenamente la probabilidad real del evento, ofreciendo una entrada asimétrica con upside significativo si el precio converge hacia la referencia. Riesgo: posible ajuste brusco si el consenso externo se basa en modelos con variables distintas a las del mercado."
-  },
-  {
-   "tipo": "edge",
-   "question": "Will Racing Louisville FC win on 2026-08-23?",
-   "slug": "nwsl-chi-rac-2026-08-23-rac",
-   "url": "https://polymarket.com/market/nwsl-chi-rac-2026-08-23-rac",
-   "prob_poly": 53.0,
-   "consenso": 37.7,
-   "edge": -15.3,
-   "direccion": "Polymarket CARO (comprar No)",
-   "fuentes": [
-    {
-     "fuente": "ESPN",
-     "titulo": "Winner: Racing Louisville FC vs Seattle Reign FC (usa.nwsl)",
-     "prob": 37.72,
-     "url": "https://www.espn.com/soccer/game/_/gameId/401853975",
-     "deporte": "usa.nwsl",
-     "game_id": "401853975",
-     "titulo_es": "Ganador: Racing Louisville FC vs Seattle Reign FC (usa.nwsl)"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Otros",
-   "prob": 73,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 53.0% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 37.7%: diferencia de 15.3 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
-   "question_es": "¿Ganará Racing Louisville FC el 2026-08-23?",
-   "narrativa": "Racing Louisville FC se negocia a 53.0 en Polymarket, superando el 37.7% de consenso de ESPN, lo que deja un margen negativo de -15.3 puntos y posiciona al 'No' como la opción con valor relativo. Comprar el 'No' a 47.0 implica un costo bajo frente a una probabilidad implícita externa del 62.3%, capturando un edge de +15.3 puntos si el mercado corrige hacia la referencia. Riesgo: el consenso externo puede subestimar factores locales o dinámicas de último momento que favorezcan al equipo."
   }
  ],
  "top_volumen": [
@@ -224,7 +185,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982391.2685909995,
+   "volumen": 982399.4365910001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -232,8 +193,8 @@
   {
    "question": "Will CR Flamengo win on 2026-08-19?",
    "slug": "lib-fla-cru-2026-08-19-fla",
-   "yes": 0.6,
-   "no": 0.4,
+   "yes": 0.645,
+   "no": 0.355,
    "volumen": 99827.47750299997,
    "spread": 0.0,
    "categoria": "Otros",
@@ -262,8 +223,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.057,
-   "no": 0.943,
+   "yes": 0.058,
+   "no": 0.942,
    "volumen": 99270.71304,
    "spread": 0.0,
    "categoria": "Política",
@@ -300,20 +261,10 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will CR Flamengo win on 2026-08-19?",
-   "slug": "lib-fla-cru-2026-08-19-fla",
-   "yes": 0.595,
-   "no": 0.405,
-   "volumen": 98994.01417299997,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el CR Flamengo el 2026-08-19?"
-  },
-  {
    "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
    "slug": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-   "yes": 0.545,
-   "no": 0.455,
+   "yes": 0.535,
+   "no": 0.465,
    "volumen": 98892.74210800002,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -324,7 +275,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294600006,
+   "volumen": 98831.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -334,7 +285,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 98534.93697800003,
+   "volumen": 98534.93697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -344,7 +295,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.983,
    "no": 0.017,
-   "volumen": 98359.536631,
+   "volumen": 98359.53663099998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -362,9 +313,9 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.6,
-   "no": 0.4,
-   "volumen": 98183.97211600002,
+   "yes": 0.59,
+   "no": 0.41,
+   "volumen": 98183.97211599999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -382,8 +333,8 @@
   {
    "question": "Will Orlando City SC vs. Chicago Fire FC end in a draw?",
    "slug": "mls-orl-chi-2026-08-19-draw",
-   "yes": 0.225,
-   "no": 0.775,
+   "yes": 0.23,
+   "no": 0.77,
    "volumen": 9998.499738,
    "spread": 0.0,
    "categoria": "Otros",
@@ -402,8 +353,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.241,
-   "no": 0.759,
+   "yes": 0.245,
+   "no": 0.755,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -428,6 +379,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Margen: Colorado Rockies (-1.5)"
+  },
+  {
+   "question": "Will Truist fail by end of 2026?",
+   "slug": "will-truist-fail-by-end-of-2026",
+   "yes": 0.0315,
+   "no": 0.9685,
+   "volumen": 9973.222389999999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Quebrará Truist para finales de 2026?"
   }
  ],
  "historico": {
@@ -437,5 +398,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 98.1
+ "db_size_mb": 98.17
 }
