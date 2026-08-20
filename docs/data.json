@@ -1,10 +1,51 @@
 {
- "ts": 1787183983,
- "stamp": "20260819_235943",
+ "ts": 1787184464,
+ "stamp": "20260820_000744",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x2278b7312527226eb85b01cf62ed8a69eb18b604d3ef195c78d531875fc4e131",
+   "titulo": "Valorant: G2 Esports vs M80 - Map 1 Winner",
+   "slug": "val-g21-m80-2026-08-19-game1",
+   "outcome": "M80",
+   "side": "BUY",
+   "size": 2008.0,
+   "price": 0.5884611554,
+   "usd": 1181.63,
+   "ts": 1787184241,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,182 en 'M80'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-g21-m80-2026-08-19-game1",
+   "titulo_es": "Valorant: G2 Esports vs M80 - Ganador del Mapa 1",
+   "narrativa": "La compra de $1,181.63 en M80 para ganar el Mapa 1 representa una apuesta concentrada que, aunque sin volumen de mercado reportado, sugiere información privilegiada o un fuerte conviction interno. El tamaño del trade, al ser significativo para un mercado de nicho, puede indicar que el precio actual no refleja completamente la probabilidad real del outcome, generando un edge potencial si el consenso externo subestima a M80. Riesgo: liquidez limitada podría amplificar el slippage al entrar o salir."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x2278b7312527226eb85b01cf62ed8a69eb18b604d3ef195c78d531875fc4e131",
+   "titulo": "Valorant: G2 Esports vs M80 - Map 1 Winner",
+   "slug": "val-g21-m80-2026-08-19-game1",
+   "outcome": "M80",
+   "side": "BUY",
+   "size": 2008.0,
+   "price": 0.5689541833,
+   "usd": 1142.46,
+   "ts": 1787184241,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,142 en 'M80'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-g21-m80-2026-08-19-game1",
+   "titulo_es": "Valorant: G2 Esports vs M80 - Ganador del Mapa 1",
+   "narrativa": "La segunda compra de $1,142.46 en el mismo resultado (M80) refuerza la señal previa, acumulando un total de $2,324.09 en dos órdenes casi simultáneas. Esta consistencia en el flujo de dinero, con un monto promedio por trade de ~$1,162, sugiere que el comprador está escalando posición con convicción, lo que puede indicar que el mercado está desalineado con la valoración interna. El cambio porcentual en el precio del outcome no se especifica, pero la repetición de la apuesta aumenta la probabilidad de que exista un edge real frente al consenso externo. Riesgo: la falta de volumen de mercado puede hacer que la salida sea costosa."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -104,7 +145,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0225,
    "no": 0.9775,
-   "volumen": 9912014.290954994,
+   "volumen": 9912014.290955001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -114,7 +155,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.527849,
+   "volumen": 996816.5278490001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -124,7 +165,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 995995.6908560001,
+   "volumen": 996171.6908559998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -144,7 +185,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982380.2362580003,
+   "volumen": 982380.2362579999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -172,9 +213,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0635,
-   "no": 0.9365,
-   "volumen": 99270.71304000002,
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -188,16 +229,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
-  },
-  {
-   "question": "Minnesota Lynx vs. Golden State Valkyries: O/U 163.5",
-   "slug": "wnba-min-gsv-2026-08-19-total-163pt5",
-   "yes": 0.465,
-   "no": 0.535,
-   "volumen": 99189.88790899998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Minnesota Lynx vs. Golden State Valkyries: Más/Menos 163.5"
   },
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
@@ -224,47 +255,37 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.562946,
+   "volumen": 98831.56294600002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
-  },
-  {
-   "question": "Valorant: G2 Esports vs M80 (BO3) - VCT Americas Stage 2 Play-In",
-   "slug": "val-g21-m80-2026-08-19",
-   "yes": 0.64,
-   "no": 0.36,
-   "volumen": 98539.38722199999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Valorant: G2 Esports vs M80 (BO3) - VCT Americas Stage 2 Play-In"
-  },
-  {
-   "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
-   "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.006,
-   "no": 0.994,
-   "volumen": 98534.936978,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
    "question": "Will CR Flamengo win on 2026-08-19?",
    "slug": "lib-fla-cru-2026-08-19-fla",
    "yes": 0.595,
    "no": 0.405,
-   "volumen": 98463.56784600002,
+   "volumen": 98732.347514,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará el CR Flamengo el 2026-08-19?"
+  },
+  {
+   "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
+   "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
+   "yes": 0.006,
+   "no": 0.994,
+   "volumen": 98534.93697800003,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
    "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.983,
    "no": 0.017,
-   "volumen": 98359.53663099998,
+   "volumen": 98359.53663099997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -274,7 +295,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 98224.629709,
+   "volumen": 98224.62970900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -282,9 +303,9 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.9655,
-   "no": 0.0345,
-   "volumen": 9999.604839000001,
+   "yes": 0.97,
+   "no": 0.03,
+   "volumen": 9999.604839,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 24 de agosto?"
@@ -302,9 +323,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.241,
-   "no": 0.759,
-   "volumen": 9990.964864000001,
+   "yes": 0.251,
+   "no": 0.749,
+   "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -342,20 +363,40 @@
   {
    "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
    "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.029,
-   "no": 0.971,
+   "yes": 0.028,
+   "no": 0.972,
    "volumen": 9965.945226,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
+  },
+  {
+   "question": "Will USD/JPY hit 165 (High) in 2026?",
+   "slug": "will-usdjpy-hit-165-high-in-2026",
+   "yes": 0.4,
+   "no": 0.6,
+   "volumen": 9952.114907,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.0025,
+   "no": 0.9975,
+   "volumen": 9946.699383,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787182231,
+  "ts": 1787184123,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 97.6
+ "db_size_mb": 97.67
 }
