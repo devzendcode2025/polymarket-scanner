@@ -1,29 +1,29 @@
 {
- "ts": 1787189265,
- "stamp": "20260820_012745",
+ "ts": 1787189625,
+ "stamp": "20260820_013345",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xfb9c13ddc71e40b99704dc6c5db240dd2aa41904f5e38e93b9a5ccefdca0da13",
-   "titulo": "Minnesota United FC vs. Atlanta United FC: 1st Half O/U 1.5",
-   "slug": "mls-min-atl-2026-08-19-first-half-total-1pt5",
-   "outcome": "Under",
+   "market_id": "0x9362d21457060b9d717fbcf5dd1098e17363ce50ab8f92de3e6bbe77440dd7e2",
+   "titulo": "Vancouver Whitecaps FC vs. Houston Dynamo: O/U 2.5",
+   "slug": "mls-vwh-hou-2026-08-19-total-2pt5",
+   "outcome": "Over",
    "side": "BUY",
-   "size": 1416.83,
-   "price": 0.8774473296,
-   "usd": 1243.19,
-   "ts": 1787189043,
+   "size": 3000.0,
+   "price": 0.58,
+   "usd": 1740.0,
+   "ts": 1787189328,
    "categoria": "Otros",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,243 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-min-atl-2026-08-19-first-half-total-1pt5",
-   "titulo_es": "Minnesota United FC vs. Atlanta United FC: 1er tiempo Más/Menos 1.5",
-   "narrativa": "El mercado de 'Under 1.5 goles en el primer tiempo' para Minnesota United vs. Atlanta United muestra una compra significativa de $1,243, lo que sugiere que el dinero inteligente anticipa un inicio conservador. Aunque no contamos con el volumen total del mercado, la magnitud de la orden en relación con la liquidez típica de estos mercados de mitad de temporada indica un edge potencial si el consenso externo (modelos de goles esperados bajos) respalda la tendencia. La falta de datos de volumen limita la precisión del edge, pero la dirección de la apuesta es clara. Riesgo: liquidez moderada en mercados de tiempo parcial."
+   "razon": "Trade de compra por $1,740 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-vwh-hou-2026-08-19-total-2pt5",
+   "titulo_es": "Vancouver Whitecaps FC vs. Houston Dynamo: Más/Menos 2.5",
+   "narrativa": "El mercado de Más/Menos 2.5 en el Vancouver-Houston muestra una compra de 1740 USD hacia el Over, lo que sugiere una convicción direccional en un partido con historial de goles. Aunque no hay consenso externo disponible, el tamaño del trade en relación al flujo típico indica un edge potencial en la eficiencia del precio actual. La falta de volumen de mercado registrado añade incertidumbre, pero la apuesta concentrada puede anticipar un movimiento correctivo. Riesgo: posible baja liquidez en el mercado de totales."
   }
  ],
  "edges": [
@@ -193,8 +193,8 @@
   {
    "question": "New York Yankees vs. Baltimore Orioles: O/U 8.5",
    "slug": "mlb-nyy-bal-2026-08-19-total-8pt5",
-   "yes": 0.605,
-   "no": 0.395,
+   "yes": 0.58,
+   "no": 0.42,
    "volumen": 99494.38024899997,
    "spread": 0.0,
    "categoria": "Otros",
@@ -203,8 +203,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0575,
-   "no": 0.9425,
+   "yes": 0.058,
+   "no": 0.942,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -313,8 +313,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.245,
-   "no": 0.755,
+   "yes": 0.242,
+   "no": 0.758,
    "volumen": 9990.964864000003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -353,8 +353,8 @@
   {
    "question": "Houston Dash vs. Chicago Stars FC: O/U 3.5",
    "slug": "nwsl-das-chi-2026-08-19-total-3pt5",
-   "yes": 0.77,
-   "no": 0.23,
+   "yes": 0.73,
+   "no": 0.27,
    "volumen": 9959.348206,
    "spread": 0.0,
    "categoria": "Otros",
@@ -372,11 +372,11 @@
   }
  ],
  "historico": {
-  "ts": 1787187867,
+  "ts": 1787189668,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 98.74
+ "db_size_mb": 98.8
 }
