@@ -1,47 +1,28 @@
 {
- "ts": 1787185304,
- "stamp": "20260820_002144",
+ "ts": 1787185784,
+ "stamp": "20260820_002944",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x47d8a99010d9cc07d99e778ce1c14f064ea1905c3450c15797f1cf9dbab32f68",
-   "titulo": "Columbus Crew vs. CF Montréal: O/U 4.5",
-   "slug": "mls-clb-mim-2026-08-19-total-4pt5",
-   "outcome": "Under",
+   "market_id": "0xfbd8c607ba7747a63033e67334b4b4a4a71ae0f72398b46b333aa0d9e5eddc24",
+   "titulo": "Bitcoin Up or Down - August 19, 8:25PM-8:30PM ET",
+   "slug": "btc-updown-5m-1787185500",
+   "outcome": "Down",
    "side": "BUY",
-   "size": 5105.5,
-   "price": 0.72,
-   "usd": 3675.96,
-   "ts": 1787185138,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,676 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-clb-mim-2026-08-19-total-4pt5",
-   "titulo_es": "Columbus Crew vs. CF Montréal: Más/Menos 4.5"
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xdb1fe0a5ad49d437ad52afaf4e8215aceca6bb90f1c92113f95a1cdabeea4967",
-   "titulo": "Will the price of Bitcoin be above $66,000 on August 20?",
-   "slug": "bitcoin-above-66k-on-august-20-2026",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 2355.47,
-   "price": 0.9760540699,
-   "usd": 2299.07,
-   "ts": 1787185141,
+   "size": 1096.993183,
+   "price": 0.9289027569,
+   "usd": 1019.0,
+   "ts": 1787185740,
    "categoria": "Cripto",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,299 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-66k-on-august-20-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $66,000 el 20 de agosto?"
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,019 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1787185500",
+   "titulo_es": "Bitcoin Sube o Baja - 19 de agosto, 8:25PM-8:30PM ET"
   }
  ],
  "edges": [
@@ -281,8 +262,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0525,
-   "no": 0.9475,
+   "yes": 0.054,
+   "no": 0.946,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -291,8 +272,8 @@
   {
    "question": "Will Philadelphia Union win on 2026-08-19?",
    "slug": "mls-phi-mia-2026-08-19-phi",
-   "yes": 0.225,
-   "no": 0.775,
+   "yes": 0.18,
+   "no": 0.82,
    "volumen": 99224.81210799995,
    "spread": 0.0,
    "categoria": "Otros",
@@ -391,8 +372,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.59,
-   "no": 0.41,
+   "yes": 0.595,
+   "no": 0.405,
    "volumen": 98183.97211600002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -401,8 +382,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.9715,
-   "no": 0.0285,
+   "yes": 0.9725,
+   "no": 0.0275,
    "volumen": 9999.604839,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -421,8 +402,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2405,
-   "no": 0.7595,
+   "yes": 0.241,
+   "no": 0.759,
    "volumen": 9990.964863999998,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -456,5 +437,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 97.89
+ "db_size_mb": 98.03
 }
