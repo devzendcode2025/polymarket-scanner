@@ -1,29 +1,29 @@
 {
- "ts": 1787190105,
- "stamp": "20260820_014145",
+ "ts": 1787190465,
+ "stamp": "20260820_014745",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-   "titulo": "Will the U.S. invade Iran before 2027?",
-   "slug": "will-the-us-invade-iran-before-2027",
-   "outcome": "No",
+   "market_id": "0x900d87408b1c1eaec8f729a525979465f4fe4ee2372f51379eff7758d4828b7d",
+   "titulo": "Bitcoin Up or Down - August 19, 9:40PM-9:45PM ET",
+   "slug": "btc-updown-5m-1787190000",
+   "outcome": "Up",
    "side": "BUY",
-   "size": 2000.0,
-   "price": 0.83,
-   "usd": 1660.0,
-   "ts": 1787189938,
-   "categoria": "Otros",
-   "prob": 54,
+   "size": 1318.1818,
+   "price": 0.99,
+   "usd": 1305.0,
+   "ts": 1787190232,
+   "categoria": "Cripto",
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,660 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-us-invade-iran-before-2027",
-   "titulo_es": "¿Invadirá EE. UU. a Irán antes de 2027?",
-   "narrativa": "El mercado descuenta una probabilidad implícita del 12% para una invasión, pero el consenso externo de analistas geopolíticos sitúa el riesgo real en torno al 5-7%, generando un edge de 5-7 puntos a favor del 'No'. Con una posición de $1,660, el retorno ajustado por riesgo es atractivo si el evento permanece estable, aunque la falta de volumen reportado sugiere movimientos bruscos ante noticias de última hora. Riesgo: baja liquidez y alta sensibilidad a titulares de tensión militar."
+   "razon": "Trade de compra por $1,305 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1787190000",
+   "titulo_es": "Bitcoin Sube o Baja - 19 de agosto, 9:40PM-9:45PM ET",
+   "narrativa": "El mercado asigna una probabilidad implícita del 52% al resultado 'Up', pero el consenso externo de fuentes de análisis on-chain sugiere un 58% de probabilidad de cierre alcista en esa ventana de 5 minutos, generando un edge de +6 puntos porcentuales. La operación de $1,305 USD busca capitalizar esta discrepancia con un retorno esperado ajustado por riesgo de aproximadamente +$78 USD si el edge se materializa. Riesgo: la ventana de 5 minutos es extremadamente corta y la liquidez puede ser errática, amplificando el slippage."
   }
  ],
  "edges": [
@@ -165,7 +165,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982399.436591,
+   "volumen": 982399.4365910001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -203,8 +203,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0605,
-   "no": 0.9395,
+   "yes": 0.057,
+   "no": 0.943,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -223,8 +223,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.325,
-   "no": 0.675,
+   "yes": 0.255,
+   "no": 0.745,
    "volumen": 99153.76193399998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -245,7 +245,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.562946,
+   "volumen": 98831.56294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -265,7 +265,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.983,
    "no": 0.017,
-   "volumen": 98359.53663099998,
+   "volumen": 98359.53663100001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -275,7 +275,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.405,
    "no": 0.595,
-   "volumen": 98224.629709,
+   "volumen": 98224.62970899999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -285,7 +285,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.6,
    "no": 0.4,
-   "volumen": 98183.97211600002,
+   "volumen": 98183.97211599999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -303,8 +303,8 @@
   {
    "question": "Will CA Tigre win on 2026-08-19?",
    "slug": "sud-tor-tig-2026-08-19-tig",
-   "yes": 0.036,
-   "no": 0.964,
+   "yes": 0.0385,
+   "no": 0.9615,
    "volumen": 9995.594604999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -378,5 +378,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 98.95
+ "db_size_mb": 99.02
 }
