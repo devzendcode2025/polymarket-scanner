@@ -1,40 +1,19 @@
 {
- "ts": 1787190825,
- "stamp": "20260820_015345",
+ "ts": 1787191305,
+ "stamp": "20260820_020145",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xb7a0a481755814f1964b082118e30c85bbfe698e7e3d3d722c07fe0935e42214",
-   "titulo": "New York Yankees vs. Baltimore Orioles: O/U 8.5",
-   "slug": "mlb-nyy-bal-2026-08-19-total-8pt5",
-   "outcome": "Under",
-   "side": "SELL",
-   "size": 33748.85,
-   "price": 0.999,
-   "usd": 33715.1,
-   "ts": 1787190546,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $33,715 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-nyy-bal-2026-08-19-total-8pt5",
-   "titulo_es": "New York Yankees vs. Baltimore Orioles: Más/Menos 8.5",
-   "narrativa": "El mercado de Más/Menos 8.5 en Yankees-Orioles muestra un desequilibrio claro: la venta de Under por $33,715.1 representa una posición dominante frente al consenso externo, que proyecta un total esperado de 8.2 carreras. Este edge de aproximadamente 0.3 puntos a favor del Under se ve respaldado por la tendencia de los últimos 10 juegos entre ambos equipos, donde el 70% cerraron por debajo de la línea. La oportunidad radica en capitalizar la sobrevaloración del Over, que atrae a apostadores recreativos, mientras los números sugieren un juego más cerrado de lo que el mercado sugiere. Riesgo: el volumen de mercado no está disponible, lo que podría implicar una liquidez moderada en horas pico."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
    "question": "Will OpenAI’s Astra model be released by August 31, 2026?",
    "slug": "will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
    "url": "https://polymarket.com/market/will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
-   "prob_poly": 11.5,
+   "prob_poly": 12.0,
    "consenso": 83.5,
-   "edge": 72.0,
+   "edge": 71.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -58,9 +37,9 @@
    "confianza": "alta",
    "horizonte": "72h",
    "fuentes_nombres": "Manifold, Manifold",
-   "razon": "Polymarket paga este mercado a 11.5% y el consenso de 2 fuente(s) externa(s) (Manifold, Manifold) lo paga a 83.5%: diferencia de 72.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 12.0% y el consenso de 2 fuente(s) externa(s) (Manifold, Manifold) lo paga a 83.5%: diferencia de 71.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Se lanzará el modelo Astra de OpenAI antes del 31 de agosto de 2026?",
-   "narrativa": "El mercado de Polymarket para el lanzamiento del modelo Astra de OpenAI antes del 31 de agosto de 2026 cotiza en 11.5, mientras que el consenso externo (Manifold) lo sitúa en 83.5, generando un edge de 72 puntos a favor de la compra del 'Sí'. Esta brecha extrema sugiere que el precio de Polymarket está significativamente rezagado respecto a las probabilidades implícitas en otras plataformas, lo que representa una oportunidad de arbitraje informativo. Riesgo: la liquidez puede ser limitada y el evento depende de factores técnicos no controlables."
+   "narrativa": "El consenso externo de 83.5% contrasta fuertemente con el precio implícito de Polymarket de 12%, generando un edge de 71.5 puntos a favor del 'Sí'. Esta discrepancia sugiere que el mercado está valorando una probabilidad mucho menor de la que indican otras plataformas, lo que convierte la compra de 'Sí' en una oportunidad con alta rentabilidad esperada si el consenso externo es más preciso. Riesgo: la fecha límite es lejana y el lanzamiento podría retrasarse, lo que añade incertidumbre temporal."
   },
   {
    "tipo": "edge",
@@ -193,8 +172,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0535,
-   "no": 0.9465,
+   "yes": 0.0575,
+   "no": 0.9425,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -213,8 +192,8 @@
   {
    "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
    "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.275,
-   "no": 0.725,
+   "yes": 0.28,
+   "no": 0.72,
    "volumen": 99153.76193399998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -273,8 +252,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.59,
-   "no": 0.41,
+   "yes": 0.6,
+   "no": 0.4,
    "volumen": 98183.97211599999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -283,8 +262,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.9685,
-   "no": 0.0315,
+   "yes": 0.9715,
+   "no": 0.0285,
    "volumen": 9999.604839,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -293,8 +272,8 @@
   {
    "question": "Will CA Tigre win on 2026-08-19?",
    "slug": "sud-tor-tig-2026-08-19-tig",
-   "yes": 0.027,
-   "no": 0.973,
+   "yes": 0.0375,
+   "no": 0.9625,
    "volumen": 9995.594605000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -323,8 +302,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.235,
-   "no": 0.765,
+   "yes": 0.2545,
+   "no": 0.7455,
    "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -343,8 +322,8 @@
   {
    "question": "Sporting Kansas City vs. St. Louis City SC: O/U 3.5",
    "slug": "mls-skc-stl-2026-08-19-total-3pt5",
-   "yes": 0.285,
-   "no": 0.715,
+   "yes": 0.21,
+   "no": 0.79,
    "volumen": 9985.953832000001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -378,5 +357,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 99.08
+ "db_size_mb": 99.2
 }
