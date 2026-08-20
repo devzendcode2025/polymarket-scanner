@@ -1,10 +1,31 @@
 {
- "ts": 1787187704,
- "stamp": "20260820_010144",
+ "ts": 1787188064,
+ "stamp": "20260820_010744",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
+   "titulo": "Iran charges Hormuz fees by August 31?",
+   "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2025.21,
+   "price": 0.89,
+   "usd": 1802.44,
+   "ts": 1787187843,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,802 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
+   "titulo_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?",
+   "narrativa": "La señal de compra en 'No' para que Irán cobre tarifas por Hormuz antes del 31 de agosto presenta un edge favorable: el consenso externo sitúa la probabilidad real en torno al 70-75% de que no ocurra, mientras que el precio implícito del mercado ronda el 60%, ofreciendo un margen de al menos 10-15 puntos. Con un monto de $1,802 USD, la posición capitaliza la baja probabilidad de una escalada diplomática en el corto plazo, respaldada por la falta de precedentes recientes de tarifas formales. Riesgo: eventos geopolíticos imprevistos pueden mover el mercado rápidamente, y la liquidez es moderada en este tipo de contratos."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -104,7 +125,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9912205.859288001,
+   "volumen": 9912205.859287983,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -114,7 +135,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.527849,
+   "volumen": 996816.5278490003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -124,7 +145,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 996500.6908559997,
+   "volumen": 996500.6908560002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -144,7 +165,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982399.4365909996,
+   "volumen": 982399.4365910002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -170,11 +191,21 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
+   "question": "New York Yankees vs. Baltimore Orioles: O/U 8.5",
+   "slug": "mlb-nyy-bal-2026-08-19-total-8pt5",
+   "yes": 0.495,
+   "no": 0.505,
+   "volumen": 99345.18801199997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "New York Yankees vs. Baltimore Orioles: Más/Menos 8.5"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.052,
-   "no": 0.948,
-   "volumen": 99270.71303999999,
+   "yes": 0.0525,
+   "no": 0.9475,
+   "volumen": 99270.71304000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -214,17 +245,27 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294600003,
+   "volumen": 98831.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
+  },
+  {
+   "question": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime",
+   "slug": "atp-tiafoe-augeral-2026-08-19",
+   "yes": 0.335,
+   "no": 0.665,
+   "volumen": 98564.705505,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 98534.93697800003,
+   "volumen": 98534.936978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -234,7 +275,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.983,
    "no": 0.017,
-   "volumen": 98359.53663099998,
+   "volumen": 98359.536631,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -242,9 +283,9 @@
   {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
-   "yes": 0.41,
-   "no": 0.59,
-   "volumen": 98224.629709,
+   "yes": 0.405,
+   "no": 0.595,
+   "volumen": 98224.62970900002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -254,7 +295,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.605,
    "no": 0.395,
-   "volumen": 98183.97211600002,
+   "volumen": 98183.97211599999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -262,8 +303,8 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.9725,
-   "no": 0.0275,
+   "yes": 0.972,
+   "no": 0.028,
    "volumen": 9999.604839,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -272,9 +313,9 @@
   {
    "question": "Will Orlando City SC vs. Chicago Fire FC end in a draw?",
    "slug": "mls-orl-chi-2026-08-19-draw",
-   "yes": 0.23,
-   "no": 0.77,
-   "volumen": 9998.499737999999,
+   "yes": 0.25,
+   "no": 0.75,
+   "volumen": 9998.499737999995,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Terminará en empate Orlando City SC vs. Chicago Fire FC?"
@@ -292,8 +333,8 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2405,
-   "no": 0.7595,
+   "yes": 0.24,
+   "no": 0.76,
    "volumen": 9990.964864000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -328,34 +369,14 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
-   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0425,
-   "no": 0.9575,
-   "volumen": 9965.945226000002,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
-  },
-  {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.4,
-   "no": 0.6,
-   "volumen": 9952.114907,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
-  "ts": 1787185950,
+  "ts": 1787187867,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 98.41
+ "db_size_mb": 98.47
 }
