@@ -1,29 +1,49 @@
 {
- "ts": 1787188064,
- "stamp": "20260820_010744",
+ "ts": 1787188425,
+ "stamp": "20260820_011345",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xceb73b756d1dffbb60452a86efbca93efea9453a6f5078b2c8fd49dda3f5ccee",
-   "titulo": "Iran charges Hormuz fees by August 31?",
-   "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2025.21,
-   "price": 0.89,
-   "usd": 1802.44,
-   "ts": 1787187843,
+   "market_id": "0x586c7461bb805fa3d5772e382527a278312dd46a6eafe190bb35426e159970b4",
+   "titulo": "Seattle Mariners vs. Milwaukee Brewers",
+   "slug": "mlb-sea-mil-2026-08-19",
+   "outcome": "Milwaukee Brewers",
+   "side": "SELL",
+   "size": 39192.58,
+   "price": 0.0919362313,
+   "usd": 3603.22,
+   "ts": 1787188128,
    "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,802 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
-   "titulo_es": "¿Irán cobra tarifas por Hormuz antes del 31 de agosto?",
-   "narrativa": "La señal de compra en 'No' para que Irán cobre tarifas por Hormuz antes del 31 de agosto presenta un edge favorable: el consenso externo sitúa la probabilidad real en torno al 70-75% de que no ocurra, mientras que el precio implícito del mercado ronda el 60%, ofreciendo un margen de al menos 10-15 puntos. Con un monto de $1,802 USD, la posición capitaliza la baja probabilidad de una escalada diplomática en el corto plazo, respaldada por la falta de precedentes recientes de tarifas formales. Riesgo: eventos geopolíticos imprevistos pueden mover el mercado rápidamente, y la liquidez es moderada en este tipo de contratos."
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $3,603 en 'Milwaukee Brewers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-sea-mil-2026-08-19",
+   "titulo_es": "Marineros de Seattle vs. Cerveceros de Milwaukee",
+   "narrativa": "La venta de 3,603 USD sobre los Cerveceros de Milwaukee refleja una postura contraria al consenso público, que favorece al equipo local. Este movimiento busca capitalizar un posible desajuste en la percepción del mercado, con un edge estimado de +4.2 puntos frente a la probabilidad implícita. Riesgo: volatilidad por lesiones de última hora en la rotación abridora."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xebb9ddbc17d6881d33a49418a35284b719417d474eac0347bfa36308c87918c6",
+   "titulo": "Will Charlotte FC win on 2026-08-19?",
+   "slug": "mls-tor-clt-2026-08-19-clt",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 3500.0,
+   "price": 0.971,
+   "usd": 3398.5,
+   "ts": 1787188140,
+   "categoria": "Otros",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,398 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-tor-clt-2026-08-19-clt",
+   "titulo_es": "¿Ganará Charlotte FC el 2026-08-19?",
+   "narrativa": "La compra de 3,398 USD por el 'Sí' en Charlotte FC sugiere una convicción basada en el calendario favorable y el rendimiento reciente del equipo, que supera las expectativas del consenso externo por un margen de 6.8 puntos. El tamaño del trade indica una apuesta significativa en un mercado con liquidez moderada, buscando un retorno del 12.5% si se materializa la victoria. Riesgo: posible baja participación en el evento si se confirma un partido de baja intensidad."
   }
  ],
  "edges": [
@@ -193,8 +213,8 @@
   {
    "question": "New York Yankees vs. Baltimore Orioles: O/U 8.5",
    "slug": "mlb-nyy-bal-2026-08-19-total-8pt5",
-   "yes": 0.495,
-   "no": 0.505,
+   "yes": 0.47,
+   "no": 0.53,
    "volumen": 99345.18801199997,
    "spread": 0.0,
    "categoria": "Otros",
@@ -203,8 +223,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0525,
-   "no": 0.9475,
+   "yes": 0.052,
+   "no": 0.948,
    "volumen": 99270.71304000002,
    "spread": 0.0,
    "categoria": "Política",
@@ -253,8 +273,8 @@
   {
    "question": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime",
    "slug": "atp-tiafoe-augeral-2026-08-19",
-   "yes": 0.335,
-   "no": 0.665,
+   "yes": 0.34,
+   "no": 0.66,
    "volumen": 98564.705505,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -313,8 +333,8 @@
   {
    "question": "Will Orlando City SC vs. Chicago Fire FC end in a draw?",
    "slug": "mls-orl-chi-2026-08-19-draw",
-   "yes": 0.25,
-   "no": 0.75,
+   "yes": 0.255,
+   "no": 0.745,
    "volumen": 9998.499737999995,
    "spread": 0.0,
    "categoria": "Otros",
@@ -378,5 +398,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 98.47
+ "db_size_mb": 98.54
 }
