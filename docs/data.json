@@ -1,68 +1,47 @@
 {
- "ts": 1787184944,
- "stamp": "20260820_001544",
+ "ts": 1787185304,
+ "stamp": "20260820_002144",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x2278b7312527226eb85b01cf62ed8a69eb18b604d3ef195c78d531875fc4e131",
-   "titulo": "Valorant: G2 Esports vs M80 - Map 1 Winner",
-   "slug": "val-g21-m80-2026-08-19-game1",
-   "outcome": "G2 Esports",
-   "side": "SELL",
-   "size": 2547.3,
-   "price": 0.5004536176,
-   "usd": 1274.81,
-   "ts": 1787184837,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,275 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/val-g21-m80-2026-08-19-game1",
-   "titulo_es": "Valorant: G2 Esports vs M80 - Ganador del Mapa 1",
-   "narrativa": "La venta de G2 Esports en el mapa 1 concentra una operación de $1,274.81, lo que sugiere que el consenso del mercado está sobrevalorando su probabilidad implícita frente a la dinámica real del enfrentamiento. Este movimiento de ballena busca capturar el desvío entre el precio actual y el valor justo estimado, con un edge positivo que se materializa si el mercado corrige su percepción inicial. Riesgo: la falta de volumen de mercado puede amplificar la volatilidad del precio en momentos de baja liquidez."
+   "market_id": "0x47d8a99010d9cc07d99e778ce1c14f064ea1905c3450c15797f1cf9dbab32f68",
+   "titulo": "Columbus Crew vs. CF Montréal: O/U 4.5",
+   "slug": "mls-clb-mim-2026-08-19-total-4pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 5105.5,
+   "price": 0.72,
+   "usd": 3675.96,
+   "ts": 1787185138,
+   "categoria": "Otros",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,676 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mls-clb-mim-2026-08-19-total-4pt5",
+   "titulo_es": "Columbus Crew vs. CF Montréal: Más/Menos 4.5"
   },
   {
    "tipo": "ballena",
-   "market_id": "0x346bcc27f4ed844eb28818828324e397db9d373ec9b7f8eb73787eaeba2dd985",
-   "titulo": "Valorant: G2 Esports vs M80 (BO3) - VCT Americas Stage 2 Play-In",
-   "slug": "val-g21-m80-2026-08-19",
-   "outcome": "M80",
+   "market_id": "0xdb1fe0a5ad49d437ad52afaf4e8215aceca6bb90f1c92113f95a1cdabeea4967",
+   "titulo": "Will the price of Bitcoin be above $66,000 on August 20?",
+   "slug": "bitcoin-above-66k-on-august-20-2026",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 3333.0,
-   "price": 0.3599136514,
-   "usd": 1199.59,
-   "ts": 1787184841,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,200 en 'M80'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/val-g21-m80-2026-08-19",
-   "titulo_es": "Valorant: G2 Esports vs M80 (BO3) - VCT Americas Stage 2 Play-In",
-   "narrativa": "La compra de M80 en el BO3 por $1,199.59 refleja una apuesta contraria al favoritismo de G2, aprovechando que el consenso externo no ha descontado completamente la capacidad de M80 para extender la serie. El monto significativo indica que el operador identifica un desajuste en las probabilidades, con un edge que se sustenta en el desempeño reciente de ambos equipos en mapas decisivos. Riesgo: la dependencia de un solo mapa puede generar resultados binarios extremos, y la ausencia de datos de volumen limita la confirmación de la señal."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x2278b7312527226eb85b01cf62ed8a69eb18b604d3ef195c78d531875fc4e131",
-   "titulo": "Valorant: G2 Esports vs M80 - Map 1 Winner",
-   "slug": "val-g21-m80-2026-08-19-game1",
-   "outcome": "M80",
-   "side": "BUY",
-   "size": 2325.5283,
-   "price": 0.5132425174,
-   "usd": 1193.56,
-   "ts": 1787184837,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,194 en 'M80'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/val-g21-m80-2026-08-19-game1",
-   "titulo_es": "Valorant: G2 Esports vs M80 - Ganador del Mapa 1"
+   "size": 2355.47,
+   "price": 0.9760540699,
+   "usd": 2299.07,
+   "ts": 1787185141,
+   "categoria": "Cripto",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,299 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-66k-on-august-20-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $66,000 el 20 de agosto?"
   }
  ],
  "edges": [
@@ -156,6 +135,66 @@
    "razon": "Polymarket paga este mercado a 15.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 34.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
    "narrativa": "El mercado de Polymarket cotiza el 'Sí' a solo 15.0, frente a un consenso externo de 49.5 en PredictIt, generando un edge de 34.5 puntos a favor de la compra. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real del evento, ofreciendo una oportunidad asimétrica con un potencial de revalorización del 130% si el mercado converge hacia el consenso. Riesgo: el evento es a largo plazo (2026) y la liquidez puede ser limitada, lo que podría dificultar la salida anticipada."
+  },
+  {
+   "tipo": "edge",
+   "question": "Will Philadelphia Union win on 2026-08-19?",
+   "slug": "mls-phi-mia-2026-08-19-phi",
+   "url": "https://polymarket.com/market/mls-phi-mia-2026-08-19-phi",
+   "prob_poly": 22.5,
+   "consenso": 40.1,
+   "edge": 17.6,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "ESPN",
+     "titulo": "Winner: Philadelphia Union vs Inter Miami CF (usa.1)",
+     "prob": 40.08,
+     "url": "https://www.espn.com/soccer/game/_/gameId/761727",
+     "deporte": "usa.1",
+     "game_id": "761727",
+     "titulo_es": "Ganador: Philadelphia Union vs Inter Miami CF (usa.1)"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Otros",
+   "prob": 76,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "ESPN",
+   "razon": "Polymarket paga este mercado a 22.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 40.1%: diferencia de 17.6 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará Philadelphia Union el 2026-08-19?",
+   "narrativa": "Philadelphia Union cotiza a 22.5 en Polymarket, mientras que el consenso externo de ESPN lo sitúa en 40.1, generando un edge de +17.6 puntos a favor de comprar el 'Sí'. Esta brecha sugiere que el mercado de predicción no ha absorbido completamente la información pública, ofreciendo una entrada asimétrica con un desvío significativo. El monto del trade se ajusta al tamaño de la posición según el edge, capitalizando la corrección esperada. Riesgo: posible retraso en la convergencia por baja liquidez en horarios nocturnos."
+  },
+  {
+   "tipo": "edge",
+   "question": "Will Racing Louisville FC win on 2026-08-23?",
+   "slug": "nwsl-chi-rac-2026-08-23-rac",
+   "url": "https://polymarket.com/market/nwsl-chi-rac-2026-08-23-rac",
+   "prob_poly": 52.5,
+   "consenso": 37.7,
+   "edge": -14.8,
+   "direccion": "Polymarket CARO (comprar No)",
+   "fuentes": [
+    {
+     "fuente": "ESPN",
+     "titulo": "Winner: Racing Louisville FC vs Seattle Reign FC (usa.nwsl)",
+     "prob": 37.72,
+     "url": "https://www.espn.com/soccer/game/_/gameId/401853975",
+     "deporte": "usa.nwsl",
+     "game_id": "401853975",
+     "titulo_es": "Ganador: Racing Louisville FC vs Seattle Reign FC (usa.nwsl)"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Otros",
+   "prob": 72,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "ESPN",
+   "razon": "Polymarket paga este mercado a 52.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 37.7%: diferencia de 14.8 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "question_es": "¿Ganará Racing Louisville FC el 2026-08-23?",
+   "narrativa": "Racing Louisville FC se negocia a 52.5 en Polymarket, pero el consenso externo de ESPN es de solo 37.7, lo que implica un edge negativo de -14.8 puntos y una oportunidad clara de comprar el 'No'. La sobrevaloración del 'Sí' refleja un sesgo del mercado que tiende a ajustarse, permitiendo una entrada con relación riesgo-beneficio favorable. El monto del trade se dimensiona para aprovechar la reversión esperada hacia el consenso. Riesgo: alta volatilidad si hay noticias de última hora sobre alineaciones."
   }
  ],
  "top_volumen": [
@@ -164,7 +203,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9912014.290955001,
+   "volumen": 9912205.859288,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -174,7 +213,7 @@
    "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
    "yes": 0.0065,
    "no": 0.9935,
-   "volumen": 996816.5278490001,
+   "volumen": 996816.5278490002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
@@ -184,7 +223,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 996171.6908559998,
+   "volumen": 996460.6908559998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -204,7 +243,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982380.2362579999,
+   "volumen": 982391.2685909995,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -230,14 +269,34 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
+   "question": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti",
+   "slug": "atp-faria-musetti-2026-08-19",
+   "yes": 0.265,
+   "no": 0.735,
+   "volumen": 99494.07836599997,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0575,
-   "no": 0.9425,
+   "yes": 0.0525,
+   "no": 0.9475,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
+  },
+  {
+   "question": "Will Philadelphia Union win on 2026-08-19?",
+   "slug": "mls-phi-mia-2026-08-19-phi",
+   "yes": 0.225,
+   "no": 0.775,
+   "volumen": 99224.81210799995,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará Philadelphia Union el 2026-08-19?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -270,24 +329,34 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
-   "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 98831.56294600002,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
-  },
-  {
    "question": "Will CR Flamengo win on 2026-08-19?",
    "slug": "lib-fla-cru-2026-08-19-fla",
    "yes": 0.595,
    "no": 0.405,
-   "volumen": 98732.347514,
+   "volumen": 98994.01417299997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará el CR Flamengo el 2026-08-19?"
+  },
+  {
+   "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+   "slug": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+   "yes": 0.545,
+   "no": 0.455,
+   "volumen": 98892.74210800002,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Caerá Bitcoin a $60,000 para el 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
+   "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 98831.56294600006,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -304,7 +373,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.983,
    "no": 0.017,
-   "volumen": 98359.53663099997,
+   "volumen": 98359.536631,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -314,16 +383,26 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.41,
    "no": 0.59,
-   "volumen": 98224.62970900002,
+   "volumen": 98224.629709,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
   },
   {
+   "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
+   "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
+   "yes": 0.59,
+   "no": 0.41,
+   "volumen": 98183.97211600002,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
+  },
+  {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.971,
-   "no": 0.029,
+   "yes": 0.9715,
+   "no": 0.0285,
    "volumen": 9999.604839,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -342,9 +421,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.243,
-   "no": 0.757,
-   "volumen": 9990.964864,
+   "yes": 0.2405,
+   "no": 0.7595,
+   "volumen": 9990.964863999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -368,46 +447,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
-  },
-  {
-   "question": "Will the Republican Party win the NC-09 House seat?",
-   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
-   "yes": 0.8,
-   "no": 0.2,
-   "volumen": 9966.137666999999,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will White House post 180-199 posts from August 14 to August 21, 2026?",
-   "slug": "white-house-of-tweets-august-14-august-21-2026-180-199",
-   "yes": 0.0265,
-   "no": 0.9735,
-   "volumen": 9965.945226,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Publicará la Casa Blanca entre 180 y 199 publicaciones del 14 de agosto al 21 de agosto de 2026?"
-  },
-  {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.4,
-   "no": 0.6,
-   "volumen": 9952.114907,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
-  },
-  {
-   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
-   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.0025,
-   "no": 0.9975,
-   "volumen": 9946.699383,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
@@ -417,5 +456,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 97.82
+ "db_size_mb": 97.89
 }
