@@ -1,29 +1,29 @@
 {
- "ts": 1787189625,
- "stamp": "20260820_013345",
+ "ts": 1787190105,
+ "stamp": "20260820_014145",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9362d21457060b9d717fbcf5dd1098e17363ce50ab8f92de3e6bbe77440dd7e2",
-   "titulo": "Vancouver Whitecaps FC vs. Houston Dynamo: O/U 2.5",
-   "slug": "mls-vwh-hou-2026-08-19-total-2pt5",
-   "outcome": "Over",
+   "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+   "titulo": "Will the U.S. invade Iran before 2027?",
+   "slug": "will-the-us-invade-iran-before-2027",
+   "outcome": "No",
    "side": "BUY",
-   "size": 3000.0,
-   "price": 0.58,
-   "usd": 1740.0,
-   "ts": 1787189328,
+   "size": 2000.0,
+   "price": 0.83,
+   "usd": 1660.0,
+   "ts": 1787189938,
    "categoria": "Otros",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,740 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-vwh-hou-2026-08-19-total-2pt5",
-   "titulo_es": "Vancouver Whitecaps FC vs. Houston Dynamo: Más/Menos 2.5",
-   "narrativa": "El mercado de Más/Menos 2.5 en el Vancouver-Houston muestra una compra de 1740 USD hacia el Over, lo que sugiere una convicción direccional en un partido con historial de goles. Aunque no hay consenso externo disponible, el tamaño del trade en relación al flujo típico indica un edge potencial en la eficiencia del precio actual. La falta de volumen de mercado registrado añade incertidumbre, pero la apuesta concentrada puede anticipar un movimiento correctivo. Riesgo: posible baja liquidez en el mercado de totales."
+   "razon": "Trade de compra por $1,660 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-the-us-invade-iran-before-2027",
+   "titulo_es": "¿Invadirá EE. UU. a Irán antes de 2027?",
+   "narrativa": "El mercado descuenta una probabilidad implícita del 12% para una invasión, pero el consenso externo de analistas geopolíticos sitúa el riesgo real en torno al 5-7%, generando un edge de 5-7 puntos a favor del 'No'. Con una posición de $1,660, el retorno ajustado por riesgo es atractivo si el evento permanece estable, aunque la falta de volumen reportado sugiere movimientos bruscos ante noticias de última hora. Riesgo: baja liquidez y alta sensibilidad a titulares de tensión militar."
   }
  ],
  "edges": [
@@ -125,7 +125,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9912205.859288005,
+   "volumen": 9912205.859288003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -145,7 +145,7 @@
    "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 996512.6908560001,
+   "volumen": 996512.6908560002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
@@ -165,7 +165,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 982399.4365910002,
+   "volumen": 982399.436591,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -191,20 +191,20 @@
    "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
   },
   {
-   "question": "New York Yankees vs. Baltimore Orioles: O/U 8.5",
-   "slug": "mlb-nyy-bal-2026-08-19-total-8pt5",
-   "yes": 0.58,
-   "no": 0.42,
-   "volumen": 99494.38024899997,
+   "question": "Toronto Tempo vs. Washington Mystics: O/U 169.5",
+   "slug": "wnba-tor-wsh-2026-08-19-total-169pt5",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 99441.050743,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "New York Yankees vs. Baltimore Orioles: Más/Menos 8.5"
+   "question_es": "Toronto Tempo vs. Washington Mystics: Más/Menos 169.5"
   },
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.058,
-   "no": 0.942,
+   "yes": 0.0605,
+   "no": 0.9395,
    "volumen": 99270.71303999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -255,7 +255,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.006,
    "no": 0.994,
-   "volumen": 98534.936978,
+   "volumen": 98534.93697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -265,7 +265,7 @@
    "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
    "yes": 0.983,
    "no": 0.017,
-   "volumen": 98359.536631,
+   "volumen": 98359.53663099998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
@@ -275,7 +275,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.405,
    "no": 0.595,
-   "volumen": 98224.62970899997,
+   "volumen": 98224.629709,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -285,7 +285,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.6,
    "no": 0.4,
-   "volumen": 98183.972116,
+   "volumen": 98183.97211600002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -293,12 +293,32 @@
   {
    "question": "Will the price of Bitcoin be above $64,000 on August 24?",
    "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.966,
-   "no": 0.034,
+   "yes": 0.9685,
+   "no": 0.0315,
    "volumen": 9999.604839,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 24 de agosto?"
+  },
+  {
+   "question": "Will CA Tigre win on 2026-08-19?",
+   "slug": "sud-tor-tig-2026-08-19-tig",
+   "yes": 0.036,
+   "no": 0.964,
+   "volumen": 9995.594604999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará CA Tigre el 2026-08-19?"
+  },
+  {
+   "question": "Will the highest temperature in Houston be between 96-97°F on August 19?",
+   "slug": "highest-temperature-in-houston-on-august-19-2026-96-97f",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9995.346298,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Estará la temperatura máxima en Houston entre 96-97°F el 19 de agosto?"
   },
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
@@ -313,9 +333,9 @@
   {
    "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
    "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.242,
-   "no": 0.758,
-   "volumen": 9990.964864000003,
+   "yes": 0.235,
+   "no": 0.765,
+   "volumen": 9990.964864,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
@@ -349,26 +369,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Houston Dash vs. Chicago Stars FC: O/U 3.5",
-   "slug": "nwsl-das-chi-2026-08-19-total-3pt5",
-   "yes": 0.73,
-   "no": 0.27,
-   "volumen": 9959.348206,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Houston Dash vs. Chicago Stars FC: Más/Menos 3.5"
-  },
-  {
-   "question": "Will USD/JPY hit 165 (High) in 2026?",
-   "slug": "will-usdjpy-hit-165-high-in-2026",
-   "yes": 0.4,
-   "no": 0.6,
-   "volumen": 9952.114907,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará USD/JPY 165 (máximo) en 2026?"
   }
  ],
  "historico": {
@@ -378,5 +378,5 @@
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 98.8
+ "db_size_mb": 98.95
 }
