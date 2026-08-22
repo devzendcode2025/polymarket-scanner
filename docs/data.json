@@ -1,49 +1,29 @@
 {
- "ts": 1787421020,
- "stamp": "20260822_175020",
+ "ts": 1787421140,
+ "stamp": "20260822_175220",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8a24f97a20f511de4e6d13d8317e78d95ec7753e3f359434e4ac6e3f7bb13a9b",
-   "titulo": "Will FC Internazionale Milano win on 2026-08-22?",
-   "slug": "sea-int-mon-2026-08-22-int",
+   "market_id": "0x7c6cd7a3bc858e069d886098c7909b2c733a7f8f586f72a012eb56f7a6686fcb",
+   "titulo": "Will Brentford FC win on 2026-08-22?",
+   "slug": "epl-bre-tot-2026-08-22-bre",
    "outcome": "Yes",
    "side": "BUY",
-   "size": 1546.39,
-   "price": 0.97,
-   "usd": 1500.0,
-   "ts": 1787420790,
+   "size": 5097.14,
+   "price": 0.9899509548,
+   "usd": 5045.92,
+   "ts": 1787421094,
    "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,500 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/sea-int-mon-2026-08-22-int",
-   "titulo_es": "¿Ganará el FC Internazionale Milano el 22-08-2026?",
-   "narrativa": "Una ballena compró 'Sí' a que el Inter de Milán gane el 22-08-2026 con una inversión de $1,500 USD, lo que indica una apuesta direccional fuerte en un mercado sin volumen reportado. Este movimiento puede señalar información privilegiada o convicción alta, pero la falta de volumen de mercado incrementa el riesgo de deslizamiento y dificultad para salir."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x8a24f97a20f511de4e6d13d8317e78d95ec7753e3f359434e4ac6e3f7bb13a9b",
-   "titulo": "Will FC Internazionale Milano win on 2026-08-22?",
-   "slug": "sea-int-mon-2026-08-22-int",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 1053.04,
-   "price": 0.97,
-   "usd": 1021.45,
-   "ts": 1787420794,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,021 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/sea-int-mon-2026-08-22-int",
-   "titulo_es": "¿Ganará el FC Internazionale Milano el 22-08-2026?",
-   "narrativa": "Una venta de 'Sí' por $1,021.45 en el mismo mercado del Inter de Milán sugiere una toma de ganancias o cobertura por parte de otra ballena, generando presión bajista en el precio. La combinación de compra y venta en el mismo evento refleja una lucha entre posturas, lo que podría aumentar la volatilidad. Riesgo: la ausencia de volumen de mercado hace que estas señales sean menos representativas y más propensas a manipulación."
+   "prob": 59,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,046 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/epl-bre-tot-2026-08-22-bre",
+   "titulo_es": "¿Ganará el Brentford FC el 2026-08-22?",
+   "narrativa": "La compra de 'Yes' en el Brentford FC para el 22-ago-2026 refleja una apuesta direccional con $5,045.92, lo que sugiere convicción en un resultado positivo a pesar de la falta de volumen de mercado. El monto relativamente alto en un mercado sin datos de consenso externo indica que el comprador podría tener información privilegiada o una lectura táctica del calendario. Riesgo: liquidez limitada podría amplificar el deslizamiento de precios."
   }
  ],
  "edges": [
@@ -110,7 +90,7 @@
    "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
    "yes": 0.685,
    "no": 0.315,
-   "volumen": 9920316.267088003,
+   "volumen": 9920375.53491301,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?"
@@ -120,7 +100,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920298.980329001,
+   "volumen": 9920308.980328985,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -130,7 +110,7 @@
    "slug": "will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
    "yes": 0.0365,
    "no": 0.9635,
-   "volumen": 997206.269007,
+   "volumen": 997206.2690069997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los San Francisco 49ers el campeonato de la NFL de 2027?"
@@ -140,7 +120,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 991631.1754390004,
+   "volumen": 991631.1754390002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -168,9 +148,9 @@
   {
    "question": "Will Solana reach $160 by December 31, 2026?",
    "slug": "will-solana-reach-160-by-december-31-2026",
-   "yes": 0.17,
-   "no": 0.83,
-   "volumen": 99971.38201399999,
+   "yes": 0.175,
+   "no": 0.825,
+   "volumen": 99971.38201400002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Solana los $160 para el 31 de diciembre de 2026?"
@@ -190,10 +170,20 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.31,
    "no": 0.69,
-   "volumen": 99581.82745699996,
+   "volumen": 99581.82745700004,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
+  },
+  {
+   "question": "LoL: Leviatan Esports vs Vivo Keyd Stars - Game 2 Winner",
+   "slug": "lol-lev-vks-2026-08-22-game2",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99457.08525300004,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: Leviatan Esports vs Vivo Keyd Stars - Ganador del Juego 2"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -206,21 +196,11 @@
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
-   "question": "Will Elon Musk post 340-359 tweets from August 18 to August 25, 2026?",
-   "slug": "elon-musk-of-tweets-august-18-august-25-340-359",
-   "yes": 0.2155,
-   "no": 0.7845,
-   "volumen": 99114.33821999999,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 340 y 359 tuits del 18 al 25 de agosto de 2026?"
-  },
-  {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99057.70341900003,
+   "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -268,8 +248,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.051,
-   "no": 0.949,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -290,7 +270,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999997,
+   "volumen": 9982.721728999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -314,6 +294,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Spread: Tottenham Hotspur FC (-1.5)",
+   "slug": "epl-bre-tot-2026-08-22-spread-away-1pt5",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9968.661935999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Margen: Tottenham Hotspur FC (-1.5)"
   },
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
@@ -340,20 +330,10 @@
    "slug": "bel1-zul-bev-2026-08-22-total-4pt5",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9962.486499999999,
+   "volumen": 9962.486499999997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "SV Zulte Waregem vs. SK Beveren: Más/Menos 4.5"
-  },
-  {
-   "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
-   "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
-   "yes": 0.055,
-   "no": 0.945,
-   "volumen": 9950.163697,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
   }
  ],
  "historico": {
