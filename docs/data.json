@@ -1,45 +1,79 @@
 {
- "ts": 1787191425,
- "stamp": "20260820_020345",
+ "ts": 1787421020,
+ "stamp": "20260822_175020",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x8a24f97a20f511de4e6d13d8317e78d95ec7753e3f359434e4ac6e3f7bb13a9b",
+   "titulo": "Will FC Internazionale Milano win on 2026-08-22?",
+   "slug": "sea-int-mon-2026-08-22-int",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1546.39,
+   "price": 0.97,
+   "usd": 1500.0,
+   "ts": 1787420790,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,500 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/sea-int-mon-2026-08-22-int",
+   "titulo_es": "¿Ganará el FC Internazionale Milano el 22-08-2026?",
+   "narrativa": "Una ballena compró 'Sí' a que el Inter de Milán gane el 22-08-2026 con una inversión de $1,500 USD, lo que indica una apuesta direccional fuerte en un mercado sin volumen reportado. Este movimiento puede señalar información privilegiada o convicción alta, pero la falta de volumen de mercado incrementa el riesgo de deslizamiento y dificultad para salir."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x8a24f97a20f511de4e6d13d8317e78d95ec7753e3f359434e4ac6e3f7bb13a9b",
+   "titulo": "Will FC Internazionale Milano win on 2026-08-22?",
+   "slug": "sea-int-mon-2026-08-22-int",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 1053.04,
+   "price": 0.97,
+   "usd": 1021.45,
+   "ts": 1787420794,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,021 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/sea-int-mon-2026-08-22-int",
+   "titulo_es": "¿Ganará el FC Internazionale Milano el 22-08-2026?",
+   "narrativa": "Una venta de 'Sí' por $1,021.45 en el mismo mercado del Inter de Milán sugiere una toma de ganancias o cobertura por parte de otra ballena, generando presión bajista en el precio. La combinación de compra y venta en el mismo evento refleja una lucha entre posturas, lo que podría aumentar la volatilidad. Riesgo: la ausencia de volumen de mercado hace que estas señales sean menos representativas y más propensas a manipulación."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
-   "question": "Will OpenAI’s Astra model be released by August 31, 2026?",
-   "slug": "will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
-   "url": "https://polymarket.com/market/will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
-   "prob_poly": 12.0,
-   "consenso": 83.5,
-   "edge": 71.5,
+   "question": "Bears vs. Bengals",
+   "slug": "nfl-chi-cin-2026-08-22",
+   "url": "https://polymarket.com/market/nfl-chi-cin-2026-08-22",
+   "prob_poly": 53.5,
+   "consenso": 66.8,
+   "edge": 13.3,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "Manifold",
-     "titulo": "Will OpenAI release its Astra model to the US general public before 2027?",
-     "prob": 83.0,
-     "url": "https://manifold.markets/waterlilly/will-openai-release-its-astra-model",
-     "titulo_es": "¿Lanzará OpenAI su modelo Astra al público general de EE. UU. antes de 2027?"
-    },
-    {
-     "fuente": "Manifold",
-     "titulo": "Will OpenAI make Astra publicly available by October 15, 2026?",
-     "prob": 83.97482148923484,
-     "url": "https://manifold.markets/Terminator2/will-openai-make-astra-publicly-ava",
-     "titulo_es": "¿Hará OpenAI disponible públicamente Astra antes del 15 de octubre de 2026?"
+     "titulo": "Will the Chicago Bears beat the Cincinnati Bengals during their preseason game on August 22, 2026",
+     "prob": 66.79915165077402,
+     "url": "https://manifold.markets/PhillyK/will-the-chicago-bears-beat-the-cin",
+     "titulo_es": "¿Vencerán los Chicago Bears a los Cincinnati Bengals en su partido de pretemporada el 22 de agosto de 2026?"
     }
    ],
-   "n_fuentes": 2,
-   "categoria": "Tecnología",
-   "prob": 85,
-   "confianza": "alta",
-   "horizonte": "72h",
-   "fuentes_nombres": "Manifold, Manifold",
-   "razon": "Polymarket paga este mercado a 12.0% y el consenso de 2 fuente(s) externa(s) (Manifold, Manifold) lo paga a 83.5%: diferencia de 71.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Se lanzará el modelo Astra de OpenAI antes del 31 de agosto de 2026?",
-   "narrativa": "El consenso externo de 83.5% contrasta fuertemente con el precio implícito de Polymarket de 12%, generando un edge de 71.5 puntos a favor del 'Sí'. Esta discrepancia sugiere que el mercado está valorando una probabilidad mucho menor de la que indican otras plataformas, lo que convierte la compra de 'Sí' en una oportunidad con alta rentabilidad esperada si el consenso externo es más preciso. Riesgo: la fecha límite es lejana y el lanzamiento podría retrasarse, lo que añade incertidumbre temporal."
+   "n_fuentes": 1,
+   "categoria": "Otros",
+   "prob": 70,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "Manifold",
+   "razon": "Polymarket paga este mercado a 53.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 66.8%: diferencia de 13.3 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "Osos vs. Bengals",
+   "narrativa": "La probabilidad implícita en Polymarket para que los Osos venzan a los Bengals es de 53.5%, frente a un consenso externo de 66.8%, lo que representa un edge de 13.3 puntos porcentuales a favor de comprar el 'Sí'. Esta brecha sugiere que el mercado de Polymarket no ha incorporado plenamente la información externa, ofreciendo una oportunidad de valor relativo. Riesgo: la divergencia podría deberse a factores no capturados en el consenso externo."
   },
   {
    "tipo": "edge",
@@ -47,87 +81,79 @@
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "prob_poly": 6.0,
-   "consenso": 49.5,
-   "edge": 43.5,
+   "consenso": 15.0,
+   "edge": 9.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "PredictIt",
      "titulo": "New Hampshire",
-     "prob": 49.5,
+     "prob": 15.000000000000002,
      "url": "https://www.predictit.org/markets/detail/8939",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
    "n_fuentes": 1,
    "categoria": "Política",
-   "prob": 85,
+   "prob": 65,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 6.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 43.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 6.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 15.0%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El consenso externo de PredictIt sitúa la probabilidad real en 49.5%, mientras Polymarket cotiza el 'Sí' a solo 6.0%, generando un edge de 43.5 puntos a favor de la compra. Esta brecha extrema sugiere que el mercado está descontando un escenario casi imposible, cuando las probabilidades reales son mucho más equilibradas. Riesgo: mercados de eventos a largo plazo pueden tener ajustes bruscos si cambia el panorama político."
-  },
-  {
-   "tipo": "edge",
-   "question": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
-   "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "url": "https://polymarket.com/market/will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-9-12",
-   "prob_poly": 15.0,
-   "consenso": 49.5,
-   "edge": 34.5,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "PredictIt",
-     "titulo": "New Hampshire",
-     "prob": 49.5,
-     "url": "https://www.predictit.org/markets/detail/8939",
-     "titulo_es": "Nuevo Hampshire"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Política",
-   "prob": 85,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 15.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 49.5%: diferencia de 34.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará el candidato del Partido Republicano las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 9%-12%?",
-   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a solo 15.0, frente a un consenso externo de 49.5 en PredictIt, generando un edge de 34.5 puntos a favor de la compra. Esta brecha extrema sugiere que el precio actual no refleja la probabilidad real del evento, ofreciendo una oportunidad asimétrica con un potencial de revalorización del 130% si el mercado converge hacia el consenso. Riesgo: el evento es a largo plazo (2026) y la liquidez puede ser limitada, lo que podría dificultar la salida anticipada."
+   "narrativa": "Polymarket cotiza la opción de que el candidato demócrata gane la gobernación de Nuevo Hampshire por un margen del 3%-6% en solo 6.0%, mientras que PredictIt asigna un 15.0%, generando un edge de 9 puntos. Esta subvaloración en Polymarket puede reflejar una menor liquidez o atención en eventos de largo plazo, creando una oportunidad para quienes siguen el consenso externo. Riesgo: el margen exacto es un rango estrecho y el evento es a 2026, con alta incertidumbre."
   }
  ],
  "top_volumen": [
+  {
+   "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "yes": 0.685,
+   "no": 0.315,
+   "volumen": 9920316.267088003,
+   "spread": 0.0,
+   "categoria": "Economía",
+   "question_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?"
+  },
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9912205.859288001,
+   "volumen": 9920298.980329001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
   },
   {
-   "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
-   "slug": "will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 996816.527849,
+   "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
+   "slug": "will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
+   "yes": 0.0365,
+   "no": 0.9635,
+   "volumen": 997206.269007,
    "spread": 0.0,
    "categoria": "Deportes",
-   "question_es": "¿Ganarán los Atlanta Falcons el campeonato de la NFL en 2027?"
+   "question_es": "¿Ganarán los San Francisco 49ers el campeonato de la NFL de 2027?"
   },
   {
-   "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
-   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals",
-   "yes": 0.1315,
-   "no": 0.8685,
-   "volumen": 996512.6908560003,
+   "question": "Will Gold (GC) hit (HIGH) $6,000 by end of December?",
+   "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
+   "yes": 0.13,
+   "no": 0.87,
+   "volumen": 991631.1754390004,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
+  },
+  {
+   "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
+   "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
+   "yes": 0.0125,
+   "no": 0.9875,
+   "volumen": 987045.4516730004,
    "spread": 0.0,
    "categoria": "Deportes",
-   "question_es": "¿Ganarán los Philadelphia 76ers las Finales de la NBA 2027?"
+   "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -140,81 +166,81 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
-   "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
-   "yes": 0.0125,
-   "no": 0.9875,
-   "volumen": 982399.4365910001,
+   "question": "Will Solana reach $160 by December 31, 2026?",
+   "slug": "will-solana-reach-160-by-december-31-2026",
+   "yes": 0.17,
+   "no": 0.83,
+   "volumen": 99971.38201399999,
    "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
-  },
-  {
-   "question": "NYSE marketwide circuit breaker before 2027?",
-   "slug": "nyse-marketwide-circuit-breaker-before-2027",
-   "yes": 0.14,
-   "no": 0.86,
-   "volumen": 99798.31490900002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Disyuntor de mercado en la NYSE antes de 2027?"
-  },
-  {
-   "question": "Will MicroStrategy be margin called in 2026?",
-   "slug": "will-microstrategy-be-margin-called-in-2026",
-   "yes": 0.036,
-   "no": 0.964,
-   "volumen": 99588.02526299997,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Recibirá MicroStrategy una llamada de margen en 2026?"
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Solana los $160 para el 31 de diciembre de 2026?"
   },
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0575,
-   "no": 0.9425,
-   "volumen": 99270.71303999999,
+   "yes": 0.0585,
+   "no": 0.9415,
+   "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
+   "question": "Another GTA VI trailer released by August 31?",
+   "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
+   "yes": 0.31,
+   "no": 0.69,
+   "volumen": 99581.82745699996,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
+  },
+  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.09,
-   "no": 0.91,
-   "volumen": 99210.77216200001,
+   "yes": 0.15,
+   "no": 0.85,
+   "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
-   "question": "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?",
-   "slug": "will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026",
-   "yes": 0.28,
-   "no": 0.72,
-   "volumen": 99153.76193399998,
+   "question": "Will Elon Musk post 340-359 tweets from August 18 to August 25, 2026?",
+   "slug": "elon-musk-of-tweets-august-18-august-25-340-359",
+   "yes": 0.2155,
+   "no": 0.7845,
+   "volumen": 99114.33821999999,
    "spread": 0.0,
    "categoria": "Tecnología",
-   "question_es": "¿Menos de 5 lanzamientos exitosos de SpaceX Starship alcanzarán el espacio en 2026?"
+   "question_es": "¿Publicará Elon Musk entre 340 y 359 tuits del 18 al 25 de agosto de 2026?"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 99023.583419,
+   "yes": 0.14,
+   "no": 0.86,
+   "volumen": 99057.70341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
+  },
+  {
+   "question": "Will Ethereum hit $1,000 or $3,000 first?",
+   "slug": "will-ethereum-hit-1k-or-3k-first",
+   "yes": 0.255,
+   "no": 0.745,
+   "volumen": 98925.33058299997,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
   },
   {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98831.56294599999,
+   "volumen": 98868.56294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -222,122 +248,82 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.006,
-   "no": 0.994,
+   "yes": 0.004,
+   "no": 0.996,
    "volumen": 98534.93697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?",
-   "slug": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
-   "yes": 0.983,
-   "no": 0.017,
-   "volumen": 98359.53663100001,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Socialdemócrata Sueco (S) la mayoría de los escaños en las elecciones parlamentarias suecas de 2026?"
-  },
-  {
-   "question": "Will Ethereum hit $1,000 or $3,000 first?",
-   "slug": "will-ethereum-hit-1k-or-3k-first",
-   "yes": 0.405,
-   "no": 0.595,
-   "volumen": 98224.62970899999,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
-  },
-  {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.6,
-   "no": 0.4,
-   "volumen": 98183.97211599999,
+   "yes": 0.69,
+   "no": 0.31,
+   "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
-   "question": "Will the price of Bitcoin be above $64,000 on August 24?",
-   "slug": "bitcoin-above-64k-on-august-24-2026",
-   "yes": 0.9715,
-   "no": 0.0285,
-   "volumen": 9999.604839,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Bitcoin por encima de $64,000 el 24 de agosto?"
-  },
-  {
-   "question": "Will CA Tigre win on 2026-08-19?",
-   "slug": "sud-tor-tig-2026-08-19-tig",
-   "yes": 0.0375,
-   "no": 0.9625,
-   "volumen": 9995.594605000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará CA Tigre el 2026-08-19?"
-  },
-  {
-   "question": "Will the highest temperature in Houston be between 96-97°F on August 19?",
-   "slug": "highest-temperature-in-houston-on-august-19-2026-96-97f",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9995.346298,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Estará la temperatura máxima en Houston entre 96-97°F el 19 de agosto?"
-  },
-  {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.078,
-   "no": 0.922,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
   },
   {
-   "question": "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?",
-   "slug": "will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season",
-   "yes": 0.2545,
-   "no": 0.7455,
-   "volumen": 9990.964864,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Yordan Alvarez conectará la mayor cantidad de jonrones durante la temporada regular de la MLB 2026?"
-  },
-  {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
-   "yes": 0.0835,
-   "no": 0.9165,
+   "yes": 0.0825,
+   "no": 0.9175,
    "volumen": 9987.01834,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
-   "question": "Sporting Kansas City vs. St. Louis City SC: O/U 3.5",
-   "slug": "mls-skc-stl-2026-08-19-total-3pt5",
-   "yes": 0.21,
-   "no": 0.79,
-   "volumen": 9985.953832000001,
+   "question": "Will the Republicans win the South Carolina governor race in 2026?",
+   "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
+   "yes": 0.935,
+   "no": 0.065,
+   "volumen": 9982.721728999997,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Sporting Kansas City vs. St. Louis City SC: Más/Menos 3.5"
+   "categoria": "Política",
+   "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
+  },
+  {
+   "question": "Will Yabloko win the third-most seats in the next Russian parliamentary election?",
+   "slug": "will-yabloko-win-the-third-most-seats-in-the-next-russian-parliamentary-election",
+   "yes": 0.009,
+   "no": 0.991,
+   "volumen": 9978.887073,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Obtendrá Yabloko el tercer mayor número de escaños en las próximas elecciones parlamentarias rusas?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
    "slug": "will-truist-fail-by-end-of-2026",
-   "yes": 0.0315,
-   "no": 0.9685,
+   "yes": 0.03,
+   "no": 0.97,
    "volumen": 9973.222389999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Quebrará Truist para finales de 2026?"
+  },
+  {
+   "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
+   "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
+   "yes": 0.645,
+   "no": 0.355,
+   "volumen": 9966.941328000003,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Estará Raphaël Glucksmann en la boleta para las elecciones presidenciales francesas de 2027?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -348,14 +334,34 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "SV Zulte Waregem vs. SK Beveren: O/U 4.5",
+   "slug": "bel1-zul-bev-2026-08-22-total-4pt5",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9962.486499999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "SV Zulte Waregem vs. SK Beveren: Más/Menos 4.5"
+  },
+  {
+   "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
+   "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
+   "yes": 0.055,
+   "no": 0.945,
+   "volumen": 9950.163697,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787189668,
+  "ts": 1787420965,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
   "ejemplos": []
  },
- "db_size_mb": 99.2
+ "db_size_mb": 99.29
 }
