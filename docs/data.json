@@ -1,62 +1,32 @@
 {
- "ts": 1787425101,
- "stamp": "20260822_185821",
+ "ts": 1787425461,
+ "stamp": "20260822_190421",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x076cfd6fc63c091b8ebd3411f3c21b382c7d5cb461fa5b48299563a5d60e915f",
-   "titulo": "Real Madrid CF leading at halftime?",
-   "slug": "lal-esp-rea-2026-08-22-halftime-result-away",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 2857.14,
-   "price": 0.54,
-   "usd": 1542.86,
-   "ts": 1787424994,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,543 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-esp-rea-2026-08-22-halftime-result-away",
-   "titulo_es": "¿El Real Madrid CF va ganando al descanso?",
-   "narrativa": "La compra de 'Yes' a 1542.86 USD en el mercado de descanso del Real Madrid refleja una apuesta concentrada que busca capturar el impulso inicial del equipo, con un volumen de mercado no reportado que sugiere una oportunidad de entrada anticipada. El monto del trade, aunque moderado, indica una convicción direccional que puede aprovecharse si el consenso externo favorece un gol temprano. Riesgo: la falta de datos de volumen limita la confirmación de liquidez, y el resultado depende de un evento de alta volatilidad en un solo momento."
+   "market_id": "0xbf43c995769602717931615ca5c1934213432e89ddc7c2546b28b9c360228a40",
+   "titulo": "Commanders vs. Lions",
+   "slug": "nfl-was-det-2026-08-22",
+   "outcome": "Lions",
+   "side": "SELL",
+   "size": 5446.16,
+   "price": 0.999,
+   "usd": 5440.71,
+   "ts": 1787425297,
+   "categoria": "Otros",
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $5,441 en 'Lions'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/nfl-was-det-2026-08-22",
+   "titulo_es": "Commanders vs. Lions",
+   "narrativa": "La venta de 5,440 USD en 'Lions' contra los Commanders refleja una apuesta direccional de una ballena que busca capitalizar el momentum del mercado, aprovechando que el consenso externo favorece a Detroit por su ofensiva superior. El tamaño del trade, aunque moderado, sugiere una convicción clara en el desenlace, lo que podría generar un efecto de arrastre en la liquidez si otros operadores siguen la señal. Riesgo: la ausencia de datos de volumen de mercado limita la visibilidad sobre la profundidad del libro, lo que podría amplificar el impacto del precio en caso de movimientos contrarios."
   }
  ],
  "edges": [
-  {
-   "tipo": "edge",
-   "question": "St. Louis Cardinals vs. Philadelphia Phillies",
-   "slug": "mlb-stl-phi-2026-08-23",
-   "url": "https://polymarket.com/market/mlb-stl-phi-2026-08-23",
-   "prob_poly": 33.5,
-   "consenso": 58.5,
-   "edge": 25.0,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "ESPN",
-     "titulo": "Winner: Philadelphia Phillies vs St. Louis Cardinals (mlb)",
-     "prob": 58.51,
-     "url": "https://www.espn.com/baseball/game/_/gameId/401816626",
-     "deporte": "mlb",
-     "game_id": "401816626",
-     "titulo_es": "Ganador: Philadelphia Phillies vs St. Louis Cardinals (mlb)"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Otros",
-   "prob": 85,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 33.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 58.5%: diferencia de 25.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "St. Louis Cardinals vs. Philadelphia Phillies",
-   "narrativa": "El mercado de Polymarket para los Cardinals paga 33.5, muy por debajo del consenso externo de ESPN del 58.5, generando un edge de 25 puntos a favor de comprar el 'Sí'. Esta brecha sugiere que el precio implícito no refleja la probabilidad real estimada por los modelos, ofreciendo una oportunidad de valor relativo. El monto del trade se ajusta al diferencial, pero riesgo: la liquidez en este mercado puede ser limitada y el consenso externo puede rezagarse ante noticias de última hora."
-  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -92,7 +62,7 @@
    "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
    "yes": 0.685,
    "no": 0.315,
-   "volumen": 9926903.05998101,
+   "volumen": 9927308.86360301,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?"
@@ -102,27 +72,17 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920308.980328996,
+   "volumen": 9920308.980328988,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
-  },
-  {
-   "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
-   "slug": "will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
-   "yes": 0.0375,
-   "no": 0.9625,
-   "volumen": 997997.7990069996,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los San Francisco 49ers el campeonato de la NFL de 2027?"
   },
   {
    "question": "Will Gold (GC) hit (HIGH) $6,000 by end of December?",
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 991631.175439,
+   "volumen": 991631.1754390002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -152,7 +112,7 @@
    "slug": "will-solana-reach-160-by-december-31-2026",
    "yes": 0.175,
    "no": 0.825,
-   "volumen": 99976.38201400002,
+   "volumen": 99976.38201399993,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Solana los $160 para el 31 de diciembre de 2026?"
@@ -172,7 +132,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.305,
    "no": 0.695,
-   "volumen": 99755.82745700004,
+   "volumen": 99755.827457,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -180,8 +140,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -192,7 +152,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.135,
    "no": 0.865,
-   "volumen": 99057.70341900001,
+   "volumen": 99057.703419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -248,16 +208,6 @@
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
   },
   {
-   "question": "WKS Slask Wroclaw vs. Widzew Lodz: O/U 1.5",
-   "slug": "pol-sla-wlo-2026-08-22-total-1pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9988.14214,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "WKS Slask Wroclaw vs. Widzew Lodz: Más/Menos 1.5"
-  },
-  {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0825,
@@ -272,7 +222,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721729000003,
+   "volumen": 9982.721729,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -336,6 +286,26 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will the highest temperature in Paris be 26°C on August 22?",
+   "slug": "highest-temperature-in-paris-on-august-22-2026-26c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9940.056478999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en París de 26°C el 22 de agosto?"
+  },
+  {
+   "question": "Real Madrid CF leading at halftime?",
+   "slug": "lal-esp-rea-2026-08-22-halftime-result-away",
+   "yes": 0.535,
+   "no": 0.465,
+   "volumen": 9931.376844999999,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿El Real Madrid CF va ganando al descanso?"
   }
  ],
  "historico": {
