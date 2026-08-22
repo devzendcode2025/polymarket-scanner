@@ -1,29 +1,29 @@
 {
- "ts": 1787438785,
- "stamp": "20260822_224625",
+ "ts": 1787439265,
+ "stamp": "20260822_225425",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x95959560144520f539cadad1509aaa3fc47e95aaeb1ade1849987ad5f1f6b58f",
-   "titulo": "Cincinnati Open: Jessica Pegula vs Iga Swiatek",
-   "slug": "wta-pegula-swiatek-2026-08-22",
-   "outcome": "Jessica Pegula",
-   "side": "BUY",
-   "size": 2409.638552,
-   "price": 0.8299999999,
-   "usd": 2000.0,
-   "ts": 1787438802,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Jessica Pegula'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-pegula-swiatek-2026-08-22",
-   "titulo_es": "Cincinnati Open: Jessica Pegula vs Iga Swiatek",
-   "narrativa": "El mercado descuenta a Swiatek como favorita, pero la compra de Pegula a 2000 USD refleja una apuesta contraria con un edge positivo si el consenso externo infravalora su solidez en pista rápida. La relación riesgo-retorno mejora porque el precio actual no incorpora plenamente el historial reciente de Pegula ante rivales de élite, lo que amplía el margen de beneficio esperado. Riesgo: posible ajuste brusco del precio si el mercado reacciona a noticias de última hora sobre el estado físico de alguna jugadora."
+   "market_id": "0xa0fd866b6a61bb35d35ad987e1193e01b8606afc7dc8643520ffe419860d305d",
+   "titulo": "Washington Nationals vs. Miami Marlins",
+   "slug": "mlb-wsh-mia-2026-08-22",
+   "outcome": "Miami Marlins",
+   "side": "SELL",
+   "size": 1895.15,
+   "price": 0.982500963,
+   "usd": 1861.99,
+   "ts": 1787439105,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,862 en 'Miami Marlins'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-wsh-mia-2026-08-22",
+   "titulo_es": "Washington Nationals vs. Miami Marlins",
+   "narrativa": "La venta de 1,861.99 USD sobre Miami Marlins refleja una postura de cobertura ante el consenso externo que favorece a Washington Nationals, generando un desvio potencial en el precio del outcome. Este flujo, aunque moderado, puede anticipar una correccion en la cuota si el mercado ajusta su valoracion hacia el lado comprador. Riesgo: liquidez limitada en horarios de baja actividad, lo que puede amplificar la volatilidad del spread."
   }
  ],
  "edges": [
@@ -102,7 +102,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 992784.9611500002,
+   "volumen": 992784.9611500001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -132,26 +132,16 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.31,
    "no": 0.69,
-   "volumen": 99822.164476,
+   "volumen": 99822.16447599999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
   },
   {
-   "question": "Connecticut Sun vs. Los Angeles Sparks: O/U 169.5",
-   "slug": "wnba-conn-la-2026-08-22-total-169pt5",
-   "yes": 0.545,
-   "no": 0.455,
-   "volumen": 99702.10643999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Connecticut Sun vs. Los Angeles Sparks: Más/Menos 169.5"
-  },
-  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -168,11 +158,21 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
+   "question": "UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims)",
+   "slug": "ufc-awint-tercha-2026-08-22",
+   "yes": 0.895,
+   "no": 0.105,
+   "volumen": 98965.89998199999,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "UFC Fight Night: Anthony Wint vs. Terrance Chatman (Peso Pesado, Preliminares)"
+  },
+  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.265,
    "no": 0.735,
-   "volumen": 98925.33058299999,
+   "volumen": 98925.33058299997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -192,26 +192,16 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.056978,
+   "volumen": 98536.05697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will CD Tolima win on 2026-08-22?",
-   "slug": "col1-cdt-cab-2026-08-22-cdt",
-   "yes": 0.195,
-   "no": 0.805,
-   "volumen": 98512.24115300002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el CD Tolima el 2026-08-22?"
-  },
-  {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -222,7 +212,7 @@
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
    "yes": 0.356,
    "no": 0.644,
-   "volumen": 98396.62220499999,
+   "volumen": 98396.622205,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -232,7 +222,7 @@
    "slug": "will-indiana-fever-win-the-2026-wnba-finals-186",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 98395.103862,
+   "volumen": 98395.10386199999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Indiana Fever las Finales de la WNBA 2026?"
@@ -316,6 +306,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
+   "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
+   "yes": 0.018,
+   "no": 0.982,
+   "volumen": 9945.917348999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
   },
   {
    "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
