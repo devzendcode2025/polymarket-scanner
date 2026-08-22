@@ -1,29 +1,69 @@
 {
- "ts": 1787434283,
- "stamp": "20260822_213123",
+ "ts": 1787434824,
+ "stamp": "20260822_214024",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3cdba77ef9049d59b295b139aa9f3fba369f556c6f7578886047ebf7442775d5",
-   "titulo": "UFC Fight Night: Gauge Young vs. Stan Dorsainvil (Lightweight, Prelims)",
-   "slug": "ufc-gau-stador-2026-08-22",
-   "outcome": "Stan Dorsainvil",
-   "side": "BUY",
-   "size": 17832.0,
-   "price": 0.38,
-   "usd": 6776.16,
-   "ts": 1787434303,
+   "market_id": "0x3d7f36c8f0896d07b02b4e863d28cb35051f074dd24b40d2de64f0603797aa1f",
+   "titulo": "LoL: Sentinels vs FlyQuest (BO3) - LCS Regular Season",
+   "slug": "lol-sen-fly-2026-08-22",
+   "outcome": "Sentinels",
+   "side": "SELL",
+   "size": 30000.09,
+   "price": 0.999,
+   "usd": 29970.09,
+   "ts": 1787434600,
    "categoria": "Deportes",
-   "prob": 62,
+   "prob": 70,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $6,776 en 'Stan Dorsainvil'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ufc-gau-stador-2026-08-22",
-   "titulo_es": "UFC Fight Night: Gauge Young vs. Stan Dorsainvil (Peso ligero, Preliminares)",
-   "narrativa": "La compra en Dorsainvil muestra un flujo de capital de $6,776 USD que, aunque moderado, llega en una pelea preliminar con poca cobertura, lo que sugiere información privilegiada o un ajuste de precios rezagado. El edge estimado es positivo porque el consenso externo no ha movido la línea, creando una ventana de valor antes de que el mercado mayorista reaccione. Riesgo: liquidez limitada en preliminares, lo que puede amplificar el deslizamiento de ejecución."
+   "razon": "Trade de venta por $29,970 en 'Sentinels'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-sen-fly-2026-08-22",
+   "titulo_es": "LoL: Sentinels vs FlyQuest (BO3) - Temporada Regular de la LCS",
+   "narrativa": "Una operación de venta por casi $30K sobre Sentinels en la LCS sugiere que un gran capital está posicionándose en contra del favoritismo del mercado, probablemente anticipando una corrección en el precio o una ventaja competitiva de FlyQuest. Este flujo de dinero, al ser de gran tamaño, puede indicar información privilegiada o un análisis profundo que el consenso externo aún no ha descontado, creando un edge potencial en la dirección opuesta. Riesgo: el volumen de mercado no está disponible, lo que podría implicar menor liquidez y mayor deslizamiento en la ejecución."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xc70a757719a7c05bd4e41a2f07403a475c285e13fb87bd721314fdf0052db78b",
+   "titulo": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims)",
+   "slug": "ufc-wes5-jac22-2026-08-22",
+   "outcome": "Wes Schultz",
+   "side": "BUY",
+   "size": 2882.0,
+   "price": 0.4616689799,
+   "usd": 1330.53,
+   "ts": 1787434600,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,331 en 'Wes Schultz'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ufc-wes5-jac22-2026-08-22",
+   "titulo_es": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Peso Mediano, Preliminares)",
+   "narrativa": "La compra de $1,330 en Wes Schultz, aunque moderada, llega en un mercado de preliminares donde el consenso externo podría estar subestimando su capacidad frente a un oponente menos probado. Este flujo de compra, sumado a la falta de volumen de mercado reportado, sugiere que un operador con información específica está aprovechando un precio que aún no refleja las verdaderas probabilidades del combate. El edge se basa en la dirección del capital, no en la magnitud, pero la consistencia de la señal es clave. Riesgo: baja liquidez en este tipo de eventos puede amplificar la volatilidad del precio."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xc70a757719a7c05bd4e41a2f07403a475c285e13fb87bd721314fdf0052db78b",
+   "titulo": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims)",
+   "slug": "ufc-wes5-jac22-2026-08-22",
+   "outcome": "Wes Schultz",
+   "side": "BUY",
+   "size": 2222.0,
+   "price": 0.51,
+   "usd": 1133.22,
+   "ts": 1787434602,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,133 en 'Wes Schultz'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ufc-wes5-jac22-2026-08-22",
+   "titulo_es": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Peso Mediano, Preliminares)",
+   "narrativa": "Una segunda compra consecutiva en Wes Schultz, por $1,133, refuerza la tesis de que hay acumulación coordinada o un patrón de confianza en el resultado, lo que aumenta la probabilidad de que el mercado esté mal valorado. La repetición de la señal en el mismo lado y evento, con montos similares, sugiere que el operador está promediando su posición, lo que puede indicar una convicción alta y un edge calculado sobre el consenso externo. Riesgo: la falta de volumen de mercado reportado limita el análisis de profundidad y podría haber spreads amplios."
   }
  ],
  "edges": [
@@ -62,7 +102,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920308.980329005,
+   "volumen": 9920308.980328998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -72,7 +112,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 991631.1754390002,
+   "volumen": 991631.1754389998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -86,16 +126,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
-  },
-  {
-   "question": "Will Solana reach $160 by December 31, 2026?",
-   "slug": "will-solana-reach-160-by-december-31-2026",
-   "yes": 0.2,
-   "no": 0.8,
-   "volumen": 99992.26201399996,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Solana los $160 para el 31 de diciembre de 2026?"
   },
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
@@ -112,7 +142,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.31,
    "no": 0.69,
-   "volumen": 99785.16447599999,
+   "volumen": 99822.16447599999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -120,29 +150,19 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
-   "question": "Monterrey Open, Qualification: Panna Udvardy vs Emiliana Arango",
-   "slug": "wta-udvardy-arango-2026-08-22",
-   "yes": 0.995,
-   "no": 0.005,
-   "volumen": 99151.99597799995,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Abierto de Monterrey, Clasificación: Panna Udvardy vs Emiliana Arango"
-  },
-  {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.16,
    "no": 0.84,
-   "volumen": 99057.70341900003,
+   "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -152,7 +172,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058299997,
+   "volumen": 98925.33058299999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -162,7 +182,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294600003,
+   "volumen": 98868.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -172,7 +192,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.05697800002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -188,24 +208,24 @@
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
+   "question": "0 ships transit Hormuz on any date by August 31?",
+   "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
+   "yes": 0.356,
+   "no": 0.644,
+   "volumen": 98396.62220500002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
+  },
+  {
    "question": "Connecticut Sun vs. Los Angeles Sparks: O/U 169.5",
    "slug": "wnba-conn-la-2026-08-22-total-169pt5",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 98261.10272399998,
+   "volumen": 98264.68762799999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Connecticut Sun vs. Los Angeles Sparks: Más/Menos 169.5"
-  },
-  {
-   "question": "0 ships transit Hormuz on any date by August 31?",
-   "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
-   "yes": 0.3565,
-   "no": 0.6435,
-   "volumen": 98206.23220500001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
   },
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
@@ -232,7 +252,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999999,
+   "volumen": 9982.721729,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -306,6 +326,26 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
+  },
+  {
+   "question": "Cleveland Guardians vs. Colorado Rockies",
+   "slug": "mlb-cle-col-2026-08-22",
+   "yes": 0.565,
+   "no": 0.435,
+   "volumen": 9923.739485000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Cleveland Guardians vs. Colorado Rockies"
+  },
+  {
+   "question": "Bitcoin Up or Down - August 22, 4:00PM-8:00PM ET",
+   "slug": "btc-updown-4h-1787428800",
+   "yes": 0.23,
+   "no": 0.77,
+   "volumen": 9916.355497,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "Bitcoin Sube o Baja - 22 de agosto, 4:00PM-8:00PM ET"
   }
  ],
  "historico": {
