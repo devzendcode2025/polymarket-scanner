@@ -2,6 +2,13 @@
 
 ## Resumen de Conversaciones
 
+### 2026-08-22 — Reactivación del scanner (fin de la pausa)
+- **Petición:** "Ya actívate polimarket".
+- **Acciones:** reanudados ambos jobs del perfil codigo (polymarket-scan-1min `7a818b7cc17a` y polymarket-backup-diario `e6232106fb87`) vía `hermes cron resume`; eliminado el one-shot de reactivación `30caf8200324` (ya no hacía falta, programado para el 2026-08-23).
+- **Incidencias:** primer tick (17:47 UTC) tardó ~2 min por arranque en frío tras 2 días (run_scan.py 9.8% CPU, trabajando, no colgado); el tick siguiente saltó por flock (normal). Un tick completó scan pero no regeneró docs/ — resuelto con render manual; el ciclo completo quedó verificado: scan → render → cp template → commit `e9dded7` → push (last_push 17:51:36 UTC).
+- **Resultado:** reportes frescos (stamp 20260822_175020), docs/data.json + index.html 17:51, sitio público HTTP 200 con data.json fresco (ts 1787421020, 200 mercados, ballenas detectadas). Cron operando de nuevo cada minuto + backup 03:00 UTC.
+- **Pendientes:** nada urgente; recordar a usuario que Pages cachea 10 min (Ctrl+F5 si no ve cambios).
+
 ### 2026-08-20 — Pausa temporal del cron (scan 1/min + backup) por tokens
 - **Petición:** "puedes detener la consulta de polymarket unos días, necesito esos tokens".
 - **Acciones:** localizados los jobs en el perfil **codigo** de Hermes (el CLI default no los ve): polymarket-scan-1min (`7a818b7cc17a`, `* * * * *`, script puro no-agente, 8291 ejecuciones) y polymarket-backup-diario (`e6232106fb87`, 03:00 UTC), ambos con workdir /srv/hermes-projects/proyectos/polymarket-scanner. Pausados con `hermes --profile codigo cron pause <id>`.
