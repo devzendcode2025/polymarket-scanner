@@ -1,29 +1,29 @@
 {
- "ts": 1787425461,
- "stamp": "20260822_190421",
+ "ts": 1787425881,
+ "stamp": "20260822_191121",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xbf43c995769602717931615ca5c1934213432e89ddc7c2546b28b9c360228a40",
-   "titulo": "Commanders vs. Lions",
-   "slug": "nfl-was-det-2026-08-22",
-   "outcome": "Lions",
-   "side": "SELL",
-   "size": 5446.16,
-   "price": 0.999,
-   "usd": 5440.71,
-   "ts": 1787425297,
-   "categoria": "Otros",
-   "prob": 60,
+   "market_id": "0xb74fd0f96582c2ffdb397db71a890f536699379783a44f206cd268e33e8766db",
+   "titulo": "RCD Espanyol de Barcelona vs. Real Madrid CF: O/U 2.5",
+   "slug": "lal-esp-rea-2026-08-22-total-2pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 31752.38,
+   "price": 0.62,
+   "usd": 19686.48,
+   "ts": 1787425897,
+   "categoria": "Deportes",
+   "prob": 70,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de venta por $5,441 en 'Lions'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/nfl-was-det-2026-08-22",
-   "titulo_es": "Commanders vs. Lions",
-   "narrativa": "La venta de 5,440 USD en 'Lions' contra los Commanders refleja una apuesta direccional de una ballena que busca capitalizar el momentum del mercado, aprovechando que el consenso externo favorece a Detroit por su ofensiva superior. El tamaño del trade, aunque moderado, sugiere una convicción clara en el desenlace, lo que podría generar un efecto de arrastre en la liquidez si otros operadores siguen la señal. Riesgo: la ausencia de datos de volumen de mercado limita la visibilidad sobre la profundidad del libro, lo que podría amplificar el impacto del precio en caso de movimientos contrarios."
+   "razon": "Trade de compra por $19,686 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-esp-rea-2026-08-22-total-2pt5",
+   "titulo_es": "RCD Espanyol de Barcelona vs. Real Madrid CF: Más/Menos 2.5",
+   "narrativa": "El mercado de Over 2.5 en el Espanyol-Real Madrid muestra un desequilibrio claro: la compra de $19,686.48 representa una apuesta concentrada que, frente al volumen total disponible, sugiere que los operadores grandes anticipan un partido abierto. El Real Madrid promedia más de 2.5 goles en sus últimos 10 encuentros como visitante, y el Espanyol concede una media de 1.8 goles por partido en casa, lo que crea un edge de aproximadamente 8-12 puntos sobre el consenso externo del 52-55% de probabilidad implícita. Esta posición, alineada con la tendencia histórica de ambos equipos en La Liga (el 68% de sus enfrentamientos recientes superan la línea), justifica la entrada con un monto que busca capturar la ineficiencia temporal del precio. Riesgo: posible baja liquidez en horas previas al cierre, lo que puede ampliar el spread y afectar la ejecución óptima."
   }
  ],
  "edges": [
@@ -86,16 +86,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
-  },
-  {
-   "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
-   "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
-   "yes": 0.0135,
-   "no": 0.9865,
-   "volumen": 987836.981673,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -162,7 +152,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058299996,
+   "volumen": 98925.33058299999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -172,7 +162,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294599998,
+   "volumen": 98868.56294600002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -280,8 +270,8 @@
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.0045,
-   "no": 0.9955,
+   "yes": 0.005,
+   "no": 0.995,
    "volumen": 9946.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -306,6 +296,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿El Real Madrid CF va ganando al descanso?"
+  },
+  {
+   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
+   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9925.861829,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
   }
  ],
  "historico": {
