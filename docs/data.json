@@ -1,10 +1,31 @@
 {
- "ts": 1787439685,
- "stamp": "20260822_230125",
+ "ts": 1787440105,
+ "stamp": "20260822_230825",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xe59daeb8a152a4b90fa3bf7a8e8dd10e41571ca4f737f727830e2b5086b430a6",
+   "titulo": "O/U 1.5 Rounds",
+   "slug": "ufc-ken-sha27-2026-08-22-totals-1pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 3933.33,
+   "price": 0.49,
+   "usd": 1927.33,
+   "ts": 1787440003,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,927 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ufc-ken-sha27-2026-08-22-totals-1pt5",
+   "titulo_es": "Más/Menos 1.5 Asaltos",
+   "narrativa": "El mercado fija un consenso externo que favorece el lado 'Over', pero la señal de compra en 'Under' con $1,927 USD en juego revela un edge positivo de aproximadamente 4.2 puntos frente a la probabilidad implícita del precio actual. Este desvío sugiere que el mercado está sobrevalorando la duración del evento, y la entrada temprana captura valor antes de que el precio se ajuste. Riesgo: la liquidez es moderada, lo que podría ampliar el spread en momentos de alta volatilidad."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -71,7 +92,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920308.980329001,
+   "volumen": 9920308.980328996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -137,21 +158,11 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims)",
-   "slug": "ufc-awint-tercha-2026-08-22",
-   "yes": 0.895,
-   "no": 0.105,
-   "volumen": 98965.89998199999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "UFC Fight Night: Anthony Wint vs. Terrance Chatman (Peso Pesado, Preliminares)"
-  },
-  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.265,
    "no": 0.735,
-   "volumen": 98925.33058299997,
+   "volumen": 98925.33058299996,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -161,7 +172,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.562946,
+   "volumen": 98868.56294600002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -171,7 +182,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.05697800002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -191,7 +202,7 @@
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
    "yes": 0.356,
    "no": 0.644,
-   "volumen": 98396.622205,
+   "volumen": 98396.62220500002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -201,7 +212,7 @@
    "slug": "will-indiana-fever-win-the-2026-wnba-finals-186",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 98395.10386199999,
+   "volumen": 98395.103862,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Indiana Fever las Finales de la WNBA 2026?"
@@ -209,8 +220,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.052,
-   "no": 0.948,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -231,7 +242,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721729,
+   "volumen": 9982.721728999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -249,8 +260,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.635,
-   "no": 0.365,
+   "yes": 0.64,
+   "no": 0.36,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -289,8 +300,8 @@
   {
    "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.018,
-   "no": 0.982,
+   "yes": 0.017,
+   "no": 0.983,
    "volumen": 9945.917348999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -309,12 +320,22 @@
   {
    "question": "Will the Democratic Party win the AR-01 House seat?",
    "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.015,
-   "no": 0.985,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 9914.337593,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
+  },
+  {
+   "question": "Will Moonshot be the second-best Chinese AI company at the end of October 2026?",
+   "slug": "will-moonshot-be-the-second-best-chinese-ai-company-at-the-end-of-october-2026-20260811194841600",
+   "yes": 0.255,
+   "no": 0.745,
+   "volumen": 9910.821127,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será Moonshot la segunda mejor empresa china de IA a finales de octubre de 2026?"
   }
  ],
  "historico": {
