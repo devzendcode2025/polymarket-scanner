@@ -1,10 +1,31 @@
 {
- "ts": 1787437164,
- "stamp": "20260822_221924",
+ "ts": 1787437584,
+ "stamp": "20260822_222624",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x7bde11194262aacadff143e1e5fbb4faeaa2ffa710726e01d8e7fff19d08fc74",
+   "titulo": "Spread: CD Guadalajara (-1.5)",
+   "slug": "mex-gua-tij-2026-08-22-spread-home-1pt5",
+   "outcome": "Club Tijuana",
+   "side": "BUY",
+   "size": 1787.0,
+   "price": 0.58,
+   "usd": 1036.46,
+   "ts": 1787437600,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,036 en 'Club Tijuana'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mex-gua-tij-2026-08-22-spread-home-1pt5",
+   "titulo_es": "Margen: CD Guadalajara (-1.5)",
+   "narrativa": "El mercado descuenta un margen de -1.5 para Guadalajara, pero la compra de 1,036 USD en Club Tijuana sugiere que el consenso externo subestima la capacidad del visitante para cubrir el spread. Este flujo, aunque moderado, apunta a un edge positivo si el modelo propio valida la probabilidad implícita frente a la cuota ofrecida. Riesgo: volumen de mercado no reportado, lo que limita la certeza sobre la profundidad de la liquidez."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920308.980329,
+   "volumen": 9920308.980328988,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -51,7 +72,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 992784.9611499999,
+   "volumen": 992784.9611500002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -69,8 +90,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.059,
-   "no": 0.941,
+   "yes": 0.0585,
+   "no": 0.9415,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -81,10 +102,20 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.31,
    "no": 0.69,
-   "volumen": 99822.16447599998,
+   "volumen": 99822.164476,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
+  },
+  {
+   "question": "Connecticut Sun vs. Los Angeles Sparks: O/U 169.5",
+   "slug": "wnba-conn-la-2026-08-22-total-169pt5",
+   "yes": 0.535,
+   "no": 0.465,
+   "volumen": 99652.10643999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Connecticut Sun vs. Los Angeles Sparks: Más/Menos 169.5"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -99,8 +130,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99057.70341900003,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -109,9 +140,9 @@
   {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
-   "yes": 0.25,
-   "no": 0.75,
-   "volumen": 98925.330583,
+   "yes": 0.265,
+   "no": 0.735,
+   "volumen": 98925.33058299996,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -121,7 +152,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.562946,
+   "volumen": 98868.56294600002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -135,16 +166,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
-  },
-  {
-   "question": "Connecticut Sun vs. Los Angeles Sparks: O/U 169.5",
-   "slug": "wnba-conn-la-2026-08-22-total-169pt5",
-   "yes": 0.535,
-   "no": 0.465,
-   "volumen": 98447.85366399998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Connecticut Sun vs. Los Angeles Sparks: Más/Menos 169.5"
   },
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
@@ -167,10 +188,20 @@
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
   },
   {
+   "question": "Will Indiana Fever win the 2026 WNBA Finals?",
+   "slug": "will-indiana-fever-win-the-2026-wnba-finals-186",
+   "yes": 0.155,
+   "no": 0.845,
+   "volumen": 98395.103862,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará Indiana Fever las Finales de la WNBA 2026?"
+  },
+  {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.05,
-   "no": 0.95,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -191,7 +222,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721729,
+   "volumen": 9982.721729000004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -209,8 +240,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.635,
-   "no": 0.365,
+   "yes": 0.63,
+   "no": 0.37,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -225,16 +256,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Cleveland Guardians vs. Colorado Rockies",
-   "slug": "mlb-cle-col-2026-08-22",
-   "yes": 0.565,
-   "no": 0.435,
-   "volumen": 9962.901586000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Cleveland Guardians vs. Colorado Rockies"
   },
   {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
@@ -257,16 +278,6 @@
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   },
   {
-   "question": "Will the highest temperature in Paris be 26°C on August 22?",
-   "slug": "highest-temperature-in-paris-on-august-22-2026-26c",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9940.056478999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en París de 26°C el 22 de agosto?"
-  },
-  {
    "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
    "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
    "yes": 0.0015,
@@ -285,10 +296,20 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
+  },
+  {
+   "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
+   "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
+   "yes": 0.025,
+   "no": 0.975,
+   "volumen": 9913.457349,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787435797,
+  "ts": 1787437665,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
