@@ -1,29 +1,29 @@
 {
- "ts": 1787435184,
- "stamp": "20260822_214624",
+ "ts": 1787435604,
+ "stamp": "20260822_215324",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x4481fc57ed2d1233e62860f615678a08fae9fe2b3e9c60995e26f7790a647dde",
-   "titulo": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season",
-   "slug": "lol-dsg-dig-2026-08-22",
-   "outcome": "Dignitas",
+   "market_id": "0xf48387287150d1b37a93e7fb32b84fce81c65970e5ebeec14e763ff81f421732",
+   "titulo": "Detroit Tigers vs. Kansas City Royals: O/U 8.5",
+   "slug": "mlb-det-kc-2026-08-22-total-8pt5",
+   "outcome": "Under",
    "side": "BUY",
-   "size": 10053.86,
-   "price": 0.52,
-   "usd": 5228.01,
-   "ts": 1787435197,
-   "categoria": "Deportes",
+   "size": 9476.47,
+   "price": 0.51,
+   "usd": 4833.0,
+   "ts": 1787435503,
+   "categoria": "Otros",
    "prob": 59,
-   "confianza": "alta",
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $5,228 en 'Dignitas'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-dsg-dig-2026-08-22",
-   "titulo_es": "LoL: Disguised vs Dignitas (BO3) - Temporada Regular de la LCS",
-   "narrativa": "La compra de $5,228 en Dignitas refleja una apuesta institucional clara, con un edge estimado de +4.2 puntos frente al consenso externo del 58% de probabilidad implícita. El monto concentrado sugiere convicción en el lado bajo de la cuota, aunque el volumen de mercado no reportado limita el análisis de profundidad. Riesgo: posible iliquidez en horas previas al evento."
+   "razon": "Trade de compra por $4,833 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-det-kc-2026-08-22-total-8pt5",
+   "titulo_es": "Detroit Tigers vs. Kansas City Royals: Más/Menos 8.5",
+   "narrativa": "El mercado de Detroit vs. Kansas City muestra un consenso externo que favorece el Under, y la compra de 4,833 USD en este resultado representa una posición significativa frente a un volumen de mercado aún no reportado, lo que sugiere una posible ineficiencia temporal en el precio. El edge implícito se amplía si el total de 8.5 se mantiene estable, ya que los lanzadores abridores y las condiciones del parque no han sido totalmente descontados en la línea. Riesgo: la falta de volumen de mercado reportado puede generar spreads amplios y ejecución menos favorable."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920308.980328998,
+   "volumen": 9920308.980329003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -72,7 +72,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 991631.1754389998,
+   "volumen": 991631.1754390002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -110,8 +110,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -120,9 +120,9 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
-   "volumen": 99057.70341900001,
+   "yes": 0.205,
+   "no": 0.795,
+   "volumen": 99057.70341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -132,7 +132,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058299999,
+   "volumen": 98925.33058299996,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -142,7 +142,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.562946,
+   "volumen": 98868.56294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -152,7 +152,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800002,
+   "volumen": 98536.05697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -160,8 +160,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -172,7 +172,7 @@
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
    "yes": 0.356,
    "no": 0.644,
-   "volumen": 98396.62220500002,
+   "volumen": 98396.622205,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -182,7 +182,7 @@
    "slug": "wnba-conn-la-2026-08-22-total-169pt5",
    "yes": 0.525,
    "no": 0.475,
-   "volumen": 98264.68762799999,
+   "volumen": 98394.687628,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Connecticut Sun vs. Los Angeles Sparks: Más/Menos 169.5"
@@ -190,8 +190,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0525,
-   "no": 0.9475,
+   "yes": 0.0535,
+   "no": 0.9465,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -248,6 +248,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Cleveland Guardians vs. Colorado Rockies",
+   "slug": "mlb-cle-col-2026-08-22",
+   "yes": 0.565,
+   "no": 0.435,
+   "volumen": 9962.901586,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Cleveland Guardians vs. Colorado Rockies"
+  },
+  {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
    "yes": 0.055,
@@ -272,7 +282,7 @@
    "slug": "highest-temperature-in-paris-on-august-22-2026-26c",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9940.056478999999,
+   "volumen": 9940.056478999997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en París de 26°C el 22 de agosto?"
@@ -288,24 +298,14 @@
    "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
   },
   {
-   "question": "Cleveland Guardians vs. Colorado Rockies",
-   "slug": "mlb-cle-col-2026-08-22",
-   "yes": 0.565,
-   "no": 0.435,
-   "volumen": 9923.739485000002,
+   "question": "Will the Democratic Party win the AR-01 House seat?",
+   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
+   "yes": 0.015,
+   "no": 0.985,
+   "volumen": 9914.337593,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Cleveland Guardians vs. Colorado Rockies"
-  },
-  {
-   "question": "Bitcoin Up or Down - August 22, 4:00PM-8:00PM ET",
-   "slug": "btc-updown-4h-1787428800",
-   "yes": 0.195,
-   "no": 0.805,
-   "volumen": 9916.355497,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "Bitcoin Sube o Baja - 22 de agosto, 4:00PM-8:00PM ET"
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
  "historico": {
