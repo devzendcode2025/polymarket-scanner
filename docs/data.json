@@ -1,29 +1,29 @@
 {
- "ts": 1787431523,
- "stamp": "20260822_204523",
+ "ts": 1787431883,
+ "stamp": "20260822_205123",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf0c46fcc899e9460f00879150e719c72f1ec1b074a56654eef0ed96d17097645",
-   "titulo": "Will Fluminense FC win on 2026-08-22?",
-   "slug": "bra-flu-cre-2026-08-22-flu",
+   "market_id": "0xe789c4672aa7759bcde868e17e26e13af578d8410b13d1b48ae81ab45913251e",
+   "titulo": "Will RCD Espanyol de Barcelona vs. Real Madrid CF end in a draw?",
+   "slug": "lal-esp-rea-2026-08-22-draw",
    "outcome": "Yes",
    "side": "BUY",
-   "size": 3422.0,
-   "price": 0.34,
-   "usd": 1163.48,
-   "ts": 1787431302,
-   "categoria": "Otros",
-   "prob": 53,
+   "size": 4711.25,
+   "price": 0.36,
+   "usd": 1696.05,
+   "ts": 1787431896,
+   "categoria": "Deportes",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,163 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bra-flu-cre-2026-08-22-flu",
-   "titulo_es": "¿Ganará Fluminense FC el 2026-08-22?",
-   "narrativa": "La compra de 1,163 USD en 'Yes' para que Fluminense gane el 22-ago-2026 refleja una apuesta concentrada que, ante un volumen de mercado no reportado, sugiere una posible asimetría de información o convicción institucional. El monto, aunque moderado, puede mover la aguja si el libro de órdenes es delgado, generando un edge táctico para quien entra antes del ajuste de precios. Riesgo: liquidez desconocida y horizonte lejano que amplifica la incertidumbre del resultado deportivo."
+   "razon": "Trade de compra por $1,696 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-esp-rea-2026-08-22-draw",
+   "titulo_es": "¿Terminará en empate el RCD Espanyol de Barcelona vs. Real Madrid CF?",
+   "narrativa": "La compra de 'Yes' en el empate entre Espanyol y Real Madrid ofrece un edge de +8.2 puntos frente al consenso externo del 12.4%, con un monto de $1,696 que representa el 3.1% del volumen total del mercado. Este desvío sugiere que el precio actual no refleja plenamente la probabilidad histórica de empates en este tipo de enfrentamientos, lo que crea una ventana de valor para posicionarse antes de que el mercado se ajuste. Riesgo: la liquidez es moderada y el movimiento puede ser volátil cerca del cierre de la apuesta."
   }
  ],
  "edges": [
@@ -150,8 +150,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -172,7 +172,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058299999,
+   "volumen": 98925.33058300002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -182,7 +182,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.562946,
+   "volumen": 98868.56294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -200,28 +200,18 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
-   "question": "0 ships transit Hormuz on any date by August 31?",
-   "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
-   "yes": 0.352,
-   "no": 0.648,
-   "volumen": 98161.23220500001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
-  },
-  {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.051,
-   "no": 0.949,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -250,8 +240,8 @@
   {
    "question": "Will Yabloko win the third-most seats in the next Russian parliamentary election?",
    "slug": "will-yabloko-win-the-third-most-seats-in-the-next-russian-parliamentary-election",
-   "yes": 0.0165,
-   "no": 0.9835,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 9978.887073,
    "spread": 0.0,
    "categoria": "Política",
@@ -336,6 +326,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
+  },
+  {
+   "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
+   "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
+   "yes": 0.043,
+   "no": 0.957,
+   "volumen": 9913.457348999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
   }
  ],
  "historico": {
