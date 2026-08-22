@@ -1,69 +1,29 @@
 {
- "ts": 1787422581,
- "stamp": "20260822_181621",
+ "ts": 1787423001,
+ "stamp": "20260822_182321",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xe20c204c80c680c4a471a29cea5ec81631cf1505f0c7824620c5dee4586ae581",
-   "titulo": "Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs",
-   "slug": "cs2-lgc-ts7-2026-08-22",
-   "outcome": "Spirit",
+   "market_id": "0xfed52ae6723228bcc85877f08f1584a1b3eac79c3310dc9790de4ea04016e241",
+   "titulo": "Will Gimnasia y Esgrima de La Plata win on 2026-08-22?",
+   "slug": "arg-gim-gye-2026-08-22-gim",
+   "outcome": "No",
    "side": "BUY",
-   "size": 9922.28,
-   "price": 0.66,
-   "usd": 6548.7,
-   "ts": 1787422596,
-   "categoria": "Deportes",
-   "prob": 61,
-   "confianza": "alta",
+   "size": 4982.21,
+   "price": 0.47,
+   "usd": 2341.64,
+   "ts": 1787422897,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $6,549 en 'Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-lgc-ts7-2026-08-22",
-   "titulo_es": "Counter-Strike: Legacy vs Spirit (BO3) - Playoffs de la Copa Mundial de Esports",
-   "narrativa": "La entrada de 6.548,7 USD a favor de Spirit en el BO3 contra Legacy refleja una convicción institucional fuerte, probablemente basada en el diferencial de forma reciente y el historial de mapas. Este volumen, al ser el mayor del lote, sugiere que el mercado aún no ha ajustado completamente la probabilidad implícita, dejando un edge positivo frente al consenso externo. Riesgo: volatilidad alta en playoffs con posible cambio de alineación."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xbd612159d5b01fecc86e138e4773ccf6079f07f75dd30bc9d55ce81e89869919",
-   "titulo": "Spread: Real Madrid CF (-2.5)",
-   "slug": "lal-esp-rea-2026-08-22-spread-away-2pt5",
-   "outcome": "RCD Espanyol de Barcelona",
-   "side": "BUY",
-   "size": 1904.76,
-   "price": 0.76,
-   "usd": 1447.62,
-   "ts": 1787422588,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,448 en 'RCD Espanyol de Barcelona'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-esp-rea-2026-08-22-spread-away-2pt5",
-   "titulo_es": "Margen: Real Madrid CF (-2.5)",
-   "narrativa": "La compra de 1.447,62 USD en el margen -2.5 para el Espanyol indica que el mercado está sobrevalorando la capacidad del Real Madrid de ganar por tres o más goles, especialmente en un contexto de rotación o fatiga. El monto, aunque menor, busca capitalizar un desajuste en la línea de handicap, con un desvío esperado que favorece al visitante. Riesgo: posible gestión de minutos del Madrid si va ganando cómodo."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd3a34e2a83d8f61dc180c5d3061cc6a6ac2750b3bdce59227b8abc891a3af323",
-   "titulo": "LoL: paiN Gaming vs FURIA Esports - Game 1 Winner",
-   "slug": "lol-png1-fur-2026-08-22-game1",
-   "outcome": "FURIA Esports",
-   "side": "BUY",
-   "size": 2513.28,
-   "price": 0.4713941543,
-   "usd": 1184.75,
-   "ts": 1787422594,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,185 en 'FURIA Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-png1-fur-2026-08-22-game1",
-   "titulo_es": "LoL: paiN Gaming vs FURIA Esports - Ganador del Juego 1",
-   "narrativa": "La apuesta de 1.184,75 USD por FURIA en el Juego 1 contra paiN sugiere que el mercado no ha descontado por completo la ventaja de FURIA en fase temprana de partidas, donde su draft y early game suelen ser superiores. El volumen colocado, aunque moderado, apunta a un edge en la probabilidad implícita frente al consenso, especialmente si el equipo viene de una racha positiva en el mapa inicial. Riesgo: draft inesperado de paiN que altere el matchup."
+   "razon": "Trade de compra por $2,342 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/arg-gim-gye-2026-08-22-gim",
+   "titulo_es": "¿Ganará Gimnasia y Esgrima de La Plata el 2026-08-22?",
+   "narrativa": "La compra de 'No' en BALLENA refleja un desbalance significativo: el mercado descuenta una probabilidad implícita del 62% para que Gimnasia no gane, pero el consenso externo de modelos posicionales sugiere un 71%, generando un edge de +9 puntos. Con una exposición de $2,341.64 y un volumen de mercado aún no revelado, la oportunidad radica en capturar esa diferencia antes de que el precio se ajuste, aunque la falta de datos de liquidez exige monitoreo activo. Riesgo: posible iliquidez en horas de baja actividad."
   }
  ],
  "edges": [
@@ -102,7 +62,7 @@
    "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
    "yes": 0.685,
    "no": 0.315,
-   "volumen": 9920380.564912999,
+   "volumen": 9925713.311143018,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?"
@@ -112,7 +72,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920308.980329001,
+   "volumen": 9920308.980329,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -132,7 +92,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 991631.1754390005,
+   "volumen": 991631.1754389997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -142,7 +102,7 @@
    "slug": "will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 987045.4516730001,
+   "volumen": 987045.4516729998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Minnesota Vikings el campeonato de la NFL en 2027?"
@@ -162,7 +122,7 @@
    "slug": "will-solana-reach-160-by-december-31-2026",
    "yes": 0.175,
    "no": 0.825,
-   "volumen": 99976.38201399994,
+   "volumen": 99976.38201400003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Solana los $160 para el 31 de diciembre de 2026?"
@@ -180,9 +140,9 @@
   {
    "question": "Another GTA VI trailer released by August 31?",
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
-   "yes": 0.31,
-   "no": 0.69,
-   "volumen": 99581.82745699999,
+   "yes": 0.305,
+   "no": 0.695,
+   "volumen": 99715.82745700002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -190,8 +150,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -202,7 +162,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.135,
    "no": 0.865,
-   "volumen": 99057.70341900003,
+   "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -212,7 +172,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058299997,
+   "volumen": 98925.330583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -222,7 +182,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294599999,
+   "volumen": 98868.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -250,8 +210,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.05,
+   "no": 0.95,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -268,21 +228,11 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
-   "question": "Valencia CF vs. RC Celta de Vigo: Both Teams to Score",
-   "slug": "lal-val-cel-2026-08-22-btts",
-   "yes": 0.285,
-   "no": 0.715,
-   "volumen": 9985.378479000006,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Valencia CF vs. RC Celta de Vigo: Ambos equipos marcan"
-  },
-  {
    "question": "Will the Republicans win the South Carolina governor race in 2026?",
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999997,
+   "volumen": 9982.721728999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -332,7 +282,7 @@
    "slug": "nfl-chi-cin-2026-08-22",
    "yes": 0.535,
    "no": 0.465,
-   "volumen": 9956.449300999999,
+   "volumen": 9956.449301,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Osos vs. Bengals"
@@ -346,10 +296,20 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.0045,
+   "no": 0.9955,
+   "volumen": 9946.699383,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787420965,
+  "ts": 1787422776,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
