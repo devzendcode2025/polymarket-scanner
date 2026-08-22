@@ -1,6 +1,6 @@
 {
- "ts": 1787442565,
- "stamp": "20260822_234925",
+ "ts": 1787442986,
+ "stamp": "20260822_235626",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920308.980329009,
+   "volumen": 9920308.980328994,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -51,7 +51,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 992784.96115,
+   "volumen": 992784.9611500005,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -69,8 +69,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0585,
-   "no": 0.9415,
+   "yes": 0.059,
+   "no": 0.941,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -81,7 +81,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.31,
    "no": 0.69,
-   "volumen": 99822.16447599999,
+   "volumen": 99822.164476,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -137,20 +137,10 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Athletics vs. Houston Astros",
-   "slug": "mlb-oak-hou-2026-08-22",
-   "yes": 0.305,
-   "no": 0.695,
-   "volumen": 98498.752992,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Athletics vs. Houston Astros"
-  },
-  {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -159,9 +149,9 @@
   {
    "question": "0 ships transit Hormuz on any date by August 31?",
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
-   "yes": 0.356,
-   "no": 0.644,
-   "volumen": 98396.62220500002,
+   "yes": 0.357,
+   "no": 0.643,
+   "volumen": 98396.622205,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -171,7 +161,7 @@
    "slug": "will-indiana-fever-win-the-2026-wnba-finals-186",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 98395.10386199997,
+   "volumen": 98395.10386200002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Indiana Fever las Finales de la WNBA 2026?"
@@ -189,8 +179,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.05,
-   "no": 0.95,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -271,7 +261,7 @@
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
    "yes": 0.014,
    "no": 0.986,
-   "volumen": 9945.917349000001,
+   "volumen": 9945.917349,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
@@ -285,6 +275,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
+  },
+  {
+   "question": "Will the Democratic Party win the AR-01 House seat?",
+   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
+   "yes": 0.016,
+   "no": 0.984,
+   "volumen": 9914.337593,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
  "historico": {
