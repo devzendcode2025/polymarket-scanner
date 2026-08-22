@@ -1,60 +1,11 @@
 {
- "ts": 1787421380,
- "stamp": "20260822_175620",
+ "ts": 1787421801,
+ "stamp": "20260822_180321",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xa7c04aa095db775980a0b0faad00c63a047ff02c65ab0b4c430445c08cea70f2",
-   "titulo": "Will SK Slavia Praha win on 2026-08-22?",
-   "slug": "cze1-ssp-bop-2026-08-22-ssp",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 2920.0,
-   "price": 0.74,
-   "usd": 2160.8,
-   "ts": 1787421388,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,161 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cze1-ssp-bop-2026-08-22-ssp",
-   "titulo_es": "¿Ganará el SK Slavia Praha el 2026-08-22?",
-   "narrativa": "La compra de $2,160 USD en 'Yes' para el Slavia Praha refleja una apuesta concentrada que, aunque modesta, busca capitalizar el posible sesgo del mercado hacia el resultado negativo. Sin un volumen de mercado reportado, el edge no es cuantificable directamente, pero la ausencia de consenso externo sugiere que el precio actual podría no incorporar toda la información disponible sobre el equipo. El movimiento direccional es claro, pero la falta de liquidez podría amplificar la volatilidad del precio en caso de noticias inesperadas. Riesgo: mercado con liquidez desconocida o limitada, lo que puede dificultar la salida en el momento óptimo."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
-  {
-   "tipo": "edge",
-   "question": "Bears vs. Bengals",
-   "slug": "nfl-chi-cin-2026-08-22",
-   "url": "https://polymarket.com/market/nfl-chi-cin-2026-08-22",
-   "prob_poly": 53.5,
-   "consenso": 66.8,
-   "edge": 13.3,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "Manifold",
-     "titulo": "Will the Chicago Bears beat the Cincinnati Bengals during their preseason game on August 22, 2026",
-     "prob": 66.79915165077402,
-     "url": "https://manifold.markets/PhillyK/will-the-chicago-bears-beat-the-cin",
-     "titulo_es": "¿Vencerán los Chicago Bears a los Cincinnati Bengals en su partido de pretemporada el 22 de agosto de 2026?"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "Manifold",
-   "razon": "Polymarket paga este mercado a 53.5% y el consenso de 1 fuente(s) externa(s) (Manifold) lo paga a 66.8%: diferencia de 13.3 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "Osos vs. Bengals",
-   "narrativa": "La probabilidad implícita en Polymarket para que los Osos venzan a los Bengals es de 53.5%, frente a un consenso externo de 66.8%, lo que representa un edge de 13.3 puntos porcentuales a favor de comprar el 'Sí'. Esta brecha sugiere que el mercado de Polymarket no ha incorporado plenamente la información externa, ofreciendo una oportunidad de valor relativo. Riesgo: la divergencia podría deberse a factores no capturados en el consenso externo."
-  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -90,7 +41,7 @@
    "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
    "yes": 0.685,
    "no": 0.315,
-   "volumen": 9920375.53491301,
+   "volumen": 9920380.564912999,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?"
@@ -100,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920308.980328985,
+   "volumen": 9920308.980329001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -110,7 +61,7 @@
    "slug": "will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
    "yes": 0.0365,
    "no": 0.9635,
-   "volumen": 997206.2690069997,
+   "volumen": 997206.2690069998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los San Francisco 49ers el campeonato de la NFL de 2027?"
@@ -120,7 +71,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 991631.1754390002,
+   "volumen": 991631.1754390005,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -150,7 +101,7 @@
    "slug": "will-solana-reach-160-by-december-31-2026",
    "yes": 0.175,
    "no": 0.825,
-   "volumen": 99971.38201400002,
+   "volumen": 99976.38201399994,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Solana los $160 para el 31 de diciembre de 2026?"
@@ -170,20 +121,10 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.31,
    "no": 0.69,
-   "volumen": 99581.82745700004,
+   "volumen": 99581.82745699999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
-  },
-  {
-   "question": "LoL: Leviatan Esports vs Vivo Keyd Stars - Game 2 Winner",
-   "slug": "lol-lev-vks-2026-08-22-game2",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99457.08525300004,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: Leviatan Esports vs Vivo Keyd Stars - Ganador del Juego 2"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -196,20 +137,10 @@
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
-   "question": "Will Loopscale launch a token by December 31, 2026?",
-   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.14,
-   "no": 0.86,
-   "volumen": 99057.70341900001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
-   "yes": 0.255,
-   "no": 0.745,
+   "yes": 0.25,
+   "no": 0.75,
    "volumen": 98925.33058299997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -248,8 +179,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -266,11 +197,21 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
+   "question": "Valencia CF vs. RC Celta de Vigo: Both Teams to Score",
+   "slug": "lal-val-cel-2026-08-22-btts",
+   "yes": 0.355,
+   "no": 0.645,
+   "volumen": 9985.378479000006,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Valencia CF vs. RC Celta de Vigo: Ambos equipos marcan"
+  },
+  {
    "question": "Will the Republicans win the South Carolina governor race in 2026?",
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999999,
+   "volumen": 9982.721728999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -296,16 +237,6 @@
    "question_es": "¿Quebrará Truist para finales de 2026?"
   },
   {
-   "question": "Spread: Tottenham Hotspur FC (-1.5)",
-   "slug": "epl-bre-tot-2026-08-22-spread-away-1pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9968.661935999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Margen: Tottenham Hotspur FC (-1.5)"
-  },
-  {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.645,
@@ -326,14 +257,34 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "SV Zulte Waregem vs. SK Beveren: O/U 4.5",
-   "slug": "bel1-zul-bev-2026-08-22-total-4pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9962.486499999997,
+   "question": "Bears vs. Bengals",
+   "slug": "nfl-chi-cin-2026-08-22",
+   "yes": 0.535,
+   "no": 0.465,
+   "volumen": 9956.449300999999,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "SV Zulte Waregem vs. SK Beveren: Más/Menos 4.5"
+   "question_es": "Osos vs. Bengals"
+  },
+  {
+   "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
+   "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
+   "yes": 0.055,
+   "no": 0.945,
+   "volumen": 9950.163697,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
+  },
+  {
+   "question": "Will Moonshot have the best Chinese AI model at the end of September 2026?",
+   "slug": "will-moonshot-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852826",
+   "yes": 0.113,
+   "no": 0.887,
+   "volumen": 9946.751945000002,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Moonshot el mejor modelo de IA chino a finales de septiembre de 2026?"
   }
  ],
  "historico": {
