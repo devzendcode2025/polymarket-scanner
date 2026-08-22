@@ -1,29 +1,29 @@
 {
- "ts": 1787431883,
- "stamp": "20260822_205123",
+ "ts": 1787432303,
+ "stamp": "20260822_205823",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xe789c4672aa7759bcde868e17e26e13af578d8410b13d1b48ae81ab45913251e",
-   "titulo": "Will RCD Espanyol de Barcelona vs. Real Madrid CF end in a draw?",
-   "slug": "lal-esp-rea-2026-08-22-draw",
-   "outcome": "Yes",
+   "market_id": "0xc70a757719a7c05bd4e41a2f07403a475c285e13fb87bd721314fdf0052db78b",
+   "titulo": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims)",
+   "slug": "ufc-wes5-jac22-2026-08-22",
+   "outcome": "Jackson McVey",
    "side": "BUY",
-   "size": 4711.25,
-   "price": 0.36,
-   "usd": 1696.05,
-   "ts": 1787431896,
+   "size": 84212.31,
+   "price": 0.63,
+   "usd": 53053.76,
+   "ts": 1787432202,
    "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,696 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-esp-rea-2026-08-22-draw",
-   "titulo_es": "¿Terminará en empate el RCD Espanyol de Barcelona vs. Real Madrid CF?",
-   "narrativa": "La compra de 'Yes' en el empate entre Espanyol y Real Madrid ofrece un edge de +8.2 puntos frente al consenso externo del 12.4%, con un monto de $1,696 que representa el 3.1% del volumen total del mercado. Este desvío sugiere que el precio actual no refleja plenamente la probabilidad histórica de empates en este tipo de enfrentamientos, lo que crea una ventana de valor para posicionarse antes de que el mercado se ajuste. Riesgo: la liquidez es moderada y el movimiento puede ser volátil cerca del cierre de la apuesta."
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $53,054 en 'Jackson McVey'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ufc-wes5-jac22-2026-08-22",
+   "titulo_es": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Peso Mediano, Preliminares)",
+   "narrativa": "La compra de 53,053 USD en Jackson McVey representa una apuesta institucional clara en un mercado de preliminares con liquidez limitada, lo que sugiere información privilegiada o un fuerte convicción interna sobre el resultado. El tamaño del trade equivale a un movimiento de precio significativo si el volumen total es bajo, creando una oportunidad de capturar el desvío entre la probabilidad implícita del mercado y la valoración del comprador. Riesgo: poca liquidez en el mercado, lo que puede amplificar el slippage al entrar o salir."
   }
  ],
  "edges": [
@@ -92,7 +92,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920308.980329003,
+   "volumen": 9920308.980328996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -122,7 +122,7 @@
    "slug": "will-solana-reach-160-by-december-31-2026",
    "yes": 0.21,
    "no": 0.79,
-   "volumen": 99992.26201399996,
+   "volumen": 99992.262014,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Solana los $160 para el 31 de diciembre de 2026?"
@@ -142,7 +142,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.31,
    "no": 0.69,
-   "volumen": 99785.164476,
+   "volumen": 99785.16447599996,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -162,7 +162,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99057.70341899998,
+   "volumen": 99057.70341900004,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -210,8 +210,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.0525,
+   "no": 0.9475,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -232,20 +232,10 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999999,
+   "volumen": 9982.721729,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
-  },
-  {
-   "question": "Will Yabloko win the third-most seats in the next Russian parliamentary election?",
-   "slug": "will-yabloko-win-the-third-most-seats-in-the-next-russian-parliamentary-election",
-   "yes": 0.016,
-   "no": 0.984,
-   "volumen": 9978.887073,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Obtendrá Yabloko el tercer mayor número de escaños en las próximas elecciones parlamentarias rusas?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -260,8 +250,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.635,
-   "no": 0.365,
+   "yes": 0.64,
+   "no": 0.36,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -276,6 +266,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will \"Spider-Man: Brand New Day\" 4th Weekend Box Office be between 41m and 44m?",
+   "slug": "will-spider-man-brand-new-day-4th-weekend-box-office-be-between-41m-and-44m",
+   "yes": 0.0145,
+   "no": 0.9855,
+   "volumen": 9965.598424999998,
+   "spread": 0.0,
+   "categoria": "Entretenimiento",
+   "question_es": "¿Estará la taquilla del 4.º fin de semana de 'Spider-Man: Brand New Day' entre 41m y 44m?"
   },
   {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
@@ -330,16 +330,16 @@
   {
    "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.043,
-   "no": 0.957,
-   "volumen": 9913.457348999998,
+   "yes": 0.0425,
+   "no": 0.9575,
+   "volumen": 9913.457349,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787430279,
+  "ts": 1787432101,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
