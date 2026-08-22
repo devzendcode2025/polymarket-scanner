@@ -1,31 +1,10 @@
 {
- "ts": 1787439265,
- "stamp": "20260822_225425",
+ "ts": 1787439685,
+ "stamp": "20260822_230125",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xa0fd866b6a61bb35d35ad987e1193e01b8606afc7dc8643520ffe419860d305d",
-   "titulo": "Washington Nationals vs. Miami Marlins",
-   "slug": "mlb-wsh-mia-2026-08-22",
-   "outcome": "Miami Marlins",
-   "side": "SELL",
-   "size": 1895.15,
-   "price": 0.982500963,
-   "usd": 1861.99,
-   "ts": 1787439105,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,862 en 'Miami Marlins'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-wsh-mia-2026-08-22",
-   "titulo_es": "Washington Nationals vs. Miami Marlins",
-   "narrativa": "La venta de 1,861.99 USD sobre Miami Marlins refleja una postura de cobertura ante el consenso externo que favorece a Washington Nationals, generando un desvio potencial en el precio del outcome. Este flujo, aunque moderado, puede anticipar una correccion en la cuota si el mercado ajusta su valoracion hacia el lado comprador. Riesgo: liquidez limitada en horarios de baja actividad, lo que puede amplificar la volatilidad del spread."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -230,8 +209,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.051,
-   "no": 0.949,
+   "yes": 0.052,
+   "no": 0.948,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -339,7 +318,7 @@
   }
  ],
  "historico": {
-  "ts": 1787437665,
+  "ts": 1787439526,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
