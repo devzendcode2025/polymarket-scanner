@@ -1,6 +1,6 @@
 {
- "ts": 1787436804,
- "stamp": "20260822_221324",
+ "ts": 1787437164,
+ "stamp": "20260822_221924",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -139,8 +139,8 @@
   {
    "question": "Connecticut Sun vs. Los Angeles Sparks: O/U 169.5",
    "slug": "wnba-conn-la-2026-08-22-total-169pt5",
-   "yes": 0.525,
-   "no": 0.475,
+   "yes": 0.535,
+   "no": 0.465,
    "volumen": 98447.85366399998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -149,8 +149,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
