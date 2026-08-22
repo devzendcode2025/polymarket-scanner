@@ -1,31 +1,10 @@
 {
- "ts": 1787436384,
- "stamp": "20260822_220624",
+ "ts": 1787436804,
+ "stamp": "20260822_221324",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x6ae54b57f576915b00f24e95c48c5f49fa7a40247caed58746654e7bfce4613a",
-   "titulo": "Will Liverpool FC win on 2026-08-23?",
-   "slug": "epl-new-liv-2026-08-23-liv",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 4000.0,
-   "price": 0.49,
-   "usd": 1960.0,
-   "ts": 1787436403,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,960 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/epl-new-liv-2026-08-23-liv",
-   "titulo_es": "¿Ganará el Liverpool FC el 2026-08-23?",
-   "narrativa": "La venta de 'No' en la pregunta de Liverpool FC capitaliza un consenso externo que desestima el título en esa fecha, con un monto de 1,960 USD que busca aprovechar el desvío entre la probabilidad implícita del mercado y las cuotas reales del equipo. El edge se materializa al posicionarse contra un resultado de baja probabilidad histórica, aunque el volumen de mercado no reportado sugiere cautela en la ejecución. Riesgo: posible iliquidez en el tramo final del evento."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -190,8 +169,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.05,
+   "no": 0.95,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
