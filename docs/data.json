@@ -1,31 +1,29 @@
 {
- "ts": 1787428102,
- "stamp": "20260822_194822",
+ "ts": 1787428522,
+ "stamp": "20260822_195522",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "market_id": "0xed5a9e7831ee363d92cb102f2c21e2465b09196ef5beb7c8e23671851a1c3ca4",
+   "titulo": "US x Iran diplomatic meeting by September 30, 2026?",
+   "slug": "us-x-iran-diplomatic-meeting-by-september-30-2026",
    "outcome": "Yes",
-   "side": "SELL",
-   "size": 135420.67,
-   "price": 0.68,
-   "usd": 92086.06,
-   "ts": 1787428000,
-   "volumen_mercado": 9927390.894904012,
-   "tags": [],
-   "categoria": "Economía",
-   "prob": 80,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $92,086 en 'Yes' = 0.9% del volumen del mercado ($9,927,391). Órdenes de este tamaño relativo suelen mover el precio en el corto plazo.",
-   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?",
-   "narrativa": "El mercado descuenta con un 92K en contra de la narrativa de recorte, pero el volumen de 9.9M muestra que la liquidez es profunda y el consenso externo aún no ha ajustado del todo la probabilidad implícita. La venta de 'Yes' a este precio ofrece un edge de ~4-6 puntos si la Fed mantiene la cautela, aprovechando el desvío entre la expectativa del mercado y la postura oficial. Riesgo: eventos macro de última hora o discursos de miembros de la Fed podrían mover la aguja antes de septiembre."
+   "side": "BUY",
+   "size": 5000.0,
+   "price": 0.2,
+   "usd": 1000.0,
+   "ts": 1787428297,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,000 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/us-x-iran-diplomatic-meeting-by-september-30-2026",
+   "titulo_es": "¿Reunión diplomática entre EE. UU. e Irán antes del 30 de septiembre de 2026?",
+   "narrativa": "La compra de 'Yes' en la reunión diplomática EE. UU.-Irán capitaliza un escenario geopolítico donde las probabilidades implícitas aún no descuentan plenamente los canales de comunicación abiertos. El monto de $1,000 busca capturar el repunte de valor si el consenso externo (que estima un 35% de probabilidad) converge hacia el 50% que sugiere el precio actual, generando un edge teórico de 15 puntos porcentuales. La falta de volumen reportado añade incertidumbre, pero también permite entrar antes de que el mercado ajuste la prima por el evento. Riesgo: la baja liquidez puede ampliar el diferencial de compra-venta y dificultar la salida en momentos de alta volatilidad."
   }
  ],
  "edges": [
@@ -124,7 +122,7 @@
    "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
    "yes": 0.685,
    "no": 0.315,
-   "volumen": 9927390.894904012,
+   "volumen": 9927393.694904022,
    "spread": 0.0,
    "categoria": "Economía",
    "question_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?"
@@ -134,7 +132,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920308.980328977,
+   "volumen": 9920308.980329007,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -144,7 +142,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 991631.175439,
+   "volumen": 991631.1754390002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -164,7 +162,7 @@
    "slug": "will-solana-reach-160-by-december-31-2026",
    "yes": 0.21,
    "no": 0.79,
-   "volumen": 99992.26201399996,
+   "volumen": 99992.262014,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Solana los $160 para el 31 de diciembre de 2026?"
@@ -172,8 +170,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.059,
-   "no": 0.941,
+   "yes": 0.06,
+   "no": 0.94,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -182,9 +180,9 @@
   {
    "question": "Another GTA VI trailer released by August 31?",
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
-   "yes": 0.305,
-   "no": 0.695,
-   "volumen": 99757.23590600002,
+   "yes": 0.31,
+   "no": 0.69,
+   "volumen": 99757.23590600003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -204,17 +202,27 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99057.70341899998,
+   "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
+  },
+  {
+   "question": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card)",
+   "slug": "ufc-ant-gre3-2026-08-22",
+   "yes": 0.655,
+   "no": 0.345,
+   "volumen": 98975.77135300002,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Peso Mediano, Cartel Principal)"
   },
   {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058299997,
+   "volumen": 98925.330583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -224,20 +232,10 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294599996,
+   "volumen": 98868.56294600002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
-  },
-  {
-   "question": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card)",
-   "slug": "ufc-ant-gre3-2026-08-22",
-   "yes": 0.655,
-   "no": 0.345,
-   "volumen": 98610.58975499998,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Peso Mediano, Cartel Principal)"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -260,10 +258,20 @@
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
+   "question": "Will CD Comerciantes Unidos win on 2026-08-22?",
+   "slug": "per1-ctd-ccu-2026-08-22-ccu",
+   "yes": 0.9695,
+   "no": 0.0305,
+   "volumen": 9996.271069,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará CD Comerciantes Unidos el 2026-08-22?"
+  },
+  {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.05,
-   "no": 0.95,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -284,7 +292,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999995,
+   "volumen": 9982.721729,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -330,6 +338,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "OGC Nice vs. FC Lorient: O/U 2.5",
+   "slug": "fl1-ogc-lor-2026-08-22-total-2pt5",
+   "yes": 0.125,
+   "no": 0.875,
+   "volumen": 9961.136691000003,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "OGC Nice vs. FC Lorient: Más/Menos 2.5"
+  },
+  {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
    "yes": 0.055,
@@ -348,30 +366,10 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will the highest temperature in Paris be 26°C on August 22?",
-   "slug": "highest-temperature-in-paris-on-august-22-2026-26c",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9940.056478999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en París de 26°C el 22 de agosto?"
-  },
-  {
-   "question": "OGC Nice vs. FC Lorient: O/U 2.5",
-   "slug": "fl1-ogc-lor-2026-08-22-total-2pt5",
-   "yes": 0.145,
-   "no": 0.855,
-   "volumen": 9929.286691000003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "OGC Nice vs. FC Lorient: Más/Menos 2.5"
   }
  ],
  "historico": {
-  "ts": 1787426500,
+  "ts": 1787428359,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
