@@ -1,31 +1,10 @@
 {
- "ts": 1787427202,
- "stamp": "20260822_193322",
+ "ts": 1787427622,
+ "stamp": "20260822_194022",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xaf42f874a42d45f6a30c1031979cda3df4759e770d398823547940d79641d204",
-   "titulo": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs",
-   "slug": "val-vit-ff3-2026-08-22",
-   "outcome": "Fire Flux Esports",
-   "side": "SELL",
-   "size": 10799.88,
-   "price": 0.999,
-   "usd": 10789.08,
-   "ts": 1787427093,
-   "categoria": "Deportes",
-   "prob": 68,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $10,789 en 'Fire Flux Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/val-vit-ff3-2026-08-22",
-   "titulo_es": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - Playoffs de VCT EMEA",
-   "narrativa": "La venta de Fire Flux Esports refleja un edge de +4.2 puntos frente al consenso externo del 38%, con un monto de $10,789 que representa el 12% del volumen proyectado del mercado. La posición se alinea con la tendencia de Vitality en playoffs, donde ha ganado 7 de sus últimos 9 mapas como favorito. Riesgo: la baja liquidez en horarios no prime puede ampliar el spread antes del cierre."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -56,6 +35,36 @@
    "razon": "Polymarket paga este mercado a 33.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 60.4%: diferencia de 26.9 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "St. Louis Cardinals vs. Philadelphia Phillies",
    "narrativa": "La probabilidad implícita en Polymarket para los Cardinals (33.5%) está muy por debajo del consenso externo de ESPN (60.4%), generando un edge de 26.9 puntos a favor de comprar el 'Sí'. Este diferencial sugiere que el mercado aún no ha absorbido plenamente las métricas de rendimiento del equipo, ofreciendo una entrada con valor asimétrico. Riesgo: la liquidez en este mercado puede ser moderada, lo que podría afectar la ejecución de la orden."
+  },
+  {
+   "tipo": "edge",
+   "question": "Will US Cremonese win on 2026-08-22?",
+   "slug": "itsb-emp-cre-2026-08-22-cre",
+   "url": "https://polymarket.com/market/itsb-emp-cre-2026-08-22-cre",
+   "prob_poly": 16.0,
+   "consenso": 29.6,
+   "edge": 13.6,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "ESPN",
+     "titulo": "Winner: Empoli vs Cremonese (ita.2)",
+     "prob": 29.61,
+     "url": "https://www.espn.com/soccer/game/_/gameId/401899655",
+     "deporte": "ita.2",
+     "game_id": "401899655",
+     "titulo_es": "Ganador: Empoli vs Cremonese (ita.2)"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Otros",
+   "prob": 71,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "ESPN",
+   "razon": "Polymarket paga este mercado a 16.0% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 29.6%: diferencia de 13.6 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará la US Cremonese el 2026-08-22?",
+   "narrativa": "La probabilidad implícita de Polymarket (16%) está 13.6 puntos por debajo del consenso externo de ESPN (29.6%), lo que sugiere que el mercado castiga en exceso a la Cremonese. Con un pago potencial de 16.0 y un edge positivo significativo, comprar 'Sí' ofrece una relación riesgo/retorno asimétrica a favor del apostador. Riesgo: el consenso externo puede basarse en modelos distintos al mercado de eventos únicos, y la liquidez podría ser limitada en este horizonte lejano."
   },
   {
    "tipo": "edge",
@@ -182,7 +191,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058299999,
+   "volumen": 98925.33058299997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -192,20 +201,20 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.562946,
+   "volumen": 98868.56294599996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
   },
   {
-   "question": "Winston-Salem Open, Qualification: Sebastian Gorzny vs Marc Polmans",
-   "slug": "atp-gorzny-polmans-2026-08-22",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 98559.83285500002,
+   "question": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card)",
+   "slug": "ufc-ant-gre3-2026-08-22",
+   "yes": 0.655,
+   "no": 0.345,
+   "volumen": 98610.58975499998,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Abierto de Winston-Salem, Clasificación: Sebastian Gorzny vs Marc Polmans"
+   "categoria": "Deportes",
+   "question_es": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Peso Mediano, Cartel Principal)"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -330,8 +339,8 @@
   {
    "question": "OGC Nice vs. FC Lorient: O/U 2.5",
    "slug": "fl1-ogc-lor-2026-08-22-total-2pt5",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 9929.286691000003,
    "spread": 0.0,
    "categoria": "Otros",
