@@ -1,10 +1,33 @@
 {
- "ts": 1787427622,
- "stamp": "20260822_194022",
+ "ts": 1787428102,
+ "stamp": "20260822_194822",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 135420.67,
+   "price": 0.68,
+   "usd": 92086.06,
+   "ts": 1787428000,
+   "volumen_mercado": 9927390.894904012,
+   "tags": [],
+   "categoria": "Economía",
+   "prob": 80,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $92,086 en 'Yes' = 0.9% del volumen del mercado ($9,927,391). Órdenes de este tamaño relativo suelen mover el precio en el corto plazo.",
+   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?",
+   "narrativa": "El mercado descuenta con un 92K en contra de la narrativa de recorte, pero el volumen de 9.9M muestra que la liquidez es profunda y el consenso externo aún no ha ajustado del todo la probabilidad implícita. La venta de 'Yes' a este precio ofrece un edge de ~4-6 puntos si la Fed mantiene la cautela, aprovechando el desvío entre la expectativa del mercado y la postura oficial. Riesgo: eventos macro de última hora o discursos de miembros de la Fed podrían mover la aguja antes de septiembre."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,9 +64,9 @@
    "question": "Will US Cremonese win on 2026-08-22?",
    "slug": "itsb-emp-cre-2026-08-22-cre",
    "url": "https://polymarket.com/market/itsb-emp-cre-2026-08-22-cre",
-   "prob_poly": 16.0,
+   "prob_poly": 14.0,
    "consenso": 29.6,
-   "edge": 13.6,
+   "edge": 15.6,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
@@ -58,13 +81,13 @@
    ],
    "n_fuentes": 1,
    "categoria": "Otros",
-   "prob": 71,
+   "prob": 73,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 16.0% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 29.6%: diferencia de 13.6 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 14.0% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 29.6%: diferencia de 15.6 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará la US Cremonese el 2026-08-22?",
-   "narrativa": "La probabilidad implícita de Polymarket (16%) está 13.6 puntos por debajo del consenso externo de ESPN (29.6%), lo que sugiere que el mercado castiga en exceso a la Cremonese. Con un pago potencial de 16.0 y un edge positivo significativo, comprar 'Sí' ofrece una relación riesgo/retorno asimétrica a favor del apostador. Riesgo: el consenso externo puede basarse en modelos distintos al mercado de eventos únicos, y la liquidez podría ser limitada en este horizonte lejano."
+   "narrativa": "La probabilidad implícita en Polymarket del 14% para que la US Cremonese gane el 22 de agosto de 2026 está muy por debajo del consenso externo de ESPN del 29.6%, generando un edge positivo de 15.6 puntos a favor de la compra del 'Sí'. Este desajuste sugiere que el mercado aún no ha incorporado plenamente las valoraciones de los analistas deportivos, ofreciendo una entrada con una relación riesgo/beneficio atractiva para un trade de tamaño moderado. Riesgo: la liquidez puede ser limitada en horizontes tan lejanos, lo que podría afectar la salida de la posición."
   },
   {
    "tipo": "edge",
@@ -139,8 +162,8 @@
   {
    "question": "Will Solana reach $160 by December 31, 2026?",
    "slug": "will-solana-reach-160-by-december-31-2026",
-   "yes": 0.205,
-   "no": 0.795,
+   "yes": 0.21,
+   "no": 0.79,
    "volumen": 99992.26201399996,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -149,8 +172,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0585,
-   "no": 0.9415,
+   "yes": 0.059,
+   "no": 0.941,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
