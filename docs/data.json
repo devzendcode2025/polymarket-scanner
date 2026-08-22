@@ -1,31 +1,10 @@
 {
- "ts": 1787433083,
- "stamp": "20260822_211123",
+ "ts": 1787433503,
+ "stamp": "20260822_211823",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xdc1ac87d707100f3e4c0b3cee8011aa73ee3ffc3bb5eabecbdf30c52a4b9a592",
-   "titulo": "Quebec City: Stefanos Sakellaridis vs Taro Daniel",
-   "slug": "atp-sakella-daniel-2026-08-22",
-   "outcome": "Stefanos Sakellaridis",
-   "side": "BUY",
-   "size": 1150.097825,
-   "price": 0.92,
-   "usd": 1058.09,
-   "ts": 1787433099,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,058 en 'Stefanos Sakellaridis'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-sakella-daniel-2026-08-22",
-   "titulo_es": "Ciudad de Quebec: Stefanos Sakellaridis vs Taro Daniel",
-   "narrativa": "El mercado muestra una compra de $1,058 USD en Stefanos Sakellaridis, lo que sugiere acumulación de capital en un enfrentamiento donde el consenso externo podría estar subestimando su forma reciente en canchas duras. El monto representa una posición significativa para un partido de ATP Challenger, indicando que los operadores con información privilegiada ven un edge positivo frente a Taro Daniel, quien ha perdido consistencia en superficies rápidas. Riesgo: el volumen de mercado es desconocido, lo que podría amplificar la volatilidad del precio si la liquidez es baja."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -120,8 +99,8 @@
   {
    "question": "Will Solana reach $160 by December 31, 2026?",
    "slug": "will-solana-reach-160-by-december-31-2026",
-   "yes": 0.21,
-   "no": 0.79,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 99992.26201399995,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -190,8 +169,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.004,
+   "no": 0.996,
    "volumen": 98536.05697800001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -220,8 +199,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.0525,
+   "no": 0.9475,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -260,8 +239,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.64,
-   "no": 0.36,
+   "yes": 0.645,
+   "no": 0.355,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -330,8 +309,8 @@
   {
    "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.0405,
-   "no": 0.9595,
+   "yes": 0.043,
+   "no": 0.957,
    "volumen": 9913.457348999997,
    "spread": 0.0,
    "categoria": "Otros",
