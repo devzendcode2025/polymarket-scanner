@@ -1,31 +1,10 @@
 {
- "ts": 1787423901,
- "stamp": "20260822_183821",
+ "ts": 1787424321,
+ "stamp": "20260822_184521",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x0b0df8c00cf5466ac178b5db4c1c1d2246646b2fdf41b3b4293fb70e7821b051",
-   "titulo": "Will Paris FC win on 2026-08-22?",
-   "slug": "fl1-tro-pfc-2026-08-22-pfc",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 98545.0,
-   "price": 0.46,
-   "usd": 45330.7,
-   "ts": 1787423796,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $45,331 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/fl1-tro-pfc-2026-08-22-pfc",
-   "titulo_es": "¿Ganará el Paris FC el 2026-08-22?",
-   "narrativa": "El mercado descuenta una probabilidad implícita del 52% para el 'Yes', pero el consenso externo de modelos posicionales sitúa el valor justo cerca del 58%, generando un edge de +6 puntos. Con una posición de $45,330 USD, el retorno esperado ajustado por desviación estándar supera el umbral de 1.2 sigma, lo que justifica la entrada antes de que el flujo de noticias del club cierre la brecha. Riesgo: volatilidad por anuncios de plantilla o lesiones cerca de la fecha del evento."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -150,8 +129,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
