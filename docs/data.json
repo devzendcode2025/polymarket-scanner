@@ -1,6 +1,6 @@
 {
- "ts": 1787442205,
- "stamp": "20260822_234325",
+ "ts": 1787442565,
+ "stamp": "20260822_234925",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -89,8 +89,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -139,8 +139,8 @@
   {
    "question": "Athletics vs. Houston Astros",
    "slug": "mlb-oak-hou-2026-08-22",
-   "yes": 0.265,
-   "no": 0.735,
+   "yes": 0.305,
+   "no": 0.695,
    "volumen": 98498.752992,
    "spread": 0.0,
    "categoria": "Otros",
@@ -149,8 +149,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -229,8 +229,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.635,
-   "no": 0.365,
+   "yes": 0.64,
+   "no": 0.36,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -269,8 +269,8 @@
   {
    "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.0145,
-   "no": 0.9855,
+   "yes": 0.014,
+   "no": 0.986,
    "volumen": 9945.917349000001,
    "spread": 0.0,
    "categoria": "Otros",
