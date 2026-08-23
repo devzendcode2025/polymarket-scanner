@@ -1,10 +1,31 @@
 {
- "ts": 1787445506,
- "stamp": "20260823_003826",
+ "ts": 1787445866,
+ "stamp": "20260823_004426",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x7c624dd1e39436bd2d4505cb6a0f59ab60ac06ab614b6232990c42f928dd46a6",
+   "titulo": "Detroit Tigers vs. Kansas City Royals",
+   "slug": "mlb-det-kc-2026-08-22",
+   "outcome": "Kansas City Royals",
+   "side": "BUY",
+   "size": 17000.0,
+   "price": 0.74,
+   "usd": 12580.0,
+   "ts": 1787445709,
+   "categoria": "Otros",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $12,580 en 'Kansas City Royals'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-det-kc-2026-08-22",
+   "titulo_es": "Tigres de Detroit vs. Reales de Kansas City",
+   "narrativa": "La compra de 12,580 USD en Kansas City Royals refleja una apuesta clara de una ballena contra el consenso implícito del mercado, que suele favorecer a los locales. Este flujo de capital, al ser de gran tamaño en relación al volumen típico de este mercado, sugiere que el operador maneja información o un modelo con ventaja estadística. El edge se materializa si el precio actual de los Royals está por debajo de la probabilidad real estimada, y la magnitud del trade indica convicción. Riesgo: posible falta de liquidez en horas previas al juego, lo que puede distorsionar el precio de salida."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -149,8 +170,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -179,8 +200,8 @@
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
    "slug": "bra-cru-fla-2026-08-22-corners-total-9pt5",
-   "yes": 0.665,
-   "no": 0.335,
+   "yes": 0.65,
+   "no": 0.35,
    "volumen": 9992.713088999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -189,8 +210,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -269,8 +290,8 @@
   {
    "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.013,
-   "no": 0.987,
+   "yes": 0.0125,
+   "no": 0.9875,
    "volumen": 9945.917349,
    "spread": 0.0,
    "categoria": "Otros",
