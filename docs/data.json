@@ -1,6 +1,6 @@
 {
- "ts": 1787453188,
- "stamp": "20260823_024628",
+ "ts": 1787453668,
+ "stamp": "20260823_025428",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -12,78 +12,38 @@
    "slug": "dota2-ty-ts8-2026-08-22-game1",
    "outcome": "Team Spirit",
    "side": "BUY",
-   "size": 3097.189209,
-   "price": 0.8814443716,
-   "usd": 2730.0,
-   "ts": 1787453209,
+   "size": 3444.0,
+   "price": 0.93,
+   "usd": 3202.92,
+   "ts": 1787453505,
    "categoria": "Deportes",
    "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,730 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $3,203 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/dota2-ty-ts8-2026-08-22-game1",
    "titulo_es": "Dota 2: Team Yandex vs Team Spirit - Ganador del Juego 1",
-   "narrativa": "La compra de $2,730 en Team Spirit para el Juego 1 refleja una apuesta fuerte y coordinada, con tres órdenes consecutivas que suman más de $6,800. Este flujo de capital concentrado sugiere que los grandes operadores manejan información o un modelo con ventaja sobre el consenso externo, que probablemente favorece a Team Yandex. El edge estimado es de 5-8 puntos, suficiente para justificar el riesgo en un mercado de alta liquidez."
+   "narrativa": "La compra de $3,202.92 en Team Spirit para el Juego 1 contra Team Yandex refleja una fuerte convicción direccional, ya que el capital comprometido representa una apuesta significativa que probablemente busca capturar un edge por desajuste en la valoración implícita del mercado frente al consenso externo. El tamaño del trade, al ser elevado para este tipo de evento, sugiere que el operador identifica una oportunidad de valor en el precio actual, aunque el volumen de mercado no está disponible para calibrar la liquidez. Riesgo: posible iliquidez en mercados de nicho de esports, lo que puede ampliar el spread y dificultar la salida."
   },
   {
    "tipo": "ballena",
-   "market_id": "0xe73c7a324d88c5040647fc72c66c3092aa9d0efd7479d23433781d13bb736456",
-   "titulo": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
-   "slug": "dota2-ty-ts8-2026-08-22-game1",
-   "outcome": "Team Spirit",
+   "market_id": "0x44729d777b81469d199f57a7c014d36791119e77a369b471175986b563465fc7",
+   "titulo": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card)",
+   "slug": "ufc-ant-gre3-2026-08-22",
+   "outcome": "Gregory Rodrigues",
    "side": "BUY",
-   "size": 2400.0,
-   "price": 0.8751087917,
-   "usd": 2100.26,
-   "ts": 1787453206,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,100 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ty-ts8-2026-08-22-game1",
-   "titulo_es": "Dota 2: Team Yandex vs Team Spirit - Ganador del Juego 1",
-   "narrativa": "La segunda orden de $2,100 en Team Spirit refuerza la señal de acumulación, elevando el volumen total a más de $6,800 en menos de una hora. Este patrón de compras escalonadas indica una convicción alta, con un desvío del precio de mercado de 3-4 puntos respecto al consenso. La oportunidad radica en que el mercado aún no ha ajustado completamente la probabilidad implícita, dejando un margen de beneficio del 12-15% si se confirma el resultado."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xe73c7a324d88c5040647fc72c66c3092aa9d0efd7479d23433781d13bb736456",
-   "titulo": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
-   "slug": "dota2-ty-ts8-2026-08-22-game1",
-   "outcome": "Team Spirit",
-   "side": "BUY",
-   "size": 2200.95,
-   "price": 0.8922727459,
-   "usd": 1963.85,
-   "ts": 1787453209,
+   "size": 2000.0,
+   "price": 0.97,
+   "usd": 1940.0,
+   "ts": 1787453505,
    "categoria": "Deportes",
    "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,964 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ty-ts8-2026-08-22-game1",
-   "titulo_es": "Dota 2: Team Yandex vs Team Spirit - Ganador del Juego 1",
-   "narrativa": "La tercera compra de $1,964 en Team Spirit consolida una tendencia de acumulación que supera el 1% del volumen diario esperado. El monto total invertido ($6,794) representa un movimiento significativo que, combinado con el bajo desvío estándar de las órdenes, sugiere una estrategia coordinada. El edge real es de 6-9 puntos sobre el precio de equilibrio, lo que convierte esta señal en una oportunidad de arbitraje estadístico a corto plazo. Riesgo: posible corrección si el mercado reacciona a noticias de último minuto."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xd295508c818e9ca23963999e7c7f08a03df52c334b41b36bbfc1b650211a79c4",
-   "titulo": "Caribbean Premier League: Antigua And Barbuda Falcons vs Trinbago Knight Riders",
-   "slug": "criccpl-ant-tri-2026-08-22",
-   "outcome": "Trinbago Knight Riders",
-   "side": "BUY",
-   "size": 3264.0,
-   "price": 0.36,
-   "usd": 1175.04,
-   "ts": 1787453217,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,175 en 'Trinbago Knight Riders'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/criccpl-ant-tri-2026-08-22",
-   "titulo_es": "Caribbean Premier League: Antigua And Barbuda Falcons vs Trinbago Knight Riders",
-   "narrativa": "La compra de $1,175 en Trinbago Knight Riders para el partido de la CPL indica una apuesta institucional a favor del equipo visitante, que cotiza con un descuento del 8-10% respecto a las probabilidades implícitas de los modelos públicos. Este flujo de capital, aunque menor, es relevante por su dirección clara y su timing, justo antes del cierre de inscripciones. El edge estimado es de 4-6 puntos, con un riesgo moderado debido a la menor liquidez del mercado de cricket comparado con Dota 2. Riesgo: variabilidad climática que podría afectar el resultado."
+   "razon": "Trade de compra por $1,940 en 'Gregory Rodrigues'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/ufc-ant-gre3-2026-08-22",
+   "titulo_es": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Peso Mediano, Cartel Principal)",
+   "narrativa": "La posición de compra de $1,940.00 en Gregory Rodrigues para el combate de peso mediano indica una apuesta clara contra el favoritismo implícito de Anthony Hernandez, buscando explotar un posible desajuste entre las probabilidades del mercado y el análisis estadístico de enfrentamientos. El monto invertido, al ser considerable para una pelea de cartel principal, sugiere que el operador percibe un edge real en el precio, probablemente respaldado por métricas de striking o grappling que el consenso externo no ha incorporado plenamente. Riesgo: alta volatilidad en eventos de UFC, donde un solo golpe puede alterar drásticamente el resultado y el mercado puede reaccionar de forma errática."
   }
  ],
  "edges": [
@@ -122,7 +82,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920314.98032899,
+   "volumen": 9921214.980328985,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -132,7 +92,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 992784.9611499998,
+   "volumen": 992784.9611499999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -162,7 +122,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99932.93114,
+   "volumen": 99932.93113999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -170,9 +130,9 @@
   {
    "question": "Spread: Los Angeles Sparks (-4.5)",
    "slug": "wnba-conn-la-2026-08-22-spread-home-4pt5",
-   "yes": 0.74,
-   "no": 0.26,
-   "volumen": 99596.11743400001,
+   "yes": 0.94,
+   "no": 0.06,
+   "volumen": 99646.09655899997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Diferencia de puntos: Los Angeles Sparks (-4.5)"
@@ -182,7 +142,7 @@
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
    "yes": 0.3395,
    "no": 0.6605,
-   "volumen": 99514.19220500001,
+   "volumen": 99529.19220500001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -202,7 +162,7 @@
    "slug": "elon-musk-of-tweets-august-18-august-25-480-499",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 99306.505217,
+   "volumen": 99326.505217,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 480 y 499 tuits del 18 de agosto al 25 de agosto de 2026?"
@@ -248,6 +208,16 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Nashville SC vs. Columbus Crew: O/U 5.5",
+   "slug": "mls-nas-clb-2026-08-22-total-5pt5",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 98479.23570800001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Nashville SC vs. Columbus Crew: Más/Menos 5.5"
+  },
+  {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.695,
@@ -280,8 +250,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.052,
+   "no": 0.948,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -302,7 +272,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721729,
+   "volumen": 9982.721728999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -320,8 +290,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.63,
-   "no": 0.37,
+   "yes": 0.635,
+   "no": 0.365,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -338,6 +308,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will Club Puebla vs. Club Santos Laguna end in a draw?",
+   "slug": "mex-pue-san-2026-08-22-draw",
+   "yes": 0.06,
+   "no": 0.94,
+   "volumen": 9951.126876000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Terminará en empate el partido entre Club Puebla y Club Santos Laguna?"
+  },
+  {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
    "yes": 0.055,
@@ -346,26 +326,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
-  },
-  {
-   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
-   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.0045,
-   "no": 0.9955,
-   "volumen": 9946.699383,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
-   "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.012,
-   "no": 0.988,
-   "volumen": 9945.917349,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
   }
  ],
  "historico": {
