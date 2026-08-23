@@ -1,51 +1,10 @@
 {
- "ts": 1787453668,
- "stamp": "20260823_025428",
+ "ts": 1787454045,
+ "stamp": "20260823_030045",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xe73c7a324d88c5040647fc72c66c3092aa9d0efd7479d23433781d13bb736456",
-   "titulo": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
-   "slug": "dota2-ty-ts8-2026-08-22-game1",
-   "outcome": "Team Spirit",
-   "side": "BUY",
-   "size": 3444.0,
-   "price": 0.93,
-   "usd": 3202.92,
-   "ts": 1787453505,
-   "categoria": "Deportes",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,203 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-ty-ts8-2026-08-22-game1",
-   "titulo_es": "Dota 2: Team Yandex vs Team Spirit - Ganador del Juego 1",
-   "narrativa": "La compra de $3,202.92 en Team Spirit para el Juego 1 contra Team Yandex refleja una fuerte convicción direccional, ya que el capital comprometido representa una apuesta significativa que probablemente busca capturar un edge por desajuste en la valoración implícita del mercado frente al consenso externo. El tamaño del trade, al ser elevado para este tipo de evento, sugiere que el operador identifica una oportunidad de valor en el precio actual, aunque el volumen de mercado no está disponible para calibrar la liquidez. Riesgo: posible iliquidez en mercados de nicho de esports, lo que puede ampliar el spread y dificultar la salida."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x44729d777b81469d199f57a7c014d36791119e77a369b471175986b563465fc7",
-   "titulo": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card)",
-   "slug": "ufc-ant-gre3-2026-08-22",
-   "outcome": "Gregory Rodrigues",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.97,
-   "usd": 1940.0,
-   "ts": 1787453505,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,940 en 'Gregory Rodrigues'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/ufc-ant-gre3-2026-08-22",
-   "titulo_es": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Peso Mediano, Cartel Principal)",
-   "narrativa": "La posición de compra de $1,940.00 en Gregory Rodrigues para el combate de peso mediano indica una apuesta clara contra el favoritismo implícito de Anthony Hernandez, buscando explotar un posible desajuste entre las probabilidades del mercado y el análisis estadístico de enfrentamientos. El monto invertido, al ser considerable para una pelea de cartel principal, sugiere que el operador percibe un edge real en el precio, probablemente respaldado por métricas de striking o grappling que el consenso externo no ha incorporado plenamente. Riesgo: alta volatilidad en eventos de UFC, donde un solo golpe puede alterar drásticamente el resultado y el mercado puede reaccionar de forma errática."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -130,8 +89,8 @@
   {
    "question": "Spread: Los Angeles Sparks (-4.5)",
    "slug": "wnba-conn-la-2026-08-22-spread-home-4pt5",
-   "yes": 0.94,
-   "no": 0.06,
+   "yes": 0.985,
+   "no": 0.015,
    "volumen": 99646.09655899997,
    "spread": 0.0,
    "categoria": "Otros",
@@ -208,16 +167,6 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Nashville SC vs. Columbus Crew: O/U 5.5",
-   "slug": "mls-nas-clb-2026-08-22-total-5pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 98479.23570800001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Nashville SC vs. Columbus Crew: Más/Menos 5.5"
-  },
-  {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.695,
@@ -230,8 +179,8 @@
   {
    "question": "Will Indiana Fever win the 2026 WNBA Finals?",
    "slug": "will-indiana-fever-win-the-2026-wnba-finals-186",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 98395.10386199997,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -250,8 +199,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.052,
-   "no": 0.948,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -310,8 +259,8 @@
   {
    "question": "Will Club Puebla vs. Club Santos Laguna end in a draw?",
    "slug": "mex-pue-san-2026-08-22-draw",
-   "yes": 0.06,
-   "no": 0.94,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 9951.126876000002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -326,6 +275,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.0045,
+   "no": 0.9955,
+   "volumen": 9946.699383,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
