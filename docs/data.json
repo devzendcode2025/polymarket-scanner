@@ -1,11 +1,41 @@
 {
- "ts": 1787450067,
- "stamp": "20260823_015427",
+ "ts": 1787450727,
+ "stamp": "20260823_020527",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [],
  "edges": [
+  {
+   "tipo": "edge",
+   "question": "Will St. Louis City SC win on 2026-08-22?",
+   "slug": "mls-stl-hou-2026-08-22-stl",
+   "url": "https://polymarket.com/market/mls-stl-hou-2026-08-22-stl",
+   "prob_poly": 69.0,
+   "consenso": 43.0,
+   "edge": -26.0,
+   "direccion": "Polymarket CARO (comprar No)",
+   "fuentes": [
+    {
+     "fuente": "ESPN",
+     "titulo": "Winner: St. Louis CITY SC vs Houston Dynamo FC (usa.1)",
+     "prob": 43.02,
+     "url": "https://www.espn.com/soccer/game/_/gameId/761747",
+     "deporte": "usa.1",
+     "game_id": "761747",
+     "titulo_es": "Ganador: St. Louis CITY SC vs Houston Dynamo FC (usa.1)"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Otros",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "ESPN",
+   "razon": "Polymarket paga este mercado a 69.0% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 43.0%: diferencia de 26.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "question_es": "¿Ganará St. Louis City SC el 22-08-2026?",
+   "narrativa": "El mercado de Polymarket cotiza un 69% de probabilidad para que St. Louis City SC gane el 22-08-2026, mientras que el consenso externo de ESPN lo sitúa en solo un 43%. Esta brecha de 26 puntos porcentuales sugiere que el precio del 'Sí' está sobrevalorado, ofreciendo una oportunidad de comprar 'No' con un edge esperado de +26 puntos. El monto del trade se ajusta a la diferencia, buscando capturar la corrección hacia el valor justo externo. Riesgo: la liquidez en este mercado lejano puede ser limitada, lo que podría afectar la ejecución y salida."
+  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -41,7 +71,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920314.980329,
+   "volumen": 9920314.980328992,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -51,7 +81,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 992784.9611499996,
+   "volumen": 992784.9611499999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -69,8 +99,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.062,
-   "no": 0.938,
+   "yes": 0.0625,
+   "no": 0.9375,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -81,7 +111,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99932.93114,
+   "volumen": 99932.93114000003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -149,8 +179,8 @@
   {
    "question": "Cincinnati Reds vs. Arizona Diamondbacks",
    "slug": "mlb-cin-ari-2026-08-22",
-   "yes": 0.9,
-   "no": 0.1,
+   "yes": 0.9765,
+   "no": 0.0235,
    "volumen": 98841.62582599996,
    "spread": 0.0,
    "categoria": "Otros",
@@ -169,8 +199,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -189,8 +219,8 @@
   {
    "question": "Spread: Los Angeles Sparks (-4.5)",
    "slug": "wnba-conn-la-2026-08-22-spread-home-4pt5",
-   "yes": 0.805,
-   "no": 0.195,
+   "yes": 0.665,
+   "no": 0.335,
    "volumen": 98198.29346299998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -288,7 +318,7 @@
   }
  ],
  "historico": {
-  "ts": 1787448758,
+  "ts": 1787450662,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
