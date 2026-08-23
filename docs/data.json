@@ -1,51 +1,10 @@
 {
- "ts": 1787465251,
- "stamp": "20260823_060731",
+ "ts": 1787465671,
+ "stamp": "20260823_061431",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xd05396a0b40ea21dfdcbde2403c898fd02f19a8521c64ddefce97e83da795dcc",
-   "titulo": "Will FC Barcelona win on 2026-08-23?",
-   "slug": "lal-elc-bar-2026-08-23-bar",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 13638.0,
-   "price": 0.28,
-   "usd": 3818.64,
-   "ts": 1787465217,
-   "categoria": "Deportes",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,819 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-elc-bar-2026-08-23-bar",
-   "titulo_es": "¿Ganará el FC Barcelona el 2026-08-23?",
-   "narrativa": "La compra de 3,818 USD en 'No' para la pregunta sobre el FC Barcelona refleja una postura de alta convicción contra una línea de tiempo lejana, donde el desgaste competitivo y la rotación de plantilla suelen erosionar las probabilidades implícitas del mercado. El tamaño de la posición, al ser el mayor flujo del lote, sugiere que el operador detectó un desajuste entre el consenso externo y la valoración actual, capturando un edge por la prima de incertidumbre a largo plazo. Riesgo: el mercado puede carecer de liquidez profunda, ampliando el spread en momentos de baja actividad."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x095fb856c09ddd90505cd321059ed10d61b418fd5e09504893a60ca989730226",
-   "titulo": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
-   "slug": "lol-tt-lgd-2026-08-23",
-   "outcome": "LGD Gaming",
-   "side": "BUY",
-   "size": 2182.72,
-   "price": 0.62,
-   "usd": 1353.29,
-   "ts": 1787465224,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,353 en 'LGD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-tt-lgd-2026-08-23",
-   "titulo_es": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - Ascenso del Grupo LPL",
-   "narrativa": "La apuesta de 1,353 USD a favor de LGD Gaming en un BO3 de ascenso indica que el mercado está infravalorando el momento del equipo, que suele mostrar un rendimiento superior en partidos de alta presión. El flujo de compra es significativo frente a un volumen de mercado no reportado, lo que apunta a un edge táctico basado en el historial reciente de mapas y el estado de forma de los jugadores. Riesgo: la volatilidad de los BO3 en ligas menores puede generar oscilaciones bruscas de probabilidad durante el draft."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -110,8 +69,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.06,
-   "no": 0.94,
+   "yes": 0.0595,
+   "no": 0.9405,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -140,8 +99,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -180,8 +139,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -270,8 +229,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.635,
-   "no": 0.365,
+   "yes": 0.64,
+   "no": 0.36,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -300,8 +259,8 @@
   {
    "question": "KBO: Kia Tigers vs. Kiwoom Heroes",
    "slug": "kbo-kia-kiw-2026-08-23",
-   "yes": 0.81,
-   "no": 0.19,
+   "yes": 0.66,
+   "no": 0.34,
    "volumen": 9949.241015000003,
    "spread": 0.0,
    "categoria": "Otros",
@@ -329,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787463647,
+  "ts": 1787465506,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
