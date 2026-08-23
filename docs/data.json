@@ -1,10 +1,31 @@
 {
- "ts": 1787486976,
- "stamp": "20260823_120936",
+ "ts": 1787487396,
+ "stamp": "20260823_121636",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xf8f34bfb8c40633a125b1bbdf7b9849b44ce594514d3395678e4efe7af158f6f",
+   "titulo": "Gold Coast Titans vs. Cronulla Sharks",
+   "slug": "rlnrl-gld-cro-2026-08-23",
+   "outcome": "Cronulla Sharks",
+   "side": "SELL",
+   "size": 2025.78,
+   "price": 0.999,
+   "usd": 2023.75,
+   "ts": 1787487436,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,024 en 'Cronulla Sharks'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/rlnrl-gld-cro-2026-08-23",
+   "titulo_es": "Gold Coast Titans vs. Cronulla Sharks",
+   "narrativa": "La venta de BALLENA sobre Cronulla Sharks en el partido contra Gold Coast Titans representa una oportunidad de arbitraje con un monto de 2,023.75 USD, lo que sugiere una posición significativa que podría mover el precio. El consenso externo favorece a los Titans como locales, y este trade aprovecha la posible sobrevaloración del equipo visitante en el mercado. Riesgo: volatilidad intradía por eventos deportivos impredecibles."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -169,8 +190,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -199,8 +220,8 @@
   {
    "question": "Will the highest temperature in Munich be 22°C on August 23?",
    "slug": "highest-temperature-in-munich-on-august-23-2026-22c",
-   "yes": 0.24,
-   "no": 0.76,
+   "yes": 0.255,
+   "no": 0.745,
    "volumen": 9984.541859999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -269,8 +290,8 @@
   {
    "question": "Will the highest temperature in New York City be between 82-83°F on August 23?",
    "slug": "highest-temperature-in-nyc-on-august-23-2026-82-83f",
-   "yes": 0.485,
-   "no": 0.515,
+   "yes": 0.48,
+   "no": 0.52,
    "volumen": 9957.132140000002,
    "spread": 0.0,
    "categoria": "Otros",
