@@ -1,10 +1,31 @@
 {
- "ts": 1787470772,
- "stamp": "20260823_073932",
+ "ts": 1787471192,
+ "stamp": "20260823_074632",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x35ae8d74ed7bf1c626d7ba3ddd2e351a0850ff1a630f8ff715ab4c01c612d5fb",
+   "titulo": "LoL: ThunderTalk Gaming vs LGD Gaming - Game 1 Winner",
+   "slug": "lol-tt-lgd-2026-08-23-game1",
+   "outcome": "LGD Gaming",
+   "side": "SELL",
+   "size": 5000.0,
+   "price": 0.999,
+   "usd": 4995.0,
+   "ts": 1787471220,
+   "categoria": "Deportes",
+   "prob": 59,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $4,995 en 'LGD Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-tt-lgd-2026-08-23-game1",
+   "titulo_es": "LoL: ThunderTalk Gaming vs LGD Gaming - Ganador del Juego 1",
+   "narrativa": "La venta de LGD Gaming en el Juego 1 contra ThunderTalk Gaming muestra un edge de +4.2 puntos frente al consenso externo del 58% de probabilidad implícita, mientras que el mercado interno cotiza al 53.8%. Con un monto de $4,995 y un desvío del 6.1% respecto al volumen histórico de este tipo de enfrentamientos, la posición capitaliza una sobrevaloración de LGD en un escenario de bajo volumen. Riesgo: liquidez limitada en horas previas al draft, lo que puede ampliar el spread."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -79,8 +100,8 @@
   {
    "question": "0 ships transit Hormuz on any date by August 31?",
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
-   "yes": 0.3285,
-   "no": 0.6715,
+   "yes": 0.328,
+   "no": 0.672,
    "volumen": 99529.19220500003,
    "spread": 0.0,
    "categoria": "Otros",
@@ -149,8 +170,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -169,8 +190,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -179,8 +200,8 @@
   {
    "question": "Will Moonshot be the second-best Chinese AI company at the end of October 2026?",
    "slug": "will-moonshot-be-the-second-best-chinese-ai-company-at-the-end-of-october-2026-20260811194841600",
-   "yes": 0.245,
-   "no": 0.755,
+   "yes": 0.195,
+   "no": 0.805,
    "volumen": 9990.821127,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -219,8 +240,8 @@
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
-   "yes": 0.76,
-   "no": 0.24,
+   "yes": 0.765,
+   "no": 0.235,
    "volumen": 9972.062130999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -229,8 +250,8 @@
   {
    "question": "Will the highest temperature in Kuala Lumpur be 36°C on August 23?",
    "slug": "highest-temperature-in-kuala-lumpur-on-august-23-2026-36c",
-   "yes": 0.0055,
-   "no": 0.9945,
+   "yes": 0.0045,
+   "no": 0.9955,
    "volumen": 9969.737953999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -259,8 +280,8 @@
   {
    "question": "Will the price of Ethereum be greater than $2,300 on August 23?",
    "slug": "will-the-price-of-ethereum-be-greater-than-2300-on-august-23-2026",
-   "yes": 0.9755,
-   "no": 0.0245,
+   "yes": 0.972,
+   "no": 0.028,
    "volumen": 9965.084815999997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -269,8 +290,8 @@
   {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.06,
+   "no": 0.94,
    "volumen": 9950.163697,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -288,7 +309,7 @@
   }
  ],
  "historico": {
-  "ts": 1787469172,
+  "ts": 1787470973,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
