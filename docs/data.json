@@ -1,6 +1,6 @@
 {
- "ts": 1787465671,
- "stamp": "20260823_061431",
+ "ts": 1787466091,
+ "stamp": "20260823_062131",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921216.350328997,
+   "volumen": 9921216.350329,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -81,7 +81,7 @@
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
    "yes": 0.3395,
    "no": 0.6605,
-   "volumen": 99529.19220500001,
+   "volumen": 99529.19220500003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -89,8 +89,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -99,8 +99,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -131,7 +131,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.056978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -169,8 +169,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -181,7 +181,7 @@
    "slug": "will-moonshot-be-the-second-best-chinese-ai-company-at-the-end-of-october-2026-20260811194841600",
    "yes": 0.245,
    "no": 0.755,
-   "volumen": 9990.821127000001,
+   "volumen": 9990.821127,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Moonshot la segunda mejor empresa china de IA a finales de octubre de 2026?"
@@ -257,16 +257,6 @@
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
   },
   {
-   "question": "KBO: Kia Tigers vs. Kiwoom Heroes",
-   "slug": "kbo-kia-kiw-2026-08-23",
-   "yes": 0.66,
-   "no": 0.34,
-   "volumen": 9949.241015000003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "KBO: Kia Tigers vs. Kiwoom Heroes"
-  },
-  {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
    "yes": 0.0045,
@@ -285,6 +275,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
+  },
+  {
+   "question": "Will USD be between 2.0M and 2.1M Iranian rials on August 31?",
+   "slug": "will-usd-be-between-2pt0m-and-2pt1m-iranian-rials-on-august-31-20260728205517250",
+   "yes": 0.1315,
+   "no": 0.8685,
+   "volumen": 9941.878092000003,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Estará el USD entre 2,0M y 2,1M riales iraníes el 31 de agosto?"
   }
  ],
  "historico": {
