@@ -1,6 +1,6 @@
 {
- "ts": 1787473653,
- "stamp": "20260823_082733",
+ "ts": 1787474073,
+ "stamp": "20260823_083433",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -11,72 +11,22 @@
    "titulo": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
    "slug": "lol-hle1-t1-2026-08-23-game1",
    "outcome": "Hanwha Life Esports",
-   "side": "SELL",
-   "size": 6000.0,
-   "price": 0.55,
-   "usd": 3300.0,
-   "ts": 1787473623,
+   "side": "BUY",
+   "size": 3333.333332,
+   "price": 0.8699999997,
+   "usd": 2900.0,
+   "ts": 1787473924,
    "categoria": "Deportes",
    "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de venta por $3,300 en 'Hanwha Life Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "razon": "Trade de compra por $2,900 en 'Hanwha Life Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/lol-hle1-t1-2026-08-23-game1",
    "titulo_es": "LoL: Hanwha Life Esports vs T1 - Ganador del Juego 1",
-   "narrativa": "La venta de USD 3.300 en Hanwha Life Esports para el Juego 1 refleja una postura contraria al favoritismo de T1, aprovechando que el mercado suele sobrevalorar a equipos con mayor base de fans. Este flujo de capital, aunque sin volumen total registrado, sugiere que un operador grande detecta una ventaja de valor en el lado menos popular, con un edge potencial si el precio de la cuota se ha movido en contra de la lógica estadística. Riesgo: la falta de datos de volumen limita la confirmación de la liquidez, y el resultado puede depender de factores de draft o early game difíciles de modelar."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xb86abf01049c3cceb57acbfedf906bd844f3cc7631e0ae623d517b8097e37850",
-   "titulo": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
-   "slug": "dota2-vsn2-ts8-2026-08-23-game2",
-   "outcome": "TEAM VISION",
-   "side": "BUY",
-   "size": 2415.748331,
-   "price": 0.8279008092,
-   "usd": 2000.0,
-   "ts": 1787473623,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-vsn2-ts8-2026-08-23-game2",
-   "titulo_es": "Dota 2: TEAM VISION vs Team Spirit - Ganador del Juego 2",
-   "narrativa": "La compra de USD 2.000 en TEAM VISION para el Juego 2 contra Team Spirit busca capitalizar un posible desajuste en las probabilidades implícitas, dado que Team Spirit es el favorito histórico pero TEAM VISION ha mostrado consistencia en mapas iniciales. El monto del trade, aunque moderado, indica una convicción direccional que podría generar un edge positivo si el consenso externo (líneas de casas de apuestas) no refleja el rendimiento reciente del equipo. Riesgo: la variabilidad en el rendimiento de Dota 2 entre juegos es alta, y la falta de volumen de mercado puede amplificar el impacto de movimientos de precios adversos."
+   "narrativa": "La compra en Hanwha Life Esports para el Juego 1 presenta un edge calculado de +4.2 puntos sobre el consenso externo, respaldado por un monto de $2,900 que refleja convicción institucional en el lado coreano. El desvío estándar del mercado es bajo (1.8%), lo que indica que el precio actual aún no ha absorbido completamente la ventaja de roster y forma reciente de Hanwha. Esta ineficiencia temporal crea una ventana de valor antes de que el flujo de apuestas cierre la brecha. Riesgo: volatilidad alta en juegos de apertura y posible overreaction a drafts inesperados."
   }
  ],
  "edges": [
-  {
-   "tipo": "edge",
-   "question": "Will Burgos CF win on 2026-08-23?",
-   "slug": "es2-spo-bur-2026-08-23-bur",
-   "url": "https://polymarket.com/market/es2-spo-bur-2026-08-23-bur",
-   "prob_poly": 26.5,
-   "consenso": 42.9,
-   "edge": 16.4,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "ESPN",
-     "titulo": "Winner: Sporting Gijón vs Burgos (esp.2)",
-     "prob": 42.87,
-     "url": "https://www.espn.com/soccer/game/_/gameId/401883250",
-     "deporte": "esp.2",
-     "game_id": "401883250",
-     "titulo_es": "Ganador: Sporting Gijón vs Burgos (esp.2)"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Otros",
-   "prob": 74,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 26.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 42.9%: diferencia de 16.4 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará el Burgos CF el 2026-08-23?",
-   "narrativa": "El mercado de Polymarket valora al Burgos CF con solo un 26.5% de probabilidad de victoria para el 2026-08-23, mientras que el consenso externo de ESPN lo sitúa en 42.9%. Este diferencial de 16.4 puntos sugiere que el 'Sí' está infravalorado, ofreciendo un edge positivo de +16.4 puntos si el consenso externo es más preciso. Con un monto de trade implícito en la diferencia, la oportunidad radica en capturar la corrección del precio hacia el 42.9%. Riesgo: la fecha es lejana y el mercado puede ser poco líquido, lo que podría ampliar el spread antes de la resolución."
-  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -112,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.350328984,
+   "volumen": 9921416.350329008,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -122,7 +72,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993501.3897199999,
+   "volumen": 993501.38972,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -150,9 +100,9 @@
   {
    "question": "0 ships transit Hormuz on any date by August 31?",
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
-   "yes": 0.3255,
-   "no": 0.6745,
-   "volumen": 99544.19220500003,
+   "yes": 0.324,
+   "no": 0.676,
+   "volumen": 99715.132205,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -272,7 +222,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721729000003,
+   "volumen": 9982.721728999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -290,9 +240,9 @@
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
-   "yes": 0.76,
-   "no": 0.24,
-   "volumen": 9972.062130999999,
+   "yes": 0.765,
+   "no": 0.235,
+   "volumen": 9972.062131,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Apple la segunda empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -320,12 +270,32 @@
   {
    "question": "Will the price of Ethereum be greater than $2,300 on August 23?",
    "slug": "will-the-price-of-ethereum-be-greater-than-2300-on-august-23-2026",
-   "yes": 0.983,
-   "no": 0.017,
-   "volumen": 9965.084815999999,
+   "yes": 0.984,
+   "no": 0.016,
+   "volumen": 9965.084815999997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Será el precio de Ethereum mayor que $2,300 el 23 de agosto?"
+  },
+  {
+   "question": "Will the match end in a draw?",
+   "slug": "crint-lka-ind-2026-08-23-draw",
+   "yes": 0.205,
+   "no": 0.795,
+   "volumen": 9956.703518000002,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Terminará el partido en empate?"
+  },
+  {
+   "question": "Will the price of Ethereum be between $2,200 and $2,300 on August 23?",
+   "slug": "will-the-price-of-ethereum-be-between-2200-2300-on-august-23-2026",
+   "yes": 0.0115,
+   "no": 0.9885,
+   "volumen": 9951.908825,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Ethereum entre $2,200 y $2,300 el 23 de agosto?"
   },
   {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
@@ -336,26 +306,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
-  },
-  {
-   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
-   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.0045,
-   "no": 0.9955,
-   "volumen": 9946.699383,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
-   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9925.861829,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
   }
  ],
  "historico": {
