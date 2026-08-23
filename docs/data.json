@@ -1,49 +1,29 @@
 {
- "ts": 1787510801,
- "stamp": "20260823_184641",
+ "ts": 1787511281,
+ "stamp": "20260823_185441",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x9efedc6776e4c91a6d0fba488afd0df3c703881ef32427accbe093b184470684",
-   "titulo": "Will AC Milan win on 2026-08-23?",
-   "slug": "sea-tor-mil-2026-08-23-mil",
-   "outcome": "No",
+   "market_id": "0x47f7c14360f5216e91cabe658346ffaff1797d2caf6f2a21d51b31306c1ef283",
+   "titulo": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele",
+   "slug": "atp-herbert-vandeca-2026-08-23",
+   "outcome": "Quinn Vandecasteele",
    "side": "BUY",
-   "size": 17838.0,
-   "price": 0.49,
-   "usd": 8740.62,
-   "ts": 1787510554,
+   "size": 2470.8,
+   "price": 0.5749425287,
+   "usd": 1420.57,
+   "ts": 1787510857,
    "categoria": "Otros",
-   "prob": 65,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $8,741 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/sea-tor-mil-2026-08-23-mil",
-   "titulo_es": "¿Ganará el AC Milan el 2026-08-23?",
-   "narrativa": "Una apuesta de 8,740 USD a que el AC Milan no ganará el 2026-08-23 refleja una convicción institucional fuerte contra el favoritismo implícito del mercado; si el consenso externo sitúa la probabilidad real de victoria por debajo del precio actual, el edge por punto puede ser significativo. Este tamaño de posición sugiere que el operador detectó una sobrevaloración en el 'Sí', aprovechando la baja liquidez para entrar con un monto que distorsiona la cuota. Riesgo: evento lejano con alta incertidumbre y posible falta de profundidad para salir."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x25392c56be5e8ca1b8bae86e92accb219c4a829e66b64cff21668b6406eaacf7",
-   "titulo": "Torino FC vs. AC Milan: Both Teams to Score",
-   "slug": "sea-tor-mil-2026-08-23-btts",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 11959.604165,
-   "price": 0.48,
-   "usd": 5740.61,
-   "ts": 1787510550,
-   "categoria": "Otros",
-   "prob": 60,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,741 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/sea-tor-mil-2026-08-23-btts",
-   "titulo_es": "Torino FC vs. AC Milan: Ambos equipos marcan",
-   "narrativa": "Comprar 'Sí' a que ambos equipos marcan en Torino vs. AC Milan con 5,740 USD indica que el mercado está descontando una probabilidad inferior a la frecuencia histórica de este resultado en enfrentamientos directos, donde el edge por punto puede superar el 5% si el consenso externo (modelos de goles esperados) promedia más de 2.8 goles totales. La posición es moderada para un evento de alta volatilidad, sugiriendo que el operador busca capturar una corrección de precio antes del pitido inicial. Riesgo: dependencia de la alineación ofensiva y posibles cambios tácticos de última hora."
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,421 en 'Quinn Vandecasteele'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-herbert-vandeca-2026-08-23",
+   "titulo_es": "Winston-Salem Open, Clasificación: Pierre-Hugues Herbert vs Quinn Vandecasteele",
+   "narrativa": "El mercado descuenta a Vandecasteele como favorito pese a que Herbert parte con mayor rango ATP, lo que abre una ventana de valor al comprar al no favorito con un stake de $1,420.57 que busca capturar el desajuste entre el consenso externo y el precio implícito. El edge se sustenta en la diferencia de experiencia en pista dura y el historial reciente de Herbert en clasificaciones, aunque el volumen de mercado no reportado limita la precisión del cálculo. Riesgo: posible falta de liquidez en el mercado de clasificación."
   }
  ],
  "edges": [
@@ -82,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9922049.183662007,
+   "volumen": 9922049.183662003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -142,7 +122,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99063.70341899998,
+   "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -162,7 +142,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98871.96190899999,
+   "volumen": 98871.961909,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -182,7 +162,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.05697799998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -190,8 +170,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.7,
+   "no": 0.3,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -200,9 +180,9 @@
   {
    "question": "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?",
    "slug": "will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-24-and-27-inclusive",
-   "yes": 0.15,
-   "no": 0.85,
-   "volumen": 9999.901494000002,
+   "yes": 0.145,
+   "no": 0.855,
+   "volumen": 9999.901494,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará el número de miembros demócratas de la Cámara que se retiren en 2026 entre 24 y 27 inclusive?"
@@ -230,9 +210,9 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.2,
-   "no": 0.8,
-   "volumen": 9986.559657000005,
+   "yes": 0.205,
+   "no": 0.795,
+   "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -250,22 +230,12 @@
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
-   "yes": 0.765,
-   "no": 0.235,
-   "volumen": 9972.062131,
+   "yes": 0.755,
+   "no": 0.245,
+   "volumen": 9972.062130999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Apple la segunda empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
-  },
-  {
-   "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
-   "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.64,
-   "no": 0.36,
-   "volumen": 9966.941327999997,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Estará Raphaël Glucksmann en la boleta para las elecciones presidenciales francesas de 2027?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -276,16 +246,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will CD Castellón win on 2026-08-23?",
-   "slug": "es2-cas-sab-2026-08-23-cas",
-   "yes": 0.23,
-   "no": 0.77,
-   "volumen": 9964.413555,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el CD Castellón el 2026-08-23?"
   },
   {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
@@ -310,8 +270,8 @@
   {
    "question": "KA Akureyri vs. KR Reykjavik: O/U 1.5",
    "slug": "isl1-aku-krr-2026-08-23-total-1pt5",
-   "yes": 0.9975,
-   "no": 0.0025,
+   "yes": 0.995,
+   "no": 0.005,
    "volumen": 9942.99171,
    "spread": 0.0,
    "categoria": "Otros",
@@ -322,10 +282,30 @@
    "slug": "will-ernest-harden-jrpt-the-pitt-win-emmys-2026-outstanding-guest-actor-in-a-drama-series-20260709174234067",
    "yes": 0.1025,
    "no": 0.8975,
-   "volumen": 9942.009263000002,
+   "volumen": 9942.009263,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Ernest Harden Jr. – “The Pitt” los Emmys 2026: Mejor actor invitado en una serie dramática?"
+  },
+  {
+   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
+   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9925.861829,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
+  },
+  {
+   "question": "Situational Awareness Anthropic sale confirmed by August 31?",
+   "slug": "situational-awareness-anthropic-sale-confirmed-by-august-31-20260730182057663",
+   "yes": 0.025,
+   "no": 0.975,
+   "volumen": 9918.953201,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Se confirma la venta de Anthropic por conciencia situacional antes del 31 de agosto?"
   }
  ],
  "historico": {
