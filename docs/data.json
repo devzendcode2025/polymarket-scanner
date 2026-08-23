@@ -1,31 +1,10 @@
 {
- "ts": 1787511281,
- "stamp": "20260823_185441",
+ "ts": 1787511641,
+ "stamp": "20260823_190041",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x47f7c14360f5216e91cabe658346ffaff1797d2caf6f2a21d51b31306c1ef283",
-   "titulo": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele",
-   "slug": "atp-herbert-vandeca-2026-08-23",
-   "outcome": "Quinn Vandecasteele",
-   "side": "BUY",
-   "size": 2470.8,
-   "price": 0.5749425287,
-   "usd": 1420.57,
-   "ts": 1787510857,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,421 en 'Quinn Vandecasteele'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-herbert-vandeca-2026-08-23",
-   "titulo_es": "Winston-Salem Open, Clasificación: Pierre-Hugues Herbert vs Quinn Vandecasteele",
-   "narrativa": "El mercado descuenta a Vandecasteele como favorito pese a que Herbert parte con mayor rango ATP, lo que abre una ventana de valor al comprar al no favorito con un stake de $1,420.57 que busca capturar el desajuste entre el consenso externo y el precio implícito. El edge se sustenta en la diferencia de experiencia en pista dura y el historial reciente de Herbert en clasificaciones, aunque el volumen de mercado no reportado limita la precisión del cálculo. Riesgo: posible falta de liquidez en el mercado de clasificación."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -152,7 +131,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294599996,
+   "volumen": 98868.56294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -170,8 +149,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.7,
-   "no": 0.3,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -180,8 +159,8 @@
   {
    "question": "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?",
    "slug": "will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-24-and-27-inclusive",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 9999.901494,
    "spread": 0.0,
    "categoria": "Política",
@@ -210,8 +189,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.205,
-   "no": 0.795,
+   "yes": 0.21,
+   "no": 0.79,
    "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -230,8 +209,8 @@
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
-   "yes": 0.755,
-   "no": 0.245,
+   "yes": 0.75,
+   "no": 0.25,
    "volumen": 9972.062130999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -270,8 +249,8 @@
   {
    "question": "KA Akureyri vs. KR Reykjavik: O/U 1.5",
    "slug": "isl1-aku-krr-2026-08-23-total-1pt5",
-   "yes": 0.995,
-   "no": 0.005,
+   "yes": 0.9955,
+   "no": 0.0045,
    "volumen": 9942.99171,
    "spread": 0.0,
    "categoria": "Otros",
