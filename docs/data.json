@@ -1,29 +1,29 @@
 {
- "ts": 1787493337,
- "stamp": "20260823_135537",
+ "ts": 1787493757,
+ "stamp": "20260823_140237",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xaa4a16b8fb89f589863a13894b0313039e610b8383228562eb68477fc48305ba",
-   "titulo": "Spread: Dallas Wings (-8.5)",
-   "slug": "wnba-sea-dal-2026-08-23-spread-home-8pt5",
-   "outcome": "Seattle Storm",
+   "market_id": "0x6c7e12393a3bc0c30e00e14d25977757e399eaf1f9c6f75a5d28bec999388806",
+   "titulo": "Chicago Cubs vs. Seattle Mariners",
+   "slug": "mlb-chc-sea-2026-08-23",
+   "outcome": "Chicago Cubs",
    "side": "BUY",
-   "size": 2982.16,
-   "price": 0.54,
-   "usd": 1610.37,
-   "ts": 1787493141,
+   "size": 15000.0,
+   "price": 0.51,
+   "usd": 7650.0,
+   "ts": 1787493736,
    "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,610 en 'Seattle Storm'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-sea-dal-2026-08-23-spread-home-8pt5",
-   "titulo_es": "Margen: Dallas Wings (-8.5)",
-   "narrativa": "El mercado descuenta una victoria de Dallas Wings por -8.5, pero el flujo de compra de 1,610 USD sobre Seattle Storm en el margen sugiere que un operador relevante anticipa una cobertura del spread o una sorpresa directa. Este movimiento, frente a un consenso externo que probablemente favorece a Dallas, crea un edge direccional si el precio de la línea no se ha ajustado por completo. La falta de volumen de mercado reportado incrementa la incertidumbre sobre la liquidez, por lo que la ejecución podría enfrentar deslizamientos. Riesgo: mercado con poca profundidad y posible ajuste rápido de la línea."
+   "prob": 63,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $7,650 en 'Chicago Cubs'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-chc-sea-2026-08-23",
+   "titulo_es": "Chicago Cubs vs. Seattle Mariners",
+   "narrativa": "El mercado muestra una apuesta significativa de 7,650 USD a favor de los Chicago Cubs, lo que sugiere que un operador con información relevante está posicionándose con convicción en este enfrentamiento. Aunque el volumen total del mercado no está disponible, el tamaño de la operación en relación con la liquidez típica de estos eventos indica un posible desequilibrio informativo que puede generar una oportunidad de arbitraje. Riesgo: posible falta de liquidez para salir de la posición en momentos de alta volatilidad."
   }
  ],
  "edges": [
@@ -130,8 +130,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.165,
+   "no": 0.835,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -200,8 +200,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -309,7 +309,7 @@
   }
  ],
  "historico": {
-  "ts": 1787491734,
+  "ts": 1787493540,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
