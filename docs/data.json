@@ -1,31 +1,10 @@
 {
- "ts": 1787520583,
- "stamp": "20260823_212943",
+ "ts": 1787520943,
+ "stamp": "20260823_213543",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x981fa1ec63018b18cbe8d13f919a6327c6c17ab38d2f53d7b2f28005a42f7a3e",
-   "titulo": "Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 6.5",
-   "slug": "mlb-pit-lad-2026-08-23-total-6pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 3602.32,
-   "price": 0.5306910824,
-   "usd": 1911.72,
-   "ts": 1787520175,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,912 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-pit-lad-2026-08-23-total-6pt5",
-   "titulo_es": "Pittsburgh Pirates vs. Los Angeles Dodgers: Más/Menos 6.5",
-   "narrativa": "El mercado muestra una compra de $1,911.72 en Over 6.5 para Pirates-Dodgers, lo que sugiere convicción direccional en un total alto. Aunque el volumen total no está disponible, el tamaño del trade representa una apuesta significativa que puede indicar información privilegiada o modelado favorable. El edge se materializa si el consenso público subestima la producción ofensiva esperada en este enfrentamiento, especialmente con los Dodgers como favoritos. Riesgo: posible sesgo por el parque de los Dodgers y condiciones de viento no reflejadas en la línea."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -142,7 +121,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99932.49187999999,
+   "volumen": 99932.49188000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -160,29 +139,19 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
-   "question": "Philadelphia: Anastasia Zakharova vs Anna Blinkova",
-   "slug": "wta-zakharo-blinkov-2026-08-23",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 99098.30659399995,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Filadelfia: Anastasia Zakharova vs Anna Blinkova"
-  },
-  {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99063.70341899998,
+   "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -210,8 +179,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.004,
+   "no": 0.996,
    "volumen": 98536.05697800001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -222,7 +191,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.695,
    "no": 0.305,
-   "volumen": 98417.74661799998,
+   "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -230,9 +199,9 @@
   {
    "question": "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?",
    "slug": "will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-24-and-27-inclusive",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 9999.901494,
+   "yes": 0.145,
+   "no": 0.855,
+   "volumen": 9999.901494000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará el número de miembros demócratas de la Cámara que se retiren en 2026 entre 24 y 27 inclusive?"
@@ -270,8 +239,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.21,
-   "no": 0.79,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 9986.559657000005,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -292,7 +261,7 @@
    "slug": "elon-musk-of-tweets-august-2026-840-879",
    "yes": 0.148,
    "no": 0.852,
-   "volumen": 9968.937996999999,
+   "volumen": 9977.267996999997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 840 y 879 tweets en agosto de 2026?"
@@ -332,10 +301,20 @@
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
    "yes": 0.0525,
    "no": 0.9475,
-   "volumen": 9945.953989000001,
+   "volumen": 9945.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará “Saturday Night Live” los Emmys 2026: Mejor serie de variedades?"
+  },
+  {
+   "question": "KA Akureyri vs. KR Reykjavik: O/U 1.5",
+   "slug": "isl1-aku-krr-2026-08-23-total-1pt5",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9942.99171,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "KA Akureyri vs. KR Reykjavik: Más/Menos 1.5"
   }
  ],
  "historico": {
