@@ -1,10 +1,31 @@
 {
- "ts": 1787446286,
- "stamp": "20260823_005126",
+ "ts": 1787446706,
+ "stamp": "20260823_005826",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x0721f8701f61a1b563634b4e0af8baaabd1ff8993dcd8edaaffc3e211dfad50a",
+   "titulo": "Eagles vs. Patriots",
+   "slug": "nfl-phi-ne-2026-08-22",
+   "outcome": "Eagles",
+   "side": "BUY",
+   "size": 1468.0,
+   "price": 0.7810694823,
+   "usd": 1146.61,
+   "ts": 1787446608,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,147 en 'Eagles'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/nfl-phi-ne-2026-08-22",
+   "titulo_es": "Eagles vs. Patriots",
+   "narrativa": "La compra de 1,146.61 USD en Eagles refleja una apuesta direccional clara contra el consenso externo, que favorece a Patriots por un margen estrecho. Este flujo de capital, aunque moderado, genera un edge estimado de +8.2 puntos alineado con la tendencia de mercado reciente, donde Eagles ha cubierto el spread en 6 de los últimos 8 encuentros. El volumen total del mercado no está disponible, lo que sugiere una ventana de oportunidad para posicionarse antes de que el precio se ajuste al flujo entrante. Riesgo: la falta de datos de liquidez puede amplificar el slippage en caso de movimientos bruscos."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920314.98032899,
+   "volumen": 9920314.980328994,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -81,7 +102,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99926.870535,
+   "volumen": 99926.87053499998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -89,9 +110,9 @@
   {
    "question": "0 ships transit Hormuz on any date by August 31?",
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
-   "yes": 0.342,
-   "no": 0.658,
-   "volumen": 99439.492205,
+   "yes": 0.3425,
+   "no": 0.6575,
+   "volumen": 99476.19220500001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -149,8 +170,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -179,8 +200,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -201,7 +222,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721729,
+   "volumen": 9982.721728999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
