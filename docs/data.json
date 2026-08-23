@@ -1,6 +1,6 @@
 {
- "ts": 1787481934,
- "stamp": "20260823_104534",
+ "ts": 1787482355,
+ "stamp": "20260823_105235",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -51,10 +51,20 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993572.81829,
+   "volumen": 993572.8182899999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
+  },
+  {
+   "question": "LoL: Hanwha Life Esports vs T1 - Game 2 Winner",
+   "slug": "lol-hle1-t1-2026-08-23-game2",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 987206.2013970003,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: Hanwha Life Esports vs T1 - Ganador del Juego 2"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -75,16 +85,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
-  },
-  {
-   "question": "0 ships transit Hormuz on any date by August 31?",
-   "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
-   "yes": 0.3245,
-   "no": 0.6755,
-   "volumen": 99716.58147900001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
   },
   {
    "question": "US obtains Iranian enriched uranium by September 30?",
@@ -109,8 +109,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -141,7 +141,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98609.47190899999,
+   "volumen": 98621.97190899997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -151,7 +151,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.056978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -161,10 +161,20 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.695,
    "no": 0.305,
-   "volumen": 98417.746618,
+   "volumen": 98417.74661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
+  },
+  {
+   "question": "Paris Saint-Germain FC vs. Stade Rennais FC 1901: O/U 3.5",
+   "slug": "fl1-psg-ren-2026-08-23-total-3pt5",
+   "yes": 0.415,
+   "no": 0.585,
+   "volumen": 9993.099164,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "Paris Saint-Germain FC vs. Stade Rennais FC 1901: Más/Menos 3.5"
   },
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
@@ -179,32 +189,12 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.051,
-   "no": 0.949,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
-  },
-  {
-   "question": "Exact Score: Elche CF 0 - 2 FC Barcelona?",
-   "slug": "lal-elc-bar-2026-08-23-exact-score-0-2",
-   "yes": 0.105,
-   "no": 0.895,
-   "volumen": 9990.172608,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Marcador exacto: ¿Elche CF 0 - 2 FC Barcelona?"
-  },
-  {
-   "question": "Paris Saint-Germain FC vs. Stade Rennais FC 1901: O/U 3.5",
-   "slug": "fl1-psg-ren-2026-08-23-total-3pt5",
-   "yes": 0.415,
-   "no": 0.585,
-   "volumen": 9989.709335,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "Paris Saint-Germain FC vs. Stade Rennais FC 1901: Más/Menos 3.5"
   },
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
@@ -221,7 +211,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999999,
+   "volumen": 9982.721728999995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -277,18 +267,28 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the highest temperature in Seoul (Incheon) be 32°C on August 23?",
-   "slug": "highest-temperature-in-seoul-on-august-23-2026-32c",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9957.833752000002,
+   "question": "Will Darline Graham Nordone win Horry County in the South Carolina Special Senate Primary runoff?",
+   "slug": "will-darline-graham-nordone-win-horry-county-in-the-south-carolina-special-senate-primary-runoff",
+   "yes": 0.9495,
+   "no": 0.0505,
+   "volumen": 9957.955032,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 32°C el 23 de agosto?"
+   "categoria": "Política",
+   "question_es": "¿Ganará Darline Graham Nordone en el condado de Horry en la segunda vuelta de las primarias especiales al Senado de Carolina del Sur?"
+  },
+  {
+   "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
+   "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
+   "yes": 0.06,
+   "no": 0.94,
+   "volumen": 9950.163697,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787480512,
+  "ts": 1787482424,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
