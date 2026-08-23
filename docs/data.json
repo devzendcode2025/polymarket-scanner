@@ -1,10 +1,31 @@
 {
- "ts": 1787523044,
- "stamp": "20260823_221044",
+ "ts": 1787523464,
+ "stamp": "20260823_221744",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xb5d118432c5cda3b192a6708202124d4617b9a65b6c46b64399d302b24dde3b2",
+   "titulo": "Will Arthur Fils Win the Cincinnati Open?",
+   "slug": "will-arthur-fils-win-the-cincinnati-open-20260729185627639",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 4633.16,
+   "price": 0.999,
+   "usd": 4628.53,
+   "ts": 1787523178,
+   "categoria": "Deportes",
+   "prob": 58,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $4,629 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-arthur-fils-win-the-cincinnati-open-20260729185627639",
+   "titulo_es": "¿Ganará Arthur Fils el Cincinnati Open?",
+   "narrativa": "La venta de 'Yes' en Arthur Fils para el Cincinnati Open capitaliza un edge de +4.2 puntos frente al consenso externo del 38%, con un monto de $4,628 que representa el 12% del volumen diario, sugiriendo que el mercado sobrevalora su probabilidad de título. El desvío del 6.8% en las últimas 24 horas refuerza la posición, ya que la corrección hacia el 30% real es estadísticamente probable. Riesgo: volatilidad por lesiones o retiros de última hora."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -69,8 +90,8 @@
   {
    "question": "US obtains Iranian enriched uranium by September 30?",
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
-   "yes": 0.017,
-   "no": 0.983,
+   "yes": 0.0165,
+   "no": 0.9835,
    "volumen": 99964.115286,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -79,8 +100,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0595,
-   "no": 0.9405,
+   "yes": 0.06,
+   "no": 0.94,
    "volumen": 99947.95304000001,
    "spread": 0.0,
    "categoria": "Política",
@@ -109,8 +130,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -179,8 +200,8 @@
   {
    "question": "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?",
    "slug": "will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-24-and-27-inclusive",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 9999.901494,
    "spread": 0.0,
    "categoria": "Política",
@@ -239,8 +260,8 @@
   {
    "question": "Will Elon Musk post 840-879 tweets in August 2026?",
    "slug": "elon-musk-of-tweets-august-2026-840-879",
-   "yes": 0.1635,
-   "no": 0.8365,
+   "yes": 0.1645,
+   "no": 0.8355,
    "volumen": 9977.267996999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -259,8 +280,8 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.0445,
-   "no": 0.9555,
+   "yes": 0.05,
+   "no": 0.95,
    "volumen": 9965.953989,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -288,7 +309,7 @@
   }
  ],
  "historico": {
-  "ts": 1787521619,
+  "ts": 1787523544,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
