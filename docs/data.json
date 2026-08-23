@@ -1,6 +1,6 @@
 {
- "ts": 1787515842,
- "stamp": "20260823_201042",
+ "ts": 1787516202,
+ "stamp": "20260823_201642",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -59,8 +59,8 @@
   {
    "question": "Will Bitcoin dip to $60,000 in August?",
    "slug": "will-bitcoin-dip-to-60k-in-august-2026",
-   "yes": 0.018,
-   "no": 0.982,
+   "yes": 0.0175,
+   "no": 0.9825,
    "volumen": 985839.3055179997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -169,8 +169,8 @@
   {
    "question": "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?",
    "slug": "will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-24-and-27-inclusive",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 9999.901494000002,
    "spread": 0.0,
    "categoria": "Política",
@@ -288,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787514241,
+  "ts": 1787516152,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
