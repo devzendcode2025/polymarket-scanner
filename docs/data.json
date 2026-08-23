@@ -1,51 +1,10 @@
 {
- "ts": 1787507260,
- "stamp": "20260823_174740",
+ "ts": 1787507740,
+ "stamp": "20260823_175540",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x1af16bde98488bcaf34da1954785831615e9011d705dc1eda087f07347307970",
-   "titulo": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Dhakshineswar Suresh",
-   "slug": "atp-shelbay-suresh-2026-08-23",
-   "outcome": "Dhakshineswar Suresh",
-   "side": "BUY",
-   "size": 34518.348619,
-   "price": 0.2897009967,
-   "usd": 10000.0,
-   "ts": 1787506950,
-   "categoria": "Otros",
-   "prob": 67,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $10,000 en 'Dhakshineswar Suresh'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-shelbay-suresh-2026-08-23",
-   "titulo_es": "Winston-Salem Open, Clasificación: Abedallah Shelbayh vs Dhakshineswar Suresh",
-   "narrativa": "La compra de $10,000 sobre Dhakshineswar Suresh en la clasificación de Winston-Salem sugiere que el mercado está valorando un posible desajuste de nivel frente a Shelbayh, con un edge que se amplifica si el consenso externo favorece al no favorito. El tamaño de la apuesta, al ser el mayor flujo del mercado, indica que un operador grande detectó una ineficiencia en el precio implícito. Riesgo: el volumen de mercado es nulo, lo que puede generar derrapes en la ejecución."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x03548b3396a4380144f3c59509283b036a0000000000000000000000000000",
-   "titulo": "Will Paris Saint-Germain FC win on 2026-08-23? AND Will PAOK Thessaloniki win on 2026-08-23?",
-   "slug": "",
-   "outcome": "",
-   "side": "BUY",
-   "size": 4890.854599,
-   "price": 0.4986582019,
-   "usd": 2438.86,
-   "ts": 1787506953,
-   "categoria": "Tecnología",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,439 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "",
-   "titulo_es": "¿Ganará el Paris Saint-Germain FC el 2026-08-23? Y ¿Ganará el PAOK Thessaloniki el 2026-08-23?",
-   "narrativa": "La operación combinada de $2,438.86 en dos eventos separados (PSG y PAOK) para la fecha 2026-08-23 aprovecha un arbitraje de correlación, donde el mercado no ha ajustado por completo las probabilidades conjuntas de victoria de ambos equipos. El edge proviene de que el consenso externo estima una probabilidad mayor a la implícita en el precio actual, y el monto moderado sugiere una gestión de riesgo calculada. Riesgo: la falta de volumen en ambos mercados puede dificultar la salida si el escenario cambia."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -82,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921840.85032899,
+   "volumen": 9921840.850328993,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -92,7 +51,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993744.2468600001,
+   "volumen": 993744.24686,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -120,9 +79,9 @@
   {
    "question": "US obtains Iranian enriched uranium by September 30?",
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
-   "yes": 0.0165,
-   "no": 0.9835,
-   "volumen": 99524.95528600001,
+   "yes": 0.016,
+   "no": 0.984,
+   "volumen": 99524.95528600003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -130,8 +89,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -142,7 +101,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99063.70341899997,
+   "volumen": 99063.70341899998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -162,7 +121,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98871.96190899999,
+   "volumen": 98871.96190899998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -192,7 +151,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.695,
    "no": 0.305,
-   "volumen": 98417.746618,
+   "volumen": 98417.74661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -240,8 +199,8 @@
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
-   "yes": 0.76,
-   "no": 0.24,
+   "yes": 0.765,
+   "no": 0.235,
    "volumen": 9972.062131,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -250,8 +209,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.645,
-   "no": 0.355,
+   "yes": 0.63,
+   "no": 0.37,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -268,16 +227,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Trabzonspor vs. Rams Başakşehir FK: O/U 2.5",
-   "slug": "tur-tra-iba-2026-08-23-total-2pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9961.819097999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Trabzonspor vs. Rams Başakşehir FK: Más/Menos 2.5"
-  },
-  {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
    "yes": 0.06,
@@ -286,16 +235,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
-  },
-  {
-   "question": "Frosinone Calcio vs. Juventus FC: O/U 5.5",
-   "slug": "sea-fro-juv-2026-08-23-total-5pt5",
-   "yes": 0.0295,
-   "no": 0.9705,
-   "volumen": 9948.610888000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Frosinone Calcio vs. Juventus FC: Más/Menos 5.5"
   },
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
@@ -322,10 +261,30 @@
    "slug": "will-ernest-harden-jrpt-the-pitt-win-emmys-2026-outstanding-guest-actor-in-a-drama-series-20260709174234067",
    "yes": 0.102,
    "no": 0.898,
-   "volumen": 9942.009263000002,
+   "volumen": 9942.009263,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Ernest Harden Jr. – “The Pitt” los Emmys 2026: Mejor actor invitado en una serie dramática?"
+  },
+  {
+   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
+   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9925.861829,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
+  },
+  {
+   "question": "Will Patrick Roath be the Democratic nominee for MA-08?",
+   "slug": "will-patrick-roath-be-the-democratic-nominee-for-ma-08",
+   "yes": 0.56,
+   "no": 0.44,
+   "volumen": 9923.376661,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Patrick Roath el nominado demócrata para MA-08?"
   }
  ],
  "historico": {
