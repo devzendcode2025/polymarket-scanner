@@ -1,6 +1,6 @@
 {
- "ts": 1787500359,
- "stamp": "20260823_155239",
+ "ts": 1787500779,
+ "stamp": "20260823_155939",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -38,6 +38,36 @@
   },
   {
    "tipo": "edge",
+   "question": "Will SD Eibar win on 2026-08-23?",
+   "slug": "es2-eib-vld-2026-08-23-eib",
+   "url": "https://polymarket.com/market/es2-eib-vld-2026-08-23-eib",
+   "prob_poly": 36.5,
+   "consenso": 46.0,
+   "edge": 9.5,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "ESPN",
+     "titulo": "Winner: Eibar vs Real Valladolid (esp.2)",
+     "prob": 46.05,
+     "url": "https://www.espn.com/soccer/game/_/gameId/401883254",
+     "deporte": "esp.2",
+     "game_id": "401883254",
+     "titulo_es": "Ganador: Eibar vs Real Valladolid (esp.2)"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Otros",
+   "prob": 66,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "ESPN",
+   "razon": "Polymarket paga este mercado a 36.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 46.0%: diferencia de 9.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará la SD Eibar el 2026-08-23?",
+   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a 36.5, mientras que el consenso externo de ESPN para el mismo evento se sitúa en 46.0, generando un edge de 9.5 puntos a favor de la compra. Esta brecha sugiere que el precio actual no refleja plenamente la probabilidad implícita externa, ofreciendo una oportunidad de valor relativo. El monto del trade se ajusta al diferencial, pero el riesgo principal es que el consenso externo se base en modelos distintos a los que moverán el resultado final."
+  },
+  {
+   "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
@@ -63,36 +93,6 @@
    "razon": "Polymarket paga este mercado a 6.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 15.0%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
    "narrativa": "Polymarket cotiza la opción de que el candidato demócrata gane la gobernación de Nuevo Hampshire por un margen del 3%-6% en solo 6.0%, mientras que PredictIt asigna un 15.0%, generando un edge de 9 puntos. Esta subvaloración en Polymarket puede reflejar una menor liquidez o atención en eventos de largo plazo, creando una oportunidad para quienes siguen el consenso externo. Riesgo: el margen exacto es un rango estrecho y el evento es a 2026, con alta incertidumbre."
-  },
-  {
-   "tipo": "edge",
-   "question": "Will SD Eibar win on 2026-08-23?",
-   "slug": "es2-eib-vld-2026-08-23-eib",
-   "url": "https://polymarket.com/market/es2-eib-vld-2026-08-23-eib",
-   "prob_poly": 37.5,
-   "consenso": 46.0,
-   "edge": 8.5,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "ESPN",
-     "titulo": "Winner: Eibar vs Real Valladolid (esp.2)",
-     "prob": 46.05,
-     "url": "https://www.espn.com/soccer/game/_/gameId/401883254",
-     "deporte": "esp.2",
-     "game_id": "401883254",
-     "titulo_es": "Ganador: Eibar vs Real Valladolid (esp.2)"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Otros",
-   "prob": 65,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 37.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 46.0%: diferencia de 8.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará la SD Eibar el 2026-08-23?",
-   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a 37.5, mientras que el consenso externo de ESPN lo sitúa en 46.0, generando un edge de +8.5 puntos a favor de la compra. Esta discrepancia sugiere que el precio del evento aún no ha absorbido plenamente las probabilidades implícitas de los modelos externos, ofreciendo una entrada con valor esperado positivo. El monto sugerido para esta operación se calcula en función del edge y la liquidez disponible, buscando capturar la corrección del precio hacia el consenso. Riesgo: el evento está a largo plazo y el mercado puede permanecer ineficiente durante semanas, además de posible baja liquidez en horarios de baja actividad."
   }
  ],
  "top_volumen": [
@@ -139,8 +139,8 @@
   {
    "question": "Newcastle United FC vs. Liverpool FC: O/U 3.5",
    "slug": "epl-new-liv-2026-08-23-total-3pt5",
-   "yes": 0.565,
-   "no": 0.435,
+   "yes": 0.49,
+   "no": 0.51,
    "volumen": 99573.70713800001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -179,8 +179,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -269,8 +269,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.2,
-   "no": 0.8,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 9986.559657000005,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -329,8 +329,8 @@
   {
    "question": "Will the highest temperature in Paris be 25°C on August 23?",
    "slug": "highest-temperature-in-paris-on-august-23-2026-25c",
-   "yes": 0.0045,
-   "no": 0.9955,
+   "yes": 0.005,
+   "no": 0.995,
    "volumen": 9952.851480000001,
    "spread": 0.0,
    "categoria": "Otros",
