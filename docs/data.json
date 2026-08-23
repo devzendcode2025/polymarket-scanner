@@ -1,29 +1,29 @@
 {
- "ts": 1787528925,
- "stamp": "20260823_234845",
+ "ts": 1787529285,
+ "stamp": "20260823_235445",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x04875825af0516adf592db8fcf6170e49744a17aae7ea0fa3ec6715c59873aab",
-   "titulo": "Will the highest temperature in Paris be 30°C on August 24?",
-   "slug": "highest-temperature-in-paris-on-august-24-2026-30c",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1172.39,
-   "price": 0.9893995684,
-   "usd": 1159.96,
-   "ts": 1787528581,
-   "categoria": "Otros",
-   "prob": 53,
+   "market_id": "0x8a1304e22b974f929a3bec26b6b8c2717c915c3fc10b6b95b359b712c99ab95c",
+   "titulo": "LoL: Dignitas vs FlyQuest - Game 2 Winner",
+   "slug": "lol-dig-fly-2026-08-23-game2",
+   "outcome": "FlyQuest",
+   "side": "SELL",
+   "size": 1497.61,
+   "price": 0.999,
+   "usd": 1496.11,
+   "ts": 1787528877,
+   "categoria": "Deportes",
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,160 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/highest-temperature-in-paris-on-august-24-2026-30c",
-   "titulo_es": "¿Será la temperatura máxima en París de 30°C el 24 de agosto?",
-   "narrativa": "La posición de compra en 'No' para la temperatura máxima en París de 30°C el 24 de agosto muestra un monto de $1,159.96, lo que indica una convicción clara de que el umbral no se alcanzará. Aunque el consenso externo no está disponible, el tamaño del trade sugiere que el mercado aún no ha descontado completamente esta probabilidad, generando un edge potencial si la tendencia climática histórica favorece temperaturas más frescas. Riesgo: la falta de volumen de mercado puede ampliar el desvío entre el precio de entrada y el de salida."
+   "razon": "Trade de venta por $1,496 en 'FlyQuest'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-dig-fly-2026-08-23-game2",
+   "titulo_es": "LoL: Dignitas vs FlyQuest - Ganador del Juego 2",
+   "narrativa": "El mercado sobrevalora a FlyQuest en el Juego 2 frente a Dignitas, y la venta de este outcome a $1,496 captura un edge positivo alineado con el consenso externo que favorece a Dignitas en mapas tempranos. La posición se toma con un tamaño moderado que permite absorber la volatilidad inherente a un solo juego, donde el desvío típico de resultados es alto. Riesgo: el mercado puede estar descontando un factor de forma reciente no visible en el consenso, y la liquidez podría ser limitada en caso de necesitar salir rápido."
   }
  ],
  "edges": [
@@ -130,8 +130,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.175,
-   "no": 0.825,
+   "yes": 0.195,
+   "no": 0.805,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -140,8 +140,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.175,
-   "no": 0.825,
+   "yes": 0.17,
+   "no": 0.83,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -180,12 +180,22 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.68,
-   "no": 0.32,
-   "volumen": 98417.746618,
+   "yes": 0.685,
+   "no": 0.315,
+   "volumen": 98417.74661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
+  },
+  {
+   "question": "US ceasefire against Iran continues through October 31?",
+   "slug": "us-x-iran-ceasefire-continues-through-october-31",
+   "yes": 0.64,
+   "no": 0.36,
+   "volumen": 98151.50388399999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿El alto el fuego de EE. UU. contra Irán continúa hasta el 31 de octubre?"
   },
   {
    "question": "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?",
@@ -250,8 +260,8 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.0405,
-   "no": 0.9595,
+   "yes": 0.04,
+   "no": 0.96,
    "volumen": 9965.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -296,20 +306,10 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará 'The Traitors' los Emmys 2026: Mejor serie de realidad/competencia?"
-  },
-  {
-   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
-   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9925.861829,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
   }
  ],
  "historico": {
-  "ts": 1787527288,
+  "ts": 1787529187,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
