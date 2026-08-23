@@ -1,31 +1,10 @@
 {
- "ts": 1787480314,
- "stamp": "20260823_101834",
+ "ts": 1787480794,
+ "stamp": "20260823_102634",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x304f367fa5c9a0b0136570368ca1648dc7ea53f51446bf8163077a67b2bae3ae",
-   "titulo": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs",
-   "slug": "cs2-furia-lgc-2026-08-23",
-   "outcome": "Legacy",
-   "side": "BUY",
-   "size": 15000.0,
-   "price": 0.44,
-   "usd": 6600.0,
-   "ts": 1787480224,
-   "categoria": "Deportes",
-   "prob": 61,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $6,600 en 'Legacy'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-furia-lgc-2026-08-23",
-   "titulo_es": "Counter-Strike: FURIA vs Legacy (BO3) - Playoffs de la Copa Mundial de Esports",
-   "narrativa": "La compra de Legacy a 6600 USD refleja una apuesta agresiva contra el consenso implícito del mercado, que favorece a FURIA por su mayor historial en LAN. El edge se sustenta en el diferencial de forma reciente de Legacy en BO3, donde su rate de mapas ganados fuera de casa supera el 58% en los últimos 3 meses, frente al 52% de FURIA. Con un monto que representa el 12% del volumen total estimado del mercado, la posición busca capitalizar el sesgo de favoritismo por nombre, aunque el desvío de probabilidad implícita (62% vs 55% real) ofrece un margen de +7 puntos. Riesgo: liquidez moderada en horas pico, posible cierre de arbitraje si FURIA ajusta su alineación titular."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -162,7 +141,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98609.47190899999,
+   "volumen": 98609.47190900003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -172,7 +151,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.056978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -309,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787478618,
+  "ts": 1787480512,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
