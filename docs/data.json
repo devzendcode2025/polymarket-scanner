@@ -1,51 +1,10 @@
 {
- "ts": 1787496338,
- "stamp": "20260823_144538",
+ "ts": 1787496758,
+ "stamp": "20260823_145238",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xae19646ab0707d899fc91294975ebd4c393cc831d2c02fb643c210184d9a8852",
-   "titulo": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
-   "slug": "lol-blg-al-2026-08-23",
-   "outcome": "Bilibili Gaming",
-   "side": "BUY",
-   "size": 7300.0,
-   "price": 0.63,
-   "usd": 4599.0,
-   "ts": 1787496142,
-   "categoria": "Otros",
-   "prob": 58,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,599 en 'Bilibili Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-blg-al-2026-08-23",
-   "titulo_es": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - Ascenso de Grupo LPL",
-   "narrativa": "La entrada de 4,599 USD en Bilibili Gaming refleja una apuesta institucional significativa en el ascenso de grupo de la LPL, con un edge estimado de +8.2 puntos frente al consenso externo del 58% de probabilidad implícita. El volumen del trade representa el 12% del flujo total del mercado en este outcome, lo que sugiere información privilegiada o un fuerte desalineamiento de precios. Riesgo: volatilidad alta en BO3 con posible split de mapas."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xe8fa25e9c880da16c0074eb688556bf1d64c2ff9bf7e4bcf57dafbc19dbdd8a9",
-   "titulo": "Spread: AFC Bournemouth (-1.5)",
-   "slug": "epl-mac-bou-2026-08-23-spread-away-1pt5",
-   "outcome": "Manchester City FC",
-   "side": "BUY",
-   "size": 2154.0,
-   "price": 0.895,
-   "usd": 1927.83,
-   "ts": 1787496141,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,928 en 'Manchester City FC'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/epl-mac-bou-2026-08-23-spread-away-1pt5",
-   "titulo_es": "Margen: AFC Bournemouth (-1.5)",
-   "narrativa": "La compra de 1,927.83 USD en Manchester City con margen -1.5 indica una convicción clara en la victoria por 2+ goles, con un edge de +6.4 puntos contra el 52% de probabilidad que ofrece el mercado. El monto, aunque moderado, es el mayor en este mercado de margen, señalando que el precio aún no ha absorbido el impacto de la forma reciente del City. Riesgo: Bournemouth en casa muestra solidez defensiva en los últimos 5 partidos."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -82,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.350329008,
+   "volumen": 9921416.350329,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -92,7 +51,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993572.81829,
+   "volumen": 993572.8182900001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -122,7 +81,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99524.955286,
+   "volumen": 99524.95528600001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -136,16 +95,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
-  },
-  {
-   "question": "Will VfL Bochum win on 2026-08-23?",
-   "slug": "dfb-fur-boc-2026-08-23-boc",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 99078.72398899998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el VfL Bochum el 2026-08-23?"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
@@ -166,6 +115,16 @@
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
+  },
+  {
+   "question": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season",
+   "slug": "lol-th-gx-2026-08-23",
+   "yes": 0.335,
+   "no": 0.665,
+   "volumen": 98891.44561199998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "LoL: Team Heretics vs GIANTX (BO3) - Temporada Regular de la LEC"
   },
   {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
@@ -192,7 +151,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.056978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -200,9 +159,9 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.7,
-   "no": 0.3,
-   "volumen": 98417.746618,
+   "yes": 0.695,
+   "no": 0.305,
+   "volumen": 98417.74661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -252,7 +211,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721729000003,
+   "volumen": 9982.721728999995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
