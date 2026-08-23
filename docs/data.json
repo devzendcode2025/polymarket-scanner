@@ -1,6 +1,6 @@
 {
- "ts": 1787460630,
- "stamp": "20260823_045030",
+ "ts": 1787461050,
+ "stamp": "20260823_045730",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921214.980329005,
+   "volumen": 9921214.980329,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -81,7 +81,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99932.93114000002,
+   "volumen": 99932.93113999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -161,7 +161,7 @@
    "slug": "us-announces-end-of-iranian-blockade-by-september-7-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 98157.43687000002,
+   "volumen": 98157.43687,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE. UU. anuncia el fin del bloqueo iraní para el 7 de septiembre de 2026?"
@@ -179,8 +179,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -279,8 +279,8 @@
   {
    "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.0125,
-   "no": 0.9875,
+   "yes": 0.012,
+   "no": 0.988,
    "volumen": 9945.917349000001,
    "spread": 0.0,
    "categoria": "Otros",
