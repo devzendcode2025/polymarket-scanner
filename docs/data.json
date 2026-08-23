@@ -1,10 +1,31 @@
 {
- "ts": 1787482355,
- "stamp": "20260823_105235",
+ "ts": 1787482775,
+ "stamp": "20260823_105935",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x845c1537dd4274587f1abd24fd2b38447c393dbaa5a41654787e8522635bd2d8",
+   "titulo": "Augsburg: Denis Yevseyev vs Mirza Basic",
+   "slug": "atp-yevseye-basic-2026-08-23",
+   "outcome": "Denis Yevseyev",
+   "side": "BUY",
+   "size": 12028.7,
+   "price": 0.98,
+   "usd": 11788.13,
+   "ts": 1787482630,
+   "categoria": "Otros",
+   "prob": 69,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $11,788 en 'Denis Yevseyev'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-yevseye-basic-2026-08-23",
+   "titulo_es": "Augsburgo: Denis Yevseyev vs Mirza Basic",
+   "narrativa": "La compra de $11,788 en Yevseyev refleja una apuesta fuerte contra el consenso implícito del mercado, que aún no ha ajustado completamente las probabilidades tras el reciente cambio de forma del jugador. El tamaño del trade, al ser significativo en relación al volumen disponible, sugiere que un operador con información privilegiada está explotando un desajuste temporal en la cuota. Riesgo: posible falta de liquidez en el mercado para salir sin afectar el precio."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.35032899,
+   "volumen": 9921416.350328987,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -109,8 +130,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.2,
+   "no": 0.8,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -159,8 +180,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.7,
+   "no": 0.3,
    "volumen": 98417.74661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -189,8 +210,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -219,8 +240,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.225,
-   "no": 0.775,
+   "yes": 0.23,
+   "no": 0.77,
    "volumen": 9982.211832000005,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -249,8 +270,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.63,
-   "no": 0.37,
+   "yes": 0.635,
+   "no": 0.365,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -269,8 +290,8 @@
   {
    "question": "Will Darline Graham Nordone win Horry County in the South Carolina Special Senate Primary runoff?",
    "slug": "will-darline-graham-nordone-win-horry-county-in-the-south-carolina-special-senate-primary-runoff",
-   "yes": 0.9495,
-   "no": 0.0505,
+   "yes": 0.9545,
+   "no": 0.0455,
    "volumen": 9957.955032,
    "spread": 0.0,
    "categoria": "Política",
