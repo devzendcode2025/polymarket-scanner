@@ -1,29 +1,29 @@
 {
- "ts": 1787473232,
- "stamp": "20260823_082032",
+ "ts": 1787473653,
+ "stamp": "20260823_082733",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb86abf01049c3cceb57acbfedf906bd844f3cc7631e0ae623d517b8097e37850",
-   "titulo": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
-   "slug": "dota2-vsn2-ts8-2026-08-23-game2",
-   "outcome": "TEAM VISION",
-   "side": "BUY",
-   "size": 6130.872652,
-   "price": 0.4828023949,
-   "usd": 2960.0,
-   "ts": 1787473027,
+   "market_id": "0xea516cb9ed879410bf223338c9d3029d0a68d921a6e0ce22d969f142c0415a31",
+   "titulo": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
+   "slug": "lol-hle1-t1-2026-08-23-game1",
+   "outcome": "Hanwha Life Esports",
+   "side": "SELL",
+   "size": 6000.0,
+   "price": 0.55,
+   "usd": 3300.0,
+   "ts": 1787473623,
    "categoria": "Deportes",
    "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,960 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-vsn2-ts8-2026-08-23-game2",
-   "titulo_es": "Dota 2: TEAM VISION vs Team Spirit - Ganador del Juego 2",
-   "narrativa": "La acumulación de 2.960 USD en TEAM VISION para el Juego 2 refleja una convicción fuerte del mercado, superando el monto promedio de operaciones en este tipo de eventos. El flujo de capital concentrado sugiere que los operadores con información relevante están posicionándose a favor de este resultado, lo que puede indicar una ventaja competitiva frente al consenso externo."
+   "razon": "Trade de venta por $3,300 en 'Hanwha Life Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-hle1-t1-2026-08-23-game1",
+   "titulo_es": "LoL: Hanwha Life Esports vs T1 - Ganador del Juego 1",
+   "narrativa": "La venta de USD 3.300 en Hanwha Life Esports para el Juego 1 refleja una postura contraria al favoritismo de T1, aprovechando que el mercado suele sobrevalorar a equipos con mayor base de fans. Este flujo de capital, aunque sin volumen total registrado, sugiere que un operador grande detecta una ventaja de valor en el lado menos popular, con un edge potencial si el precio de la cuota se ha movido en contra de la lógica estadística. Riesgo: la falta de datos de volumen limita la confirmación de la liquidez, y el resultado puede depender de factores de draft o early game difíciles de modelar."
   },
   {
    "tipo": "ballena",
@@ -32,38 +32,18 @@
    "slug": "dota2-vsn2-ts8-2026-08-23-game2",
    "outcome": "TEAM VISION",
    "side": "BUY",
-   "size": 4062.5,
-   "price": 0.3938461538,
-   "usd": 1600.0,
-   "ts": 1787473029,
+   "size": 2415.748331,
+   "price": 0.8279008092,
+   "usd": 2000.0,
+   "ts": 1787473623,
    "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,600 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/dota2-vsn2-ts8-2026-08-23-game2",
    "titulo_es": "Dota 2: TEAM VISION vs Team Spirit - Ganador del Juego 2",
-   "narrativa": "Una segunda compra de 1.600 USD en TEAM VISION refuerza la tendencia alcista en la confianza del mercado, sumando presión de compra que podría desplazar el precio a favor de este equipo. El tamaño de la operación, aunque menor, muestra consistencia en la dirección del flujo, lo que aumenta la probabilidad de que el mercado ajuste su valoración hacia el lado comprador."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xb86abf01049c3cceb57acbfedf906bd844f3cc7631e0ae623d517b8097e37850",
-   "titulo": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
-   "slug": "dota2-vsn2-ts8-2026-08-23-game2",
-   "outcome": "TEAM VISION",
-   "side": "BUY",
-   "size": 2931.57,
-   "price": 0.4,
-   "usd": 1172.63,
-   "ts": 1787473026,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,173 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-vsn2-ts8-2026-08-23-game2",
-   "titulo_es": "Dota 2: TEAM VISION vs Team Spirit - Ganador del Juego 2",
-   "narrativa": "La entrada adicional de 1.172,63 USD en TEAM VISION consolida un patrón de acumulación sostenida, con un total de más de 5.700 USD en el mismo resultado. Este volumen, combinado con la falta de presión vendedora evidente, sugiere que el mercado aún no ha incorporado completamente esta información, dejando un margen de oportunidad para quienes sigan la señal. Riesgo: posible falta de liquidez en momentos de alta volatilidad."
+   "narrativa": "La compra de USD 2.000 en TEAM VISION para el Juego 2 contra Team Spirit busca capitalizar un posible desajuste en las probabilidades implícitas, dado que Team Spirit es el favorito histórico pero TEAM VISION ha mostrado consistencia en mapas iniciales. El monto del trade, aunque moderado, indica una convicción direccional que podría generar un edge positivo si el consenso externo (líneas de casas de apuestas) no refleja el rendimiento reciente del equipo. Riesgo: la variabilidad en el rendimiento de Dota 2 entre juegos es alta, y la falta de volumen de mercado puede amplificar el impacto de movimientos de precios adversos."
   }
  ],
  "edges": [
@@ -178,6 +158,16 @@
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
   },
   {
+   "question": "US obtains Iranian enriched uranium by September 30?",
+   "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
+   "yes": 0.017,
+   "no": 0.983,
+   "volumen": 99519.95528600001,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
+  },
+  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.145,
@@ -222,7 +212,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98609.471909,
+   "volumen": 98609.47190899999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -232,7 +222,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.056978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -300,8 +290,8 @@
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
-   "yes": 0.765,
-   "no": 0.235,
+   "yes": 0.76,
+   "no": 0.24,
    "volumen": 9972.062130999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -310,8 +300,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.63,
-   "no": 0.37,
+   "yes": 0.635,
+   "no": 0.365,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -330,8 +320,8 @@
   {
    "question": "Will the price of Ethereum be greater than $2,300 on August 23?",
    "slug": "will-the-price-of-ethereum-be-greater-than-2300-on-august-23-2026",
-   "yes": 0.9795,
-   "no": 0.0205,
+   "yes": 0.983,
+   "no": 0.017,
    "volumen": 9965.084815999999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -340,8 +330,8 @@
   {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.06,
+   "no": 0.94,
    "volumen": 9950.163697,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -366,16 +356,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
-  },
-  {
-   "question": "Will Jalen Hurts win the 2026 NFL MVP?",
-   "slug": "will-jalen-hurts-win-the-2026-nfl-mvp",
-   "yes": 0.0345,
-   "no": 0.9655,
-   "volumen": 9916.837889999999,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Jalen Hurts el MVP de la NFL 2026?"
   }
  ],
  "historico": {
