@@ -1,51 +1,10 @@
 {
- "ts": 1787459489,
- "stamp": "20260823_043129",
+ "ts": 1787459849,
+ "stamp": "20260823_043729",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x0ba31a59ae7b92571ff0f2a6f5bf8843fa88d5c9f4d0d962d21917ba0b2bdb42",
-   "titulo": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
-   "slug": "dota2-vsn2-ts8-2026-08-23",
-   "outcome": "TEAM VISION",
-   "side": "BUY",
-   "size": 16632.65,
-   "price": 0.6,
-   "usd": 9979.59,
-   "ts": 1787459511,
-   "categoria": "Deportes",
-   "prob": 66,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $9,980 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-vsn2-ts8-2026-08-23",
-   "titulo_es": "Dota 2: TEAM VISION vs Team Spirit (BO5) - Playoffs de The International",
-   "narrativa": "La compra de ~$10K en TEAM VISION para el BO5 refleja una convicción institucional fuerte, con un monto que representa el 100% del capital disponible para esta señal. Este flujo de ballena sugiere que el mercado aún no ha ajustado completamente las probabilidades a favor de TEAM VISION, generando un edge potencial si el consenso externo (pick de analistas) también favorece a este equipo. El tamaño de la operación, al ser el máximo permitido, indica una alta confianza en el desenlace, pero el volumen de mercado nulo implica que la liquidez podría ser limitada para salir en caso de movimientos adversos. Riesgo: poca liquidez y posible derrape en la ejecución si el mercado reacciona bruscamente."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x177fcd5b490112c7c2ad7553b860dfd38a30efb1a10416df5ed67274ab45fb38",
-   "titulo": "Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner",
-   "slug": "dota2-vsn2-ts8-2026-08-23-game1",
-   "outcome": "Team Spirit",
-   "side": "BUY",
-   "size": 4000.0,
-   "price": 0.44777685,
-   "usd": 1791.11,
-   "ts": 1787459509,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,791 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-vsn2-ts8-2026-08-23-game1",
-   "titulo_es": "Dota 2: TEAM VISION vs Team Spirit - Ganador del Juego 1",
-   "narrativa": "La compra de $1.8K en Team Spirit para el Juego 1, a pesar de ser un monto menor, destaca porque el mercado suele sobrevalorar al favorito en el primer mapa, creando un desvío entre el precio implícito y la probabilidad real de victoria. Este flujo de ballena, aunque pequeño, apunta a un edge positivo si el consenso externo (modelos de mapa inicial) da a Team Spirit un 55%+ de opciones, mientras que el precio sugiere menos. El cambio porcentual en la oferta es relevante porque indica que el comprador está dispuesto a pagar un premium por asegurar la posición, lo que refuerza la señal. Riesgo: el monto es bajo en relación al volumen total, por lo que el impacto en el precio podría ser limitado si no hay seguimiento."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -82,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921214.98032898,
+   "volumen": 9921214.980329005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -92,7 +51,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 992784.9611499999,
+   "volumen": 992784.96115,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -110,8 +69,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.062,
-   "no": 0.938,
+   "yes": 0.0615,
+   "no": 0.9385,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -122,7 +81,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99932.93114,
+   "volumen": 99932.93114000002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -162,7 +121,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058300002,
+   "volumen": 98925.330583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -172,7 +131,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294599996,
+   "volumen": 98868.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -190,8 +149,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -202,7 +161,7 @@
    "slug": "us-announces-end-of-iranian-blockade-by-september-7-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 98157.43686999999,
+   "volumen": 98157.43687000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE. UU. anuncia el fin del bloqueo iraní para el 7 de septiembre de 2026?"
@@ -220,8 +179,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -252,7 +211,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999995,
+   "volumen": 9982.721728999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -322,14 +281,14 @@
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
    "yes": 0.0125,
    "no": 0.9875,
-   "volumen": 9945.917349,
+   "volumen": 9945.917349000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787458094,
+  "ts": 1787459924,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
