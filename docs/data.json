@@ -1,51 +1,10 @@
 {
- "ts": 1787517583,
- "stamp": "20260823_203943",
+ "ts": 1787518123,
+ "stamp": "20260823_204843",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x491a887908dc4c4951dc733aa8d3f07784fbdd2518f77bd70729c173caca245a",
-   "titulo": "Will Atlético Nacional win on 2026-08-23?",
-   "slug": "col1-foc-atn-2026-08-23-atn",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1857.0,
-   "price": 0.92,
-   "usd": 1708.44,
-   "ts": 1787517171,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,708 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/col1-foc-atn-2026-08-23-atn",
-   "titulo_es": "¿Ganará Atlético Nacional el 2026-08-23?",
-   "narrativa": "La compra de 'No' en Atlético Nacional refleja una apuesta de $1,708 USD contra la victoria local, con un edge estimado que supera el consenso externo al posicionarse en contra del favoritismo implícito del mercado. El monto colocado sugiere convicción en la sobrevaloración del 'Sí', aunque el volumen de mercado no disponible limita el análisis de profundidad. Riesgo: posible iliquidez en el cierre del evento."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x5f92abba1a5a07dc3622397f3c7deb7704859ce68bbf7f23a511d6ea36191cd9",
-   "titulo": "St. Louis Cardinals vs. Philadelphia Phillies: O/U 8.5",
-   "slug": "mlb-stl-phi-2026-08-23-total-8pt5",
-   "outcome": "Over",
-   "side": "SELL",
-   "size": 1379.13,
-   "price": 0.999,
-   "usd": 1377.75,
-   "ts": 1787517166,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,378 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-stl-phi-2026-08-23-total-8pt5",
-   "titulo_es": "St. Louis Cardinals vs. Philadelphia Phillies: Más/Menos 8.5",
-   "narrativa": "La venta de 'Over' en el total de 8.5 carreras entre Cardinals y Phillies, por $1,377 USD, explota el desvío entre la línea pública y el modelo de proyección de pitcheo, que estima un total esperado inferior al umbral. Este movimiento aprovecha el sesgo de los apostadores hacia el over en estadios favorables, generando un edge positivo en puntos. Riesgo: alta volatilidad en entradas tardías si el bullpen se desploma."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -82,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9922049.183661994,
+   "volumen": 9922049.183661995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -92,7 +51,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993792.70686,
+   "volumen": 993806.2782870003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -108,24 +67,24 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "US obtains Iranian enriched uranium by September 30?",
+   "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
+   "yes": 0.017,
+   "no": 0.983,
+   "volumen": 99964.11528600001,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0605,
-   "no": 0.9395,
-   "volumen": 99942.57304000002,
+   "yes": 0.0595,
+   "no": 0.9405,
+   "volumen": 99947.95304000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
-  },
-  {
-   "question": "Will Paris Saint-Germain FC vs. Stade Rennais FC 1901 end in a draw?",
-   "slug": "fl1-psg-ren-2026-08-23-draw",
-   "yes": 0.975,
-   "no": 0.025,
-   "volumen": 99935.54769899999,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Terminarán en empate Paris Saint-Germain FC vs. Stade Rennais FC 1901?"
   },
   {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
@@ -138,16 +97,6 @@
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
   },
   {
-   "question": "US obtains Iranian enriched uranium by September 30?",
-   "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
-   "yes": 0.0165,
-   "no": 0.9835,
-   "volumen": 99524.95528600001,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
-  },
-  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.145,
@@ -158,11 +107,21 @@
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
+   "question": "Elche CF vs. FC Barcelona: O/U 2.5",
+   "slug": "lal-elc-bar-2026-08-23-total-2pt5",
+   "yes": 0.81,
+   "no": 0.19,
+   "volumen": 99337.77926799997,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Elche CF vs. FC Barcelona: Más/Menos 2.5"
+  },
+  {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99063.70341900003,
+   "volumen": 99063.70341900004,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -200,8 +159,8 @@
   {
    "question": "Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5",
    "slug": "mlb-cin-ari-2026-08-23-total-9pt5",
-   "yes": 0.365,
-   "no": 0.635,
+   "yes": 0.25,
+   "no": 0.75,
    "volumen": 98497.72897800001,
    "spread": 0.0,
    "categoria": "Otros",
@@ -220,8 +179,8 @@
   {
    "question": "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?",
    "slug": "will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-24-and-27-inclusive",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 9999.901494000002,
    "spread": 0.0,
    "categoria": "Política",
@@ -280,12 +239,22 @@
   {
    "question": "Will the price of Bitcoin be greater than $74,000 on August 24?",
    "slug": "will-the-price-of-bitcoin-be-greater-than-74000-on-august-24-2026",
-   "yes": 0.968,
-   "no": 0.032,
-   "volumen": 9966.397421,
+   "yes": 0.97,
+   "no": 0.03,
+   "volumen": 9974.107420999999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Será el precio de Bitcoin mayor que $74,000 el 24 de agosto?"
+  },
+  {
+   "question": "Spread: San Francisco Giants (-1.5)",
+   "slug": "mlb-sf-bos-2026-08-23-spread-away-1pt5",
+   "yes": 0.075,
+   "no": 0.925,
+   "volumen": 9973.110513000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Margen: San Francisco Giants (-1.5)"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -298,6 +267,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will Elon Musk post 840-879 tweets in August 2026?",
+   "slug": "elon-musk-of-tweets-august-2026-840-879",
+   "yes": 0.1495,
+   "no": 0.8505,
+   "volumen": 9955.517997,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 840 y 879 tweets en agosto de 2026?"
+  },
+  {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
    "yes": 0.06,
@@ -306,30 +285,10 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
-  },
-  {
-   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
-   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.002,
-   "no": 0.998,
-   "volumen": 9946.699383,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Spread: San Francisco Giants (-1.5)",
-   "slug": "mlb-sf-bos-2026-08-23-spread-away-1pt5",
-   "yes": 0.075,
-   "no": 0.925,
-   "volumen": 9943.110513,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Margen: San Francisco Giants (-1.5)"
   }
  ],
  "historico": {
-  "ts": 1787516152,
+  "ts": 1787518012,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
