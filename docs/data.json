@@ -1,10 +1,31 @@
 {
- "ts": 1787466091,
- "stamp": "20260823_062131",
+ "ts": 1787466451,
+ "stamp": "20260823_062731",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x177fcd5b490112c7c2ad7553b860dfd38a30efb1a10416df5ed67274ab45fb38",
+   "titulo": "Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner",
+   "slug": "dota2-vsn2-ts8-2026-08-23-game1",
+   "outcome": "TEAM VISION",
+   "side": "BUY",
+   "size": 2543.97,
+   "price": 0.5,
+   "usd": 1271.98,
+   "ts": 1787466423,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,272 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-vsn2-ts8-2026-08-23-game1",
+   "titulo_es": "Dota 2: TEAM VISION vs Team Spirit - Ganador del Juego 1",
+   "narrativa": "La compra de TEAM VISION a 1.271,98 USD refleja una apuesta concentrada que, frente a un volumen de mercado no reportado, sugiere que el operador identifica un desajuste de precios en el ganador del Juego 1. El monto elevado en relación con la liquidez disponible puede amplificar el movimiento si el consenso externo favorece a Team Spirit, creando un edge direccional a favor del underdog. Riesgo: posible falta de liquidez para salir rápido en caso de reversión."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -51,7 +72,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 992784.96115,
+   "volumen": 992784.9611499998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -99,8 +120,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -139,8 +160,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -169,8 +190,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -201,7 +222,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999997,
+   "volumen": 9982.721729,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -281,7 +302,7 @@
    "slug": "will-usd-be-between-2pt0m-and-2pt1m-iranian-rials-on-august-31-20260728205517250",
    "yes": 0.1315,
    "no": 0.8685,
-   "volumen": 9941.878092000003,
+   "volumen": 9941.878092,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Estará el USD entre 2,0M y 2,1M riales iraníes el 31 de agosto?"
