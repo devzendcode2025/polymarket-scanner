@@ -1,102 +1,11 @@
 {
- "ts": 1787448027,
- "stamp": "20260823_012027",
+ "ts": 1787448687,
+ "stamp": "20260823_013127",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x8c8959d62407bb686db709801c421fabbfb895a3b527762a956f9405e74f32ba",
-   "titulo": "Cincinnati Open: Brandon Nakashima vs Frances Tiafoe",
-   "slug": "atp-nakashi-tiafoe-2026-08-22",
-   "outcome": "Frances Tiafoe",
-   "side": "SELL",
-   "size": 4109.65,
-   "price": 0.999,
-   "usd": 4105.54,
-   "ts": 1787447809,
-   "categoria": "Deportes",
-   "prob": 58,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $4,106 en 'Frances Tiafoe'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-nakashi-tiafoe-2026-08-22",
-   "titulo_es": "Abierto de Cincinnati: Brandon Nakashima vs Frances Tiafoe",
-   "narrativa": "Una venta de 4,105 USD sobre Frances Tiafoe indica que un operador relevante está dispuesto a asumir el riesgo de que no gane, probablemente por una lectura de forma reciente o del enfrentamiento directo. Este flujo de venta puede ejercer presión bajista sobre el precio del 'Sí', creando una oportunidad para quienes ven valor en el lado contrario. Riesgo: el volumen del mercado es limitado, lo que puede amplificar la volatilidad del precio."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x3be37f3f6d2e5b25636d3bd3bd122e89c50e09b3e17a35718dcad41b8f4dc1f4",
-   "titulo": "Minnesota Twins vs. San Diego Padres",
-   "slug": "mlb-min-sd-2026-08-22",
-   "outcome": "Minnesota Twins",
-   "side": "SELL",
-   "size": 5285.0,
-   "price": 0.65,
-   "usd": 3435.25,
-   "ts": 1787447811,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,435 en 'Minnesota Twins'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-min-sd-2026-08-22",
-   "titulo_es": "Minnesota Twins vs. San Diego Padres",
-   "narrativa": "La venta de 3,435 USD sobre Minnesota Twins refleja una postura bajista clara de un participante con capital significativo, posiblemente anticipando una desventaja en el pitcheo o en el momento del equipo. Este movimiento puede arrastrar el precio del 'Sí' a la baja, ofreciendo a los compradores una entrada más atractiva si su análisis difiere. Riesgo: los resultados de un solo juego son altamente variables y el mercado puede carecer de profundidad para salir rápido."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x4979aea56ca8ab86f7346775df8e942156238c300370b03420477d0237f521e3",
-   "titulo": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
-   "slug": "lol-fox1-ns-2026-08-23",
-   "outcome": "Nongshim Red Force",
-   "side": "BUY",
-   "size": 5695.1349,
-   "price": 0.5016808292,
-   "usd": 2857.14,
-   "ts": 1787447811,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,857 en 'Nongshim Red Force'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-fox1-ns-2026-08-23",
-   "titulo_es": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Ronda 3-4 Grupo Rise",
-   "narrativa": "La compra de 2,857 USD sobre Nongshim Red Force muestra convicción alcista en un underdog, probablemente basada en un análisis de composición de equipos o de la forma reciente en el BO3. Este flujo de compra puede impulsar el precio del 'Sí' al alza, y quienes lleguen temprano podrían capturar parte de ese movimiento. Riesgo: los enfrentamientos de LoL son impredecibles y el volumen del mercado es bajo, lo que incrementa el riesgo de deslizamiento."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
-  {
-   "tipo": "edge",
-   "question": "Will Cruzeiro EC win on 2026-08-22?",
-   "slug": "bra-cru-fla-2026-08-22-cru",
-   "url": "https://polymarket.com/market/bra-cru-fla-2026-08-22-cru",
-   "prob_poly": 11.5,
-   "consenso": 27.3,
-   "edge": 15.8,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "ESPN",
-     "titulo": "Winner: Cruzeiro vs Flamengo (bra.1)",
-     "prob": 27.34,
-     "url": "https://www.espn.com/soccer/game/_/gameId/401841206",
-     "deporte": "bra.1",
-     "game_id": "401841206",
-     "titulo_es": "Ganador: Cruzeiro vs Flamengo (bra.1)"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Otros",
-   "prob": 74,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 11.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 27.3%: diferencia de 15.8 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará Cruzeiro EC el 2026-08-22?",
-   "narrativa": "El mercado de Polymarket valora a Cruzeiro EC en 11.5, mientras que el consenso externo de ESPN lo sitúa en 27.3, generando un edge de 15.8 puntos a favor de comprar el 'Sí'. Esta brecha sugiere que el precio de la acción no ha absorbido plenamente la información pública, ofreciendo una entrada con valor esperado positivo. Riesgo: la ventana temporal es lejana (2026) y el consenso externo puede variar con la dinámica del equipo."
-  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -142,7 +51,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 992784.9611500002,
+   "volumen": 992784.96115,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -172,27 +81,17 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99926.87053500002,
+   "volumen": 99926.87053500001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
-  },
-  {
-   "question": "Cleveland Guardians vs. Colorado Rockies",
-   "slug": "mlb-cle-col-2026-08-22",
-   "yes": 0.805,
-   "no": 0.195,
-   "volumen": 99598.29650200003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Cleveland Guardians vs. Colorado Rockies"
   },
   {
    "question": "0 ships transit Hormuz on any date by August 31?",
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
    "yes": 0.3425,
    "no": 0.6575,
-   "volumen": 99476.192205,
+   "volumen": 99476.19220500001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -206,6 +105,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
+  },
+  {
+   "question": "Will Elon Musk post 480-499 tweets from August 18 to August 25, 2026?",
+   "slug": "elon-musk-of-tweets-august-18-august-25-480-499",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 99216.505217,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 480 y 499 tuits del 18 de agosto al 25 de agosto de 2026?"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
@@ -222,7 +131,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058299997,
+   "volumen": 98925.330583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -232,7 +141,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294599999,
+   "volumen": 98868.56294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -250,8 +159,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -262,7 +171,7 @@
    "slug": "will-indiana-fever-win-the-2026-wnba-finals-186",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 98395.10386199999,
+   "volumen": 98395.10386199997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Indiana Fever las Finales de la WNBA 2026?"
@@ -270,8 +179,8 @@
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
    "slug": "bra-cru-fla-2026-08-22-corners-total-9pt5",
-   "yes": 0.5,
-   "no": 0.5,
+   "yes": 0.005,
+   "no": 0.995,
    "volumen": 9992.713088999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -320,8 +229,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.64,
-   "no": 0.36,
+   "yes": 0.645,
+   "no": 0.355,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -360,26 +269,26 @@
   {
    "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.0145,
-   "no": 0.9855,
+   "yes": 0.014,
+   "no": 0.986,
    "volumen": 9945.917349,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
   },
   {
-   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
-   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9925.861829,
+   "question": "Will the Ornn B200 Index be between $6.50 and $7.00 on August 31, 2026?",
+   "slug": "will-the-ornn-b200-index-be-between-6pt50-and-7pt00-on-august-31-2026-1785423806595",
+   "yes": 0.3935,
+   "no": 0.6065,
+   "volumen": 9933.483417,
    "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
+   "categoria": "Otros",
+   "question_es": "¿Estará el índice Ornn B200 entre $6.50 y $7.00 el 31 de agosto de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787446899,
+  "ts": 1787448758,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
