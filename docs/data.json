@@ -1,10 +1,31 @@
 {
- "ts": 1787524904,
- "stamp": "20260823_224144",
+ "ts": 1787525264,
+ "stamp": "20260823_224744",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x3fe949fde1afdf9cac082fc5ad06a7bd9b8c7b0ad193425d46d6618282e886ab",
+   "titulo": "Will the highest temperature in Madrid be 24°C on August 24?",
+   "slug": "highest-temperature-in-madrid-on-august-24-2026-24c",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2641.53,
+   "price": 0.999,
+   "usd": 2638.89,
+   "ts": 1787524977,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,639 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/highest-temperature-in-madrid-on-august-24-2026-24c",
+   "titulo_es": "¿Será la temperatura máxima en Madrid de 24°C el 24 de agosto?",
+   "narrativa": "La señal de compra en 'No' para la temperatura máxima de 24°C en Madrid el 24 de agosto se apoya en un monto de $2,638.89, lo que indica una apuesta significativa contra el consenso meteorológico. Este capital concentrado sugiere que un actor relevante percibe un desajuste entre el precio actual y la probabilidad real, generando un edge potencial si el evento se resuelve por debajo del umbral. La falta de volumen de mercado reportado aumenta la incertidumbre sobre la profundidad de la liquidez, por lo que la ejecución podría mover el precio en contra. Riesgo: posible iliquidez y alta sensibilidad a actualizaciones climáticas de última hora."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -109,8 +130,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.2,
-   "no": 0.8,
+   "yes": 0.21,
+   "no": 0.79,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -119,8 +140,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.18,
+   "no": 0.82,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -249,8 +270,8 @@
   {
    "question": "Will Elon Musk post 840-879 tweets in August 2026?",
    "slug": "elon-musk-of-tweets-august-2026-840-879",
-   "yes": 0.17,
-   "no": 0.83,
+   "yes": 0.1705,
+   "no": 0.8295,
    "volumen": 9977.267996999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -269,8 +290,8 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.0405,
-   "no": 0.9595,
+   "yes": 0.04,
+   "no": 0.96,
    "volumen": 9965.953989,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -288,7 +309,7 @@
   }
  ],
  "historico": {
-  "ts": 1787523544,
+  "ts": 1787525346,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
