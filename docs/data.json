@@ -1,6 +1,6 @@
 {
- "ts": 1787463030,
- "stamp": "20260823_053030",
+ "ts": 1787463450,
+ "stamp": "20260823_053730",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921214.980328994,
+   "volumen": 9921214.980329003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -121,7 +121,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294600003,
+   "volumen": 98868.56294599996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -131,7 +131,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.056978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -139,9 +139,9 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
-   "volumen": 98417.74661800002,
+   "yes": 0.685,
+   "no": 0.315,
+   "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -159,8 +159,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.051,
-   "no": 0.949,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -171,7 +171,7 @@
    "slug": "will-moonshot-be-the-second-best-chinese-ai-company-at-the-end-of-october-2026-20260811194841600",
    "yes": 0.245,
    "no": 0.755,
-   "volumen": 9990.821127000001,
+   "volumen": 9990.821127,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Moonshot la segunda mejor empresa china de IA a finales de octubre de 2026?"
@@ -191,7 +191,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999995,
+   "volumen": 9982.721729,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -209,9 +209,9 @@
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
-   "yes": 0.765,
-   "no": 0.235,
-   "volumen": 9972.062130999999,
+   "yes": 0.76,
+   "no": 0.24,
+   "volumen": 9972.062131,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Apple la segunda empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -261,7 +261,7 @@
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
    "yes": 0.012,
    "no": 0.988,
-   "volumen": 9945.917349000001,
+   "volumen": 9945.917349,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
@@ -269,9 +269,9 @@
   {
    "question": "Will USD be between 2.0M and 2.1M Iranian rials on August 31?",
    "slug": "will-usd-be-between-2pt0m-and-2pt1m-iranian-rials-on-august-31-20260728205517250",
-   "yes": 0.161,
-   "no": 0.839,
-   "volumen": 9941.878092000003,
+   "yes": 0.138,
+   "no": 0.862,
+   "volumen": 9941.878092,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Estará el USD entre 2,0M y 2,1M riales iraníes el 31 de agosto?"
