@@ -1,31 +1,10 @@
 {
- "ts": 1787495558,
- "stamp": "20260823_143238",
+ "ts": 1787495918,
+ "stamp": "20260823_143838",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x05b4e6b0695bb4f8d79fc2e7207985610b2e7b376855058fea6b66b8fa0cfc7d",
-   "titulo": "Will Lille OSC win on 2026-08-23?",
-   "slug": "fl1-ang-lil-2026-08-23-lil",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 3823.71,
-   "price": 0.97,
-   "usd": 3709.0,
-   "ts": 1787495538,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,709 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/fl1-ang-lil-2026-08-23-lil",
-   "titulo_es": "¿Ganará el Lille OSC el 2026-08-23?",
-   "narrativa": "El mercado descuenta un Lille campeón con una probabilidad implícita aún baja, pero la compra de 3,709 USD en 'Yes' sugiere que un operador relevante detecta un desajuste entre el precio actual y el consenso externo de cara a la temporada 2026. Este flujo de capital, en un evento con horizonte largo, permite capturar valor si el equipo mantiene su nivel competitivo. Riesgo: alta incertidumbre por la lejanía del evento y posible falta de liquidez en el mercado."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.350328997,
+   "volumen": 9921416.350329008,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -72,7 +51,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993572.8182899997,
+   "volumen": 993572.81829,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -100,9 +79,9 @@
   {
    "question": "US obtains Iranian enriched uranium by September 30?",
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
-   "yes": 0.0165,
-   "no": 0.9835,
-   "volumen": 99524.95528600001,
+   "yes": 0.017,
+   "no": 0.983,
+   "volumen": 99524.955286,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -122,7 +101,7 @@
    "slug": "dfb-fur-boc-2026-08-23-boc",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 99076.29398900007,
+   "volumen": 99078.72398899998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará el VfL Bochum el 2026-08-23?"
@@ -162,7 +141,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98621.97190900003,
+   "volumen": 98621.971909,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -172,7 +151,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697799998,
+   "volumen": 98536.05697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -180,8 +159,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.7,
-   "no": 0.3,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -200,8 +179,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.05,
-   "no": 0.95,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -222,7 +201,7 @@
    "slug": "crint-lka-ind-2026-08-23-draw",
    "yes": 0.19,
    "no": 0.81,
-   "volumen": 9986.559657000005,
+   "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -232,10 +211,20 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999999,
+   "volumen": 9982.721729000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
+  },
+  {
+   "question": "Will the highest temperature in Dallas be between 106-107°F on August 23?",
+   "slug": "highest-temperature-in-dallas-on-august-23-2026-106-107f",
+   "yes": 0.57,
+   "no": 0.43,
+   "volumen": 9979.007958000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Dallas entre 106-107°F el 23 de agosto?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -252,7 +241,7 @@
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
    "yes": 0.765,
    "no": 0.235,
-   "volumen": 9972.062130999999,
+   "volumen": 9972.062131,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Apple la segunda empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -278,16 +267,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the highest temperature in Dallas be between 106-107°F on August 23?",
-   "slug": "highest-temperature-in-dallas-on-august-23-2026-106-107f",
-   "yes": 0.585,
-   "no": 0.415,
-   "volumen": 9965.135713,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en Dallas entre 106-107°F el 23 de agosto?"
-  },
-  {
    "question": "Elche CF vs. FC Barcelona: O/U 0.5",
    "slug": "lal-elc-bar-2026-08-23-total-0pt5",
    "yes": 0.966,
@@ -302,7 +281,7 @@
    "slug": "will-microsoft-have-the-best-ai-agent-at-the-end-of-august-2026-20260716210803650",
    "yes": 0.0025,
    "no": 0.9975,
-   "volumen": 9954.746,
+   "volumen": 9954.746000000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Microsoft el mejor Agente de IA a finales de agosto de 2026?"
