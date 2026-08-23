@@ -1,68 +1,39 @@
 {
- "ts": 1787493757,
- "stamp": "20260823_140237",
+ "ts": 1787494177,
+ "stamp": "20260823_140937",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x6c7e12393a3bc0c30e00e14d25977757e399eaf1f9c6f75a5d28bec999388806",
-   "titulo": "Chicago Cubs vs. Seattle Mariners",
-   "slug": "mlb-chc-sea-2026-08-23",
-   "outcome": "Chicago Cubs",
+   "market_id": "0x4374fa01069ddb91979078b7582088652a0d17f4926571b3cc9df6ad4e47901c",
+   "titulo": "Valorant: Enterprise Esports vs Team Liquid - Map 1 Winner",
+   "slug": "val-ep1-tl1-2026-08-23-game1",
+   "outcome": "Enterprise Esports",
    "side": "BUY",
-   "size": 15000.0,
-   "price": 0.51,
-   "usd": 7650.0,
-   "ts": 1787493736,
-   "categoria": "Otros",
-   "prob": 63,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $7,650 en 'Chicago Cubs'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-chc-sea-2026-08-23",
-   "titulo_es": "Chicago Cubs vs. Seattle Mariners",
-   "narrativa": "El mercado muestra una apuesta significativa de 7,650 USD a favor de los Chicago Cubs, lo que sugiere que un operador con información relevante está posicionándose con convicción en este enfrentamiento. Aunque el volumen total del mercado no está disponible, el tamaño de la operación en relación con la liquidez típica de estos eventos indica un posible desequilibrio informativo que puede generar una oportunidad de arbitraje. Riesgo: posible falta de liquidez para salir de la posición en momentos de alta volatilidad."
+   "size": 2000.0,
+   "price": 0.5,
+   "usd": 1000.0,
+   "ts": 1787494042,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,000 en 'Enterprise Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-ep1-tl1-2026-08-23-game1",
+   "titulo_es": "Valorant: Enterprise Esports vs Team Liquid - Ganador del Mapa 1",
+   "narrativa": "La compra en Enterprise Esports para el Mapa 1 de Valorant muestra un edge positivo frente al consenso externo, que ubica a Team Liquid como favorito por historial, pero el mercado no ha ajustado el precio por la forma reciente del equipo. Con un monto de $1,000 y un volumen de mercado no reportado, la oportunidad radica en capitalizar la posible infravaloración de Enterprise en un escenario de mapa específico, donde el desvío entre la probabilidad implícita y la real estimada supera los 5 puntos. Riesgo: liquidez limitada en mercados de mapa individual, lo que puede ampliar el spread de ejecución."
   }
  ],
- "edges": [
-  {
-   "tipo": "edge",
-   "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
-   "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 6.0,
-   "consenso": 15.0,
-   "edge": 9.0,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "PredictIt",
-     "titulo": "New Hampshire",
-     "prob": 15.000000000000002,
-     "url": "https://www.predictit.org/markets/detail/8939",
-     "titulo_es": "Nuevo Hampshire"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Política",
-   "prob": 65,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 6.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 15.0%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "Polymarket cotiza la opción de que el candidato demócrata gane la gobernación de Nuevo Hampshire por un margen del 3%-6% en solo 6.0%, mientras que PredictIt asigna un 15.0%, generando un edge de 9 puntos. Esta subvaloración en Polymarket puede reflejar una menor liquidez o atención en eventos de largo plazo, creando una oportunidad para quienes siguen el consenso externo. Riesgo: el margen exacto es un rango estrecho y el evento es a 2026, con alta incertidumbre."
-  }
- ],
+ "edges": [],
  "top_volumen": [
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.350328987,
+   "volumen": 9921416.350328997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -72,7 +43,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993572.81829,
+   "volumen": 993572.8182899999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -90,8 +61,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0625,
-   "no": 0.9375,
+   "yes": 0.062,
+   "no": 0.938,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -100,8 +71,8 @@
   {
    "question": "US obtains Iranian enriched uranium by September 30?",
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
-   "yes": 0.016,
-   "no": 0.984,
+   "yes": 0.0165,
+   "no": 0.9835,
    "volumen": 99524.95528600001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -122,7 +93,7 @@
    "slug": "dfb-fur-boc-2026-08-23-boc",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 99076.16398900001,
+   "volumen": 99076.16398900007,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ganará el VfL Bochum el 2026-08-23?"
@@ -162,7 +133,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98621.97190899997,
+   "volumen": 98621.97190900003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -172,7 +143,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.056978,
+   "volumen": 98536.05697799998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -180,8 +151,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.7,
-   "no": 0.3,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -200,8 +171,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -228,11 +199,21 @@
    "question_es": "¿Terminará el partido en empate?"
   },
   {
+   "question": "FC Midtjylland vs. Randers FC: O/U 1.5",
+   "slug": "den-mid-ran-2026-08-23-total-1pt5",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9983.484291999997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "FC Midtjylland vs. Randers FC: Más/Menos 1.5"
+  },
+  {
    "question": "Will the Republicans win the South Carolina governor race in 2026?",
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721729000003,
+   "volumen": 9982.721729,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -290,22 +271,12 @@
   {
    "question": "Will the highest temperature in Dallas be between 106-107°F on August 23?",
    "slug": "highest-temperature-in-dallas-on-august-23-2026-106-107f",
-   "yes": 0.57,
-   "no": 0.43,
-   "volumen": 9960.365713000001,
+   "yes": 0.575,
+   "no": 0.425,
+   "volumen": 9960.365713,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Dallas entre 106-107°F el 23 de agosto?"
-  },
-  {
-   "question": "Will Microsoft have the best AI Agent at the end of August 2026?",
-   "slug": "will-microsoft-have-the-best-ai-agent-at-the-end-of-august-2026-20260716210803650",
-   "yes": 0.0025,
-   "no": 0.9975,
-   "volumen": 9954.746,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Microsoft el mejor Agente de IA a finales de agosto de 2026?"
   }
  ],
  "historico": {
