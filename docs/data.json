@@ -1,41 +1,52 @@
 {
- "ts": 1787451508,
- "stamp": "20260823_021828",
+ "ts": 1787451868,
+ "stamp": "20260823_022428",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
- "edges": [
+ "ballenas_scan": [
   {
-   "tipo": "edge",
-   "question": "Will St. Louis City SC win on 2026-08-22?",
-   "slug": "mls-stl-hou-2026-08-22-stl",
-   "url": "https://polymarket.com/market/mls-stl-hou-2026-08-22-stl",
-   "prob_poly": 73.5,
-   "consenso": 43.0,
-   "edge": -30.5,
-   "direccion": "Polymarket CARO (comprar No)",
-   "fuentes": [
-    {
-     "fuente": "ESPN",
-     "titulo": "Winner: St. Louis CITY SC vs Houston Dynamo FC (usa.1)",
-     "prob": 43.02,
-     "url": "https://www.espn.com/soccer/game/_/gameId/761747",
-     "deporte": "usa.1",
-     "game_id": "761747",
-     "titulo_es": "Ganador: St. Louis CITY SC vs Houston Dynamo FC (usa.1)"
-    }
-   ],
-   "n_fuentes": 1,
+   "tipo": "ballena",
+   "market_id": "0x5e53e70100e5c0b550db952bbddce1678ab8618d028f7015b6fa87144cbe4881",
+   "titulo": "Monterrey Open, Qualification: Anna Bondar vs Elsa Jacquemot",
+   "slug": "wta-bondar-jacquem-2026-08-22",
+   "outcome": "Anna Bondar",
+   "side": "SELL",
+   "size": 3308.29,
+   "price": 0.999,
+   "usd": 3304.98,
+   "ts": 1787451708,
    "categoria": "Otros",
-   "prob": 85,
+   "prob": 56,
    "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 73.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 43.0%: diferencia de 30.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
-   "question_es": "¿Ganará St. Louis City SC el 22-08-2026?",
-   "narrativa": "La probabilidad implícita de Polymarket (73.5%) supera por 30.5 puntos al consenso externo de ESPN (43.0%), lo que sugiere que el mercado está sobrevalorando las opciones de St. Louis City SC. Comprar 'No' ofrece un edge teórico significativo, ya que el precio de 26.5 centavos para el No está muy por debajo de la probabilidad justa estimada del 57%. Con un desvío tan amplio, la oportunidad es clara para quienes buscan valor estadístico, aunque el monto del trade debe ajustarse a la liquidez del mercado. Riesgo: posible sesgo local de apostadores y eventos de corto plazo no capturados por el modelo externo."
+   "horizonte": "24h",
+   "razon": "Trade de venta por $3,305 en 'Anna Bondar'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-bondar-jacquem-2026-08-22",
+   "titulo_es": "Abierto de Monterrey, Clasificación: Anna Bondar vs Elsa Jacquemot",
+   "narrativa": "La venta de Anna Bondar en el Abierto de Monterrey refleja una apuesta contraria al consenso, con un monto de $3,304 que busca capitalizar una posible sobrevaloración de la tenista en la clasificación. Aunque no hay volumen de mercado disponible, el tamaño del trade sugiere una convicción fuerte en la debilidad de Bondar frente a Jacquemot, lo que podría generar un edge si el mercado ajusta su precio. Riesgo: falta de liquidez podría ampliar el desvío entre el precio de entrada y el de salida."
   },
+  {
+   "tipo": "ballena",
+   "market_id": "0xe73c7a324d88c5040647fc72c66c3092aa9d0efd7479d23433781d13bb736456",
+   "titulo": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
+   "slug": "dota2-ty-ts8-2026-08-22-game1",
+   "outcome": "Team Spirit",
+   "side": "BUY",
+   "size": 3571.42857,
+   "price": 0.5599999999,
+   "usd": 2000.0,
+   "ts": 1787451703,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ty-ts8-2026-08-22-game1",
+   "titulo_es": "Dota 2: Team Yandex vs Team Spirit - Ganador del Juego 1",
+   "narrativa": "La compra de Team Spirit en el juego 1 de Dota 2 contra Team Yandex aprovecha un monto de $2,000, lo que indica una confianza alta en el favoritismo del equipo, respaldado por su historial reciente en partidos de alto nivel. Este trade busca capturar un edge positivo si el mercado externo subestima la consistencia de Spirit en mapas iniciales, con un cambio porcentual potencial favorable. Riesgo: la volatilidad en esports puede ser extrema, y el resultado depende de factores en tiempo real."
+  }
+ ],
+ "edges": [
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -71,7 +82,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920314.980328992,
+   "volumen": 9920314.980329,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -81,7 +92,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 992784.9611499999,
+   "volumen": 992784.96115,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -111,7 +122,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99932.93114000003,
+   "volumen": 99932.93114000002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -121,7 +132,7 @@
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
    "yes": 0.3425,
    "no": 0.6575,
-   "volumen": 99476.19220500003,
+   "volumen": 99476.19220500006,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -141,7 +152,7 @@
    "slug": "elon-musk-of-tweets-august-18-august-25-480-499",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 99266.505217,
+   "volumen": 99286.50521700001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 480 y 499 tuits del 18 de agosto al 25 de agosto de 2026?"
@@ -161,7 +172,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058300002,
+   "volumen": 98925.33058299999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -171,7 +182,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.562946,
+   "volumen": 98868.56294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -179,9 +190,9 @@
   {
    "question": "Spread: Los Angeles Sparks (-4.5)",
    "slug": "wnba-conn-la-2026-08-22-spread-home-4pt5",
-   "yes": 0.71,
-   "no": 0.29,
-   "volumen": 98670.05190900002,
+   "yes": 0.815,
+   "no": 0.185,
+   "volumen": 98787.10987600002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Diferencia de puntos: Los Angeles Sparks (-4.5)"
@@ -191,7 +202,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.05697799998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -199,8 +210,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -211,20 +222,10 @@
    "slug": "will-indiana-fever-win-the-2026-wnba-finals-186",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 98395.10386199997,
+   "volumen": 98395.10386200002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Indiana Fever las Finales de la WNBA 2026?"
-  },
-  {
-   "question": "Will Benjamin Netanyahu visit New York City by September 30?",
-   "slug": "will-benjamin-netanyahu-visit-new-york-city-by-september-30-20260722053445710-178",
-   "yes": 0.93,
-   "no": 0.07,
-   "volumen": 98307.73244200001,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Visitará Benjamin Netanyahu la ciudad de Nueva York antes del 30 de septiembre?"
   },
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
@@ -239,8 +240,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.05,
-   "no": 0.95,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -315,6 +316,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
+   "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
+   "yes": 0.012,
+   "no": 0.988,
+   "volumen": 9945.917349,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
   }
  ],
  "historico": {
