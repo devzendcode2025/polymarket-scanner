@@ -1,51 +1,10 @@
 {
- "ts": 1787490156,
- "stamp": "20260823_130236",
+ "ts": 1787490637,
+ "stamp": "20260823_131037",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xfd9ab22b2adbf58c2d7cde1d0797b44cca3197eb9d5052262564f9d62536c7f1",
-   "titulo": "Counter-Strike: FUT Esports vs Spirit - Map 1 Winner",
-   "slug": "cs2-fut-ts7-2026-08-23-game1",
-   "outcome": "FUT Esports",
-   "side": "BUY",
-   "size": 2119.4,
-   "price": 0.99,
-   "usd": 2098.21,
-   "ts": 1787490138,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,098 en 'FUT Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-fut-ts7-2026-08-23-game1",
-   "titulo_es": "Counter-Strike: FUT Esports vs Spirit - Ganador del Mapa 1",
-   "narrativa": "La entrada de 2,098 USD en FUT Esports para el Mapa 1 contra Spirit refleja una apuesta direccional fuerte, con un tamaño que sugiere convicción institucional o de alto perfil. Si bien el volumen de mercado no está disponible, el monto concentrado en un solo lado puede indicar información privilegiada o un desajuste en la percepción pública del mapa, generando una oportunidad de capturar valor antes de que el mercado ajuste. Riesgo: posible falta de liquidez en momentos de alta volatilidad."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x0ba31a59ae7b92571ff0f2a6f5bf8843fa88d5c9f4d0d962d21917ba0b2bdb42",
-   "titulo": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
-   "slug": "dota2-vsn2-ts8-2026-08-23",
-   "outcome": "TEAM VISION",
-   "side": "BUY",
-   "size": 2103.309089,
-   "price": 0.5282152793,
-   "usd": 1111.0,
-   "ts": 1787490136,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,111 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-vsn2-ts8-2026-08-23",
-   "titulo_es": "Dota 2: TEAM VISION vs Team Spirit (BO5) - Playoffs de The International",
-   "narrativa": "La compra de 1,111 USD en TEAM VISION para el BO5 de The International es una señal de posicionamiento agresivo, dado que el monto es significativo para un mercado de nicho. Este trade sugiere que el comprador percibe un edge real frente al consenso externo, probablemente basado en análisis de drafts o forma reciente del equipo, lo que puede traducirse en una corrección de precios favorable. Riesgo: eventos de BO5 son altamente variables y el resultado puede desviarse por factores imprevistos."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -82,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.350328997,
+   "volumen": 9921416.350329004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -92,7 +51,7 @@
    "slug": "lol-edg-jdg-2026-08-23",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 995123.1251959997,
+   "volumen": 999334.6451959998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Grupo Ascend"
@@ -102,7 +61,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993572.8182899997,
+   "volumen": 993572.81829,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -182,7 +141,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98621.97190900001,
+   "volumen": 98621.971909,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -192,7 +151,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697799998,
+   "volumen": 98536.056978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -200,8 +159,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.7,
-   "no": 0.3,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -220,8 +179,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -242,7 +201,7 @@
    "slug": "crint-lka-ind-2026-08-23-draw",
    "yes": 0.19,
    "no": 0.81,
-   "volumen": 9986.559657000005,
+   "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -252,7 +211,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999999,
+   "volumen": 9982.721728999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -272,7 +231,7 @@
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
    "yes": 0.765,
    "no": 0.235,
-   "volumen": 9972.062130999999,
+   "volumen": 9972.062131,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Apple la segunda empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -308,16 +267,6 @@
    "question_es": "Elche CF vs. FC Barcelona: Más/Menos 0.5"
   },
   {
-   "question": "Will Paris Saint-Germain FC vs. Stade Rennais FC 1901 end in a draw?",
-   "slug": "fl1-psg-ren-2026-08-23-draw",
-   "yes": 0.205,
-   "no": 0.795,
-   "volumen": 9951.216870999999,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Terminarán en empate Paris Saint-Germain FC vs. Stade Rennais FC 1901?"
-  },
-  {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
    "yes": 0.06,
@@ -326,6 +275,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.002,
+   "no": 0.998,
+   "volumen": 9946.699383,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
