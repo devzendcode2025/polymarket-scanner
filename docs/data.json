@@ -1,51 +1,10 @@
 {
- "ts": 1787445086,
- "stamp": "20260823_003126",
+ "ts": 1787445506,
+ "stamp": "20260823_003826",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x13e48a9588dd5b38c1aebb4ef477a8165b7ee412b90ff71dd05ba704746db2bd",
-   "titulo": "Will Philadelphia Union win on 2026-08-22?",
-   "slug": "mls-aus-phi-2026-08-22-phi",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 10364.81,
-   "price": 0.55,
-   "usd": 5700.65,
-   "ts": 1787445102,
-   "categoria": "Otros",
-   "prob": 60,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,701 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-aus-phi-2026-08-22-phi",
-   "titulo_es": "¿Ganará Philadelphia Union el 2026-08-22?",
-   "narrativa": "La compra de 5,700 USD en 'Yes' para Philadelphia Union refleja una apuesta significativa que, si se compara con el consenso externo de cuotas de alrededor de 3.5 a 1, sugiere un edge positivo de aproximadamente 15 puntos porcentuales si el mercado aún no ha absorbido la noticia de la plantilla. El tamaño del trade, al ser el mayor flujo en el libro, indica que un operador con información privilegiada está dispuesto a asumir el riesgo de un evento a largo plazo, lo que podría revalorizar el contrato si el equipo mantiene su forma actual. Riesgo: alta volatilidad por el horizonte temporal extendido y posible falta de liquidez en meses previos al evento."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x5dd0db9f057884e9d67e46081943fe7fb26aee87784d0f15beb93046fcbfa729",
-   "titulo": "Manchester City FC vs. AFC Bournemouth: O/U 0.5",
-   "slug": "epl-mac-bou-2026-08-23-total-0pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 3166.24,
-   "price": 0.969,
-   "usd": 3068.09,
-   "ts": 1787445109,
-   "categoria": "Otros",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,068 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/epl-mac-bou-2026-08-23-total-0pt5",
-   "titulo_es": "Manchester City FC vs. AFC Bournemouth: Más/Menos 0.5",
-   "narrativa": "La orden de compra de 3,068 USD en 'Over 0.5' para el Manchester City vs. Bournemouth busca capitalizar un desajuste de precios, ya que el consenso externo de casas de apuestas sitúa la probabilidad implícita de al menos un gol en un 98%, mientras que el mercado de predicción podría estar ofreciendo un rendimiento superior si el precio actual está por debajo de 0.97. El monto del trade, aunque moderado, es lo suficientemente grande para mover la aguja en un mercado de baja capitalización, generando un edge estimado de 2-3 puntos con un riesgo mínimo dado el historial ofensivo del City en casa. Riesgo: posible anulación del partido o empate 0-0 poco probable pero no imposible, lo que limitaría el retorno a pesar del bajo desembolso."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -82,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920314.980329005,
+   "volumen": 9920314.98032899,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -92,7 +51,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 992784.96115,
+   "volumen": 992784.9611500002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -122,7 +81,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99822.16447599999,
+   "volumen": 99926.870535,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -132,7 +91,7 @@
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
    "yes": 0.341,
    "no": 0.659,
-   "volumen": 99439.49220500002,
+   "volumen": 99439.492205,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -172,7 +131,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294600002,
+   "volumen": 98868.56294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -182,7 +141,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.056978,
+   "volumen": 98536.05697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -202,7 +161,7 @@
    "slug": "will-indiana-fever-win-the-2026-wnba-finals-186",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 98395.103862,
+   "volumen": 98395.10386200002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Indiana Fever las Finales de la WNBA 2026?"
@@ -210,8 +169,8 @@
   {
    "question": "Will Elon Musk post 760-779 tweets in August 2026?",
    "slug": "elon-musk-of-tweets-august-2026-760-779",
-   "yes": 0.008,
-   "no": 0.992,
+   "yes": 0.0095,
+   "no": 0.9905,
    "volumen": 9994.988638,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -220,8 +179,8 @@
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
    "slug": "bra-cru-fla-2026-08-22-corners-total-9pt5",
-   "yes": 0.5,
-   "no": 0.5,
+   "yes": 0.665,
+   "no": 0.335,
    "volumen": 9992.713088999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -230,8 +189,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.05,
-   "no": 0.95,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -252,7 +211,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999999,
+   "volumen": 9982.721729,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -270,8 +229,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.635,
-   "no": 0.365,
+   "yes": 0.64,
+   "no": 0.36,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -310,9 +269,9 @@
   {
    "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.014,
-   "no": 0.986,
-   "volumen": 9945.917349000001,
+   "yes": 0.013,
+   "no": 0.987,
+   "volumen": 9945.917349,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
