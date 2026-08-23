@@ -1,10 +1,31 @@
 {
- "ts": 1787507740,
- "stamp": "20260823_175540",
+ "ts": 1787508160,
+ "stamp": "20260823_180240",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x0e4df84e0be9d2f3f3727bb7954c7e045b527b684eaf7f9bf6d3a7fcde2c4164",
+   "titulo": "Tampa Bay Rays vs. Baltimore Orioles",
+   "slug": "mlb-tb-bal-2026-08-23",
+   "outcome": "Baltimore Orioles",
+   "side": "BUY",
+   "size": 8844.15,
+   "price": 0.54,
+   "usd": 4775.84,
+   "ts": 1787507854,
+   "categoria": "Otros",
+   "prob": 59,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $4,776 en 'Baltimore Orioles'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-tb-bal-2026-08-23",
+   "titulo_es": "Tampa Bay Rays vs. Baltimore Orioles",
+   "narrativa": "La compra de 4,775.84 USD en Baltimore Orioles refleja una apuesta institucional clara contra el consenso del mercado, que suele favorecer a Tampa Bay en este enfrentamiento. Este flujo de capital, aunque moderado, busca capitalizar una posible corrección en las probabilidades implícitas si el público ajusta su percepción tras los últimos resultados de los Orioles. El edge estimado es positivo si el modelo interno del comprador supera al precio actual, aunque la falta de datos de volumen total limita la confirmación de profundidad. Riesgo: liquidez media-baja en este mercado específico, lo que puede ampliar el deslizamiento."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -89,8 +110,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -179,8 +200,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.2,
-   "no": 0.8,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -199,8 +220,8 @@
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
-   "yes": 0.765,
-   "no": 0.235,
+   "yes": 0.76,
+   "no": 0.24,
    "volumen": 9972.062131,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -249,8 +270,8 @@
   {
    "question": "KA Akureyri vs. KR Reykjavik: O/U 1.5",
    "slug": "isl1-aku-krr-2026-08-23-total-1pt5",
-   "yes": 0.9975,
-   "no": 0.0025,
+   "yes": 0.9995,
+   "no": 0.0005,
    "volumen": 9942.99171,
    "spread": 0.0,
    "categoria": "Otros",
@@ -279,8 +300,8 @@
   {
    "question": "Will Patrick Roath be the Democratic nominee for MA-08?",
    "slug": "will-patrick-roath-be-the-democratic-nominee-for-ma-08",
-   "yes": 0.56,
-   "no": 0.44,
+   "yes": 0.57,
+   "no": 0.43,
    "volumen": 9923.376661,
    "spread": 0.0,
    "categoria": "Política",
