@@ -1,6 +1,6 @@
 {
- "ts": 1787502459,
- "stamp": "20260823_162739",
+ "ts": 1787502939,
+ "stamp": "20260823_163539",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -171,7 +171,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993572.8182900001,
+   "volumen": 993572.81829,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -201,7 +201,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99524.95528600001,
+   "volumen": 99524.955286,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -209,8 +209,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -221,7 +221,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99063.703419,
+   "volumen": 99063.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -277,16 +277,6 @@
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
-   "question": "Club Atlético de Madrid vs. Villarreal CF: O/U 2.5",
-   "slug": "lal-mad-vil-2026-08-23-total-2pt5",
-   "yes": 0.335,
-   "no": 0.665,
-   "volumen": 98335.84322299992,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Club Atlético de Madrid vs. Villarreal CF: Más/Menos 2.5"
-  },
-  {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
    "slug": "bra-cru-fla-2026-08-22-corners-total-9pt5",
    "yes": 0.5,
@@ -301,7 +291,7 @@
    "slug": "lol-dsg-sen-2026-08-23",
    "yes": 0.215,
    "no": 0.785,
-   "volumen": 9989.112182,
+   "volumen": 9990.378001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "LoL: Disguised vs Sentinels (BO3) - Temporada Regular de la LCS"
@@ -319,9 +309,9 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.205,
-   "no": 0.795,
-   "volumen": 9986.559657000005,
+   "yes": 0.2,
+   "no": 0.8,
+   "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -345,16 +335,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Apple la segunda empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
-  },
-  {
-   "question": "Quebec City: Stefanos Sakellaridis vs Luca Van Assche",
-   "slug": "atp-sakella-assche-2026-08-23",
-   "yes": 0.335,
-   "no": 0.665,
-   "volumen": 9969.483091,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Ciudad de Quebec: Stefanos Sakellaridis vs Luca Van Assche"
   },
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
@@ -405,10 +385,30 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Ernest Harden Jr. – “The Pitt” los Emmys 2026: Mejor actor invitado en una serie dramática?"
+  },
+  {
+   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
+   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9925.861829,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
+  },
+  {
+   "question": "Situational Awareness Anthropic sale confirmed by August 31?",
+   "slug": "situational-awareness-anthropic-sale-confirmed-by-august-31-20260730182057663",
+   "yes": 0.025,
+   "no": 0.975,
+   "volumen": 9918.953201,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Se confirma la venta de Anthropic por conciencia situacional antes del 31 de agosto?"
   }
  ],
  "historico": {
-  "ts": 1787500976,
+  "ts": 1787502837,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
