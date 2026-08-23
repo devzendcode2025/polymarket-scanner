@@ -1,10 +1,31 @@
 {
- "ts": 1787447186,
- "stamp": "20260823_010626",
+ "ts": 1787447607,
+ "stamp": "20260823_011327",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xc6d59b7dbd2f3a053e2304886660b8bf76b8ee2b59adf7bc597d45831bf6cbc5",
+   "titulo": "Chicago Cubs vs. Seattle Mariners",
+   "slug": "mlb-chc-sea-2026-08-22",
+   "outcome": "Seattle Mariners",
+   "side": "SELL",
+   "size": 10917.06,
+   "price": 0.16,
+   "usd": 1746.73,
+   "ts": 1787447511,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,747 en 'Seattle Mariners'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-chc-sea-2026-08-22",
+   "titulo_es": "Chicago Cubs vs. Seattle Mariners",
+   "narrativa": "La venta de 1,746 USD sobre los Seattle Mariners refleja una postura institucional que anticipa una corrección en su precio actual, aprovechando el consenso externo que favorece a los Cubs en este enfrentamiento. El monto, aunque moderado, genera un edge implícito al posicionarse en contra del flujo público, lo que permite capturar valor si el mercado ajusta su probabilidad hacia el lado contrario. Riesgo: el volumen de mercado no está disponible, lo que podría amplificar la volatilidad en caso de movimientos bruscos."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -119,8 +140,8 @@
   {
    "question": "Cleveland Guardians vs. Colorado Rockies",
    "slug": "mlb-cle-col-2026-08-22",
-   "yes": 0.675,
-   "no": 0.325,
+   "yes": 0.835,
+   "no": 0.165,
    "volumen": 99598.29650200003,
    "spread": 0.0,
    "categoria": "Otros",
@@ -129,8 +150,8 @@
   {
    "question": "0 ships transit Hormuz on any date by August 31?",
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
-   "yes": 0.3425,
-   "no": 0.6575,
+   "yes": 0.3435,
+   "no": 0.6565,
    "volumen": 99476.192205,
    "spread": 0.0,
    "categoria": "Otros",
@@ -189,8 +210,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.695,
+   "no": 0.305,
    "volumen": 98408.89947700001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -219,8 +240,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.0525,
+   "no": 0.9475,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -299,8 +320,8 @@
   {
    "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.013,
-   "no": 0.987,
+   "yes": 0.015,
+   "no": 0.985,
    "volumen": 9945.917349000001,
    "spread": 0.0,
    "categoria": "Otros",
