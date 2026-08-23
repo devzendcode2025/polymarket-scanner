@@ -1,6 +1,6 @@
 {
- "ts": 1787459849,
- "stamp": "20260823_043729",
+ "ts": 1787460270,
+ "stamp": "20260823_044430",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -179,8 +179,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.051,
-   "no": 0.949,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
