@@ -1,32 +1,41 @@
 {
- "ts": 1787446706,
- "stamp": "20260823_005826",
+ "ts": 1787447186,
+ "stamp": "20260823_010626",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x0721f8701f61a1b563634b4e0af8baaabd1ff8993dcd8edaaffc3e211dfad50a",
-   "titulo": "Eagles vs. Patriots",
-   "slug": "nfl-phi-ne-2026-08-22",
-   "outcome": "Eagles",
-   "side": "BUY",
-   "size": 1468.0,
-   "price": 0.7810694823,
-   "usd": 1146.61,
-   "ts": 1787446608,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,147 en 'Eagles'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/nfl-phi-ne-2026-08-22",
-   "titulo_es": "Eagles vs. Patriots",
-   "narrativa": "La compra de 1,146.61 USD en Eagles refleja una apuesta direccional clara contra el consenso externo, que favorece a Patriots por un margen estrecho. Este flujo de capital, aunque moderado, genera un edge estimado de +8.2 puntos alineado con la tendencia de mercado reciente, donde Eagles ha cubierto el spread en 6 de los últimos 8 encuentros. El volumen total del mercado no está disponible, lo que sugiere una ventana de oportunidad para posicionarse antes de que el precio se ajuste al flujo entrante. Riesgo: la falta de datos de liquidez puede amplificar el slippage en caso de movimientos bruscos."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
+  {
+   "tipo": "edge",
+   "question": "Will Cruzeiro EC win on 2026-08-22?",
+   "slug": "bra-cru-fla-2026-08-22-cru",
+   "url": "https://polymarket.com/market/bra-cru-fla-2026-08-22-cru",
+   "prob_poly": 17.0,
+   "consenso": 27.3,
+   "edge": 10.3,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "ESPN",
+     "titulo": "Winner: Cruzeiro vs Flamengo (bra.1)",
+     "prob": 27.34,
+     "url": "https://www.espn.com/soccer/game/_/gameId/401841206",
+     "deporte": "bra.1",
+     "game_id": "401841206",
+     "titulo_es": "Ganador: Cruzeiro vs Flamengo (bra.1)"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Otros",
+   "prob": 67,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "ESPN",
+   "razon": "Polymarket paga este mercado a 17.0% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 27.3%: diferencia de 10.3 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará Cruzeiro EC el 2026-08-22?",
+   "narrativa": "El mercado de Polymarket valora la victoria de Cruzeiro EC en 17.0, mientras que el consenso externo de ESPN la sitúa en 27.3, generando un edge de +10.3 puntos a favor de comprar el 'Sí'. Esta discrepancia sugiere que el precio actual no refleja plenamente la probabilidad implícita de los analistas, ofreciendo una entrada con valor esperado positivo. El monto sugerido se ajusta al diferencial, aunque la ventana temporal hasta agosto de 2026 añade incertidumbre. Riesgo: el consenso externo puede rezagarse ante noticias de última hora o lesiones."
+  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -62,7 +71,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920314.980328994,
+   "volumen": 9920314.980329007,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -72,7 +81,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 992784.9611500005,
+   "volumen": 992784.9611500002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -102,17 +111,27 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99926.87053499998,
+   "volumen": 99926.87053500002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
+  },
+  {
+   "question": "Cleveland Guardians vs. Colorado Rockies",
+   "slug": "mlb-cle-col-2026-08-22",
+   "yes": 0.675,
+   "no": 0.325,
+   "volumen": 99598.29650200003,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Cleveland Guardians vs. Colorado Rockies"
   },
   {
    "question": "0 ships transit Hormuz on any date by August 31?",
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
    "yes": 0.3425,
    "no": 0.6575,
-   "volumen": 99476.19220500001,
+   "volumen": 99476.192205,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -130,8 +149,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -182,7 +201,7 @@
    "slug": "will-indiana-fever-win-the-2026-wnba-finals-186",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 98395.103862,
+   "volumen": 98395.10386199999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Indiana Fever las Finales de la WNBA 2026?"
@@ -222,7 +241,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999997,
+   "volumen": 9982.721728999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -280,9 +299,9 @@
   {
    "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
    "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.0125,
-   "no": 0.9875,
-   "volumen": 9945.917349,
+   "yes": 0.013,
+   "no": 0.987,
+   "volumen": 9945.917349000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
@@ -296,20 +315,10 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
-  },
-  {
-   "question": "Will the Democratic Party win the AR-01 House seat?",
-   "slug": "will-the-democratic-party-win-the-ar-01-house-seat",
-   "yes": 0.016,
-   "no": 0.984,
-   "volumen": 9914.337593,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Demócrata el escaño de la Cámara AR-01?"
   }
  ],
  "historico": {
-  "ts": 1787445039,
+  "ts": 1787446899,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
