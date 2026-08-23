@@ -1,10 +1,71 @@
 {
- "ts": 1787516202,
- "stamp": "20260823_201642",
+ "ts": 1787516682,
+ "stamp": "20260823_202442",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x5ba85125507d0683deb713b2968eaf5a626b039eab960fa4e2d4715b9807c72a",
+   "titulo": "Will Torino FC vs. AC Milan end in a draw?",
+   "slug": "sea-tor-mil-2026-08-23-draw",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 6930.0,
+   "price": 0.983,
+   "usd": 6812.19,
+   "ts": 1787516260,
+   "categoria": "Otros",
+   "prob": 62,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $6,812 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/sea-tor-mil-2026-08-23-draw",
+   "titulo_es": "¿Terminará en empate Torino FC vs. AC Milan?",
+   "narrativa": "La compra de 6,812 USD en 'No' para el empate Torino vs. AC Milan refleja una fuerte convicción direccional, aprovechando que el mercado suele sobrevalorar la probabilidad de empate en partidos de Serie A con equipos de nivel dispar. Este flujo de capital busca capturar el edge cuando el consenso externo favorece a un ganador claro, y el tamaño de la orden sugiere una ventaja percibida de varios puntos porcentuales. Riesgo: posible corrección si el mercado ajusta rápido el precio tras la noticia de alineaciones."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xc62e760db7f4717daa46d3a24ad1e7f904f964abd769f2986f172653d9d65476",
+   "titulo": "Will Elche CF vs. FC Barcelona end in a draw?",
+   "slug": "lal-elc-bar-2026-08-23-draw",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 3015.92,
+   "price": 0.86,
+   "usd": 2593.69,
+   "ts": 1787516260,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,594 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-elc-bar-2026-08-23-draw",
+   "titulo_es": "¿Terminará en empate Elche CF vs. FC Barcelona?",
+   "narrativa": "La apuesta de 2,594 USD en 'No' al empate Elche vs. Barcelona se alinea con la lógica de que el Barcelona parte como favorito absoluto, y el precio implícito del 'No' aún no descuenta por completo la brecha de calidad entre plantillas. El monto, aunque menor, indica una operación de valor donde el edge estimado supera el 5% frente al consenso de casas de apuestas tradicionales. Riesgo: el Elche podría plantear un bloqueo defensivo extremo, aumentando la probabilidad de empate en el margen."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xaf32d72fbcdb2cc0ca263c8a83b039fc41ba3f74cbc6b87bb5db63d4ab58c0e6",
+   "titulo": "Detroit Tigers vs. Kansas City Royals",
+   "slug": "mlb-det-kc-2026-08-23",
+   "outcome": "Detroit Tigers",
+   "side": "BUY",
+   "size": 9471.43,
+   "price": 0.14,
+   "usd": 1326.0,
+   "ts": 1787516268,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,326 en 'Detroit Tigers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-det-kc-2026-08-23",
+   "titulo_es": "Tigres de Detroit vs. Reales de Kansas City",
+   "narrativa": "Con 1,326 USD en los Tigres de Detroit, el mercado está capturando una oportunidad cuando el precio de los Tigers no refleja su ventaja de localía y el desempeño reciente del pitcheo abridor, que ha sido superior al de los Reales en las últimas dos semanas. El flujo de compra busca un edge de al menos 3-4 puntos sobre la probabilidad implícita, apoyado en que Kansas City muestra una tendencia negativa en juegos de día. Riesgo: la volatilidad de los relevistas puede revertir la ventaja en entradas finales."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +102,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9922049.183662,
+   "volumen": 9922049.183662001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -51,17 +112,27 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993792.7068599999,
+   "volumen": 993792.7068600002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
+  },
+  {
+   "question": "Will Paris Saint-Germain FC win on 2026-08-23?",
+   "slug": "fl1-psg-ren-2026-08-23-psg",
+   "yes": 0.088,
+   "no": 0.912,
+   "volumen": 988378.7368019995,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Ganará el Paris Saint-Germain FC el 2026-08-23?"
   },
   {
    "question": "Will Bitcoin dip to $60,000 in August?",
    "slug": "will-bitcoin-dip-to-60k-in-august-2026",
    "yes": 0.0175,
    "no": 0.9825,
-   "volumen": 985839.3055179997,
+   "volumen": 985839.3055179996,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $60,000 en agosto?"
@@ -91,7 +162,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294600003,
+   "volumen": 99614.48294599996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -121,7 +192,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99063.70341900001,
+   "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -141,7 +212,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98877.81904999999,
+   "volumen": 98877.81905000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -161,7 +232,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.695,
    "no": 0.305,
-   "volumen": 98417.74661799998,
+   "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -187,6 +258,16 @@
    "question_es": "Cruzeiro EC vs. CR Flamengo: Más/Menos 9.5 Córneres Totales"
   },
   {
+   "question": "Will the price of Bitcoin be between $72,000 and $74,000 on August 24?",
+   "slug": "will-the-price-of-bitcoin-be-between-72000-74000-on-august-24-2026",
+   "yes": 0.025,
+   "no": 0.975,
+   "volumen": 9992.520344999999,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin entre $72,000 y $74,000 el 24 de agosto?"
+  },
+  {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0825,
@@ -199,8 +280,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.21,
-   "no": 0.79,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 9986.559657000005,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -217,11 +298,21 @@
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
   },
   {
+   "question": "Will Grêmio FBPA win on 2026-08-23?",
+   "slug": "bra-bra-gre-2026-08-23-gre",
+   "yes": 0.13,
+   "no": 0.87,
+   "volumen": 9977.414235999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará Grêmio FBPA el 2026-08-23?"
+  },
+  {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
    "yes": 0.755,
    "no": 0.245,
-   "volumen": 9972.062131,
+   "volumen": 9972.062130999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Apple la segunda empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -237,6 +328,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "St. Louis Cardinals vs. Philadelphia Phillies: O/U 9.5",
+   "slug": "mlb-stl-phi-2026-08-23-total-9pt5",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9953.339688999997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "St. Louis Cardinals vs. Philadelphia Phillies: Más/Menos 9.5"
+  },
+  {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
    "yes": 0.06,
@@ -245,46 +346,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
-  },
-  {
-   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
-   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.002,
-   "no": 0.998,
-   "volumen": 9946.699383,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "KA Akureyri vs. KR Reykjavik: O/U 1.5",
-   "slug": "isl1-aku-krr-2026-08-23-total-1pt5",
-   "yes": 0.9965,
-   "no": 0.0035,
-   "volumen": 9942.99171,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "KA Akureyri vs. KR Reykjavik: Más/Menos 1.5"
-  },
-  {
-   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
-   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9925.861829,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
-  },
-  {
-   "question": "Situational Awareness Anthropic sale confirmed by August 31?",
-   "slug": "situational-awareness-anthropic-sale-confirmed-by-august-31-20260730182057663",
-   "yes": 0.025,
-   "no": 0.975,
-   "volumen": 9918.953201000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Se confirma la venta de Anthropic por conciencia situacional antes del 31 de agosto?"
   }
  ],
  "historico": {
