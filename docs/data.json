@@ -1,70 +1,61 @@
 {
- "ts": 1787502939,
- "stamp": "20260823_163539",
+ "ts": 1787503359,
+ "stamp": "20260823_164239",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xd05396a0b40ea21dfdcbde2403c898fd02f19a8521c64ddefce97e83da795dcc",
+   "titulo": "Will FC Barcelona win on 2026-08-23?",
+   "slug": "lal-elc-bar-2026-08-23-bar",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 2423.0,
+   "price": 0.73,
+   "usd": 1768.79,
+   "ts": 1787503344,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,769 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-elc-bar-2026-08-23-bar",
+   "titulo_es": "¿Ganará el FC Barcelona el 2026-08-23?",
+   "narrativa": "La compra de 'Yes' en el FC Barcelona para el 23-ago-2026 refleja una apuesta direccional con $1,768.79, un monto que sugiere convicción moderada en un mercado sin volumen reportado, lo que podría indicar una oportunidad de entrar antes de que se consolide la liquidez. El edge real está en la ausencia de consenso externo claro, permitiendo capturar valor si el mercado aún no ha descontado el calendario competitivo del club. Riesgo: la falta de volumen de mercado puede ampliar el deslizamiento y dificultar la salida."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
-   "question": "San Francisco Giants vs. Boston Red Sox",
-   "slug": "mlb-sf-bos-2026-08-23",
-   "url": "https://polymarket.com/market/mlb-sf-bos-2026-08-23",
-   "prob_poly": 34.5,
-   "consenso": 66.0,
-   "edge": 31.5,
+   "question": "Will Le Havre AC win on 2026-08-23?",
+   "slug": "fl1-hac-asm-2026-08-23-hac",
+   "url": "https://polymarket.com/market/fl1-hac-asm-2026-08-23-hac",
+   "prob_poly": 1.9,
+   "consenso": 23.7,
+   "edge": 21.8,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "ESPN",
-     "titulo": "Winner: Boston Red Sox vs San Francisco Giants (mlb)",
-     "prob": 65.98,
-     "url": "https://www.espn.com/baseball/game/_/gameId/401816640",
-     "deporte": "mlb",
-     "game_id": "401816640",
-     "titulo_es": "Ganador: Boston Red Sox vs San Francisco Giants (mlb)"
+     "titulo": "Winner: Le Havre AC vs AS Monaco (fra.1)",
+     "prob": 23.69,
+     "url": "https://www.espn.com/soccer/game/_/gameId/401876492",
+     "deporte": "fra.1",
+     "game_id": "401876492",
+     "titulo_es": "Ganador: Le Havre AC vs AS Monaco (fra.1)"
     }
    ],
    "n_fuentes": 1,
    "categoria": "Otros",
-   "prob": 85,
+   "prob": 81,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 34.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 66.0%: diferencia de 31.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "San Francisco Giants vs. Boston Red Sox",
-   "narrativa": "El mercado de Polymarket para que los Giants ganen paga 34.5, mientras que el consenso externo de ESPN lo sitúa en 66.0, generando un edge de 31.5 puntos a favor de comprar el 'Sí'. Esta brecha es inusualmente amplia y sugiere que el precio actual no refleja la probabilidad real según los modelos de referencia, ofreciendo un margen de valor significativo para quien tome la posición. El monto del trade se ajusta a la diferencia, buscando capitalizar la corrección del precio hacia el consenso. Riesgo: la percepción del mercado puede diferir del modelo si hay factores internos (lesiones, clima) no capturados por la fuente externa."
-  },
-  {
-   "tipo": "edge",
-   "question": "Will SD Eibar win on 2026-08-23?",
-   "slug": "es2-eib-vld-2026-08-23-eib",
-   "url": "https://polymarket.com/market/es2-eib-vld-2026-08-23-eib",
-   "prob_poly": 74.5,
-   "consenso": 46.0,
-   "edge": -28.5,
-   "direccion": "Polymarket CARO (comprar No)",
-   "fuentes": [
-    {
-     "fuente": "ESPN",
-     "titulo": "Winner: Eibar vs Real Valladolid (esp.2)",
-     "prob": 46.05,
-     "url": "https://www.espn.com/soccer/game/_/gameId/401883254",
-     "deporte": "esp.2",
-     "game_id": "401883254",
-     "titulo_es": "Ganador: Eibar vs Real Valladolid (esp.2)"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Otros",
-   "prob": 85,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 74.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 46.0%: diferencia de 28.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
-   "question_es": "¿Ganará la SD Eibar el 2026-08-23?",
-   "narrativa": "La cuota de Polymarket para el Eibar (74.5) supera ampliamente el consenso externo de ESPN (46.0), generando un edge negativo de -28.5 puntos. Esto indica que el mercado está sobrevalorando la probabilidad de victoria, por lo que comprar 'No' ofrece valor esperado positivo. Riesgo: posibles movimientos de dinero cercanos al evento que ajusten la cuota."
+   "razon": "Polymarket paga este mercado a 1.9% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 23.7%: diferencia de 21.8 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará el Le Havre AC el 2026-08-23?",
+   "narrativa": "El mercado de Polymarket valora al Le Havre AC con una probabilidad implícita de solo el 1.9%, mientras que el consenso externo de ESPN lo sitúa en 23.7%, generando un edge de 21.8 puntos a favor de la compra del 'Sí'. Esta discrepancia extrema sugiere que el precio actual no refleja la información disponible, ofreciendo una oportunidad de valor significativo para quien busque exposición a un resultado con probabilidad real mucho mayor a la cotizada. Riesgo: alta volatilidad y posible iliquidez en el tramo final del mercado."
   },
   {
    "tipo": "edge",
@@ -95,36 +86,6 @@
    "razon": "Polymarket paga este mercado a 40.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 59.6%: diferencia de 19.1 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "Washington Nationals vs. Miami Marlins",
    "narrativa": "Polymarket cotiza a los Nationals como ganadores con un 40.5%, mientras que el consenso de ESPN estima un 59.6%, dejando un edge positivo de +19.1 puntos. Comprar 'Sí' a este precio aprovecha una discrepancia clara entre el mercado y la proyección externa. Riesgo: variaciones por lesiones o alineaciones de última hora."
-  },
-  {
-   "tipo": "edge",
-   "question": "Will Le Havre AC win on 2026-08-23?",
-   "slug": "fl1-hac-asm-2026-08-23-hac",
-   "url": "https://polymarket.com/market/fl1-hac-asm-2026-08-23-hac",
-   "prob_poly": 5.5,
-   "consenso": 23.7,
-   "edge": 18.2,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "ESPN",
-     "titulo": "Winner: Le Havre AC vs AS Monaco (fra.1)",
-     "prob": 23.69,
-     "url": "https://www.espn.com/soccer/game/_/gameId/401876492",
-     "deporte": "fra.1",
-     "game_id": "401876492",
-     "titulo_es": "Ganador: Le Havre AC vs AS Monaco (fra.1)"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Otros",
-   "prob": 76,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 5.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 23.7%: diferencia de 18.2 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará el Le Havre AC el 2026-08-23?",
-   "narrativa": "El Le Havre AC aparece con una probabilidad de solo 5.5% en Polymarket, frente al 23.7% que sugiere el consenso de ESPN, lo que representa un edge de +18.2 puntos. Esta subvaloración extrema convierte la compra de 'Sí' en una oportunidad asimétrica con alta recompensa potencial. Riesgo: baja liquidez y alta volatilidad en mercados de baja probabilidad."
   },
   {
    "tipo": "edge",
@@ -209,8 +170,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -229,8 +190,8 @@
   {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
-   "yes": 0.25,
-   "no": 0.75,
+   "yes": 0.27,
+   "no": 0.73,
    "volumen": 98925.330583,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -241,7 +202,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98871.96190899999,
+   "volumen": 98871.961909,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -261,7 +222,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.003,
    "no": 0.997,
-   "volumen": 98536.056978,
+   "volumen": 98536.05697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -309,8 +270,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.2,
-   "no": 0.8,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
