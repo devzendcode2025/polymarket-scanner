@@ -1,71 +1,10 @@
 {
- "ts": 1787497118,
- "stamp": "20260823_145838",
+ "ts": 1787497538,
+ "stamp": "20260823_150538",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x7873d13da04a79353cbfbfd1244e26af171e710d89a0e85de443314c31b6d9c7",
-   "titulo": "Toronto Blue Jays vs. New York Yankees: O/U 7.5",
-   "slug": "mlb-tor-nyy-2026-08-23-total-7pt5",
-   "outcome": "Over",
-   "side": "BUY",
-   "size": 43552.91,
-   "price": 0.55,
-   "usd": 23954.1,
-   "ts": 1787497042,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $23,954 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-tor-nyy-2026-08-23-total-7pt5",
-   "titulo_es": "Toronto Blue Jays vs. New York Yankees: Más/Menos 7.5",
-   "narrativa": "La compra de Over 7.5 por $23,954 en el duelo Blue Jays vs. Yankees sugiere una fuerte convicción en un juego de alta anotación, probablemente respaldada por los abridores y las condiciones del estadio. El tamaño de la apuesta es significativo en relación al volumen típico de este mercado, lo que indica que el capital grande ve valor en el total alto. Riesgo: el mercado puede ser sensible a cambios de alineación o clima."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xae19646ab0707d899fc91294975ebd4c393cc831d2c02fb643c210184d9a8852",
-   "titulo": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
-   "slug": "lol-blg-al-2026-08-23",
-   "outcome": "Bilibili Gaming",
-   "side": "BUY",
-   "size": 5606.409888,
-   "price": 0.8918363263,
-   "usd": 5000.0,
-   "ts": 1787497042,
-   "categoria": "Otros",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,000 en 'Bilibili Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-blg-al-2026-08-23",
-   "titulo_es": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - Ascenso de Grupo LPL",
-   "narrativa": "La posición de $5,000 en Bilibili Gaming para ganar el BO3 refleja una confianza institucional en su superioridad estratégica sobre Anyone's Legend en el ascenso de la LPL. Este monto, considerable para un mercado de esports, sugiere que el consenso externo subestima la forma reciente de Bilibili. Riesgo: la volatilidad de los BO3 puede generar sorpresas si el draft inicial se desvía."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xc1bb1433b761e448eb222ba1122b00e15972949fc0973eb38eff92ebf5b7e5f9",
-   "titulo": "Counter-Strike: FUT Esports vs Spirit - Map 3 Winner",
-   "slug": "cs2-fut-ts7-2026-08-23-game3",
-   "outcome": "FUT Esports",
-   "side": "BUY",
-   "size": 2042.7,
-   "price": 0.4895481471,
-   "usd": 1000.0,
-   "ts": 1787497041,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,000 en 'FUT Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/cs2-fut-ts7-2026-08-23-game3",
-   "titulo_es": "Counter-Strike: FUT Esports vs Spirit - Ganador del Mapa 3",
-   "narrativa": "La compra de FUT Esports para ganar el Mapa 3 por $1,000 indica que el operador detecta una ventaja en el mapa decisivo, posiblemente por el historial de Spirit en mapas de desempate o el ritmo del partido. Aunque el monto es menor, el edge en puntos puede ser alto si el análisis de mapas previos es correcto. Riesgo: poca liquidez en este mercado puede ampliar el spread."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -102,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.350329,
+   "volumen": 9921416.350329002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -112,7 +51,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993572.8182900001,
+   "volumen": 993572.8182899996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -158,16 +97,6 @@
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
-   "question": "Will Loopscale launch a token by December 31, 2026?",
-   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.16,
-   "no": 0.84,
-   "volumen": 99057.70341900001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
@@ -210,8 +139,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.004,
-   "no": 0.996,
+   "yes": 0.0035,
+   "no": 0.9965,
    "volumen": 98536.056978,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -220,8 +149,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.7,
-   "no": 0.3,
+   "yes": 0.705,
+   "no": 0.295,
    "volumen": 98417.74661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -240,8 +169,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -262,7 +191,7 @@
    "slug": "crint-lka-ind-2026-08-23-draw",
    "yes": 0.19,
    "no": 0.81,
-   "volumen": 9986.559657000003,
+   "volumen": 9986.559657000005,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -272,7 +201,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999995,
+   "volumen": 9982.721728999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -280,9 +209,9 @@
   {
    "question": "Will the highest temperature in Dallas be between 106-107°F on August 23?",
    "slug": "highest-temperature-in-dallas-on-august-23-2026-106-107f",
-   "yes": 0.57,
-   "no": 0.43,
-   "volumen": 9979.007958000002,
+   "yes": 0.575,
+   "no": 0.425,
+   "volumen": 9979.007957999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Dallas entre 106-107°F el 23 de agosto?"
@@ -302,7 +231,7 @@
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
    "yes": 0.765,
    "no": 0.235,
-   "volumen": 9972.062131,
+   "volumen": 9972.062130999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Apple la segunda empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -328,6 +257,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will the highest temperature in London be 24°C on August 23?",
+   "slug": "highest-temperature-in-london-on-august-23-2026-24c",
+   "yes": 0.905,
+   "no": 0.095,
+   "volumen": 9961.756581000005,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Londres de 24°C el 23 de agosto?"
+  },
+  {
    "question": "Elche CF vs. FC Barcelona: O/U 0.5",
    "slug": "lal-elc-bar-2026-08-23-total-0pt5",
    "yes": 0.966,
@@ -349,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787495456,
+  "ts": 1787497339,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
