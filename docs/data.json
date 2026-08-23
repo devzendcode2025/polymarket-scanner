@@ -1,6 +1,6 @@
 {
- "ts": 1787450727,
- "stamp": "20260823_020527",
+ "ts": 1787451087,
+ "stamp": "20260823_021127",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -161,7 +161,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058299997,
+   "volumen": 98925.33058300002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -171,20 +171,20 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294600002,
+   "volumen": 98868.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
   },
   {
-   "question": "Cincinnati Reds vs. Arizona Diamondbacks",
-   "slug": "mlb-cin-ari-2026-08-22",
-   "yes": 0.9765,
-   "no": 0.0235,
-   "volumen": 98841.62582599996,
+   "question": "Spread: Los Angeles Sparks (-4.5)",
+   "slug": "wnba-conn-la-2026-08-22-spread-home-4pt5",
+   "yes": 0.67,
+   "no": 0.33,
+   "volumen": 98670.05190900002,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "Cincinnati Reds vs. Arizona Diamondbacks"
+   "question_es": "Diferencia de puntos: Los Angeles Sparks (-4.5)"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -211,20 +211,20 @@
    "slug": "will-indiana-fever-win-the-2026-wnba-finals-186",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 98395.10386199999,
+   "volumen": 98395.10386199997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Indiana Fever las Finales de la WNBA 2026?"
   },
   {
-   "question": "Spread: Los Angeles Sparks (-4.5)",
-   "slug": "wnba-conn-la-2026-08-22-spread-home-4pt5",
-   "yes": 0.665,
-   "no": 0.335,
-   "volumen": 98198.29346299998,
+   "question": "Will Benjamin Netanyahu visit New York City by September 30?",
+   "slug": "will-benjamin-netanyahu-visit-new-york-city-by-september-30-20260722053445710-178",
+   "yes": 0.93,
+   "no": 0.07,
+   "volumen": 98307.73244200001,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Diferencia de puntos: Los Angeles Sparks (-4.5)"
+   "categoria": "Política",
+   "question_es": "¿Visitará Benjamin Netanyahu la ciudad de Nueva York antes del 30 de septiembre?"
   },
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
