@@ -1,6 +1,6 @@
 {
- "ts": 1787451087,
- "stamp": "20260823_021127",
+ "ts": 1787451508,
+ "stamp": "20260823_021828",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -11,9 +11,9 @@
    "question": "Will St. Louis City SC win on 2026-08-22?",
    "slug": "mls-stl-hou-2026-08-22-stl",
    "url": "https://polymarket.com/market/mls-stl-hou-2026-08-22-stl",
-   "prob_poly": 69.0,
+   "prob_poly": 73.5,
    "consenso": 43.0,
-   "edge": -26.0,
+   "edge": -30.5,
    "direccion": "Polymarket CARO (comprar No)",
    "fuentes": [
     {
@@ -32,9 +32,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 69.0% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 43.0%: diferencia de 26.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
+   "razon": "Polymarket paga este mercado a 73.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 43.0%: diferencia de 30.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket CARO (comprar No).",
    "question_es": "¿Ganará St. Louis City SC el 22-08-2026?",
-   "narrativa": "El mercado de Polymarket cotiza un 69% de probabilidad para que St. Louis City SC gane el 22-08-2026, mientras que el consenso externo de ESPN lo sitúa en solo un 43%. Esta brecha de 26 puntos porcentuales sugiere que el precio del 'Sí' está sobrevalorado, ofreciendo una oportunidad de comprar 'No' con un edge esperado de +26 puntos. El monto del trade se ajusta a la diferencia, buscando capturar la corrección hacia el valor justo externo. Riesgo: la liquidez en este mercado lejano puede ser limitada, lo que podría afectar la ejecución y salida."
+   "narrativa": "La probabilidad implícita de Polymarket (73.5%) supera por 30.5 puntos al consenso externo de ESPN (43.0%), lo que sugiere que el mercado está sobrevalorando las opciones de St. Louis City SC. Comprar 'No' ofrece un edge teórico significativo, ya que el precio de 26.5 centavos para el No está muy por debajo de la probabilidad justa estimada del 57%. Con un desvío tan amplio, la oportunidad es clara para quienes buscan valor estadístico, aunque el monto del trade debe ajustarse a la liquidez del mercado. Riesgo: posible sesgo local de apostadores y eventos de corto plazo no capturados por el modelo externo."
   },
   {
    "tipo": "edge",
@@ -99,8 +99,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0625,
-   "no": 0.9375,
+   "yes": 0.062,
+   "no": 0.938,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -179,8 +179,8 @@
   {
    "question": "Spread: Los Angeles Sparks (-4.5)",
    "slug": "wnba-conn-la-2026-08-22-spread-home-4pt5",
-   "yes": 0.67,
-   "no": 0.33,
+   "yes": 0.71,
+   "no": 0.29,
    "volumen": 98670.05190900002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -239,8 +239,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.05,
+   "no": 0.95,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -279,8 +279,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.645,
-   "no": 0.355,
+   "yes": 0.63,
+   "no": 0.37,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
