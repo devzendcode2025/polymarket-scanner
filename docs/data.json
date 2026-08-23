@@ -1,51 +1,10 @@
 {
- "ts": 1787462610,
- "stamp": "20260823_052330",
+ "ts": 1787463030,
+ "stamp": "20260823_053030",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x177fcd5b490112c7c2ad7553b860dfd38a30efb1a10416df5ed67274ab45fb38",
-   "titulo": "Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner",
-   "slug": "dota2-vsn2-ts8-2026-08-23-game1",
-   "outcome": "TEAM VISION",
-   "side": "BUY",
-   "size": 2618.72,
-   "price": 0.56,
-   "usd": 1466.48,
-   "ts": 1787462523,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,466 en 'TEAM VISION'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dota2-vsn2-ts8-2026-08-23-game1",
-   "titulo_es": "Dota 2: TEAM VISION vs Team Spirit - Ganador del Juego 1",
-   "narrativa": "La compra de $1,466 en TEAM VISION refleja una apuesta agresiva contra el consenso implícito en el mercado, que probablemente favorece a Team Spirit por su historial reciente. Este tamaño de posición, en un mercado de baja liquidez, sugiere que el comprador maneja información o un modelo de ventaja significativo, generando un edge potencial si el precio actual no descuenta correctamente la forma del equipo. Riesgo: alta volatilidad por el formato bo1 y posible falta de profundidad en el libro de órdenes."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x9d3a44ad734ea4bd2cdd33b1e653d625afdd2481ebc88ef2a9fc24bab0e4d80a",
-   "titulo": "Will Farsi, Hengam, Hormuz or Kharg Island no longer be under Iranian control by August 31, 2026?",
-   "slug": "will-farsi-hengam-hormuz-or-kharg-island-no-longer-be-under-iranian-control-by-august-31-2026-20260804165426110",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1197.57,
-   "price": 0.988,
-   "usd": 1183.2,
-   "ts": 1787462515,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,183 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-farsi-hengam-hormuz-or-kharg-island-no-longer-be-under-iranian-control-by-august-31-2026-20260804165426110",
-   "titulo_es": "¿Estarán Farsi, Hengam, Hormuz o la isla de Kharg fuera del control iraní para el 31 de agosto de 2026?",
-   "narrativa": "La compra de $1,183 en 'No' para el control iraní de esas islas antes de 2026 capitaliza un escenario geopolítico de baja probabilidad, donde el consenso externo (precio de venta) probablemente sobreestima el riesgo de un cambio de control en un plazo tan corto. El monto sugiere una convicción moderada, y el edge proviene de la diferencia entre la probabilidad implícita del mercado y la evaluación real de estabilidad regional, que tiende a ser más rígida de lo que el mercado teme. Riesgo: eventos imprevistos de conflicto podrían mover el precio abruptamente, y la liquidez es limitada."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -140,8 +99,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -180,8 +139,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98417.74661800002,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -260,8 +219,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.635,
-   "no": 0.365,
+   "yes": 0.625,
+   "no": 0.375,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -310,22 +269,22 @@
   {
    "question": "Will USD be between 2.0M and 2.1M Iranian rials on August 31?",
    "slug": "will-usd-be-between-2pt0m-and-2pt1m-iranian-rials-on-august-31-20260728205517250",
-   "yes": 0.1335,
-   "no": 0.8665,
+   "yes": 0.161,
+   "no": 0.839,
    "volumen": 9941.878092000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Estará el USD entre 2,0M y 2,1M riales iraníes el 31 de agosto?"
   },
   {
-   "question": "Spread: PHI (-2.5)",
-   "slug": "nfl-phi-ne-2026-08-22-spread-away-2pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9930.946806,
+   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
+   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9925.861829,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Margen: PHI (-2.5)"
+   "categoria": "Política",
+   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
   }
  ],
  "historico": {
