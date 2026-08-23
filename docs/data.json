@@ -1,10 +1,31 @@
 {
- "ts": 1787527185,
- "stamp": "20260823_231945",
+ "ts": 1787527665,
+ "stamp": "20260823_232745",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xa1aaa21d195df199164c3a61cc1a938cd342effe5a58490bea35c05397c38b61",
+   "titulo": "Atlanta Braves vs. Milwaukee Brewers",
+   "slug": "mlb-atl-mil-2026-08-23",
+   "outcome": "Milwaukee Brewers",
+   "side": "BUY",
+   "size": 10000.0,
+   "price": 0.52,
+   "usd": 5200.0,
+   "ts": 1787527374,
+   "categoria": "Otros",
+   "prob": 59,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,200 en 'Milwaukee Brewers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-atl-mil-2026-08-23",
+   "titulo_es": "Atlanta Braves vs. Milwaukee Brewers",
+   "narrativa": "La compra de $5,200 en Milwaukee Brewers frente a Atlanta Braves refleja una apuesta institucional significativa en un mercado donde el volumen total no está claramente definido, lo que sugiere que el operador detecta una ventaja de valor (edge) por información o percepción de probabilidad implícita. El tamaño del trade, superior al promedio típico de posiciones minoristas, indica convicción en que el precio actual de los Brewers está subvalorado respecto al consenso externo de los modelos de poderío ofensivo y rotación de abridores. Esta señal puede anticipar un movimiento de reajuste en las cuotas si el mercado ajusta su evaluación hacia la probabilidad real de victoria del equipo visitante. Riesgo: posible falta de liquidez en horarios de baja actividad, lo que podría ampliar el deslizamiento de ejecución."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -119,8 +140,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.21,
+   "no": 0.79,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -129,8 +150,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.175,
-   "no": 0.825,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -151,20 +172,10 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98877.81905000002,
+   "volumen": 98877.81905,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
-  },
-  {
-   "question": "Red Bull Bragantino vs. Grêmio FBPA: O/U 2.5",
-   "slug": "bra-bra-gre-2026-08-23-total-2pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 98649.69500100001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Red Bull Bragantino vs. Grêmio FBPA: Más/Menos 2.5"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -179,9 +190,9 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
-   "volumen": 98417.74661800002,
+   "yes": 0.68,
+   "no": 0.32,
+   "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -239,8 +250,8 @@
   {
    "question": "Bitcoin Up or Down - August 23, 7PM ET",
    "slug": "bitcoin-up-or-down-august-23-2026-7pm-et",
-   "yes": 0.33,
-   "no": 0.67,
+   "yes": 0.435,
+   "no": 0.565,
    "volumen": 9982.251967,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -259,8 +270,8 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.0405,
-   "no": 0.9595,
+   "yes": 0.04,
+   "no": 0.96,
    "volumen": 9965.953989000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -285,6 +296,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will “The Traitors” win Emmys 2026: Outstanding reality/competition series?",
+   "slug": "will-the-traitors-win-emmys-2026-outstanding-realitycompetition-series-20260709174232726",
+   "yes": 0.8655,
+   "no": 0.1345,
+   "volumen": 9930.622033000001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará 'The Traitors' los Emmys 2026: Mejor serie de realidad/competencia?"
   }
  ],
  "historico": {
