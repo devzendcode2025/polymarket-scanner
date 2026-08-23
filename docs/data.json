@@ -1,29 +1,29 @@
 {
- "ts": 1787456009,
- "stamp": "20260823_033329",
+ "ts": 1787456429,
+ "stamp": "20260823_034029",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3be37f3f6d2e5b25636d3bd3bd122e89c50e09b3e17a35718dcad41b8f4dc1f4",
-   "titulo": "Minnesota Twins vs. San Diego Padres",
-   "slug": "mlb-min-sd-2026-08-22",
-   "outcome": "San Diego Padres",
+   "market_id": "0x2b06aff495ed62b84e9c8da62e11b7bcd1eaedad4b290cb4fc6971deafed2642",
+   "titulo": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
+   "slug": "dota2-ty-ts8-2026-08-22-game2",
+   "outcome": "Team Spirit",
    "side": "BUY",
-   "size": 2106.23,
-   "price": 0.9964878622,
-   "usd": 2098.83,
-   "ts": 1787455912,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
+   "size": 56243.91,
+   "price": 0.63,
+   "usd": 35433.66,
+   "ts": 1787456212,
+   "categoria": "Deportes",
+   "prob": 70,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $2,099 en 'San Diego Padres'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-min-sd-2026-08-22",
-   "titulo_es": "Minnesota Twins vs. San Diego Padres",
-   "narrativa": "La compra de 2,098.83 USD en San Diego Padres representa una apuesta direccional clara en un enfrentamiento donde el mercado podría estar subestimando el diferencial de rotación; el monto concentrado sugiere convicción institucional que, en ausencia de volumen total reportado, puede indicar una ventana de valor antes de que el consenso se ajuste. El edge se materializa si la probabilidad implícita actual es inferior al 55% de victoria real estimada por modelos de pitcheo, lo que justifica la posición. Riesgo: liquidez moderada en el mercado de juego específico, lo que puede amplificar el deslizamiento al salir."
+   "razon": "Trade de compra por $35,434 en 'Team Spirit'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-ty-ts8-2026-08-22-game2",
+   "titulo_es": "Dota 2: Team Yandex vs Team Spirit - Ganador del Juego 2",
+   "narrativa": "El mercado muestra un desequilibrio significativo en el G2 entre Team Yandex y Team Spirit, con una entrada de $35,433.66 a favor de Spirit que sugiere información privilegiada o un fuerte sesgo de los operadores grandes. Este flujo de capital, en un evento de alta visibilidad como Dota 2, suele anticipar un ajuste en las probabilidades a corto plazo, ofreciendo un edge positivo si se captura antes de que el precio se mueva. Riesgo: volatilidad alta en partidas de eliminación directa y posible falta de liquidez en mercados de juego específico."
   }
  ],
  "edges": [
@@ -76,16 +76,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
-  },
-  {
-   "question": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
-   "slug": "dota2-ty-ts8-2026-08-22-game2",
-   "yes": 0.435,
-   "no": 0.565,
-   "volumen": 987270.550092,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Dota 2: Team Yandex vs Team Spirit - Ganador del Juego 2"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -172,7 +162,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294599999,
+   "volumen": 98868.562946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -202,10 +192,20 @@
    "slug": "bitcoin-above-72k-on-august-23-2026",
    "yes": 0.9965,
    "no": 0.0035,
-   "volumen": 98182.5889,
+   "volumen": 98382.58889999999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Bitcoin por encima de $72,000 el 23 de agosto?"
+  },
+  {
+   "question": "US announces end of Iranian blockade by September 7, 2026?",
+   "slug": "us-announces-end-of-iranian-blockade-by-september-7-2026",
+   "yes": 0.075,
+   "no": 0.925,
+   "volumen": 98157.43687,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿EE. UU. anuncia el fin del bloqueo iraní para el 7 de septiembre de 2026?"
   },
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
@@ -260,8 +260,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.635,
-   "no": 0.365,
+   "yes": 0.63,
+   "no": 0.37,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -309,7 +309,7 @@
   }
  ],
  "historico": {
-  "ts": 1787454402,
+  "ts": 1787456270,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
