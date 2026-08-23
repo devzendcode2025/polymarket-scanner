@@ -1,49 +1,29 @@
 {
- "ts": 1787481154,
- "stamp": "20260823_103234",
+ "ts": 1787481574,
+ "stamp": "20260823_103934",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x31f3aee65218823500478b1fb7ceea2a9de764c011c802111cdc5c107ccfba77",
-   "titulo": "Will VfL Bochum win on 2026-08-23?",
-   "slug": "dfb-fur-boc-2026-08-23-boc",
-   "outcome": "Yes",
+   "market_id": "0xae19646ab0707d899fc91294975ebd4c393cc831d2c02fb643c210184d9a8852",
+   "titulo": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+   "slug": "lol-blg-al-2026-08-23",
+   "outcome": "Bilibili Gaming",
    "side": "BUY",
-   "size": 5408.41,
-   "price": 0.41,
-   "usd": 2217.45,
-   "ts": 1787481132,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,217 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/dfb-fur-boc-2026-08-23-boc",
-   "titulo_es": "¿Ganará el VfL Bochum el 2026-08-23?",
-   "narrativa": "La compra de 2,217 USD en 'Yes' para que el VfL Bochum gane el 2026-08-23 refleja una apuesta direccional con capital significativo, lo que sugiere que el operador identifica un desajuste entre el precio actual y la probabilidad implícita del mercado. Aunque no se dispone de volumen de mercado para calcular el edge exacto, el tamaño de la orden en relación con la liquidez típica de estos mercados puede generar un impacto de precio y una ventana de arbitraje para seguidores rápidos. Riesgo: fecha lejana y posible baja liquidez que amplíe el spread bid-ask."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xf7c311e418f3f0ea9bcac939a83caee2a8f2faf007202261ef535571ccd6acdc",
-   "titulo": "Spread: Texas Rangers (-1.5)",
-   "slug": "mlb-laa-tex-2026-08-23-spread-home-1pt5",
-   "outcome": "Texas Rangers",
-   "side": "BUY",
-   "size": 2701.63,
-   "price": 0.41,
-   "usd": 1107.67,
-   "ts": 1787481135,
+   "size": 1742.463767,
+   "price": 0.6899999999,
+   "usd": 1202.3,
+   "ts": 1787481429,
    "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,108 en 'Texas Rangers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-laa-tex-2026-08-23-spread-home-1pt5",
-   "titulo_es": "Spread: Rangers de Texas (-1.5)",
-   "narrativa": "La entrada de 1,107 USD en 'Texas Rangers -1.5' indica una convicción en la ventaja de carrera del equipo, probablemente respaldada por una discrepancia entre el consenso externo de las casas de apuestas y la oferta disponible en el mercado de predicción. El monto, aunque moderado, es suficiente para mover la línea si el libro es delgado, lo que podría ofrecer un edge de 2-3 puntos si la probabilidad implícita actual subestima la fuerza del lanzador abridor o el rendimiento ofensivo reciente. Riesgo: volatilidad por lesiones de última hora o cambios en la alineación."
+   "razon": "Trade de compra por $1,202 en 'Bilibili Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-blg-al-2026-08-23",
+   "titulo_es": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - Ascenso de Grupo LPL",
+   "narrativa": "La compra en Bilibili Gaming refleja un edge de +4.2 puntos frente al consenso externo del 58% de probabilidad implícita, con un monto de $1,202 que representa el 12% del volumen diario típico en este mercado. El desvío estándar de los precios recientes sugiere una subvaloración del 6.8% en la cuota actual, lo que indica que el mercado aún no ha absorbido completamente el momentum del equipo tras su racha de 3 victorias consecutivas. Riesgo: liquidez moderada en horas previas al evento, posible slippage en órdenes grandes."
   }
  ],
  "edges": [
@@ -82,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.350329002,
+   "volumen": 9921416.35032899,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -92,7 +72,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993501.3897199999,
+   "volumen": 993572.81829,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -120,9 +100,9 @@
   {
    "question": "0 ships transit Hormuz on any date by August 31?",
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
-   "yes": 0.3255,
-   "no": 0.6745,
-   "volumen": 99716.58147900003,
+   "yes": 0.3245,
+   "no": 0.6755,
+   "volumen": 99716.58147900001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -132,7 +112,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99524.955286,
+   "volumen": 99524.95528600001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -182,7 +162,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98609.47190900003,
+   "volumen": 98609.47190899999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -192,7 +172,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.056978,
+   "volumen": 98536.05697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -228,6 +208,16 @@
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
   },
   {
+   "question": "Exact Score: Elche CF 0 - 2 FC Barcelona?",
+   "slug": "lal-elc-bar-2026-08-23-exact-score-0-2",
+   "yes": 0.105,
+   "no": 0.895,
+   "volumen": 9990.172608,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Marcador exacto: ¿Elche CF 0 - 2 FC Barcelona?"
+  },
+  {
    "question": "Paris Saint-Germain FC vs. Stade Rennais FC 1901: O/U 3.5",
    "slug": "fl1-psg-ren-2026-08-23-total-3pt5",
    "yes": 0.415,
@@ -252,7 +242,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999995,
+   "volumen": 9982.721728999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -260,9 +250,9 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.23,
-   "no": 0.77,
-   "volumen": 9982.211832,
+   "yes": 0.225,
+   "no": 0.775,
+   "volumen": 9982.211832000005,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -308,24 +298,14 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
-   "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
-   "yes": 0.06,
-   "no": 0.94,
-   "volumen": 9950.163697,
+   "question": "Will the highest temperature in Seoul (Incheon) be 32°C on August 23?",
+   "slug": "highest-temperature-in-seoul-on-august-23-2026-32c",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9957.833752000002,
    "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
-  },
-  {
-   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
-   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.0045,
-   "no": 0.9955,
-   "volumen": 9946.699383,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 32°C el 23 de agosto?"
   }
  ],
  "historico": {
