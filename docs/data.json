@@ -1,31 +1,10 @@
 {
- "ts": 1787509001,
- "stamp": "20260823_181641",
+ "ts": 1787509421,
+ "stamp": "20260823_182341",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xe92851998ddff1ffa90d74129121d5b3fc7b9be7eb0f75b239d969ea96d91be0",
-   "titulo": "Will US Lecce win on 2026-08-23?",
-   "slug": "sea-ven-lec-2026-08-23-lec",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 2222.22,
-   "price": 0.91,
-   "usd": 2022.22,
-   "ts": 1787508753,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,022 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/sea-ven-lec-2026-08-23-lec",
-   "titulo_es": "¿Ganará el US Lecce el 2026-08-23?",
-   "narrativa": "El mercado muestra una compra de 2,022 USD en 'Yes' para el US Lecce, lo que sugiere acumulación de capital en un evento de baja liquidez donde el precio puede moverse con mayor sensibilidad. Aunque no hay volumen de mercado reportado, la entrada agresiva en un lado específico indica que un operador grande percibe un desajuste entre el precio actual y la probabilidad implícita real. Riesgo: poca liquidez podría amplificar el deslizamiento y dificultar la salida."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921840.850328997,
+   "volumen": 9921840.850329008,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -90,8 +69,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0605,
-   "no": 0.9395,
+   "yes": 0.06,
+   "no": 0.94,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -122,7 +101,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99063.70341899998,
+   "volumen": 99063.70341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -176,6 +155,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
+  },
+  {
+   "question": "Will OpenAI be the second-best AI Agent Lab at the end of September 2026?",
+   "slug": "will-openai-be-the-second-best-ai-agent-lab-at-the-end-of-september-2026-20260812152638619",
+   "yes": 0.265,
+   "no": 0.735,
+   "volumen": 9996.260328,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será OpenAI el segundo mejor laboratorio de agentes de IA a finales de septiembre de 2026?"
   },
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
@@ -270,8 +259,8 @@
   {
    "question": "KA Akureyri vs. KR Reykjavik: O/U 1.5",
    "slug": "isl1-aku-krr-2026-08-23-total-1pt5",
-   "yes": 0.9975,
-   "no": 0.0025,
+   "yes": 0.995,
+   "no": 0.005,
    "volumen": 9942.99171,
    "spread": 0.0,
    "categoria": "Otros",
@@ -288,24 +277,14 @@
    "question_es": "¿Ganará Ernest Harden Jr. – “The Pitt” los Emmys 2026: Mejor actor invitado en una serie dramática?"
   },
   {
-   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
-   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9925.861829,
+   "question": "Will CD Castellón win on 2026-08-23?",
+   "slug": "es2-cas-sab-2026-08-23-cas",
+   "yes": 0.335,
+   "no": 0.665,
+   "volumen": 9926.43747,
    "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
-  },
-  {
-   "question": "Will Patrick Roath be the Democratic nominee for MA-08?",
-   "slug": "will-patrick-roath-be-the-democratic-nominee-for-ma-08",
-   "yes": 0.575,
-   "no": 0.425,
-   "volumen": 9923.376660999998,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Será Patrick Roath el nominado demócrata para MA-08?"
+   "categoria": "Otros",
+   "question_es": "¿Ganará el CD Castellón el 2026-08-23?"
   }
  ],
  "historico": {
