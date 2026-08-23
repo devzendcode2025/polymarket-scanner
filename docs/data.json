@@ -1,10 +1,51 @@
 {
- "ts": 1787461470,
- "stamp": "20260823_050430",
+ "ts": 1787461950,
+ "stamp": "20260823_051230",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xbd4caa8f7916cbae0f4b25a276cd4bf87db7146c7f86e84237b8402baf22e03c",
+   "titulo": "Will TEAM VISION Win The International 2026?",
+   "slug": "will-team-vision-win-the-international-2026-20260629212053622",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 30020.0,
+   "price": 0.57,
+   "usd": 17111.4,
+   "ts": 1787461921,
+   "categoria": "Otros",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $17,111 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-team-vision-win-the-international-2026-20260629212053622",
+   "titulo_es": "¿Ganará TEAM VISION The International 2026?",
+   "narrativa": "La venta de 'Yes' en TEAM VISION para The International 2026 refleja una posición de 17,111 USD, lo que sugiere una convicción institucional contra el outcome. Este movimiento de ballena, en un mercado con volumen no reportado, indica que el consenso externo podría estar sobrevalorando las probabilidades del equipo, ofreciendo un edge por desviación de expectativas. Riesgo: mercado ilíquido y horizonte lejano que amplifica la volatilidad."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xfa3f6f421d1a0794666efc8db5e53723f243326a785acd13b1b320cfea2dc2c7",
+   "titulo": "Valorant: JD Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs",
+   "slug": "val-jdg-tyloo-2026-08-23",
+   "outcome": "TYLOO",
+   "side": "BUY",
+   "size": 2148.519463,
+   "price": 0.5585241464,
+   "usd": 1200.0,
+   "ts": 1787461915,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,200 en 'TYLOO'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/val-jdg-tyloo-2026-08-23",
+   "titulo_es": "Valorant: JD Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs",
+   "narrativa": "La compra de TYLOO por 1,200 USD en el BO5 contra JD Gaming apunta a capitalizar una posible infravaloración del underdog en los playoffs del VCT China. El monto, aunque moderado, es significativo para un mercado de nicho, y el lado 'compra' sugiere que el precio actual no refleja el verdadero potencial de TYLOO en un formato largo. Riesgo: la diferencia de nivel entre equipos chinos puede ser mayor a la estimada."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -131,7 +172,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.562946,
+   "volumen": 98868.56294600002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -141,7 +182,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.05697799998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -151,20 +192,10 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.685,
    "no": 0.315,
-   "volumen": 98408.89947700001,
+   "volumen": 98417.74661800002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
-  },
-  {
-   "question": "US announces end of Iranian blockade by September 7, 2026?",
-   "slug": "us-announces-end-of-iranian-blockade-by-september-7-2026",
-   "yes": 0.075,
-   "no": 0.925,
-   "volumen": 98157.43687,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿EE. UU. anuncia el fin del bloqueo iraní para el 7 de septiembre de 2026?"
   },
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
@@ -179,8 +210,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.051,
-   "no": 0.949,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -285,10 +316,20 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
+  },
+  {
+   "question": "Spread: PHI (-2.5)",
+   "slug": "nfl-phi-ne-2026-08-22-spread-away-2pt5",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9930.946806,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Margen: PHI (-2.5)"
   }
  ],
  "historico": {
-  "ts": 1787459924,
+  "ts": 1787461787,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
