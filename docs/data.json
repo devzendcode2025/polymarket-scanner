@@ -1,10 +1,51 @@
 {
- "ts": 1787512061,
- "stamp": "20260823_190741",
+ "ts": 1787512481,
+ "stamp": "20260823_191441",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x26be89abacc2dd72b813ba33a7f6cc7b3a2b9d629df2e3c8b6e2f035abbaffcb",
+   "titulo": "Elche CF vs. FC Barcelona: O/U 0.5",
+   "slug": "lal-elc-bar-2026-08-23-total-0pt5",
+   "outcome": "Over",
+   "side": "BUY",
+   "size": 31250.0,
+   "price": 0.968,
+   "usd": 30250.0,
+   "ts": 1787512060,
+   "categoria": "Deportes",
+   "prob": 70,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $30,250 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-elc-bar-2026-08-23-total-0pt5",
+   "titulo_es": "Elche CF vs. FC Barcelona: Más/Menos 0.5",
+   "narrativa": "El mercado de 'Más/Menos 0.5' para Elche vs. FC Barcelona muestra una compra significativa de 30,250 USD en 'Over', lo que indica una fuerte convicción de que habrá al menos un gol. Esta posición de gran tamaño sugiere que el consenso externo favorece un partido con ritmo ofensivo, y el monto colocado puede mover la aguja en la fijación de precios. Riesgo: posible ajuste de línea si el mercado reacciona a la noticia de alineaciones."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xb27146cd77567ebaa603168e274146c8193d03145184b21450646b8ef766cf4b",
+   "titulo": "Will Gençlerbirliği SK win on 2026-08-23?",
+   "slug": "tur-goz-gen-2026-08-23-gen",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1604.53,
+   "price": 0.7999376765,
+   "usd": 1283.52,
+   "ts": 1787512056,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,284 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/tur-goz-gen-2026-08-23-gen",
+   "titulo_es": "¿Ganará el Gençlerbirliği SK el 2026-08-23?",
+   "narrativa": "La compra de 1,283.52 USD en 'No' para que el Gençlerbirliği SK gane el 2026-08-23 refleja una apuesta clara contra el equipo local, probablemente basada en su forma reciente o en la calidad del rival. Aunque el monto es moderado, el edge proviene de un desvío entre el precio implícito y la probabilidad real estimada por el consenso externo, lo que convierte esta posición en una oportunidad de valor. Riesgo: baja liquidez en mercados de fecha lejana, lo que puede ampliar el spread."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -69,8 +110,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.06,
-   "no": 0.94,
+   "yes": 0.0595,
+   "no": 0.9405,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -149,8 +190,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.7,
+   "no": 0.3,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -159,8 +200,8 @@
   {
    "question": "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?",
    "slug": "will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-24-and-27-inclusive",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 9999.901494,
    "spread": 0.0,
    "categoria": "Política",
@@ -189,8 +230,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.205,
-   "no": 0.795,
+   "yes": 0.21,
+   "no": 0.79,
    "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -209,8 +250,8 @@
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
-   "yes": 0.75,
-   "no": 0.25,
+   "yes": 0.76,
+   "no": 0.24,
    "volumen": 9972.062131,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -288,7 +329,7 @@
   }
  ],
  "historico": {
-  "ts": 1787510480,
+  "ts": 1787512377,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
