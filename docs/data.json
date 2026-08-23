@@ -1,6 +1,6 @@
 {
- "ts": 1787462490,
- "stamp": "20260823_052130",
+ "ts": 1787462610,
+ "stamp": "20260823_052330",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -82,7 +82,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921214.980329001,
+   "volumen": 9921214.980328994,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -92,7 +92,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 992784.96115,
+   "volumen": 992784.9611499999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -130,8 +130,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -140,8 +140,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -200,8 +200,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -250,8 +250,8 @@
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
-   "yes": 0.76,
-   "no": 0.24,
+   "yes": 0.765,
+   "no": 0.235,
    "volumen": 9972.062130999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -260,8 +260,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.64,
-   "no": 0.36,
+   "yes": 0.635,
+   "no": 0.365,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -310,8 +310,8 @@
   {
    "question": "Will USD be between 2.0M and 2.1M Iranian rials on August 31?",
    "slug": "will-usd-be-between-2pt0m-and-2pt1m-iranian-rials-on-august-31-20260728205517250",
-   "yes": 0.133,
-   "no": 0.867,
+   "yes": 0.1335,
+   "no": 0.8665,
    "volumen": 9941.878092000003,
    "spread": 0.0,
    "categoria": "Otros",
