@@ -1,11 +1,41 @@
 {
- "ts": 1787457749,
- "stamp": "20260823_040229",
+ "ts": 1787458169,
+ "stamp": "20260823_040929",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [],
  "edges": [
+  {
+   "tipo": "edge",
+   "question": "Will CF Cruz Azul win on 2026-08-22?",
+   "slug": "mex-caz-atl-2026-08-22-caz",
+   "url": "https://polymarket.com/market/mex-caz-atl-2026-08-22-caz",
+   "prob_poly": 8.5,
+   "consenso": 58.6,
+   "edge": 50.1,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "ESPN",
+     "titulo": "Winner: Cruz Azul vs Atlas (mex.1)",
+     "prob": 58.57,
+     "url": "https://www.espn.com/soccer/game/_/gameId/401877003",
+     "deporte": "mex.1",
+     "game_id": "401877003",
+     "titulo_es": "Ganador: Cruz Azul vs Atlas (mex.1)"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Otros",
+   "prob": 85,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "ESPN",
+   "razon": "Polymarket paga este mercado a 8.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 58.6%: diferencia de 50.1 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará CF Cruz Azul el 2026-08-22?",
+   "narrativa": "El mercado de Polymarket cotiza el 'Sí' a solo 8.5 puntos, mientras que el consenso externo de ESPN sitúa la probabilidad real en 58.6, generando un edge de 50.1 puntos a favor de la compra. Esta brecha extrema sugiere una corrección significativa del precio hacia arriba, lo que convierte al 'Sí' en una oportunidad de valor con un retorno potencial de 11.7x sobre el costo de la acción. El monto del trade puede escalarse moderadamente dado el alto diferencial, pero la ventana de arbitraje puede cerrarse rápido si el mercado ajusta. Riesgo: la fecha es lejana (2026) y la liquidez podría ser baja, amplificando la volatilidad del precio."
+  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -151,7 +181,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.056978,
+   "volumen": 98536.05697800001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -189,8 +219,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -219,8 +249,8 @@
   {
    "question": "Ethereum Up or Down on August 23?",
    "slug": "ethereum-up-or-down-on-august-23-2026",
-   "yes": 0.525,
-   "no": 0.475,
+   "yes": 0.465,
+   "no": 0.535,
    "volumen": 9973.972372999997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -288,7 +318,7 @@
   }
  ],
  "historico": {
-  "ts": 1787456270,
+  "ts": 1787458094,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
