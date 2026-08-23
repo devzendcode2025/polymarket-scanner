@@ -1,6 +1,6 @@
 {
- "ts": 1787497538,
- "stamp": "20260823_150538",
+ "ts": 1787497898,
+ "stamp": "20260823_151138",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -97,24 +97,24 @@
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
+   "question": "Will Loopscale launch a token by December 31, 2026?",
+   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
+   "yes": 0.155,
+   "no": 0.845,
+   "volumen": 99057.70341900001,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
+  },
+  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
-   "yes": 0.25,
-   "no": 0.75,
+   "yes": 0.27,
+   "no": 0.73,
    "volumen": 98925.330583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
-  },
-  {
-   "question": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season",
-   "slug": "lol-th-gx-2026-08-23",
-   "yes": 0.335,
-   "no": 0.665,
-   "volumen": 98891.44561199998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "LoL: Team Heretics vs GIANTX (BO3) - Temporada Regular de la LEC"
   },
   {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
@@ -131,7 +131,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98621.971909,
+   "volumen": 98621.97190900001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -149,9 +149,9 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.705,
-   "no": 0.295,
-   "volumen": 98417.74661799999,
+   "yes": 0.7,
+   "no": 0.3,
+   "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -169,8 +169,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.051,
-   "no": 0.949,
+   "yes": 0.052,
+   "no": 0.948,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -209,8 +209,8 @@
   {
    "question": "Will the highest temperature in Dallas be between 106-107°F on August 23?",
    "slug": "highest-temperature-in-dallas-on-august-23-2026-106-107f",
-   "yes": 0.575,
-   "no": 0.425,
+   "yes": 0.585,
+   "no": 0.415,
    "volumen": 9979.007957999998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -259,8 +259,8 @@
   {
    "question": "Will the highest temperature in London be 24°C on August 23?",
    "slug": "highest-temperature-in-london-on-august-23-2026-24c",
-   "yes": 0.905,
-   "no": 0.095,
+   "yes": 0.92,
+   "no": 0.08,
    "volumen": 9961.756581000005,
    "spread": 0.0,
    "categoria": "Otros",
