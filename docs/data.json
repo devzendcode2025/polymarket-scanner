@@ -1,10 +1,31 @@
 {
- "ts": 1787448687,
- "stamp": "20260823_013127",
+ "ts": 1787449047,
+ "stamp": "20260823_013727",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xe7b279805bf14103c970222388d8cef6d985fc469f68e6a79770a4f9554a3487",
+   "titulo": "LoL: LOS vs LOUD - Game 1 Winner",
+   "slug": "lol-los-lll-2026-08-23-game1",
+   "outcome": "LOS",
+   "side": "BUY",
+   "size": 4203.83,
+   "price": 0.6139849375,
+   "usd": 2581.09,
+   "ts": 1787449009,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,581 en 'LOS'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-los-lll-2026-08-23-game1",
+   "titulo_es": "LoL: LOS vs LOUD - Ganador del Juego 1",
+   "narrativa": "La compra de LOS a 2581 USD refleja una apuesta significativa frente al consenso del mercado, que aún no ha ajustado completamente la probabilidad implícita tras el desempeño reciente del equipo. El monto colocado sugiere convicción direccional, con un edge estimado que justifica la entrada antes de que el precio se corrija. Riesgo: volumen de mercado no reportado, posible iliquidez en momentos de alta volatilidad."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9920314.980329007,
+   "volumen": 9920314.980328988,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -67,6 +88,16 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
+   "question": "Tampa Bay Rays vs. Baltimore Orioles",
+   "slug": "mlb-tb-bal-2026-08-22",
+   "yes": 0.335,
+   "no": 0.665,
+   "volumen": 982502.9160820005,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Tampa Bay Rays vs. Baltimore Orioles"
+  },
+  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.0595,
@@ -81,7 +112,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99926.87053500001,
+   "volumen": 99926.870535,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -91,7 +122,7 @@
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
    "yes": 0.3425,
    "no": 0.6575,
-   "volumen": 99476.19220500001,
+   "volumen": 99476.19220500003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -99,8 +130,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -111,7 +142,7 @@
    "slug": "elon-musk-of-tweets-august-18-august-25-480-499",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 99216.505217,
+   "volumen": 99266.505217,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Publicará Elon Musk entre 480 y 499 tuits del 18 de agosto al 25 de agosto de 2026?"
@@ -119,8 +150,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -131,7 +162,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.330583,
+   "volumen": 98925.33058299999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -141,7 +172,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294600003,
+   "volumen": 98868.56294599998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -171,16 +202,26 @@
    "slug": "will-indiana-fever-win-the-2026-wnba-finals-186",
    "yes": 0.155,
    "no": 0.845,
-   "volumen": 98395.10386199997,
+   "volumen": 98395.10386199999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Indiana Fever las Finales de la WNBA 2026?"
   },
   {
+   "question": "Cincinnati Reds vs. Arizona Diamondbacks",
+   "slug": "mlb-cin-ari-2026-08-22",
+   "yes": 0.925,
+   "no": 0.075,
+   "volumen": 98252.77430199993,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Cincinnati Reds vs. Arizona Diamondbacks"
+  },
+  {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
    "slug": "bra-cru-fla-2026-08-22-corners-total-9pt5",
-   "yes": 0.005,
-   "no": 0.995,
+   "yes": 0.5,
+   "no": 0.5,
    "volumen": 9992.713088999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -189,12 +230,22 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.0525,
+   "no": 0.9475,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
+  },
+  {
+   "question": "Orlando City SC vs. Real Salt Lake: O/U 3.5",
+   "slug": "mls-orl-rsl-2026-08-22-total-3pt5",
+   "yes": 0.2,
+   "no": 0.8,
+   "volumen": 9988.458222,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Orlando City SC vs. Real Salt Lake: Más/Menos 3.5"
   },
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
@@ -215,6 +266,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
+  },
+  {
+   "question": "Will Vancouver Whitecaps FC vs. FC Dallas end in a draw?",
+   "slug": "mls-vwh-dal-2026-08-22-draw",
+   "yes": 0.175,
+   "no": 0.825,
+   "volumen": 9976.138742,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Terminará en empate Vancouver Whitecaps FC vs. FC Dallas?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -245,46 +306,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
-   "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
-   "yes": 0.055,
-   "no": 0.945,
-   "volumen": 9950.163697,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
-  },
-  {
-   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
-   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.0045,
-   "no": 0.9955,
-   "volumen": 9946.699383,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
-   "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
-   "yes": 0.014,
-   "no": 0.986,
-   "volumen": 9945.917349,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
-  },
-  {
-   "question": "Will the Ornn B200 Index be between $6.50 and $7.00 on August 31, 2026?",
-   "slug": "will-the-ornn-b200-index-be-between-6pt50-and-7pt00-on-august-31-2026-1785423806595",
-   "yes": 0.3935,
-   "no": 0.6065,
-   "volumen": 9933.483417,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Estará el índice Ornn B200 entre $6.50 y $7.00 el 31 de agosto de 2026?"
   }
  ],
  "historico": {
