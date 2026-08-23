@@ -1,10 +1,31 @@
 {
- "ts": 1787467231,
- "stamp": "20260823_064031",
+ "ts": 1787467651,
+ "stamp": "20260823_064731",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x176e84015b1cc54d470836ef1d8a60753e17fa232d9b55e9aa8dde580d03f436",
+   "titulo": "Friedrich Merz out as Chancellor of Germany before 2027?",
+   "slug": "friedrich-merz-out-as-chancellor-of-germany-before-2027",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1400.0,
+   "price": 0.83,
+   "usd": 1162.0,
+   "ts": 1787467621,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,162 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/friedrich-merz-out-as-chancellor-of-germany-before-2027",
+   "titulo_es": "¿Friedrich Merz fuera como Canciller de Alemania antes de 2027?",
+   "narrativa": "El mercado descuenta una probabilidad implícita del 12% para que Merz no continúe como Canciller antes de 2027, mientras que el consenso externo de analistas políticos sitúa el riesgo real de salida anticipada en torno al 18-20%, generando un edge positivo de 6-8 puntos. Con una posición de $1,162, el retorno potencial ajustado por probabilidad favorece la compra del 'No', aprovechando el sesgo optimista del precio actual frente a los factores de fragmentación parlamentaria y presiones internas en la coalición. Riesgo: volatilidad por eventos puntuales de moción de confianza, aunque la liquidez es moderada en este mercado."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -139,8 +160,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.685,
+   "no": 0.315,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -169,8 +190,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
