@@ -1,6 +1,6 @@
 {
- "ts": 1787443886,
- "stamp": "20260823_001126",
+ "ts": 1787444306,
+ "stamp": "20260823_001826",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -99,8 +99,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0595,
-   "no": 0.9405,
+   "yes": 0.0605,
+   "no": 0.9395,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -119,8 +119,8 @@
   {
    "question": "Chicago Cubs vs. Seattle Mariners",
    "slug": "mlb-chc-sea-2026-08-22",
-   "yes": 0.395,
-   "no": 0.605,
+   "yes": 0.315,
+   "no": 0.685,
    "volumen": 99616.14142699998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -139,8 +139,8 @@
   {
    "question": "0 ships transit Hormuz on any date by August 31?",
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
-   "yes": 0.3555,
-   "no": 0.6445,
+   "yes": 0.341,
+   "no": 0.659,
    "volumen": 99349.49220500002,
    "spread": 0.0,
    "categoria": "Otros",
@@ -209,8 +209,8 @@
   {
    "question": "San Francisco Giants vs. Boston Red Sox",
    "slug": "mlb-sf-bos-2026-08-22",
-   "yes": 0.615,
-   "no": 0.385,
+   "yes": 0.625,
+   "no": 0.375,
    "volumen": 98225.75216899997,
    "spread": 0.0,
    "categoria": "Otros",
@@ -227,16 +227,6 @@
    "question_es": "¿Publicará Elon Musk entre 760 y 779 tuits en agosto de 2026?"
   },
   {
-   "question": "Will Kansas City Current win on 2026-08-22?",
-   "slug": "nwsl-kcc-rei-2026-08-22-kcc",
-   "yes": 0.345,
-   "no": 0.655,
-   "volumen": 9993.113057,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará Kansas City Current el 22-08-2026?"
-  },
-  {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
    "slug": "bra-cru-fla-2026-08-22-corners-total-9pt5",
    "yes": 0.5,
@@ -249,8 +239,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0505,
-   "no": 0.9495,
+   "yes": 0.05,
+   "no": 0.95,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -289,8 +279,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.63,
-   "no": 0.37,
+   "yes": 0.635,
+   "no": 0.365,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -315,6 +305,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.0045,
+   "no": 0.9955,
+   "volumen": 9946.699383,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
