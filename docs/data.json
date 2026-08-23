@@ -1,6 +1,6 @@
 {
- "ts": 1787486556,
- "stamp": "20260823_120236",
+ "ts": 1787486976,
+ "stamp": "20260823_120936",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.350329004,
+   "volumen": 9921416.350328995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -55,16 +55,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
-  },
-  {
-   "question": "LoL: Hanwha Life Esports vs T1 - Game 2 Winner",
-   "slug": "lol-hle1-t1-2026-08-23-game2",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 989903.9413970003,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: Hanwha Life Esports vs T1 - Ganador del Juego 2"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -89,8 +79,8 @@
   {
    "question": "US obtains Iranian enriched uranium by September 30?",
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
-   "yes": 0.0165,
-   "no": 0.9835,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 99524.95528600001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -141,7 +131,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98621.971909,
+   "volumen": 98621.97190899997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -151,7 +141,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.004,
    "no": 0.996,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.056978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -161,7 +151,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.695,
    "no": 0.305,
-   "volumen": 98417.74661799999,
+   "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -179,22 +169,12 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.0505,
+   "no": 0.9495,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
-  },
-  {
-   "question": "Will Manchester City FC vs. AFC Bournemouth end in a draw?",
-   "slug": "epl-mac-bou-2026-08-23-draw",
-   "yes": 0.195,
-   "no": 0.805,
-   "volumen": 9987.932438999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Terminará en empate el partido Manchester City FC vs. AFC Bournemouth?"
   },
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
@@ -211,17 +191,27 @@
    "slug": "crint-lka-ind-2026-08-23-draw",
    "yes": 0.195,
    "no": 0.805,
-   "volumen": 9986.559657000005,
+   "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
+  },
+  {
+   "question": "Will the highest temperature in Munich be 22°C on August 23?",
+   "slug": "highest-temperature-in-munich-on-august-23-2026-22c",
+   "yes": 0.24,
+   "no": 0.76,
+   "volumen": 9984.541859999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Múnich de 22°C el 23 de agosto?"
   },
   {
    "question": "Will the Republicans win the South Carolina governor race in 2026?",
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999999,
+   "volumen": 9982.721728999995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -241,7 +231,7 @@
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
    "yes": 0.765,
    "no": 0.235,
-   "volumen": 9972.062130999999,
+   "volumen": 9972.062131,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Apple la segunda empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -275,6 +265,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Darline Graham Nordone en el condado de Horry en la segunda vuelta de las primarias especiales al Senado de Carolina del Sur?"
+  },
+  {
+   "question": "Will the highest temperature in New York City be between 82-83°F on August 23?",
+   "slug": "highest-temperature-in-nyc-on-august-23-2026-82-83f",
+   "yes": 0.485,
+   "no": 0.515,
+   "volumen": 9957.132140000002,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 82-83°F el 23 de agosto?"
   },
   {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
