@@ -1,49 +1,29 @@
 {
- "ts": 1787458649,
- "stamp": "20260823_041729",
+ "ts": 1787459069,
+ "stamp": "20260823_042429",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xac3d2326e387c2306d63c323535f2a593dca0389c04d9f920e517c9accc5f081",
-   "titulo": "Cowboys vs. Cardinals",
-   "slug": "nfl-dal-ari-2026-08-23",
-   "outcome": "Cowboys",
+   "market_id": "0xbd4caa8f7916cbae0f4b25a276cd4bf87db7146c7f86e84237b8402baf22e03c",
+   "titulo": "Will TEAM VISION Win The International 2026?",
+   "slug": "will-team-vision-win-the-international-2026-20260629212053622",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 5102.0408,
-   "price": 0.98,
-   "usd": 5000.0,
-   "ts": 1787458620,
+   "size": 12025.645481,
+   "price": 0.6139986423,
+   "usd": 7383.73,
+   "ts": 1787458914,
    "categoria": "Otros",
-   "prob": 59,
+   "prob": 63,
    "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $5,000 en 'Cowboys'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/nfl-dal-ari-2026-08-23",
-   "titulo_es": "Cowboys contra Cardinals",
-   "narrativa": "La compra de 5,000 USD sobre los Cowboys refleja una apuesta institucional significativa que, al carecer de volumen de mercado reportado, sugiere una posible ineficiencia en la fijación de precios. Este flujo de capital concentrado puede indicar información privilegiada o un fuerte sesgo de consenso externo a favor del equipo local, generando un edge potencial si el mercado aún no ha ajustado la probabilidad implícita. Riesgo: la falta de liquidez podría amplificar el impacto de la orden en el precio de salida."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xa61ab6f60dc73eb51e9a349a06fabc7a7929e5c578a9f84ae68ad53cc35e29c4",
-   "titulo": "Los Angeles FC vs. Portland Timbers: O/U 2.5",
-   "slug": "mls-laf-por-2026-08-22-total-2pt5",
-   "outcome": "Under",
-   "side": "BUY",
-   "size": 3995.972,
-   "price": 0.8471030328,
-   "usd": 3385.0,
-   "ts": 1787458618,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,385 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mls-laf-por-2026-08-22-total-2pt5",
-   "titulo_es": "Los Angeles FC vs. Portland Timbers: Más/Menos 2.5",
-   "narrativa": "La apuesta de 3,385 USD al Under en el partido de LAFC contra Portland se alinea con la tendencia histórica de encuentros con pocos goles entre estos equipos, y el monto elevado sugiere una convicción clara frente al consenso externo que podría favorecer el Over. Este movimiento de ballena, en un mercado sin volumen reportado, puede representar una oportunidad si el precio actual no refleja plenamente la probabilidad de un marcador bajo, ofreciendo un edge de valor positivo. Riesgo: la volatilidad de los equipos en ataque puede desviar el resultado en los minutos finales."
+   "razon": "Trade de compra por $7,384 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-team-vision-win-the-international-2026-20260629212053622",
+   "titulo_es": "¿Ganará TEAM VISION The International 2026?",
+   "narrativa": "La compra de 'Yes' en TEAM VISION para The International 2026 refleja una apuesta de 7,383 USD, un monto significativo que sugiere convicción institucional o de alto perfil en un mercado con volumen no reportado. Este tamaño de posición, en ausencia de consenso externo claro, indica que el comprador percibe un edge por información o análisis propio, lo que puede anticipar movimientos de precio a medida que se acerque el evento. Riesgo: la falta de datos de volumen de mercado limita la confirmación de liquidez, lo que podría amplificar la volatilidad en caso de salida."
   }
  ],
  "edges": [
@@ -152,7 +132,7 @@
    "slug": "another-gta-vi-trailer-released-by-august-31-20260629164610050",
    "yes": 0.315,
    "no": 0.685,
-   "volumen": 99932.93114000002,
+   "volumen": 99932.93114,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se lanzará otro tráiler de GTA VI antes del 31 de agosto?"
@@ -168,16 +148,6 @@
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
   },
   {
-   "question": "Will CF Cruz Azul win on 2026-08-22?",
-   "slug": "mex-caz-atl-2026-08-22-caz",
-   "yes": 0.085,
-   "no": 0.915,
-   "volumen": 99486.46505699996,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará CF Cruz Azul el 2026-08-22?"
-  },
-  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.15,
@@ -190,8 +160,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99057.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -202,7 +172,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98925.33058299999,
+   "volumen": 98925.33058300002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -212,7 +182,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 98868.56294600003,
+   "volumen": 98868.56294599996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -242,7 +212,7 @@
    "slug": "us-announces-end-of-iranian-blockade-by-september-7-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 98157.43687,
+   "volumen": 98157.43686999999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿EE. UU. anuncia el fin del bloqueo iraní para el 7 de septiembre de 2026?"
@@ -260,8 +230,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.0515,
-   "no": 0.9485,
+   "yes": 0.051,
+   "no": 0.949,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -296,16 +266,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
-  },
-  {
-   "question": "Ethereum Up or Down on August 23?",
-   "slug": "ethereum-up-or-down-on-august-23-2026",
-   "yes": 0.535,
-   "no": 0.465,
-   "volumen": 9973.972372999997,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Ethereum sube o baja el 23 de agosto?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -356,6 +316,26 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.0045,
+   "no": 0.9955,
+   "volumen": 9946.699383,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will the Rhine River return to normal levels between October 1 and October 31, 2026?",
+   "slug": "will-the-rhine-river-return-to-normal-levels-between-october-1-and-october-31-2026-20260810225829401",
+   "yes": 0.0125,
+   "no": 0.9875,
+   "volumen": 9945.917349,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Volverá el río Rin a niveles normales entre el 1 de octubre y el 31 de octubre de 2026?"
   }
  ],
  "historico": {
