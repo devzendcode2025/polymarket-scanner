@@ -1,31 +1,10 @@
 {
- "ts": 1787503359,
- "stamp": "20260823_164239",
+ "ts": 1787503719,
+ "stamp": "20260823_164839",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xd05396a0b40ea21dfdcbde2403c898fd02f19a8521c64ddefce97e83da795dcc",
-   "titulo": "Will FC Barcelona win on 2026-08-23?",
-   "slug": "lal-elc-bar-2026-08-23-bar",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 2423.0,
-   "price": 0.73,
-   "usd": 1768.79,
-   "ts": 1787503344,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,769 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-elc-bar-2026-08-23-bar",
-   "titulo_es": "¿Ganará el FC Barcelona el 2026-08-23?",
-   "narrativa": "La compra de 'Yes' en el FC Barcelona para el 23-ago-2026 refleja una apuesta direccional con $1,768.79, un monto que sugiere convicción moderada en un mercado sin volumen reportado, lo que podría indicar una oportunidad de entrar antes de que se consolide la liquidez. El edge real está en la ausencia de consenso externo claro, permitiendo capturar valor si el mercado aún no ha descontado el calendario competitivo del club. Riesgo: la falta de volumen de mercado puede ampliar el deslizamiento y dificultar la salida."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -122,7 +101,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.350329008,
+   "volumen": 9921816.350329002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -132,7 +111,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993572.81829,
+   "volumen": 993572.8182899997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -158,11 +137,21 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
+   "question": "Newcastle United FC vs. Liverpool FC: O/U 2.5",
+   "slug": "epl-new-liv-2026-08-23-total-2pt5",
+   "yes": 0.995,
+   "no": 0.005,
+   "volumen": 99652.61303800008,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Newcastle United FC vs. Liverpool FC: Más/Menos 2.5"
+  },
+  {
    "question": "US obtains Iranian enriched uranium by September 30?",
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99524.955286,
+   "volumen": 99524.95528600001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -170,8 +159,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -248,16 +237,6 @@
    "question_es": "Cruzeiro EC vs. CR Flamengo: Más/Menos 9.5 Córneres Totales"
   },
   {
-   "question": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season",
-   "slug": "lol-dsg-sen-2026-08-23",
-   "yes": 0.215,
-   "no": 0.785,
-   "volumen": 9990.378001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: Disguised vs Sentinels (BO3) - Temporada Regular de la LCS"
-  },
-  {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0825,
@@ -270,8 +249,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.205,
-   "no": 0.795,
+   "yes": 0.2,
+   "no": 0.8,
    "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -362,7 +341,7 @@
    "slug": "situational-awareness-anthropic-sale-confirmed-by-august-31-20260730182057663",
    "yes": 0.025,
    "no": 0.975,
-   "volumen": 9918.953201,
+   "volumen": 9918.953201000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Se confirma la venta de Anthropic por conciencia situacional antes del 31 de agosto?"
