@@ -1,29 +1,29 @@
 {
- "ts": 1787508160,
- "stamp": "20260823_180240",
+ "ts": 1787508521,
+ "stamp": "20260823_180841",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x0e4df84e0be9d2f3f3727bb7954c7e045b527b684eaf7f9bf6d3a7fcde2c4164",
-   "titulo": "Tampa Bay Rays vs. Baltimore Orioles",
-   "slug": "mlb-tb-bal-2026-08-23",
-   "outcome": "Baltimore Orioles",
+   "market_id": "0x03155335301ac565b5689511afaa9ea68a0000000000000000000000000000",
+   "titulo": "Game Handicap: FLY (-1.5) vs Dignitas (+1.5) AND Game Handicap: SEN (-1.5) vs Disguised (+1.5)",
+   "slug": "",
+   "outcome": "",
    "side": "BUY",
-   "size": 8844.15,
-   "price": 0.54,
-   "usd": 4775.84,
-   "ts": 1787507854,
-   "categoria": "Otros",
-   "prob": 59,
+   "size": 14035.541612,
+   "price": 0.2826738875,
+   "usd": 3967.48,
+   "ts": 1787508153,
+   "categoria": "Deportes",
+   "prob": 57,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $4,776 en 'Baltimore Orioles'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-tb-bal-2026-08-23",
-   "titulo_es": "Tampa Bay Rays vs. Baltimore Orioles",
-   "narrativa": "La compra de 4,775.84 USD en Baltimore Orioles refleja una apuesta institucional clara contra el consenso del mercado, que suele favorecer a Tampa Bay en este enfrentamiento. Este flujo de capital, aunque moderado, busca capitalizar una posible corrección en las probabilidades implícitas si el público ajusta su percepción tras los últimos resultados de los Orioles. El edge estimado es positivo si el modelo interno del comprador supera al precio actual, aunque la falta de datos de volumen total limita la confirmación de profundidad. Riesgo: liquidez media-baja en este mercado específico, lo que puede ampliar el deslizamiento."
+   "razon": "Trade de compra por $3,967 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "Hándicap del juego: FLY (-1.5) vs Dignitas (+1.5) Y Hándicap del juego: SEN (-1.5) vs Disguised (+1.5)",
+   "narrativa": "El mercado combina dos hándicaps de -1.5 en equipos favoritos (FLY y SEN), lo que sugiere una correlación positiva entre ambos resultados. Con un monto de $3,967.48, la operación busca capturar el valor implícito en la doble condición, donde el consenso externo favorece a ambos equipos por margen amplio. El edge se materializa si la probabilidad conjunta de victorias por 2+ juegos supera el precio combinado actual. Riesgo: alta dependencia de la forma temprana de los equipos y posible volatilidad en mapas decisivos."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921840.850328993,
+   "volumen": 9921840.850328997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -102,7 +102,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.016,
    "no": 0.984,
-   "volumen": 99524.95528600003,
+   "volumen": 99524.95528600001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -162,7 +162,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0035,
    "no": 0.9965,
-   "volumen": 98536.05697800001,
+   "volumen": 98536.056978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -172,7 +172,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.695,
    "no": 0.305,
-   "volumen": 98417.74661799999,
+   "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -200,8 +200,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.205,
-   "no": 0.795,
+   "yes": 0.2,
+   "no": 0.8,
    "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -270,8 +270,8 @@
   {
    "question": "KA Akureyri vs. KR Reykjavik: O/U 1.5",
    "slug": "isl1-aku-krr-2026-08-23-total-1pt5",
-   "yes": 0.9995,
-   "no": 0.0005,
+   "yes": 0.9975,
+   "no": 0.0025,
    "volumen": 9942.99171,
    "spread": 0.0,
    "categoria": "Otros",
@@ -282,7 +282,7 @@
    "slug": "will-ernest-harden-jrpt-the-pitt-win-emmys-2026-outstanding-guest-actor-in-a-drama-series-20260709174234067",
    "yes": 0.102,
    "no": 0.898,
-   "volumen": 9942.009263,
+   "volumen": 9942.009263000002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Ernest Harden Jr. – “The Pitt” los Emmys 2026: Mejor actor invitado en una serie dramática?"
@@ -302,14 +302,14 @@
    "slug": "will-patrick-roath-be-the-democratic-nominee-for-ma-08",
    "yes": 0.57,
    "no": 0.43,
-   "volumen": 9923.376661,
+   "volumen": 9923.376660999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Patrick Roath el nominado demócrata para MA-08?"
   }
  ],
  "historico": {
-  "ts": 1787506679,
+  "ts": 1787508601,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
