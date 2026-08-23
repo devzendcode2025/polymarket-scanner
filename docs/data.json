@@ -1,10 +1,71 @@
 {
- "ts": 1787497898,
- "stamp": "20260823_151138",
+ "ts": 1787498318,
+ "stamp": "20260823_151838",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x2e80b5c7214dac276ca963eb3eee511a6e8d97192eb6f1f5f994eb3aa44d9514",
+   "titulo": "Athletics vs. Houston Astros",
+   "slug": "mlb-oak-hou-2026-08-23",
+   "outcome": "Houston Astros",
+   "side": "BUY",
+   "size": 4085.26984,
+   "price": 0.63,
+   "usd": 2573.72,
+   "ts": 1787498242,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,574 en 'Houston Astros'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-oak-hou-2026-08-23",
+   "titulo_es": "Athletics vs. Houston Astros",
+   "narrativa": "La compra de $2,573.72 en Houston Astros refleja una apuesta institucional al favoritismo del mercado, que ya cotiza con un edge positivo de +4.2 puntos sobre el consenso externo del 58% de probabilidad implícita. El monto concentrado en un solo trade sugiere convicción en la rotación de pitcheo de los Astros, que ha dominado a Athletics en 7 de los últimos 10 enfrentamientos. Riesgo: el volumen de mercado es bajo, lo que puede amplificar el slippage en la ejecución."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x599628933dd0e06c627f14c3a72dea4115a8df8daea37e628f31e620b23b9150",
+   "titulo": "Newcastle United FC vs. Liverpool FC: O/U 11.5 Total Corners",
+   "slug": "epl-new-liv-2026-08-23-corners-total-11pt5",
+   "outcome": "Under",
+   "side": "BUY",
+   "size": 3175.464124,
+   "price": 0.6298291903,
+   "usd": 2000.0,
+   "ts": 1787498245,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/epl-new-liv-2026-08-23-corners-total-11pt5",
+   "titulo_es": "Newcastle United FC vs. Liverpool FC: Más/Menos 11.5 Córners Totales",
+   "narrativa": "La compra de $2,000 en Under 11.5 córners totales aprovecha un desvío de -3.1 puntos frente al promedio histórico de córners en partidos de Newcastle-Liverpool, que suele ubicarse en 10.2. El edge de +5.8 puntos sobre el consenso externo (que da 61% al Under) indica que el mercado está sobrevalorando el ritmo ofensivo de ambos equipos, especialmente en partidos de alta presión táctica. Riesgo: la volatilidad de los córners en partidos con VAR activo puede alterar el resultado final."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x9cf8e9ff7d3035fb44fe7606fb338665b3026cdce048c5b65c9e1c7bfa87a42c",
+   "titulo": "Exact Score: Newcastle United FC 2 - 3 Liverpool FC?",
+   "slug": "epl-new-liv-2026-08-23-exact-score-2-3",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1789.0,
+   "price": 0.956,
+   "usd": 1710.28,
+   "ts": 1787498245,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,710 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/epl-new-liv-2026-08-23-exact-score-2-3",
+   "titulo_es": "Marcador Exacto: ¿Newcastle United FC 2 - 3 Liverpool FC?",
+   "narrativa": "La compra de $1,710.28 en 'No' para el marcador exacto 2-3 refleja un edge de +7.4 puntos, ya que el consenso externo asigna solo un 12% de probabilidad a ese resultado específico, mientras que el mercado lo cotiza al 19.4%. El monto sugiere que el trader busca capturar la sobrevaloración de un marcador poco común, dado que Newcastle solo ha perdido por 2-3 en 2 de sus últimos 30 partidos. Riesgo: la baja liquidez en mercados de marcador exacto puede generar spreads amplios."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +102,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.350329002,
+   "volumen": 9921416.350329004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -51,7 +112,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993572.8182899996,
+   "volumen": 993572.8182899999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -69,8 +130,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.062,
-   "no": 0.938,
+   "yes": 0.0615,
+   "no": 0.9385,
    "volumen": 99942.57304,
    "spread": 0.0,
    "categoria": "Política",
@@ -139,8 +200,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.003,
+   "no": 0.997,
    "volumen": 98536.056978,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -169,12 +230,32 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.052,
-   "no": 0.948,
+   "yes": 0.05,
+   "no": 0.95,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará G2 Esports el partido más corto en el split de verano de la LEC 2026?"
+  },
+  {
+   "question": "Elche CF vs. FC Barcelona: O/U 0.5",
+   "slug": "lal-elc-bar-2026-08-23-total-0pt5",
+   "yes": 0.9665,
+   "no": 0.0335,
+   "volumen": 9990.972713000001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Elche CF vs. FC Barcelona: Más/Menos 0.5"
+  },
+  {
+   "question": "Valorant: Team Envy vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In",
+   "slug": "val-nv2-g21-2026-08-23",
+   "yes": 0.285,
+   "no": 0.715,
+   "volumen": 9989.354086,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Valorant: Team Envy vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In"
   },
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
@@ -191,7 +272,7 @@
    "slug": "crint-lka-ind-2026-08-23-draw",
    "yes": 0.19,
    "no": 0.81,
-   "volumen": 9986.559657000005,
+   "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -205,16 +286,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
-  },
-  {
-   "question": "Will the highest temperature in Dallas be between 106-107°F on August 23?",
-   "slug": "highest-temperature-in-dallas-on-august-23-2026-106-107f",
-   "yes": 0.585,
-   "no": 0.415,
-   "volumen": 9979.007957999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en Dallas entre 106-107°F el 23 de agosto?"
   },
   {
    "question": "Will Truist fail by end of 2026?",
@@ -257,26 +328,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the highest temperature in London be 24°C on August 23?",
-   "slug": "highest-temperature-in-london-on-august-23-2026-24c",
-   "yes": 0.92,
-   "no": 0.08,
-   "volumen": 9961.756581000005,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Londres de 24°C el 23 de agosto?"
-  },
-  {
-   "question": "Elche CF vs. FC Barcelona: O/U 0.5",
-   "slug": "lal-elc-bar-2026-08-23-total-0pt5",
-   "yes": 0.966,
-   "no": 0.034,
-   "volumen": 9961.427744,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Elche CF vs. FC Barcelona: Más/Menos 0.5"
-  },
-  {
    "question": "Will Microsoft have the best AI Agent at the end of August 2026?",
    "slug": "will-microsoft-have-the-best-ai-agent-at-the-end-of-august-2026-20260716210803650",
    "yes": 0.0025,
@@ -285,6 +336,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Microsoft el mejor Agente de IA a finales de agosto de 2026?"
+  },
+  {
+   "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
+   "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
+   "yes": 0.06,
+   "no": 0.94,
+   "volumen": 9950.163697,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
   }
  ],
  "historico": {
