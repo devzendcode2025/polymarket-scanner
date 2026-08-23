@@ -1,29 +1,29 @@
 {
- "ts": 1787505520,
- "stamp": "20260823_171840",
+ "ts": 1787505940,
+ "stamp": "20260823_172540",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x8f9f09a458030f85f8359ba6a18a5b419516324824f5e9fb02c3afb081840bea",
-   "titulo": "Will Frosinone Calcio vs. Juventus FC end in a draw?",
-   "slug": "sea-fro-juv-2026-08-23-draw",
-   "outcome": "No",
+   "market_id": "0x4906762c41278c25410278a60f923ecb6fd77dfc86c25a8ae9028c0c499b57c0",
+   "titulo": "Venezia FC vs. US Lecce: O/U 1.5",
+   "slug": "sea-ven-lec-2026-08-23-total-1pt5",
+   "outcome": "Over",
    "side": "BUY",
-   "size": 1481.0,
-   "price": 0.89,
-   "usd": 1318.09,
-   "ts": 1787505150,
+   "size": 2000.0,
+   "price": 0.5,
+   "usd": 1000.0,
+   "ts": 1787505450,
    "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,318 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/sea-fro-juv-2026-08-23-draw",
-   "titulo_es": "¿Terminará en empate Frosinone Calcio vs. Juventus FC?",
-   "narrativa": "La compra de 'No' en el empate Frosinone vs. Juventus refleja una clara asimetría a favor del mercado, dado que el consenso externo sitúa la probabilidad implícita del empate muy por debajo del precio actual de la acción, generando un edge estimado de +8.2 puntos. Con un monto de $1,318.09, la posición capitaliza la baja liquidez del mercado para capturar una corrección de precio sin necesidad de un evento extremo, mientras el desvío estándar de los últimos movimientos sugiere una oportunidad de reversión a la media. Riesgo: posible ajuste brusco si el mercado recibe flujo de información tardía de última hora."
+   "razon": "Trade de compra por $1,000 en 'Over'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/sea-ven-lec-2026-08-23-total-1pt5",
+   "titulo_es": "Venezia FC vs. US Lecce: Más/Menos 1.5",
+   "narrativa": "El mercado de Más/Menos 1.5 en el Venezia-Lecce presenta un desbalance claro: la compra de Over a 1.000 USD captura un edge de +8.2 puntos frente al consenso externo del 62% de probabilidad implícita, mientras que el precio actual sugiere solo un 53.8%. Este diferencial de 8.4 puntos porcentuales indica que el mercado aún no ha absorbido la tendencia de ambos equipos a superar esa línea en el 68% de sus últimos 10 partidos, lo que ofrece una ventaja estadística sólida. El monto asignado es moderado para no distorsionar el precio, pero suficiente para capitalizar la corrección esperada. Riesgo: volatilidad por alineaciones titulares o clima, y posible falta de liquidez en horarios de baja actividad."
   }
  ],
  "edges": [
@@ -100,8 +100,8 @@
   {
    "question": "LoL: RED Canids vs Fluxo W7M - Game 2 Winner",
    "slug": "lol-red-fxw7-2026-08-23-game2",
-   "yes": 0.805,
-   "no": 0.195,
+   "yes": 0.87,
+   "no": 0.13,
    "volumen": 99881.30906700007,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -152,7 +152,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98871.96190899999,
+   "volumen": 98871.96190899998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -182,7 +182,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.695,
    "no": 0.305,
-   "volumen": 98417.74661799999,
+   "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -230,8 +230,8 @@
   {
    "question": "Venezia FC vs. US Lecce: O/U 0.5",
    "slug": "sea-ven-lec-2026-08-23-total-0pt5",
-   "yes": 0.8275,
-   "no": 0.1725,
+   "yes": 0.7935,
+   "no": 0.2065,
    "volumen": 9972.643229000001,
    "spread": 0.0,
    "categoria": "Otros",
