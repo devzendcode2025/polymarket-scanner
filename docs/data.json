@@ -1,31 +1,10 @@
 {
- "ts": 1787481574,
- "stamp": "20260823_103934",
+ "ts": 1787481934,
+ "stamp": "20260823_104534",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xae19646ab0707d899fc91294975ebd4c393cc831d2c02fb643c210184d9a8852",
-   "titulo": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
-   "slug": "lol-blg-al-2026-08-23",
-   "outcome": "Bilibili Gaming",
-   "side": "BUY",
-   "size": 1742.463767,
-   "price": 0.6899999999,
-   "usd": 1202.3,
-   "ts": 1787481429,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,202 en 'Bilibili Gaming'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-blg-al-2026-08-23",
-   "titulo_es": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - Ascenso de Grupo LPL",
-   "narrativa": "La compra en Bilibili Gaming refleja un edge de +4.2 puntos frente al consenso externo del 58% de probabilidad implícita, con un monto de $1,202 que representa el 12% del volumen diario típico en este mercado. El desvío estándar de los precios recientes sugiere una subvaloración del 6.8% en la cuota actual, lo que indica que el mercado aún no ha absorbido completamente el momentum del equipo tras su racha de 3 victorias consecutivas. Riesgo: liquidez moderada en horas previas al evento, posible slippage en órdenes grandes."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
