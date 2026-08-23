@@ -1,29 +1,29 @@
 {
- "ts": 1787514162,
- "stamp": "20260823_194242",
+ "ts": 1787514642,
+ "stamp": "20260823_195042",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x04ae248b626d2c6d036d40512f2bba39788b498dfefece800b9d2fd9eee87692",
-   "titulo": "Torino FC vs. AC Milan: O/U 0.5",
-   "slug": "sea-tor-mil-2026-08-23-total-0pt5",
-   "outcome": "Under",
+   "market_id": "0x4180a80e3530fadf678c0c2d883f68dba37fdf574a6e2cd1fbbaf25c34b03ea6",
+   "titulo": "Will LØS Win the Shortest Game in CBLOL 2026 Split 2?",
+   "slug": "will-ls-win-the-shortest-game-in-cblol-2026-split-2-20260730154222560",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 21855.11,
-   "price": 0.2841678811,
-   "usd": 6210.52,
-   "ts": 1787513865,
-   "categoria": "Otros",
-   "prob": 61,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $6,211 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/sea-tor-mil-2026-08-23-total-0pt5",
-   "titulo_es": "Torino FC vs. AC Milan: Más/Menos 0.5",
-   "narrativa": "El mercado de 'Más/Menos 0.5' para Torino vs. AC Milan presenta una oportunidad de compra en 'Under' con un monto de $6,210.52, lo que indica una posición significativa frente a un volumen de mercado aún no revelado. El consenso externo sugiere que el partido tendrá baja anotación, y el edge en puntos se calcula favorablemente al comparar la probabilidad implícita del precio actual con la estimación de modelos de expectativas de goles. Esta señal aprovecha la tendencia histórica de ambos equipos a generar pocos goles en enfrentamientos directos, especialmente en contextos de liga donde el AC Milan prioriza la solidez defensiva. Riesgo: posible volatilidad si el mercado ajusta rápidamente el volumen, lo que podría reducir el edge antes de la ejecución."
+   "size": 1225.0,
+   "price": 0.82,
+   "usd": 1004.5,
+   "ts": 1787514165,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,004 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-ls-win-the-shortest-game-in-cblol-2026-split-2-20260730154222560",
+   "titulo_es": "¿Ganará LØS el partido más corto en CBLOL 2026 Split 2?",
+   "narrativa": "La compra de 'Yes' en BALLENA muestra una apuesta de $1,004.5 USD, lo que indica convicción direccional en un mercado sin volumen reportado, sugiriendo que el comprador busca capturar el edge de información temprana antes de que el consenso externo ajuste el precio. El monto, aunque moderado, es significativo frente a la posible liquidez limitada, lo que puede amplificar el movimiento si el evento se resuelve a favor. Riesgo: poca liquidez y posible deslizamiento en la ejecución de salida."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9922049.183662007,
+   "volumen": 9922049.183661997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -72,7 +72,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993792.70686,
+   "volumen": 993792.7068600002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -80,8 +80,8 @@
   {
    "question": "Will Bitcoin dip to $60,000 in August?",
    "slug": "will-bitcoin-dip-to-60k-in-august-2026",
-   "yes": 0.018,
-   "no": 0.982,
+   "yes": 0.0175,
+   "no": 0.9825,
    "volumen": 985126.3923619997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -108,6 +108,16 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
+   "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
+   "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99614.48294599996,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
+  },
+  {
    "question": "US obtains Iranian enriched uranium by September 30?",
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.016,
@@ -116,16 +126,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
-  },
-  {
-   "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
-   "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99482.05294599995,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -180,8 +180,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.7,
+   "no": 0.3,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -190,9 +190,9 @@
   {
    "question": "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?",
    "slug": "will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-24-and-27-inclusive",
-   "yes": 0.13,
-   "no": 0.87,
-   "volumen": 9999.901494,
+   "yes": 0.14,
+   "no": 0.86,
+   "volumen": 9999.901494000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará el número de miembros demócratas de la Cámara que se retiren en 2026 entre 24 y 27 inclusive?"
@@ -220,8 +220,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.21,
-   "no": 0.79,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 9986.559657000005,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -238,11 +238,21 @@
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
   },
   {
+   "question": "Torino FC vs. AC Milan: O/U 3.5",
+   "slug": "sea-tor-mil-2026-08-23-total-3pt5",
+   "yes": 0.045,
+   "no": 0.955,
+   "volumen": 9977.415483,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Torino FC vs. AC Milan: Más/Menos 3.5"
+  },
+  {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
    "yes": 0.755,
    "no": 0.245,
-   "volumen": 9972.062131,
+   "volumen": 9972.062130999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Apple la segunda empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -292,20 +302,10 @@
    "slug": "will-ernest-harden-jrpt-the-pitt-win-emmys-2026-outstanding-guest-actor-in-a-drama-series-20260709174234067",
    "yes": 0.1025,
    "no": 0.8975,
-   "volumen": 9942.009263000004,
+   "volumen": 9942.009263000002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Ernest Harden Jr. – “The Pitt” los Emmys 2026: Mejor actor invitado en una serie dramática?"
-  },
-  {
-   "question": "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?",
-   "slug": "will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9925.861829,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará David Crowley las primarias demócratas para gobernador de Wisconsin por 2-3%?"
   }
  ],
  "historico": {
