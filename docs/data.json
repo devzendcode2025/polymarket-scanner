@@ -1,51 +1,10 @@
 {
- "ts": 1787474553,
- "stamp": "20260823_084233",
+ "ts": 1787475033,
+ "stamp": "20260823_085033",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x583cd87521637756d25d2197edc8c93dcbba73c110570e080300ea7b4df23e46",
-   "titulo": "Augsburg: Kai Wehnelt vs Daniel Siniakov",
-   "slug": "atp-wehnelt-siniako-2026-08-23",
-   "outcome": "Daniel Siniakov",
-   "side": "BUY",
-   "size": 4156.1,
-   "price": 0.71,
-   "usd": 2950.83,
-   "ts": 1787474524,
-   "categoria": "Tecnología",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,951 en 'Daniel Siniakov'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-wehnelt-siniako-2026-08-23",
-   "titulo_es": "Augsburgo: Kai Wehnelt vs Daniel Siniakov",
-   "narrativa": "La compra de $2,950.83 sobre Daniel Siniakov en Augsburgo refleja una apuesta concentrada de una ballena, lo que sugiere información privilegiada o una fuerte convicción en el underdog. Aunque el volumen de mercado es nulo, el tamaño del trade representa un movimiento significativo que puede anticipar una corrección en las cuotas. Riesgo: mercado con liquidez limitada y posible falta de profundidad."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xc18a137fbede3409423f704a9f0e4e5221cf36022cec04bb34a051389c8888c3",
-   "titulo": "LoL: Hanwha Life Esports vs T1 - Game 2 Winner",
-   "slug": "lol-hle1-t1-2026-08-23-game2",
-   "outcome": "T1",
-   "side": "BUY",
-   "size": 2144.62,
-   "price": 0.48,
-   "usd": 1029.42,
-   "ts": 1787474526,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,029 en 'T1'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-hle1-t1-2026-08-23-game2",
-   "titulo_es": "LoL: Hanwha Life Esports vs T1 - Ganador del Juego 2",
-   "narrativa": "La inversión de $1,029.42 en T1 para ganar el Juego 2 contra Hanwha Life Esports indica una confianza alta en la recuperación del equipo favorito, pese a la ausencia de datos de volumen. El monto, aunque moderado, sugiere que el comprador ve un edge positivo en el precio actual, posiblemente por un ajuste táctico o alineación confirmada. Riesgo: alta volatilidad en esports y resultados impredecibles en partidas individuales."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -82,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921416.350329008,
+   "volumen": 9921416.350329,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -92,7 +51,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993501.38972,
+   "volumen": 993501.3897199996,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -122,7 +81,7 @@
    "slug": "0-ships-transit-hormuz-on-any-date-by-august-31",
    "yes": 0.3245,
    "no": 0.6755,
-   "volumen": 99715.132205,
+   "volumen": 99716.58147900003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿0 barcos transitan por Ormuz en cualquier fecha antes del 31 de agosto?"
@@ -242,7 +201,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9982.721728999999,
+   "volumen": 9982.721728999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -260,8 +219,8 @@
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
    "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862",
-   "yes": 0.76,
-   "no": 0.24,
+   "yes": 0.765,
+   "no": 0.235,
    "volumen": 9972.062131,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -270,8 +229,8 @@
   {
    "question": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
-   "yes": 0.635,
-   "no": 0.365,
+   "yes": 0.64,
+   "no": 0.36,
    "volumen": 9966.941328000003,
    "spread": 0.0,
    "categoria": "Política",
@@ -292,7 +251,7 @@
    "slug": "will-the-price-of-ethereum-be-greater-than-2300-on-august-23-2026",
    "yes": 0.982,
    "no": 0.018,
-   "volumen": 9965.084815999997,
+   "volumen": 9965.084815999999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Será el precio de Ethereum mayor que $2,300 el 23 de agosto?"
@@ -300,9 +259,9 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.185,
-   "no": 0.815,
-   "volumen": 9956.703518000002,
+   "yes": 0.21,
+   "no": 0.79,
+   "volumen": 9956.703518000004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -310,9 +269,9 @@
   {
    "question": "Will the price of Ethereum be between $2,200 and $2,300 on August 23?",
    "slug": "will-the-price-of-ethereum-be-between-2200-2300-on-august-23-2026",
-   "yes": 0.0125,
-   "no": 0.9875,
-   "volumen": 9951.908825,
+   "yes": 0.01,
+   "no": 0.99,
+   "volumen": 9951.908824999997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Ethereum entre $2,200 y $2,300 el 23 de agosto?"
@@ -329,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787472892,
+  "ts": 1787474812,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
