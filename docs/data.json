@@ -1,49 +1,49 @@
 {
- "ts": 1787509901,
- "stamp": "20260823_183141",
+ "ts": 1787510381,
+ "stamp": "20260823_183941",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3056b6aba8732edd31f07071f597f759bfdd6c72d2d517666c3b446f92c3cd57",
-   "titulo": "Venezia FC vs. US Lecce: O/U 3.5",
-   "slug": "sea-ven-lec-2026-08-23-total-3pt5",
-   "outcome": "Under",
-   "side": "SELL",
-   "size": 55266.7,
-   "price": 0.999,
-   "usd": 55211.43,
-   "ts": 1787509657,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $55,211 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/sea-ven-lec-2026-08-23-total-3pt5",
-   "titulo_es": "Venezia FC vs. US Lecce: Más/Menos 3.5",
-   "narrativa": "La venta de 'Under 3.5' en el Venezia vs. Lecce acumula una posición de $55,211, un monto considerable que refleja una convicción fuerte en un partido con bajo historial goleador. Este volumen, alineado con el consenso externo que favorece un marcador cerrado, sugiere que el precio actual del 'Over' está sobrevalorado, ofreciendo un edge favorable al vender. Riesgo: posible volatilidad si el partido se abre temprano en el marcador."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xe7b279805bf14103c970222388d8cef6d985fc469f68e6a79770a4f9554a3487",
-   "titulo": "LoL: LOS vs LOUD - Game 1 Winner",
-   "slug": "lol-los-lll-2026-08-23-game1",
-   "outcome": "LOUD",
+   "market_id": "0xf1bb30f2cb46e1656fdde56b636e8845dc09e84e221d6df96fd4bfb88d66f726",
+   "titulo": "LoL: Shifters vs Karmine Corp - Game 2 Winner",
+   "slug": "lol-shft-kc-2026-08-23-game2",
+   "outcome": "Shifters",
    "side": "BUY",
-   "size": 3081.92,
-   "price": 0.9962978922,
-   "usd": 3070.51,
-   "ts": 1787509654,
+   "size": 8725.6,
+   "price": 0.311101758,
+   "usd": 2714.55,
+   "ts": 1787509957,
    "categoria": "Deportes",
    "prob": 56,
    "confianza": "media",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,071 en 'LOUD'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-los-lll-2026-08-23-game1",
-   "titulo_es": "LoL: LOS vs LOUD - Ganador del Juego 1",
-   "narrativa": "La compra de LOUD para ganar el Juego 1 contra LOS, con una inversión de $3,070, indica una clara confianza en la superioridad temprana de LOUD, respaldada por su consistencia en fases iniciales de partidas. Este monto, aunque moderado, busca capturar un desajuste en las probabilidades implícitas, donde el mercado subestima el rendimiento inicial de LOUD. Riesgo: alta variabilidad en enfrentamientos directos previos entre ambos equipos."
+   "razon": "Trade de compra por $2,715 en 'Shifters'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-shft-kc-2026-08-23-game2",
+   "titulo_es": "LoL: Shifters vs Karmine Corp - Ganador del Juego 2",
+   "narrativa": "El flujo de 2,714.55 USD hacia Shifters en el Juego 2 refleja una convicción institucional clara, superando el volumen típico de este tipo de mercados y sugiriendo que el consenso externo subestima su probabilidad real de victoria. Este tamaño de apuesta, en un evento de alta volatilidad como un juego de LoL, indica que el comprador tiene acceso a información o modelos que el mercado aún no ha descontado, creando un edge puntual. Riesgo: la liquidez puede ser limitada en mercados de juego individual, lo que podría amplificar el deslizamiento si se busca salir rápido."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x20a01dc8d6d59e3c9ffaba0dd91e39bfd1c23a1b0b6ee26b2ccb29dade5de6f5",
+   "titulo": "Spread: Atalanta BC (-1.5)",
+   "slug": "sea-ata-sas-2026-08-23-spread-home-1pt5",
+   "outcome": "Atalanta BC",
+   "side": "BUY",
+   "size": 2500.0,
+   "price": 0.41,
+   "usd": 1025.0,
+   "ts": 1787509959,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,025 en 'Atalanta BC'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/sea-ata-sas-2026-08-23-spread-home-1pt5",
+   "titulo_es": "Margen: Atalanta BC (-1.5)",
+   "narrativa": "La compra de 1,025.00 USD en Atalanta BC (-1.5) representa una posición significativa que apuesta por una victoria por más de un gol, un escenario que el mercado general suele cotizar con un descuento excesivo cuando el equipo es favorito. Este monto, en un margen de handicap, sugiere que el comprador percibe un desvío entre la probabilidad implícita y la real, basado en la forma reciente del equipo y la debilidad defensiva del rival. El edge se materializa si el consenso externo no ha ajustado el precio tras las últimas alineaciones o dinámicas de juego. Riesgo: los márgenes de -1.5 son inherentemente más volátiles y requieren un margen de error mínimo."
   }
  ],
  "edges": [
@@ -82,7 +82,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921840.850329008,
+   "volumen": 9922049.183662007,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -130,8 +130,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -142,7 +142,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99063.70341900003,
+   "volumen": 99063.70341899998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -190,32 +190,22 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.7,
+   "no": 0.3,
    "volumen": 98417.746618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
-   "question": "St. Louis Cardinals vs. Philadelphia Phillies",
-   "slug": "mlb-stl-phi-2026-08-23",
-   "yes": 0.675,
-   "no": 0.325,
-   "volumen": 98269.25295499989,
+   "question": "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?",
+   "slug": "will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-24-and-27-inclusive",
+   "yes": 0.15,
+   "no": 0.85,
+   "volumen": 9999.901494000002,
    "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "St. Louis Cardinals vs. Philadelphia Phillies"
-  },
-  {
-   "question": "Will OpenAI be the second-best AI Agent Lab at the end of September 2026?",
-   "slug": "will-openai-be-the-second-best-ai-agent-lab-at-the-end-of-september-2026-20260812152638619",
-   "yes": 0.27,
-   "no": 0.73,
-   "volumen": 9996.260328,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será OpenAI el segundo mejor laboratorio de agentes de IA a finales de septiembre de 2026?"
+   "categoria": "Política",
+   "question_es": "¿Estará el número de miembros demócratas de la Cámara que se retiren en 2026 entre 24 y 27 inclusive?"
   },
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
@@ -240,9 +230,9 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.2,
-   "no": 0.8,
-   "volumen": 9986.559657000003,
+   "yes": 0.205,
+   "no": 0.795,
+   "volumen": 9986.559657000005,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -272,7 +262,7 @@
    "slug": "will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election",
    "yes": 0.635,
    "no": 0.365,
-   "volumen": 9966.941328000003,
+   "volumen": 9966.941327999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Estará Raphaël Glucksmann en la boleta para las elecciones presidenciales francesas de 2027?"
@@ -286,6 +276,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will CD Castellón win on 2026-08-23?",
+   "slug": "es2-cas-sab-2026-08-23-cas",
+   "yes": 0.26,
+   "no": 0.74,
+   "volumen": 9964.413555,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará el CD Castellón el 2026-08-23?"
   },
   {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
@@ -320,8 +320,8 @@
   {
    "question": "Will Ernest Harden Jr. – “The Pitt” win Emmys 2026: Outstanding guest actor in a drama series?",
    "slug": "will-ernest-harden-jrpt-the-pitt-win-emmys-2026-outstanding-guest-actor-in-a-drama-series-20260709174234067",
-   "yes": 0.102,
-   "no": 0.898,
+   "yes": 0.1025,
+   "no": 0.8975,
    "volumen": 9942.009263000002,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -329,7 +329,7 @@
   }
  ],
  "historico": {
-  "ts": 1787508601,
+  "ts": 1787510480,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
