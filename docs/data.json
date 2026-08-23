@@ -1,32 +1,40 @@
 {
- "ts": 1787494177,
- "stamp": "20260823_140937",
+ "ts": 1787494537,
+ "stamp": "20260823_141537",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
+ "ballenas_scan": [],
+ "edges": [
   {
-   "tipo": "ballena",
-   "market_id": "0x4374fa01069ddb91979078b7582088652a0d17f4926571b3cc9df6ad4e47901c",
-   "titulo": "Valorant: Enterprise Esports vs Team Liquid - Map 1 Winner",
-   "slug": "val-ep1-tl1-2026-08-23-game1",
-   "outcome": "Enterprise Esports",
-   "side": "BUY",
-   "size": 2000.0,
-   "price": 0.5,
-   "usd": 1000.0,
-   "ts": 1787494042,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,000 en 'Enterprise Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/val-ep1-tl1-2026-08-23-game1",
-   "titulo_es": "Valorant: Enterprise Esports vs Team Liquid - Ganador del Mapa 1",
-   "narrativa": "La compra en Enterprise Esports para el Mapa 1 de Valorant muestra un edge positivo frente al consenso externo, que ubica a Team Liquid como favorito por historial, pero el mercado no ha ajustado el precio por la forma reciente del equipo. Con un monto de $1,000 y un volumen de mercado no reportado, la oportunidad radica en capitalizar la posible infravaloración de Enterprise en un escenario de mapa específico, donde el desvío entre la probabilidad implícita y la real estimada supera los 5 puntos. Riesgo: liquidez limitada en mercados de mapa individual, lo que puede ampliar el spread de ejecución."
+   "tipo": "edge",
+   "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+   "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
+   "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
+   "prob_poly": 6.0,
+   "consenso": 15.0,
+   "edge": 9.0,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "PredictIt",
+     "titulo": "New Hampshire",
+     "prob": 15.000000000000002,
+     "url": "https://www.predictit.org/markets/detail/8939",
+     "titulo_es": "Nuevo Hampshire"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Política",
+   "prob": 65,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "PredictIt",
+   "razon": "Polymarket paga este mercado a 6.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 15.0%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
+   "narrativa": "Polymarket cotiza la opción de que el candidato demócrata gane la gobernación de Nuevo Hampshire por un margen del 3%-6% en solo 6.0%, mientras que PredictIt asigna un 15.0%, generando un edge de 9 puntos. Esta subvaloración en Polymarket puede reflejar una menor liquidez o atención en eventos de largo plazo, creando una oportunidad para quienes siguen el consenso externo. Riesgo: el margen exacto es un rango estrecho y el evento es a 2026, con alta incertidumbre."
   }
  ],
- "edges": [],
  "top_volumen": [
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
@@ -171,8 +179,8 @@
   {
    "question": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
    "slug": "will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662",
-   "yes": 0.051,
-   "no": 0.949,
+   "yes": 0.0515,
+   "no": 0.9485,
    "volumen": 9991.036522,
    "spread": 0.0,
    "categoria": "Deportes",
