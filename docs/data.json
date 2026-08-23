@@ -1,31 +1,10 @@
 {
- "ts": 1787527665,
- "stamp": "20260823_232745",
+ "ts": 1787528025,
+ "stamp": "20260823_233345",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xa1aaa21d195df199164c3a61cc1a938cd342effe5a58490bea35c05397c38b61",
-   "titulo": "Atlanta Braves vs. Milwaukee Brewers",
-   "slug": "mlb-atl-mil-2026-08-23",
-   "outcome": "Milwaukee Brewers",
-   "side": "BUY",
-   "size": 10000.0,
-   "price": 0.52,
-   "usd": 5200.0,
-   "ts": 1787527374,
-   "categoria": "Otros",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,200 en 'Milwaukee Brewers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-atl-mil-2026-08-23",
-   "titulo_es": "Atlanta Braves vs. Milwaukee Brewers",
-   "narrativa": "La compra de $5,200 en Milwaukee Brewers frente a Atlanta Braves refleja una apuesta institucional significativa en un mercado donde el volumen total no está claramente definido, lo que sugiere que el operador detecta una ventaja de valor (edge) por información o percepción de probabilidad implícita. El tamaño del trade, superior al promedio típico de posiciones minoristas, indica convicción en que el precio actual de los Brewers está subvalorado respecto al consenso externo de los modelos de poderío ofensivo y rotación de abridores. Esta señal puede anticipar un movimiento de reajuste en las cuotas si el mercado ajusta su evaluación hacia la probabilidad real de victoria del equipo visitante. Riesgo: posible falta de liquidez en horarios de baja actividad, lo que podría ampliar el deslizamiento de ejecución."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -130,8 +109,8 @@
   {
    "question": "LoL: Dignitas vs FlyQuest - Game 2 Winner",
    "slug": "lol-dig-fly-2026-08-23-game2",
-   "yes": 0.305,
-   "no": 0.695,
+   "yes": 0.195,
+   "no": 0.805,
    "volumen": 99590.45073499996,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -140,8 +119,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.21,
-   "no": 0.79,
+   "yes": 0.19,
+   "no": 0.81,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -150,8 +129,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.21,
+   "no": 0.79,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -230,8 +209,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.21,
-   "no": 0.79,
+   "yes": 0.215,
+   "no": 0.785,
    "volumen": 9986.559657000005,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -250,8 +229,8 @@
   {
    "question": "Bitcoin Up or Down - August 23, 7PM ET",
    "slug": "bitcoin-up-or-down-august-23-2026-7pm-et",
-   "yes": 0.435,
-   "no": 0.565,
+   "yes": 0.49,
+   "no": 0.51,
    "volumen": 9982.251967,
    "spread": 0.0,
    "categoria": "Cripto",
