@@ -1,29 +1,29 @@
 {
- "ts": 1787506300,
- "stamp": "20260823_173140",
+ "ts": 1787506780,
+ "stamp": "20260823_173940",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7c83e1f889ddaf02b9e41091d1902f20a5f1f93cac9e04ad8f8451a889278aa3",
-   "titulo": "Seahawks vs. Titans",
-   "slug": "nfl-sea-ten-2026-08-24",
-   "outcome": "Seahawks",
+   "market_id": "0x2cd4d309c6938b183447134224a7cec8bd96a7995e79ce7bc8c756a84515fa73",
+   "titulo": "Will Getafe CF win on 2026-08-23?",
+   "slug": "lal-get-rrc-2026-08-23-get",
+   "outcome": "No",
    "side": "BUY",
-   "size": 3216.0,
-   "price": 0.38,
-   "usd": 1222.08,
-   "ts": 1787506045,
+   "size": 2605.0,
+   "price": 0.59,
+   "usd": 1536.95,
+   "ts": 1787506351,
    "categoria": "Otros",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,222 en 'Seahawks'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/nfl-sea-ten-2026-08-24",
-   "titulo_es": "Seahawks contra Titans",
-   "narrativa": "La compra de 1,222 USD en Seahawks refleja una apuesta direccional clara, con un edge estimado de +4.2 puntos frente al consenso externo del 58% de probabilidad implícita. El monto representa un 12.8% del volumen diario típico, lo que sugiere convicción institucional sin distorsionar el precio. Riesgo: el mercado muestra spreads amplios en horas de baja liquidez, lo que puede afectar la ejecución de salida."
+   "razon": "Trade de compra por $1,537 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-get-rrc-2026-08-23-get",
+   "titulo_es": "¿Ganará el Getafe CF el 2026-08-23?",
+   "narrativa": "La compra de 'No' en el mercado de Getafe CF refleja un edge positivo alineado con el consenso externo, que sitúa al equipo como claro no favorito en ese escenario. Con un monto de $1,536.95, la posición capitaliza la falta de momentum histórico del club en esa fecha, mientras el volumen de mercado no reportado sugiere una ventana de entrada con menor competencia. Riesgo: posible ajuste de precios si el mercado gana liquidez repentinamente."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9921840.850329006,
+   "volumen": 9921840.85032899,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -72,7 +72,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993744.24686,
+   "volumen": 993744.2468600001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -98,21 +98,11 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
-   "question": "LoL: RED Canids vs Fluxo W7M - Game 2 Winner",
-   "slug": "lol-red-fxw7-2026-08-23-game2",
-   "yes": 0.975,
-   "no": 0.025,
-   "volumen": 99881.30906700007,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: RED Canids vs Fluxo W7M - Ganador del Juego 2"
-  },
-  {
    "question": "US obtains Iranian enriched uranium by September 30?",
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99524.955286,
+   "volumen": 99524.95528600001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -132,7 +122,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99063.70341900001,
+   "volumen": 99063.70341899997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -152,7 +142,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98871.96190899998,
+   "volumen": 98871.96190899999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -210,9 +200,9 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.205,
-   "no": 0.795,
-   "volumen": 9986.559657000005,
+   "yes": 0.2,
+   "no": 0.8,
+   "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -226,16 +216,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
-  },
-  {
-   "question": "Venezia FC vs. US Lecce: O/U 0.5",
-   "slug": "sea-ven-lec-2026-08-23-total-0pt5",
-   "yes": 0.787,
-   "no": 0.213,
-   "volumen": 9972.643229000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Venezia FC vs. US Lecce: Más/Menos 0.5"
   },
   {
    "question": "Will Apple be the second-largest company in the world by market cap on September 30?",
@@ -268,6 +248,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Trabzonspor vs. Rams Başakşehir FK: O/U 2.5",
+   "slug": "tur-tra-iba-2026-08-23-total-2pt5",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9961.819097999998,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Trabzonspor vs. Rams Başakşehir FK: Más/Menos 2.5"
+  },
+  {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
    "yes": 0.06,
@@ -276,6 +266,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
+  },
+  {
+   "question": "Frosinone Calcio vs. Juventus FC: O/U 5.5",
+   "slug": "sea-fro-juv-2026-08-23-total-5pt5",
+   "yes": 0.0305,
+   "no": 0.9695,
+   "volumen": 9948.610888000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Frosinone Calcio vs. Juventus FC: Más/Menos 5.5"
   },
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
@@ -300,8 +300,8 @@
   {
    "question": "Will Ernest Harden Jr. – “The Pitt” win Emmys 2026: Outstanding guest actor in a drama series?",
    "slug": "will-ernest-harden-jrpt-the-pitt-win-emmys-2026-outstanding-guest-actor-in-a-drama-series-20260709174234067",
-   "yes": 0.103,
-   "no": 0.897,
+   "yes": 0.102,
+   "no": 0.898,
    "volumen": 9942.009263000002,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -309,7 +309,7 @@
   }
  ],
  "historico": {
-  "ts": 1787504757,
+  "ts": 1787506679,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
