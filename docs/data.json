@@ -1,10 +1,52 @@
 {
- "ts": 1787607783,
- "stamp": "20260824_214303",
+ "ts": 1787608143,
+ "stamp": "20260824_214903",
  "mercados": 200,
  "mispricings": [],
- "momentum": [],
- "ballenas_scan": [],
+ "momentum": [
+  {
+   "tipo": "momentum",
+   "market_id": "3791193",
+   "question": "Will the lowest temperature in Dallas be between 82-83°F on August 24?",
+   "slug": "lowest-temperature-in-dallas-on-august-24-2026-82-83f",
+   "tags": [],
+   "categoria": "Otros",
+   "yes_antes": 0.015,
+   "yes_ahora": 0.01,
+   "cambio_pct": -33.3,
+   "direccion": "BAJADA",
+   "volumen": 99.09,
+   "prob": 72,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Yes bajada 33.3% vs el scan anterior (0.015 → 0.01) en un mercado con $99 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
+   "url": "https://polymarket.com/market/lowest-temperature-in-dallas-on-august-24-2026-82-83f",
+   "question_es": "¿Será la temperatura más baja en Dallas entre 82-83°F el 24 de agosto?",
+   "narrativa": "La probabilidad de que Dallas registre una temperatura mínima entre 82-83°F el 24 de agosto ha caído un 33.3% (de 1.5% a 1.0%), pero el volumen de solo $99 sugiere que el mercado está poco poblado y cualquier noticia meteorológica puede provocar un repunte brusco. El edge está en comprar la caída si se espera una corrección al alza en la última hora de negociación, dado el bajo precio de entrada. Riesgo: liquidez extremadamente reducida, spreads amplios y posible manipulación de última hora."
+  }
+ ],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+   "titulo": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 2279.09,
+   "price": 0.66,
+   "usd": 1504.2,
+   "ts": 1787607915,
+   "categoria": "Economía",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,504 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "titulo_es": "¿No habrá cambios en las tasas de interés de la Fed después de la reunión de septiembre de 2026?",
+   "narrativa": "Una orden de compra de $1,504 en 'Yes' para que la Fed no cambie tasas en septiembre de 2026 representa una apuesta significativa en un mercado de baja liquidez, lo que sugiere que un operador con información o convicción fuerte está acumulando posición. El monto es ~15 veces el volumen diario típico de este tipo de eventos, lo que puede indicar una expectativa de que el consenso externo (actualmente ~85% de probabilidad implícita) está subestimado. Riesgo: el horizonte es lejano y cualquier dato macroeconómico intermedio puede alterar drásticamente las probabilidades."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -71,20 +113,10 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 985696.3064369999,
+   "volumen": 985965.1864370002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
-  },
-  {
-   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
-   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 983750.9955090001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
    "question": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
@@ -139,8 +171,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.13,
-   "no": 0.87,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -149,9 +181,9 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.078,
-   "no": 0.922,
-   "volumen": 99058.398966,
+   "yes": 0.075,
+   "no": 0.925,
+   "volumen": 99058.39896600001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
@@ -161,7 +193,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058300001,
+   "volumen": 98936.43058299998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -169,9 +201,9 @@
   {
    "question": "Will Ethereum reach $2,800 in August?",
    "slug": "will-ethereum-reach-2800-in-august-2026",
-   "yes": 0.182,
-   "no": 0.818,
-   "volumen": 98772.76885400002,
+   "yes": 0.183,
+   "no": 0.817,
+   "volumen": 98772.76885400001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $2,800 en agosto?"
@@ -199,8 +231,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.695,
-   "no": 0.305,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -219,8 +251,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2075,
-   "no": 0.7925,
+   "yes": 0.2085,
+   "no": 0.7915,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -285,6 +317,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will CA Central Córdoba win on 2026-08-24?",
+   "slug": "arg-tig-cac-2026-08-24-cac",
+   "yes": 0.145,
+   "no": 0.855,
+   "volumen": 9948.302513999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará CA Central Córdoba el 2026-08-24?"
   }
  ],
  "historico": {
