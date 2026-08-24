@@ -1,10 +1,51 @@
 {
- "ts": 1787567514,
- "stamp": "20260824_103154",
+ "ts": 1787567874,
+ "stamp": "20260824_103754",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x45c717d4779b3d22a430558b76db2a338533bbd2f7a8ec2e4822acac9293ac39",
+   "titulo": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers - Game 2 Winner",
+   "slug": "lol-foxy-hle-2026-08-24-game2",
+   "outcome": "Hanwha Life Esports Challengers",
+   "side": "BUY",
+   "size": 4550.49,
+   "price": 0.45,
+   "usd": 2047.72,
+   "ts": 1787567653,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,048 en 'Hanwha Life Esports Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-foxy-hle-2026-08-24-game2",
+   "titulo_es": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers - Ganador del Juego 2",
+   "narrativa": "La compra de $2,047 en Hanwha Life Esports Challengers para el Juego 2 representa una apuesta significativa contra el consenso implícito del mercado, que suele favorecer al equipo local. El monto elevado en relación con el volumen disponible sugiere que el comprador maneja información o un modelo de valoración con ventaja, lo que crea una oportunidad de arbitraje estadístico si el precio actual no refleja la verdadera probabilidad. Riesgo: posible iliquidez en mercados de esports menores."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xf910d5d18f34421c48d40ad746ef8cfaf95492293e64f7266ecb1f15af992689",
+   "titulo": "Will the price of Bitcoin be above $70,000 on August 24?",
+   "slug": "bitcoin-above-70k-on-august-24-2026",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1026.71,
+   "price": 0.999,
+   "usd": 1025.68,
+   "ts": 1787567653,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,026 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-above-70k-on-august-24-2026",
+   "titulo_es": "¿Estará el precio de Bitcoin por encima de $70,000 el 24 de agosto?",
+   "narrativa": "La compra de $1,025 en 'Sí' para Bitcoin por encima de $70,000 el 24 de agosto aprovecha un desvío entre la probabilidad implícita del mercado y las expectativas externas de analistas, que sitúan un rango de consolidación con sesgo alcista. El monto del trade, aunque moderado, indica convicción en un repunte impulsado por factores macro y flujos de ETF, lo que podría generar un edge positivo si el precio converge hacia la media de pronósticos. Riesgo: alta volatilidad intrínseca de Bitcoin y eventos macro imprevistos."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +82,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923305.763660006,
+   "volumen": 9923305.763659978,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -55,6 +96,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
+  },
+  {
+   "question": "Will the Washington Commanders win the 2027 NFL league championship?",
+   "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
+   "yes": 0.0115,
+   "no": 0.9885,
+   "volumen": 981793.2840609996,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
   },
   {
    "question": "US obtains Iranian enriched uranium by September 30?",
@@ -71,7 +122,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99947.95304000002,
+   "volumen": 99947.95304000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -91,7 +142,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.845,
    "no": 0.155,
-   "volumen": 99644.22682900002,
+   "volumen": 99644.226829,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -101,7 +152,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599999,
+   "volumen": 99614.48294599997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -109,8 +160,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.17,
-   "no": 0.83,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -131,7 +182,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058299996,
+   "volumen": 98936.430583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -147,6 +198,16 @@
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day inferior a 900 millones para el 31 de agosto?"
   },
   {
+   "question": "Ink FDV above $100M one day after launch?",
+   "slug": "ink-fdv-above-100m-one-day-after-launch",
+   "yes": 0.525,
+   "no": 0.475,
+   "volumen": 98618.10308800002,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿FDV de Ink por encima de $100M un día después del lanzamiento?"
+  },
+  {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0035,
@@ -159,8 +220,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.705,
-   "no": 0.295,
+   "yes": 0.71,
+   "no": 0.29,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -171,7 +232,7 @@
    "slug": "will-xrp-reach-2-in-august-2026",
    "yes": 0.07,
    "no": 0.93,
-   "volumen": 98294.005817,
+   "volumen": 98294.00581699998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
@@ -181,7 +242,7 @@
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
    "yes": 0.2105,
    "no": 0.7895,
-   "volumen": 9997.396972999999,
+   "volumen": 9997.396972999995,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -231,7 +292,7 @@
    "slug": "will-zptai-be-the-second-best-chinese-ai-company-at-the-end-of-september-2026-20260722220234246",
    "yes": 0.365,
    "no": 0.635,
-   "volumen": 9960.202745,
+   "volumen": 9960.202744999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Z.ai la segunda mejor empresa china de IA a finales de septiembre de 2026?"
@@ -265,26 +326,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Google la mejor IA de texto a video a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Will Rhea Seehorn – “Pluribus” win Emmys 2026: Outstanding lead actress in a drama series?",
-   "slug": "will-rhea-seehorn-pluribus-win-emmys-2026-outstanding-lead-actress-in-a-drama-series-20260709174229803",
-   "yes": 0.81,
-   "no": 0.19,
-   "volumen": 9931.171052999998,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Rhea Seehorn – “Pluribus” los Emmy 2026: Mejor actriz principal en una serie dramática?"
-  },
-  {
-   "question": "Will “The Traitors” win Emmys 2026: Outstanding reality/competition series?",
-   "slug": "will-the-traitors-win-emmys-2026-outstanding-realitycompetition-series-20260709174232726",
-   "yes": 0.8655,
-   "no": 0.1345,
-   "volumen": 9930.622033000001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará 'The Traitors' los Emmys 2026: Mejor serie de realidad/competencia?"
   }
  ],
  "historico": {
