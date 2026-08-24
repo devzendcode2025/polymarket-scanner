@@ -1,10 +1,51 @@
 {
- "ts": 1787553110,
- "stamp": "20260824_063150",
+ "ts": 1787553471,
+ "stamp": "20260824_063751",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xcfc1f060e7710fda31dbce1eaf86a615e1d57012aa90e68656e3581df426dc6f",
+   "titulo": "Will the highest temperature in New York City be between 84-85°F on August 24?",
+   "slug": "highest-temperature-in-nyc-on-august-24-2026-84-85f",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2530.0,
+   "price": 0.998,
+   "usd": 2524.94,
+   "ts": 1787553216,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,525 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/highest-temperature-in-nyc-on-august-24-2026-84-85f",
+   "titulo_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 84-85°F el 24 de agosto?",
+   "narrativa": "Dos compras consecutivas por ~$2,525 y ~$2,515 en el resultado 'No' indican acumulación coordinada de capital, lo que sugiere que el mercado está infravalorando la probabilidad de que la temperatura no alcance ese rango. El monto combinado de ~$5,040 en un evento de alta liquidez refuerza la convicción direccional. Riesgo: el clima puede ser volátil y el consenso externo podría cambiar con pronósticos de última hora."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xcfc1f060e7710fda31dbce1eaf86a615e1d57012aa90e68656e3581df426dc6f",
+   "titulo": "Will the highest temperature in New York City be between 84-85°F on August 24?",
+   "slug": "highest-temperature-in-nyc-on-august-24-2026-84-85f",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 2520.0,
+   "price": 0.998,
+   "usd": 2514.96,
+   "ts": 1787553204,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,515 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/highest-temperature-in-nyc-on-august-24-2026-84-85f",
+   "titulo_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 84-85°F el 24 de agosto?",
+   "narrativa": "La repetición de la apuesta por 'No' con un monto casi idéntico (~$2,515) refuerza la señal de una estrategia de promediado, apuntando a un edge positivo si el consenso externo (probabilidad implícita) está por debajo del 50%. El desvío entre el precio de compra y el valor justo estimado sugiere una oportunidad de arbitraje estadístico. Riesgo: baja liquidez en horas de alta volatilidad meteorológica."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +82,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923296.763660002,
+   "volumen": 9923296.763659991,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -51,7 +92,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.125,
    "no": 0.875,
-   "volumen": 993854.556857,
+   "volumen": 999697.8945099999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -71,7 +112,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99964.11528599999,
+   "volumen": 99964.115286,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -91,7 +132,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99932.49188000002,
+   "volumen": 99932.49188000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -101,7 +142,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599999,
+   "volumen": 99614.48294600002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -109,29 +150,19 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.2,
-   "no": 0.8,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
-   "question": "Next Mythos-Class Model released by September 30, 2026?",
-   "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
-   "yes": 0.715,
-   "no": 0.285,
-   "volumen": 99236.799864,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Modelo de clase Mythos lanzado antes del 30 de septiembre de 2026?"
-  },
-  {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
-   "volumen": 99063.703419,
+   "yes": 0.145,
+   "no": 0.855,
+   "volumen": 99063.70341899995,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -141,7 +172,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.84,
    "no": 0.16,
-   "volumen": 98958.29904999999,
+   "volumen": 98999.47551599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -151,7 +182,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98928.18058299998,
+   "volumen": 98928.18058300002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -171,7 +202,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.7,
    "no": 0.3,
-   "volumen": 98427.30661799997,
+   "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -181,7 +212,7 @@
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
    "yes": 0.215,
    "no": 0.785,
-   "volumen": 9997.396972999997,
+   "volumen": 9997.396972999995,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -241,7 +272,7 @@
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
    "yes": 0.037,
    "no": 0.963,
-   "volumen": 9965.953989,
+   "volumen": 9965.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará “Saturday Night Live” los Emmys 2026: Mejor serie de variedades?"
@@ -285,6 +316,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará 'The Traitors' los Emmys 2026: Mejor serie de realidad/competencia?"
+  },
+  {
+   "question": "Tesla and SpaceX merger officially announced by December 31, 2027?",
+   "slug": "tesla-and-spacex-merger-officially-announced-by-december-31-2027",
+   "yes": 0.43,
+   "no": 0.57,
+   "volumen": 9925.86969,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Fusión de Tesla y SpaceX anunciada oficialmente antes del 31 de diciembre de 2027?"
   }
  ],
  "historico": {
