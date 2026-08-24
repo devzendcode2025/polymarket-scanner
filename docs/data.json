@@ -1,10 +1,31 @@
 {
- "ts": 1787574355,
- "stamp": "20260824_122555",
+ "ts": 1787574715,
+ "stamp": "20260824_123155",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xf5ee4b6bd7d585c0e12e530074d0324493c302b82e127c832d15c89a610c0453",
+   "titulo": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
+   "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 5018.0,
+   "price": 0.997,
+   "usd": 5002.95,
+   "ts": 1787574564,
+   "categoria": "Cripto",
+   "prob": 59,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $5,003 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia",
+   "titulo_es": "¿Será Demeke Mekonnen el próximo Primer Ministro de Etiopía?",
+   "narrativa": "La señal de compra sobre 'No' para Demeke Mekonnen refleja un consenso externo que favorece un cambio de liderazgo, y el monto de 5,002.95 USD indica una apuesta significativa que busca capitalizar la divergencia entre el precio actual y la probabilidad implícita del mercado. Con un edge estimado en puntos que supera el umbral de rentabilidad ajustado por comisiones, la posición se alinea con la tendencia de flujos recientes. Riesgo: la liquidez del mercado puede ser limitada, lo que podría ampliar el deslizamiento en la ejecución."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -119,8 +140,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.175,
-   "no": 0.825,
+   "yes": 0.19,
+   "no": 0.81,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -129,8 +150,8 @@
   {
    "question": "Ink FDV above $100M one day after launch?",
    "slug": "ink-fdv-above-100m-one-day-after-launch",
-   "yes": 0.54,
-   "no": 0.46,
+   "yes": 0.535,
+   "no": 0.465,
    "volumen": 99163.643088,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -189,8 +210,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.0675,
+   "no": 0.9325,
    "volumen": 98294.00581699997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -199,8 +220,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.216,
-   "no": 0.784,
+   "yes": 0.2155,
+   "no": 0.7845,
    "volumen": 9997.396973,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -269,8 +290,8 @@
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.002,
-   "no": 0.998,
+   "yes": 0.004,
+   "no": 0.996,
    "volumen": 9946.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
