@@ -1,31 +1,10 @@
 {
- "ts": 1787531746,
- "stamp": "20260824_003546",
+ "ts": 1787532106,
+ "stamp": "20260824_004146",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xfe248b059adb1aafd1053538c2c30b4d25a33ba122cce738967a566f981be478",
-   "titulo": "Monterrey Open, Qualification: Maya Joint vs Yulia Putintseva",
-   "slug": "wta-joint-putints-2026-08-23",
-   "outcome": "Maya Joint",
-   "side": "BUY",
-   "size": 10657.707776,
-   "price": 0.4402438214,
-   "usd": 4691.99,
-   "ts": 1787531283,
-   "categoria": "Política",
-   "prob": 59,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,692 en 'Maya Joint'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-joint-putints-2026-08-23",
-   "titulo_es": "Abierto de Monterrey, Clasificación: Maya Joint vs Yulia Putintseva",
-   "narrativa": "La compra sobre Maya Joint en la clasificación del Abierto de Monterrey capitaliza un desajuste de precios frente a una rival de mayor renombre, con un monto de $4,692 que busca capturar valor antes de que el mercado ajuste la probabilidad implícita. El edge se sustenta en la falta de volumen registrado, lo que permite entrar a un precio favorable sin fricción significativa. Riesgo: posible baja liquidez y alta volatilidad en mercados de clasificación."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -130,8 +109,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.195,
-   "no": 0.805,
+   "yes": 0.175,
+   "no": 0.825,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -140,8 +119,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.17,
-   "no": 0.83,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99063.70341899997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -170,8 +149,8 @@
   {
    "question": "Next Mythos-Class Model released by September 30, 2026?",
    "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
-   "yes": 0.67,
-   "no": 0.33,
+   "yes": 0.675,
+   "no": 0.325,
    "volumen": 98871.12683499999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -180,8 +159,8 @@
   {
    "question": "US ceasefire against Iran continues through October 31?",
    "slug": "us-x-iran-ceasefire-continues-through-october-31",
-   "yes": 0.64,
-   "no": 0.36,
+   "yes": 0.645,
+   "no": 0.355,
    "volumen": 98751.50388399998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -230,8 +209,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.21,
-   "no": 0.79,
+   "yes": 0.215,
+   "no": 0.785,
    "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -260,8 +239,8 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.076,
-   "no": 0.924,
+   "yes": 0.0635,
+   "no": 0.9365,
    "volumen": 9965.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
