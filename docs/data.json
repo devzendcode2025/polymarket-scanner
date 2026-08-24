@@ -1,29 +1,49 @@
 {
- "ts": 1787603582,
- "stamp": "20260824_203302",
+ "ts": 1787603942,
+ "stamp": "20260824_203902",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb4dfcd19cea0e18fb2b0cb0f5e81b784c5296f54f4d89ba698f1ee85921a098d",
-   "titulo": "US Open, Qualification WTA: Jazmin Ortenzi vs Himeno Sakatsume",
-   "slug": "wta-ortenzi-sakatsu-2026-08-24",
-   "outcome": "Himeno Sakatsume",
+   "market_id": "0x24e5df82c912e3cfa5cd6e3eb86ff0606d4b892698ee6119600745f27ce16fa7",
+   "titulo": "Hallescher FC vs. FC Schalke 04: O/U 4.5",
+   "slug": "dfb-hal-s04-2026-08-24-total-4pt5",
+   "outcome": "Under",
    "side": "BUY",
-   "size": 1618.75,
-   "price": 0.79,
-   "usd": 1278.81,
-   "ts": 1787603410,
-   "categoria": "Deportes",
+   "size": 2836.0,
+   "price": 0.94,
+   "usd": 2665.84,
+   "ts": 1787603713,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,666 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dfb-hal-s04-2026-08-24-total-4pt5",
+   "titulo_es": "Hallescher FC vs. FC Schalke 04: Más/Menos 4.5",
+   "narrativa": "Una ballena ha comprado 'Under 4.5' en Hallescher FC vs. Schalke 04 por $2,665.84, una apuesta significativa dado que el volumen del mercado no está disponible. Este movimiento sugiere que un operador con información o análisis profundo espera un partido con pocos goles, posiblemente por alineaciones defensivas o condiciones del campo. Riesgo: la falta de volumen puede amplificar el impacto de la orden en el precio."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x2ab71311966391bea8ceb340bb0e3269d7acdd84c0c1fe3c3df2068354e8ffe8",
+   "titulo": "Will Fulham FC vs. Chelsea FC end in a draw?",
+   "slug": "epl-ful-che-2026-08-24-draw",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1471.9875,
+   "price": 0.8,
+   "usd": 1177.59,
+   "ts": 1787603712,
+   "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,279 en 'Himeno Sakatsume'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-ortenzi-sakatsu-2026-08-24",
-   "titulo_es": "Abierto de EE. UU., Clasificación WTA: Jazmin Ortenzi vs Himeno Sakatsume",
-   "narrativa": "La señal de compra sobre Himeno Sakatsume en la clasificación WTA del Abierto de EE. UU. presenta un edge de +4.2 puntos frente al consenso externo, que sitúa su probabilidad implícita en 58% vs. el 62% del mercado. Con un monto de $1,278.81, la posición aprovecha una discrepancia de valor que suele corregirse en mercados de tenis con alta rotación de información. Riesgo: volatilidad por condiciones climáticas o retiros de última hora que afecten el desarrollo del partido."
+   "razon": "Trade de compra por $1,178 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/epl-ful-che-2026-08-24-draw",
+   "titulo_es": "¿Terminará en empate el partido Fulham FC vs. Chelsea FC?",
+   "narrativa": "Se ha detectado una compra de 'No' en el mercado de empate entre Fulham y Chelsea por $1,177.59, lo que indica una convicción clara de que el partido no terminará igualado. Esta operación, aunque de menor tamaño, puede reflejar una lectura de las probabilidades implícitas que favorecen a un ganador definido. Riesgo: los mercados de empate suelen tener menos liquidez, lo que puede generar spreads más amplios."
   }
  ],
  "edges": [
@@ -33,14 +53,14 @@
    "slug": "mlb-tex-cws-2026-08-24",
    "url": "https://polymarket.com/market/mlb-tex-cws-2026-08-24",
    "prob_poly": 44.5,
-   "consenso": 55.3,
-   "edge": 10.8,
+   "consenso": 54.5,
+   "edge": 10.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "ESPN",
      "titulo": "Winner: Chicago White Sox vs Texas Rangers (mlb)",
-     "prob": 55.34,
+     "prob": 54.46,
      "url": "https://www.espn.com/baseball/game/_/gameId/401816658",
      "deporte": "mlb",
      "game_id": "401816658",
@@ -49,13 +69,13 @@
    ],
    "n_fuentes": 1,
    "categoria": "Otros",
-   "prob": 68,
+   "prob": 66,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 44.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 55.3%: diferencia de 10.8 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 44.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 54.5%: diferencia de 10.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "Texas Rangers vs. Chicago White Sox",
-   "narrativa": "El mercado de Polymarket para los Rangers paga 44.5, mientras que el consenso externo de ESPN lo sitúa en 55.3, generando un edge de 10.8 puntos a favor de comprar el 'Sí'. Esta discrepancia sugiere que el precio implícito no refleja plenamente la probabilidad estimada por el modelo externo, ofreciendo una oportunidad de valor relativo. Riesgo: la diferencia puede deberse a factores de alineación o lesiones de última hora no capturados en el consenso."
+   "narrativa": "El mercado de Polymarket para Rangers vs. White Sox cotiza el 'Sí' a 44.5, mientras que el consenso externo de ESPN lo sitúa en 54.5, generando un edge de +10.0 puntos a favor de la compra. Esta brecha sugiere que el precio implícito en Polymarket está por debajo de la probabilidad estimada por fuentes externas, ofreciendo una oportunidad de valor relativo. Riesgo: la diferencia puede deberse a ajustes por lesiones o condiciones del juego no reflejadas en el consenso."
   },
   {
    "tipo": "edge",
@@ -63,27 +83,27 @@
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "prob_poly": 6.0,
-   "consenso": 14.5,
-   "edge": 8.5,
+   "consenso": 14.0,
+   "edge": 8.0,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "PredictIt",
      "titulo": "New Hampshire",
-     "prob": 14.500000000000002,
+     "prob": 14.000000000000002,
      "url": "https://www.predictit.org/markets/detail/8939",
      "titulo_es": "Nuevo Hampshire"
     }
    ],
    "n_fuentes": 1,
    "categoria": "Política",
-   "prob": 65,
+   "prob": 64,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 6.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 14.5%: diferencia de 8.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 6.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 14.0%: diferencia de 8.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket valora esta opción en solo 6.0 puntos, mientras que el consenso externo de PredictIt la sitúa en 14.5, generando un edge de +8.5 puntos a favor de la compra del 'Sí'. Esta brecha sugiere que el precio actual no refleja plenamente la probabilidad implícita del resultado, ofreciendo una oportunidad de capturar valor si el mercado converge hacia la referencia externa. El monto del trade debe ajustarse al diferencial, pero la magnitud del desvío justifica una posición moderada. Riesgo: eventos políticos imprevistos o baja liquidez en el mercado de Polymarket podrían retrasar la convergencia de precios."
+   "narrativa": "Polymarket valora el 'Sí' para el margen del 3%-6% en las elecciones de Nuevo Hampshire en solo 6.0, frente al 14.0 de PredictIt, lo que representa un edge de +8.0 puntos. Esta discrepancia es notable en un evento político con alta visibilidad, donde el consenso externo suele ser más preciso a largo plazo. Riesgo: la liquidez en Polymarket puede ser limitada, afectando la ejecución de órdenes grandes."
   }
  ],
  "top_volumen": [
@@ -102,7 +122,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923680.153660003,
+   "volumen": 9923680.153659988,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -110,8 +130,8 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.012,
-   "no": 0.988,
+   "yes": 0.0115,
+   "no": 0.9885,
    "volumen": 984637.9064369996,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -142,7 +162,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000001,
+   "volumen": 99966.78188,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -152,7 +172,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99947.95304000002,
+   "volumen": 99947.95303999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -162,20 +182,10 @@
    "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
    "yes": 0.88,
    "no": 0.12,
-   "volumen": 99862.325547,
+   "volumen": 99862.32554700001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será NVIDIA la empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
-  },
-  {
-   "question": "Cincinnati Reds vs. San Francisco Giants: O/U 7.5",
-   "slug": "mlb-cin-sf-2026-08-24-total-7pt5",
-   "yes": 0.465,
-   "no": 0.535,
-   "volumen": 99637.46940499998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Cincinnati Reds vs. San Francisco Giants: Más/Menos 7.5"
   },
   {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
@@ -200,8 +210,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -230,8 +240,8 @@
   {
    "question": "Will Ethereum reach $2,800 in August?",
    "slug": "will-ethereum-reach-2800-in-august-2026",
-   "yes": 0.171,
-   "no": 0.829,
+   "yes": 0.176,
+   "no": 0.824,
    "volumen": 98772.76885400001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -270,8 +280,8 @@
   {
    "question": "Will Hallescher FC win on 2026-08-24?",
    "slug": "dfb-hal-s04-2026-08-24-hal",
-   "yes": 0.013,
-   "no": 0.987,
+   "yes": 0.0005,
+   "no": 0.9995,
    "volumen": 98342.92140600005,
    "spread": 0.0,
    "categoria": "Otros",
@@ -280,9 +290,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2065,
-   "no": 0.7935,
-   "volumen": 9997.396973,
+   "yes": 0.206,
+   "no": 0.794,
+   "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -292,7 +302,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445129,
+   "volumen": 9992.445128999996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -318,28 +328,38 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
+   "question": "Will Manisa Futbol Kulubu win on 2026-08-24?",
+   "slug": "tur2-siv-man-2026-08-24-man",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9985.775031000005,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganará Manisa Futbol Kulubu el 2026-08-24?"
+  },
+  {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 9982.176089,
+   "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
   },
   {
-   "question": "Will the Los Angeles Dodgers win more than 99.5 games in the 2026 MLB Regular Season?",
-   "slug": "2026-mlb-win-totals-los-angeles-dodgers",
-   "yes": 0.485,
-   "no": 0.515,
-   "volumen": 9969.902864,
+   "question": "Will Enzo Fernandez join Paris Saint-Germain?",
+   "slug": "will-enzo-fernandez-join-paris-saint-germain-20260612231645940",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9966.660445,
    "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Los Angeles Dodgers más de 99.5 juegos en la Temporada Regular de la MLB 2026?"
+   "categoria": "Tecnología",
+   "question_es": "¿Se unirá Enzo Fernández al Paris Saint-Germain?"
   }
  ],
  "historico": {
-  "ts": 1787601865,
+  "ts": 1787603779,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
