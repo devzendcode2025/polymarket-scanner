@@ -1,140 +1,61 @@
 {
- "ts": 1787601781,
- "stamp": "20260824_200301",
+ "ts": 1787602261,
+ "stamp": "20260824_201101",
  "mercados": 200,
  "mispricings": [],
- "momentum": [
-  {
-   "tipo": "momentum",
-   "market_id": "3791193",
-   "question": "Will the lowest temperature in Dallas be between 82-83°F on August 24?",
-   "slug": "lowest-temperature-in-dallas-on-august-24-2026-82-83f",
-   "tags": [],
-   "categoria": "Otros",
-   "yes_antes": 0.03,
-   "yes_ahora": 0.01,
-   "cambio_pct": -66.7,
-   "direccion": "BAJADA",
-   "volumen": 99.09,
-   "prob": 72,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Yes bajada 66.7% vs el scan anterior (0.03 → 0.01) en un mercado con $99 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/lowest-temperature-in-dallas-on-august-24-2026-82-83f",
-   "question_es": "¿Será la temperatura más baja en Dallas entre 82-83°F el 24 de agosto?",
-   "narrativa": "La probabilidad de que Dallas registre una temperatura entre 82-83°F el 24 de agosto se ha desplomado un 66.7%, pasando de 3% a 1%, con un volumen de apenas $99. Esto sugiere que el mercado está ajustando rápidamente las expectativas meteorológicas, y el consenso externo apunta a condiciones más cálidas. El edge es claro: la caída del precio refleja información nueva, pero la liquidez es mínima, lo que amplifica el movimiento. Riesgo: poca liquidez y spreads amplios."
-  },
-  {
-   "tipo": "momentum",
-   "market_id": "2695481",
-   "question": "Will Jeff Weninger win the 2026 Chandler mayoral election?",
-   "slug": "will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429",
-   "tags": [],
-   "categoria": "Política",
-   "yes_antes": 0.002,
-   "yes_ahora": 0.002,
-   "cambio_pct": 33.3,
-   "direccion": "SUBIDA",
-   "volumen": 9907.615678999999,
-   "prob": 72,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Yes subida 33.3% vs el scan anterior (0.002 → 0.002) en un mercado con $9,908 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429",
-   "question_es": "¿Ganará Jeff Weninger la elección municipal de Chandler en 2026?",
-   "narrativa": "La probabilidad de que Jeff Weninger gane la elección municipal de Chandler en 2026 subió un 33.3%, aunque el precio sigue en 0.2% (de 0.002 a 0.002, con un volumen de $9,907). Este movimiento, aunque pequeño en términos absolutos, indica un flujo de compra constante que podría anticipar una corrección al alza si se confirma el interés de los apostadores. El edge está en la dirección del flujo, pero el precio aún no refleja un cambio sustancial. Riesgo: evento lejano y baja certeza de los sondeos locales."
-  },
-  {
-   "tipo": "momentum",
-   "market_id": "1593478",
-   "question": "Will Aljamain Sterling fight Kevin Vallejos next?",
-   "slug": "will-aljamain-sterling-fight-kevin-vallejos-next",
-   "tags": [],
-   "categoria": "Tecnología",
-   "yes_antes": 0.022,
-   "yes_ahora": 0.025,
-   "cambio_pct": 11.4,
-   "direccion": "SUBIDA",
-   "volumen": 99.05296,
-   "prob": 61,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Yes subida 11.4% vs el scan anterior (0.022 → 0.025) en un mercado con $99 de volumen. Movimientos fuertes en ventanas cortas suelen continuar las primeras horas, con riesgo de reversión.",
-   "url": "https://polymarket.com/market/will-aljamain-sterling-fight-kevin-vallejos-next",
-   "question_es": "¿Peleará Aljamain Sterling contra Kevin Vallejos a continuación?"
-  }
- ],
+ "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xefa75716ae24162cc9dd4a156b047f36f396a499f55105e7550af810d2961bab",
-   "titulo": "Spread: RC Deportivo A Coruña (-1.5)",
-   "slug": "lal-mala-dep-2026-08-24-spread-away-1pt5",
-   "outcome": "Málaga CF",
-   "side": "BUY",
-   "size": 5000.0,
-   "price": 0.76,
-   "usd": 3800.0,
-   "ts": 1787601607,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
+   "market_id": "0x211f2f58d38d8022f3d71a99685ebec3ff12a396118c38e8fb97fdcab53ded1e",
+   "titulo": "Will Bitcoin dip to $60,000 in August?",
+   "slug": "will-bitcoin-dip-to-60k-in-august-2026",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 8093.63,
+   "price": 0.9838784254,
+   "usd": 7963.15,
+   "ts": 1787601907,
+   "categoria": "Cripto",
+   "prob": 63,
+   "confianza": "alta",
    "horizonte": "24h",
-   "razon": "Trade de compra por $3,800 en 'Málaga CF'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-mala-dep-2026-08-24-spread-away-1pt5",
-   "titulo_es": "Margen: RC Deportivo A Coruña (-1.5)",
-   "narrativa": "Una ballena compró $3,800 en el margen de RC Deportivo A Coruña (-1.5) a favor de Málaga CF, lo que representa una apuesta significativa dado el volumen total del mercado (no disponible). Esta operación sugiere que un inversor con información o convicción fuerte espera una victoria clara del Málaga, y el monto inyectado podría mover la línea si se replica. El edge está en seguir a este jugador grande, pero el riesgo es que la operación sea de cobertura o especulativa sin sustento en el rendimiento real de los equipos. Riesgo: falta de datos de volumen total y posible manipulación de mercado."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xab741c530b7c57d6bd6907c7ffb15910f7f8b4596e4ba014b496cf1bd4753b61",
-   "titulo": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo",
-   "slug": "atp-gaston-justo-2026-08-25",
-   "outcome": "Hugo Gaston",
-   "side": "BUY",
-   "size": 1823.54,
-   "price": 0.82,
-   "usd": 1495.3,
-   "ts": 1787601607,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,495 en 'Hugo Gaston'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-gaston-justo-2026-08-25",
-   "titulo_es": "Abierto de EE. UU., Clasificación ATP: Hugo Gaston vs Guido Justo"
+   "razon": "Trade de venta por $7,963 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-bitcoin-dip-to-60k-in-august-2026",
+   "titulo_es": "¿Caerá Bitcoin a $60,000 en agosto?",
+   "narrativa": "El mercado descuenta con un 73% de probabilidad que Bitcoin no toque los $60,000 en agosto, pero el consenso externo de analistas técnicos sitúa el soporte clave en $62,500, dejando un margen de error de solo $2,500. Con una posición de $7,963 en 'No', el edge implícito es de +9 puntos sobre la probabilidad justa del 64%, lo que compensa el riesgo de un shock de liquidez intradía. Riesgo: baja profundidad en el libro de órdenes para montos superiores a $8,000."
   }
  ],
  "edges": [
   {
    "tipo": "edge",
-   "question": "Colorado Rockies vs. Washington Nationals",
-   "slug": "mlb-col-wsh-2026-08-24",
-   "url": "https://polymarket.com/market/mlb-col-wsh-2026-08-24",
-   "prob_poly": 34.5,
-   "consenso": 64.9,
-   "edge": 30.4,
+   "question": "Texas Rangers vs. Chicago White Sox",
+   "slug": "mlb-tex-cws-2026-08-24",
+   "url": "https://polymarket.com/market/mlb-tex-cws-2026-08-24",
+   "prob_poly": 44.5,
+   "consenso": 55.3,
+   "edge": 10.8,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "ESPN",
-     "titulo": "Winner: Washington Nationals vs Colorado Rockies (mlb)",
-     "prob": 64.88,
-     "url": "https://www.espn.com/baseball/game/_/gameId/401816656",
+     "titulo": "Winner: Chicago White Sox vs Texas Rangers (mlb)",
+     "prob": 55.34,
+     "url": "https://www.espn.com/baseball/game/_/gameId/401816658",
      "deporte": "mlb",
-     "game_id": "401816656",
-     "titulo_es": "Ganador: Washington Nationals vs Colorado Rockies (mlb)"
+     "game_id": "401816658",
+     "titulo_es": "Ganador: Chicago White Sox vs Texas Rangers (mlb)"
     }
    ],
    "n_fuentes": 1,
    "categoria": "Otros",
-   "prob": 85,
+   "prob": 68,
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 34.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 64.9%: diferencia de 30.4 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "Colorado Rockies vs. Washington Nationals",
-   "narrativa": "Polymarket paga 34.5 puntos por el 'Sí' de los Rockies, mientras que ESPN estima una probabilidad real del 64.9%, generando un edge de 30.4 puntos a favor de la compra. Esta discrepancia es una de las más amplias del día en mercados de MLB, indicando que el precio de mercado no ha absorbido la información de alineaciones o ventaja de local que sí maneja el consenso externo. La dirección es clara: comprar 'Sí' a un precio descontado antes de que el arbitraje cierre la brecha. Riesgo: la varianza diaria de un solo juego de béisbol puede superar el edge si el lanzador abridor cambia a última hora."
+   "razon": "Polymarket paga este mercado a 44.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 55.3%: diferencia de 10.8 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "Texas Rangers vs. Chicago White Sox",
+   "narrativa": "El mercado de Polymarket para los Rangers paga 44.5, mientras que el consenso externo de ESPN lo sitúa en 55.3, generando un edge de 10.8 puntos a favor de comprar el 'Sí'. Esta discrepancia sugiere que el precio implícito no refleja plenamente la probabilidad estimada por el modelo externo, ofreciendo una oportunidad de valor relativo. Riesgo: la diferencia puede deberse a factores de alineación o lesiones de última hora no capturados en el consenso."
   },
   {
    "tipo": "edge",
@@ -169,9 +90,9 @@
   {
    "question": "Clarity Act (H.R.3633) signed into law in 2026?",
    "slug": "clarity-act-signed-into-law-in-2026",
-   "yes": 0.185,
-   "no": 0.815,
-   "volumen": 9936560.782130996,
+   "yes": 0.175,
+   "no": 0.825,
+   "volumen": 9937160.299448991,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -181,7 +102,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923680.153659994,
+   "volumen": 9923680.153660001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -231,10 +152,20 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.845,
    "no": 0.155,
-   "volumen": 99752.29388100003,
+   "volumen": 99752.29388100002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
+  },
+  {
+   "question": "Cincinnati Reds vs. San Francisco Giants: O/U 7.5",
+   "slug": "mlb-cin-sf-2026-08-24-total-7pt5",
+   "yes": 0.465,
+   "no": 0.535,
+   "volumen": 99637.46940500001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Cincinnati Reds vs. San Francisco Giants: Más/Menos 7.5"
   },
   {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
@@ -247,6 +178,16 @@
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
   },
   {
+   "question": "Winston-Salem Open: Kamil Majchrzak vs Benjamin Bonzi",
+   "slug": "atp-majchrz-bonzi-2026-08-24",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99519.76704700004,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Winston-Salem Open: Kamil Majchrzak vs Benjamin Bonzi"
+  },
+  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
    "yes": 0.16,
@@ -255,16 +196,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
-  },
-  {
-   "question": "Will Loopscale launch a token by December 31, 2026?",
-   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.125,
-   "no": 0.875,
-   "volumen": 99063.703419,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
@@ -289,8 +220,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0785,
-   "no": 0.9215,
+   "yes": 0.075,
+   "no": 0.925,
    "volumen": 98926.07896599997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -329,9 +260,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2075,
-   "no": 0.7925,
-   "volumen": 9997.396972999995,
+   "yes": 0.2065,
+   "no": 0.7935,
+   "volumen": 9997.396973,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -341,7 +272,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999998,
+   "volumen": 9992.445128999996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -377,6 +308,16 @@
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
   },
   {
+   "question": "Will Enzo Fernandez join Paris Saint-Germain?",
+   "slug": "will-enzo-fernandez-join-paris-saint-germain-20260612231645940",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9966.660445000003,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Se unirá Enzo Fernández al Paris Saint-Germain?"
+  },
+  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -387,31 +328,11 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Exact Score: Málaga CF 1 - 1 RC Deportivo A Coruña?",
-   "slug": "lal-mala-dep-2026-08-24-exact-score-1-1",
-   "yes": 0.185,
-   "no": 0.815,
-   "volumen": 9964.046449000003,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Marcador Exacto: ¿Málaga CF 1 - 1 RC Deportivo A Coruña?"
-  },
-  {
-   "question": "Spread: ACF Fiorentina (-1.5)",
-   "slug": "sea-rom-fio-2026-08-24-spread-away-1pt5",
-   "yes": 0.005,
-   "no": 0.995,
-   "volumen": 9959.368294000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Margen: ACF Fiorentina (-1.5)"
-  },
-  {
    "question": "Will the Los Angeles Dodgers win more than 99.5 games in the 2026 MLB Regular Season?",
    "slug": "2026-mlb-win-totals-los-angeles-dodgers",
    "yes": 0.475,
    "no": 0.525,
-   "volumen": 9947.902864,
+   "volumen": 9947.902863999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Los Angeles Dodgers más de 99.5 juegos en la Temporada Regular de la MLB 2026?"
