@@ -1,6 +1,6 @@
 {
- "ts": 1787604422,
- "stamp": "20260824_204702",
+ "ts": 1787604782,
+ "stamp": "20260824_205302",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -12,38 +12,18 @@
    "slug": "epl-ful-che-2026-08-24-total-5pt5",
    "outcome": "Under",
    "side": "BUY",
-   "size": 6855.61818,
-   "price": 0.55,
-   "usd": 3770.59,
-   "ts": 1787604013,
+   "size": 1216.0,
+   "price": 0.85,
+   "usd": 1033.6,
+   "ts": 1787604615,
    "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,771 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,034 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
    "url": "https://polymarket.com/market/epl-ful-che-2026-08-24-total-5pt5",
    "titulo_es": "Fulham FC vs. Chelsea FC: Más/Menos 5.5",
-   "narrativa": "La compra de Under 5.5 en el Fulham vs. Chelsea por USD 3,770.59 refleja una apuesta de tamaño considerable que busca capturar valor en un mercado donde el consenso externo probablemente favorece un partido con menos de seis goles, dado el historial defensivo de ambos equipos. Este monto, al ser significativo para el volumen disponible, sugiere que el operador identifica un edge positivo en la línea, aunque el volumen de mercado no está especificado, lo que limita el cálculo exacto del desvío. Riesgo: posible falta de liquidez en el mercado de altas líneas de gol."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xe4e772127cc217f1f9ab8efabfd1cc99ecbed62795fafd3a0d11e025209e703d",
-   "titulo": "Will Málaga CF win on 2026-08-24?",
-   "slug": "lal-mala-dep-2026-08-24-mala",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 3558.32,
-   "price": 0.69,
-   "usd": 2455.24,
-   "ts": 1787604010,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,455 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-mala-dep-2026-08-24-mala",
-   "titulo_es": "¿Ganará el Málaga CF el 2026-08-24?",
-   "narrativa": "La compra de 'No' para la victoria del Málaga CF el 2026-08-24, con USD 2,455.24, aprovecha la baja probabilidad implícita de que un equipo de categorías inferiores logre un triunfo en una fecha tan lejana, donde el consenso externo asigna un alto margen a favor del 'No'. Este trade busca capitalizar el decaimiento temporal de la probabilidad, generando un edge positivo si el precio actual sobrevalora ligeramente la opción 'Sí', aunque el monto moderado sugiere una posición calculada ante la incertidumbre de largo plazo. Riesgo: eventos imprevistos (lesiones, fichajes) pueden alterar drásticamente las probabilidades antes de la fecha."
+   "narrativa": "La compra de Under 5.5 en el Fulham vs Chelsea refleja una apuesta de $1,033.6 que busca capitalizar la baja probabilidad implícita de un partido con más de 5 goles, típicamente en encuentros de alta tensión táctica. El edge se sustenta en que el consenso externo de modelos de goles esperados (xG) ronda entre 2.8 y 3.2 totales, lo que deja un margen de más de 2 goles a favor del Under. Con un volumen de mercado no reportado, el tamaño del trade sugiere convicción media-alta, pero el desvío estándar histórico de este tipo de cruces es amplio, por lo que el movimiento es oportunista más que estructural. Riesgo: posible falta de liquidez en el mercado de 5.5 goles, lo que puede ampliar el spread en momentos de alta volatilidad."
   }
  ],
  "edges": [
@@ -112,7 +92,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.175,
    "no": 0.825,
-   "volumen": 9944649.639449004,
+   "volumen": 9944649.639449002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -122,7 +102,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923680.153659988,
+   "volumen": 9923680.153660005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -130,9 +110,9 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.011,
-   "no": 0.989,
-   "volumen": 984637.9064369996,
+   "yes": 0.0115,
+   "no": 0.9885,
+   "volumen": 984637.9064370001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -142,27 +122,17 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 984202.2840610002,
+   "volumen": 984202.2840609999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
-  },
-  {
-   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
-   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 983750.9955090001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
    "question": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188,
+   "volumen": 99966.78187999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -218,21 +188,11 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will XRP reach $2.00 in August?",
-   "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0735,
-   "no": 0.9265,
-   "volumen": 99051.85896599997,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
-  },
-  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058300001,
+   "volumen": 98936.43058300002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -240,9 +200,9 @@
   {
    "question": "Will Ethereum reach $2,800 in August?",
    "slug": "will-ethereum-reach-2800-in-august-2026",
-   "yes": 0.1765,
-   "no": 0.8235,
-   "volumen": 98772.76885400001,
+   "yes": 0.174,
+   "no": 0.826,
+   "volumen": 98772.768854,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $2,800 en agosto?"
@@ -252,7 +212,7 @@
    "slug": "will-xrp-reach-2pt8-in-august-2026",
    "yes": 0.013,
    "no": 0.987,
-   "volumen": 98645.26905000002,
+   "volumen": 98646.28905,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.80 en agosto?"
@@ -272,27 +232,17 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.7,
    "no": 0.3,
-   "volumen": 98427.306618,
+   "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
-   "question": "Will Hallescher FC win on 2026-08-24?",
-   "slug": "dfb-hal-s04-2026-08-24-hal",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 98342.92140600005,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Hallescher FC el 2026-08-24?"
-  },
-  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2085,
-   "no": 0.7915,
-   "volumen": 9997.396972999999,
+   "yes": 0.207,
+   "no": 0.793,
+   "volumen": 9997.396973,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -302,7 +252,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999996,
+   "volumen": 9992.445129,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -328,16 +278,6 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Manisa Futbol Kulubu win on 2026-08-24?",
-   "slug": "tur2-siv-man-2026-08-24-man",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9985.775031000005,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará Manisa Futbol Kulubu el 2026-08-24?"
-  },
-  {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9815,
@@ -352,10 +292,50 @@
    "slug": "will-enzo-fernandez-join-paris-saint-germain-20260612231645940",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 9966.660445,
+   "volumen": 9966.660445000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Se unirá Enzo Fernández al Paris Saint-Germain?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.003,
+   "no": 0.997,
+   "volumen": 9946.699383,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will the US federal government take a stake in The Boeing Company?",
+   "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 9944.236178000003,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
+  },
+  {
+   "question": "Will Jeff Weninger win the 2026 Chandler mayoral election?",
+   "slug": "will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429",
+   "yes": 0.0015,
+   "no": 0.9985,
+   "volumen": 9943.775679,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Jeff Weninger la elección municipal de Chandler en 2026?"
   }
  ],
  "historico": {
