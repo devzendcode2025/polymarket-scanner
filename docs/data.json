@@ -1,31 +1,10 @@
 {
- "ts": 1787615044,
- "stamp": "20260824_234404",
+ "ts": 1787615524,
+ "stamp": "20260824_235204",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x9c79aa5db85353e1b90ece28ed2bcbdee6d67d6acea8e2ebdd5be97ce4fd7ebd",
-   "titulo": "Tampa Bay Rays vs. Detroit Tigers",
-   "slug": "mlb-tb-det-2026-08-24",
-   "outcome": "Tampa Bay Rays",
-   "side": "SELL",
-   "size": 6999.94,
-   "price": 0.84,
-   "usd": 5879.95,
-   "ts": 1787614824,
-   "categoria": "Otros",
-   "prob": 60,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $5,880 en 'Tampa Bay Rays'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-tb-det-2026-08-24",
-   "titulo_es": "Tampa Bay Rays vs. Detroit Tigers",
-   "narrativa": "La venta de 5,879.95 USD sobre Tampa Bay Rays en el enfrentamiento contra Detroit Tigers refleja una posicion contraria al consenso del mercado, que podria estar sobrevalorando al equipo local. Este flujo de capital sugiere que un operador relevante anticipa una correccion en las probabilidades, lo que genera un edge tactico si el precio se ajusta a la baja. Riesgo: la falta de volumen de mercado registrado puede amplificar la volatilidad del precio ante ordenes de menor tamano."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9950157.330724014,
+   "volumen": 9956672.498228006,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -72,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923680.153659983,
+   "volumen": 9923680.15366,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -80,9 +59,9 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.0095,
-   "no": 0.9905,
-   "volumen": 986923.0697689995,
+   "yes": 0.01,
+   "no": 0.99,
+   "volumen": 986923.0697690002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -92,7 +71,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.2740609996,
+   "volumen": 986453.2740609999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -112,7 +91,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188,
+   "volumen": 99966.78188000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -130,8 +109,8 @@
   {
    "question": "Will Ethereum reach $2,800 in August?",
    "slug": "will-ethereum-reach-2800-in-august-2026",
-   "yes": 0.1815,
-   "no": 0.8185,
+   "yes": 0.1845,
+   "no": 0.8155,
    "volumen": 99625.15111199999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -146,6 +125,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
+  },
+  {
+   "question": "CA Tigre vs. CA Central Córdoba: O/U 5.5",
+   "slug": "arg-tig-cac-2026-08-24-total-5pt5",
+   "yes": 0.016,
+   "no": 0.984,
+   "volumen": 99460.264453,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "CA Tigre vs. CA Central Córdoba: Más/Menos 5.5"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -182,7 +171,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058300002,
+   "volumen": 98936.430583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -192,7 +181,7 @@
    "slug": "will-xrp-reach-2pt8-in-august-2026",
    "yes": 0.013,
    "no": 0.987,
-   "volumen": 98646.28904999999,
+   "volumen": 98646.28905,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.80 en agosto?"
@@ -220,9 +209,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.209,
-   "no": 0.791,
-   "volumen": 9997.396972999997,
+   "yes": 0.2075,
+   "no": 0.7925,
+   "volumen": 9997.396972999995,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -232,7 +221,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999998,
+   "volumen": 9992.445129,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -292,20 +281,10 @@
    "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 9944.236178,
+   "volumen": 9944.236178000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
-  },
-  {
-   "question": "Will Jeff Weninger win the 2026 Chandler mayoral election?",
-   "slug": "will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9943.775679,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Jeff Weninger la elección municipal de Chandler en 2026?"
   }
  ],
  "historico": {
