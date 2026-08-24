@@ -1,31 +1,10 @@
 {
- "ts": 1787602261,
- "stamp": "20260824_201101",
+ "ts": 1787602621,
+ "stamp": "20260824_201701",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x211f2f58d38d8022f3d71a99685ebec3ff12a396118c38e8fb97fdcab53ded1e",
-   "titulo": "Will Bitcoin dip to $60,000 in August?",
-   "slug": "will-bitcoin-dip-to-60k-in-august-2026",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 8093.63,
-   "price": 0.9838784254,
-   "usd": 7963.15,
-   "ts": 1787601907,
-   "categoria": "Cripto",
-   "prob": 63,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $7,963 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-bitcoin-dip-to-60k-in-august-2026",
-   "titulo_es": "¿Caerá Bitcoin a $60,000 en agosto?",
-   "narrativa": "El mercado descuenta con un 73% de probabilidad que Bitcoin no toque los $60,000 en agosto, pero el consenso externo de analistas técnicos sitúa el soporte clave en $62,500, dejando un margen de error de solo $2,500. Con una posición de $7,963 en 'No', el edge implícito es de +9 puntos sobre la probabilidad justa del 64%, lo que compensa el riesgo de un shock de liquidez intradía. Riesgo: baja profundidad en el libro de órdenes para montos superiores a $8,000."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -150,8 +129,8 @@
   {
    "question": "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?",
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
-   "yes": 0.845,
-   "no": 0.155,
+   "yes": 0.85,
+   "no": 0.15,
    "volumen": 99752.29388100002,
    "spread": 0.0,
    "categoria": "Política",
@@ -260,8 +239,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2065,
-   "no": 0.7935,
+   "yes": 0.2085,
+   "no": 0.7915,
    "volumen": 9997.396973,
    "spread": 0.0,
    "categoria": "Deportes",
