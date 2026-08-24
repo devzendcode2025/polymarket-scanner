@@ -1,6 +1,6 @@
 {
- "ts": 1787595780,
- "stamp": "20260824_182300",
+ "ts": 1787596140,
+ "stamp": "20260824_182900",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -159,8 +159,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.082,
-   "no": 0.918,
+   "yes": 0.0765,
+   "no": 0.9235,
    "volumen": 98926.07896599997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -179,8 +179,8 @@
   {
    "question": "Will Julian Alvarez join Barcelona?",
    "slug": "will-julian-alvarez-join-barcelona-20260612230229112",
-   "yes": 0.149,
-   "no": 0.851,
+   "yes": 0.1495,
+   "no": 0.8505,
    "volumen": 98597.27629100002,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -259,8 +259,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9815,
-   "no": 0.0185,
+   "yes": 0.983,
+   "no": 0.017,
    "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -269,8 +269,8 @@
   {
    "question": "Will the highest temperature in Miami be between 90-91°F on August 24?",
    "slug": "highest-temperature-in-miami-on-august-24-2026-90-91f",
-   "yes": 0.9,
-   "no": 0.1,
+   "yes": 0.955,
+   "no": 0.045,
    "volumen": 9970.210057,
    "spread": 0.0,
    "categoria": "Otros",
@@ -288,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787594235,
+  "ts": 1787596120,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
