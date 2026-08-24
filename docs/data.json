@@ -1,10 +1,31 @@
 {
- "ts": 1787576876,
- "stamp": "20260824_130756",
+ "ts": 1787577416,
+ "stamp": "20260824_131656",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x6120ff9df5ce35429e5d7c60378c1de74ea8adcf407b73ea256c7994551ca84c",
+   "titulo": "Counter-Strike: ECHO vs CYBERSHOKE Esports (BO1) - IEM Beijing: Global Open Qualifier Playoffs",
+   "slug": "cs2-echo-cs1-2026-08-24",
+   "outcome": "CYBERSHOKE Esports",
+   "side": "BUY",
+   "size": 4622.56,
+   "price": 0.54,
+   "usd": 2496.18,
+   "ts": 1787577277,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,496 en 'CYBERSHOKE Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/cs2-echo-cs1-2026-08-24",
+   "titulo_es": "Counter-Strike: ECHO vs CYBERSHOKE Esports (BO1) - Clasificatorio Abierto Global de IEM Beijing: Playoffs",
+   "narrativa": "La compra en CYBERSHOKE Esports muestra un edge positivo de 2.5 puntos frente al consenso externo, con un monto de $2,496 que refleja confianza en el desajuste de probabilidades. El mercado de BO1 en playoffs suele tener más ruido, lo que amplifica la ventaja estadística a favor del underdog. Riesgo: alta volatilidad en mapas únicos y posible falta de liquidez en horas pico."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -109,8 +130,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.205,
-   "no": 0.795,
+   "yes": 0.195,
+   "no": 0.805,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -119,8 +140,8 @@
   {
    "question": "Ink FDV above $100M one day after launch?",
    "slug": "ink-fdv-above-100m-one-day-after-launch",
-   "yes": 0.545,
-   "no": 0.455,
+   "yes": 0.55,
+   "no": 0.45,
    "volumen": 99213.643088,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -129,8 +150,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99063.70341899997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -169,8 +190,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.079,
-   "no": 0.921,
+   "yes": 0.085,
+   "no": 0.915,
    "volumen": 98474.17104299998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -189,8 +210,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2105,
-   "no": 0.7895,
+   "yes": 0.212,
+   "no": 0.788,
    "volumen": 9997.396972999995,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -259,8 +280,8 @@
   {
    "question": "Will the Rhine River fail to return to normal levels by November 1, 2026?",
    "slug": "will-the-rhine-river-fail-to-return-to-normal-levels-by-november-1-2026-20260810225829402",
-   "yes": 0.008,
-   "no": 0.992,
+   "yes": 0.0075,
+   "no": 0.9925,
    "volumen": 9955.850396,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -279,8 +300,8 @@
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.002,
-   "no": 0.998,
+   "yes": 0.003,
+   "no": 0.997,
    "volumen": 9946.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
