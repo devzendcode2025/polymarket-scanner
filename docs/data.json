@@ -1,31 +1,10 @@
 {
- "ts": 1787563013,
- "stamp": "20260824_091653",
+ "ts": 1787563553,
+ "stamp": "20260824_092553",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x55aa666cb699a72ab098594545ed5fe04ca1d712b2faa3a3f9b7eca638ec3cb5",
-   "titulo": "Bitcoin Up or Down - August 24, 5:10AM-5:15AM ET",
-   "slug": "btc-updown-5m-1787562600",
-   "outcome": "Up",
-   "side": "BUY",
-   "size": 1226.56,
-   "price": 0.99,
-   "usd": 1214.29,
-   "ts": 1787562849,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,214 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1787562600",
-   "titulo_es": "Bitcoin Sube o Baja - 24 de agosto, 5:10AM-5:15AM ET",
-   "narrativa": "La señal de compra en 'Bitcoin Sube o Baja' presenta un monto de $1,214.29, lo que indica una apuesta direccional clara hacia 'Up' en una ventana de 5 minutos. Aunque el volumen de mercado no está disponible, el tamaño del trade sugiere convicción en un movimiento alcista inmediato, probablemente alineado con un catalizador de corto plazo. El edge se materializa si el precio supera el nivel de referencia al cierre de la ventana, con un desvío estándar que justifica la entrada agresiva. Riesgo: alta sensibilidad a noticias de último minuto y spreads amplios en ventanas cortas."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923296.763659997,
+   "volumen": 9923296.763659991,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -82,7 +61,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99964.11528600001,
+   "volumen": 99964.115286,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -90,9 +69,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0635,
-   "no": 0.9365,
-   "volumen": 99947.95304,
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 99947.95304000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -102,7 +81,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99932.49187999997,
+   "volumen": 99932.49188000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -112,7 +91,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.845,
    "no": 0.155,
-   "volumen": 99644.22682899996,
+   "volumen": 99644.22682899999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -122,7 +101,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599999,
+   "volumen": 99614.48294599997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -130,8 +109,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.205,
-   "no": 0.795,
+   "yes": 0.19,
+   "no": 0.81,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -140,9 +119,9 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
-   "volumen": 99063.70341900001,
+   "yes": 0.145,
+   "no": 0.855,
+   "volumen": 99063.70341900004,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -152,7 +131,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058300001,
+   "volumen": 98936.430583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -182,7 +161,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.705,
    "no": 0.295,
-   "volumen": 98427.30661799999,
+   "volumen": 98427.30661800002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -190,8 +169,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.0675,
+   "no": 0.9325,
    "volumen": 98294.00581699998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -210,9 +189,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2115,
-   "no": 0.7885,
-   "volumen": 9997.396973,
+   "yes": 0.2135,
+   "no": 0.7865,
+   "volumen": 9997.396973000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -260,9 +239,9 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.055,
-   "no": 0.945,
-   "volumen": 9965.953989000001,
+   "yes": 0.054,
+   "no": 0.946,
+   "volumen": 9965.953989,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará “Saturday Night Live” los Emmys 2026: Mejor serie de variedades?"
@@ -290,8 +269,8 @@
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.003,
+   "no": 0.997,
    "volumen": 9946.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -300,8 +279,8 @@
   {
    "question": "Will Google have the best Text-to-Video AI at the end of September 2026?",
    "slug": "will-google-have-the-best-text-to-video-ai-at-the-end-of-september-2026-20260811194842928",
-   "yes": 0.655,
-   "no": 0.345,
+   "yes": 0.66,
+   "no": 0.34,
    "volumen": 9939.046984999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -309,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787561683,
+  "ts": 1787563631,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
