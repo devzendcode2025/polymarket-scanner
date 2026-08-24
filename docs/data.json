@@ -1,29 +1,29 @@
 {
- "ts": 1787544829,
- "stamp": "20260824_041349",
+ "ts": 1787545369,
+ "stamp": "20260824_042249",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x3f7e38c321b9bd5cd0547444634dd09ac7424862013a8809c5fe05baa00da39d",
-   "titulo": "Will Aston Villa FC win on 2026-08-31?",
-   "slug": "epl-ast-ars-2026-08-31-ast",
-   "outcome": "No",
+   "market_id": "0x858bda7a49da1e503cbaf2245dfd6bc0e05ae8847e5d707b15307466a6a349f0",
+   "titulo": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova",
+   "slug": "wta-ruzic-bartunk-2026-08-23",
+   "outcome": "Nikola Bartunkova",
    "side": "BUY",
-   "size": 1500.0,
-   "price": 0.86,
-   "usd": 1290.0,
-   "ts": 1787544496,
+   "size": 2003.76944,
+   "price": 0.8917343285,
+   "usd": 1786.83,
+   "ts": 1787545108,
    "categoria": "Otros",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,290 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/epl-ast-ars-2026-08-31-ast",
-   "titulo_es": "¿Ganará el Aston Villa FC el 2026-08-31?",
-   "narrativa": "La compra de 'No' en Aston Villa refleja un consenso externo que descarta al club como campeón en esa fecha, y el monto de 1,290 USD busca capitalizar la baja probabilidad implícita del mercado. El edge se materializa si el precio actual del 'No' está por debajo del 85-90% de probabilidad real, dado el desvío entre la oferta y la demanda institucional. Riesgo: volatilidad por noticias de fichajes o lesiones de última hora que alteren las cuotas."
+   "razon": "Trade de compra por $1,787 en 'Nikola Bartunkova'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-ruzic-bartunk-2026-08-23",
+   "titulo_es": "Abierto de Monterrey: Antonia Ruzic vs Nikola Bartunkova",
+   "narrativa": "El mercado descuenta a Nikola Bartunkova como favorita, pero el edge de compra se sustenta en un desajuste de precios frente al consenso externo, que la sitúa con mayor probabilidad implícita de victoria. Con un monto de 1,786.83 USD, la posición aprovecha la ventana antes de que el mercado corrija la discrepancia, ofreciendo un punto de entrada con potencial de revalorización si el precio converge a la referencia externa. El volumen del mercado no está disponible, por lo que la ejecución podría enfrentar spreads amplios; riesgo: liquidez limitada."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923291.76366,
+   "volumen": 9923291.763660002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -72,7 +72,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-at-least-900m-by-august-31-20260717232947960",
    "yes": 0.3315,
    "no": 0.6685,
-   "volumen": 998949.0902499999,
+   "volumen": 998949.09025,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de al menos 900 millones para el 31 de agosto?"
@@ -82,7 +82,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993854.556857,
+   "volumen": 993854.5568570002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -102,7 +102,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.016,
    "no": 0.984,
-   "volumen": 99964.11528600001,
+   "volumen": 99964.11528599999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -112,7 +112,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.063,
    "no": 0.937,
-   "volumen": 99947.95304,
+   "volumen": 99947.95304000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -132,7 +132,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599999,
+   "volumen": 99614.48294600003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -152,7 +152,7 @@
    "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
    "yes": 0.71,
    "no": 0.29,
-   "volumen": 99114.48986399999,
+   "volumen": 99210.48986399999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Modelo de clase Mythos lanzado antes del 30 de septiembre de 2026?"
@@ -160,32 +160,32 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.165,
-   "no": 0.835,
-   "volumen": 99063.703419,
+   "yes": 0.155,
+   "no": 0.845,
+   "volumen": 99063.70341899998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will Ethereum hit $1,000 or $3,000 first?",
-   "slug": "will-ethereum-hit-1k-or-3k-first",
-   "yes": 0.25,
-   "no": 0.75,
-   "volumen": 98928.180583,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
   },
   {
    "question": "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?",
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98897.81905,
+   "volumen": 98958.29904999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
+  },
+  {
+   "question": "Will Ethereum hit $1,000 or $3,000 first?",
+   "slug": "will-ethereum-hit-1k-or-3k-first",
+   "yes": 0.25,
+   "no": 0.75,
+   "volumen": 98928.18058300001,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -200,9 +200,9 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
-   "volumen": 98427.30661799999,
+   "yes": 0.68,
+   "no": 0.32,
+   "volumen": 98427.306618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -210,9 +210,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2145,
-   "no": 0.7855,
-   "volumen": 9997.396972999997,
+   "yes": 0.217,
+   "no": 0.783,
+   "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -242,7 +242,7 @@
    "slug": "crint-lka-ind-2026-08-23-draw",
    "yes": 0.2,
    "no": 0.8,
-   "volumen": 9986.559657000005,
+   "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -258,6 +258,16 @@
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
   },
   {
+   "question": "Valorant: KRÜ Blaze vs Looking For Laburo (BO5) - VCT Game Changers Latin America South Main Event Playoffs",
+   "slug": "val-kru-lookin-2026-08-24",
+   "yes": 0.815,
+   "no": 0.185,
+   "volumen": 9977.06652,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Valorant: KRÜ Blaze vs Looking For Laburo (BO5) - VCT Game Changers Latinoamérica Sur Evento Principal Playoffs"
+  },
+  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -270,9 +280,9 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.045,
-   "no": 0.955,
-   "volumen": 9965.953989000001,
+   "yes": 0.044,
+   "no": 0.956,
+   "volumen": 9965.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará “Saturday Night Live” los Emmys 2026: Mejor serie de variedades?"
@@ -296,16 +306,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will “The Traitors” win Emmys 2026: Outstanding reality/competition series?",
-   "slug": "will-the-traitors-win-emmys-2026-outstanding-realitycompetition-series-20260709174232726",
-   "yes": 0.8655,
-   "no": 0.1345,
-   "volumen": 9930.622033,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará 'The Traitors' los Emmys 2026: Mejor serie de realidad/competencia?"
   }
  ],
  "historico": {
