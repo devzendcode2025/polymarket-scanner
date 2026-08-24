@@ -1,51 +1,10 @@
 {
- "ts": 1787553471,
- "stamp": "20260824_063751",
+ "ts": 1787553831,
+ "stamp": "20260824_064351",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xcfc1f060e7710fda31dbce1eaf86a615e1d57012aa90e68656e3581df426dc6f",
-   "titulo": "Will the highest temperature in New York City be between 84-85°F on August 24?",
-   "slug": "highest-temperature-in-nyc-on-august-24-2026-84-85f",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2530.0,
-   "price": 0.998,
-   "usd": 2524.94,
-   "ts": 1787553216,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,525 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/highest-temperature-in-nyc-on-august-24-2026-84-85f",
-   "titulo_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 84-85°F el 24 de agosto?",
-   "narrativa": "Dos compras consecutivas por ~$2,525 y ~$2,515 en el resultado 'No' indican acumulación coordinada de capital, lo que sugiere que el mercado está infravalorando la probabilidad de que la temperatura no alcance ese rango. El monto combinado de ~$5,040 en un evento de alta liquidez refuerza la convicción direccional. Riesgo: el clima puede ser volátil y el consenso externo podría cambiar con pronósticos de última hora."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xcfc1f060e7710fda31dbce1eaf86a615e1d57012aa90e68656e3581df426dc6f",
-   "titulo": "Will the highest temperature in New York City be between 84-85°F on August 24?",
-   "slug": "highest-temperature-in-nyc-on-august-24-2026-84-85f",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2520.0,
-   "price": 0.998,
-   "usd": 2514.96,
-   "ts": 1787553204,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,515 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/highest-temperature-in-nyc-on-august-24-2026-84-85f",
-   "titulo_es": "¿Será la temperatura más alta en la ciudad de Nueva York entre 84-85°F el 24 de agosto?",
-   "narrativa": "La repetición de la apuesta por 'No' con un monto casi idéntico (~$2,515) refuerza la señal de una estrategia de promediado, apuntando a un edge positivo si el consenso externo (probabilidad implícita) está por debajo del 50%. El desvío entre el precio de compra y el valor justo estimado sugiere una oportunidad de arbitraje estadístico. Riesgo: baja liquidez en horas de alta volatilidad meteorológica."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -160,8 +119,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99063.70341899995,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -210,8 +169,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.215,
-   "no": 0.785,
+   "yes": 0.213,
+   "no": 0.787,
    "volumen": 9997.396972999995,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -270,8 +229,8 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.037,
-   "no": 0.963,
+   "yes": 0.04,
+   "no": 0.96,
    "volumen": 9965.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -300,8 +259,8 @@
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.003,
-   "no": 0.997,
+   "yes": 0.002,
+   "no": 0.998,
    "volumen": 9946.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -329,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787552103,
+  "ts": 1787553907,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
