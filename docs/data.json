@@ -1,10 +1,51 @@
 {
- "ts": 1787548610,
- "stamp": "20260824_051650",
+ "ts": 1787549150,
+ "stamp": "20260824_052550",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xc5f91324af8d5baada4ff9e5fca23b8320761c5958df17d2a71353757ceb7a81",
+   "titulo": "Will Elon Musk post 65-89 tweets from August 22 to August 24, 2026?",
+   "slug": "elon-musk-of-tweets-august-22-august-24-2026-65-89",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 3123.46,
+   "price": 0.9603346289,
+   "usd": 2999.57,
+   "ts": 1787548698,
+   "categoria": "Tecnología",
+   "prob": 56,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,000 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-22-august-24-2026-65-89",
+   "titulo_es": "¿Publicará Elon Musk entre 65 y 89 tuits del 22 de agosto al 24 de agosto de 2026?",
+   "narrativa": "La compra de 'No' en este mercado captura una prima de riesgo elevada sobre la actividad tuitera de Musk en un periodo de 72 horas, donde el consenso externo sugiere una frecuencia media muy inferior al umbral de 65 tuits diarios. Con un monto de $2,999.57, la posición busca capitalizar la baja probabilidad implícita de un evento extremo, ofreciendo un edge asimétrico si la distribución histórica de tuits se mantiene. Riesgo: la volatilidad de un anuncio o evento noticioso puede disparar la actividad del usuario, aunque la ventana específica limita la exposición."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xbeab66d09c6b620ea97dcc021a8211f196cef6982381c2fafa6815e849007726",
+   "titulo": "Bitcoin Up or Down - August 24, 1:15AM-1:20AM ET",
+   "slug": "btc-updown-5m-1787548500",
+   "outcome": "Down",
+   "side": "SELL",
+   "size": 1107.21,
+   "price": 0.99,
+   "usd": 1096.14,
+   "ts": 1787548701,
+   "categoria": "Cripto",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,096 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-5m-1787548500",
+   "titulo_es": "Bitcoin al alza o a la baja - 24 de agosto, 1:15AM-1:20AM ET",
+   "narrativa": "La venta de 'Down' en esta ventana de 5 minutos busca aprovechar un desequilibrio temporal en el micro-precio, dado que el monto de $1,096.14 sugiere una convicción moderada contra el movimiento bajista inmediato. El edge se fundamenta en la reversión a la media de la volatilidad intradía de Bitcoin, donde los movimientos direccionales de alta frecuencia suelen agotarse en plazos tan cortos, ofreciendo una oportunidad de captura de spread. Riesgo: alta sensibilidad a noticias macro o flujos de órdenes grandes que pueden romper la tendencia esperada en segundos."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +82,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923291.76366,
+   "volumen": 9923296.763659997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -51,7 +92,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-at-least-900m-by-august-31-20260717232947960",
    "yes": 0.3285,
    "no": 0.6715,
-   "volumen": 999199.09025,
+   "volumen": 999443.8014949999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de al menos 900 millones para el 31 de agosto?"
@@ -61,7 +102,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993854.556857,
+   "volumen": 993854.5568570006,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -91,7 +132,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.063,
    "no": 0.937,
-   "volumen": 99947.95304000001,
+   "volumen": 99947.95304000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -101,7 +142,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99932.49188000002,
+   "volumen": 99932.49188000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -111,7 +152,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599997,
+   "volumen": 99614.48294599996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -131,7 +172,7 @@
    "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
    "yes": 0.72,
    "no": 0.28,
-   "volumen": 99210.489864,
+   "volumen": 99236.799864,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Modelo de clase Mythos lanzado antes del 30 de septiembre de 2026?"
@@ -139,9 +180,9 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.145,
-   "no": 0.855,
-   "volumen": 99063.703419,
+   "yes": 0.14,
+   "no": 0.86,
+   "volumen": 99063.70341899997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -151,7 +192,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98958.29905000002,
+   "volumen": 98958.29904999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -161,7 +202,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98928.18058300002,
+   "volumen": 98928.18058299996,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -179,8 +220,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.67,
-   "no": 0.33,
+   "yes": 0.68,
+   "no": 0.32,
    "volumen": 98427.30661799997,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -189,9 +230,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2105,
-   "no": 0.7895,
-   "volumen": 9997.396972999999,
+   "yes": 0.21,
+   "no": 0.79,
+   "volumen": 9997.396973,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -231,7 +272,7 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.982,
    "no": 0.018,
-   "volumen": 9982.176088999997,
+   "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -249,12 +290,22 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.042,
-   "no": 0.958,
+   "yes": 0.041,
+   "no": 0.959,
    "volumen": 9965.953989,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará “Saturday Night Live” los Emmys 2026: Mejor serie de variedades?"
+  },
+  {
+   "question": "Will Elon Musk post 780-799 tweets in August 2026?",
+   "slug": "elon-musk-of-tweets-august-2026-780-799",
+   "yes": 0.01,
+   "no": 0.99,
+   "volumen": 9956.988535000002,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 780 y 799 tuits en agosto de 2026?"
   },
   {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
@@ -275,16 +326,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will “The Traitors” win Emmys 2026: Outstanding reality/competition series?",
-   "slug": "will-the-traitors-win-emmys-2026-outstanding-realitycompetition-series-20260709174232726",
-   "yes": 0.8655,
-   "no": 0.1345,
-   "volumen": 9930.622033000001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará 'The Traitors' los Emmys 2026: Mejor serie de realidad/competencia?"
   }
  ],
  "historico": {
