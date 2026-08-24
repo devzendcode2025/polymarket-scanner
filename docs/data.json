@@ -1,6 +1,6 @@
 {
- "ts": 1787608983,
- "stamp": "20260824_220303",
+ "ts": 1787609463,
+ "stamp": "20260824_221103",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9945632.615432998,
+   "volumen": 9945632.615433,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -51,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923680.153660005,
+   "volumen": 9923680.153660003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -89,9 +89,9 @@
   {
    "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
    "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-   "yes": 0.88,
-   "no": 0.12,
-   "volumen": 99989.291827,
+   "yes": 0.885,
+   "no": 0.115,
+   "volumen": 99989.29182700001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será NVIDIA la empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -129,12 +129,22 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
+  },
+  {
+   "question": "Will Ethereum reach $2,800 in August?",
+   "slug": "will-ethereum-reach-2800-in-august-2026",
+   "yes": 0.1825,
+   "no": 0.8175,
+   "volumen": 99175.16165000001,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Ethereum los $2,800 en agosto?"
   },
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
@@ -209,8 +219,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2095,
-   "no": 0.7905,
+   "yes": 0.2085,
+   "no": 0.7915,
    "volumen": 9997.396973,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -221,20 +231,10 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999998,
+   "volumen": 9992.445128999996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
-  },
-  {
-   "question": "Will Enzo Fernandez join Paris Saint-Germain?",
-   "slug": "will-enzo-fernandez-join-paris-saint-germain-20260612231645940",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9989.460445,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Se unirá Enzo Fernández al Paris Saint-Germain?"
   },
   {
    "question": "Will the Republican Party win the OR-03 House seat?",
@@ -257,14 +257,14 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Solana reach $100 in August?",
-   "slug": "will-solana-reach-100-in-august-2026-from-august-22",
-   "yes": 0.785,
-   "no": 0.215,
-   "volumen": 9986.765327,
+   "question": "Will “The Traitors” win Emmys 2026: Outstanding reality/competition series?",
+   "slug": "will-the-traitors-win-emmys-2026-outstanding-realitycompetition-series-20260709174232726",
+   "yes": 0.8655,
+   "no": 0.1345,
+   "volumen": 9985.622033,
    "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Solana los $100 en agosto?"
+   "categoria": "Deportes",
+   "question_es": "¿Ganará 'The Traitors' los Emmys 2026: Mejor serie de realidad/competencia?"
   },
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
@@ -288,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787607497,
+  "ts": 1787609327,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
