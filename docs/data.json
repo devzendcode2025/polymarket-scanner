@@ -1,6 +1,6 @@
 {
- "ts": 1787612584,
- "stamp": "20260824_230304",
+ "ts": 1787613064,
+ "stamp": "20260824_231104",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9946986.089111002,
+   "volumen": 9947013.841777999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -51,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923680.153660001,
+   "volumen": 9923680.153659983,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -61,7 +61,7 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986923.0697689996,
+   "volumen": 986923.0697689999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -71,7 +71,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.2740610002,
+   "volumen": 986453.274061,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -91,7 +91,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78187999998,
+   "volumen": 99966.78188000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -109,8 +109,8 @@
   {
    "question": "Will Ethereum reach $2,800 in August?",
    "slug": "will-ethereum-reach-2800-in-august-2026",
-   "yes": 0.1805,
-   "no": 0.8195,
+   "yes": 0.177,
+   "no": 0.823,
    "volumen": 99625.151112,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -139,8 +139,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -149,8 +149,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.072,
-   "no": 0.928,
+   "yes": 0.07,
+   "no": 0.93,
    "volumen": 99061.14896599998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -171,7 +171,7 @@
    "slug": "will-xrp-reach-2pt8-in-august-2026",
    "yes": 0.013,
    "no": 0.987,
-   "volumen": 98646.28904999999,
+   "volumen": 98646.28905,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.80 en agosto?"
@@ -189,29 +189,19 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
-   "question": "Will CA Guemes vs. Atletico de Rafaela end in a draw?",
-   "slug": "argpn-gue-ar-2026-08-24-draw",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9999.354608000001,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Terminarán en empate CA Güemes vs. Atlético de Rafaela?"
-  },
-  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.206,
-   "no": 0.794,
-   "volumen": 9997.396972999999,
+   "yes": 0.2085,
+   "no": 0.7915,
+   "volumen": 9997.396972999995,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -249,9 +239,9 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9825,
-   "no": 0.0175,
-   "volumen": 9982.176089,
+   "yes": 0.983,
+   "no": 0.017,
+   "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -265,6 +255,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Philadelphia: Mananchaya Sawangkaew vs Sloane Stephens",
+   "slug": "wta-sawangk-stephen-2026-08-24",
+   "yes": 0.485,
+   "no": 0.515,
+   "volumen": 9962.228154999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Filadelfia: Mananchaya Sawangkaew vs Sloane Stephens"
   },
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
@@ -281,14 +281,14 @@
    "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 9944.236178,
+   "volumen": 9944.236178000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
   }
  ],
  "historico": {
-  "ts": 1787611220,
+  "ts": 1787613020,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
