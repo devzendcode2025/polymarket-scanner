@@ -1,10 +1,31 @@
 {
- "ts": 1787614684,
- "stamp": "20260824_233804",
+ "ts": 1787615044,
+ "stamp": "20260824_234404",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x9c79aa5db85353e1b90ece28ed2bcbdee6d67d6acea8e2ebdd5be97ce4fd7ebd",
+   "titulo": "Tampa Bay Rays vs. Detroit Tigers",
+   "slug": "mlb-tb-det-2026-08-24",
+   "outcome": "Tampa Bay Rays",
+   "side": "SELL",
+   "size": 6999.94,
+   "price": 0.84,
+   "usd": 5879.95,
+   "ts": 1787614824,
+   "categoria": "Otros",
+   "prob": 60,
+   "confianza": "alta",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $5,880 en 'Tampa Bay Rays'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/mlb-tb-det-2026-08-24",
+   "titulo_es": "Tampa Bay Rays vs. Detroit Tigers",
+   "narrativa": "La venta de 5,879.95 USD sobre Tampa Bay Rays en el enfrentamiento contra Detroit Tigers refleja una posicion contraria al consenso del mercado, que podria estar sobrevalorando al equipo local. Este flujo de capital sugiere que un operador relevante anticipa una correccion en las probabilidades, lo que genera un edge tactico si el precio se ajusta a la baja. Riesgo: la falta de volumen de mercado registrado puede amplificar la volatilidad del precio ante ordenes de menor tamano."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -39,8 +60,8 @@
   {
    "question": "Clarity Act (H.R.3633) signed into law in 2026?",
    "slug": "clarity-act-signed-into-law-in-2026",
-   "yes": 0.175,
-   "no": 0.825,
+   "yes": 0.185,
+   "no": 0.815,
    "volumen": 9950157.330724014,
    "spread": 0.0,
    "categoria": "Otros",
@@ -59,8 +80,8 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.01,
-   "no": 0.99,
+   "yes": 0.0095,
+   "no": 0.9905,
    "volumen": 986923.0697689995,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -149,8 +170,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0715,
-   "no": 0.9285,
+   "yes": 0.071,
+   "no": 0.929,
    "volumen": 99061.14896599998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -199,8 +220,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2075,
-   "no": 0.7925,
+   "yes": 0.209,
+   "no": 0.791,
    "volumen": 9997.396972999997,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -288,7 +309,7 @@
   }
  ],
  "historico": {
-  "ts": 1787613020,
+  "ts": 1787614878,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
