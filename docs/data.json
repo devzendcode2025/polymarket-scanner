@@ -1,11 +1,40 @@
 {
- "ts": 1787535527,
- "stamp": "20260824_013847",
+ "ts": 1787536067,
+ "stamp": "20260824_014747",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [],
- "edges": [],
+ "edges": [
+  {
+   "tipo": "edge",
+   "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+   "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
+   "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
+   "prob_poly": 6.0,
+   "consenso": 15.0,
+   "edge": 9.0,
+   "direccion": "Polymarket BARATO (comprar Sí)",
+   "fuentes": [
+    {
+     "fuente": "PredictIt",
+     "titulo": "New Hampshire",
+     "prob": 15.000000000000002,
+     "url": "https://www.predictit.org/markets/detail/8939",
+     "titulo_es": "Nuevo Hampshire"
+    }
+   ],
+   "n_fuentes": 1,
+   "categoria": "Política",
+   "prob": 65,
+   "confianza": "media",
+   "horizonte": "1sem",
+   "fuentes_nombres": "PredictIt",
+   "razon": "Polymarket paga este mercado a 6.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 15.0%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
+   "narrativa": "Polymarket cotiza la opción de que el candidato demócrata gane la gobernación de Nuevo Hampshire por un margen del 3%-6% en solo 6.0%, mientras que PredictIt asigna un 15.0%, generando un edge de 9 puntos. Esta subvaloración en Polymarket puede reflejar una menor liquidez o atención en eventos de largo plazo, creando una oportunidad para quienes siguen el consenso externo. Riesgo: el margen exacto es un rango estrecho y el evento es a 2026, con alta incertidumbre."
+  }
+ ],
  "top_volumen": [
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
@@ -80,8 +109,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.21,
-   "no": 0.79,
+   "yes": 0.195,
+   "no": 0.805,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -90,8 +119,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -120,8 +149,8 @@
   {
    "question": "Next Mythos-Class Model released by September 30, 2026?",
    "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
-   "yes": 0.655,
-   "no": 0.345,
+   "yes": 0.665,
+   "no": 0.335,
    "volumen": 98877.92986399999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -190,8 +219,8 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.215,
-   "no": 0.785,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
