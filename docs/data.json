@@ -1,29 +1,29 @@
 {
- "ts": 1787599741,
- "stamp": "20260824_192901",
+ "ts": 1787600221,
+ "stamp": "20260824_193701",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb8cf56da2b654e41e0124076d9e5d30e9bc8bce8c9d6e41a5165e13f25375558",
-   "titulo": "Will Fulham FC win on 2026-08-24?",
-   "slug": "epl-ful-che-2026-08-24-ful",
+   "market_id": "0xdf42ee523657a5ab92bc03f26eb9af59c2ac1391deb3ee13726178b9ae2b6bc6",
+   "titulo": "Exact Score: Fulham FC 1 - 1 Chelsea FC?",
+   "slug": "epl-ful-che-2026-08-24-exact-score-1-1",
    "outcome": "No",
-   "side": "SELL",
-   "size": 3272.47,
-   "price": 0.75,
-   "usd": 2454.35,
-   "ts": 1787599507,
+   "side": "BUY",
+   "size": 1704.54545,
+   "price": 0.88,
+   "usd": 1500.0,
+   "ts": 1787599806,
    "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,454 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/epl-ful-che-2026-08-24-ful",
-   "titulo_es": "¿Ganará el Fulham FC el 2026-08-24?",
-   "narrativa": "La venta de 'No' en el Fulham FC ofrece un edge de +8.2 puntos sobre el consenso externo del 78% de probabilidad implícita, con un monto de $2,454 que representa el 12% del volumen diario proyectado. El desvío estándar de 3.1% sugiere que el mercado está sobrevalorando ligeramente la opción 'Sí', lo que permite capturar valor en el lado contrario. Riesgo: evento de largo plazo con posible volatilidad por noticias de fichajes o lesiones."
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,500 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/epl-ful-che-2026-08-24-exact-score-1-1",
+   "titulo_es": "Marcador Exacto: ¿Fulham FC 1 - 1 Chelsea FC?",
+   "narrativa": "La compra de 'No' a que el marcador exacto sea Fulham 1-1 Chelsea refleja un edge positivo frente al consenso externo, ya que los empates 1-1 en derbis londinenses suelen estar sobrevalorados por el público. Con $1,500 asignados, el mercado muestra suficiente profundidad para ejecutar sin deslizamiento significativo, y el desvío implícito en las probabilidades sugiere que el 'No' cotiza por debajo de su probabilidad real. Riesgo: posible volatilidad si el partido se mantiene empatado hasta el final."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9936555.518975005,
+   "volumen": 9936555.518974997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -72,7 +72,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923645.153660001,
+   "volumen": 9923645.153660005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -82,7 +82,7 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.0115,
    "no": 0.9885,
-   "volumen": 984369.1364369998,
+   "volumen": 984369.136437,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -92,7 +92,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 984202.2840610001,
+   "volumen": 984202.2840610002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -110,9 +110,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.064,
-   "no": 0.936,
-   "volumen": 99947.95304000002,
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 99947.95304,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -122,7 +122,7 @@
    "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
    "yes": 0.88,
    "no": 0.12,
-   "volumen": 99862.32554700001,
+   "volumen": 99862.325547,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será NVIDIA la empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -138,21 +138,11 @@
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
   },
   {
-   "question": "Will Julian Alvarez join Barcelona?",
-   "slug": "will-julian-alvarez-join-barcelona-20260612230229112",
-   "yes": 0.152,
-   "no": 0.848,
-   "volumen": 99726.26541500002,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Se unirá Julián Álvarez al Barcelona?"
-  },
-  {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599996,
+   "volumen": 99614.482946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -182,7 +172,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058300001,
+   "volumen": 98936.43058299998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -190,8 +180,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.075,
-   "no": 0.925,
+   "yes": 0.0765,
+   "no": 0.9235,
    "volumen": 98926.07896599999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -222,7 +212,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.7,
    "no": 0.3,
-   "volumen": 98427.306618,
+   "volumen": 98427.30661800002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -230,9 +220,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.204,
-   "no": 0.796,
-   "volumen": 9997.396973,
+   "yes": 0.2045,
+   "no": 0.7955,
+   "volumen": 9997.396972999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -272,10 +262,20 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 9982.176088999997,
+   "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
+  },
+  {
+   "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
+   "slug": "will-russia-and-ukraine-hold-any-diplomatic-meeting-by-august-31-2026-20260819",
+   "yes": 0.175,
+   "no": 0.825,
+   "volumen": 9969.665923,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Rusia y Ucrania celebrarán alguna reunión diplomática antes del 31 de agosto de 2026?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -288,16 +288,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
-   "slug": "will-russia-and-ukraine-hold-any-diplomatic-meeting-by-august-31-2026-20260819",
-   "yes": 0.18,
-   "no": 0.82,
-   "volumen": 9962.415923,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Rusia y Ucrania celebrarán alguna reunión diplomática antes del 31 de agosto de 2026?"
-  },
-  {
    "question": "Spread: ACF Fiorentina (-1.5)",
    "slug": "sea-rom-fio-2026-08-24-spread-away-1pt5",
    "yes": 0.0055,
@@ -306,10 +296,20 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Margen: ACF Fiorentina (-1.5)"
+  },
+  {
+   "question": "Will the Los Angeles Dodgers win more than 99.5 games in the 2026 MLB Regular Season?",
+   "slug": "2026-mlb-win-totals-los-angeles-dodgers",
+   "yes": 0.475,
+   "no": 0.525,
+   "volumen": 9947.902863999998,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Los Angeles Dodgers más de 99.5 juegos en la Temporada Regular de la MLB 2026?"
   }
  ],
  "historico": {
-  "ts": 1787598050,
+  "ts": 1787599968,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
