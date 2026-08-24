@@ -1,29 +1,29 @@
 {
- "ts": 1787583537,
- "stamp": "20260824_145857",
+ "ts": 1787583897,
+ "stamp": "20260824_150457",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7451d45113d6de707cb3531971a8e1f532650e36e221afa99afb39f904bba1b2",
-   "titulo": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
-   "slug": "atp-dedurap-sil-2026-08-24",
-   "outcome": "Diego Dedura-Palomero",
+   "market_id": "0xc5f91324af8d5baada4ff9e5fca23b8320761c5958df17d2a71353757ceb7a81",
+   "titulo": "Will Elon Musk post 65-89 tweets from August 22 to August 24, 2026?",
+   "slug": "elon-musk-of-tweets-august-22-august-24-2026-65-89",
+   "outcome": "No",
    "side": "BUY",
-   "size": 2212.942544,
-   "price": 0.5422644172,
-   "usd": 1200.0,
-   "ts": 1787583288,
-   "categoria": "Deportes",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,200 en 'Diego Dedura-Palomero'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-dedurap-sil-2026-08-24",
-   "titulo_es": "US Open, Clasificación ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
-   "narrativa": "El mercado muestra una oportunidad de compra sobre Diego Dedura-Palomero en la clasificación del US Open, con un monto de 1,200 USD que refleja confianza en su avance frente a un rival de menor proyección en canchas duras. El edge positivo se sustenta en la diferencia de ritmo y juventud del jugador local, aunque el consenso externo no está claramente definido por la falta de volumen histórico en este tipo de partidos. Riesgo: poca liquidez en el mercado, lo que puede ampliar la horquilla de precios."
+   "size": 2004.075,
+   "price": 0.9979665731,
+   "usd": 2000.0,
+   "ts": 1787583586,
+   "categoria": "Tecnología",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/elon-musk-of-tweets-august-22-august-24-2026-65-89",
+   "titulo_es": "¿Publicará Elon Musk entre 65 y 89 tuits del 22 de agosto al 24 de agosto de 2026?",
+   "narrativa": "La compra de 'No' en BALLENA capitaliza el desgaste mediático de Elon Musk, cuyo ritmo histórico de publicación rara vez sostiene un volumen tan alto en una ventana de tres días; el consenso externo anticipa una actividad más moderada, otorgando un edge favorable al precio actual. Con $2,000 asignados, la posición busca capturar la reversión a la media si el tuitómetro no alcanza el umbral, aunque el mercado carece de volumen reportado, lo que puede amplificar la volatilidad intradía. Riesgo: poca liquidez y sensibilidad a noticias virales de último momento."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923311.823659973,
+   "volumen": 9923311.823659984,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -82,7 +82,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99981.59491100001,
+   "volumen": 99988.594911,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -122,7 +122,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.84,
    "no": 0.16,
-   "volumen": 99732.29388099998,
+   "volumen": 99732.293881,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -132,7 +132,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599996,
+   "volumen": 99614.48294599997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -162,7 +162,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 99063.70341900003,
+   "volumen": 99063.70341900001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -172,7 +172,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058300001,
+   "volumen": 98936.430583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -180,9 +180,9 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0805,
-   "no": 0.9195,
-   "volumen": 98907.21104299997,
+   "yes": 0.0815,
+   "no": 0.9185,
+   "volumen": 98907.21104299999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
@@ -192,7 +192,7 @@
    "slug": "will-xrp-reach-2pt8-in-august-2026",
    "yes": 0.014,
    "no": 0.986,
-   "volumen": 98645.26904999999,
+   "volumen": 98645.26905,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.80 en agosto?"
@@ -212,7 +212,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.695,
    "no": 0.305,
-   "volumen": 98427.30661799999,
+   "volumen": 98427.306618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -230,9 +230,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.207,
-   "no": 0.793,
-   "volumen": 9997.396972999997,
+   "yes": 0.2095,
+   "no": 0.7905,
+   "volumen": 9997.396973,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -262,7 +262,7 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9845,
    "no": 0.0155,
-   "volumen": 9982.176088999999,
+   "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -290,8 +290,8 @@
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.0045,
+   "no": 0.9955,
    "volumen": 9946.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
