@@ -1,6 +1,6 @@
 {
- "ts": 1787590379,
- "stamp": "20260824_165259",
+ "ts": 1787590919,
+ "stamp": "20260824_170159",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -187,8 +187,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.086,
-   "no": 0.914,
+   "yes": 0.082,
+   "no": 0.918,
    "volumen": 98926.07896599997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -237,8 +237,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2135,
-   "no": 0.7865,
+   "yes": 0.2125,
+   "no": 0.7875,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
