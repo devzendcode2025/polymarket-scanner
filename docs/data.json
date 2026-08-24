@@ -1,31 +1,10 @@
 {
- "ts": 1787564093,
- "stamp": "20260824_093453",
+ "ts": 1787564453,
+ "stamp": "20260824_094053",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x6920976d0a4f46de9dd87371a7f82a2bbbfa87aa2dd444a1033a8057b86f2f92",
-   "titulo": "Will the highest temperature in Hong Kong be 34°C or higher on August 24?",
-   "slug": "highest-temperature-in-hong-kong-on-august-24-2026-34corhigher",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1106.84,
-   "price": 0.999,
-   "usd": 1105.73,
-   "ts": 1787563746,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,106 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/highest-temperature-in-hong-kong-on-august-24-2026-34corhigher",
-   "titulo_es": "¿Será la temperatura más alta en Hong Kong de 34°C o más el 24 de agosto?",
-   "narrativa": "El mercado descuenta un 34% de probabilidad implícita para que la temperatura alcance o supere los 34°C, mientras que el consenso externo de modelos climáticos sitúa ese escenario en torno al 28%, generando un edge positivo de 6 puntos a favor de la opción 'No'. Con un monto de $1,105.73, la posición aprovecha una discrepancia moderada pero consistente con la tendencia histórica de agosto en Hong Kong, donde los extremos de calor suelen quedar por debajo de ese umbral. Riesgo: la volatilidad climática de última hora puede estrechar el margen, aunque la liquidez del mercado es suficiente para la entrada."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -110,8 +89,8 @@
   {
    "question": "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?",
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
-   "yes": 0.845,
-   "no": 0.155,
+   "yes": 0.84,
+   "no": 0.16,
    "volumen": 99644.22682899998,
    "spread": 0.0,
    "categoria": "Política",
@@ -130,8 +109,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.22,
-   "no": 0.78,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -140,8 +119,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.135,
+   "no": 0.865,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -180,8 +159,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.71,
-   "no": 0.29,
+   "yes": 0.705,
+   "no": 0.295,
    "volumen": 98427.30661799997,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -210,8 +189,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.211,
-   "no": 0.789,
+   "yes": 0.2115,
+   "no": 0.7885,
    "volumen": 9997.396972999997,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -260,8 +239,8 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.0565,
-   "no": 0.9435,
+   "yes": 0.0555,
+   "no": 0.9445,
    "volumen": 9965.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -270,8 +249,8 @@
   {
    "question": "Will Z.ai be the second-best Chinese AI company at the end of September 2026?",
    "slug": "will-zptai-be-the-second-best-chinese-ai-company-at-the-end-of-september-2026-20260722220234246",
-   "yes": 0.36,
-   "no": 0.64,
+   "yes": 0.365,
+   "no": 0.635,
    "volumen": 9960.202744999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -290,8 +269,8 @@
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.004,
-   "no": 0.996,
+   "yes": 0.003,
+   "no": 0.997,
    "volumen": 9946.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
