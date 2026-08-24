@@ -1,51 +1,10 @@
 {
- "ts": 1787589838,
- "stamp": "20260824_164358",
+ "ts": 1787590379,
+ "stamp": "20260824_165259",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xb06a59e8a1b31782da7df3d826a8f42f117f2b2673c1624fc573fc91eaed4fd8",
-   "titulo": "Spread: Minnesota Lynx (-5.5)",
-   "slug": "wnba-gsv-min-2026-08-24-spread-home-5pt5",
-   "outcome": "Minnesota Lynx",
-   "side": "BUY",
-   "size": 2855.0,
-   "price": 0.47,
-   "usd": 1341.85,
-   "ts": 1787589592,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,342 en 'Minnesota Lynx'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wnba-gsv-min-2026-08-24-spread-home-5pt5",
-   "titulo_es": "Spread: Minnesota Lynx (-5.5)",
-   "narrativa": "El mercado muestra una apuesta significativa de 1,341.85 USD a favor de Minnesota Lynx con un spread de -5.5 puntos, lo que indica confianza en una victoria por margen amplio. Aunque no hay consenso externo disponible, el volumen de la operación sugiere una convicción institucional que puede generar un edge positivo si el equipo cubre el spread. Riesgo: posible volatilidad en el marcador final si el juego se define en los últimos minutos."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x211303820263c7b15303dba95a7bf9da61c39ef13105eb248ef06c7be3e33cc2",
-   "titulo": "Bitcoin Up or Down - August 24, 12:35PM-12:40PM ET",
-   "slug": "btc-updown-5m-1787589300",
-   "outcome": "Down",
-   "side": "BUY",
-   "size": 1061.636362,
-   "price": 0.9899999996,
-   "usd": 1051.02,
-   "ts": 1787589592,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,051 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1787589300",
-   "titulo_es": "Bitcoin al alza o a la baja - 24 de agosto, 12:35PM-12:40PM ET",
-   "narrativa": "La compra por 1,051.02 USD en 'Down' para el movimiento de Bitcoin en la ventana de 5 minutos del 24 de agosto refleja una apuesta direccional contraria al sentimiento alcista reciente. Sin consenso externo claro, el edge se basa en la probabilidad de reversión a la media en plazos ultracortos, donde el desvío típico puede ser explotado por operadores con acceso a flujo de órdenes. Riesgo: alta sensibilidad a noticias macro o movimientos bruscos de liquidez en el mercado cripto."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -110,7 +69,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923311.823659997,
+   "volumen": 9923311.823659986,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -120,7 +79,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 984202.2840609998,
+   "volumen": 984202.284061,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -140,7 +99,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000001,
+   "volumen": 99966.78188,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -150,7 +109,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99947.95304,
+   "volumen": 99947.95304000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -160,7 +119,7 @@
    "slug": "ink-fdv-above-100m-one-day-after-launch",
    "yes": 0.545,
    "no": 0.455,
-   "volumen": 99882.77408800002,
+   "volumen": 99889.464088,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿FDV de Ink por encima de $100M un día después del lanzamiento?"
@@ -170,7 +129,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.845,
    "no": 0.155,
-   "volumen": 99752.29388100003,
+   "volumen": 99752.29388100002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -190,7 +149,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599997,
+   "volumen": 99614.48294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -260,17 +219,27 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.7,
    "no": 0.3,
-   "volumen": 98427.30661799999,
+   "volumen": 98427.306618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
+   "question": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova",
+   "slug": "wta-sramkov-ibragim-2026-08-24",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 98390.593796,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Abierto de EE. UU., Clasificación WTA: Rebecca Sramkova vs Alevtina Ibragimova"
+  },
+  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.214,
-   "no": 0.786,
-   "volumen": 9997.396972999995,
+   "yes": 0.2135,
+   "no": 0.7865,
+   "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -326,16 +295,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the highest temperature in London be 23°C on August 25?",
-   "slug": "highest-temperature-in-london-on-august-25-2026-23c",
-   "yes": 0.235,
-   "no": 0.765,
-   "volumen": 9958.110143000002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Londres de 23°C el 25 de agosto?"
-  },
-  {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
    "yes": 0.003,
@@ -357,7 +316,7 @@
   }
  ],
  "historico": {
-  "ts": 1787588477,
+  "ts": 1787590480,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
