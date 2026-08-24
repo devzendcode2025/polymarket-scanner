@@ -1,10 +1,31 @@
 {
- "ts": 1787544289,
- "stamp": "20260824_040449",
+ "ts": 1787544829,
+ "stamp": "20260824_041349",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x3f7e38c321b9bd5cd0547444634dd09ac7424862013a8809c5fe05baa00da39d",
+   "titulo": "Will Aston Villa FC win on 2026-08-31?",
+   "slug": "epl-ast-ars-2026-08-31-ast",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 1500.0,
+   "price": 0.86,
+   "usd": 1290.0,
+   "ts": 1787544496,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,290 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/epl-ast-ars-2026-08-31-ast",
+   "titulo_es": "¿Ganará el Aston Villa FC el 2026-08-31?",
+   "narrativa": "La compra de 'No' en Aston Villa refleja un consenso externo que descarta al club como campeón en esa fecha, y el monto de 1,290 USD busca capitalizar la baja probabilidad implícita del mercado. El edge se materializa si el precio actual del 'No' está por debajo del 85-90% de probabilidad real, dado el desvío entre la oferta y la demanda institucional. Riesgo: volatilidad por noticias de fichajes o lesiones de última hora que alteren las cuotas."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -79,8 +100,8 @@
   {
    "question": "US obtains Iranian enriched uranium by September 30?",
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
-   "yes": 0.0165,
-   "no": 0.9835,
+   "yes": 0.016,
+   "no": 0.984,
    "volumen": 99964.11528600001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -129,8 +150,8 @@
   {
    "question": "Next Mythos-Class Model released by September 30, 2026?",
    "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
-   "yes": 0.715,
-   "no": 0.285,
+   "yes": 0.71,
+   "no": 0.29,
    "volumen": 99114.48986399999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -139,8 +160,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.17,
-   "no": 0.83,
+   "yes": 0.165,
+   "no": 0.835,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -179,8 +200,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.675,
-   "no": 0.325,
+   "yes": 0.685,
+   "no": 0.315,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -189,8 +210,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.216,
-   "no": 0.784,
+   "yes": 0.2145,
+   "no": 0.7855,
    "volumen": 9997.396972999997,
    "spread": 0.0,
    "categoria": "Deportes",
