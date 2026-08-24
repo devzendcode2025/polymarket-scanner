@@ -1,10 +1,31 @@
 {
- "ts": 1787585878,
- "stamp": "20260824_153758",
+ "ts": 1787586238,
+ "stamp": "20260824_154358",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x760eda8f785bfa48cd2bb5918785f9a950497c0bf3933fc7240845f9f8992715",
+   "titulo": "Bitcoin Up or Down on August 24?",
+   "slug": "bitcoin-up-or-down-on-august-24-2026",
+   "outcome": "Up",
+   "side": "SELL",
+   "size": 2092.62,
+   "price": 0.999,
+   "usd": 2090.53,
+   "ts": 1787585982,
+   "categoria": "Cripto",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,091 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/bitcoin-up-or-down-on-august-24-2026",
+   "titulo_es": "¿Bitcoin al alza o a la baja el 24 de agosto?",
+   "narrativa": "La señal de venta en 'Bitcoin al alza o a la baja el 24 de agosto' con un monto de $2,090.53 refleja una apuesta contraria al consenso externo, que mayoritariamente espera un movimiento alcista. Este posicionamiento en contra de la corriente principal, con un edge estimado de 3.2 puntos a favor de la venta, sugiere que el mercado podría estar sobrecomprado en el corto plazo. La falta de volumen de mercado registrado añade incertidumbre, pero la magnitud del trade indica convicción en la corrección. Riesgo: posible volatilidad extrema por noticias macro de último minuto."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -99,8 +120,8 @@
   {
    "question": "Ink FDV above $100M one day after launch?",
    "slug": "ink-fdv-above-100m-one-day-after-launch",
-   "yes": 0.535,
-   "no": 0.465,
+   "yes": 0.53,
+   "no": 0.47,
    "volumen": 99882.77408799999,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -109,8 +130,8 @@
   {
    "question": "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?",
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
-   "yes": 0.84,
-   "no": 0.16,
+   "yes": 0.845,
+   "no": 0.155,
    "volumen": 99752.293881,
    "spread": 0.0,
    "categoria": "Política",
@@ -139,8 +160,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.17,
-   "no": 0.83,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -169,8 +190,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0865,
-   "no": 0.9135,
+   "yes": 0.08,
+   "no": 0.92,
    "volumen": 98907.21104299996,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -259,8 +280,8 @@
   {
    "question": "Will the price of Bitcoin be above $80,000 on August 25?",
    "slug": "bitcoin-above-80k-on-august-25-2026",
-   "yes": 0.465,
-   "no": 0.535,
+   "yes": 0.415,
+   "no": 0.585,
    "volumen": 9981.974891000002,
    "spread": 0.0,
    "categoria": "Cripto",
