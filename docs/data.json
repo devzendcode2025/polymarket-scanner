@@ -1,10 +1,31 @@
 {
- "ts": 1787564993,
- "stamp": "20260824_094953",
+ "ts": 1787565353,
+ "stamp": "20260824_095553",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xdce2672692519af70f3ebe035bfd408c5b040d3542d5542902d80b161fd3b225",
+   "titulo": "Winston-Salem Open: Lorenzo Sonego vs Vit Kopriva",
+   "slug": "atp-sonego-kopriva-2026-08-24",
+   "outcome": "Vit Kopriva",
+   "side": "BUY",
+   "size": 5000.0,
+   "price": 0.41,
+   "usd": 2050.0,
+   "ts": 1787564952,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,050 en 'Vit Kopriva'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-sonego-kopriva-2026-08-24",
+   "titulo_es": "Winston-Salem Open: Lorenzo Sonego vs Vit Kopriva",
+   "narrativa": "El mercado infravalora a Vit Kopriva frente a Lorenzo Sonego, con una compra de $2,050 que busca capturar un desajuste en la probabilidad implícita. El edge positivo se sustenta en que el consenso externo no refleja el rendimiento reciente de Kopriva en pista dura, lo que genera una oportunidad de valor antes de que el precio se ajuste. Riesgo: el volumen de mercado es bajo, lo que puede ampliar el spread y dificultar la salida."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -109,8 +130,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.215,
-   "no": 0.785,
+   "yes": 0.175,
+   "no": 0.825,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -119,8 +140,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99063.70341899998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -131,7 +152,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058300001,
+   "volumen": 98936.43058300004,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -141,7 +162,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-less-than-900m-by-august-31-1785941825450",
    "yes": 0.76,
    "no": 0.24,
-   "volumen": 98746.74120499997,
+   "volumen": 98746.74120499998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day inferior a 900 millones para el 31 de agosto?"
@@ -169,8 +190,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.07,
-   "no": 0.93,
+   "yes": 0.0695,
+   "no": 0.9305,
    "volumen": 98294.00581699998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -209,8 +230,8 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.05,
-   "no": 0.95,
+   "yes": 0.0455,
+   "no": 0.9545,
    "volumen": 9985.943566999998,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -279,8 +300,8 @@
   {
    "question": "Will Google have the best Text-to-Video AI at the end of September 2026?",
    "slug": "will-google-have-the-best-text-to-video-ai-at-the-end-of-september-2026-20260811194842928",
-   "yes": 0.66,
-   "no": 0.34,
+   "yes": 0.655,
+   "no": 0.345,
    "volumen": 9939.046984999999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -288,7 +309,7 @@
   }
  ],
  "historico": {
-  "ts": 1787563631,
+  "ts": 1787565431,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
