@@ -1,10 +1,31 @@
 {
- "ts": 1787582997,
- "stamp": "20260824_144957",
+ "ts": 1787583537,
+ "stamp": "20260824_145857",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x7451d45113d6de707cb3531971a8e1f532650e36e221afa99afb39f904bba1b2",
+   "titulo": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
+   "slug": "atp-dedurap-sil-2026-08-24",
+   "outcome": "Diego Dedura-Palomero",
+   "side": "BUY",
+   "size": 2212.942544,
+   "price": 0.5422644172,
+   "usd": 1200.0,
+   "ts": 1787583288,
+   "categoria": "Deportes",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,200 en 'Diego Dedura-Palomero'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-dedurap-sil-2026-08-24",
+   "titulo_es": "US Open, Clasificación ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
+   "narrativa": "El mercado muestra una oportunidad de compra sobre Diego Dedura-Palomero en la clasificación del US Open, con un monto de 1,200 USD que refleja confianza en su avance frente a un rival de menor proyección en canchas duras. El edge positivo se sustenta en la diferencia de ritmo y juventud del jugador local, aunque el consenso externo no está claramente definido por la falta de volumen histórico en este tipo de partidos. Riesgo: poca liquidez en el mercado, lo que puede ampliar la horquilla de precios."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -157,21 +178,21 @@
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
   },
   {
-   "question": "Will Elon Musk post 40-64 tweets from August 22 to August 24, 2026?",
-   "slug": "elon-musk-of-tweets-august-22-august-24-2026-40-64",
-   "yes": 0.995,
-   "no": 0.005,
-   "volumen": 98759.17628799999,
+   "question": "Will XRP reach $2.00 in August?",
+   "slug": "will-xrp-reach-2-in-august-2026",
+   "yes": 0.0805,
+   "no": 0.9195,
+   "volumen": 98907.21104299997,
    "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 40 y 64 tuits del 22 de agosto al 24 de agosto de 2026?"
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
   },
   {
    "question": "Will XRP reach $2.80 in August?",
    "slug": "will-xrp-reach-2pt8-in-august-2026",
    "yes": 0.014,
    "no": 0.986,
-   "volumen": 98645.26905,
+   "volumen": 98645.26904999999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.80 en agosto?"
@@ -185,16 +206,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
-  },
-  {
-   "question": "Will XRP reach $2.00 in August?",
-   "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0875,
-   "no": 0.9125,
-   "volumen": 98474.17104299998,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
   },
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
@@ -219,8 +230,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2085,
-   "no": 0.7915,
+   "yes": 0.207,
+   "no": 0.793,
    "volumen": 9997.396972999997,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -285,6 +296,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will the US federal government take a stake in The Boeing Company?",
+   "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 9944.236178000003,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
   }
  ],
  "historico": {
