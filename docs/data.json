@@ -1,29 +1,29 @@
 {
- "ts": 1787604782,
- "stamp": "20260824_205302",
+ "ts": 1787605142,
+ "stamp": "20260824_205902",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xc5374c49a67862e11451e6ccd759a17e0f073e712ce531858f65ce17fcc5c86e",
-   "titulo": "Fulham FC vs. Chelsea FC: O/U 5.5",
-   "slug": "epl-ful-che-2026-08-24-total-5pt5",
+   "market_id": "0xb318ddc8df8f103311389434005fae4ef378cdda5d5f7cc10d853f6e2ee8e097",
+   "titulo": "Granada CF vs. RCD Mallorca: O/U 3.5",
+   "slug": "es2-gra-rm-2026-08-24-total-3pt5",
    "outcome": "Under",
    "side": "BUY",
-   "size": 1216.0,
-   "price": 0.85,
-   "usd": 1033.6,
-   "ts": 1787604615,
+   "size": 1452.36,
+   "price": 0.95,
+   "usd": 1379.74,
+   "ts": 1787604915,
    "categoria": "Otros",
-   "prob": 53,
+   "prob": 54,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,034 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/epl-ful-che-2026-08-24-total-5pt5",
-   "titulo_es": "Fulham FC vs. Chelsea FC: Más/Menos 5.5",
-   "narrativa": "La compra de Under 5.5 en el Fulham vs Chelsea refleja una apuesta de $1,033.6 que busca capitalizar la baja probabilidad implícita de un partido con más de 5 goles, típicamente en encuentros de alta tensión táctica. El edge se sustenta en que el consenso externo de modelos de goles esperados (xG) ronda entre 2.8 y 3.2 totales, lo que deja un margen de más de 2 goles a favor del Under. Con un volumen de mercado no reportado, el tamaño del trade sugiere convicción media-alta, pero el desvío estándar histórico de este tipo de cruces es amplio, por lo que el movimiento es oportunista más que estructural. Riesgo: posible falta de liquidez en el mercado de 5.5 goles, lo que puede ampliar el spread en momentos de alta volatilidad."
+   "razon": "Trade de compra por $1,380 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/es2-gra-rm-2026-08-24-total-3pt5",
+   "titulo_es": "Granada CF vs. RCD Mallorca: Más/Menos 3.5",
+   "narrativa": "La señal de compra en 'Under 3.5' para Granada vs. Mallorca se apoya en un monto de 1,379.74 USD, lo que indica un interés direccional claro en un mercado de baja volatilidad esperada. Aunque no se dispone del consenso externo, el tamaño de la operación sugiere que el precio actual aún no descuenta plenamente la probabilidad de un partido con pocos goles, generando un edge potencial en el punto de entrada. El volumen de mercado no está disponible, por lo que la ejecución podría enfrentar spreads amplios; riesgo: liquidez limitada en horas de baja actividad."
   }
  ],
  "edges": [
@@ -110,8 +110,8 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.0115,
-   "no": 0.9885,
+   "yes": 0.011,
+   "no": 0.989,
    "volumen": 984637.9064370001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -126,6 +126,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
+  },
+  {
+   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
+   "yes": 0.0065,
+   "no": 0.9935,
+   "volumen": 983750.9955090001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
    "question": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
@@ -188,6 +198,16 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
+   "question": "Will XRP reach $2.00 in August?",
+   "slug": "will-xrp-reach-2-in-august-2026",
+   "yes": 0.0735,
+   "no": 0.9265,
+   "volumen": 99058.39896599998,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
+  },
+  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
@@ -200,8 +220,8 @@
   {
    "question": "Will Ethereum reach $2,800 in August?",
    "slug": "will-ethereum-reach-2800-in-august-2026",
-   "yes": 0.174,
-   "no": 0.826,
+   "yes": 0.173,
+   "no": 0.827,
    "volumen": 98772.768854,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -316,26 +336,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will the US federal government take a stake in The Boeing Company?",
-   "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 9944.236178000003,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
-  },
-  {
-   "question": "Will Jeff Weninger win the 2026 Chandler mayoral election?",
-   "slug": "will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9943.775679,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Jeff Weninger la elección municipal de Chandler en 2026?"
   }
  ],
  "historico": {
