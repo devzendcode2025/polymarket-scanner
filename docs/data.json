@@ -1,62 +1,32 @@
 {
- "ts": 1787605142,
- "stamp": "20260824_205902",
+ "ts": 1787605622,
+ "stamp": "20260824_210702",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xb318ddc8df8f103311389434005fae4ef378cdda5d5f7cc10d853f6e2ee8e097",
-   "titulo": "Granada CF vs. RCD Mallorca: O/U 3.5",
-   "slug": "es2-gra-rm-2026-08-24-total-3pt5",
-   "outcome": "Under",
+   "market_id": "0x03356277d0ed6254ca03f643cdf11a63912d9b16a214a817e549c80084006f0b",
+   "titulo": "Will Granada CF vs. RCD Mallorca end in a draw?",
+   "slug": "es2-gra-rm-2026-08-24-draw",
+   "outcome": "No",
    "side": "BUY",
-   "size": 1452.36,
-   "price": 0.95,
-   "usd": 1379.74,
-   "ts": 1787604915,
+   "size": 1564.0,
+   "price": 0.74,
+   "usd": 1157.36,
+   "ts": 1787605212,
    "categoria": "Otros",
-   "prob": 54,
+   "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,380 en 'Under'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/es2-gra-rm-2026-08-24-total-3pt5",
-   "titulo_es": "Granada CF vs. RCD Mallorca: Más/Menos 3.5",
-   "narrativa": "La señal de compra en 'Under 3.5' para Granada vs. Mallorca se apoya en un monto de 1,379.74 USD, lo que indica un interés direccional claro en un mercado de baja volatilidad esperada. Aunque no se dispone del consenso externo, el tamaño de la operación sugiere que el precio actual aún no descuenta plenamente la probabilidad de un partido con pocos goles, generando un edge potencial en el punto de entrada. El volumen de mercado no está disponible, por lo que la ejecución podría enfrentar spreads amplios; riesgo: liquidez limitada en horas de baja actividad."
+   "razon": "Trade de compra por $1,157 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/es2-gra-rm-2026-08-24-draw",
+   "titulo_es": "¿Terminará en empate el Granada CF vs. RCD Mallorca?",
+   "narrativa": "Una ballena ha comprado $1,157 en 'No' para el empate entre Granada y Mallorca, una apuesta considerable dado que el volumen total del mercado no se reporta. Esta orden grande puede reflejar información privilegiada o una fuerte convicción de que el partido no terminará igualado, lo que podría mover la cuota del 'No' al alza. El monto del trade es lo suficientemente grande como para influir en la liquidez disponible, creando una oportunidad de seguir la estela de este jugador mayor. Riesgo: posible falta de liquidez para salir rápido de la posición."
   }
  ],
  "edges": [
-  {
-   "tipo": "edge",
-   "question": "Texas Rangers vs. Chicago White Sox",
-   "slug": "mlb-tex-cws-2026-08-24",
-   "url": "https://polymarket.com/market/mlb-tex-cws-2026-08-24",
-   "prob_poly": 44.5,
-   "consenso": 54.5,
-   "edge": 10.0,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "ESPN",
-     "titulo": "Winner: Chicago White Sox vs Texas Rangers (mlb)",
-     "prob": 54.46,
-     "url": "https://www.espn.com/baseball/game/_/gameId/401816658",
-     "deporte": "mlb",
-     "game_id": "401816658",
-     "titulo_es": "Ganador: Chicago White Sox vs Texas Rangers (mlb)"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Otros",
-   "prob": 66,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "ESPN",
-   "razon": "Polymarket paga este mercado a 44.5% y el consenso de 1 fuente(s) externa(s) (ESPN) lo paga a 54.5%: diferencia de 10.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "Texas Rangers vs. Chicago White Sox",
-   "narrativa": "El mercado de Polymarket para Rangers vs. White Sox cotiza el 'Sí' a 44.5, mientras que el consenso externo de ESPN lo sitúa en 54.5, generando un edge de +10.0 puntos a favor de la compra. Esta brecha sugiere que el precio implícito en Polymarket está por debajo de la probabilidad estimada por fuentes externas, ofreciendo una oportunidad de valor relativo. Riesgo: la diferencia puede deberse a ajustes por lesiones o condiciones del juego no reflejadas en el consenso."
-  },
   {
    "tipo": "edge",
    "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
@@ -92,7 +62,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.175,
    "no": 0.825,
-   "volumen": 9944649.639449002,
+   "volumen": 9944858.887639,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -102,7 +72,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923680.153660005,
+   "volumen": 9923680.153659983,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -110,9 +80,9 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.011,
-   "no": 0.989,
-   "volumen": 984637.9064370001,
+   "yes": 0.0105,
+   "no": 0.9895,
+   "volumen": 984637.906437,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -122,27 +92,17 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 984202.2840609999,
+   "volumen": 984202.2840610001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
-  },
-  {
-   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
-   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 983750.9955090001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
    "question": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78187999998,
+   "volumen": 99966.78188000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -162,10 +122,20 @@
    "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
    "yes": 0.88,
    "no": 0.12,
-   "volumen": 99862.32554700001,
+   "volumen": 99862.325547,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será NVIDIA la empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
+  },
+  {
+   "question": "Will FC Schalke 04 win on 2026-08-24?",
+   "slug": "dfb-hal-s04-2026-08-24-s04",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99773.63307299995,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ganará el FC Schalke 04 el 2026-08-24?"
   },
   {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
@@ -180,8 +150,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -200,8 +170,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0735,
-   "no": 0.9265,
+   "yes": 0.0745,
+   "no": 0.9255,
    "volumen": 99058.39896599998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -212,7 +182,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058300002,
+   "volumen": 98936.430583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -220,9 +190,9 @@
   {
    "question": "Will Ethereum reach $2,800 in August?",
    "slug": "will-ethereum-reach-2800-in-august-2026",
-   "yes": 0.173,
-   "no": 0.827,
-   "volumen": 98772.768854,
+   "yes": 0.1765,
+   "no": 0.8235,
+   "volumen": 98772.76885400001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $2,800 en agosto?"
@@ -260,9 +230,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.207,
-   "no": 0.793,
-   "volumen": 9997.396973,
+   "yes": 0.209,
+   "no": 0.791,
+   "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -276,6 +246,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
+  },
+  {
+   "question": "Will CA Guemes vs. Atletico de Rafaela end in a draw?",
+   "slug": "argpn-gue-ar-2026-08-24-draw",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9989.354608000001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Terminarán en empate CA Güemes vs. Atlético de Rafaela?"
   },
   {
    "question": "Will the Republican Party win the OR-03 House seat?",
@@ -302,7 +282,7 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 9982.176088999999,
+   "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -326,20 +306,10 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
-   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.003,
-   "no": 0.997,
-   "volumen": 9946.699383,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787603779,
+  "ts": 1787605696,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
