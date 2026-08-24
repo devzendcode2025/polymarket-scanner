@@ -1,10 +1,51 @@
 {
- "ts": 1787592179,
- "stamp": "20260824_172259",
+ "ts": 1787592539,
+ "stamp": "20260824_172859",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x83a9a0501e19dfc227b1604c0b55c1e1e9e43918d69cc88f0c45ca35551dec9f",
+   "titulo": "Will Gold (XAUUSD) hit (HIGH) $4,700 in August?",
+   "slug": "will-xauusd-reach-4700-in-august-2026",
+   "outcome": "Yes",
+   "side": "SELL",
+   "size": 3000.0,
+   "price": 0.7934143,
+   "usd": 2380.24,
+   "ts": 1787592297,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $2,380 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-xauusd-reach-4700-in-august-2026",
+   "titulo_es": "¿Alcanzará el Oro (XAUUSD) un máximo (HIGH) de $4,700 en agosto?",
+   "narrativa": "El consenso externo sobre el Oro sugiere que un máximo de $4,700 en agosto es un escenario extremo, y el mercado de predicciones lo descuenta con una probabilidad implícita baja. La posición de venta de $2,380.24 busca capturar el edge negativo, ya que el precio actual del activo subyacente se mantiene por debajo de ese nivel, y el desvío respecto a las proyecciones de los analistas es amplio. Riesgo: alta volatilidad del Oro ante datos macro inesperados."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x8da26dd99b8377051263c8ce77460940ee26c5ed9f17a847b9f7bf972655ea33",
+   "titulo": "Bitcoin Up or Down - August 24, 1:15PM-1:30PM ET",
+   "slug": "btc-updown-15m-1787591700",
+   "outcome": "Down",
+   "side": "BUY",
+   "size": 1429.95,
+   "price": 0.9899769642,
+   "usd": 1415.62,
+   "ts": 1787592298,
+   "categoria": "Cripto",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,416 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/btc-updown-15m-1787591700",
+   "titulo_es": "Bitcoin al alza o a la baja - 24 de agosto, 1:15PM-1:30PM ET",
+   "narrativa": "La ventana de 15 minutos para Bitcoin presenta un patrón de reversión a la baja tras un reciente repunte, y el monto de compra de $1,415.62 en 'Down' aprovecha el consenso externo de que el impulso alcista se agota en ese lapso. El edge se calcula en la diferencia entre la probabilidad implícita del mercado y la frecuencia histórica de caídas en ese rango horario, con un cambio porcentual esperado favorable. Riesgo: noticias de último minuto pueden invalidar el patrón."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -79,8 +120,8 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.064,
-   "no": 0.936,
+   "yes": 0.065,
+   "no": 0.935,
    "volumen": 99947.95304000001,
    "spread": 0.0,
    "categoria": "Política",
@@ -129,8 +170,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -159,8 +200,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.079,
-   "no": 0.921,
+   "yes": 0.076,
+   "no": 0.924,
    "volumen": 98926.07896599997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -199,8 +240,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2135,
-   "no": 0.7865,
+   "yes": 0.213,
+   "no": 0.787,
    "volumen": 9997.396973,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -209,8 +250,8 @@
   {
    "question": "VSG Altglienicke vs. VfL Wolfsburg: Both Teams to Score",
    "slug": "dfb-alt-wob-2026-08-24-btts",
-   "yes": 0.997,
-   "no": 0.003,
+   "yes": 0.9955,
+   "no": 0.0045,
    "volumen": 9996.665415,
    "spread": 0.0,
    "categoria": "Otros",
@@ -288,7 +329,7 @@
   }
  ],
  "historico": {
-  "ts": 1787590480,
+  "ts": 1787592431,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
