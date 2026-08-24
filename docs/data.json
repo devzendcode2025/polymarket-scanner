@@ -1,6 +1,6 @@
 {
- "ts": 1787567153,
- "stamp": "20260824_102553",
+ "ts": 1787567514,
+ "stamp": "20260824_103154",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -109,8 +109,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.175,
-   "no": 0.825,
+   "yes": 0.17,
+   "no": 0.83,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -179,8 +179,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.207,
-   "no": 0.793,
+   "yes": 0.2105,
+   "no": 0.7895,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -209,8 +209,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.985,
-   "no": 0.015,
+   "yes": 0.9845,
+   "no": 0.0155,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
@@ -288,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787565431,
+  "ts": 1787567438,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
