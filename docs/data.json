@@ -1,6 +1,6 @@
 {
- "ts": 1787548249,
- "stamp": "20260824_051049",
+ "ts": 1787548610,
+ "stamp": "20260824_051650",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -139,8 +139,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -189,8 +189,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2095,
-   "no": 0.7905,
+   "yes": 0.2105,
+   "no": 0.7895,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
