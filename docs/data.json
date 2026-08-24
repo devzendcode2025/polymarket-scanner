@@ -1,6 +1,6 @@
 {
- "ts": 1787541408,
- "stamp": "20260824_031648",
+ "ts": 1787541948,
+ "stamp": "20260824_032548",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923290.733659996,
+   "volumen": 9923290.73366,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -51,7 +51,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-at-least-900m-by-august-31-20260717232947960",
    "yes": 0.3315,
    "no": 0.6685,
-   "volumen": 998949.0902500006,
+   "volumen": 998949.0902500001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de al menos 900 millones para el 31 de agosto?"
@@ -61,7 +61,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993854.556857,
+   "volumen": 993854.5568570001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -111,7 +111,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599999,
+   "volumen": 99614.48294599997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -119,8 +119,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.205,
-   "no": 0.795,
+   "yes": 0.19,
+   "no": 0.81,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -129,8 +129,8 @@
   {
    "question": "Will the total domestic gross for The Odyssey be between 550m and 570m by August 31?",
    "slug": "will-the-total-domestic-gross-for-the-odyssey-be-between-550m-and-570m-by-august-31-20260724150841341",
-   "yes": 0.595,
-   "no": 0.405,
+   "yes": 0.585,
+   "no": 0.415,
    "volumen": 99070.20535299998,
    "spread": 0.0,
    "categoria": "Otros",
@@ -141,7 +141,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.15,
    "no": 0.85,
-   "volumen": 99063.70341900001,
+   "volumen": 99063.70341899997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -151,7 +151,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98928.18058300001,
+   "volumen": 98928.18058299996,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -161,7 +161,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98897.81904999999,
+   "volumen": 98897.81904999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -171,7 +171,7 @@
    "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
    "yes": 0.655,
    "no": 0.345,
-   "volumen": 98877.92986399998,
+   "volumen": 98877.92986399999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Modelo de clase Mythos lanzado antes del 30 de septiembre de 2026?"
@@ -217,6 +217,16 @@
    "question_es": "Cruzeiro EC vs. CR Flamengo: Más/Menos 9.5 Córneres Totales"
   },
   {
+   "question": "Will the highest temperature in Hong Kong be 33°C on August 24?",
+   "slug": "highest-temperature-in-hong-kong-on-august-24-2026-33c",
+   "yes": 0.41,
+   "no": 0.59,
+   "volumen": 9988.663287,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Hong Kong de 33°C el 24 de agosto?"
+  },
+  {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
    "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026",
    "yes": 0.0825,
@@ -259,8 +269,8 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.0495,
-   "no": 0.9505,
+   "yes": 0.048,
+   "no": 0.952,
    "volumen": 9965.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -271,20 +281,10 @@
    "slug": "uru1-nac-pro-2026-08-23-total-1pt5",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9956.793949,
+   "volumen": 9956.793948999999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Club Nacional de Football vs. CA Progreso: Más/Menos 1.5"
-  },
-  {
-   "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
-   "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
-   "yes": 0.06,
-   "no": 0.94,
-   "volumen": 9950.163697,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
   }
  ],
  "historico": {
