@@ -1,31 +1,10 @@
 {
- "ts": 1787584437,
- "stamp": "20260824_151357",
+ "ts": 1787584797,
+ "stamp": "20260824_151957",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xcc40e28fec2d5c1a96b36b8a85b02c1e06883f7552836e2fa0ff42d5e710c532",
-   "titulo": "Exact Score: CA Osasuna 3 - 3 Levante UD?",
-   "slug": "lal-osa-lev-2026-08-24-exact-score-3-3",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1470.0,
-   "price": 0.991,
-   "usd": 1456.77,
-   "ts": 1787584189,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,457 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-osa-lev-2026-08-24-exact-score-3-3",
-   "titulo_es": "Marcador Exacto: CA Osasuna 3 - 3 Levante UD?",
-   "narrativa": "La compra de 'No' para el 3-3 exacto entre Osasuna y Levante presenta un edge atractivo al operar contra un marcador de baja probabilidad implícita, con una posición de $1,456.77 que busca capitalizar el consenso externo que no favorece un empate con seis goles. El desvío entre la probabilidad del mercado y la frecuencia histórica de este tipo de resultados en partidos de liga sugiere una oportunidad de valor, aunque el volumen de mercado no está disponible, lo que limita el análisis de profundidad. Riesgo: posible iliquidez en mercados de marcador exacto, lo que puede afectar la ejecución de la salida."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923311.823659984,
+   "volumen": 9923311.823660001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -82,7 +61,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99988.594911,
+   "volumen": 99999.064911,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -102,7 +81,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99947.95304000004,
+   "volumen": 99947.95304,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -112,7 +91,7 @@
    "slug": "ink-fdv-above-100m-one-day-after-launch",
    "yes": 0.52,
    "no": 0.48,
-   "volumen": 99882.77408800003,
+   "volumen": 99882.77408800002,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿FDV de Ink por encima de $100M un día después del lanzamiento?"
@@ -122,17 +101,27 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.84,
    "no": 0.16,
-   "volumen": 99732.293881,
+   "volumen": 99732.29388100003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
+  },
+  {
+   "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
+   "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+   "yes": 0.875,
+   "no": 0.125,
+   "volumen": 99620.538454,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será NVIDIA la empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
   },
   {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599997,
+   "volumen": 99614.48294600002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -148,21 +137,11 @@
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
-   "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
-   "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-   "yes": 0.875,
-   "no": 0.125,
-   "volumen": 99283.789365,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será NVIDIA la empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
-  },
-  {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 99063.70341900001,
+   "volumen": 99063.70341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -180,8 +159,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.087,
-   "no": 0.913,
+   "yes": 0.0875,
+   "no": 0.9125,
    "volumen": 98907.21104299999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -222,7 +201,7 @@
    "slug": "atp-gaston-justo-2026-08-25",
    "yes": 0.845,
    "no": 0.155,
-   "volumen": 9997.812881,
+   "volumen": 9997.812880999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Abierto de EE. UU., Clasificación ATP: Hugo Gaston vs Guido Justo"
@@ -230,9 +209,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2085,
-   "no": 0.7915,
-   "volumen": 9997.396973,
+   "yes": 0.2095,
+   "no": 0.7905,
+   "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -302,14 +281,14 @@
    "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 9944.236178000003,
+   "volumen": 9944.236178,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
   }
  ],
  "historico": {
-  "ts": 1787582716,
+  "ts": 1787584725,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
