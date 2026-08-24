@@ -1,69 +1,29 @@
 {
- "ts": 1787531206,
- "stamp": "20260824_002646",
+ "ts": 1787531746,
+ "stamp": "20260824_003546",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x7cf8626e553dd1a3d316d11ea78093a13769d94578f4af88d66117b394223373",
-   "titulo": "Map Handicap: KRÜ (-1.5) vs Evil Geniuses (+1.5)",
-   "slug": "val-eg2-kru1-2026-08-23-map-handicap-home-1pt5",
-   "outcome": "Evil Geniuses",
+   "market_id": "0xfe248b059adb1aafd1053538c2c30b4d25a33ba122cce738967a566f981be478",
+   "titulo": "Monterrey Open, Qualification: Maya Joint vs Yulia Putintseva",
+   "slug": "wta-joint-putints-2026-08-23",
+   "outcome": "Maya Joint",
    "side": "BUY",
-   "size": 2000.0,
-   "price": 0.68995,
-   "usd": 1379.9,
-   "ts": 1787530983,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,380 en 'Evil Geniuses'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/val-eg2-kru1-2026-08-23-map-handicap-home-1pt5",
-   "titulo_es": "Mapa Handicap: KRÜ (-1.5) vs Evil Geniuses (+1.5)",
-   "narrativa": "La compra de 1.379,9 USD sobre Evil Geniuses con hándicap +1.5 en el mapa de KRÜ sugiere que el mercado está valorando una mayor probabilidad de victoria o derrota ajustada de lo que el precio implícito refleja. El monto concentrado en un solo lado indica una apuesta direccional fuerte, con un edge potencial si la cuota supera el 50% de probabilidad implícita. Riesgo: volatilidad alta en mapas cortos y posible falta de liquidez en mercados de esports."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x088474d0d03ce4aa13593c110f1c14e452edb21b80415f7c8c2a308012e314db",
-   "titulo": "Will Coritiba FBC vs. SC Corinthians Paulista end in a draw?",
-   "slug": "bra-cor-cor1-2026-08-23-draw",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1362.3737,
-   "price": 0.99,
-   "usd": 1348.75,
-   "ts": 1787530989,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,349 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bra-cor-cor1-2026-08-23-draw",
-   "titulo_es": "¿Terminará en empate el partido entre Coritiba FBC y SC Corinthians Paulista?",
-   "narrativa": "La compra de 1.348,75 USD en 'No' para el empate entre Coritiba y Corinthians refleja una convicción clara de que el partido no terminará igualado, aprovechando una posible sobrevaloración del empate en el consenso externo. El tamaño de la operación sugiere que el precio actual ofrece un edge positivo si la probabilidad real de no empate supera el umbral implícito. Riesgo: resultados de bajo margen en fútbol pueden generar alta varianza."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x088474d0d03ce4aa13593c110f1c14e452edb21b80415f7c8c2a308012e314db",
-   "titulo": "Will Coritiba FBC vs. SC Corinthians Paulista end in a draw?",
-   "slug": "bra-cor-cor1-2026-08-23-draw",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1203.52,
-   "price": 0.99,
-   "usd": 1191.48,
-   "ts": 1787530990,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,191 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bra-cor-cor1-2026-08-23-draw",
-   "titulo_es": "¿Terminará en empate el partido entre Coritiba FBC y SC Corinthians Paulista?",
-   "narrativa": "Una segunda compra de 1.191,48 USD en el mismo mercado de 'No' empate refuerza la señal direccional, acumulando un total de 2.540,23 USD en contra del empate. Este flujo repetido indica que el operador percibe una discrepancia consistente entre el precio y la probabilidad estimada, posiblemente por información de alineaciones o contexto del partido. Riesgo: la acumulación de posiciones puede distorsionar el precio si no hay contrapartida suficiente."
+   "size": 10657.707776,
+   "price": 0.4402438214,
+   "usd": 4691.99,
+   "ts": 1787531283,
+   "categoria": "Política",
+   "prob": 59,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $4,692 en 'Maya Joint'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-joint-putints-2026-08-23",
+   "titulo_es": "Abierto de Monterrey, Clasificación: Maya Joint vs Yulia Putintseva",
+   "narrativa": "La compra sobre Maya Joint en la clasificación del Abierto de Monterrey capitaliza un desajuste de precios frente a una rival de mayor renombre, con un monto de $4,692 que busca capturar valor antes de que el mercado ajuste la probabilidad implícita. El edge se sustenta en la falta de volumen registrado, lo que permite entrar a un precio favorable sin fricción significativa. Riesgo: posible baja liquidez y alta volatilidad en mercados de clasificación."
   }
  ],
  "edges": [
@@ -102,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923290.733659996,
+   "volumen": 9923290.733660003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -112,7 +72,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993819.7068569999,
+   "volumen": 993819.706857,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -132,7 +92,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99964.11528600001,
+   "volumen": 99964.115286,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -140,9 +100,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.06,
-   "no": 0.94,
-   "volumen": 99947.95304000002,
+   "yes": 0.0595,
+   "no": 0.9405,
+   "volumen": 99947.95304000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -152,7 +112,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99932.49188,
+   "volumen": 99932.49188000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -162,7 +122,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599999,
+   "volumen": 99614.482946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -170,8 +130,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.18,
-   "no": 0.82,
+   "yes": 0.195,
+   "no": 0.805,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -180,9 +140,9 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.145,
-   "no": 0.855,
-   "volumen": 99063.703419,
+   "yes": 0.17,
+   "no": 0.83,
+   "volumen": 99063.70341899997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -192,7 +152,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98928.18058299998,
+   "volumen": 98928.18058300004,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -202,7 +162,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98897.81904999998,
+   "volumen": 98897.81904999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -210,12 +170,22 @@
   {
    "question": "Next Mythos-Class Model released by September 30, 2026?",
    "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
-   "yes": 0.66,
-   "no": 0.34,
+   "yes": 0.67,
+   "no": 0.33,
    "volumen": 98871.12683499999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Modelo de clase Mythos lanzado antes del 30 de septiembre de 2026?"
+  },
+  {
+   "question": "US ceasefire against Iran continues through October 31?",
+   "slug": "us-x-iran-ceasefire-continues-through-october-31",
+   "yes": 0.64,
+   "no": 0.36,
+   "volumen": 98751.50388399998,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿El alto el fuego de EE. UU. contra Irán continúa hasta el 31 de octubre?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -230,22 +200,12 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
-   "volumen": 98417.74661800002,
+   "yes": 0.68,
+   "no": 0.32,
+   "volumen": 98417.74661799998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
-  },
-  {
-   "question": "US ceasefire against Iran continues through October 31?",
-   "slug": "us-x-iran-ceasefire-continues-through-october-31",
-   "yes": 0.64,
-   "no": 0.36,
-   "volumen": 98151.50388399998,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿El alto el fuego de EE. UU. contra Irán continúa hasta el 31 de octubre?"
   },
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
@@ -270,9 +230,9 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.215,
-   "no": 0.785,
-   "volumen": 9986.559657000005,
+   "yes": 0.21,
+   "no": 0.79,
+   "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -300,9 +260,9 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 9965.953989000001,
+   "yes": 0.076,
+   "no": 0.924,
+   "volumen": 9965.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará “Saturday Night Live” los Emmys 2026: Mejor serie de variedades?"
@@ -312,7 +272,7 @@
    "slug": "uru1-nac-pro-2026-08-23-total-1pt5",
    "yes": 0.0045,
    "no": 0.9955,
-   "volumen": 9956.793949000003,
+   "volumen": 9956.793949,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Club Nacional de Football vs. CA Progreso: Más/Menos 1.5"
@@ -342,7 +302,7 @@
    "slug": "will-the-traitors-win-emmys-2026-outstanding-realitycompetition-series-20260709174232726",
    "yes": 0.8655,
    "no": 0.1345,
-   "volumen": 9930.622033,
+   "volumen": 9930.622033000001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará 'The Traitors' los Emmys 2026: Mejor serie de realidad/competencia?"
