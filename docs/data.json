@@ -1,71 +1,10 @@
 {
- "ts": 1787576516,
- "stamp": "20260824_130156",
+ "ts": 1787576876,
+ "stamp": "20260824_130756",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xf5ee4b6bd7d585c0e12e530074d0324493c302b82e127c832d15c89a610c0453",
-   "titulo": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
-   "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 5021.0,
-   "price": 0.997,
-   "usd": 5005.94,
-   "ts": 1787576079,
-   "categoria": "Cripto",
-   "prob": 59,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $5,006 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia",
-   "titulo_es": "¿Será Demeke Mekonnen el próximo Primer Ministro de Etiopía?",
-   "narrativa": "La compra de 'No' por $5,005 refleja una apuesta institucional contra Demeke Mekonnen, probablemente basada en la dinámica política actual de Etiopía y la falta de consenso externo sobre su ascenso. Este monto significativo en un mercado de baja liquidez sugiere que el operador tiene información privilegiada o un análisis profundo del tablero político. Riesgo: mercado ilíquido y eventos geopolíticos impredecibles."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x5af1a5d3c15d667164e7305e19a4fe9a520501a12062423f97079d6d136df381",
-   "titulo": "Bitcoin Up or Down - August 24, 8:55AM-9:00AM ET",
-   "slug": "btc-updown-5m-1787576100",
-   "outcome": "Up",
-   "side": "BUY",
-   "size": 2058.73,
-   "price": 0.6452024792,
-   "usd": 1328.3,
-   "ts": 1787576070,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,328 en 'Up'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1787576100",
-   "titulo_es": "Bitcoin al alza o a la baja - 24 de agosto, 8:55AM-9:00AM ET",
-   "narrativa": "La compra de 'Up' por $1,328 en la ventana de 5 minutos indica una convicción direccional a corto plazo, aprovechando el impulso alcista previo al anuncio. El edge se basa en la velocidad de reacción ante el flujo de órdenes, aunque el cambio porcentual es pequeño, la frecuencia de estos trades puede acumular ganancias consistentes. Riesgo: alta volatilidad intradía y ruido de mercado."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x250aa00ae9d6c46c1a6cf306fe8971e3b501f88d12243f8f87407adcef2f28ef",
-   "titulo": "Will the price of Bitcoin be above $72,000 on August 24?",
-   "slug": "bitcoin-above-72k-on-august-24-2026",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 1052.0,
-   "price": 0.999,
-   "usd": 1050.95,
-   "ts": 1787576070,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de venta por $1,051 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-72k-on-august-24-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $72,000 el 24 de agosto?",
-   "narrativa": "La venta de 'Yes' por $1,050 sugiere que el operador considera sobrevalorada la probabilidad de que Bitcoin supere $72,000 el 24 de agosto, apostando a un retroceso técnico. El edge proviene de la discrepancia entre el precio implícito del mercado y los niveles de resistencia clave, con un desvío que favorece la corrección. Riesgo: eventos macroeconómicos pueden disparar el precio al alza."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -102,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923306.793659989,
+   "volumen": 9923310.793659983,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -122,7 +61,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188,
+   "volumen": 99966.78188000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -142,27 +81,17 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99947.95304,
+   "volumen": 99947.95304000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
-  },
-  {
-   "question": "Will Bitcoin reach $87,500 in August?",
-   "slug": "will-bitcoin-reach-87pt5k-in-august-2026",
-   "yes": 0.17,
-   "no": 0.83,
-   "volumen": 99776.287892,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Bitcoin los $87,500 en agosto?"
   },
   {
    "question": "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?",
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.84,
    "no": 0.16,
-   "volumen": 99725.873881,
+   "volumen": 99732.29388099999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -172,7 +101,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.482946,
+   "volumen": 99614.48294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -180,8 +109,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.185,
-   "no": 0.815,
+   "yes": 0.205,
+   "no": 0.795,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -190,9 +119,9 @@
   {
    "question": "Ink FDV above $100M one day after launch?",
    "slug": "ink-fdv-above-100m-one-day-after-launch",
-   "yes": 0.54,
-   "no": 0.46,
-   "volumen": 99213.64308800003,
+   "yes": 0.545,
+   "no": 0.455,
+   "volumen": 99213.643088,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿FDV de Ink por encima de $100M un día después del lanzamiento?"
@@ -202,7 +131,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99063.70341899998,
+   "volumen": 99063.70341899997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -212,7 +141,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.430583,
+   "volumen": 98936.43058300001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -222,7 +151,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-less-than-900m-by-august-31-1785941825450",
    "yes": 0.76,
    "no": 0.24,
-   "volumen": 98830.02120499998,
+   "volumen": 98830.021205,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day inferior a 900 millones para el 31 de agosto?"
@@ -238,31 +167,31 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
-   "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.7,
-   "no": 0.3,
-   "volumen": 98427.306618,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
-  },
-  {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
    "yes": 0.079,
    "no": 0.921,
-   "volumen": 98294.00581699998,
+   "volumen": 98474.17104299998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
   },
   {
+   "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
+   "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
+   "yes": 0.705,
+   "no": 0.295,
+   "volumen": 98427.30661799997,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
+  },
+  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2135,
-   "no": 0.7865,
-   "volumen": 9997.396972999997,
+   "yes": 0.2105,
+   "no": 0.7895,
+   "volumen": 9997.396972999995,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -292,7 +221,7 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9845,
    "no": 0.0155,
-   "volumen": 9982.176089,
+   "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -302,7 +231,7 @@
    "slug": "will-silvia-cristina-win-the-most-votes-in-the-2026-rondonia-senate-election",
    "yes": 0.375,
    "no": 0.625,
-   "volumen": 9981.646109999998,
+   "volumen": 9981.64611,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Sílvia Cristina la mayor cantidad de votos en las elecciones al Senado de Rondônia de 2026?"
@@ -328,6 +257,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will the Rhine River fail to return to normal levels by November 1, 2026?",
+   "slug": "will-the-rhine-river-fail-to-return-to-normal-levels-by-november-1-2026-20260810225829402",
+   "yes": 0.008,
+   "no": 0.992,
+   "volumen": 9955.850396,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Fracasará el río Rin en volver a niveles normales para el 1 de noviembre de 2026?"
+  },
+  {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
    "yes": 0.065,
@@ -349,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787575153,
+  "ts": 1787576954,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
