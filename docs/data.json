@@ -1,31 +1,10 @@
 {
- "ts": 1787561752,
- "stamp": "20260824_085552",
+ "ts": 1787562112,
+ "stamp": "20260824_090152",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x760b6b91584dbf03d909d87fafcd94cb137a668aade3734e5c5cffae79b3e6b6",
-   "titulo": "Will Nilton Emilio Chafloque Córdova win the next Chiclayo mayoral elections?",
-   "slug": "will-nilton-emilio-chafloque-cordova-win-the-next-chiclayo-mayoral-elections-20260811165718010",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 1775.71,
-   "price": 0.8804684323,
-   "usd": 1563.46,
-   "ts": 1787561341,
-   "categoria": "Política",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,563 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-nilton-emilio-chafloque-cordova-win-the-next-chiclayo-mayoral-elections-20260811165718010",
-   "titulo_es": "¿Ganará Nilton Emilio Chafloque Córdova las próximas elecciones municipales de Chiclayo?",
-   "narrativa": "La compra de 'No' en la pregunta sobre Nilton Emilio Chafloque Córdova refleja una apuesta contraria al ruido mediático local, con un monto de $1,563 que sugiere convicción institucional. Aunque no hay consenso externo cuantificado, el volumen de mercado nulo indica que el precio actual puede estar distorsionado por falta de liquidez, ofreciendo un edge potencial si el candidato no logra consolidar apoyo en encuestas. Riesgo: mercado extremadamente ilíquido, spreads amplios y posible manipulación de precios."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -120,8 +99,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.195,
-   "no": 0.805,
+   "yes": 0.19,
+   "no": 0.81,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -130,8 +109,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -190,8 +169,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0685,
-   "no": 0.9315,
+   "yes": 0.069,
+   "no": 0.931,
    "volumen": 98294.00581700001,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -210,8 +189,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.208,
-   "no": 0.792,
+   "yes": 0.2105,
+   "no": 0.7895,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
