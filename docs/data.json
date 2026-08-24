@@ -1,6 +1,6 @@
 {
- "ts": 1787613484,
- "stamp": "20260824_231804",
+ "ts": 1787613844,
+ "stamp": "20260824_232404",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9947013.841777999,
+   "volumen": 9947019.54177801,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -51,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923680.153659983,
+   "volumen": 9923680.153659988,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -91,7 +91,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000002,
+   "volumen": 99966.78188,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -111,7 +111,7 @@
    "slug": "will-ethereum-reach-2800-in-august-2026",
    "yes": 0.1785,
    "no": 0.8215,
-   "volumen": 99625.151112,
+   "volumen": 99625.15111199999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $2,800 en agosto?"
@@ -199,9 +199,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2075,
-   "no": 0.7925,
-   "volumen": 9997.396972999995,
+   "yes": 0.208,
+   "no": 0.792,
+   "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -211,7 +211,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999998,
+   "volumen": 9992.445129000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -241,7 +241,7 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9825,
    "no": 0.0175,
-   "volumen": 9982.176088999999,
+   "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -255,16 +255,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Philadelphia: Mananchaya Sawangkaew vs Sloane Stephens",
-   "slug": "wta-sawangk-stephen-2026-08-24",
-   "yes": 0.445,
-   "no": 0.555,
-   "volumen": 9962.228154999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Filadelfia: Mananchaya Sawangkaew vs Sloane Stephens"
   },
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
@@ -281,10 +271,20 @@
    "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 9944.236178000003,
+   "volumen": 9944.236178,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
+  },
+  {
+   "question": "Will Jeff Weninger win the 2026 Chandler mayoral election?",
+   "slug": "will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429",
+   "yes": 0.002,
+   "no": 0.998,
+   "volumen": 9943.775679,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Jeff Weninger la elección municipal de Chandler en 2026?"
   }
  ],
  "historico": {
