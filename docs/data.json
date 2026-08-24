@@ -1,31 +1,10 @@
 {
- "ts": 1787607302,
- "stamp": "20260824_213502",
+ "ts": 1787607783,
+ "stamp": "20260824_214303",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xf860d8511900a95aa35c04baf9633536130815c7b0908d9f0a135d8538064fb0",
-   "titulo": "US Open, Qualification ATP: Dalibor Svrcina vs Felipe Meligeni Alves",
-   "slug": "atp-svrcina-alves-2026-08-24",
-   "outcome": "Dalibor Svrcina",
-   "side": "BUY",
-   "size": 8748.0,
-   "price": 0.98,
-   "usd": 8573.04,
-   "ts": 1787607021,
-   "categoria": "Deportes",
-   "prob": 64,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $8,573 en 'Dalibor Svrcina'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-svrcina-alves-2026-08-24",
-   "titulo_es": "Abierto de EE. UU., Clasificación ATP: Dalibor Svrcina vs Felipe Meligeni Alves",
-   "narrativa": "El mercado muestra una oportunidad de compra en Dalibor Svrcina, con un monto de $8,573 USD que representa una apuesta significativa contra el consenso externo, sugiriendo que la información privilegiada o el análisis de forma favorece al checo. El tamaño del trade en relación al volumen disponible (aunque no especificado) indica una convicción fuerte, lo que puede generar un movimiento de precios favorable si el mercado ajusta su valoración. Riesgo: posible falta de liquidez en mercados de tenis ATP de clasificación, lo que podría amplificar el deslizamiento."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -160,8 +139,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.135,
-   "no": 0.865,
+   "yes": 0.13,
+   "no": 0.87,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -170,8 +149,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.077,
-   "no": 0.923,
+   "yes": 0.078,
+   "no": 0.922,
    "volumen": 99058.398966,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -240,8 +219,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.207,
-   "no": 0.793,
+   "yes": 0.2075,
+   "no": 0.7925,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -309,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787605696,
+  "ts": 1787607497,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
