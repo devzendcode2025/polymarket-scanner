@@ -1,6 +1,6 @@
 {
- "ts": 1787573815,
- "stamp": "20260824_121655",
+ "ts": 1787574355,
+ "stamp": "20260824_122555",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923305.763660002,
+   "volumen": 9923305.763660006,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -71,7 +71,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99964.11528599999,
+   "volumen": 99964.115286,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -87,11 +87,21 @@
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
   },
   {
+   "question": "Will Bitcoin reach $87,500 in August?",
+   "slug": "will-bitcoin-reach-87pt5k-in-august-2026",
+   "yes": 0.135,
+   "no": 0.865,
+   "volumen": 99760.16503599999,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Bitcoin los $87,500 en agosto?"
+  },
+  {
    "question": "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?",
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.845,
    "no": 0.155,
-   "volumen": 99725.873881,
+   "volumen": 99725.87388099999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -101,20 +111,10 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599995,
+   "volumen": 99614.48294599996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
-  },
-  {
-   "question": "Will Bitcoin reach $87,500 in August?",
-   "slug": "will-bitcoin-reach-87pt5k-in-august-2026",
-   "yes": 0.13,
-   "no": 0.87,
-   "volumen": 99433.30789499999,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Bitcoin los $87,500 en agosto?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -189,8 +189,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.068,
-   "no": 0.932,
+   "yes": 0.0685,
+   "no": 0.9315,
    "volumen": 98294.00581699997,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -205,16 +205,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
-  },
-  {
-   "question": "Will the highest temperature in Madrid be 28°C on August 24?",
-   "slug": "highest-temperature-in-madrid-on-august-24-2026-28c",
-   "yes": 0.725,
-   "no": 0.275,
-   "volumen": 9987.890469999998,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Madrid de 28°C el 24 de agosto?"
   },
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
@@ -241,7 +231,7 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9845,
    "no": 0.0155,
-   "volumen": 9982.176088999999,
+   "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -257,6 +247,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will Elon Musk post 260-279 tweets from August 21 to August 28, 2026?",
+   "slug": "elon-musk-of-tweets-august-21-august-28-2026-260-279",
+   "yes": 0.095,
+   "no": 0.905,
+   "volumen": 9953.877446,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 260 y 279 tuits del 21 de agosto al 28 de agosto de 2026?"
+  },
+  {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
    "yes": 0.065,
@@ -269,8 +269,8 @@
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.003,
-   "no": 0.997,
+   "yes": 0.002,
+   "no": 0.998,
    "volumen": 9946.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -281,7 +281,7 @@
    "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
    "yes": 0.065,
    "no": 0.935,
-   "volumen": 9944.236178000001,
+   "volumen": 9944.236178000003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
