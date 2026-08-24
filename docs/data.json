@@ -1,6 +1,6 @@
 {
- "ts": 1787543929,
- "stamp": "20260824_035849",
+ "ts": 1787544289,
+ "stamp": "20260824_040449",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -12,14 +12,14 @@
    "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
    "prob_poly": 6.0,
-   "consenso": 15.0,
-   "edge": 9.0,
+   "consenso": 14.5,
+   "edge": 8.5,
    "direccion": "Polymarket BARATO (comprar Sí)",
    "fuentes": [
     {
      "fuente": "PredictIt",
      "titulo": "New Hampshire",
-     "prob": 15.000000000000002,
+     "prob": 14.500000000000002,
      "url": "https://www.predictit.org/markets/detail/8939",
      "titulo_es": "Nuevo Hampshire"
     }
@@ -30,9 +30,9 @@
    "confianza": "media",
    "horizonte": "1sem",
    "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 6.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 15.0%: diferencia de 9.0 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
+   "razon": "Polymarket paga este mercado a 6.0% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 14.5%: diferencia de 8.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
    "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "Polymarket cotiza la opción de que el candidato demócrata gane la gobernación de Nuevo Hampshire por un margen del 3%-6% en solo 6.0%, mientras que PredictIt asigna un 15.0%, generando un edge de 9 puntos. Esta subvaloración en Polymarket puede reflejar una menor liquidez o atención en eventos de largo plazo, creando una oportunidad para quienes siguen el consenso externo. Riesgo: el margen exacto es un rango estrecho y el evento es a 2026, con alta incertidumbre."
+   "narrativa": "El mercado de Polymarket valora esta opción en solo 6.0 puntos, mientras que el consenso externo de PredictIt la sitúa en 14.5, generando un edge de +8.5 puntos a favor de la compra del 'Sí'. Esta brecha sugiere que el precio actual no refleja plenamente la probabilidad implícita del resultado, ofreciendo una oportunidad de capturar valor si el mercado converge hacia la referencia externa. El monto del trade debe ajustarse al diferencial, pero la magnitud del desvío justifica una posición moderada. Riesgo: eventos políticos imprevistos o baja liquidez en el mercado de Polymarket podrían retrasar la convergencia de precios."
   }
  ],
  "top_volumen": [
@@ -41,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923291.763659982,
+   "volumen": 9923291.76366,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -61,7 +61,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993854.5568570001,
+   "volumen": 993854.556857,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -81,7 +81,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99964.115286,
+   "volumen": 99964.11528600001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -111,7 +111,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599997,
+   "volumen": 99614.48294599999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -127,31 +127,31 @@
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
+   "question": "Next Mythos-Class Model released by September 30, 2026?",
+   "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
+   "yes": 0.715,
+   "no": 0.285,
+   "volumen": 99114.48986399999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Modelo de clase Mythos lanzado antes del 30 de septiembre de 2026?"
+  },
+  {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.175,
-   "no": 0.825,
+   "yes": 0.17,
+   "no": 0.83,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Next Mythos-Class Model released by September 30, 2026?",
-   "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
-   "yes": 0.715,
-   "no": 0.285,
-   "volumen": 99024.48986399999,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Modelo de clase Mythos lanzado antes del 30 de septiembre de 2026?"
-  },
-  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98928.18058299998,
+   "volumen": 98928.180583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -161,7 +161,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.835,
    "no": 0.165,
-   "volumen": 98897.81904999999,
+   "volumen": 98897.81905,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -179,9 +179,9 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.68,
-   "no": 0.32,
-   "volumen": 98427.30661800002,
+   "yes": 0.675,
+   "no": 0.325,
+   "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -191,7 +191,7 @@
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
    "yes": 0.216,
    "no": 0.784,
-   "volumen": 9997.396972999999,
+   "volumen": 9997.396972999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -249,8 +249,8 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.046,
-   "no": 0.954,
+   "yes": 0.045,
+   "no": 0.955,
    "volumen": 9965.953989000001,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -288,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787542385,
+  "ts": 1787544396,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
