@@ -1,10 +1,31 @@
 {
- "ts": 1787560132,
- "stamp": "20260824_082852",
+ "ts": 1787560672,
+ "stamp": "20260824_083752",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x5c661c21175bc9d17e40368caaf5a835daffd47b70a0e0c4504dde970e6b0d3f",
+   "titulo": "Will Bitcoin dip to $75,000 in August?",
+   "slug": "will-bitcoin-dip-to-75k-in-august-2026",
+   "outcome": "No",
+   "side": "BUY",
+   "size": 6000.0,
+   "price": 0.32,
+   "usd": 1920.0,
+   "ts": 1787560435,
+   "categoria": "Cripto",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,920 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-bitcoin-dip-to-75k-in-august-2026",
+   "titulo_es": "¿Caerá Bitcoin a $75,000 en agosto?",
+   "narrativa": "El mercado está descontando un 45% de probabilidad implícita para que Bitcoin toque los $75,000 en agosto, pero el consenso externo de analistas macro y flujos de derivados sugiere un sesgo alcista de corto plazo, con un edge estimado de +8 puntos a favor del 'No'. Con una posición de $1,920, el retorno potencial ajustado por probabilidad es atractivo frente a la volatilidad esperada del activo, que ha mostrado soporte técnico en $82,000. Riesgo: posible evento de liquidación en cascada si se rompe el soporte de $80,000."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923296.763660002,
+   "volumen": 9923296.763659993,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -81,7 +102,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99932.49187999999,
+   "volumen": 99932.49188,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -91,7 +112,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599997,
+   "volumen": 99614.482946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -99,8 +120,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.18,
-   "no": 0.82,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -109,9 +130,9 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
-   "volumen": 99063.70341900003,
+   "yes": 0.145,
+   "no": 0.855,
+   "volumen": 99063.70341899998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -121,7 +142,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.84,
    "no": 0.16,
-   "volumen": 99058.29904399997,
+   "volumen": 99058.29904400001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -131,7 +152,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.430583,
+   "volumen": 98936.43058300004,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -141,7 +162,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-less-than-900m-by-august-31-1785941825450",
    "yes": 0.76,
    "no": 0.24,
-   "volumen": 98736.35159700003,
+   "volumen": 98736.35159699997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day inferior a 900 millones para el 31 de agosto?"
@@ -161,20 +182,20 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.705,
    "no": 0.295,
-   "volumen": 98427.30661799999,
+   "volumen": 98427.30661799997,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
-   "question": "Bitcoin Up or Down on August 24?",
-   "slug": "bitcoin-up-or-down-on-august-24-2026",
-   "yes": 0.415,
-   "no": 0.585,
-   "volumen": 98350.17824299997,
+   "question": "Will XRP reach $2.00 in August?",
+   "slug": "will-xrp-reach-2-in-august-2026",
+   "yes": 0.0685,
+   "no": 0.9315,
+   "volumen": 98294.00581699998,
    "spread": 0.0,
    "categoria": "Cripto",
-   "question_es": "¿Bitcoin al alza o a la baja el 24 de agosto?"
+   "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
   },
   {
    "question": "Will the highest temperature in Guangzhou be 32°C on August 24?",
@@ -189,9 +210,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2135,
-   "no": 0.7865,
-   "volumen": 9997.396973,
+   "yes": 0.2145,
+   "no": 0.7855,
+   "volumen": 9997.396972999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -231,7 +252,7 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 9982.176089,
+   "volumen": 9982.176088999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -249,9 +270,9 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.0575,
-   "no": 0.9425,
-   "volumen": 9965.953989000001,
+   "yes": 0.057,
+   "no": 0.943,
+   "volumen": 9965.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará “Saturday Night Live” los Emmys 2026: Mejor serie de variedades?"
