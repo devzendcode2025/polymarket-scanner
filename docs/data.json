@@ -1,6 +1,6 @@
 {
- "ts": 1787582457,
- "stamp": "20260824_144057",
+ "ts": 1787582997,
+ "stamp": "20260824_144957",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,10 +41,30 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923311.823659984,
+   "volumen": 9923311.823659973,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
+  },
+  {
+   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
+   "yes": 0.0065,
+   "no": 0.9935,
+   "volumen": 983750.9955090001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
+  },
+  {
+   "question": "US obtains Iranian enriched uranium by September 30?",
+   "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
+   "yes": 0.0165,
+   "no": 0.9835,
+   "volumen": 99981.59491100001,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
   },
   {
    "question": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
@@ -57,31 +77,31 @@
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
   },
   {
-   "question": "US obtains Iranian enriched uranium by September 30?",
-   "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
-   "yes": 0.0165,
-   "no": 0.9835,
-   "volumen": 99964.115286,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
-  },
-  {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99947.95304000001,
+   "volumen": 99947.95304000004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
+  },
+  {
+   "question": "Ink FDV above $100M one day after launch?",
+   "slug": "ink-fdv-above-100m-one-day-after-launch",
+   "yes": 0.52,
+   "no": 0.48,
+   "volumen": 99882.77408800003,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿FDV de Ink por encima de $100M un día después del lanzamiento?"
   },
   {
    "question": "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?",
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.84,
    "no": 0.16,
-   "volumen": 99732.293881,
+   "volumen": 99732.29388099998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -91,26 +111,16 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599997,
+   "volumen": 99614.48294599996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
   },
   {
-   "question": "Ink FDV above $100M one day after launch?",
-   "slug": "ink-fdv-above-100m-one-day-after-launch",
-   "yes": 0.565,
-   "no": 0.435,
-   "volumen": 99399.904088,
-   "spread": 0.0,
-   "categoria": "Ciencia y espacio",
-   "question_es": "¿FDV de Ink por encima de $100M un día después del lanzamiento?"
-  },
-  {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.18,
+   "no": 0.82,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -121,7 +131,7 @@
    "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
    "yes": 0.895,
    "no": 0.105,
-   "volumen": 99172.67936499999,
+   "volumen": 99283.789365,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será NVIDIA la empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -131,27 +141,17 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 99063.703419,
+   "volumen": 99063.70341900003,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will the total domestic gross for Spider-Man: Brand New Day be less than 900m by August 31?",
-   "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-less-than-900m-by-august-31-1785941825450",
-   "yes": 0.775,
-   "no": 0.225,
-   "volumen": 98945.992995,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day inferior a 900 millones para el 31 de agosto?"
   },
   {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058299998,
+   "volumen": 98936.43058300001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -159,8 +159,8 @@
   {
    "question": "Will Elon Musk post 40-64 tweets from August 22 to August 24, 2026?",
    "slug": "elon-musk-of-tweets-august-22-august-24-2026-40-64",
-   "yes": 0.996,
-   "no": 0.004,
+   "yes": 0.995,
+   "no": 0.005,
    "volumen": 98759.17628799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -189,8 +189,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.087,
-   "no": 0.913,
+   "yes": 0.0875,
+   "no": 0.9125,
    "volumen": 98474.17104299998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -207,24 +207,24 @@
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
-   "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
-   "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2105,
-   "no": 0.7895,
-   "volumen": 9997.396972999995,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
-  },
-  {
    "question": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo",
    "slug": "atp-gaston-justo-2026-08-25",
    "yes": 0.845,
    "no": 0.155,
-   "volumen": 9992.812880999998,
+   "volumen": 9997.812881,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "Abierto de EE. UU., Clasificación ATP: Hugo Gaston vs Guido Justo"
+  },
+  {
+   "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
+   "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
+   "yes": 0.2085,
+   "no": 0.7915,
+   "volumen": 9997.396972999997,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
   },
   {
    "question": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
@@ -235,16 +235,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
-  },
-  {
-   "question": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena",
-   "slug": "atp-fearnle-baena-2026-08-24",
-   "yes": 0.805,
-   "no": 0.195,
-   "volumen": 9983.418971000001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Abierto de EE. UU., Clasificación ATP: Jacob Fearnley vs Roberto Carballés Baena"
   },
   {
    "question": "Will the Republicans win the South Carolina governor race in 2026?",
@@ -267,16 +257,6 @@
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
   },
   {
-   "question": "Will Sílvia Cristina win the most votes in the 2026 Rondônia Senate election?",
-   "slug": "will-silvia-cristina-win-the-most-votes-in-the-2026-rondonia-senate-election",
-   "yes": 0.375,
-   "no": 0.625,
-   "volumen": 9981.646109999998,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Sílvia Cristina la mayor cantidad de votos en las elecciones al Senado de Rondônia de 2026?"
-  },
-  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -285,10 +265,30 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will the Republican Party win the OR-03 House seat?",
+   "slug": "will-the-republican-party-win-the-or-03-house-seat",
+   "yes": 0.045,
+   "no": 0.955,
+   "volumen": 9963.84765,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara OR-03?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.0035,
+   "no": 0.9965,
+   "volumen": 9946.699383,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787580915,
+  "ts": 1787582716,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
