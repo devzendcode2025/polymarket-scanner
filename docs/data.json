@@ -1,51 +1,10 @@
 {
- "ts": 1787595300,
- "stamp": "20260824_181500",
+ "ts": 1787595780,
+ "stamp": "20260824_182300",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x5f3d0a510343c5984cf756122c98863a68f94e164e06bc885a93f46ec327fe04",
-   "titulo": "Will RC Deportivo A Coruña win on 2026-08-24?",
-   "slug": "lal-mala-dep-2026-08-24-dep",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 16699.263885,
-   "price": 0.72,
-   "usd": 12023.47,
-   "ts": 1787595000,
-   "categoria": "Otros",
-   "prob": 70,
-   "confianza": "alta",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $12,023 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-mala-dep-2026-08-24-dep",
-   "titulo_es": "¿Ganará el RC Deportivo A Coruña el 2026-08-24?",
-   "narrativa": "Se detecta una apuesta significativa de 12,023 USD a favor del 'No' en el mercado del RC Deportivo A Coruña para el 24 de agosto, lo que sugiere que el capital grande está posicionado en contra de la victoria local. Este flujo de dinero, al ser de alta magnitud, puede indicar información privilegiada o un fuerte consenso de los operadores profesionales, generando una posible oportunidad de seguir la tendencia si el precio aún no ha ajustado por completo. Riesgo: la falta de volumen de mercado reportado puede amplificar el impacto de la orden y limitar la salida."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xad5123db7bc0ef6d5a0e0a6004ddaaa09408706319105bb94e0619932c254882",
-   "titulo": "LoL: GIANTX vs G2 Esports - Game 2 Winner",
-   "slug": "lol-gx-g2-2026-08-24-game2",
-   "outcome": "G2 Esports",
-   "side": "BUY",
-   "size": 1849.42,
-   "price": 0.736000584,
-   "usd": 1361.17,
-   "ts": 1787595000,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,361 en 'G2 Esports'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-gx-g2-2026-08-24-game2",
-   "titulo_es": "LoL: GIANTX vs G2 Esports - Ganador del Juego 2",
-   "narrativa": "La compra de 1,361 USD en 'G2 Esports' para ganar el Juego 2 contra GIANTX refleja una convicción clara en el favorito, respaldada por el historial competitivo y la superioridad de plantilla. El monto del trade, aunque moderado, es suficiente para mover la línea en mercados de nicho, sugiriendo que el precio actual aún no descuenta por completo la probabilidad implícita de victoria. Riesgo: la alta volatilidad en esports y el posible 'upset' de GIANTX en un juego individual pueden generar pérdidas rápidas."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -78,41 +37,51 @@
  ],
  "top_volumen": [
   {
+   "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+   "slug": "clarity-act-signed-into-law-in-2026",
+   "yes": 0.18,
+   "no": 0.82,
+   "volumen": 9935070.566634001,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
+  },
+  {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923311.82366,
+   "volumen": 9923311.823659988,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
+  },
+  {
+   "question": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon",
+   "slug": "atp-droguet-rincon-2026-08-24",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 988685.0812959997,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "US Open, Clasificación ATP: Titouan Droguet vs Daniel Rincon"
   },
   {
    "question": "Will the Washington Commanders win the 2027 NFL league championship?",
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 984202.2840609999,
+   "volumen": 984202.2840610002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
-  },
-  {
-   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
-   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 983750.9955090001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
    "question": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000002,
+   "volumen": 99966.78188,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -132,7 +101,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.845,
    "no": 0.155,
-   "volumen": 99752.29388100003,
+   "volumen": 99752.29388100002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -152,7 +121,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599999,
+   "volumen": 99614.48294599996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -182,7 +151,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.430583,
+   "volumen": 98936.43058300001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -190,9 +159,9 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.079,
-   "no": 0.921,
-   "volumen": 98926.07896599999,
+   "yes": 0.082,
+   "no": 0.918,
+   "volumen": 98926.07896599997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
@@ -202,10 +171,20 @@
    "slug": "will-xrp-reach-2pt8-in-august-2026",
    "yes": 0.013,
    "no": 0.987,
-   "volumen": 98645.26905,
+   "volumen": 98645.26905000002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.80 en agosto?"
+  },
+  {
+   "question": "Will Julian Alvarez join Barcelona?",
+   "slug": "will-julian-alvarez-join-barcelona-20260612230229112",
+   "yes": 0.149,
+   "no": 0.851,
+   "volumen": 98597.27629100002,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Se unirá Julián Álvarez al Barcelona?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -216,16 +195,6 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
-  },
-  {
-   "question": "Will Julian Alvarez join Barcelona?",
-   "slug": "will-julian-alvarez-join-barcelona-20260612230229112",
-   "yes": 0.145,
-   "no": 0.855,
-   "volumen": 98502.722666,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Se unirá Julián Álvarez al Barcelona?"
   },
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
@@ -240,12 +209,22 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.205,
-   "no": 0.795,
-   "volumen": 9997.396972999995,
+   "yes": 0.2065,
+   "no": 0.7935,
+   "volumen": 9997.396972999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
+  },
+  {
+   "question": "Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas",
+   "slug": "atp-brooksb-tsitsip-2026-08-24",
+   "yes": 0.405,
+   "no": 0.595,
+   "volumen": 9997.120993000004,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas"
   },
   {
    "question": "Will the Republican Party win the OR-03 House seat?",
@@ -282,20 +261,20 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 9982.176089,
+   "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
   },
   {
-   "question": "Will the highest temperature in London be 24°C on August 25?",
-   "slug": "highest-temperature-in-london-on-august-25-2026-24c",
-   "yes": 0.49,
-   "no": 0.51,
-   "volumen": 9980.001961000002,
+   "question": "Will the highest temperature in Miami be between 90-91°F on August 24?",
+   "slug": "highest-temperature-in-miami-on-august-24-2026-90-91f",
+   "yes": 0.9,
+   "no": 0.1,
+   "volumen": 9970.210057,
    "spread": 0.0,
    "categoria": "Otros",
-   "question_es": "¿Será la temperatura máxima en Londres de 24°C el 25 de agosto?"
+   "question_es": "¿Será la temperatura más alta en Miami entre 90-91°F el 24 de agosto?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -306,26 +285,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
-   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.003,
-   "no": 0.997,
-   "volumen": 9946.699383,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will the US federal government take a stake in The Boeing Company?",
-   "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 9944.236178000001,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
   }
  ],
  "historico": {
