@@ -1,31 +1,10 @@
 {
- "ts": 1787557791,
- "stamp": "20260824_074951",
+ "ts": 1787558332,
+ "stamp": "20260824_075852",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x1f5f12819e3cc53ddc642632d816114ec6c328b6f8e9b323e3d033185f9b5a62",
-   "titulo": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 3 Winner",
-   "slug": "lol-dnsc-drxc-2026-08-24-game3",
-   "outcome": "Kiwoom DRX Challengers",
-   "side": "BUY",
-   "size": 1894.78,
-   "price": 0.95,
-   "usd": 1800.04,
-   "ts": 1787557434,
-   "categoria": "Deportes",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,800 en 'Kiwoom DRX Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-dnsc-drxc-2026-08-24-game3",
-   "titulo_es": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Ganador del Juego 3",
-   "narrativa": "La compra en Kiwoom DRX Challengers a 1.800 USD muestra un edge positivo frente al consenso externo, que ubica su probabilidad implícita en torno al 55% mientras el mercado cotiza cerca del 48%, generando un desvío de +7 puntos porcentuales a favor. Este diferencial, sumado al monto significativo del trade, sugiere que el precio aún no ha absorbido toda la información disponible sobre la forma del equipo en el Juego 3. Riesgo: volatilidad alta en partidos de ligas menores y posible falta de profundidad en el libro de órdenes."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -120,8 +99,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.18,
-   "no": 0.82,
+   "yes": 0.165,
+   "no": 0.835,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -130,8 +109,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -142,7 +121,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.84,
    "no": 0.16,
-   "volumen": 98999.47551599998,
+   "volumen": 98999.47551599995,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -162,7 +141,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-less-than-900m-by-august-31-1785941825450",
    "yes": 0.76,
    "no": 0.24,
-   "volumen": 98631.93159699999,
+   "volumen": 98631.931597,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day inferior a 900 millones para el 31 de agosto?"
@@ -190,8 +169,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2155,
-   "no": 0.7845,
+   "yes": 0.2165,
+   "no": 0.7835,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -230,8 +209,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9825,
-   "no": 0.0175,
+   "yes": 0.982,
+   "no": 0.018,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
