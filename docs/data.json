@@ -1,31 +1,10 @@
 {
- "ts": 1787573455,
- "stamp": "20260824_121055",
+ "ts": 1787573815,
+ "stamp": "20260824_121655",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x2e42624b98724cbd2ce282870edeee56419f75eb2c27c96c8206eb3bc7b59216",
-   "titulo": "Will Málaga CF vs. RC Deportivo A Coruña end in a draw?",
-   "slug": "lal-mala-dep-2026-08-24-draw",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 3184.529409,
-   "price": 0.68,
-   "usd": 2165.48,
-   "ts": 1787573065,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,165 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-mala-dep-2026-08-24-draw",
-   "titulo_es": "¿Terminará en empate el Málaga CF vs. RC Deportivo A Coruña?",
-   "narrativa": "El mercado descuenta un empate con probabilidad implícita del 31%, pero el consenso externo de modelos de liga sitúa ese escenario en torno al 26%, lo que deja un edge positivo de ~5 puntos a favor del 'No'. Con una posición de $2,165 USD, el retorno esperado ajustado por comisión supera el 8% si el partido no termina igualado, aprovechando la sobrevaloración del empate en un partido de alta volatilidad táctica. Riesgo: el bajo volumen del mercado puede ampliar el spread en momentos de alta actividad."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -140,8 +119,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.185,
-   "no": 0.815,
+   "yes": 0.175,
+   "no": 0.825,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -220,8 +199,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2115,
-   "no": 0.7885,
+   "yes": 0.216,
+   "no": 0.784,
    "volumen": 9997.396973,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -230,8 +209,8 @@
   {
    "question": "Will the highest temperature in Madrid be 28°C on August 24?",
    "slug": "highest-temperature-in-madrid-on-august-24-2026-28c",
-   "yes": 0.665,
-   "no": 0.335,
+   "yes": 0.725,
+   "no": 0.275,
    "volumen": 9987.890469999998,
    "spread": 0.0,
    "categoria": "Otros",
