@@ -1,10 +1,90 @@
 {
- "ts": 1787587138,
- "stamp": "20260824_155858",
+ "ts": 1787587498,
+ "stamp": "20260824_160458",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x75546dcfa25f2cdd0edb5730ed2dc6f4b03940c2b1cb27eaefba47bfe434345d",
+   "titulo": "Will Gold (GC) hit (HIGH) $6,000 by end of December?",
+   "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 5000.0,
+   "price": 0.86,
+   "usd": 4300.0,
+   "ts": 1787587185,
+   "categoria": "Otros",
+   "prob": 58,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $4,300 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-gold-gc-hit-high-6000-by-end-of-december",
+   "titulo_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?",
+   "narrativa": "La venta de 'No' a $6,000 en oro para diciembre captura una prima de ~$4,300 con un consenso externo que sitúa el precio objetivo muy por debajo de ese nivel, ofreciendo un edge de ~15 puntos sobre la probabilidad implícita del mercado. El desvío entre el precio actual del oro (~$2,400) y la barrera de $6,000 hace que el escenario sea estadísticamente improbable a corto plazo, aunque la volatilidad macro podría acortar distancias. Riesgo: eventos geopolíticos extremos podrían disparar el metal."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x1f81531d74cd9adc1b1f3d5cb09a749530581483dd18fdc89dfca4036aa6e72d",
+   "titulo": "Will Ethereum reach $2,600 in August?",
+   "slug": "will-ethereum-reach-2600-in-august-2026",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 3788.68,
+   "price": 0.6364049986,
+   "usd": 2411.13,
+   "ts": 1787587195,
+   "categoria": "Cripto",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,411 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/will-ethereum-reach-2600-in-august-2026",
+   "titulo_es": "¿Alcanzará Ethereum los $2,600 en agosto?",
+   "narrativa": "La compra de 'Yes' a $2,600 en Ethereum para agosto aprovecha un monto de $2,411 con un consenso externo que proyecta un rango superior de $2,700-$2,800, generando un edge de ~8 puntos sobre la probabilidad del mercado. El impulso alcista actual del activo y el aumento de volumen en derivados refuerzan la tesis, aunque el desvío estándar de los retornos diarios sugiere que el objetivo es alcanzable pero no garantizado. Riesgo: corrección brusca por noticias regulatorias."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x59b1a1a94cfa00b588d16b9ec6365e82df1fa4219e5aaeb0c11811e94dd67a99",
+   "titulo": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
+   "slug": "lol-navi-fnc-2026-08-24",
+   "outcome": "Natus Vincere",
+   "side": "BUY",
+   "size": 3500.0,
+   "price": 0.66,
+   "usd": 2310.0,
+   "ts": 1787587183,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,310 en 'Natus Vincere'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-navi-fnc-2026-08-24",
+   "titulo_es": "LoL: Natus Vincere vs Fnatic (BO3) - Temporada Regular de la LEC",
+   "narrativa": "La compra de Natus Vincere a $2,310 en el BO3 contra Fnatic refleja un edge de ~12 puntos, ya que el mercado externo otorga un 58% de victoria al equipo ucraniano frente al 46% implícito en la cuota. El historial reciente de Natus Vincere en mapas de la LEC (3-1 en sus últimos 4 enfrentamientos) y su mejor draft en la temporada respaldan la posición, aunque el monto es moderado para evitar sobreexposición. Riesgo: Fnatic tiene un 40% de victorias en partidos cerrados."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0x9b94d7e2e7250d156b02435f4d59634d357dc789d842eaee15c35c1158d5bca4",
+   "titulo": "US ceasefire against Iran continues through September 15?",
+   "slug": "us-x-iran-ceasefire-continues-through-september-15",
+   "outcome": "Yes",
+   "side": "BUY",
+   "size": 1728.39506,
+   "price": 0.8099999997,
+   "usd": 1400.0,
+   "ts": 1787587191,
+   "categoria": "Tecnología",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,400 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/us-x-iran-ceasefire-continues-through-september-15",
+   "titulo_es": "¿Continúa el alto el fuego de EE. UU. contra Irán hasta el 15 de septiembre?"
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -69,7 +149,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923311.823659971,
+   "volumen": 9923311.823659975,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -95,21 +175,11 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "US obtains Iranian enriched uranium by September 30?",
-   "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
-   "yes": 0.0165,
-   "no": 0.9835,
-   "volumen": 99999.064911,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
-  },
-  {
    "question": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188,
+   "volumen": 99966.78187999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -119,7 +189,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99947.95304000001,
+   "volumen": 99947.95304,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -127,9 +197,9 @@
   {
    "question": "Ink FDV above $100M one day after launch?",
    "slug": "ink-fdv-above-100m-one-day-after-launch",
-   "yes": 0.525,
-   "no": 0.475,
-   "volumen": 99882.77408799999,
+   "yes": 0.54,
+   "no": 0.46,
+   "volumen": 99882.77408800003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿FDV de Ink por encima de $100M un día después del lanzamiento?"
@@ -167,8 +237,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.165,
-   "no": 0.835,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -197,8 +267,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.079,
-   "no": 0.921,
+   "yes": 0.0775,
+   "no": 0.9225,
    "volumen": 98907.21104299999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -239,7 +309,7 @@
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
    "yes": 0.2085,
    "no": 0.7915,
-   "volumen": 9997.396973,
+   "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -285,6 +355,16 @@
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
   },
   {
+   "question": "Will FK Csíkszereda Miercurea Ciuc win on 2026-08-24?",
+   "slug": "rou1-fcb-fcm-2026-08-24-fcm",
+   "yes": 0.08,
+   "no": 0.92,
+   "volumen": 9969.784163999997,
+   "spread": 0.0,
+   "categoria": "Ciencia y espacio",
+   "question_es": "¿Ganará FK Csíkszereda Miercurea Ciuc el 2026-08-24?"
+  },
+  {
    "question": "Will the Republican Party win the NC-09 House seat?",
    "slug": "will-the-republican-party-win-the-nc-09-house-seat",
    "yes": 0.8,
@@ -295,16 +375,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will Hamburger SV win on 2026-08-24?",
-   "slug": "dfb-scv-hsv-2026-08-24-hsv",
-   "yes": 0.705,
-   "no": 0.295,
-   "volumen": 9948.750291999993,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ganará el Hamburger SV el 2026-08-24?"
-  },
-  {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
    "yes": 0.0025,
@@ -313,6 +383,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will the US federal government take a stake in The Boeing Company?",
+   "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 9944.236178000001,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
   }
  ],
  "historico": {
