@@ -1,31 +1,10 @@
 {
- "ts": 1787545369,
- "stamp": "20260824_042249",
+ "ts": 1787545729,
+ "stamp": "20260824_042849",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x858bda7a49da1e503cbaf2245dfd6bc0e05ae8847e5d707b15307466a6a349f0",
-   "titulo": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova",
-   "slug": "wta-ruzic-bartunk-2026-08-23",
-   "outcome": "Nikola Bartunkova",
-   "side": "BUY",
-   "size": 2003.76944,
-   "price": 0.8917343285,
-   "usd": 1786.83,
-   "ts": 1787545108,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,787 en 'Nikola Bartunkova'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-ruzic-bartunk-2026-08-23",
-   "titulo_es": "Abierto de Monterrey: Antonia Ruzic vs Nikola Bartunkova",
-   "narrativa": "El mercado descuenta a Nikola Bartunkova como favorita, pero el edge de compra se sustenta en un desajuste de precios frente al consenso externo, que la sitúa con mayor probabilidad implícita de victoria. Con un monto de 1,786.83 USD, la posición aprovecha la ventana antes de que el mercado corrija la discrepancia, ofreciendo un punto de entrada con potencial de revalorización si el precio converge a la referencia externa. El volumen del mercado no está disponible, por lo que la ejecución podría enfrentar spreads amplios; riesgo: liquidez limitada."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -70,8 +49,8 @@
   {
    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?",
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-at-least-900m-by-august-31-20260717232947960",
-   "yes": 0.3315,
-   "no": 0.6685,
+   "yes": 0.331,
+   "no": 0.669,
    "volumen": 998949.09025,
    "spread": 0.0,
    "categoria": "Otros",
@@ -150,8 +129,8 @@
   {
    "question": "Next Mythos-Class Model released by September 30, 2026?",
    "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
-   "yes": 0.71,
-   "no": 0.29,
+   "yes": 0.7,
+   "no": 0.3,
    "volumen": 99210.48986399999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -160,8 +139,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.165,
+   "no": 0.835,
    "volumen": 99063.70341899998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -210,8 +189,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.217,
-   "no": 0.783,
+   "yes": 0.2165,
+   "no": 0.7835,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
