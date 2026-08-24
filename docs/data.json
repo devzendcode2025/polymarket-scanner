@@ -1,49 +1,29 @@
 {
- "ts": 1787555811,
- "stamp": "20260824_071651",
+ "ts": 1787556351,
+ "stamp": "20260824_072551",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xf910d5d18f34421c48d40ad746ef8cfaf95492293e64f7266ecb1f15af992689",
-   "titulo": "Will the price of Bitcoin be above $70,000 on August 24?",
-   "slug": "bitcoin-above-70k-on-august-24-2026",
-   "outcome": "Yes",
+   "market_id": "0x1f5f12819e3cc53ddc642632d816114ec6c328b6f8e9b323e3d033185f9b5a62",
+   "titulo": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 3 Winner",
+   "slug": "lol-dnsc-drxc-2026-08-24-game3",
+   "outcome": "DN SOOPers Challengers",
    "side": "BUY",
-   "size": 1147.57,
-   "price": 0.999,
-   "usd": 1146.42,
-   "ts": 1787555619,
-   "categoria": "Cripto",
+   "size": 1651.612902,
+   "price": 0.6199999999,
+   "usd": 1024.0,
+   "ts": 1787555920,
+   "categoria": "Deportes",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,146 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-70k-on-august-24-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $70,000 el 24 de agosto?",
-   "narrativa": "La compra de $1,146 en 'Yes' para Bitcoin sobre $70,000 el 24 de agosto refleja una apuesta direccional clara, con un edge implícito si el consenso externo del mercado (probabilidad actual) está por debajo del umbral de rentabilidad. El monto, aunque moderado, muestra convicción en un repunte de corto plazo, y el cambio porcentual en la demanda de este outcome podría amplificar el movimiento si el volumen acompaña. Riesgo: volatilidad extrema de BTC y posible falta de profundidad en el libro de órdenes para salir rápido."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xf910d5d18f34421c48d40ad746ef8cfaf95492293e64f7266ecb1f15af992689",
-   "titulo": "Will the price of Bitcoin be above $70,000 on August 24?",
-   "slug": "bitcoin-above-70k-on-august-24-2026",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 1145.22,
-   "price": 0.999,
-   "usd": 1144.07,
-   "ts": 1787555602,
-   "categoria": "Cripto",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,144 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/bitcoin-above-70k-on-august-24-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin por encima de $70,000 el 24 de agosto?",
-   "narrativa": "Este segundo trade de $1,144 en el mismo evento y lado refuerza la señal de acumulación, sugiriendo que el comprador ve un desajuste entre el precio de mercado y su valoración justa. El edge se materializa si la probabilidad implícita actual (digamos, 35-40%) es inferior a la probabilidad real estimada por el flujo de órdenes, y el monto repetido indica consistencia estratégica. Riesgo: correlación con noticias macro que puedan mover el precio en contra antes del cierre."
+   "razon": "Trade de compra por $1,024 en 'DN SOOPers Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-dnsc-drxc-2026-08-24-game3",
+   "titulo_es": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Ganador del Juego 3",
+   "narrativa": "El mercado muestra una oportunidad de compra en DN SOOPers Challengers para el Juego 3, con una posición de $1,024 USD que refleja confianza direccional. Aunque no se dispone de consenso externo ni volumen total, la magnitud del trade sugiere que un operador relevante detectó un desajuste en la probabilidad implícita, generando un edge potencial en puntos que aún no se ha corregido. La falta de datos de volumen de mercado incrementa la incertidumbre sobre la liquidez, por lo que la ejecución podría enfrentar spreads amplios. Riesgo: mercado con poca profundidad y posible slippage en la entrada."
   }
  ],
  "edges": [
@@ -82,20 +62,10 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923296.763659986,
+   "volumen": 9923296.763660002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
-  },
-  {
-   "question": "Will Gold (GC) hit (HIGH) $6,000 by end of December?",
-   "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
-   "yes": 0.13,
-   "no": 0.87,
-   "volumen": 999697.8945099999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -132,7 +102,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99932.49188000003,
+   "volumen": 99932.49187999999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -142,7 +112,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.482946,
+   "volumen": 99614.48294599997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -150,8 +120,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.18,
-   "no": 0.82,
+   "yes": 0.185,
+   "no": 0.815,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -160,8 +130,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.165,
-   "no": 0.835,
+   "yes": 0.15,
+   "no": 0.85,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -172,7 +142,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.84,
    "no": 0.16,
-   "volumen": 98999.47551599998,
+   "volumen": 98999.475516,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -182,10 +152,20 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.25,
    "no": 0.75,
-   "volumen": 98936.43058300001,
+   "volumen": 98936.43058299998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
+  },
+  {
+   "question": "Will the total domestic gross for Spider-Man: Brand New Day be less than 900m by August 31?",
+   "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-less-than-900m-by-august-31-1785941825450",
+   "yes": 0.76,
+   "no": 0.24,
+   "volumen": 98625.438093,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day inferior a 900 millones para el 31 de agosto?"
   },
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
@@ -202,7 +182,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.705,
    "no": 0.295,
-   "volumen": 98427.30661799997,
+   "volumen": 98427.306618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -210,9 +190,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.213,
-   "no": 0.787,
-   "volumen": 9997.396972999995,
+   "yes": 0.214,
+   "no": 0.786,
+   "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -250,9 +230,9 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9815,
-   "no": 0.0185,
-   "volumen": 9982.176088999997,
+   "yes": 0.982,
+   "no": 0.018,
+   "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -270,9 +250,9 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.038,
-   "no": 0.962,
-   "volumen": 9965.953988999998,
+   "yes": 0.079,
+   "no": 0.921,
+   "volumen": 9965.953989,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará “Saturday Night Live” los Emmys 2026: Mejor serie de variedades?"
@@ -282,7 +262,7 @@
    "slug": "will-zptai-be-the-second-best-chinese-ai-company-at-the-end-of-september-2026-20260722220234246",
    "yes": 0.355,
    "no": 0.645,
-   "volumen": 9960.202744999999,
+   "volumen": 9960.202745,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Z.ai la segunda mejor empresa china de IA a finales de septiembre de 2026?"
@@ -312,7 +292,7 @@
    "slug": "will-the-traitors-win-emmys-2026-outstanding-realitycompetition-series-20260709174232726",
    "yes": 0.8655,
    "no": 0.1345,
-   "volumen": 9930.622033000001,
+   "volumen": 9930.622033,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará 'The Traitors' los Emmys 2026: Mejor serie de realidad/competencia?"
@@ -322,7 +302,7 @@
    "slug": "tesla-and-spacex-merger-officially-announced-by-december-31-2027",
    "yes": 0.43,
    "no": 0.57,
-   "volumen": 9925.86969,
+   "volumen": 9925.869690000003,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Fusión de Tesla y SpaceX anunciada oficialmente antes del 31 de diciembre de 2027?"
