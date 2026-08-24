@@ -1,6 +1,6 @@
 {
- "ts": 1787539308,
- "stamp": "20260824_024148",
+ "ts": 1787539788,
+ "stamp": "20260824_024948",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923290.733659994,
+   "volumen": 9923290.733659979,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -61,7 +61,7 @@
    "slug": "will-gold-gc-hit-high-6000-by-end-of-december",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 993854.5568569999,
+   "volumen": 993854.556857,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Alcanzará el Oro (GC) un máximo (HIGH) de $6,000 para fin de diciembre?"
@@ -79,9 +79,9 @@
   {
    "question": "US obtains Iranian enriched uranium by September 30?",
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
-   "yes": 0.016,
-   "no": 0.984,
-   "volumen": 99964.11528600001,
+   "yes": 0.0165,
+   "no": 0.9835,
+   "volumen": 99964.115286,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -89,9 +89,9 @@
   {
    "question": "Will Radu Burnete be the next Prime Minister of Romania?",
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
-   "yes": 0.0625,
-   "no": 0.9375,
-   "volumen": 99947.95304,
+   "yes": 0.063,
+   "no": 0.937,
+   "volumen": 99947.95304000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -101,7 +101,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99932.49188,
+   "volumen": 99932.49188000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -111,7 +111,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294599999,
+   "volumen": 99614.482946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -119,8 +119,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.195,
-   "no": 0.805,
+   "yes": 0.21,
+   "no": 0.79,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -129,9 +129,9 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 99063.703419,
+   "yes": 0.15,
+   "no": 0.85,
+   "volumen": 99063.70341899998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -177,16 +177,6 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
-   "question": "Racing Club vs. CA Boca Juniors: O/U 5.5",
-   "slug": "arg-rac-boc-2026-08-23-total-5pt5",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 98460.70330700002,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Racing Club vs. CA Boca Juniors: Más/Menos 5.5"
-  },
-  {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.67,
@@ -207,21 +197,11 @@
    "question_es": "¿Será la recaudación nacional total de The Odyssey de entre 550m y 570m para el 31 de agosto?"
   },
   {
-   "question": "Will CA River Plate vs. CA Vélez Sarsfield end in a draw?",
-   "slug": "arg-riv-vel-2026-08-23-draw",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9999.444153,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Terminará en empate CA River Plate vs. CA Vélez Sarsfield?"
-  },
-  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
    "yes": 0.2025,
    "no": 0.7975,
-   "volumen": 9997.396973,
+   "volumen": 9997.396972999995,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -249,9 +229,9 @@
   {
    "question": "Will the match end in a draw?",
    "slug": "crint-lka-ind-2026-08-23-draw",
-   "yes": 0.225,
-   "no": 0.775,
-   "volumen": 9986.559657000005,
+   "yes": 0.21,
+   "no": 0.79,
+   "volumen": 9986.559657000003,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Terminará el partido en empate?"
@@ -279,12 +259,32 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.0585,
-   "no": 0.9415,
-   "volumen": 9965.953989000001,
+   "yes": 0.058,
+   "no": 0.942,
+   "volumen": 9965.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará “Saturday Night Live” los Emmys 2026: Mejor serie de variedades?"
+  },
+  {
+   "question": "Club Nacional de Football vs. CA Progreso: O/U 1.5",
+   "slug": "uru1-nac-pro-2026-08-23-total-1pt5",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9956.793949,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Club Nacional de Football vs. CA Progreso: Más/Menos 1.5"
+  },
+  {
+   "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
+   "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
+   "yes": 0.06,
+   "no": 0.94,
+   "volumen": 9950.163697,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
   }
  ],
  "historico": {
