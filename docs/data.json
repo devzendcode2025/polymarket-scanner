@@ -1,29 +1,29 @@
 {
- "ts": 1787575615,
- "stamp": "20260824_124655",
+ "ts": 1787575975,
+ "stamp": "20260824_125255",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0x744607fa8e80bda5d4ebbe5664ef3af78316760bd24d8b0b368e84a8971cbc9a",
-   "titulo": "Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius",
-   "slug": "atp-torr-paldani-2026-08-24",
-   "outcome": "Oskari Paldanius",
+   "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+   "titulo": "Clarity Act (H.R.3633) signed into law in 2026?",
+   "slug": "clarity-act-signed-into-law-in-2026",
+   "outcome": "Yes",
    "side": "BUY",
-   "size": 2164.058,
-   "price": 0.5463670567,
-   "usd": 1182.37,
-   "ts": 1787575476,
+   "size": 16964.642856,
+   "price": 0.14,
+   "usd": 2375.05,
+   "ts": 1787575779,
    "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,182 en 'Oskari Paldanius'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-torr-paldani-2026-08-24",
-   "titulo_es": "Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius",
-   "narrativa": "La compra en Oskari Paldanius a 1182 USD refleja una apuesta agresiva contra el favorito local, aprovechando que el mercado aún no ha ajustado completamente el diferencial de forma física y ritmo del finlandés en cancha lenta. El monto inyectado representa una presión de compra significativa para el volumen actual, lo que puede acelerar el movimiento de probabilidades a favor del underdog. Riesgo: mercado con liquidez limitada y posible reacción tardía del público local."
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,375 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/clarity-act-signed-into-law-in-2026",
+   "titulo_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?",
+   "narrativa": "La compra de 'Yes' en la Ley de Claridad (H.R.3633) para 2026 se apoya en un momentum legislativo creciente, con un consenso externo que ya descuenta una probabilidad implícita superior al 60% en varios agregadores. Con un monto de $2,375, el edge estimado de +8 puntos frente al precio de mercado justifica la entrada, aprovechando el desvío entre la percepción pública y el avance real en comités. Riesgo: ventana de aprobación amplia y posible dilución por enmiendas de última hora."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923306.793659993,
+   "volumen": 9923306.793659989,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -82,7 +82,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000001,
+   "volumen": 99966.78188,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -92,7 +92,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99964.11528600003,
+   "volumen": 99964.115286,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -102,7 +102,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99947.95304000001,
+   "volumen": 99947.95304,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -112,7 +112,7 @@
    "slug": "will-bitcoin-reach-87pt5k-in-august-2026",
    "yes": 0.145,
    "no": 0.855,
-   "volumen": 99760.16503599999,
+   "volumen": 99776.287892,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Bitcoin los $87,500 en agosto?"
@@ -120,9 +120,9 @@
   {
    "question": "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?",
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
-   "yes": 0.84,
-   "no": 0.16,
-   "volumen": 99725.87388100002,
+   "yes": 0.845,
+   "no": 0.155,
+   "volumen": 99725.873881,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -150,8 +150,8 @@
   {
    "question": "Ink FDV above $100M one day after launch?",
    "slug": "ink-fdv-above-100m-one-day-after-launch",
-   "yes": 0.545,
-   "no": 0.455,
+   "yes": 0.53,
+   "no": 0.47,
    "volumen": 99213.64308800003,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
@@ -162,20 +162,10 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.14,
    "no": 0.86,
-   "volumen": 99063.703419,
+   "volumen": 99063.70341899998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Málaga CF vs. RC Deportivo A Coruña: O/U 2.5",
-   "slug": "lal-mala-dep-2026-08-24-total-2pt5",
-   "yes": 0.415,
-   "no": 0.585,
-   "volumen": 99058.49045799999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "Málaga CF vs. RC Deportivo A Coruña: Más/Menos 2.5"
   },
   {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
@@ -192,7 +182,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-less-than-900m-by-august-31-1785941825450",
    "yes": 0.76,
    "no": 0.24,
-   "volumen": 98830.02120499997,
+   "volumen": 98830.02120499998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day inferior a 900 millones para el 31 de agosto?"
@@ -210,8 +200,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.705,
-   "no": 0.295,
+   "yes": 0.7,
+   "no": 0.3,
    "volumen": 98427.306618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -220,8 +210,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.068,
-   "no": 0.932,
+   "yes": 0.076,
+   "no": 0.924,
    "volumen": 98294.00581699998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -230,9 +220,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.214,
-   "no": 0.786,
-   "volumen": 9997.396972999995,
+   "yes": 0.2135,
+   "no": 0.7865,
+   "volumen": 9997.396972999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -262,7 +252,7 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9845,
    "no": 0.0155,
-   "volumen": 9982.176088999999,
+   "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -272,10 +262,20 @@
    "slug": "will-silvia-cristina-win-the-most-votes-in-the-2026-rondonia-senate-election",
    "yes": 0.375,
    "no": 0.625,
-   "volumen": 9981.64611,
+   "volumen": 9981.646109999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Sílvia Cristina la mayor cantidad de votos en las elecciones al Senado de Rondônia de 2026?"
+  },
+  {
+   "question": "Will Elon Musk post 260-279 tweets from August 21 to August 28, 2026?",
+   "slug": "elon-musk-of-tweets-august-21-august-28-2026-260-279",
+   "yes": 0.095,
+   "no": 0.905,
+   "volumen": 9981.349967999999,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Publicará Elon Musk entre 260 y 279 tuits del 21 de agosto al 28 de agosto de 2026?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -288,16 +288,6 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will Elon Musk post 260-279 tweets from August 21 to August 28, 2026?",
-   "slug": "elon-musk-of-tweets-august-21-august-28-2026-260-279",
-   "yes": 0.095,
-   "no": 0.905,
-   "volumen": 9953.877445999999,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Publicará Elon Musk entre 260 y 279 tuits del 21 de agosto al 28 de agosto de 2026?"
-  },
-  {
    "question": "US-Iran Final Nuclear Deal by November 30, 2026?",
    "slug": "us-iran-final-nuclear-deal-by-november-30-2026",
    "yes": 0.065,
@@ -306,6 +296,16 @@
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Acuerdo nuclear final entre EE. UU. e Irán antes del 30 de noviembre de 2026?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.003,
+   "no": 0.997,
+   "volumen": 9946.699383,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
