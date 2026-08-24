@@ -1,31 +1,10 @@
 {
- "ts": 1787609943,
- "stamp": "20260824_221903",
+ "ts": 1787610423,
+ "stamp": "20260824_222703",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x8fbcb151e2c988df5a43abb02298014b7daf34c008f3eed9188dd16a2a19bec1",
-   "titulo": "Will Jared Polis win the 2028 Democratic presidential nomination?",
-   "slug": "will-jared-polis-win-the-2028-democratic-presidential-nomination-837",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 3373.373,
-   "price": 0.999,
-   "usd": 3370.0,
-   "ts": 1787609724,
-   "categoria": "Política",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,370 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-jared-polis-win-the-2028-democratic-presidential-nomination-837",
-   "titulo_es": "¿Ganará Jared Polis la nominación presidencial demócrata de 2028?",
-   "narrativa": "Una orden de compra de 3,370 dólares en el resultado 'No' para la nominación de Jared Polis en 2028 indica una convicción institucional o de alto patrimonio en que no será el candidato. Dado que el volumen de mercado no está disponible, esta apuesta concentrada sugiere que el operador percibe un desajuste entre el precio actual y la probabilidad real, probablemente por un sesgo mediático favorable a Polis. El monto, aunque moderado, es suficiente para mover la aguja en un mercado de nicho, y el lado 'No' suele tener un techo de pago de 1.0x con un riesgo de pérdida total de la prima. Riesgo: falta de liquidez y horizontes largos (2028) aumentan la incertidumbre política."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9945632.615433,
+   "volumen": 9945651.5628,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -72,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923680.153660003,
+   "volumen": 9923680.153660005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -90,8 +69,8 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.01,
-   "no": 0.99,
+   "yes": 0.0105,
+   "no": 0.9895,
    "volumen": 985965.1864369994,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -108,21 +87,11 @@
    "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
-   "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
-   "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-   "yes": 0.885,
-   "no": 0.115,
-   "volumen": 99989.29182700001,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será NVIDIA la empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
-  },
-  {
    "question": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000001,
+   "volumen": 99966.78188,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -136,6 +105,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
+  },
+  {
+   "question": "Will Ethereum reach $2,800 in August?",
+   "slug": "will-ethereum-reach-2800-in-august-2026",
+   "yes": 0.1825,
+   "no": 0.8175,
+   "volumen": 99625.15111199999,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Alcanzará Ethereum los $2,800 en agosto?"
   },
   {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
@@ -158,16 +137,6 @@
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
-   "question": "Will Ethereum reach $2,800 in August?",
-   "slug": "will-ethereum-reach-2800-in-august-2026",
-   "yes": 0.1825,
-   "no": 0.8175,
-   "volumen": 99175.16165000001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Ethereum los $2,800 en agosto?"
-  },
-  {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.13,
@@ -180,8 +149,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.075,
-   "no": 0.925,
+   "yes": 0.073,
+   "no": 0.927,
    "volumen": 99058.39896599996,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -232,7 +201,7 @@
    "slug": "argpn-gue-ar-2026-08-24-draw",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9999.354608,
+   "volumen": 9999.354608000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Terminarán en empate CA Güemes vs. Atlético de Rafaela?"
@@ -240,9 +209,9 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.209,
-   "no": 0.791,
-   "volumen": 9997.396973,
+   "yes": 0.2125,
+   "no": 0.7875,
+   "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -252,7 +221,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999996,
+   "volumen": 9992.445129,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -278,20 +247,10 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
-   "question": "Will “The Traitors” win Emmys 2026: Outstanding reality/competition series?",
-   "slug": "will-the-traitors-win-emmys-2026-outstanding-realitycompetition-series-20260709174232726",
-   "yes": 0.8655,
-   "no": 0.1345,
-   "volumen": 9985.622033,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará 'The Traitors' los Emmys 2026: Mejor serie de realidad/competencia?"
-  },
-  {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9815,
-   "no": 0.0185,
+   "yes": 0.982,
+   "no": 0.018,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
@@ -306,6 +265,26 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.003,
+   "no": 0.997,
+   "volumen": 9946.699383,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will the US federal government take a stake in The Boeing Company?",
+   "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 9944.236178000001,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
   }
  ],
  "historico": {
