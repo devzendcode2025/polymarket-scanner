@@ -1,10 +1,31 @@
 {
- "ts": 1787558332,
- "stamp": "20260824_075852",
+ "ts": 1787558692,
+ "stamp": "20260824_080452",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x0338cf2b39c9c3036b4afbc12a5c0784600000000000000000000000000000",
+   "titulo": "Will 1. FC Köln win on 2026-08-24? AND Will VfL Wolfsburg win on 2026-08-24? AND Will Hamburger SV win on 2026-08-24?",
+   "slug": "",
+   "outcome": "",
+   "side": "BUY",
+   "size": 5370.212324,
+   "price": 0.4429519852,
+   "usd": 2378.75,
+   "ts": 1787558322,
+   "categoria": "Otros",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,379 en ''. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "",
+   "titulo_es": "¿Ganará el 1. FC Köln el 2026-08-24? Y ¿Ganará el VfL Wolfsburg el 2026-08-24? Y ¿Ganará el Hamburger SV el 2026-08-24?",
+   "narrativa": "La compra en BALLENA agrupa tres resultados de fútbol alemán en un solo evento, lo que permite capturar una correlación positiva entre equipos con calendarios favorables. Con un monto de $2,378.75, el trade busca beneficiarse de un posible repunte en la probabilidad implícita si el mercado externo subestima la consistencia de estos clubes en esa fecha. El edge real proviene de la falta de volumen de mercado reportado, lo que sugiere que el precio actual aún no refleja toda la información disponible. Riesgo: alta sensibilidad a resultados individuales y posible iliquidez en la resolución conjunta."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +62,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923296.763660008,
+   "volumen": 9923296.763659984,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -71,7 +92,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.063,
    "no": 0.937,
-   "volumen": 99947.95304000002,
+   "volumen": 99947.95304000001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -81,7 +102,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99932.49187999999,
+   "volumen": 99932.49188000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -109,8 +130,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -121,7 +142,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.84,
    "no": 0.16,
-   "volumen": 98999.47551599995,
+   "volumen": 98999.47551599998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -131,7 +152,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058300002,
+   "volumen": 98936.43058300001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -139,9 +160,9 @@
   {
    "question": "Will the total domestic gross for Spider-Man: Brand New Day be less than 900m by August 31?",
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-less-than-900m-by-august-31-1785941825450",
-   "yes": 0.76,
-   "no": 0.24,
-   "volumen": 98631.931597,
+   "yes": 0.75,
+   "no": 0.25,
+   "volumen": 98632.93159699999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day inferior a 900 millones para el 31 de agosto?"
@@ -161,17 +182,27 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.705,
    "no": 0.295,
-   "volumen": 98427.30661799999,
+   "volumen": 98427.306618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
+   "question": "Will the highest temperature in Guangzhou be 32°C on August 24?",
+   "slug": "highest-temperature-in-guangzhou-on-august-24-2026-32c",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9999.31999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura máxima en Guangzhou de 32°C el 24 de agosto?"
+  },
+  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2165,
-   "no": 0.7835,
-   "volumen": 9997.396972999999,
+   "yes": 0.2155,
+   "no": 0.7845,
+   "volumen": 9997.396972999997,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -179,8 +210,8 @@
   {
    "question": "Cruzeiro EC vs. CR Flamengo: O/U 9.5 Total Corners",
    "slug": "bra-cru-fla-2026-08-22-corners-total-9pt5",
-   "yes": 0.0995,
-   "no": 0.9005,
+   "yes": 0.1,
+   "no": 0.9,
    "volumen": 9992.713088999999,
    "spread": 0.0,
    "categoria": "Otros",
@@ -209,9 +240,9 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.982,
-   "no": 0.018,
-   "volumen": 9982.176089,
+   "yes": 0.9815,
+   "no": 0.0185,
+   "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -229,9 +260,9 @@
   {
    "question": "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?",
    "slug": "will-saturday-night-live-win-emmys-2026-outstanding-variety-series-20260709174232982",
-   "yes": 0.062,
-   "no": 0.938,
-   "volumen": 9965.953989000001,
+   "yes": 0.061,
+   "no": 0.939,
+   "volumen": 9965.953988999998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará “Saturday Night Live” los Emmys 2026: Mejor serie de variedades?"
@@ -241,7 +272,7 @@
    "slug": "will-zptai-be-the-second-best-chinese-ai-company-at-the-end-of-september-2026-20260722220234246",
    "yes": 0.365,
    "no": 0.635,
-   "volumen": 9960.202745,
+   "volumen": 9960.202744999999,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Z.ai la segunda mejor empresa china de IA a finales de septiembre de 2026?"
@@ -275,16 +306,6 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Google la mejor IA de texto a video a finales de septiembre de 2026?"
-  },
-  {
-   "question": "Will “The Traitors” win Emmys 2026: Outstanding reality/competition series?",
-   "slug": "will-the-traitors-win-emmys-2026-outstanding-realitycompetition-series-20260709174232726",
-   "yes": 0.8655,
-   "no": 0.1345,
-   "volumen": 9930.622033,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará 'The Traitors' los Emmys 2026: Mejor serie de realidad/competencia?"
   }
  ],
  "historico": {
