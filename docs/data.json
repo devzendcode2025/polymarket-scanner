@@ -1,6 +1,6 @@
 {
- "ts": 1787597340,
- "stamp": "20260824_184900",
+ "ts": 1787597820,
+ "stamp": "20260824_185700",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -129,8 +129,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -171,7 +171,7 @@
    "slug": "will-xrp-reach-2pt8-in-august-2026",
    "yes": 0.013,
    "no": 0.987,
-   "volumen": 98645.26905,
+   "volumen": 98645.26904999999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.80 en agosto?"
@@ -179,8 +179,8 @@
   {
    "question": "Will Julian Alvarez join Barcelona?",
    "slug": "will-julian-alvarez-join-barcelona-20260612230229112",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.1475,
+   "no": 0.8525,
    "volumen": 98634.45629100002,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -207,20 +207,10 @@
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
-   "question": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage",
-   "slug": "cs2-g1-leo2-2026-08-24",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 98368.830969,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Fase de Grupos"
-  },
-  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.211,
-   "no": 0.789,
+   "yes": 0.2125,
+   "no": 0.7875,
    "volumen": 9997.396972999995,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -259,8 +249,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9815,
-   "no": 0.0185,
+   "yes": 0.9825,
+   "no": 0.0175,
    "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -279,12 +269,22 @@
   {
    "question": "Spread: Al Ittihad Saudi Club (-1.5)",
    "slug": "spl-ith-haz-2026-08-24-spread-home-1pt5",
-   "yes": 0.515,
-   "no": 0.485,
+   "yes": 0.52,
+   "no": 0.48,
    "volumen": 9952.858062,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "Margen: Al Ittihad Saudi Club (-1.5)"
+  },
+  {
+   "question": "Will the Los Angeles Dodgers win more than 99.5 games in the 2026 MLB Regular Season?",
+   "slug": "2026-mlb-win-totals-los-angeles-dodgers",
+   "yes": 0.475,
+   "no": 0.525,
+   "volumen": 9947.902864,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Los Angeles Dodgers más de 99.5 juegos en la Temporada Regular de la MLB 2026?"
   }
  ],
  "historico": {
