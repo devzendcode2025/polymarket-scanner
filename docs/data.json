@@ -1,31 +1,10 @@
 {
- "ts": 1787585517,
- "stamp": "20260824_153157",
+ "ts": 1787585878,
+ "stamp": "20260824_153758",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xc564e47b7a853f3e52ea7b8e28d69ed99fcb284929364fd0f8024c2bca03ea96",
-   "titulo": "Will Bitcoin reach $80,000 by December 31, 2026?",
-   "slug": "will-bitcoin-reach-80000-by-december-31-2026-from-june-8",
-   "outcome": "Yes",
-   "side": "SELL",
-   "size": 4664.37,
-   "price": 0.9718251404,
-   "usd": 4532.95,
-   "ts": 1787585089,
-   "categoria": "Cripto",
-   "prob": 58,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $4,533 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-bitcoin-reach-80000-by-december-31-2026-from-june-8",
-   "titulo_es": "¿Alcanzará Bitcoin los $80,000 para el 31 de diciembre de 2026?",
-   "narrativa": "La posición de venta en 'Bitcoin a $80,000 para 2026' refleja un edge de 12.3 puntos frente al consenso externo del 38%, con un monto de $4,532.95 que representa el 2.1% del volumen total disponible en el mercado. La probabilidad implícita actual del 50.3% está sobrevalorada respecto a los modelos de crecimiento histórico de BTC, que sugieren un 38% de probabilidad real. Riesgo: baja liquidez en horizontes de largo plazo, lo que puede ampliar el desvío entre entrada y salida."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,10 +41,20 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923311.823660001,
+   "volumen": 9923311.823659994,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
+  },
+  {
+   "question": "Will the Washington Commanders win the 2027 NFL league championship?",
+   "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
+   "yes": 0.0105,
+   "no": 0.9895,
+   "volumen": 984202.2840609998,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
   },
   {
    "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
@@ -82,7 +71,7 @@
    "slug": "us-obtains-iranian-enriched-uranium-by-september-30-145",
    "yes": 0.0165,
    "no": 0.9835,
-   "volumen": 99999.064911,
+   "volumen": 99999.06491100002,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿EE. UU. obtiene uranio enriquecido iraní para el 30 de septiembre?"
@@ -92,7 +81,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188,
+   "volumen": 99966.78188000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -110,9 +99,9 @@
   {
    "question": "Ink FDV above $100M one day after launch?",
    "slug": "ink-fdv-above-100m-one-day-after-launch",
-   "yes": 0.53,
-   "no": 0.47,
-   "volumen": 99882.77408800002,
+   "yes": 0.535,
+   "no": 0.465,
+   "volumen": 99882.77408799999,
    "spread": 0.0,
    "categoria": "Ciencia y espacio",
    "question_es": "¿FDV de Ink por encima de $100M un día después del lanzamiento?"
@@ -122,7 +111,7 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.84,
    "no": 0.16,
-   "volumen": 99732.29388100003,
+   "volumen": 99752.293881,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
@@ -132,7 +121,7 @@
    "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
    "yes": 0.875,
    "no": 0.125,
-   "volumen": 99620.538454,
+   "volumen": 99620.53845399998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será NVIDIA la empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -142,7 +131,7 @@
    "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 99614.48294600002,
+   "volumen": 99614.482946,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
@@ -162,7 +151,7 @@
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
    "yes": 0.13,
    "no": 0.87,
-   "volumen": 99063.70341900003,
+   "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
@@ -172,7 +161,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.430583,
+   "volumen": 98936.43058299998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -180,9 +169,9 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0905,
-   "no": 0.9095,
-   "volumen": 98907.21104299997,
+   "yes": 0.0865,
+   "no": 0.9135,
+   "volumen": 98907.21104299996,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
@@ -192,7 +181,7 @@
    "slug": "will-xrp-reach-2pt8-in-august-2026",
    "yes": 0.014,
    "no": 0.986,
-   "volumen": 98645.26905000002,
+   "volumen": 98645.26905,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.80 en agosto?"
@@ -218,20 +207,10 @@
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
-   "question": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo",
-   "slug": "atp-gaston-justo-2026-08-25",
-   "yes": 0.845,
-   "no": 0.155,
-   "volumen": 9997.812880999998,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Abierto de EE. UU., Clasificación ATP: Hugo Gaston vs Guido Justo"
-  },
-  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2065,
-   "no": 0.7935,
+   "yes": 0.2075,
+   "no": 0.7925,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -248,6 +227,16 @@
    "question_es": "¿Naim Qassem fuera como secretario general de Hezbolá para el 31 de diciembre de 2026?"
   },
   {
+   "question": "Will the Republican Party win the OR-03 House seat?",
+   "slug": "will-the-republican-party-win-the-or-03-house-seat",
+   "yes": 0.045,
+   "no": 0.955,
+   "volumen": 9983.84765,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara OR-03?"
+  },
+  {
    "question": "Will the Republicans win the South Carolina governor race in 2026?",
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
@@ -262,10 +251,20 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.985,
    "no": 0.015,
-   "volumen": 9982.176089,
+   "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
+  },
+  {
+   "question": "Will the price of Bitcoin be above $80,000 on August 25?",
+   "slug": "bitcoin-above-80k-on-august-25-2026",
+   "yes": 0.465,
+   "no": 0.535,
+   "volumen": 9981.974891000002,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin por encima de $80,000 el 25 de agosto?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -278,34 +277,14 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
-   "question": "Will the Republican Party win the OR-03 House seat?",
-   "slug": "will-the-republican-party-win-the-or-03-house-seat",
-   "yes": 0.045,
-   "no": 0.955,
-   "volumen": 9963.84765,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara OR-03?"
-  },
-  {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.003,
-   "no": 0.997,
+   "yes": 0.0025,
+   "no": 0.9975,
    "volumen": 9946.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
-  },
-  {
-   "question": "Will the US federal government take a stake in The Boeing Company?",
-   "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 9944.236178,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
   }
  ],
  "historico": {
