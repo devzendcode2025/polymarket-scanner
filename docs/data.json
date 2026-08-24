@@ -1,51 +1,10 @@
 {
- "ts": 1787608503,
- "stamp": "20260824_215503",
+ "ts": 1787608983,
+ "stamp": "20260824_220303",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xce6b6ac2b2cb57b802a540b968668b55204a8c9e963f9925c131de8785914e17",
-   "titulo": "Philadelphia: Ekaterina Ovcharenko vs Kaitlin Quevedo",
-   "slug": "wta-ovchare-quevedo-2026-08-24",
-   "outcome": "Kaitlin Quevedo",
-   "side": "BUY",
-   "size": 3495.38,
-   "price": 0.6,
-   "usd": 2097.23,
-   "ts": 1787608213,
-   "categoria": "Tecnología",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,097 en 'Kaitlin Quevedo'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-ovchare-quevedo-2026-08-24",
-   "titulo_es": "Filadelfia: Ekaterina Ovcharenko vs Kaitlin Quevedo",
-   "narrativa": "La compra de $2,097 en Kaitlin Quevedo frente a Ekaterina Ovcharenko en Filadelfia sugiere que el mercado está absorbiendo una posición de mayor convicción, posiblemente por una ventaja percibida en el momento de forma o en el estilo de juego. Aunque no hay volumen de mercado reportado, el tamaño de la apuesta en relación a la falta de datos de liquidez indica que el operador busca capturar un edge antes de que el consenso externo se ajuste. Riesgo: mercado con poca profundidad y posible deslizamiento en la ejecución."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xc88fdb0780973da30fb8ed50a0779ccd466d929cc372baa2d2424e17ef757ea5",
-   "titulo": "CA Tigre vs. CA Central Córdoba: Both Teams to Score",
-   "slug": "arg-tig-cac-2026-08-24-btts",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 2141.0,
-   "price": 0.62,
-   "usd": 1327.42,
-   "ts": 1787608213,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,327 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/arg-tig-cac-2026-08-24-btts",
-   "titulo_es": "CA Tigre vs. CA Central Córdoba: Ambos equipos marcan",
-   "narrativa": "La compra de $1,327 en 'No' para 'Ambos equipos marcan' en el partido Tigre vs. Central Córdoba apunta a una expectativa de partido de baja anotación, probablemente respaldada por el historial defensivo de ambos equipos. El monto sugiere una convicción moderada, pero sin volumen de mercado reportado, el edge puede estar en la diferencia entre la probabilidad implícita de la cuota y la frecuencia real de este resultado en la liga. Riesgo: posible falta de liquidez en el mercado de 'No' que afecte el precio de salida."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -102,7 +61,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.2740609997,
+   "volumen": 986453.274061,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -112,7 +71,7 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 985965.1864370002,
+   "volumen": 985965.186437,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -192,7 +151,7 @@
    "slug": "will-xrp-reach-2-in-august-2026",
    "yes": 0.075,
    "no": 0.925,
-   "volumen": 99058.39896600001,
+   "volumen": 99058.39896599996,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
@@ -202,20 +161,10 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.275,
    "no": 0.725,
-   "volumen": 98936.43058299998,
+   "volumen": 98936.43058300001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
-  },
-  {
-   "question": "Will Ethereum reach $2,800 in August?",
-   "slug": "will-ethereum-reach-2800-in-august-2026",
-   "yes": 0.183,
-   "no": 0.817,
-   "volumen": 98772.76885400001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Ethereum los $2,800 en agosto?"
   },
   {
    "question": "Will XRP reach $2.80 in August?",
@@ -260,8 +209,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.214,
-   "no": 0.786,
+   "yes": 0.2095,
+   "no": 0.7905,
    "volumen": 9997.396973,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -326,6 +275,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   }
  ],
  "historico": {
