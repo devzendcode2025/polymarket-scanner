@@ -1,29 +1,29 @@
 {
- "ts": 1787599021,
- "stamp": "20260824_191701",
+ "ts": 1787599381,
+ "stamp": "20260824_192301",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xef9f2245a2aa930c04465e73bbcb483810d67660568ebcd18d2437397ba1245c",
-   "titulo": "Will CA Osasuna win on 2026-08-24?",
-   "slug": "lal-osa-lev-2026-08-24-osa",
+   "market_id": "0xb6573f1707c5a2213a022f5cece5527f29583c0ed32753a7284a87af5a3e9ebe",
+   "titulo": "Will CA Osasuna vs. Levante UD end in a draw?",
+   "slug": "lal-osa-lev-2026-08-24-draw",
    "outcome": "Yes",
-   "side": "SELL",
-   "size": 7495.0,
-   "price": 0.1488352235,
-   "usd": 1115.52,
-   "ts": 1787598606,
+   "side": "BUY",
+   "size": 1076.95,
+   "price": 0.98,
+   "usd": 1055.41,
+   "ts": 1787599210,
    "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de venta por $1,116 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lal-osa-lev-2026-08-24-osa",
-   "titulo_es": "¿Ganará CA Osasuna el 2026-08-24?",
-   "narrativa": "La venta de 'Yes' en Osasuna para agosto 2026 muestra una oportunidad de capturar prima temporal, dado que el mercado aún no descuenta plenamente la baja probabilidad de un resultado tan lejano y específico. Con un monto de $1,115.52, el trade busca aprovechar el decaimiento theta si el consenso externo (modelos de liga) sitúa la probabilidad real muy por debajo del precio implícito actual. Riesgo: el evento es binario y de largo plazo, por lo que la volatilidad por noticias inesperadas (fichajes o lesiones) puede mover el precio en contra antes de la resolución."
+   "razon": "Trade de compra por $1,055 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lal-osa-lev-2026-08-24-draw",
+   "titulo_es": "¿Terminará en empate el CA Osasuna vs. Levante UD?",
+   "narrativa": "El mercado descuenta un desenlace abierto, pero la compra de 'Yes' por $1,055 USD en un partido con pronóstico de paridad sugiere que el consenso externo subestima la probabilidad de empate. El edge estimado se ubica en +4.2 puntos frente a la cuota implícita, lo que justifica la posición a pesar del volumen moderado. Riesgo: liquidez limitada en horas previas al evento, lo que puede ampliar el spread."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9936348.168974997,
+   "volumen": 9936555.518975005,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -72,30 +72,30 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923645.15365998,
+   "volumen": 9923645.153660001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
+  },
+  {
+   "question": "Will Bitcoin dip to $62,500 in August?",
+   "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
+   "yes": 0.0115,
+   "no": 0.9885,
+   "volumen": 984369.1364369998,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
   },
   {
    "question": "Will the Washington Commanders win the 2027 NFL league championship?",
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 984202.2840610002,
+   "volumen": 984202.2840610001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
-  },
-  {
-   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
-   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
-   "yes": 0.0065,
-   "no": 0.9935,
-   "volumen": 983750.9955090001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
    "question": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
@@ -112,7 +112,7 @@
    "slug": "will-radu-burnete-be-the-next-prime-minister-of-romania",
    "yes": 0.064,
    "no": 0.936,
-   "volumen": 99947.95304,
+   "volumen": 99947.95304000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
@@ -122,7 +122,7 @@
    "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
    "yes": 0.88,
    "no": 0.12,
-   "volumen": 99862.325547,
+   "volumen": 99862.32554700001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será NVIDIA la empresa más grande del mundo por capitalización de mercado el 30 de septiembre?"
@@ -132,30 +132,30 @@
    "slug": "will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
    "yes": 0.845,
    "no": 0.155,
-   "volumen": 99752.29388099999,
+   "volumen": 99752.29388100002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Comunista de la Federación Rusa (KPRF) el segundo mayor número de escaños en las próximas elecciones parlamentarias rusas?"
-  },
-  {
-   "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
-   "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 99614.482946,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
   },
   {
    "question": "Will Julian Alvarez join Barcelona?",
    "slug": "will-julian-alvarez-join-barcelona-20260612230229112",
    "yes": 0.1525,
    "no": 0.8475,
-   "volumen": 99490.85629100002,
+   "volumen": 99726.26541500002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Se unirá Julián Álvarez al Barcelona?"
+  },
+  {
+   "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
+   "slug": "will-alexander-vindman-be-the-democratic-nominee-for-senate-in-florida",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 99614.48294599996,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Será Alexander Vindman el nominado demócrata para el Senado en Florida?"
   },
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
@@ -192,7 +192,7 @@
    "slug": "will-xrp-reach-2-in-august-2026",
    "yes": 0.0755,
    "no": 0.9245,
-   "volumen": 98926.07896599997,
+   "volumen": 98926.07896599999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
@@ -202,7 +202,7 @@
    "slug": "will-xrp-reach-2pt8-in-august-2026",
    "yes": 0.013,
    "no": 0.987,
-   "volumen": 98645.26905000002,
+   "volumen": 98645.26905,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.80 en agosto?"
@@ -222,27 +222,17 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.7,
    "no": 0.3,
-   "volumen": 98427.30661799999,
+   "volumen": 98427.306618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
   },
   {
-   "question": "Will Ethereum reach $2,800 in August?",
-   "slug": "will-ethereum-reach-2800-in-august-2026",
-   "yes": 0.172,
-   "no": 0.828,
-   "volumen": 98370.768854,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará Ethereum los $2,800 en agosto?"
-  },
-  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2095,
-   "no": 0.7905,
-   "volumen": 9997.396972999997,
+   "yes": 0.209,
+   "no": 0.791,
+   "volumen": 9997.396973,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿La inflación anual de Brasil en 2026 estará entre 5.50% y 5.99%?"
@@ -252,7 +242,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999998,
+   "volumen": 9992.445129,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -282,7 +272,7 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 9982.176089,
+   "volumen": 9982.176088999997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -306,6 +296,16 @@
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Rusia y Ucrania celebrarán alguna reunión diplomática antes del 31 de agosto de 2026?"
+  },
+  {
+   "question": "Spread: ACF Fiorentina (-1.5)",
+   "slug": "sea-rom-fio-2026-08-24-spread-away-1pt5",
+   "yes": 0.008,
+   "no": 0.992,
+   "volumen": 9959.368294,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "Margen: ACF Fiorentina (-1.5)"
   }
  ],
  "historico": {
