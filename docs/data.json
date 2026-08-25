@@ -1,6 +1,6 @@
 {
- "ts": 1787654414,
- "stamp": "20260825_104014",
+ "ts": 1787654834,
+ "stamp": "20260825_104714",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -249,8 +249,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.982,
-   "no": 0.018,
+   "yes": 0.983,
+   "no": 0.017,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
