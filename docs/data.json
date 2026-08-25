@@ -1,10 +1,31 @@
 {
- "ts": 1787653273,
- "stamp": "20260825_102113",
+ "ts": 1787653633,
+ "stamp": "20260825_102713",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x035edcab359161a75f8f1b7b885345ecbcef513a2db6fbd934eb459125b91699",
+   "titulo": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A",
+   "slug": "dota2-pckcp-nemiga-2026-08-25",
+   "outcome": "PuckChamp",
+   "side": "SELL",
+   "size": 1868.38,
+   "price": 0.999,
+   "usd": 1866.51,
+   "ts": 1787653267,
+   "categoria": "Deportes",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de venta por $1,867 en 'PuckChamp'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/dota2-pckcp-nemiga-2026-08-25",
+   "titulo_es": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Grupo A",
+   "narrativa": "La venta de PuckChamp a 1866 dólares refleja una posición defensiva ante un mercado con escasa liquidez, donde el consenso externo favorece a Nemiga por su mejor forma reciente. El monto comprometido, aunque moderado, busca capitalizar la sobrevaloración implícita de PuckChamp en un BO3 de alto riesgo. Riesgo: el volumen de mercado no reportado limita la precisión del edge y amplifica el impacto de órdenes grandes."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -141,7 +162,7 @@
    "slug": "will-alphabet-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029879",
    "yes": 0.943,
    "no": 0.057,
-   "volumen": 98738.33956999998,
+   "volumen": 98738.33957000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la tercera empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -181,7 +202,7 @@
    "slug": "will-inter-miami-cf-win-the-2026-mls-cup",
    "yes": 0.205,
    "no": 0.795,
-   "volumen": 98356.81007299999,
+   "volumen": 98356.81007300004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará el Inter Miami CF la Copa MLS 2026?"
@@ -199,8 +220,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2065,
-   "no": 0.7935,
+   "yes": 0.207,
+   "no": 0.793,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -239,8 +260,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9815,
-   "no": 0.0185,
+   "yes": 0.983,
+   "no": 0.017,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
