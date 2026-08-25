@@ -1,6 +1,6 @@
 {
- "ts": 1787647752,
- "stamp": "20260825_084912",
+ "ts": 1787648112,
+ "stamp": "20260825_085512",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9998548.479893,
+   "volumen": 9998570.675013002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -51,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945144.707335996,
+   "volumen": 9945144.707336001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -61,7 +61,7 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.0095,
    "no": 0.9905,
-   "volumen": 991559.075768,
+   "volumen": 991559.0757680007,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -81,7 +81,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.2740609999,
+   "volumen": 986453.274061,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -101,7 +101,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000002,
+   "volumen": 99966.78188000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -129,8 +129,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -169,8 +169,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0105,
-   "no": 0.9895,
+   "yes": 0.01,
+   "no": 0.99,
    "volumen": 98669.25697799999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -181,7 +181,7 @@
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
    "yes": 0.67,
    "no": 0.33,
-   "volumen": 98619.626618,
+   "volumen": 98619.62661800001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -201,7 +201,7 @@
    "slug": "will-inter-miami-cf-win-the-2026-mls-cup",
    "yes": 0.205,
    "no": 0.795,
-   "volumen": 98356.81007300004,
+   "volumen": 98356.81007299999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará el Inter Miami CF la Copa MLS 2026?"
@@ -219,8 +219,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2085,
-   "no": 0.7915,
+   "yes": 0.2115,
+   "no": 0.7885,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -239,9 +239,9 @@
   {
    "question": "Will the highest temperature in London be 21°C on August 25?",
    "slug": "highest-temperature-in-london-on-august-25-2026-21c",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9992.172146,
+   "yes": 0.0035,
+   "no": 0.9965,
+   "volumen": 9992.172146000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura máxima en Londres de 21°C el 25 de agosto?"
@@ -269,8 +269,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.983,
-   "no": 0.017,
+   "yes": 0.982,
+   "no": 0.018,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
