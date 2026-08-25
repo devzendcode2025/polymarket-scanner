@@ -1,10 +1,31 @@
 {
- "ts": 1787636649,
- "stamp": "20260825_054409",
+ "ts": 1787637009,
+ "stamp": "20260825_055009",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x20e102eac0aa751682b9b40d70883a3efdf7279f24c7f4e0e6b037e455bce061",
+   "titulo": "Monterrey Open: Diane Parry vs Donna Vekic",
+   "slug": "wta-parry-vekic-2026-08-24",
+   "outcome": "Diane Parry",
+   "side": "BUY",
+   "size": 1661.0,
+   "price": 0.85,
+   "usd": 1411.85,
+   "ts": 1787636745,
+   "categoria": "Otros",
+   "prob": 54,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,412 en 'Diane Parry'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-parry-vekic-2026-08-24",
+   "titulo_es": "Abierto de Monterrey: Diane Parry vs Donna Vekic",
+   "narrativa": "El mercado descuenta una ventaja clara para Vekic, pero la compra agresiva de 1,411.85 USD en Parry sugiere que un operador grande detecta una discrepancia en la probabilidad implícita, probablemente por el factor de superficie o el estado físico de la rival. Este flujo de capital, aunque moderado, rompe el consenso externo y puede anticipar una corrección en el precio del outcome, ofreciendo un edge positivo si la tenista francesa mantiene su nivel de servicio. Riesgo: el volumen de mercado es bajo, lo que puede amplificar la volatilidad del precio y dificultar la salida en caso de movimiento adverso."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -41,7 +62,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9975289.745391998,
+   "volumen": 9975292.184414998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -51,7 +72,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945129.373660004,
+   "volumen": 9945129.373659996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -61,7 +82,7 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.0075,
    "no": 0.9925,
-   "volumen": 990712.1569109999,
+   "volumen": 991040.276911,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -139,8 +160,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -151,7 +172,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 98936.43058300001,
+   "volumen": 98936.430583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -159,8 +180,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.01,
-   "no": 0.99,
+   "yes": 0.0105,
+   "no": 0.9895,
    "volumen": 98669.256978,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -209,8 +230,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2125,
-   "no": 0.7875,
+   "yes": 0.2135,
+   "no": 0.7865,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -225,6 +246,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
+  },
+  {
+   "question": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy",
+   "slug": "atp-kouame-basavar-2026-08-25",
+   "yes": 0.505,
+   "no": 0.495,
+   "volumen": 9988.667177,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "US Open, Clasificación ATP: Moise Kouame vs Nishesh Basavareddy"
   },
   {
    "question": "Will the Republican Party win the OR-03 House seat?",
@@ -275,16 +306,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Los Ángeles entre 84-85°F el 24 de agosto?"
-  },
-  {
-   "question": "Games Total: O/U 2.5",
-   "slug": "lol-gsmc-spar-2026-08-25-total-games-2pt5",
-   "yes": 0.215,
-   "no": 0.785,
-   "volumen": 9949.745185,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Total de Juegos: O/U 2.5"
   }
  ],
  "historico": {
