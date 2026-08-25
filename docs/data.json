@@ -1,10 +1,31 @@
 {
- "ts": 1787652433,
- "stamp": "20260825_100713",
+ "ts": 1787652853,
+ "stamp": "20260825_101413",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0x2a39c6b1ddb2203f3b175dd824c2c94af0849643e9b5a85ee4b05ebfc12cdcaa",
+   "titulo": "US Open, Qualification WTA: Laura Samson vs Tamara Zidansek",
+   "slug": "wta-samson-zidanse-2026-08-25",
+   "outcome": "Tamara Zidansek",
+   "side": "BUY",
+   "size": 5000.0,
+   "price": 0.4,
+   "usd": 2000.0,
+   "ts": 1787652682,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Tamara Zidansek'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-samson-zidanse-2026-08-25",
+   "titulo_es": "US Open, Clasificación WTA: Laura Samson vs Tamara Zidansek",
+   "narrativa": "La compra en Tamara Zidansek presenta un edge claro frente a una rival joven en una fase clasificatoria de alto desgaste, donde la experiencia y el ranking superior suelen inclinar la balanza; el monto de 2,000 USD refleja una posición moderada que busca capitalizar la ventaja de consistencia de la eslovena. El consenso externo favorece a Zidansek en términos de historial en pistas duras, lo que respalda el movimiento hacia un resultado con mayor probabilidad implícita de éxito. Riesgo: volatilidad en partidos de clasificación por errores no forzados o condiciones climáticas."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -159,8 +180,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.66,
-   "no": 0.34,
+   "yes": 0.665,
+   "no": 0.335,
    "volumen": 98619.62661799998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -189,8 +210,8 @@
   {
    "question": "Will the price of Solana be above $110 on August 27?",
    "slug": "solana-above-110-on-august-27-2026",
-   "yes": 0.0655,
-   "no": 0.9345,
+   "yes": 0.0695,
+   "no": 0.9305,
    "volumen": 9998.848689999999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -259,8 +280,8 @@
   {
    "question": "Will Ethereum dip to $2,300 August 24-30?",
    "slug": "will-ethereum-dip-to-2300-august-24-30-2026",
-   "yes": 0.335,
-   "no": 0.665,
+   "yes": 0.325,
+   "no": 0.675,
    "volumen": 9948.059992,
    "spread": 0.0,
    "categoria": "Cripto",
