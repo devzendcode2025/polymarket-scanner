@@ -1,6 +1,6 @@
 {
- "ts": 1787625187,
- "stamp": "20260825_023307",
+ "ts": 1787625847,
+ "stamp": "20260825_024407",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9973513.447398,
+   "volumen": 9973645.662660005,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -49,9 +49,9 @@
   {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
-   "yes": 0.0235,
-   "no": 0.9765,
-   "volumen": 9923680.153660005,
+   "yes": 0.021,
+   "no": 0.979,
+   "volumen": 9945129.373660002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -101,7 +101,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000001,
+   "volumen": 99966.78187999998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -147,26 +147,6 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Loopscale launch a token by December 31, 2026?",
-   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.135,
-   "no": 0.865,
-   "volumen": 99063.703419,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
-   "question": "Will XRP reach $2.00 in August?",
-   "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.0845,
-   "no": 0.9155,
-   "volumen": 99061.14896600001,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
-  },
-  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.28,
@@ -199,8 +179,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -209,8 +189,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.209,
-   "no": 0.791,
+   "yes": 0.21,
+   "no": 0.79,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -221,7 +201,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999996,
+   "volumen": 9992.445129,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -249,8 +229,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9825,
-   "no": 0.0175,
+   "yes": 0.9815,
+   "no": 0.0185,
    "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -271,7 +251,7 @@
    "slug": "will-russia-enter-moskovka-by-august-31",
    "yes": 0.06,
    "no": 0.94,
-   "volumen": 9963.986179000001,
+   "volumen": 9963.986179,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Entrará Rusia en Moskovka antes del 31 de agosto?"
@@ -281,10 +261,30 @@
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
    "yes": 0.003,
    "no": 0.997,
-   "volumen": 9947.699383000001,
+   "volumen": 9947.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will Patrus Ananias win the 2026 Minas Gerais gubernatorial election?",
+   "slug": "will-patrus-ananias-win-the-2026-minas-gerais-gubernatorial-election",
+   "yes": 0.0295,
+   "no": 0.9705,
+   "volumen": 9944.355508,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Patrus Ananias las elecciones para gobernador de Minas Gerais en 2026?"
+  },
+  {
+   "question": "Will the US federal government take a stake in The Boeing Company?",
+   "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 9944.236178,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
   }
  ],
  "historico": {
