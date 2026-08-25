@@ -1,6 +1,6 @@
 {
- "ts": 1787643191,
- "stamp": "20260825_073311",
+ "ts": 1787643551,
+ "stamp": "20260825_073911",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9991205.530902,
+   "volumen": 9991689.573581,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -51,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945129.373660002,
+   "volumen": 9945129.373660006,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -119,8 +119,8 @@
   {
    "question": "Will the price of Bitcoin be above $76,000 on August 25?",
    "slug": "bitcoin-above-76k-on-august-25-2026",
-   "yes": 0.9945,
-   "no": 0.0055,
+   "yes": 0.994,
+   "no": 0.006,
    "volumen": 99672.13902999999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -169,8 +169,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.01,
-   "no": 0.99,
+   "yes": 0.0105,
+   "no": 0.9895,
    "volumen": 98669.256978,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -199,8 +199,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -219,8 +219,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2175,
-   "no": 0.7825,
+   "yes": 0.22,
+   "no": 0.78,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -231,20 +231,10 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445129,
+   "volumen": 9992.445128999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
-  },
-  {
-   "question": "Games Total: O/U 2.5",
-   "slug": "lol-gsmc-spar-2026-08-25-total-games-2pt5",
-   "yes": 0.215,
-   "no": 0.785,
-   "volumen": 9989.745185,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Total de Juegos: O/U 2.5"
   },
   {
    "question": "Will the Republican Party win the OR-03 House seat?",
@@ -285,6 +275,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será el índice Ornn H200 inferior a $4.00 el 30 de septiembre de 2026?"
+  },
+  {
+   "question": "Will the Republican Party win the NC-09 House seat?",
+   "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+   "yes": 0.8,
+   "no": 0.2,
+   "volumen": 9966.137666999999,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   }
  ],
  "historico": {
