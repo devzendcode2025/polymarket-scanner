@@ -1,6 +1,6 @@
 {
- "ts": 1787640370,
- "stamp": "20260825_064610",
+ "ts": 1787640850,
+ "stamp": "20260825_065410",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9990869.802396003,
+   "volumen": 9990895.992396003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -51,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945129.373659996,
+   "volumen": 9945129.373659989,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -61,7 +61,7 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.0075,
    "no": 0.9925,
-   "volumen": 991059.0857680002,
+   "volumen": 991059.085768,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -81,7 +81,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.2740609999,
+   "volumen": 986453.274061,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -189,8 +189,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -207,20 +207,10 @@
    "question_es": "¿Ganará el Inter Miami CF la Copa MLS 2026?"
   },
   {
-   "question": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy",
-   "slug": "atp-kouame-basavar-2026-08-25",
-   "yes": 0.505,
-   "no": 0.495,
-   "volumen": 9998.667177000003,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "US Open, Clasificación ATP: Moise Kouame vs Nishesh Basavareddy"
-  },
-  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2145,
-   "no": 0.7855,
+   "yes": 0.2155,
+   "no": 0.7845,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -231,7 +221,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445129,
+   "volumen": 9992.445128999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -285,10 +275,20 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
+  },
+  {
+   "question": "Will the highest temperature in Los Angeles be between 84-85°F on August 24?",
+   "slug": "highest-temperature-in-los-angeles-on-august-24-2026-84-85f",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9958.972883999997,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Los Ángeles entre 84-85°F el 24 de agosto?"
   }
  ],
  "historico": {
-  "ts": 1787639008,
+  "ts": 1787640928,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
