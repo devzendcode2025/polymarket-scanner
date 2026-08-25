@@ -1,31 +1,10 @@
 {
- "ts": 1787631428,
- "stamp": "20260825_041708",
+ "ts": 1787631848,
+ "stamp": "20260825_042408",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x20e102eac0aa751682b9b40d70883a3efdf7279f24c7f4e0e6b037e455bce061",
-   "titulo": "Monterrey Open: Diane Parry vs Donna Vekic",
-   "slug": "wta-parry-vekic-2026-08-24",
-   "outcome": "Donna Vekic",
-   "side": "BUY",
-   "size": 4651.162789,
-   "price": 0.4299999999,
-   "usd": 2000.0,
-   "ts": 1787631036,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Donna Vekic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-parry-vekic-2026-08-24",
-   "titulo_es": "Abierto de Monterrey: Diane Parry vs Donna Vekic",
-   "narrativa": "El mercado descuenta a Donna Vekic como favorita, pero la compra a 2000 USD captura un edge positivo si su cuota implícita está por debajo del consenso externo de probabilidad. La diferencia entre el precio actual y la estimación justa genera un margen de valor en puntos que justifica la posición, especialmente en un torneo donde la superficie favorece su juego agresivo. El volumen de mercado no reportado limita el análisis de profundidad, pero el monto asignado es proporcional al riesgo asumido. Riesgo: posible falta de liquidez en horas de baja actividad."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9974035.159886999,
+   "volumen": 9974065.800449,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -72,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945129.373660006,
+   "volumen": 9945129.373660004,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -82,7 +61,7 @@
    "slug": "will-tom-cotton-win-the-2028-republican-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 989770.7096660001,
+   "volumen": 989770.7096659997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Tom Cotton la nominación presidencial republicana de 2028?"
@@ -92,7 +71,7 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.007,
    "no": 0.993,
-   "volumen": 989224.6569110003,
+   "volumen": 989224.6569109997,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -102,7 +81,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.2740609999,
+   "volumen": 986453.2740610001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -122,7 +101,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000002,
+   "volumen": 99966.78188,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -150,8 +129,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.15,
-   "no": 0.85,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -172,7 +151,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 98936.430583,
+   "volumen": 98936.43058299998,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -182,7 +161,7 @@
    "slug": "will-xrp-reach-2pt8-in-august-2026",
    "yes": 0.013,
    "no": 0.987,
-   "volumen": 98683.62493800001,
+   "volumen": 98683.624938,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.80 en agosto?"
@@ -192,7 +171,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 98669.256978,
+   "volumen": 98669.25697799999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -200,8 +179,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -222,7 +201,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999998,
+   "volumen": 9992.445129,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -252,7 +231,7 @@
    "slug": "will-donald-trump-visit-ireland-in-2026",
    "yes": 0.9815,
    "no": 0.0185,
-   "volumen": 9982.176088999999,
+   "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
@@ -268,11 +247,31 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will the highest temperature in Los Angeles be between 84-85°F on August 24?",
+   "slug": "highest-temperature-in-los-angeles-on-august-24-2026-84-85f",
+   "yes": 0.0005,
+   "no": 0.9995,
+   "volumen": 9958.972883999999,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Los Ángeles entre 84-85°F el 24 de agosto?"
+  },
+  {
+   "question": "LoL: WLGaming Esports vs The ParadOx Invaders (BO3) - HLL Playoffs",
+   "slug": "lol-wlg-tpx1-2026-08-25",
+   "yes": 0.855,
+   "no": 0.145,
+   "volumen": 9955.241491000002,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "LoL: WLGaming Esports vs The ParadOx Invaders (BO3) - Playoffs de HLL"
+  },
+  {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
    "yes": 0.0025,
    "no": 0.9975,
-   "volumen": 9947.699383000001,
+   "volumen": 9947.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
@@ -286,30 +285,10 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Patrus Ananias las elecciones para gobernador de Minas Gerais en 2026?"
-  },
-  {
-   "question": "Will the US federal government take a stake in The Boeing Company?",
-   "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
-   "yes": 0.065,
-   "no": 0.935,
-   "volumen": 9944.236178000003,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
-  },
-  {
-   "question": "Will Jeff Weninger win the 2026 Chandler mayoral election?",
-   "slug": "will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9943.775679,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Jeff Weninger la elección municipal de Chandler en 2026?"
   }
  ],
  "historico": {
-  "ts": 1787629705,
+  "ts": 1787631652,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
