@@ -1,6 +1,6 @@
 {
- "ts": 1787651353,
- "stamp": "20260825_094913",
+ "ts": 1787651713,
+ "stamp": "20260825_095513",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -37,34 +37,14 @@
  ],
  "top_volumen": [
   {
-   "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-   "slug": "clarity-act-signed-into-law-in-2026",
-   "yes": 0.155,
-   "no": 0.845,
-   "volumen": 9998581.244524,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
-  },
-  {
    "question": "Will Donald Trump win the 2028 US Presidential Election?",
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945144.707336005,
+   "volumen": 9945144.70733599,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
-  },
-  {
-   "question": "Will Bitcoin dip to $62,500 in August?",
-   "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.007,
-   "no": 0.993,
-   "volumen": 992000.5757680007,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
   },
   {
    "question": "Will Tom Cotton win the 2028 Republican presidential nomination?",
@@ -101,7 +81,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000001,
+   "volumen": 99966.78188000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -137,6 +117,16 @@
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
   },
   {
+   "question": "Will Loopscale launch a token by December 31, 2026?",
+   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
+   "yes": 0.14,
+   "no": 0.86,
+   "volumen": 99063.703419,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
+  },
+  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.28,
@@ -159,8 +149,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0105,
-   "no": 0.9895,
+   "yes": 0.01,
+   "no": 0.99,
    "volumen": 98669.25697799999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -199,9 +189,9 @@
   {
    "question": "Will the price of Solana be above $110 on August 27?",
    "slug": "solana-above-110-on-august-27-2026",
-   "yes": 0.079,
-   "no": 0.921,
-   "volumen": 9998.84869,
+   "yes": 0.0745,
+   "no": 0.9255,
+   "volumen": 9998.848689999999,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Solana por encima de $110 el 27 de agosto?"
@@ -209,8 +199,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.207,
-   "no": 0.793,
+   "yes": 0.2075,
+   "no": 0.7925,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -221,7 +211,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999998,
+   "volumen": 9992.445129,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -249,22 +239,12 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.982,
-   "no": 0.018,
+   "yes": 0.9825,
+   "no": 0.0175,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
-  },
-  {
-   "question": "Will the highest temperature in Guangzhou be 33°C on August 25?",
-   "slug": "highest-temperature-in-guangzhou-on-august-25-2026-33c",
-   "yes": 0.9995,
-   "no": 0.0005,
-   "volumen": 9977.209518,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en Guangzhou de 33°C el 25 de agosto?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -279,12 +259,32 @@
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.002,
-   "no": 0.998,
+   "yes": 0.0035,
+   "no": 0.9965,
    "volumen": 9947.699383000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
+  },
+  {
+   "question": "Will the highest temperature in Seoul (Incheon) be 31°C on August 25?",
+   "slug": "highest-temperature-in-seoul-on-august-25-2026-31c",
+   "yes": 0.9995,
+   "no": 0.0005,
+   "volumen": 9945.111872000003,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 31°C el 25 de agosto?"
+  },
+  {
+   "question": "Will Patrus Ananias win the 2026 Minas Gerais gubernatorial election?",
+   "slug": "will-patrus-ananias-win-the-2026-minas-gerais-gubernatorial-election",
+   "yes": 0.0265,
+   "no": 0.9735,
+   "volumen": 9944.355508,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Ganará Patrus Ananias las elecciones para gobernador de Minas Gerais en 2026?"
   }
  ],
  "historico": {
