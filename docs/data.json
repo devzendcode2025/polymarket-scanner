@@ -1,6 +1,6 @@
 {
- "ts": 1787654053,
- "stamp": "20260825_103413",
+ "ts": 1787654414,
+ "stamp": "20260825_104014",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945144.707336003,
+   "volumen": 9945144.707335996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -127,16 +127,6 @@
    "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
-   "question": "Will Loopscale launch a token by December 31, 2026?",
-   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.13,
-   "no": 0.87,
-   "volumen": 99063.703419,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
-  },
-  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.28,
@@ -197,11 +187,21 @@
    "question_es": "¿Ganará el Inter Miami CF la Copa MLS 2026?"
   },
   {
+   "question": "Kawaguchi vs. Nugroho: Match O/U 21.5",
+   "slug": "itf-kawaguc-nugroh-2026-08-25-match-total-21pt5",
+   "yes": 0.905,
+   "no": 0.095,
+   "volumen": 9998.9761,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Kawaguchi vs. Nugroho: Partido O/U 21.5"
+  },
+  {
    "question": "Will the price of Solana be above $110 on August 27?",
    "slug": "solana-above-110-on-august-27-2026",
-   "yes": 0.0695,
-   "no": 0.9305,
-   "volumen": 9998.848689999999,
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 9998.84869,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Solana por encima de $110 el 27 de agosto?"
@@ -231,7 +231,7 @@
    "slug": "will-the-republican-party-win-the-or-03-house-seat",
    "yes": 0.045,
    "no": 0.955,
-   "volumen": 9987.437650000002,
+   "volumen": 9987.43765,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara OR-03?"
@@ -271,7 +271,7 @@
    "slug": "highest-temperature-in-seoul-on-august-25-2026-31c",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9963.111872000005,
+   "volumen": 9963.111872000003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 31°C el 25 de agosto?"
@@ -281,7 +281,7 @@
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
    "yes": 0.002,
    "no": 0.998,
-   "volumen": 9947.699383000001,
+   "volumen": 9947.699383,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
