@@ -1,6 +1,6 @@
 {
- "ts": 1787640850,
- "stamp": "20260825_065410",
+ "ts": 1787641210,
+ "stamp": "20260825_070010",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -189,8 +189,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.685,
+   "no": 0.315,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -209,8 +209,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2155,
-   "no": 0.7845,
+   "yes": 0.216,
+   "no": 0.784,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
