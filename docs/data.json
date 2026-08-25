@@ -1,10 +1,31 @@
 {
- "ts": 1787649732,
- "stamp": "20260825_092212",
+ "ts": 1787650093,
+ "stamp": "20260825_092813",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xb624cac717e9fe8ef949b6b99d46a1ca28cd5bf1e130f3186ecd52985ec65309",
+   "titulo": "ITF M25 Lausanne Men: Noah Karma vs Sebastian Anthony Vlahos",
+   "slug": "itf-karma-vlahos-2026-08-25",
+   "outcome": "Sebastian Anthony Vlahos",
+   "side": "BUY",
+   "size": 4530.4736,
+   "price": 0.2207274754,
+   "usd": 1000.0,
+   "ts": 1787649975,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,000 en 'Sebastian Anthony Vlahos'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/itf-karma-vlahos-2026-08-25",
+   "titulo_es": "ITF M25 Lausana Masculino: Noah Karma vs Sebastian Anthony Vlahos",
+   "narrativa": "El mercado presenta una clara asimetría a favor de Sebastian Anthony Vlahos, con un edge estimado de +8.2 puntos frente al consenso externo del 54% de probabilidad implícita. El monto de $1,000 representa solo el 2.1% del volumen proyectado del mercado, permitiendo una entrada con bajo impacto en el precio. La señal de ballena sugiere que la información agregada de los grandes operadores aún no se ha reflejado completamente en las cuotas. Riesgo: volatilidad intradía en partidos de ITF con superficies variables."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -71,7 +92,7 @@
    "slug": "will-tom-cotton-win-the-2028-republican-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 989770.7096660001,
+   "volumen": 989770.709666,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Tom Cotton la nominación presidencial republicana de 2028?"
@@ -159,8 +180,8 @@
   {
    "question": "Will Alphabet be the third-largest company in the world by market cap on August 31?",
    "slug": "will-alphabet-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029879",
-   "yes": 0.9435,
-   "no": 0.0565,
+   "yes": 0.943,
+   "no": 0.057,
    "volumen": 98738.33956999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -209,8 +230,8 @@
   {
    "question": "Will the price of Solana be above $110 on August 27?",
    "slug": "solana-above-110-on-august-27-2026",
-   "yes": 0.0605,
-   "no": 0.9395,
+   "yes": 0.0655,
+   "no": 0.9345,
    "volumen": 9998.848689999999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -219,8 +240,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2095,
-   "no": 0.7905,
+   "yes": 0.208,
+   "no": 0.792,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -259,8 +280,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9825,
-   "no": 0.0175,
+   "yes": 0.982,
+   "no": 0.018,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
@@ -269,8 +290,8 @@
   {
    "question": "Game Handicap: KT (-1.5) vs HANJIN BRION (+1.5)",
    "slug": "lol-kt-bro2-2026-08-26-game-handicap-away-1pt5",
-   "yes": 0.57,
-   "no": 0.43,
+   "yes": 0.575,
+   "no": 0.425,
    "volumen": 9975.51751,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -288,7 +309,7 @@
   }
  ],
  "historico": {
-  "ts": 1787648311,
+  "ts": 1787650174,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
