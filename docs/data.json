@@ -1,10 +1,31 @@
 {
- "ts": 1787655194,
- "stamp": "20260825_105314",
+ "ts": 1787655554,
+ "stamp": "20260825_105914",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xe435f765a83a39e08101a2324ad484b51184fade49eaefaf1ee3a52415e9288f",
+   "titulo": "ITF M25 Oviedo Men: Carles Cordoba vs Sergi Fita Juan",
+   "slug": "itf-cordoba-juan-2026-08-25",
+   "outcome": "Carles Cordoba",
+   "side": "BUY",
+   "size": 1798.0,
+   "price": 0.56,
+   "usd": 1006.88,
+   "ts": 1787655375,
+   "categoria": "Otros",
+   "prob": 53,
+   "confianza": "baja",
+   "horizonte": "72h",
+   "razon": "Trade de compra por $1,007 en 'Carles Cordoba'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/itf-cordoba-juan-2026-08-25",
+   "titulo_es": "ITF M25 Oviedo Masculino: Carles Cordoba vs Sergi Fita Juan",
+   "narrativa": "La compra de 1.006 USD sobre Carles Cordoba en el ITF M25 de Oviedo refleja una apuesta concentrada que, aunque el volumen total del mercado no está disponible, sugiere que un operador con información o convicción fuerte ve una ventaja en el favorito. El monto es significativo para un torneo de nivel M25, lo que indica que el mercado podría estar infravalorando la probabilidad de victoria de Cordoba frente a un rival de menor ranking. Riesgo: posible falta de liquidez en mercados de tenis de bajo perfil, lo que puede ampliar el spread y dificultar la salida."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -197,16 +218,6 @@
    "question_es": "¿Ganará el Inter Miami CF la Copa MLS 2026?"
   },
   {
-   "question": "Kawaguchi vs. Nugroho: Match O/U 21.5",
-   "slug": "itf-kawaguc-nugroh-2026-08-25-match-total-21pt5",
-   "yes": 0.9,
-   "no": 0.1,
-   "volumen": 9998.9761,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Kawaguchi vs. Nugroho: Partido O/U 21.5"
-  },
-  {
    "question": "Will the price of Solana be above $110 on August 27?",
    "slug": "solana-above-110-on-august-27-2026",
    "yes": 0.0785,
@@ -285,6 +296,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 31°C el 25 de agosto?"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.003,
+   "no": 0.997,
+   "volumen": 9947.699383000001,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
