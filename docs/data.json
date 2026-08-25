@@ -1,31 +1,10 @@
 {
- "ts": 1787637009,
- "stamp": "20260825_055009",
+ "ts": 1787637370,
+ "stamp": "20260825_055610",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x20e102eac0aa751682b9b40d70883a3efdf7279f24c7f4e0e6b037e455bce061",
-   "titulo": "Monterrey Open: Diane Parry vs Donna Vekic",
-   "slug": "wta-parry-vekic-2026-08-24",
-   "outcome": "Diane Parry",
-   "side": "BUY",
-   "size": 1661.0,
-   "price": 0.85,
-   "usd": 1411.85,
-   "ts": 1787636745,
-   "categoria": "Otros",
-   "prob": 54,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,412 en 'Diane Parry'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-parry-vekic-2026-08-24",
-   "titulo_es": "Abierto de Monterrey: Diane Parry vs Donna Vekic",
-   "narrativa": "El mercado descuenta una ventaja clara para Vekic, pero la compra agresiva de 1,411.85 USD en Parry sugiere que un operador grande detecta una discrepancia en la probabilidad implícita, probablemente por el factor de superficie o el estado físico de la rival. Este flujo de capital, aunque moderado, rompe el consenso externo y puede anticipar una corrección en el precio del outcome, ofreciendo un edge positivo si la tenista francesa mantiene su nivel de servicio. Riesgo: el volumen de mercado es bajo, lo que puede amplificar la volatilidad del precio y dificultar la salida en caso de movimiento adverso."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -102,7 +81,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.2740609999,
+   "volumen": 986453.2740610001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -150,8 +129,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -160,8 +139,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -182,7 +161,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 98669.256978,
+   "volumen": 98669.25697800002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -202,36 +181,16 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
    "yes": 0.1,
    "no": 0.9,
-   "volumen": 98422.564159,
+   "volumen": 98422.56415900002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de entre 900m y 920m para el 31 de agosto?"
   },
   {
-   "question": "Will Inter Miami CF win the 2026 MLS Cup?",
-   "slug": "will-inter-miami-cf-win-the-2026-mls-cup",
-   "yes": 0.205,
-   "no": 0.795,
-   "volumen": 98238.74007300001,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "¿Ganará el Inter Miami CF la Copa MLS 2026?"
-  },
-  {
-   "question": "Will Alphabet be the third-largest company in the world by market cap on August 31?",
-   "slug": "will-alphabet-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029879",
-   "yes": 0.941,
-   "no": 0.059,
-   "volumen": 98237.55956999998,
-   "spread": 0.0,
-   "categoria": "Tecnología",
-   "question_es": "¿Será Alphabet la tercera empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
-  },
-  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2135,
-   "no": 0.7865,
+   "yes": 0.215,
+   "no": 0.785,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -306,10 +265,30 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Los Ángeles entre 84-85°F el 24 de agosto?"
+  },
+  {
+   "question": "Games Total: O/U 2.5",
+   "slug": "lol-gsmc-spar-2026-08-25-total-games-2pt5",
+   "yes": 0.215,
+   "no": 0.785,
+   "volumen": 9949.745185,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Total de Juegos: O/U 2.5"
+  },
+  {
+   "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
+   "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+   "yes": 0.0035,
+   "no": 0.9965,
+   "volumen": 9947.699383000001,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
   }
  ],
  "historico": {
-  "ts": 1787635308,
+  "ts": 1787637206,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
