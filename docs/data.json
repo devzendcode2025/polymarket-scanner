@@ -1,51 +1,10 @@
 {
- "ts": 1787638690,
- "stamp": "20260825_061810",
+ "ts": 1787639170,
+ "stamp": "20260825_062610",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xdc75bf6ac199eb8bd57bec5ab8f0b1ec14bfb13e0953f7d90654fa995c114736",
-   "titulo": "Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo",
-   "slug": "atp-zandsch-vallejo-2026-08-25",
-   "outcome": "Adolfo Vallejo",
-   "side": "BUY",
-   "size": 8238.92,
-   "price": 0.42,
-   "usd": 3460.35,
-   "ts": 1787638543,
-   "categoria": "Otros",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,460 en 'Adolfo Vallejo'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/atp-zandsch-vallejo-2026-08-25",
-   "titulo_es": "Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo",
-   "narrativa": "La compra de 3,460 USD sobre Adolfo Vallejo en el Winston-Salem Open sugiere una apuesta significativa contra el favoritismo implícito de Botic van de Zandschulp, aprovechando un posible desajuste en la valoración del mercado ante el momento de forma del jugador. El tamaño del trade, al ser superior a la media habitual, indica convicción en un edge de precio que aún no se ha corregido en las cuotas. Riesgo: el volumen de mercado no está disponible, lo que podría implicar liquidez limitada y dificultad para salir de la posición."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xae82073d58c5f11f9d88b244f6af3688b9d8e0d63fdffb3f85ab82ba3174db87",
-   "titulo": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner",
-   "slug": "lol-drxc-foxy-2026-08-25-game1",
-   "outcome": "Kiwoom DRX Challengers",
-   "side": "BUY",
-   "size": 4917.44,
-   "price": 0.4067156895,
-   "usd": 2000.0,
-   "ts": 1787638545,
-   "categoria": "Deportes",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,000 en 'Kiwoom DRX Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/lol-drxc-foxy-2026-08-25-game1",
-   "titulo_es": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Ganador del Juego 1",
-   "narrativa": "La entrada de 2,000 USD a favor de Kiwoom DRX Challengers en el Juego 1 contra BNK FearX Youth refleja una lectura de ventaja temprana en el draft o en el meta actual de la liga, donde el mercado podría estar sobreponderando la experiencia del equipo contrario. Este monto, al ser considerable para un mercado de esports de bajo perfil, busca capitalizar un desvío en las probabilidades implícitas antes de que el consenso externo ajuste la línea. Riesgo: alta volatilidad en juegos de LoL y posible falta de profundidad en el libro de órdenes para ejecutar la salida."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -82,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9979420.026517002,
+   "volumen": 9990105.714407,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -92,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945129.37365999,
+   "volumen": 9945129.37366,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -102,7 +61,7 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.0075,
    "no": 0.9925,
-   "volumen": 991053.2757680002,
+   "volumen": 991059.0857679995,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -112,7 +71,7 @@
    "slug": "will-tom-cotton-win-the-2028-republican-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 989770.709666,
+   "volumen": 989770.7096659999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Tom Cotton la nominación presidencial republicana de 2028?"
@@ -122,7 +81,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.274061,
+   "volumen": 986453.2740610001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -142,7 +101,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000001,
+   "volumen": 99966.78188,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -192,7 +151,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 98936.43058300001,
+   "volumen": 98936.430583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -202,7 +161,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 98669.256978,
+   "volumen": 98669.25697799999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -222,7 +181,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
    "yes": 0.11,
    "no": 0.89,
-   "volumen": 98432.764159,
+   "volumen": 98432.76415900003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de entre 900m y 920m para el 31 de agosto?"
@@ -242,7 +201,7 @@
    "slug": "will-inter-miami-cf-win-the-2026-mls-cup",
    "yes": 0.205,
    "no": 0.795,
-   "volumen": 98356.81007300002,
+   "volumen": 98356.810073,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará el Inter Miami CF la Copa MLS 2026?"
@@ -250,8 +209,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.214,
-   "no": 0.786,
+   "yes": 0.213,
+   "no": 0.787,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -322,14 +281,14 @@
    "slug": "highest-temperature-in-los-angeles-on-august-24-2026-84-85f",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9958.972883999997,
+   "volumen": 9958.972883999999,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Los Ángeles entre 84-85°F el 24 de agosto?"
   }
  ],
  "historico": {
-  "ts": 1787637206,
+  "ts": 1787639008,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
