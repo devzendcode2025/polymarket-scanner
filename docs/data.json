@@ -1,6 +1,6 @@
 {
- "ts": 1787652073,
- "stamp": "20260825_100113",
+ "ts": 1787652433,
+ "stamp": "20260825_100713",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945144.70733599,
+   "volumen": 9945144.707336003,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -51,7 +51,7 @@
    "slug": "will-tom-cotton-win-the-2028-republican-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 989770.709666,
+   "volumen": 989770.7096660001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Tom Cotton la nominación presidencial republicana de 2028?"
@@ -61,7 +61,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986462.8217609997,
+   "volumen": 986462.8217609999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -151,7 +151,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 98669.25697799999,
+   "volumen": 98669.256978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -171,7 +171,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
    "yes": 0.105,
    "no": 0.895,
-   "volumen": 98482.653039,
+   "volumen": 98482.65303899998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de entre 900m y 920m para el 31 de agosto?"
@@ -181,7 +181,7 @@
    "slug": "will-inter-miami-cf-win-the-2026-mls-cup",
    "yes": 0.205,
    "no": 0.795,
-   "volumen": 98356.810073,
+   "volumen": 98356.81007299999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará el Inter Miami CF la Copa MLS 2026?"
@@ -189,8 +189,8 @@
   {
    "question": "Will the price of Solana be above $110 on August 27?",
    "slug": "solana-above-110-on-august-27-2026",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.0655,
+   "no": 0.9345,
    "volumen": 9998.848689999999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -199,8 +199,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2095,
-   "no": 0.7905,
+   "yes": 0.209,
+   "no": 0.791,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -211,7 +211,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445129,
+   "volumen": 9992.445128999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -239,8 +239,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.982,
-   "no": 0.018,
+   "yes": 0.9815,
+   "no": 0.0185,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
@@ -257,6 +257,16 @@
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
   },
   {
+   "question": "Will Ethereum dip to $2,300 August 24-30?",
+   "slug": "will-ethereum-dip-to-2300-august-24-30-2026",
+   "yes": 0.335,
+   "no": 0.665,
+   "volumen": 9948.059992,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Caerá Ethereum a $2,300 del 24 al 30 de agosto?"
+  },
+  {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
    "yes": 0.003,
@@ -271,20 +281,10 @@
    "slug": "highest-temperature-in-seoul-on-august-25-2026-31c",
    "yes": 0.9995,
    "no": 0.0005,
-   "volumen": 9945.111872000003,
+   "volumen": 9945.111872000005,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Seúl (Incheon) de 31°C el 25 de agosto?"
-  },
-  {
-   "question": "Will Patrus Ananias win the 2026 Minas Gerais gubernatorial election?",
-   "slug": "will-patrus-ananias-win-the-2026-minas-gerais-gubernatorial-election",
-   "yes": 0.0265,
-   "no": 0.9735,
-   "volumen": 9944.355508,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Patrus Ananias las elecciones para gobernador de Minas Gerais en 2026?"
   }
  ],
  "historico": {
