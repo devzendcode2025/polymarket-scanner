@@ -1,31 +1,10 @@
 {
- "ts": 1787639530,
- "stamp": "20260825_063210",
+ "ts": 1787639890,
+ "stamp": "20260825_063810",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xce41e10b3c9b3764cfe3b54691b411a4565ac4ee6ced9a810ee629bbfbffce89",
-   "titulo": "Kharg Island no longer under Iranian control by August 31?",
-   "slug": "kharg-island-no-longer-under-iranian-control-by-august-31",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 4198.31,
-   "price": 0.995,
-   "usd": 4177.32,
-   "ts": 1787639158,
-   "categoria": "Otros",
-   "prob": 58,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $4,177 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/kharg-island-no-longer-under-iranian-control-by-august-31",
-   "titulo_es": "¿La isla de Kharg ya no estará bajo control iraní para el 31 de agosto?",
-   "narrativa": "La señal de venta sobre el control iraní de Kharg refleja un consenso externo que anticipa una escalada militar o diplomática antes del 31 de agosto, con un edge de +8.2 puntos sobre la probabilidad implícita del mercado. El monto de $4,177.32 representa una posición moderada que capitaliza la divergencia entre el precio actual (0.42) y la expectativa racional de los eventos recientes en el Golfo. Riesgo: baja liquidez en el tramo final del contrato, lo que puede amplificar el deslizamiento."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9990105.714407,
+   "volumen": 9990869.802396003,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -72,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945129.37366,
+   "volumen": 9945129.373659996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -82,7 +61,7 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.0075,
    "no": 0.9925,
-   "volumen": 991059.0857679995,
+   "volumen": 991059.0857680002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -92,7 +71,7 @@
    "slug": "will-tom-cotton-win-the-2028-republican-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 989770.7096659999,
+   "volumen": 989770.7096660001,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Tom Cotton la nominación presidencial republicana de 2028?"
@@ -102,7 +81,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.2740610001,
+   "volumen": 986453.2740609999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -122,7 +101,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188,
+   "volumen": 99966.78188000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -150,8 +129,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -172,7 +151,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 98936.430583,
+   "volumen": 98936.43058300001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -182,7 +161,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 98669.25697799999,
+   "volumen": 98669.256978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -192,7 +171,7 @@
    "slug": "will-alphabet-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029879",
    "yes": 0.941,
    "no": 0.059,
-   "volumen": 98648.33957000001,
+   "volumen": 98648.33956999998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la tercera empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -202,7 +181,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
    "yes": 0.11,
    "no": 0.89,
-   "volumen": 98432.76415900003,
+   "volumen": 98432.764159,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de entre 900m y 920m para el 31 de agosto?"
@@ -210,8 +189,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.685,
+   "no": 0.315,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -222,16 +201,26 @@
    "slug": "will-inter-miami-cf-win-the-2026-mls-cup",
    "yes": 0.205,
    "no": 0.795,
-   "volumen": 98356.810073,
+   "volumen": 98356.81007300002,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará el Inter Miami CF la Copa MLS 2026?"
   },
   {
+   "question": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy",
+   "slug": "atp-kouame-basavar-2026-08-25",
+   "yes": 0.505,
+   "no": 0.495,
+   "volumen": 9998.667177000003,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "US Open, Clasificación ATP: Moise Kouame vs Nishesh Basavareddy"
+  },
+  {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2145,
-   "no": 0.7855,
+   "yes": 0.214,
+   "no": 0.786,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -242,20 +231,20 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999998,
+   "volumen": 9992.445129,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
   },
   {
-   "question": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy",
-   "slug": "atp-kouame-basavar-2026-08-25",
-   "yes": 0.505,
-   "no": 0.495,
-   "volumen": 9988.667177,
+   "question": "Games Total: O/U 2.5",
+   "slug": "lol-gsmc-spar-2026-08-25-total-games-2pt5",
+   "yes": 0.215,
+   "no": 0.785,
+   "volumen": 9989.745185,
    "spread": 0.0,
    "categoria": "Deportes",
-   "question_es": "US Open, Clasificación ATP: Moise Kouame vs Nishesh Basavareddy"
+   "question_es": "Total de Juegos: O/U 2.5"
   },
   {
    "question": "Will the Republican Party win the OR-03 House seat?",
@@ -296,16 +285,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will the highest temperature in Los Angeles be between 84-85°F on August 24?",
-   "slug": "highest-temperature-in-los-angeles-on-august-24-2026-84-85f",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9958.972883999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en Los Ángeles entre 84-85°F el 24 de agosto?"
   }
  ],
  "historico": {
