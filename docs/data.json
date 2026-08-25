@@ -1,71 +1,10 @@
 {
- "ts": 1787635209,
- "stamp": "20260825_052009",
+ "ts": 1787635689,
+ "stamp": "20260825_052809",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x58a5f6d01042d3df9d8ac793421526c45490232e0f8880698bb1dbf5c7acf265",
-   "titulo": "Bitcoin Up or Down - August 25, 1:10AM-1:15AM ET",
-   "slug": "btc-updown-5m-1787634600",
-   "outcome": "Down",
-   "side": "SELL",
-   "size": 3229.41,
-   "price": 0.99,
-   "usd": 3197.12,
-   "ts": 1787634939,
-   "categoria": "Cripto",
-   "prob": 56,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $3,197 en 'Down'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/btc-updown-5m-1787634600",
-   "titulo_es": "Bitcoin sube o baja - 25 de agosto, 1:10AM-1:15AM ET",
-   "narrativa": "La venta de $3,197 en el mercado de movimiento de Bitcoin a corto plazo sugiere que una posición relevante busca capturar la caída esperada en la ventana de 5 minutos, aprovechando el desvío típico de alta volatilidad intradiaria. El consenso externo de los flujos de órdenes apunta a una presión vendedora que podría materializarse en el outcome 'Down', con un edge estimado de +12 puntos sobre el precio implícito actual. Riesgo: ventana de tiempo extremadamente corta y sensibilidad a noticias de último minuto."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0x738829004a8989c2a5bcddf14b705ebec99d4209b2256d0cb5870f2dc042caab",
-   "titulo": "Pittsburgh Pirates vs. San Diego Padres",
-   "slug": "mlb-pit-sd-2026-08-24",
-   "outcome": "Pittsburgh Pirates",
-   "side": "BUY",
-   "size": 9465.38,
-   "price": 0.26,
-   "usd": 2461.0,
-   "ts": 1787634937,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,461 en 'Pittsburgh Pirates'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/mlb-pit-sd-2026-08-24",
-   "titulo_es": "Pittsburgh Pirates vs. San Diego Padres",
-   "narrativa": "La compra de $2,461 en los Pirates refleja una apuesta al valor del mercado local, donde el precio implícito de la victoria de Pittsburgh está descontado por debajo de su probabilidad real según los modelos de pitcheo y rendimiento reciente. El monto del trade, superior al promedio de liquidez para este tipo de eventos, indica que un operador grande detectó una discrepancia de al menos 8 puntos entre el consenso externo y la cuota ofrecida. Riesgo: posible baja liquidez en mercados de béisbol de temporada regular."
-  },
-  {
-   "tipo": "ballena",
-   "market_id": "0xdaa4866bae18be58c5a79d2aeeffd035ec78f1bb49dbd88f72993997778a990f",
-   "titulo": "Will Bitcoin reach $100,000 by December 31, 2026?",
-   "slug": "will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-   "outcome": "No",
-   "side": "SELL",
-   "size": 3110.0,
-   "price": 0.67,
-   "usd": 2083.7,
-   "ts": 1787634940,
-   "categoria": "Cripto",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de venta por $2,084 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-   "titulo_es": "¿Alcanzará Bitcoin los $100,000 para el 31 de diciembre de 2026?",
-   "narrativa": "La venta de $2,083 en el mercado de 'No' para Bitcoin a $100K en 2026 aprovecha el horizonte temporal largo, donde la probabilidad implícita del mercado sobreestima la viabilidad del objetivo frente a los ciclos históricos de adopción y la dificultad de triplicar el precio actual en menos de 18 meses. El edge calculado es de +15 puntos, respaldado por el consenso de analistas que sitúan el techo realista en $85K para ese periodo. Riesgo: eventos macroeconómicos extremos o adopción institucional masiva podrían acelerar el movimiento alcista."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -132,7 +71,7 @@
    "slug": "will-tom-cotton-win-the-2028-republican-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 989770.709666,
+   "volumen": 989770.7096659997,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Tom Cotton la nominación presidencial republicana de 2028?"
@@ -218,16 +157,6 @@
    "question_es": "¿Estará el precio de Bitcoin por encima de los $74,000 el 25 de agosto?"
   },
   {
-   "question": "Will the price of Bitcoin be above $74,000 on August 25?",
-   "slug": "bitcoin-above-74k-on-august-25-2026",
-   "yes": 0.9985,
-   "no": 0.0015,
-   "volumen": 98943.99895999992,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Estará el precio de Bitcoin por encima de los $74,000 el 25 de agosto?"
-  },
-  {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.28,
@@ -242,7 +171,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 98669.25697800002,
+   "volumen": 98669.25697799999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -262,7 +191,7 @@
    "slug": "will-inter-miami-cf-win-the-2026-mls-cup",
    "yes": 0.205,
    "no": 0.795,
-   "volumen": 98238.74007300002,
+   "volumen": 98238.74007300001,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará el Inter Miami CF la Copa MLS 2026?"
@@ -272,7 +201,7 @@
    "slug": "will-alphabet-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029879",
    "yes": 0.9405,
    "no": 0.0595,
-   "volumen": 98237.55956999998,
+   "volumen": 98237.55957000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la tercera empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -346,6 +275,16 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Los Ángeles entre 84-85°F el 24 de agosto?"
+  },
+  {
+   "question": "Games Total: O/U 2.5",
+   "slug": "lol-gsmc-spar-2026-08-25-total-games-2pt5",
+   "yes": 0.215,
+   "no": 0.785,
+   "volumen": 9949.745185,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "Total de Juegos: O/U 2.5"
   }
  ],
  "historico": {
