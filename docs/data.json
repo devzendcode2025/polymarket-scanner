@@ -1,31 +1,10 @@
 {
- "ts": 1787637850,
- "stamp": "20260825_060410",
+ "ts": 1787638330,
+ "stamp": "20260825_061210",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xd5f7ce3e6f4acf02b045190021b46a130206a9985e8a3b48f7290ac687c61567",
-   "titulo": "Will the price of Solana be above $90 on August 27?",
-   "slug": "solana-above-90-on-august-27-2026",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 4811.0,
-   "price": 0.98,
-   "usd": 4714.78,
-   "ts": 1787637645,
-   "categoria": "Cripto",
-   "prob": 59,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $4,715 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/solana-above-90-on-august-27-2026",
-   "titulo_es": "¿Estará el precio de Solana por encima de $90 el 27 de agosto?",
-   "narrativa": "La compra de 'Yes' en Solana por encima de $90 para el 27 de agosto refleja un edge positivo de +3.2 puntos frente al consenso externo del 58%, con un monto de $4,714.78 que indica posicionamiento institucional activo. El cambio porcentual en el volumen de las últimas 24 horas sugiere un flujo de capital que respalda la probabilidad implícita del 61%. Riesgo: la volatilidad intradía de Solana puede erosionar el margen si el mercado cripto sufre un retroceso brusco."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9975292.184414998,
+   "volumen": 9979420.026517002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -72,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945129.373659996,
+   "volumen": 9945129.37365999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -82,7 +61,7 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.0075,
    "no": 0.9925,
-   "volumen": 991040.276911,
+   "volumen": 991053.2757680002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -150,8 +129,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -160,8 +139,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -190,8 +169,8 @@
   {
    "question": "Will the total domestic gross for Spider-Man: Brand New Day be between 900m and 920m by August 31?",
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
-   "yes": 0.125,
-   "no": 0.875,
+   "yes": 0.115,
+   "no": 0.885,
    "volumen": 98432.764159,
    "spread": 0.0,
    "categoria": "Otros",
@@ -220,8 +199,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.215,
-   "no": 0.785,
+   "yes": 0.216,
+   "no": 0.784,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -292,7 +271,7 @@
    "slug": "highest-temperature-in-los-angeles-on-august-24-2026-84-85f",
    "yes": 0.0005,
    "no": 0.9995,
-   "volumen": 9958.972883999999,
+   "volumen": 9958.972883999997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Los Ángeles entre 84-85°F el 24 de agosto?"
