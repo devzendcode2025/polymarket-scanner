@@ -1,31 +1,10 @@
 {
- "ts": 1787632688,
- "stamp": "20260825_043808",
+ "ts": 1787633049,
+ "stamp": "20260825_044409",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xf9a2431e9c3c60c4e5f2755ddc8e6184fc0d20980c6b0cb5fb11195ae0f12ed6",
-   "titulo": "Set 1 Winner: Parry vs Vekic",
-   "slug": "wta-parry-vekic-2026-08-24-first-set-winner-Parry-vs-Vekic",
-   "outcome": "Vekic",
-   "side": "BUY",
-   "size": 2163.176841,
-   "price": 0.5547396663,
-   "usd": 1200.0,
-   "ts": 1787632530,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,200 en 'Vekic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/wta-parry-vekic-2026-08-24-first-set-winner-Parry-vs-Vekic",
-   "titulo_es": "Ganador del Set 1: Parry vs Vekic",
-   "narrativa": "La compra de Vekic como ganadora del Set 1 frente a Parry muestra un edge de +8.2 puntos frente al consenso externo (62% vs 53.8%), con un monto de $1,200 que representa el 4.1% del volumen diario del mercado. La desviación estándar de los precios históricos es baja (0.9%), lo que sugiere que el mercado aún no ha absorbido completamente la información reciente de forma. Riesgo: liquidez moderada en horas previas al partido, posible ajuste brusco si hay noticias de última hora."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -200,8 +179,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.69,
-   "no": 0.31,
+   "yes": 0.685,
+   "no": 0.315,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -210,8 +189,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2115,
-   "no": 0.7885,
+   "yes": 0.214,
+   "no": 0.786,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
