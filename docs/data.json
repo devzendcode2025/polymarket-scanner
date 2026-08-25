@@ -1,6 +1,6 @@
 {
- "ts": 1787650573,
- "stamp": "20260825_093613",
+ "ts": 1787650993,
+ "stamp": "20260825_094313",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -59,8 +59,8 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.0075,
-   "no": 0.9925,
+   "yes": 0.007,
+   "no": 0.993,
    "volumen": 992000.5757680007,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -179,8 +179,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.665,
-   "no": 0.335,
+   "yes": 0.66,
+   "no": 0.34,
    "volumen": 98619.626618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -209,8 +209,8 @@
   {
    "question": "Will the price of Solana be above $110 on August 27?",
    "slug": "solana-above-110-on-august-27-2026",
-   "yes": 0.0745,
-   "no": 0.9255,
+   "yes": 0.079,
+   "no": 0.921,
    "volumen": 9998.84869,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -269,8 +269,8 @@
   {
    "question": "Will the highest temperature in Guangzhou be 33°C on August 25?",
    "slug": "highest-temperature-in-guangzhou-on-august-25-2026-33c",
-   "yes": 0.999,
-   "no": 0.001,
+   "yes": 0.9995,
+   "no": 0.0005,
    "volumen": 9977.209518,
    "spread": 0.0,
    "categoria": "Otros",
