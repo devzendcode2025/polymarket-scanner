@@ -1,6 +1,6 @@
 {
- "ts": 1787645351,
- "stamp": "20260825_080911",
+ "ts": 1787645772,
+ "stamp": "20260825_081612",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -169,8 +169,8 @@
   {
    "question": "Will Alphabet be the third-largest company in the world by market cap on August 31?",
    "slug": "will-alphabet-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029879",
-   "yes": 0.9405,
-   "no": 0.0595,
+   "yes": 0.9395,
+   "no": 0.0605,
    "volumen": 98668.33956999998,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -209,8 +209,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2045,
-   "no": 0.7955,
+   "yes": 0.204,
+   "no": 0.796,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -249,8 +249,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9815,
-   "no": 0.0185,
+   "yes": 0.983,
+   "no": 0.017,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
