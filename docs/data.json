@@ -1,6 +1,6 @@
 {
- "ts": 1787642831,
- "stamp": "20260825_072711",
+ "ts": 1787643191,
+ "stamp": "20260825_073311",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -119,8 +119,8 @@
   {
    "question": "Will the price of Bitcoin be above $76,000 on August 25?",
    "slug": "bitcoin-above-76k-on-august-25-2026",
-   "yes": 0.994,
-   "no": 0.006,
+   "yes": 0.9945,
+   "no": 0.0055,
    "volumen": 99672.13902999999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -169,9 +169,9 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.0105,
-   "no": 0.9895,
-   "volumen": 98669.25697799999,
+   "yes": 0.01,
+   "no": 0.99,
+   "volumen": 98669.256978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -219,8 +219,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2165,
-   "no": 0.7835,
+   "yes": 0.2175,
+   "no": 0.7825,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
