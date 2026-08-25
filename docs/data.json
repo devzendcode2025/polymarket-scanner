@@ -1,31 +1,10 @@
 {
- "ts": 1787657234,
- "stamp": "20260825_112714",
+ "ts": 1787657594,
+ "stamp": "20260825_113314",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
-   "titulo": "Strait of Hormuz traffic returns to normal by December 31?",
-   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-   "outcome": "No",
-   "side": "BUY",
-   "size": 5739.6,
-   "price": 0.65,
-   "usd": 3730.74,
-   "ts": 1787656885,
-   "categoria": "Tecnología",
-   "prob": 57,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $3,731 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-   "titulo_es": "¿El tráfico en el Estrecho de Ormuz vuelve a la normalidad antes del 31 de diciembre?",
-   "narrativa": "El mercado descuenta una probabilidad implícita del 72% de que el tráfico no se normalice, pero el consenso externo de analistas geopolíticos sitúa ese escenario en torno al 65%, generando un edge positivo de 7 puntos a favor de la compra. Con un monto de $3,730 USD, la posición captura una discrepancia moderada sin sobreexposición, aunque el volumen de mercado no reportado limita la profundidad para salir rápido. Riesgo: posible reapertura diplomática sorpresiva que comprima el diferencial antes del cierre."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -72,7 +51,7 @@
    "slug": "will-tom-cotton-win-the-2028-republican-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 989770.709666,
+   "volumen": 989770.7096659999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Tom Cotton la nominación presidencial republicana de 2028?"
@@ -82,7 +61,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986462.8217610001,
+   "volumen": 986462.8217609996,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -162,7 +141,7 @@
    "slug": "will-alphabet-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029879",
    "yes": 0.943,
    "no": 0.057,
-   "volumen": 98738.33956999998,
+   "volumen": 98738.33957000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la tercera empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -172,7 +151,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 98669.25697799999,
+   "volumen": 98669.25697799998,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -180,9 +159,9 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.66,
-   "no": 0.34,
-   "volumen": 98619.62661800001,
+   "yes": 0.655,
+   "no": 0.345,
+   "volumen": 98628.34661800001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -192,7 +171,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
    "yes": 0.105,
    "no": 0.895,
-   "volumen": 98482.653039,
+   "volumen": 98482.65303899997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de entre 900m y 920m para el 31 de agosto?"
@@ -202,7 +181,7 @@
    "slug": "will-inter-miami-cf-win-the-2026-mls-cup",
    "yes": 0.205,
    "no": 0.795,
-   "volumen": 98356.810073,
+   "volumen": 98356.81007300004,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará el Inter Miami CF la Copa MLS 2026?"
@@ -210,8 +189,8 @@
   {
    "question": "Will the price of Solana be above $110 on August 27?",
    "slug": "solana-above-110-on-august-27-2026",
-   "yes": 0.065,
-   "no": 0.935,
+   "yes": 0.0605,
+   "no": 0.9395,
    "volumen": 9998.84869,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -309,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787655779,
+  "ts": 1787657665,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
