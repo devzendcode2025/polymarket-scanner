@@ -1,6 +1,6 @@
 {
- "ts": 1787622126,
- "stamp": "20260825_014206",
+ "ts": 1787622546,
+ "stamp": "20260825_014906",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -59,8 +59,8 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.007,
-   "no": 0.993,
+   "yes": 0.0075,
+   "no": 0.9925,
    "volumen": 986923.0697690002,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -119,8 +119,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.155,
-   "no": 0.845,
+   "yes": 0.16,
+   "no": 0.84,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -129,8 +129,8 @@
   {
    "question": "Minnesota Twins vs. Athletics: O/U 10.5",
    "slug": "mlb-min-oak-2026-08-24-total-10pt5",
-   "yes": 0.555,
-   "no": 0.445,
+   "yes": 0.545,
+   "no": 0.455,
    "volumen": 99085.235116,
    "spread": 0.0,
    "categoria": "Otros",
@@ -149,8 +149,8 @@
   {
    "question": "Will XRP reach $2.00 in August?",
    "slug": "will-xrp-reach-2-in-august-2026",
-   "yes": 0.079,
-   "no": 0.921,
+   "yes": 0.0795,
+   "no": 0.9205,
    "volumen": 99061.14896599998,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -189,8 +189,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98427.306618,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -199,8 +199,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2075,
-   "no": 0.7925,
+   "yes": 0.207,
+   "no": 0.793,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -239,8 +239,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.982,
-   "no": 0.018,
+   "yes": 0.9825,
+   "no": 0.0175,
    "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -288,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787620521,
+  "ts": 1787622336,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
