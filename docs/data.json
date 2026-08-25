@@ -1,6 +1,6 @@
 {
- "ts": 1787642051,
- "stamp": "20260825_071411",
+ "ts": 1787642411,
+ "stamp": "20260825_072011",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9991185.004588002,
+   "volumen": 9991205.530902,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -51,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945129.373659972,
+   "volumen": 9945129.373660002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -61,7 +61,7 @@
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "yes": 0.0075,
    "no": 0.9925,
-   "volumen": 991559.0757679994,
+   "volumen": 991559.0757680002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -81,7 +81,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.2740609997,
+   "volumen": 986453.2740609999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -101,7 +101,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188,
+   "volumen": 99966.78188000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -115,6 +115,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Será Radu Burnete el próximo Primer Ministro de Rumania?"
+  },
+  {
+   "question": "Will the price of Bitcoin be above $76,000 on August 25?",
+   "slug": "bitcoin-above-76k-on-august-25-2026",
+   "yes": 0.994,
+   "no": 0.006,
+   "volumen": 99672.13902999999,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Estará el precio de Bitcoin por encima de $76,000 el 25 de agosto?"
   },
   {
    "question": "Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
@@ -135,16 +145,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Encontrará un tribunal internacional a Israel o a sus líderes culpables de genocidio antes del 31 de diciembre de 2027?"
-  },
-  {
-   "question": "Will Loopscale launch a token by December 31, 2026?",
-   "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.145,
-   "no": 0.855,
-   "volumen": 99063.703419,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Lanzará Loopscale un token antes del 31 de diciembre de 2026?"
   },
   {
    "question": "Will Ethereum hit $1,000 or $3,000 first?",
@@ -171,7 +171,7 @@
    "slug": "will-alphabet-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029879",
    "yes": 0.941,
    "no": 0.059,
-   "volumen": 98648.33957000003,
+   "volumen": 98648.33956999998,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la tercera empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -181,7 +181,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
    "yes": 0.105,
    "no": 0.895,
-   "volumen": 98442.653039,
+   "volumen": 98442.65303899998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de entre 900m y 920m para el 31 de agosto?"
@@ -209,8 +209,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.215,
-   "no": 0.785,
+   "yes": 0.2165,
+   "no": 0.7835,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -221,7 +221,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445129000002,
+   "volumen": 9992.445129,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -259,12 +259,22 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9825,
-   "no": 0.0175,
+   "yes": 0.9815,
+   "no": 0.0185,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
+  },
+  {
+   "question": "Will the Ornn H200 Index be less than $4.00 on September 30, 2026?",
+   "slug": "will-the-ornn-h200-index-be-less-than-4pt00-on-september-30-2026-1785423806492",
+   "yes": 0.18,
+   "no": 0.82,
+   "volumen": 9979.664378,
+   "spread": 0.0,
+   "categoria": "Otros",
+   "question_es": "¿Será el índice Ornn H200 inferior a $4.00 el 30 de septiembre de 2026?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
@@ -275,16 +285,6 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará el Partido Republicano el escaño de la Cámara NC-09?"
-  },
-  {
-   "question": "Will the highest temperature in Los Angeles be between 84-85°F on August 24?",
-   "slug": "highest-temperature-in-los-angeles-on-august-24-2026-84-85f",
-   "yes": 0.0005,
-   "no": 0.9995,
-   "volumen": 9958.972883999999,
-   "spread": 0.0,
-   "categoria": "Otros",
-   "question_es": "¿Será la temperatura más alta en Los Ángeles entre 84-85°F el 24 de agosto?"
   }
  ],
  "historico": {
