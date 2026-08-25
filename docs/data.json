@@ -1,10 +1,51 @@
 {
- "ts": 1787638330,
- "stamp": "20260825_061210",
+ "ts": 1787638690,
+ "stamp": "20260825_061810",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xdc75bf6ac199eb8bd57bec5ab8f0b1ec14bfb13e0953f7d90654fa995c114736",
+   "titulo": "Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo",
+   "slug": "atp-zandsch-vallejo-2026-08-25",
+   "outcome": "Adolfo Vallejo",
+   "side": "BUY",
+   "size": 8238.92,
+   "price": 0.42,
+   "usd": 3460.35,
+   "ts": 1787638543,
+   "categoria": "Otros",
+   "prob": 57,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $3,460 en 'Adolfo Vallejo'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/atp-zandsch-vallejo-2026-08-25",
+   "titulo_es": "Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo",
+   "narrativa": "La compra de 3,460 USD sobre Adolfo Vallejo en el Winston-Salem Open sugiere una apuesta significativa contra el favoritismo implícito de Botic van de Zandschulp, aprovechando un posible desajuste en la valoración del mercado ante el momento de forma del jugador. El tamaño del trade, al ser superior a la media habitual, indica convicción en un edge de precio que aún no se ha corregido en las cuotas. Riesgo: el volumen de mercado no está disponible, lo que podría implicar liquidez limitada y dificultad para salir de la posición."
+  },
+  {
+   "tipo": "ballena",
+   "market_id": "0xae82073d58c5f11f9d88b244f6af3688b9d8e0d63fdffb3f85ab82ba3174db87",
+   "titulo": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner",
+   "slug": "lol-drxc-foxy-2026-08-25-game1",
+   "outcome": "Kiwoom DRX Challengers",
+   "side": "BUY",
+   "size": 4917.44,
+   "price": 0.4067156895,
+   "usd": 2000.0,
+   "ts": 1787638545,
+   "categoria": "Deportes",
+   "prob": 55,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de compra por $2,000 en 'Kiwoom DRX Challengers'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/lol-drxc-foxy-2026-08-25-game1",
+   "titulo_es": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Ganador del Juego 1",
+   "narrativa": "La entrada de 2,000 USD a favor de Kiwoom DRX Challengers en el Juego 1 contra BNK FearX Youth refleja una lectura de ventaja temprana en el draft o en el meta actual de la liga, donde el mercado podría estar sobreponderando la experiencia del equipo contrario. Este monto, al ser considerable para un mercado de esports de bajo perfil, busca capitalizar un desvío en las probabilidades implícitas antes de que el consenso externo ajuste la línea. Riesgo: alta volatilidad en juegos de LoL y posible falta de profundidad en el libro de órdenes para ejecutar la salida."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -167,10 +208,20 @@
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
   },
   {
+   "question": "Will Alphabet be the third-largest company in the world by market cap on August 31?",
+   "slug": "will-alphabet-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029879",
+   "yes": 0.941,
+   "no": 0.059,
+   "volumen": 98648.33957000001,
+   "spread": 0.0,
+   "categoria": "Tecnología",
+   "question_es": "¿Será Alphabet la tercera empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
+  },
+  {
    "question": "Will the total domestic gross for Spider-Man: Brand New Day be between 900m and 920m by August 31?",
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
-   "yes": 0.115,
-   "no": 0.885,
+   "yes": 0.11,
+   "no": 0.89,
    "volumen": 98432.764159,
    "spread": 0.0,
    "categoria": "Otros",
@@ -199,8 +250,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.216,
-   "no": 0.784,
+   "yes": 0.214,
+   "no": 0.786,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -275,16 +326,6 @@
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la temperatura más alta en Los Ángeles entre 84-85°F el 24 de agosto?"
-  },
-  {
-   "question": "Games Total: O/U 2.5",
-   "slug": "lol-gsmc-spar-2026-08-25-total-games-2pt5",
-   "yes": 0.215,
-   "no": 0.785,
-   "volumen": 9949.745185,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Total de Juegos: O/U 2.5"
   }
  ],
  "historico": {
