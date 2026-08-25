@@ -1,31 +1,10 @@
 {
- "ts": 1787650093,
- "stamp": "20260825_092813",
+ "ts": 1787650573,
+ "stamp": "20260825_093613",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0xb624cac717e9fe8ef949b6b99d46a1ca28cd5bf1e130f3186ecd52985ec65309",
-   "titulo": "ITF M25 Lausanne Men: Noah Karma vs Sebastian Anthony Vlahos",
-   "slug": "itf-karma-vlahos-2026-08-25",
-   "outcome": "Sebastian Anthony Vlahos",
-   "side": "BUY",
-   "size": 4530.4736,
-   "price": 0.2207274754,
-   "usd": 1000.0,
-   "ts": 1787649975,
-   "categoria": "Otros",
-   "prob": 53,
-   "confianza": "baja",
-   "horizonte": "72h",
-   "razon": "Trade de compra por $1,000 en 'Sebastian Anthony Vlahos'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/itf-karma-vlahos-2026-08-25",
-   "titulo_es": "ITF M25 Lausana Masculino: Noah Karma vs Sebastian Anthony Vlahos",
-   "narrativa": "El mercado presenta una clara asimetría a favor de Sebastian Anthony Vlahos, con un edge estimado de +8.2 puntos frente al consenso externo del 54% de probabilidad implícita. El monto de $1,000 representa solo el 2.1% del volumen proyectado del mercado, permitiendo una entrada con bajo impacto en el precio. La señal de ballena sugiere que la información agregada de los grandes operadores aún no se ha reflejado completamente en las cuotas. Riesgo: volatilidad intradía en partidos de ITF con superficies variables."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -62,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9998581.244523998,
+   "volumen": 9998581.244524,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -80,9 +59,9 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.007,
-   "no": 0.993,
-   "volumen": 992000.5757680003,
+   "yes": 0.0075,
+   "no": 0.9925,
+   "volumen": 992000.5757680007,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -92,7 +71,7 @@
    "slug": "will-tom-cotton-win-the-2028-republican-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 989770.709666,
+   "volumen": 989770.7096659999,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Tom Cotton la nominación presidencial republicana de 2028?"
@@ -102,7 +81,7 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986462.8217609999,
+   "volumen": 986462.821761,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -122,7 +101,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000002,
+   "volumen": 99966.78188000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -160,8 +139,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.14,
+   "no": 0.86,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -182,7 +161,7 @@
    "slug": "will-alphabet-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029879",
    "yes": 0.943,
    "no": 0.057,
-   "volumen": 98738.33956999998,
+   "volumen": 98738.33957,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Será Alphabet la tercera empresa más grande del mundo por capitalización de mercado el 31 de agosto?"
@@ -200,9 +179,9 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.655,
-   "no": 0.345,
-   "volumen": 98619.62661800001,
+   "yes": 0.665,
+   "no": 0.335,
+   "volumen": 98619.626618,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Alcanzará la valoración de OpenAI (ALTA) $1.0B para el 31 de diciembre?"
@@ -212,7 +191,7 @@
    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451",
    "yes": 0.105,
    "no": 0.895,
-   "volumen": 98482.653039,
+   "volumen": 98482.65303899997,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será la recaudación nacional total de Spider-Man: Brand New Day de entre 900m y 920m para el 31 de agosto?"
@@ -230,9 +209,9 @@
   {
    "question": "Will the price of Solana be above $110 on August 27?",
    "slug": "solana-above-110-on-august-27-2026",
-   "yes": 0.0655,
-   "no": 0.9345,
-   "volumen": 9998.848689999999,
+   "yes": 0.0745,
+   "no": 0.9255,
+   "volumen": 9998.84869,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Estará el precio de Solana por encima de $110 el 27 de agosto?"
@@ -252,7 +231,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999996,
+   "volumen": 9992.445128999998,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -280,22 +259,22 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.982,
+   "yes": 0.9825,
    "no": 0.018,
    "volumen": 9982.176089,
-   "spread": 0.0,
+   "spread": 0.0005,
    "categoria": "Política",
    "question_es": "¿Visitará Donald Trump Irlanda en 2026?"
   },
   {
-   "question": "Game Handicap: KT (-1.5) vs HANJIN BRION (+1.5)",
-   "slug": "lol-kt-bro2-2026-08-26-game-handicap-away-1pt5",
-   "yes": 0.575,
-   "no": 0.425,
-   "volumen": 9975.51751,
+   "question": "Will the highest temperature in Guangzhou be 33°C on August 25?",
+   "slug": "highest-temperature-in-guangzhou-on-august-25-2026-33c",
+   "yes": 0.999,
+   "no": 0.001,
+   "volumen": 9977.209518,
    "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "Hándicap del juego: KT (-1.5) vs HANJIN BRION (+1.5)"
+   "categoria": "Otros",
+   "question_es": "¿Será la temperatura más alta en Guangzhou de 33°C el 25 de agosto?"
   },
   {
    "question": "Will the Republican Party win the NC-09 House seat?",
