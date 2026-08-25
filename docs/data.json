@@ -1,6 +1,6 @@
 {
- "ts": 1787644031,
- "stamp": "20260825_074711",
+ "ts": 1787644511,
+ "stamp": "20260825_075511",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -41,7 +41,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9991689.573581,
+   "volumen": 9997082.716736998,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -51,7 +51,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945129.373660006,
+   "volumen": 9945129.373660007,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -59,9 +59,9 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.008,
-   "no": 0.992,
-   "volumen": 991559.0757680002,
+   "yes": 0.0095,
+   "no": 0.9905,
+   "volumen": 991559.0757680001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -101,7 +101,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188000001,
+   "volumen": 99966.78188,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -119,8 +119,8 @@
   {
    "question": "Will the price of Bitcoin be above $76,000 on August 25?",
    "slug": "bitcoin-above-76k-on-august-25-2026",
-   "yes": 0.994,
-   "no": 0.006,
+   "yes": 0.9845,
+   "no": 0.0155,
    "volumen": 99672.13902999999,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -139,8 +139,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -199,8 +199,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -219,8 +219,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2175,
-   "no": 0.7825,
+   "yes": 0.218,
+   "no": 0.782,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -259,8 +259,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.983,
-   "no": 0.017,
+   "yes": 0.9815,
+   "no": 0.0185,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
@@ -271,7 +271,7 @@
    "slug": "will-the-ornn-h200-index-be-less-than-4pt00-on-september-30-2026-1785423806492",
    "yes": 0.17,
    "no": 0.83,
-   "volumen": 9979.664378,
+   "volumen": 9979.664378000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Será el índice Ornn H200 inferior a $4.00 el 30 de septiembre de 2026?"
@@ -288,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787642753,
+  "ts": 1787644587,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
