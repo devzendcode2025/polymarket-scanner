@@ -1,31 +1,10 @@
 {
- "ts": 1787646252,
- "stamp": "20260825_082412",
+ "ts": 1787646612,
+ "stamp": "20260825_083012",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [
-  {
-   "tipo": "ballena",
-   "market_id": "0x71dd44fa5059fbed28a279172185d3623aa34ce86be1936281df26b5d1b87200",
-   "titulo": "US announces end of Iranian blockade by September 21, 2026?",
-   "slug": "us-announces-end-of-iranian-blockade-by-september-21-2026",
-   "outcome": "Yes",
-   "side": "BUY",
-   "size": 9736.0,
-   "price": 0.2265324569,
-   "usd": 2205.52,
-   "ts": 1787646064,
-   "categoria": "Otros",
-   "prob": 55,
-   "confianza": "media",
-   "horizonte": "24h",
-   "razon": "Trade de compra por $2,206 en 'Yes'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/us-announces-end-of-iranian-blockade-by-september-21-2026",
-   "titulo_es": "¿EE. UU. anuncia el fin del bloqueo iraní para el 21 de septiembre de 2026?",
-   "narrativa": "La compra de 'Yes' a 2205 USD en este evento geopolítico de largo plazo refleja una apuesta direccional clara: el mercado aún no descuenta plenamente la probabilidad de un cambio de política exterior antes de la fecha clave. Aunque el volumen de mercado no está disponible, el monto concentrado sugiere que un operador con información o convicción está dispuesto a asumir el riesgo de espera. El edge real está en la diferencia entre el precio implícito actual y la probabilidad histórica de resolución de tensiones Irán-EE. UU. en ventanas de 18 meses, que tiende a ser mayor que la cotización. Riesgo: alta sensibilidad a noticias de última hora y posible falta de liquidez para salir antes del vencimiento."
-  }
- ],
+ "ballenas_scan": [],
  "edges": [
   {
    "tipo": "edge",
@@ -150,8 +129,8 @@
   {
    "question": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
    "slug": "will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679",
-   "yes": 0.16,
-   "no": 0.84,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99356.97545000004,
    "spread": 0.0,
    "categoria": "Otros",
@@ -160,8 +139,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.145,
-   "no": 0.855,
+   "yes": 0.155,
+   "no": 0.845,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -230,8 +209,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.205,
-   "no": 0.795,
+   "yes": 0.206,
+   "no": 0.794,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -280,8 +259,8 @@
   {
    "question": "Will the Ornn H200 Index be less than $4.00 on September 30, 2026?",
    "slug": "will-the-ornn-h200-index-be-less-than-4pt00-on-september-30-2026-1785423806492",
-   "yes": 0.17,
-   "no": 0.83,
+   "yes": 0.2,
+   "no": 0.8,
    "volumen": 9979.664378,
    "spread": 0.0,
    "categoria": "Otros",
@@ -309,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787644587,
+  "ts": 1787646449,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
