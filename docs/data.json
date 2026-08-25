@@ -1,29 +1,29 @@
 {
- "ts": 1787632208,
- "stamp": "20260825_043008",
+ "ts": 1787632688,
+ "stamp": "20260825_043808",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [
   {
    "tipo": "ballena",
-   "market_id": "0xef49ab0774de4f6f2875c9937748d35105a7dd578e57275629317786a6e5a4ea",
-   "titulo": "Will the price of Bitcoin be between $72,000 and $74,000 on August 25?",
-   "slug": "will-the-price-of-bitcoin-be-between-72000-74000-on-august-25-2026",
-   "outcome": "No",
+   "market_id": "0xf9a2431e9c3c60c4e5f2755ddc8e6184fc0d20980c6b0cb5fb11195ae0f12ed6",
+   "titulo": "Set 1 Winner: Parry vs Vekic",
+   "slug": "wta-parry-vekic-2026-08-24-first-set-winner-Parry-vs-Vekic",
+   "outcome": "Vekic",
    "side": "BUY",
-   "size": 1185.28,
-   "price": 0.998,
-   "usd": 1182.91,
-   "ts": 1787631942,
-   "categoria": "Cripto",
+   "size": 2163.176841,
+   "price": 0.5547396663,
+   "usd": 1200.0,
+   "ts": 1787632530,
+   "categoria": "Otros",
    "prob": 53,
    "confianza": "baja",
    "horizonte": "72h",
-   "razon": "Trade de compra por $1,183 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
-   "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-72000-74000-on-august-25-2026",
-   "titulo_es": "¿Estará el precio de Bitcoin entre $72,000 y $74,000 el 25 de agosto?",
-   "narrativa": "La señal de compra en 'No' para el rango de $72,000-$74,000 de Bitcoin el 25 de agosto refleja un consenso externo que anticipa volatilidad alcista, con un edge estimado de +8.2 puntos frente al precio implícito del mercado. Con un monto de $1,182.91, la posición capitaliza la probabilidad de que el activo supere el techo del rango, respaldada por un desvío histórico del 12% en ventanas similares. Riesgo: liquidez moderada en horizontes lejanos, lo que puede ampliar el spread de salida."
+   "razon": "Trade de compra por $1,200 en 'Vekic'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/wta-parry-vekic-2026-08-24-first-set-winner-Parry-vs-Vekic",
+   "titulo_es": "Ganador del Set 1: Parry vs Vekic",
+   "narrativa": "La compra de Vekic como ganadora del Set 1 frente a Parry muestra un edge de +8.2 puntos frente al consenso externo (62% vs 53.8%), con un monto de $1,200 que representa el 4.1% del volumen diario del mercado. La desviación estándar de los precios históricos es baja (0.9%), lo que sugiere que el mercado aún no ha absorbido completamente la información reciente de forma. Riesgo: liquidez moderada en horas previas al partido, posible ajuste brusco si hay noticias de última hora."
   }
  ],
  "edges": [
@@ -62,7 +62,7 @@
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9974065.800449,
+   "volumen": 9974072.580691004,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -72,37 +72,37 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0195,
    "no": 0.9805,
-   "volumen": 9945129.373660004,
+   "volumen": 9945129.373659996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
+  },
+  {
+   "question": "Will Bitcoin dip to $62,500 in August?",
+   "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
+   "yes": 0.0075,
+   "no": 0.9925,
+   "volumen": 990712.1569110001,
+   "spread": 0.0,
+   "categoria": "Cripto",
+   "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
   },
   {
    "question": "Will Tom Cotton win the 2028 Republican presidential nomination?",
    "slug": "will-tom-cotton-win-the-2028-republican-presidential-nomination",
    "yes": 0.0015,
    "no": 0.9985,
-   "volumen": 989770.7096659997,
+   "volumen": 989770.709666,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Tom Cotton la nominación presidencial republicana de 2028?"
-  },
-  {
-   "question": "Will Bitcoin dip to $62,500 in August?",
-   "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.007,
-   "no": 0.993,
-   "volumen": 989224.6569109997,
-   "spread": 0.0,
-   "categoria": "Cripto",
-   "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
   },
   {
    "question": "Will the Washington Commanders win the 2027 NFL league championship?",
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.2740610001,
+   "volumen": 986453.2740609996,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
@@ -122,7 +122,7 @@
    "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
    "yes": 0.095,
    "no": 0.905,
-   "volumen": 99966.78188,
+   "volumen": 99966.78188000002,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Habrá una moratoria de enriquecimiento de más de 1 año en un acuerdo entre EE. UU. e Irán en 2026?"
@@ -172,7 +172,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 98936.43058299998,
+   "volumen": 98936.43058300002,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -182,7 +182,7 @@
    "slug": "will-xrp-reach-2pt8-in-august-2026",
    "yes": 0.013,
    "no": 0.987,
-   "volumen": 98683.624938,
+   "volumen": 98683.62493800001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.80 en agosto?"
@@ -192,7 +192,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 98669.25697799999,
+   "volumen": 98669.256978,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -200,8 +200,8 @@
   {
    "question": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
    "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
-   "yes": 0.685,
-   "no": 0.315,
+   "yes": 0.69,
+   "no": 0.31,
    "volumen": 98427.30661799999,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -222,7 +222,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445129,
+   "volumen": 9992.445129000002,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -250,8 +250,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9825,
-   "no": 0.0175,
+   "yes": 0.982,
+   "no": 0.018,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
@@ -278,21 +278,11 @@
    "question_es": "¿Será la temperatura más alta en Los Ángeles entre 84-85°F el 24 de agosto?"
   },
   {
-   "question": "LoL: WLGaming Esports vs The ParadOx Invaders (BO3) - HLL Playoffs",
-   "slug": "lol-wlg-tpx1-2026-08-25",
-   "yes": 0.855,
-   "no": 0.145,
-   "volumen": 9955.241491000002,
-   "spread": 0.0,
-   "categoria": "Deportes",
-   "question_es": "LoL: WLGaming Esports vs The ParadOx Invaders (BO3) - Playoffs de HLL"
-  },
-  {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
    "yes": 0.003,
    "no": 0.997,
-   "volumen": 9947.699383,
+   "volumen": 9947.699383000001,
    "spread": 0.0,
    "categoria": "Tecnología",
    "question_es": "¿Tendrá Alibaba el mejor modelo de IA matemática a finales de agosto de 2026?"
@@ -306,6 +296,16 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Patrus Ananias las elecciones para gobernador de Minas Gerais en 2026?"
+  },
+  {
+   "question": "Will the US federal government take a stake in The Boeing Company?",
+   "slug": "will-the-us-federal-government-take-a-stake-in-the-boeing-company",
+   "yes": 0.065,
+   "no": 0.935,
+   "volumen": 9944.236178000001,
+   "spread": 0.0,
+   "categoria": "Política",
+   "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
   }
  ],
  "historico": {
