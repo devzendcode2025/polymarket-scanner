@@ -1,47 +1,18 @@
 {
- "ts": 1787623866,
- "stamp": "20260825_021106",
+ "ts": 1787624527,
+ "stamp": "20260825_022207",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
  "ballenas_scan": [],
- "edges": [
-  {
-   "tipo": "edge",
-   "question": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
-   "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "url": "https://polymarket.com/market/will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-3-6",
-   "prob_poly": 5.5,
-   "consenso": 14.0,
-   "edge": 8.5,
-   "direccion": "Polymarket BARATO (comprar Sí)",
-   "fuentes": [
-    {
-     "fuente": "PredictIt",
-     "titulo": "New Hampshire",
-     "prob": 14.000000000000002,
-     "url": "https://www.predictit.org/markets/detail/8939",
-     "titulo_es": "Nuevo Hampshire"
-    }
-   ],
-   "n_fuentes": 1,
-   "categoria": "Política",
-   "prob": 65,
-   "confianza": "media",
-   "horizonte": "1sem",
-   "fuentes_nombres": "PredictIt",
-   "razon": "Polymarket paga este mercado a 5.5% y el consenso de 1 fuente(s) externa(s) (PredictIt) lo paga a 14.0%: diferencia de 8.5 puntos. Cuando el mercado externo está más informado, el precio de Polymarket suele converger hacia el consenso. Polymarket BARATO (comprar Sí).",
-   "question_es": "¿Ganará el candidato del Partido Demócrata las elecciones para gobernador de Nuevo Hampshire en 2026 por un margen del 3%-6%?",
-   "narrativa": "El mercado de Polymarket valora en 5.5% la probabilidad de que el demócrata gane la gobernación de Nuevo Hampshire por un margen del 3%-6%, mientras que el consenso externo de PredictIt se sitúa en 14.0%. Esa brecha de 8.5 puntos porcentuales representa un edge favorable de 2.2x sobre el precio implícito actual, lo que sugiere que el mercado está infravalorando la probabilidad real de ese rango de margen. La compra de 'Sí' a 5.5 centavos ofrece un potencial de retorno de 18.2x si el evento se materializa, con un riesgo acotado a la prima pagada. Riesgo: el consenso externo puede estar desactualizado o reflejar una muestra menos líquida."
-  }
- ],
+ "edges": [],
  "top_volumen": [
   {
    "question": "Clarity Act (H.R.3633) signed into law in 2026?",
    "slug": "clarity-act-signed-into-law-in-2026",
    "yes": 0.185,
    "no": 0.815,
-   "volumen": 9962902.524241997,
+   "volumen": 9973513.447398,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Ley de Claridad (H.R.3633) firmada como ley en 2026?"
@@ -51,7 +22,7 @@
    "slug": "will-donald-trump-win-the-2028-us-presidential-election",
    "yes": 0.0235,
    "no": 0.9765,
-   "volumen": 9923680.153660001,
+   "volumen": 9923680.153660005,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganará Donald Trump las Elecciones Presidenciales de EE. UU. de 2028?"
@@ -69,9 +40,9 @@
   {
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes": 0.0075,
-   "no": 0.9925,
-   "volumen": 986923.0697689999,
+   "yes": 0.0055,
+   "no": 0.9945,
+   "volumen": 986923.0697690008,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Caerá Bitcoin a $62,500 en agosto?"
@@ -81,10 +52,20 @@
    "slug": "will-the-washington-commanders-win-the-2027-nfl-league-championship",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 986453.2740609999,
+   "volumen": 986453.274061,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganarán los Washington Commanders el campeonato de la NFL en 2027?"
+  },
+  {
+   "question": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+   "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
+   "yes": 0.0065,
+   "no": 0.9935,
+   "volumen": 983750.9955090001,
+   "spread": 0.0,
+   "categoria": "Deportes",
+   "question_es": "¿Ganarán los Arizona Cardinals el Campeonato de la NFC de la NFL 2027?"
   },
   {
    "question": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
@@ -141,7 +122,7 @@
    "slug": "will-xrp-reach-2-in-august-2026",
    "yes": 0.08,
    "no": 0.92,
-   "volumen": 99061.14896599998,
+   "volumen": 99061.14896600001,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará XRP los $2.00 en agosto?"
@@ -151,7 +132,7 @@
    "slug": "will-ethereum-hit-1k-or-3k-first",
    "yes": 0.28,
    "no": 0.72,
-   "volumen": 98936.43058300001,
+   "volumen": 98936.430583,
    "spread": 0.0,
    "categoria": "Cripto",
    "question_es": "¿Alcanzará Ethereum los $1,000 o los $3,000 primero?"
@@ -161,7 +142,7 @@
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
    "yes": 0.0105,
    "no": 0.9895,
-   "volumen": 98669.256978,
+   "volumen": 98669.25697799999,
    "spread": 0.0,
    "categoria": "Deportes",
    "question_es": "¿Ganará Min Woo Lee el TOUR Championship 2026?"
@@ -189,8 +170,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2085,
-   "no": 0.7915,
+   "yes": 0.208,
+   "no": 0.792,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -201,7 +182,7 @@
    "slug": "will-the-republicans-win-the-south-carolina-governor-race-in-2026",
    "yes": 0.935,
    "no": 0.065,
-   "volumen": 9992.445128999998,
+   "volumen": 9992.445128999996,
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Ganarán los republicanos la carrera por la gobernación de Carolina del Sur en 2026?"
@@ -229,8 +210,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.9825,
-   "no": 0.0175,
+   "yes": 0.9815,
+   "no": 0.0185,
    "volumen": 9982.176088999999,
    "spread": 0.0,
    "categoria": "Política",
@@ -251,7 +232,7 @@
    "slug": "will-russia-enter-moskovka-by-august-31",
    "yes": 0.06,
    "no": 0.94,
-   "volumen": 9962.566179000001,
+   "volumen": 9963.986179000001,
    "spread": 0.0,
    "categoria": "Otros",
    "question_es": "¿Entrará Rusia en Moskovka antes del 31 de agosto?"
@@ -259,8 +240,8 @@
   {
    "question": "Will Alibaba have the best Math AI model at the end of August 2026?",
    "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
-   "yes": 0.0025,
-   "no": 0.9975,
+   "yes": 0.003,
+   "no": 0.997,
    "volumen": 9947.699383000001,
    "spread": 0.0,
    "categoria": "Tecnología",
@@ -275,20 +256,10 @@
    "spread": 0.0,
    "categoria": "Política",
    "question_es": "¿Tomará el gobierno federal de EE. UU. una participación en The Boeing Company?"
-  },
-  {
-   "question": "Will Jeff Weninger win the 2026 Chandler mayoral election?",
-   "slug": "will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429",
-   "yes": 0.0015,
-   "no": 0.9985,
-   "volumen": 9943.775679000002,
-   "spread": 0.0,
-   "categoria": "Política",
-   "question_es": "¿Ganará Jeff Weninger la elección municipal de Chandler en 2026?"
   }
  ],
  "historico": {
-  "ts": 1787622336,
+  "ts": 1787624190,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
