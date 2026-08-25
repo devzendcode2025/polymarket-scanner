@@ -1,6 +1,6 @@
 {
- "ts": 1787648112,
- "stamp": "20260825_085512",
+ "ts": 1787648472,
+ "stamp": "20260825_090112",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
@@ -139,8 +139,8 @@
   {
    "question": "Will Loopscale launch a token by December 31, 2026?",
    "slug": "will-loopscale-launch-a-token-by-december-31-2026",
-   "yes": 0.14,
-   "no": 0.86,
+   "yes": 0.145,
+   "no": 0.855,
    "volumen": 99063.703419,
    "spread": 0.0,
    "categoria": "Cripto",
@@ -169,8 +169,8 @@
   {
    "question": "Will Min Woo Lee win the 2026 TOUR Championship?",
    "slug": "will-min-woo-lee-win-the-2026-tour-championship-517",
-   "yes": 0.01,
-   "no": 0.99,
+   "yes": 0.0105,
+   "no": 0.9895,
    "volumen": 98669.25697799999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -219,8 +219,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.2115,
-   "no": 0.7885,
+   "yes": 0.2105,
+   "no": 0.7895,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
@@ -239,8 +239,8 @@
   {
    "question": "Will the highest temperature in London be 21°C on August 25?",
    "slug": "highest-temperature-in-london-on-august-25-2026-21c",
-   "yes": 0.0035,
-   "no": 0.9965,
+   "yes": 0.0025,
+   "no": 0.9975,
    "volumen": 9992.172146000003,
    "spread": 0.0,
    "categoria": "Otros",
@@ -269,8 +269,8 @@
   {
    "question": "Will Donald Trump visit Ireland in 2026?",
    "slug": "will-donald-trump-visit-ireland-in-2026",
-   "yes": 0.982,
-   "no": 0.018,
+   "yes": 0.9815,
+   "no": 0.0185,
    "volumen": 9982.176089,
    "spread": 0.0,
    "categoria": "Política",
@@ -288,7 +288,7 @@
   }
  ],
  "historico": {
-  "ts": 1787646449,
+  "ts": 1787648311,
   "total": 0,
   "aciertos": 0,
   "pct": 0.0,
