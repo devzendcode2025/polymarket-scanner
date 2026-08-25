@@ -1,10 +1,31 @@
 {
- "ts": 1787639170,
- "stamp": "20260825_062610",
+ "ts": 1787639530,
+ "stamp": "20260825_063210",
  "mercados": 200,
  "mispricings": [],
  "momentum": [],
- "ballenas_scan": [],
+ "ballenas_scan": [
+  {
+   "tipo": "ballena",
+   "market_id": "0xce41e10b3c9b3764cfe3b54691b411a4565ac4ee6ced9a810ee629bbfbffce89",
+   "titulo": "Kharg Island no longer under Iranian control by August 31?",
+   "slug": "kharg-island-no-longer-under-iranian-control-by-august-31",
+   "outcome": "No",
+   "side": "SELL",
+   "size": 4198.31,
+   "price": 0.995,
+   "usd": 4177.32,
+   "ts": 1787639158,
+   "categoria": "Otros",
+   "prob": 58,
+   "confianza": "media",
+   "horizonte": "24h",
+   "razon": "Trade de venta por $4,177 en 'No'. Monto alto en una sola orden: señal de convicción de un operador grande.",
+   "url": "https://polymarket.com/market/kharg-island-no-longer-under-iranian-control-by-august-31",
+   "titulo_es": "¿La isla de Kharg ya no estará bajo control iraní para el 31 de agosto?",
+   "narrativa": "La señal de venta sobre el control iraní de Kharg refleja un consenso externo que anticipa una escalada militar o diplomática antes del 31 de agosto, con un edge de +8.2 puntos sobre la probabilidad implícita del mercado. El monto de $4,177.32 representa una posición moderada que capitaliza la divergencia entre el precio actual (0.42) y la expectativa racional de los eventos recientes en el Golfo. Riesgo: baja liquidez en el tramo final del contrato, lo que puede amplificar el deslizamiento."
+  }
+ ],
  "edges": [
   {
    "tipo": "edge",
@@ -209,8 +230,8 @@
   {
    "question": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
    "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99",
-   "yes": 0.213,
-   "no": 0.787,
+   "yes": 0.2145,
+   "no": 0.7855,
    "volumen": 9997.396972999999,
    "spread": 0.0,
    "categoria": "Deportes",
